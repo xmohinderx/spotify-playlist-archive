@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,556 likes - 98 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,573 likes - 102 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,26 +85,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 75 | [Get By](https://open.spotify.com/track/1EJh8OljwnAkky8n2eqVnN) | [Manchester Lock](https://open.spotify.com/artist/5MtAUCEKXc1pUn2mcieuDG) | [Get By](https://open.spotify.com/album/22lgRuNopsEIllTdgQ5vRN) | 3:22 |
 | 76 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 |
 | 77 | [Toyz](https://open.spotify.com/track/4Tx3rNMbcQABQzEnfc4lpF) | [PeeWee Cash](https://open.spotify.com/artist/0w7aB02RXntGs6Gng4IfIn) | [Toyz](https://open.spotify.com/album/0dlp73C5zJvWig7sYMMnV0) | 2:39 |
-| 78 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 |
-| 79 | [Worthless](https://open.spotify.com/track/73xT58rBWebbb0nkQcfofJ) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Push Me](https://open.spotify.com/album/6wvjdX2nAXs5creXgJoLM7) | 1:48 |
-| 80 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 |
-| 81 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 |
-| 82 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 |
-| 83 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 |
-| 84 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 |
-| 85 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 |
-| 86 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 |
-| 87 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
-| 88 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 |
-| 89 | [a warm breeze](https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [ode to summer](https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM) | 2:07 |
-| 90 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 |
-| 91 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
-| 92 | [FREEDOM](https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [FREEDOM](https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn) | 2:32 |
-| 93 | [Why not](https://open.spotify.com/track/26L3JrgqwhpEYS3PYZBEjw) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Why not](https://open.spotify.com/album/5j19PHYXoycyjhMWLzeSoI) | 2:03 |
-| 94 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 |
-| 95 | [Equinox](https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 3:02 |
-| 96 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 |
-| 97 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 |
-| 98 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
+| 78 | [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 |
+| 79 | [Serendipity](https://open.spotify.com/track/570mOFP7nwkJHEKuKoK0Gr) | [Ana's Dreams](https://open.spotify.com/artist/1GlVKWlsgnWjGGoSIzZhYe), [Amelia Clouds](https://open.spotify.com/artist/5nAP2r3JeLvqP3Fp5xNcw0) | [Indieana, Vol\. 3](https://open.spotify.com/album/2DwxZgvGGvdOzh1ywCxZcA) | 0:58 |
+| 80 | [Green Valley](https://open.spotify.com/track/5kLVuHY6PpBkIyDc362quI) | [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU), [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Beats To Skate To, Vol.1](https://open.spotify.com/album/1n46VLE2E2BlcudV9198Lh) | 1:40 |
+| 81 | [Gazebo](https://open.spotify.com/track/0XHENvoGfBGRYXhJJoQwtH) | [Midheavy](https://open.spotify.com/artist/09MBWHLepyOZYZFq3jk4G1) | [Kindthought](https://open.spotify.com/album/1slEvKRnMmVBqW54qBEHIl) | 2:51 |
+| 82 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 |
+| 83 | [Worthless](https://open.spotify.com/track/73xT58rBWebbb0nkQcfofJ) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Push Me](https://open.spotify.com/album/6wvjdX2nAXs5creXgJoLM7) | 1:48 |
+| 84 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 |
+| 85 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 |
+| 86 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 |
+| 87 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 |
+| 88 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 |
+| 89 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 |
+| 90 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 |
+| 91 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
+| 92 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 |
+| 93 | [a warm breeze](https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [ode to summer](https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM) | 2:07 |
+| 94 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 |
+| 95 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
+| 96 | [FREEDOM](https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [FREEDOM](https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn) | 2:32 |
+| 97 | [Why not](https://open.spotify.com/track/26L3JrgqwhpEYS3PYZBEjw) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Why not](https://open.spotify.com/album/5j19PHYXoycyjhMWLzeSoI) | 2:03 |
+| 98 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 |
+| 99 | [Equinox](https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 3:02 |
+| 100 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 |
+| 101 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 |
+| 102 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 
-Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDAxMjAwMDAwMTgxMjZkYzk4YjAwMDAwMDE3OWMyN2Y0MjQw`
+Snapshot ID: `MTY1NDgxOTIwMCwwMDAwMDAxMzAwMDAwMTgxNGFlOTFjODkwMDAwMDE3OWMyN2Y0MjQw`

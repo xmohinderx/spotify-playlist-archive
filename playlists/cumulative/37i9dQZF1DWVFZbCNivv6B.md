@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de MC Davo y Santa Fe Klan.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Lefty SM y C\-Kan.
 
-159 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+160 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-04-22 |  |
 | [Pa Mis Enemigos](https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Pa Mis Enemigos](https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ) | 3:06 | 2022-03-25 |  |
 | [Pal Negocio](https://open.spotify.com/track/0ef6A5rkEKvTXUNb2OmgpP) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Pal Negocio](https://open.spotify.com/album/6n3hOlBUiiYmRK85uR43Ij) | 3:36 | 2022-04-24 |  |
+| [Par de Dosis](https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Par de Dosis](https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2) | 3:51 | 2022-06-09 |  |
 | [Pecadores](https://open.spotify.com/track/4cFYUfJV8SWacdsQaxhrTo) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Pecadores](https://open.spotify.com/album/5UnW6smJoYGhvdQfayuF6t) | 3:55 | 2022-04-22 |  |
 | [Peligro a la Redonda](https://open.spotify.com/track/6bQGXITO7qz0yuXSF4eGKX) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Peligro a la Redonda](https://open.spotify.com/album/6djC4TxnIgtTrLv6OiKQdj) | 2:50 | 2022-01-28 |  |
 | [Perro Solitario](https://open.spotify.com/track/6bLgUetWwTnFniNOjKCks5) | [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Perro Solitario](https://open.spotify.com/album/3xsYDHWlBi4XUvlR7Nfwjo) | 3:46 | 2022-01-28 | 2022-04-21 |

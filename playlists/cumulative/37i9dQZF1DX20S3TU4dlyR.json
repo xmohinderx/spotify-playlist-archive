@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 254085,
       "name": "Aroma de Caf\u00e9",
       "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 221912,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 202586,
       "name": "Donde Vive un Sentimiento",
       "url": "https://open.spotify.com/track/4dshlztOA9h20deNbzMvvY"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 247785,
       "name": "Flaca huella",
       "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
@@ -1062,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "If only they know",
+        "url": "https://open.spotify.com/album/1CseeGug2MPdx9uVydvs16"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "If only they know",
+      "url": "https://open.spotify.com/track/7ulWnQhdPJL8hNOAToQyFF"
+    },
+    {
+      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
@@ -1095,6 +1113,28 @@
       "duration_ms": 235120,
       "name": "Jamaica Reggae (En Vivo)",
       "url": "https://open.spotify.com/track/6D3MOX8hJfilSYUpLzvCBg"
+    },
+    {
+      "album": {
+        "name": "Kingston Town",
+        "url": "https://open.spotify.com/album/4opQuQWOkTHymO6gsIhAHN"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Winston Francis",
+          "url": "https://open.spotify.com/artist/69jzR5ruwfoZOnevlFf4DW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/1GZSTnbajPTV2m4KJMusQM"
     },
     {
       "album": {
@@ -1189,7 +1229,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 214154,
       "name": "La Huida",
       "url": "https://open.spotify.com/track/52Php2aMXTxfMaMmJSMQSa"
@@ -1229,7 +1269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 349280,
       "name": "La Pipa",
       "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
@@ -1265,7 +1305,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 232342,
       "name": "Laba Laba Craven",
       "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
@@ -1341,7 +1381,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 202680,
       "name": "Lo De Siempre",
       "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
@@ -1377,7 +1417,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
@@ -1395,7 +1435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 251040,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa"
@@ -1431,7 +1471,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 198946,
       "name": "Meu Reggae \u00e9 Roots - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN"
@@ -1489,7 +1529,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 376800,
       "name": "Misterio",
       "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
@@ -1529,7 +1569,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4"
@@ -1757,7 +1797,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 255651,
       "name": "Por Amor : Florencia Andrada Meets Kingston Factory",
       "url": "https://open.spotify.com/track/3eoMgT4LrNBOt5WsKaG4rX"
@@ -2015,7 +2055,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219061,
       "name": "Runnin' out of Fools",
       "url": "https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG"
@@ -2033,7 +2073,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 280468,
       "name": "Se\u00f1orita - Remastered",
       "url": "https://open.spotify.com/track/72YhqbNKWrfl5hZUWO6Ffe"
@@ -2069,7 +2109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
@@ -2087,7 +2127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
@@ -2141,7 +2181,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205113,
       "name": "Slogan",
       "url": "https://open.spotify.com/track/4E5D8hsCn2PXgSsLuOoBiE"
@@ -2207,7 +2247,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 233467,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/5dPfAVG0W9klx9k0AnRFrT"
@@ -2283,7 +2323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 435040,
       "name": "The Chicken",
       "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
@@ -2355,7 +2395,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 291920,
       "name": "Todo Tiene Su Tiempo",
       "url": "https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs"
@@ -2525,7 +2565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 258687,
       "name": "Vendedores da F\u00e9",
       "url": "https://open.spotify.com/track/0WtKKoo9qwV1Q2z8THLGRd"
@@ -2579,7 +2619,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
@@ -2689,7 +2729,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
@@ -2711,7 +2751,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 211748,
       "name": "We Are The Lions - Spanish Version",
       "url": "https://open.spotify.com/track/0CBqh4H4lijAh735YZSLrs"

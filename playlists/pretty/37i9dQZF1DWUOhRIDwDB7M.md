@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,138 likes - 232 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,131 likes - 232 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 52 | [Light Year](https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 3:54 |
 | 53 | [Blooming Spirit](https://open.spotify.com/track/6ZdTqZX9UhTcETYmheOUqX) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Blooming Soul](https://open.spotify.com/album/7t0TA2Vw7XwMg4nmHNLHnD) | 2:30 |
 | 54 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
-| 55 | [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 |
+| 55 | [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 |
 | 56 | [Comets](https://open.spotify.com/track/5tyzIyddsHJ4vdmjxg5zGm) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 3:42 |
 | 57 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 |
 | 58 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 |

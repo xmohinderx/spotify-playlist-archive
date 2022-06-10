@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Ektarfa",
+        "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230903,
+      "name": "Ektarfa",
+      "url": "https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4"
+    },
+    {
+      "album": {
         "name": "Filhaal2 Mohabbat",
         "url": "https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp"
       },
@@ -3801,7 +3819,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 230082,
       "name": "Taaron Ke Shehar",
       "url": "https://open.spotify.com/track/1r6sFC5J0p9r3jcfIoSGDM"

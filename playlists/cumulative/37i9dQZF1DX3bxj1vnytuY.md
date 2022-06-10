@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-95 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+97 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,9 @@
 | [Hamdouchia \- Yamil Remix](https://open.spotify.com/track/4ZnXnJBnVPEStdMzLTEnfM) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Hamdouchia \(Yamil Remix\)](https://open.spotify.com/album/51oPEqh2uOoTNxh7aEO56r) | 6:31 | 2022-04-13 |  |
 | [How long](https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [I AM JAS](https://open.spotify.com/artist/1tWUf08fZUPQYWI5bfPMTM) | [How long](https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr) | 6:44 | 2022-04-13 |  |
 | [Hwel El Wed](https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6) | [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sunset Camel Ride](https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX) | 5:55 | 2022-04-13 |  |
+| [Imagine \- Abel Ray Remix](https://open.spotify.com/track/0mWWFK0slXWNKYdWmkMbDD) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Buddy System Remixed](https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2) | 7:02 | 2022-06-09 |  |
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
+| [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 |  |
 | [Kibo \- Mr ID Remix](https://open.spotify.com/track/0ZHX59bDXNHNEQucqqLV2e) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Kibo \(Mr ID Remix\)](https://open.spotify.com/album/0OblJgGu3q3w6wZZgyuQQX) | 6:41 | 2022-05-26 |  |

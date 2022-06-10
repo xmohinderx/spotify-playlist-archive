@@ -1,15 +1,39 @@
 {
-  "description": "Napoli e il meglio della scena campana. Cover: Vettosi, Night Skinny",
-  "num_followers": 131454,
+  "description": "Napoli e il meglio della scena campana. Cover: Peppe Soks, Enzo Dong",
+  "num_followers": 131474,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDU5OTM3NiwwMDAwMDE2ZjAwMDAwMTgxM2RjZWUwMzUwMDAwMDE4MTE1MGI5MmYx",
+  "snapshot_id": "MTY1NDgxMjA2MCwwMDAwMDE3MDAwMDAwMTgxNGE3YzJhMDQwMDAwMDE4MTQzMjdlMzZm",
   "tracks": [
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "Sul'A Mia (feat. Enzo Dong)",
+        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Sul'A Mia (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -25,87 +49,7 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "AMBIZIONE",
-        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
-      },
-      "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 163749,
-      "name": "Jump (feat. Lazza)",
-      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Comandamento (feat. Geolier)",
-      "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 165721,
-      "name": "Password",
-      "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "CAGN MARCIA",
-        "url": "https://open.spotify.com/album/6UUanP6HccbSotdKp4IzZd"
-      },
-      "artists": [
-        {
-          "name": "Vettosi",
-          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 144631,
-      "name": "CAGN MARCIA",
-      "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -137,7 +81,67 @@
       "url": "https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Comandamento (feat. Geolier)",
+      "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 163749,
+      "name": "Jump (feat. Lazza)",
+      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -157,31 +161,7 @@
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "Sul'A Mia (feat. Enzo Dong)",
-        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Sul'A Mia (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "OMBRELLO",
         "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
@@ -197,7 +177,27 @@
       "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "CAGN MARCIA",
+        "url": "https://open.spotify.com/album/6UUanP6HccbSotdKp4IzZd"
+      },
+      "artists": [
+        {
+          "name": "Vettosi",
+          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "CAGN MARCIA",
+      "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1ma63HYdwGlXmVhrQdgnTW"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Parln e me",
         "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
@@ -309,7 +309,23 @@
       "url": "https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/0KoBFeJ2R330pyRn1DuXde"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "AMMOR MIJ",
         "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
@@ -441,23 +457,7 @@
       "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "Amiezavj",
-        "url": "https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x"
-      },
-      "artists": [
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Amiezavj",
-      "url": "https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -501,7 +501,27 @@
       "url": "https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "Guagliune Sfurtunate",
+        "url": "https://open.spotify.com/album/3AHdYfmkiSccGFZKhWFgCt"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        },
+        {
+          "name": "Re Cluso",
+          "url": "https://open.spotify.com/artist/4BS2z9lqyv4zJ64FEbn8mA"
+        }
+      ],
+      "duration_ms": 174008,
+      "name": "Guagliune Sfurtunate",
+      "url": "https://open.spotify.com/track/3tzNF9kVhgxXk1FfwSQUWF"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Vado Fuori",
         "url": "https://open.spotify.com/album/4OaeZ07Z64dd2sijgj5jvM"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "DIOSA (feat. Peppe Soks) [Remix]",
         "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
@@ -589,7 +609,27 @@
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
+      "album": {
+        "name": "SUL IJ E TE",
+        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
+      },
+      "artists": [
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "duration_ms": 136721,
+      "name": "SUL IJ E TE",
+      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
+    },
+    {
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Doje Vote",
         "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"
@@ -645,7 +685,7 @@
       "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Vir' Napl",
         "url": "https://open.spotify.com/album/0x6LcJ8VJaEorHhrl3keu7"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/1UYR5OlOapoY15Ab1P4LLD"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Tetti (feat. Yung Snapp)",
         "url": "https://open.spotify.com/album/6qlwBaYchelwWoYPJkuQ0B"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "RFTS 3: Transalp (Freestyle)",
         "url": "https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "MIRANAPOLI !",
         "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
@@ -797,7 +837,7 @@
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
@@ -825,7 +865,7 @@
       "url": "https://open.spotify.com/track/0azAYaqLS3VSN6KCvsdIfc"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Aggio Perzo 'o Suonno (feat. Coez, prod. TY1)",
         "url": "https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY"
@@ -849,7 +889,7 @@
       "url": "https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -877,47 +917,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "P Colpa Toij",
-        "url": "https://open.spotify.com/album/2CNmCzSX0Q4s2lKwg8XF9i"
-      },
-      "artists": [
-        {
-          "name": "Bapevens",
-          "url": "https://open.spotify.com/artist/6JqHvyMB6iSIaHkXbJ3KFB"
-        },
-        {
-          "name": "Eris Gacha",
-          "url": "https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "P Colpa Toij",
-      "url": "https://open.spotify.com/track/6iVr94oAKISRoqfLPuUiGr"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
-      "album": {
-        "name": "Homies",
-        "url": "https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0"
-      },
-      "artists": [
-        {
-          "name": "Cecchy",
-          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
-        },
-        {
-          "name": "LilTony",
-          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
-        }
-      ],
-      "duration_ms": 124638,
-      "name": "Homies",
-      "url": "https://open.spotify.com/track/2nCS30N4UJk9zF4FVcJGPV"
-    },
-    {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "TIK TOK",
         "url": "https://open.spotify.com/album/3HzyU4PxIww2bPHiqnGblG"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2rxzfBscfDgh4Uzl6vifIr"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Ammor Malat",
         "url": "https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew"
     },
     {
-      "added_at": "2022-06-07 10:56:16",
+      "added_at": "2022-06-09 22:01:00",
       "album": {
         "name": "Penzier",
         "url": "https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG"

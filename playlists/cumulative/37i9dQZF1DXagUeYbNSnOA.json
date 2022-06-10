@@ -3762,6 +3762,28 @@
     },
     {
       "album": {
+        "name": "Pendeja",
+        "url": "https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Juano Loyola",
+          "url": "https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172248,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa"
+    },
+    {
+      "album": {
         "name": "Handy",
         "url": "https://open.spotify.com/album/6OtScsPNzW8YdNMDDMcJJt"
       },

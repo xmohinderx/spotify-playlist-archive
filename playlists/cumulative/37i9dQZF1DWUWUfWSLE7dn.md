@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-79 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+82 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Moon Runes \- Extended Version](https://open.spotify.com/track/0EUpzQP8Ni647J0hPXAclB) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5) | 3:39 | 2022-03-09 |  |
 | [Moonlight Prayer \- Piano & Strings](https://open.spotify.com/track/1CqSw1Rynu35M4EhqCh4xE) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Moonlight Prayer](https://open.spotify.com/album/2xZAp8HYapMLx6HtA2i31r) | 3:03 | 2022-05-20 |  |
 | [My Head In The Clouds](https://open.spotify.com/track/11dmZhwlQtVxuIN6qp0i7G) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:30 | 2022-05-27 |  |
+| [My Initial Intentions](https://open.spotify.com/track/21sQUGmVeEqhvjEBlxARFO) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [My Initial Intentions](https://open.spotify.com/album/06l5nJqJWDtM7WvMgOhigS) | 5:12 | 2022-06-10 |  |
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 |  |
 | [Now Is The Time To Leave](https://open.spotify.com/track/2RbeJPjEW9kcoFVmiQabnU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:08 | 2022-03-09 |  |
 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 | 2022-06-03 |  |
@@ -62,11 +63,13 @@
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-03-09 |  |
 | [Première Lumière](https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Première Lumière](https://open.spotify.com/album/637ZAa38xb2KJ4oWPy4goX) | 2:38 | 2022-03-09 |  |
 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 | 2022-03-09 |  |
+| [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 | 2022-06-10 |  |
 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 | 2022-03-09 |  |
 | [Sherwood Forest](https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q5SwPqfjjPk9ol0tFjElq) | 2:19 | 2022-03-09 |  |
 | [shimmer](https://open.spotify.com/track/5HEFeQwfpoXRQ6qWgCiBe7) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:18 | 2022-03-09 |  |
 | [Sinfonia in B Minor](https://open.spotify.com/track/22Et1UbszIpkpzm1he39Sr) | [Tegelhof Kammerorchester](https://open.spotify.com/artist/4LDRtSFYN5nWkF52Wk5Bx7) | [Prelude and Sinfonia](https://open.spotify.com/album/7t6wKQwzM8DFIpieNeiuIT) | 2:37 | 2022-03-09 |  |
 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 | 2022-03-09 |  |
+| [Snow Scene](https://open.spotify.com/track/6tlqa8M2qLusIX5eSG1fJQ) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Snow Scene](https://open.spotify.com/album/745UVNtTG3NGjMV85zFIld) | 3:01 | 2022-06-10 |  |
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 |  |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-03-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Jungle",
+  "description": "The home for alternative electronic music. Cover: niina",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 268866,
       "name": "Acid in My Blood",
       "url": "https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX"
@@ -553,6 +553,28 @@
       "duration_ms": 219266,
       "name": "anybody else but u",
       "url": "https://open.spotify.com/track/1nGjkxMWBfQCQXN1qFOkas"
+    },
+    {
+      "album": {
+        "name": "Apricity (feat. jules)",
+        "url": "https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU"
+      },
+      "artists": [
+        {
+          "name": "Morgan Hislop",
+          "url": "https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC"
+        },
+        {
+          "name": "jules",
+          "url": "https://open.spotify.com/artist/4tCgNfO9mxqSrSPUWBDrGP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216394,
+      "name": "Apricity (feat. jules)",
+      "url": "https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL"
     },
     {
       "album": {
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 208760,
       "name": "Can't Stop Thinking About",
       "url": "https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn"
@@ -1304,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224874,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
+    },
+    {
+      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -1431,6 +1471,28 @@
       "duration_ms": 284718,
       "name": "Distorted Youth",
       "url": "https://open.spotify.com/track/3DhGxSaArP9Kf57DwcwMPQ"
+    },
+    {
+      "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     },
     {
       "album": {
@@ -1760,6 +1822,42 @@
     },
     {
       "album": {
+        "name": "100 dollar bill",
+        "url": "https://open.spotify.com/album/1qynLst7OhBvksTgLTJZiw"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "everything's gunna be alright, niina said so",
+      "url": "https://open.spotify.com/track/2rgN4YlCsfujwfmcL2UA12"
+    },
+    {
+      "album": {
+        "name": "Warming Unit LP",
+        "url": "https://open.spotify.com/album/4t5GxMIFlutPJWB2YV7TQO"
+      },
+      "artists": [
+        {
+          "name": "David Kochs",
+          "url": "https://open.spotify.com/artist/59FBgWtPAe1RKnBbVOWEWP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Ex Voto",
+      "url": "https://open.spotify.com/track/4A6TC1uWovEvUhY61WuwhV"
+    },
+    {
+      "album": {
         "name": "Faisal (Envelops Me)",
         "url": "https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D"
       },
@@ -1775,6 +1873,28 @@
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
+    },
+    {
+      "album": {
+        "name": "Feel About You",
+        "url": "https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d"
+      },
+      "artists": [
+        {
+          "name": "Melle Brown",
+          "url": "https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e"
+        },
+        {
+          "name": "Annie Mac",
+          "url": "https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Feel About You - Edit",
+      "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
     },
     {
       "album": {
@@ -2310,6 +2430,28 @@
     },
     {
       "album": {
+        "name": "How It Makes You Feel",
+        "url": "https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526672,
+      "name": "How It Makes You Feel",
+      "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
+    },
+    {
+      "album": {
         "name": "Human Sound",
         "url": "https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6"
       },
@@ -2351,6 +2493,24 @@
       "duration_ms": 177786,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/192bA6Tgzd1e0FIaik5f2g"
+    },
+    {
+      "album": {
+        "name": "Num\u00e9ro LDN",
+        "url": "https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142763,
+      "name": "Hypnotize Me Baby",
+      "url": "https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg"
     },
     {
       "album": {
@@ -3333,7 +3493,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 246240,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh"
@@ -3689,7 +3849,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 341486,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/6eBdlW7BeegLo73ifH7X3D"
@@ -4135,6 +4295,28 @@
       "duration_ms": 227272,
       "name": "Rise - Radio Edit",
       "url": "https://open.spotify.com/track/5ZiMSOsGVYwBckIoEUYKOA"
+    },
+    {
+      "album": {
+        "name": "Romance With A Memory (Midland Remix)",
+        "url": "https://open.spotify.com/album/4r0WTlzydhpZUY9DENdbOd"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374094,
+      "name": "Romance With A Memory - Midland Remix",
+      "url": "https://open.spotify.com/track/7e7ORZcLDqbtPEt1ASgC1r"
     },
     {
       "album": {
@@ -4625,7 +4807,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
@@ -5190,6 +5372,24 @@
     },
     {
       "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/0OJEQmJJBPKNsWV50bOUF1"
+      },
+      "artists": [
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8"
+    },
+    {
+      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/6f8IGK0k5JTPGxFmSJy2X5"
       },
@@ -5227,6 +5427,24 @@
       "duration_ms": 223637,
       "name": "Understand (Feat. Brendan Yates)",
       "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
+    },
+    {
+      "album": {
+        "name": "Unit 18",
+        "url": "https://open.spotify.com/album/1uv2fpE0D6tI9hB7Uq0nJe"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251838,
+      "name": "Unit 18",
+      "url": "https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV"
     },
     {
       "album": {

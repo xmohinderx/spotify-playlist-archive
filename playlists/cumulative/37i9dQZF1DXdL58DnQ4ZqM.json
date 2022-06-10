@@ -1252,6 +1252,28 @@
     },
     {
       "album": {
+        "name": "Endless Ride",
+        "url": "https://open.spotify.com/album/35Ot96eQKx5omcBkLUw1Lx"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139113,
+      "name": "Endless Ride",
+      "url": "https://open.spotify.com/track/5UaRDNZRytOrwUpoC2PGnu"
+    },
+    {
+      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn"
       },

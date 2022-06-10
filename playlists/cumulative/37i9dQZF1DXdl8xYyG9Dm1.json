@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=C6nQ_9wUR7eMr7OkUxjt-A\"> BURUKLYN BOYZ </a> ",
+  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl?si=17D5os5nRTmcgz0TVmNZyQ\"> Falz </a> ",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "album": {
         "name": "ASTRONAUTE",
         "url": "https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT"
       },
@@ -285,7 +303,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 207065,
       "name": "ASTRONAUTE",
       "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
@@ -311,6 +329,28 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
+    },
+    {
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "album": {
@@ -377,6 +417,24 @@
       "duration_ms": 158139,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
+    },
+    {
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "album": {
@@ -489,7 +547,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 128780,
       "name": "Deposit",
       "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
@@ -661,7 +719,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 191360,
       "name": "Grandad",
       "url": "https://open.spotify.com/track/35Q5ldq74wOaAErCmL9OQZ"
@@ -1109,7 +1167,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 199171,
       "name": "Link Up",
       "url": "https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC"
@@ -1651,7 +1709,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 115685,
       "name": "Sistine Chapel",
       "url": "https://open.spotify.com/track/5wbu811arscgby6HcCDe5m"
@@ -1735,6 +1793,28 @@
       "duration_ms": 177710,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
+    },
+    {
+      "album": {
+        "name": "Strip Club / Over You",
+        "url": "https://open.spotify.com/album/3xmtrrprZW5gWE0vv4QUXu"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Strip Club",
+      "url": "https://open.spotify.com/track/6RoCWJW5MqFUiofRyWsbj9"
     },
     {
       "album": {
@@ -1903,7 +1983,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 271017,
       "name": "umoya",
       "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"

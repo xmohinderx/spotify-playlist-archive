@@ -2210,6 +2210,28 @@
     },
     {
       "album": {
+        "name": "Viva La Kid",
+        "url": "https://open.spotify.com/album/1TCcOWC8ztD7lsoh6jXgGu"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        },
+        {
+          "name": "TRAQULA",
+          "url": "https://open.spotify.com/artist/7ulnU80aA4UleNCZ95c4PE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164798,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6kenOvzeNY6GxXTWKic1wd"
+    },
+    {
+      "album": {
         "name": "Fuentes de Ortiz",
         "url": "https://open.spotify.com/album/7eIk5Q78FX956ysETI38RW"
       },
@@ -4081,7 +4103,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"

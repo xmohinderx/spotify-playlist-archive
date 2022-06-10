@@ -6,6 +6,50 @@
   "tracks": [
     {
       "album": {
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "...Hab' geh\u00f6rt...",
+      "url": "https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61"
+    },
+    {
+      "album": {
+        "name": "Advanced Chemistry",
+        "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253680,
+      "name": "Ahnma",
+      "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
       },
@@ -209,7 +253,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 322133,
       "name": "Da Draussen",
       "url": "https://open.spotify.com/track/02BwWUWmyuH1hrMBxJVHVp"
@@ -249,7 +293,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 251466,
       "name": "Die Da!?!",
       "url": "https://open.spotify.com/track/1bSYWaCau3CbOUdfkBagGO"
@@ -339,10 +383,50 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 224080,
       "name": "Endboss",
       "url": "https://open.spotify.com/track/2JGloz8S7kkUi57c892mnv"
+    },
+    {
+      "album": {
+        "name": "Fremd im eigenen Land",
+        "url": "https://open.spotify.com/album/1j3XedrfGcI0b6hzClxU6f"
+      },
+      "artists": [
+        {
+          "name": "Advanced Chemistry",
+          "url": "https://open.spotify.com/artist/1qE4nqPMyz1QWaeW7iO40f"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288946,
+      "name": "Fremd im eigenen Land",
+      "url": "https://open.spotify.com/track/4NUg69AakDv124Kc0RKLsv"
+    },
+    {
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "album": {
@@ -379,10 +463,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 260360,
       "name": "Geld essen (Ausgestopfte Rapper)",
       "url": "https://open.spotify.com/track/3XF0cYK2BONGGrPEYpE17B"
+    },
+    {
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     },
     {
       "album": {
@@ -397,7 +499,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 250680,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
@@ -539,7 +641,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
@@ -605,6 +707,32 @@
       "duration_ms": 215933,
       "name": "Mit freundlichen Gr\u00fc\u00dfen",
       "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        },
+        {
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
+        },
+        {
+          "name": "Cannibal Rob",
+          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323253,
+      "name": "Neuruppin",
+      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
     },
     {
       "album": {
@@ -888,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Dis Wo Ich Herkomm",
+        "url": "https://open.spotify.com/album/22rhzumalcslUugg4P8oBT"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Stumm (Xenja)",
+      "url": "https://open.spotify.com/track/2i7JKHuJsmbVIle3b7rxCx"
+    },
+    {
+      "album": {
         "name": "Viel - Jubil\u00e4ums-Edition",
         "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
       },
@@ -917,7 +1063,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 253760,
       "name": "Und was ist jetzt - Single Version",
       "url": "https://open.spotify.com/track/3GBYS5utUTjLGhmiTKKeam"

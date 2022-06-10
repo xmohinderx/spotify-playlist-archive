@@ -2,15 +2,16 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: RADAR 新勢力
+> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 吳霏 \(FEI\)
 
-160 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+162 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always](https://open.spotify.com/track/0j9jm06nXe2FNr5LLtiHG8) | [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Always](https://open.spotify.com/album/79HbRiQVUynY6wVnjDliCC) | 4:26 | 2022-04-21 | 2022-04-29 |
 | [Angel](https://open.spotify.com/track/5eockMzdIsGJcPUSLz4lDX) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Angel](https://open.spotify.com/album/5Z1XXzGLaMGkBVwG7AXCLB) | 3:34 | 2022-04-21 | 2022-05-13 |
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 |  |
+| [But I](https://open.spotify.com/track/3Feo7e3VZZFN3NPUTNtTlQ) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [But I](https://open.spotify.com/album/4VtzIGBheBtwxmeaB9cGa8) | 3:48 | 2022-06-09 |  |
 | [Can't Find](https://open.spotify.com/track/1ktK35q1xiDJ2Wb0OMNICY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/1ueX4F8QIbP5n19urjmYq1) | 4:19 | 2021-12-30 | 2022-03-25 |
 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 | 2021-12-30 | 2022-01-14 |
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2021-12-30 | 2022-03-25 |
@@ -28,6 +29,7 @@
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-02-17 | 2022-04-29 |
 | [Imma Get A New One](https://open.spotify.com/track/0WSTcd9inhbtHhV9vi1jDQ) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 4:33 | 2022-04-14 | 2022-04-22 |
 | [Interstate 5](https://open.spotify.com/track/0JmpWzfKEY3AszCbsoyx6x) | [Salty Ian](https://open.spotify.com/artist/606nTAxPsLROdPC6jQ2S4F), [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [Interstate 5](https://open.spotify.com/album/4ib0gW6YDznsEiQI537xgx) | 4:27 | 2022-04-07 | 2022-05-20 |
+| [jagi \(feat\. KIRE\)](https://open.spotify.com/track/487CwH00ao0LRep28i58sT) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [jagi \(feat\. KIRE\)](https://open.spotify.com/album/2yeqUCHCnv0IKsN5KXuGA6) | 3:40 | 2022-06-09 |  |
 | [Jess Cook](https://open.spotify.com/track/1n8d2aDyQQ8a0yZDNMyBlf) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [Outline, Vol\. 1](https://open.spotify.com/album/26nCyo7evubLNnPwXWCM3F) | 2:51 | 2021-12-30 | 2022-03-25 |
 | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/album/15g03MvPSXzmvra2cLxvgc) | 2:36 | 2021-12-30 |  |
 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 | 2022-04-21 |  |
@@ -47,7 +49,7 @@
 | [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:10 | 2022-01-13 |  |
 | [Strawberry](https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Strawberry](https://open.spotify.com/album/6Svok47SrVCMuGxIeV0m3M) | 2:33 | 2022-02-17 | 2022-04-22 |
 | [Summer Party](https://open.spotify.com/track/1jMfT6oXPPabXkhKPQVqen) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [Summer Party](https://open.spotify.com/album/5LOBB4evIAoG0mHfPSouKF) | 3:07 | 2021-12-30 | 2022-02-11 |
-| [Sun \(feat\. Shi Shi\)](https://open.spotify.com/track/0Is38YK2gJNfQ3r4mTgY12) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Sun \(feat\. Shi Shi\)](https://open.spotify.com/album/3y9XzHjspl492oZkK7syEs) | 2:57 | 2022-04-28 |  |
+| [Sun \(feat\. Shi Shi\)](https://open.spotify.com/track/0Is38YK2gJNfQ3r4mTgY12) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Sun \(feat\. Shi Shi\)](https://open.spotify.com/album/3y9XzHjspl492oZkK7syEs) | 2:57 | 2022-04-28 | 2022-06-10 |
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 | 2022-03-25 |
 | [Up In the Air](https://open.spotify.com/track/7eEpzdJJX8AE4Fweh9vx45) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Up In the Air](https://open.spotify.com/album/0wrRmU5Lrv1Zbzlt64qKxJ) | 2:29 | 2022-03-24 |  |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2021-12-30 | 2022-01-14 |
@@ -81,7 +83,7 @@
 | [卡住了](https://open.spotify.com/track/0QlFpakc8R9rWbVpJD8rj4) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [卡住了](https://open.spotify.com/album/1rsu3gm5X00NlUqaEBbZP7) | 2:59 | 2022-03-31 |  |
 | [厭世小姐](https://open.spotify.com/track/5GhKeEV32VP2P3b8ynR3pX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [厭世小姐](https://open.spotify.com/album/2u00VWRSdVfCFhzFtK09VH) | 3:23 | 2022-01-13 | 2022-03-25 |
 | [句号想念问号](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [句号想念问号](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-03-24 | 2022-04-29 |
-| [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-24 |  |
+| [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-24 | 2022-06-10 |
 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-01-13 |  |
 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 | 2021-12-30 |  |
 | [在打在](https://open.spotify.com/track/3Kl6J9XdFk0nWnHIaevtjw) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:20 | 2021-12-30 | 2022-04-22 |

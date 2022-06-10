@@ -1140,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/72IwoG8tqvIWV10IHjpNNA"
+    },
+    {
+      "album": {
         "name": "Dynamite (NightTime Version)",
         "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
       },

@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-177 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+179 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-05-20 |  |
 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 | 2022-05-20 |  |
+| [thoughtful](https://open.spotify.com/track/6UxJXmMIwCm8BhUxtlFCft) | [monolog](https://open.spotify.com/artist/6EPLnRqGeSBaydNgjC0Tom) | [thoughtful](https://open.spotify.com/album/6eF3xjASByX8RcuICSHQ55) | 2:18 | 2022-06-10 |  |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2022-05-20 |  |
 | [Thumbs Up](https://open.spotify.com/track/7vbSwdXKiVcbhgdhZ9r3O4) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Thumbs Up](https://open.spotify.com/album/4W2lomDjC0oZ9E5rY4acNK) | 2:04 | 2022-05-20 |  |
 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 | 2022-05-20 |  |
@@ -185,5 +186,6 @@
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |
 | [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 |  |
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 |  |
+| [You Mon Amour](https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [You Mon Amour](https://open.spotify.com/album/4B1d4WQrHthefUbWccsfz0) | 2:05 | 2022-06-10 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

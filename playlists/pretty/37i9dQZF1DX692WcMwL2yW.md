@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,546 likes - 134 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,566 likes - 138 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,21 +126,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 116 | [PTA](https://open.spotify.com/track/43xik565joqdebuxma8Jd9) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 5:47 |
 | 117 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
 | 118 | [Somehow](https://open.spotify.com/track/07eNGKDQ9eMuZETnO3B3IW) | [Xilo Xaxo](https://open.spotify.com/artist/2K4dC388oTw9qfuGhsK0ba) | [Old Life](https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X) | 4:29 |
-| 119 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 |
-| 120 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 |
-| 121 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 |
-| 122 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 |
-| 123 | [Dreams](https://open.spotify.com/track/5e2yEkftydth7yHMAtnIEY) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 1:58 |
-| 124 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 |
-| 125 | [LIFE](https://open.spotify.com/track/4OKOlIu7FBVBiNTZvY7iUw) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [LIFE](https://open.spotify.com/album/1ztZGfIIWVdbNkNRI9ao4O) | 1:44 |
-| 126 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 |
-| 127 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 |
-| 128 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 |
-| 129 | [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 |
-| 130 | [Brand New Eyes](https://open.spotify.com/track/3yx4s6obPco65jEydJYerj) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Brand New Eyes](https://open.spotify.com/album/6o05bYAYVgbHoGQk5paRVg) | 2:42 |
-| 131 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 |
-| 132 | [Reason \(Instrumental\)](https://open.spotify.com/track/3m9dTM1EGwaTMZlWz35IO4) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Reason \(Instrumental\)](https://open.spotify.com/album/79wdqvPlARnL1sXcEbnIHI) | 2:49 |
-| 133 | [Blink](https://open.spotify.com/track/6LzhfdIgfWDq5Y39ucEnOJ) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Blink](https://open.spotify.com/album/19F9vrQLCZJj7yp7hw2LAy) | 3:03 |
-| 134 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 |
+| 119 | [Step on Soil](https://open.spotify.com/track/3bhXsjM1vXQyEmePGDOSeT) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:45 |
+| 120 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
+| 121 | [Seoul Flower Market](https://open.spotify.com/track/1gWfvRd62abG1qVCk4p49k) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:20 |
+| 122 | [Wilhelm](https://open.spotify.com/track/4vQVNL13OHXdXSMtYSChcg) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Wilhelm](https://open.spotify.com/album/2KiHSDtLfCc0WJsISOF3Hd) | 3:01 |
+| 123 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 |
+| 124 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 |
+| 125 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 |
+| 126 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 |
+| 127 | [Dreams](https://open.spotify.com/track/5e2yEkftydth7yHMAtnIEY) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 1:58 |
+| 128 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 |
+| 129 | [LIFE](https://open.spotify.com/track/4OKOlIu7FBVBiNTZvY7iUw) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [LIFE](https://open.spotify.com/album/1ztZGfIIWVdbNkNRI9ao4O) | 1:44 |
+| 130 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 |
+| 131 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 |
+| 132 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 |
+| 133 | [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 |
+| 134 | [Brand New Eyes](https://open.spotify.com/track/3yx4s6obPco65jEydJYerj) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Brand New Eyes](https://open.spotify.com/album/6o05bYAYVgbHoGQk5paRVg) | 2:42 |
+| 135 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 |
+| 136 | [Reason \(Instrumental\)](https://open.spotify.com/track/3m9dTM1EGwaTMZlWz35IO4) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Reason \(Instrumental\)](https://open.spotify.com/album/79wdqvPlARnL1sXcEbnIHI) | 2:49 |
+| 137 | [Blink](https://open.spotify.com/track/6LzhfdIgfWDq5Y39ucEnOJ) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Blink](https://open.spotify.com/album/19F9vrQLCZJj7yp7hw2LAy) | 3:03 |
+| 138 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 |
 
-Snapshot ID: `MTY1MzYwOTYwMCwwMDAwMDAzZDAwMDAwMTgxMDJkMDE1NjQwMDAwMDE3MGFmNDBhM2M0`
+Snapshot ID: `MTY1NDgxOTIwMCwwMDAwMDAzZTAwMDAwMTgxNGFlOTFjODUwMDAwMDE3MGFmNDBhM2M0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Nikhita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,745 likes - 54 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,747 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 34 | [Naughty Balam](https://open.spotify.com/track/5T7NbWjbUyofEtGY3sL5eI) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Naughty Balam](https://open.spotify.com/album/62mNDTW4nOABU9cj27I6T7) | 2:29 |
 | 35 | [Baadal Barse](https://open.spotify.com/track/2zF7TcmeI5Gg4QjEImCnja) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Baadal Barse](https://open.spotify.com/album/6WVt7EB9a5EtT3knG8T3QU) | 4:09 |
 | 36 | [Itna Pyaar Karunga](https://open.spotify.com/track/6wTiTWnRFT1UeW5i1YPIl2) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Itna Pyaar Karunga](https://open.spotify.com/album/28yv7NXHBtQaesoud2b7Ua) | 4:16 |
-| 37 | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Deane Sequeira](https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC) | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c) | 2:48 |
+| 37 | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/track/3qgklso41KNlGppAwsJoLq) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Nikamma \(From "Nikamma"\)](https://open.spotify.com/album/2ryYKIFNRnysjT2YeeB50c) | 2:48 |
 | 38 | [Ishq](https://open.spotify.com/track/2ZAJXdd4kUIlaUwt3MqqPb) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ishq](https://open.spotify.com/album/19cz43J1njmG9BoA5AgfiM) | 3:43 |
 | 39 | [Udaa Gulaal Ishq Wala \- From "Janhit Mein Jaari"](https://open.spotify.com/track/7gjJZcAuEzBuLy79gI7USc) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Amit Gupta](https://open.spotify.com/artist/6XtaRFNn99x6GUHiu0q4k1) | [Udaa Gulaal Ishq Wala \(From "Janhit Mein Jaari"\)](https://open.spotify.com/album/3KQWzhGEXihQe2Kg0bPPNx) | 3:58 |
 | 40 | [Nakhrey Nakhrey](https://open.spotify.com/track/0ZB2hQm1OuWutJgxy20C6c) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Nakhrey Nakhrey](https://open.spotify.com/album/78oX0AAJnwFSOArUOUOixn) | 2:23 |

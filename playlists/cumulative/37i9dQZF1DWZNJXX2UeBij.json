@@ -328,6 +328,32 @@
     },
     {
       "album": {
+        "name": "Bas Ek Pal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4G3queIFPEE6oca32RkHdT"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Dominique Cerejo",
+          "url": "https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336005,
+      "name": "Bas Ek Pal",
+      "url": "https://open.spotify.com/track/13icuIP2UpyglYWzDqszuw"
+    },
+    {
+      "album": {
         "name": "The Train",
         "url": "https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP"
       },
@@ -383,7 +409,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 359906,
       "name": "Bheed Mein",
       "url": "https://open.spotify.com/track/5qihkhcLqQ7EqqyNKj7n0a"
@@ -591,7 +617,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 383066,
       "name": "Chand Sitare",
       "url": "https://open.spotify.com/track/4v0R1ielTVsWmn1mVb5j63"
@@ -677,7 +703,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 268712,
       "name": "Dard - E - Disco",
       "url": "https://open.spotify.com/track/2GTasAZimpxzNgE7aXFifI"
@@ -779,7 +805,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 392411,
       "name": "Dhadak Dhadak",
       "url": "https://open.spotify.com/track/6kOuIhlzgPlqlrWPudpSHL"
@@ -801,7 +827,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 248128,
       "name": "Dhol Yaara Dhol",
       "url": "https://open.spotify.com/track/4ViufFTGJb3TByFwUnOXhE"
@@ -859,7 +885,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 334162,
       "name": "Dil Ko Hazar Bar",
       "url": "https://open.spotify.com/track/1WnDMbh4JP7Dp12sy0fd3L"
@@ -1549,7 +1575,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 302400,
       "name": "Judai",
       "url": "https://open.spotify.com/track/7LGgRybx6vnACSRnYcGmMl"
@@ -1811,7 +1837,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 321240,
       "name": "Kal Ho Naa Ho",
       "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
@@ -1943,7 +1969,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 346200,
       "name": "Koi Kahe Kehta Rahe",
       "url": "https://open.spotify.com/track/5zKRKQwLVBT1WDJE7XJrnm"
@@ -2155,7 +2181,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 291920,
       "name": "Mann Ki Lagan",
       "url": "https://open.spotify.com/track/0s8fGVzyn6URNrUVwCE3dV"
@@ -2203,7 +2229,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 245099,
       "name": "Mauja Hi Mauja",
       "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
@@ -2373,7 +2399,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 351400,
       "name": "Mujhe Tumse Mohabbat Hai",
       "url": "https://open.spotify.com/track/0kfAR4X0jQfyXcUSieDmz7"
@@ -2407,7 +2433,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 323160,
       "name": "Na Tum Jano Na Hum",
       "url": "https://open.spotify.com/track/6CBcfzP7QDt5dLyUlKSKKk"
@@ -2515,7 +2541,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 187199,
       "name": "Nayan Tarse",
       "url": "https://open.spotify.com/track/3Ba743TbPb6CGdIIMJuFHj"
@@ -2585,7 +2611,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 328480,
       "name": "O Saathi Re (From \"Omkara\")",
       "url": "https://open.spotify.com/track/0pq7w4hvUYA2JtvipWvv0x"
@@ -2763,7 +2789,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 303306,
       "name": "Pyaar Ki Kasthi Mein",
       "url": "https://open.spotify.com/track/7ohZeDIIW8Ot3JErOs6Gn9"
@@ -3255,7 +3281,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 357626,
       "name": "Tu Bin Bataye",
       "url": "https://open.spotify.com/track/1jjSjma0cfNUhyOUzQqt6J"
@@ -3677,7 +3703,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 388106,
       "name": "Yeh Jo Des Hai Tera",
       "url": "https://open.spotify.com/track/65fbHxPPnRGPXaGN3PtpXd"
@@ -3785,7 +3811,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"

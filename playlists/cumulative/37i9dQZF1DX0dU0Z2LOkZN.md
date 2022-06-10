@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-121 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+123 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [In The Zone](https://open.spotify.com/track/2GgTngIfCoDteGtVneuuTY) | [Knuckles & Tails](https://open.spotify.com/artist/2KUPQ8T5999f2EoqJ5VczV) | [In The Zone](https://open.spotify.com/album/3YH2LJD2W7voWsqFwHl8Ji) | 3:08 | 2021-11-11 | 2022-05-20 |
 | [Ingleside](https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Ingleside](https://open.spotify.com/album/7vBTC4qkmg5CQsYBp6eKsQ) | 1:24 | 2021-11-11 |  |
 | [Inner City](https://open.spotify.com/track/0gKyWgzseo8C7kLhZ4lMR1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Enter the Dojo](https://open.spotify.com/album/2utx5xxfImWZ7EwkT7qwzg) | 2:13 | 2021-11-11 |  |
+| [It Just Is](https://open.spotify.com/track/0PPEr4f4M5TJlpSDyTRLXs) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [It Just Is](https://open.spotify.com/album/5MpzdUemANr85NiuElGJeB) | 3:12 | 2022-06-10 |  |
 | [Itchy Trigger Finger](https://open.spotify.com/track/6PkCrsCV8wWJDSP9XcEdjC) | [CVPELLV](https://open.spotify.com/artist/4SFBADSs8CVFY8w44Ti16o) | [Fat Beats, Vol\. 2](https://open.spotify.com/album/2o13OgHSSDgnqKQdzhiPXA) | 1:36 | 2021-11-11 |  |
 | [Just Visiting](https://open.spotify.com/track/0dGgdtd0Y5JyPaOPDna8VE) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV) | [Just Visiting](https://open.spotify.com/album/1tGG3bDpld3wlMsVqJlpPX) | 1:58 | 2022-04-08 |  |
 | [Keep It Real \- Instrumental](https://open.spotify.com/track/25t2JEAgYYHVKWPWXYiFZu) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Keep It Real \(Instrumental\)](https://open.spotify.com/album/2p20DQMzqEfC0pbeGbLG84) | 3:09 | 2022-04-08 |  |
@@ -122,6 +123,7 @@
 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 | 2022-05-13 |  |
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-05-20 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2021-11-11 |  |
+| [Time Ticks On](https://open.spotify.com/track/0M0NOfHNnXKOcFdrYkh0Te) | [Dusty Milk](https://open.spotify.com/artist/3fkcH05xZueDPnK5OBVDF1), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Time Ticks On](https://open.spotify.com/album/5ejUkax5ouTkt0cvIGpuoq) | 2:12 | 2022-06-10 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 |  |
 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 | 2021-11-11 |  |
 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 | 2021-11-11 |  |

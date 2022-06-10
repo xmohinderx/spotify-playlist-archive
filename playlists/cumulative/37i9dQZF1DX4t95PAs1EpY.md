@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-178 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+183 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [blurred out](https://open.spotify.com/track/5waQSpQkpTftnueMCFQ0C9) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [blurred out](https://open.spotify.com/album/77cPsZNnPm0HkcuyRbwJN9) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2021-12-07 |  |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 |  |
+| [Broken](https://open.spotify.com/track/1H2bzYnA7VNkiIaUnha69l) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Broken](https://open.spotify.com/album/5Y2BSAcBMJQuEtsZgrdoWr) | 1:37 | 2022-06-10 |  |
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2021-12-07 |  |
 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 |  |
@@ -72,7 +73,8 @@
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 |  |
 | [hagaparken](https://open.spotify.com/track/5u3rKKdFqAl63VuzbWDZ2P) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [hagaparken](https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h) | 1:59 | 2021-12-07 |  |
 | [Happy Floating](https://open.spotify.com/track/2tbNmBfUatF57h4t3XdFP2) | [Bah Linn](https://open.spotify.com/artist/3gy6Hphc2dgZcIKDi9VOvV) | [Happy Floating](https://open.spotify.com/album/6Jkbx0oLMUaPC0gNXIATUh) | 1:59 | 2022-04-15 |  |
-| [Harpazo](https://open.spotify.com/track/2CJExqrBLTlUZS973gS4aQ) | [Blu Crown](https://open.spotify.com/artist/3ep6h6m1oYrtEKiF60g19K) | [Harpazo](https://open.spotify.com/album/3M9FaUP4gZ4xNHJ0HrFTd8) | 2:18 | 2021-12-07 |  |
+| [Harpazo](https://open.spotify.com/track/2CJExqrBLTlUZS973gS4aQ) | [Blu Crown](https://open.spotify.com/artist/3ep6h6m1oYrtEKiF60g19K) | [Harpazo](https://open.spotify.com/album/3M9FaUP4gZ4xNHJ0HrFTd8) | 2:18 | 2021-12-07 | 2022-06-10 |
+| [Hatsukoi](https://open.spotify.com/track/5hxqr1B0ZoHYXR2L4RCpUg) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Hatsukoi](https://open.spotify.com/album/12yjAIBR7jFWALPkLPmXMa) | 2:45 | 2022-06-10 |  |
 | [Headache](https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Headache](https://open.spotify.com/album/1GTBhTkHMVf6eRvn1K4Ipk) | 2:26 | 2021-12-07 | 2022-05-27 |
 | [Heaven](https://open.spotify.com/track/0yYipx9nc0mE2ZdEqbUFwa) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [After Life](https://open.spotify.com/album/6tAnYBib3ol7bjjqwI4d2u) | 2:06 | 2022-06-03 |  |
 | [helluva](https://open.spotify.com/track/41hOiG9rbP9VbNFZkGkNQf) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [helluva & hummingbird](https://open.spotify.com/album/4PDJXXbhESvvr9i7PjKeyy) | 2:39 | 2021-12-07 |  |
@@ -108,11 +110,12 @@
 | [miracle moments](https://open.spotify.com/track/6snIEB81asah6vQbdaOG9Z) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [miracle moments](https://open.spotify.com/album/6UkZPXSF0d6J2HU6zRH3E1) | 2:36 | 2021-12-07 |  |
 | [Monsoon](https://open.spotify.com/track/3eEjDLyhJMg7e3BApnzQff) | [lst drm](https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV) | [Monsoon](https://open.spotify.com/album/0NwZDDA8mQ9Yp2LjPgHD1x) | 2:08 | 2022-05-20 |  |
 | [morning cake](https://open.spotify.com/track/2MZ3kNaFd0I5P4BVofkQRP) | [SpiceChill](https://open.spotify.com/artist/77E1667ZcTBzEPrXJQ5OQh) | [morning cake](https://open.spotify.com/album/4cu8cji75p4tUK6CsjlneZ) | 1:57 | 2021-12-07 |  |
-| [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-12-07 |  |
+| [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-12-07 | 2022-06-10 |
 | [Morning Dew](https://open.spotify.com/track/1wgeSj5ZR7NE1h7pHPSGyB) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Morning Dew](https://open.spotify.com/album/3vKjGSYqC0mlq477LXrvK4) | 2:02 | 2022-05-13 |  |
 | [Morning In The Forest](https://open.spotify.com/track/3fX2BwW4wtmvPOsy9nDmEj) | [Stainlexz](https://open.spotify.com/artist/1Qcw8vwRygx31ecdpJZsyT) | [Morning In The Forest](https://open.spotify.com/album/1mdPUcchdD1uXRAjPixTCD) | 2:12 | 2021-12-07 |  |
 | [My Love](https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:42 | 2021-12-07 | 2022-05-27 |
 | [naturale](https://open.spotify.com/track/3q4giA2JuMjmny009JEsbn) | [masao mami](https://open.spotify.com/artist/1MlLNw90kC3aCTGjeqG2Qq) | [naturale](https://open.spotify.com/album/4B1ggUcEr5btmV57XXEdzw) | 2:24 | 2022-05-13 |  |
+| [Navigators](https://open.spotify.com/track/52a4rzZ0bOk2OfVawjiNVC) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Navigators](https://open.spotify.com/album/2vcXcHa9nM6HvfzYtUzMNu) | 1:28 | 2022-06-10 |  |
 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 | 2022-05-20 |  |
 | [new trees](https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:50 | 2021-12-07 |  |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-03-21 |  |
@@ -151,6 +154,7 @@
 | [saturday sun](https://open.spotify.com/track/72JFBOJAw2f2FOFJJsO7KL) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [saturday sun](https://open.spotify.com/album/5fi72u7BrWXzBMLpJZjczt) | 2:44 | 2022-01-28 |  |
 | [Saudade](https://open.spotify.com/track/2nGFeWzJwnLtbF5ZXZk0O8) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [sundaynightcoffee](https://open.spotify.com/artist/777qGYNUkMMOPsU3PY1sEL) | [Saudade](https://open.spotify.com/album/5D4u2d3v7glC2eP9YEFpFo) | 1:54 | 2022-05-13 |  |
 | [seedlings](https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 2:28 | 2021-12-07 |  |
+| [Serenity](https://open.spotify.com/track/3X8yILO7bUPSE8R8IpxzLW) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Serenity](https://open.spotify.com/album/4RVYvbLGnucZ09CH1I4kML) | 3:05 | 2022-06-10 |  |
 | [SimplyShtick](https://open.spotify.com/track/6A6TfXAAh1lqB63v0gVECk) | [Rutah](https://open.spotify.com/artist/5vUhQrdzOINvk93ov2uMep) | [SimplyShtick](https://open.spotify.com/album/5sMrp4rgsAOFlC8CpS4F5h) | 1:25 | 2021-12-07 |  |
 | [Single Passenger](https://open.spotify.com/track/4FhYHkYXgrAksGlwfiq0bL) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Single Passenger](https://open.spotify.com/album/0prXCNAnjvXCjLIlpXJXVQ) | 2:15 | 2021-12-07 | 2022-04-08 |
 | [Sk8bump](https://open.spotify.com/track/60Hlc8S7xa2fhbnOdTE8d5) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Sk8bump](https://open.spotify.com/album/4OlmSfjHsVqbsFSubwGHvf) | 1:48 | 2022-05-27 |  |
@@ -163,6 +167,7 @@
 | [sonar zone](https://open.spotify.com/track/3GGVT0QnHgcVzc3svCFzsd) | [Larid](https://open.spotify.com/artist/6sOC5JvEbDHGkQClRxWP49) | [sonar zone](https://open.spotify.com/album/2UoqAhmWLsEp8HJUeWe5mw) | 3:06 | 2022-01-28 |  |
 | [spaceportaladventure](https://open.spotify.com/track/5Z42EcS4orw1I8BeXufWQZ) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [spaceportaladventure](https://open.spotify.com/album/47lrbncLyR4j9MrSFysoia) | 1:48 | 2022-06-03 |  |
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 |  |
+| [stay \- lofi](https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ) | [zxch.](https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG) | [stay \(lofi\)](https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp) | 2:48 | 2022-06-10 |  |
 | [Steady Somewhere](https://open.spotify.com/track/7J0jAsnZ1VKTizaSaOYtLM) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:36 | 2021-12-07 |  |
 | [String Theori](https://open.spotify.com/track/6hOVJidj6yGlS3sNdhGtNi) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [String Theori](https://open.spotify.com/album/5SQJKy1u9FTIvBZUNqGZrJ) | 3:44 | 2021-12-07 |  |
 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 | 2021-12-07 |  |

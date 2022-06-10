@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,167 likes - 84 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,203 likes - 84 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 63 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 |
 | 64 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 |
 | 65 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 |
-| 66 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [Femigangsta](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 |
+| 66 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 |
 | 67 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 |
 | 68 | [Taxi Driver](https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc) | [Norykko](https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA) | [Taxi Driver](https://open.spotify.com/album/2IL0SiGi3zOYsEYFZ9R2A4) | 4:15 |
 | 69 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 |

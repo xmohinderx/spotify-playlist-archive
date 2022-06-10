@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 239796,
       "name": "Adicto a Tu Piel",
       "url": "https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Convenceme",
+        "url": "https://open.spotify.com/album/71feC1wlpkAOQQSKfds8Ga"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220692,
+      "name": "Convenceme",
+      "url": "https://open.spotify.com/track/3EKvl4YOsLWYmTLLhXYwjZ"
+    },
+    {
+      "album": {
         "name": "Sin Verg\u00fcenza",
         "url": "https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
@@ -351,6 +369,24 @@
       "duration_ms": 220840,
       "name": "Cosas del amor",
       "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
+    },
+    {
+      "album": {
+        "name": "Ustedes Lo Hicieron Posible, Gracias!",
+        "url": "https://open.spotify.com/album/4N1yJatkYhl9ErFagjQZp9"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249822,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V"
     },
     {
       "album": {
@@ -495,7 +531,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 235226,
       "name": "Duele",
       "url": "https://open.spotify.com/track/6xfJcYndS35K8q4zbgRG9F"
@@ -513,7 +549,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 292706,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/3PYx0OCGrEnDBSfHBrSCNb"
@@ -531,7 +567,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 203933,
       "name": "El Bomb\u00f3n",
       "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
@@ -679,7 +715,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 259362,
       "name": "Enganchados del Recuerdo: La Negra Soledad / Sin Alma y Sin Coraz\u00f3n / La Diosa del Baile \"Batunguera\"",
       "url": "https://open.spotify.com/track/0Ochm4tvUjGFJInFHpLzIQ"
@@ -841,7 +877,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219786,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/0XH56FsQ30qSKYHQtFsqnz"
@@ -1023,7 +1059,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 260566,
       "name": "La Segunda del Hombre del Acorde\u00f3n",
       "url": "https://open.spotify.com/track/6GiqyOWzkol9gZsSIqLLxF"
@@ -1179,7 +1215,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 186435,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 125016,
       "name": "Negra Caderona",
       "url": "https://open.spotify.com/track/411i7XTC2ClG3V3QVlOezM"
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1255,7 +1291,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 210426,
       "name": "No Me Di Cuenta",
       "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
@@ -1403,7 +1439,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "Piropo",
       "url": "https://open.spotify.com/track/70i8ZsGgXVBelUmsHXddDJ"
@@ -1493,7 +1529,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 239595,
       "name": "Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/6kotBBh3pobT8sxHBKE69U"
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
@@ -1619,7 +1655,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 179583,
       "name": "Soy Sabalero",
       "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 204806,
       "name": "Te Perdono",
       "url": "https://open.spotify.com/track/46SixvsqGTjE1dufNyjTrR"
@@ -1709,7 +1745,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188140,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
@@ -1969,7 +2005,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 204000,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
@@ -2077,7 +2113,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 212626,
       "name": "Y t\u00fa te vas",
       "url": "https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut"

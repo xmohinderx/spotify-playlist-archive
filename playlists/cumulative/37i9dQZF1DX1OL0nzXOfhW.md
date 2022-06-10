@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: moon tang
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Lowa盧華
 
 36 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 

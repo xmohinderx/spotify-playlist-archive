@@ -1992,6 +1992,24 @@
     },
     {
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/3JKrNHh8gVviwWycHE9DDm"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226663,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/1UJYWfzyPjRwmlCawgJroV"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 346247,
       "name": "\u4eba\u985e\u7fa4\u661f\u9583\u8000\u6642",
       "url": "https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg"

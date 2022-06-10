@@ -4,7 +4,7 @@
 
 > Just chill...
 
-259 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+260 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Be \(Vis ta Vie\)](https://open.spotify.com/track/4Pwed9ncAOuuPj3PebP3oI) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV) | [Be \(Vis ta Vie\)](https://open.spotify.com/album/01EXWKCPgP8MHsmPsSSUgM) | 4:17 | 2020-04-10 | 2022-01-22 |
 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 | 2020-05-22 |  |
 | [Beauty Fades](https://open.spotify.com/track/6lUG5VrmhGESNj8xKMg4hP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Beauty Fades / Answer](https://open.spotify.com/album/3m06YdVdR59NY2woUwfOqm) | 3:08 | 2020-06-12 |  |
-| [Begin \(feat\. Wales\)](https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Begin \(feat\. Wales\)](https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT) | 4:02 | 2017-03-31 |  |
+| [Begin \(feat\. Wales\)](https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Begin \(feat\. Wales\)](https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT) | 4:02 | 2017-03-31 | 2022-06-10 |
 | [BOGU$](https://open.spotify.com/track/3MGozJX0jp6ynA97MDwOUU) | [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [BOGU$](https://open.spotify.com/album/0Bi0DMc4BkYkvT5QeC54g7) | 2:44 | 2020-08-21 |  |
 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 | 2021-10-08 |  |
 | [Borderline \- Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline \(Blood Orange Remix\)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-25 | 2022-01-22 |
@@ -146,7 +146,7 @@
 | [Loving You Is a Mountain](https://open.spotify.com/track/4tqZET1gHOGWY6UbHv6qWf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/2lEk0vfHvGzrM9xbhUvxfu) | 3:28 | 2020-05-29 |  |
 | [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2020-10-05 |  |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-08-27 |  |
-| [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 |  |
+| [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 | 2022-06-10 |
 | [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 | 2022-05-12 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 | 2022-06-01 |
 | [Mean](https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Mean](https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS) | 3:45 | 2020-06-26 | 2022-01-22 |
@@ -202,6 +202,7 @@
 | [Slide](https://open.spotify.com/track/6adAK9A3HRPGTKAYs6zbIQ) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Sad 2 / Slide](https://open.spotify.com/album/0tPCPMSlM6VHdW0XHtyJ5i) | 1:00 | 2022-05-20 |  |
 | [Slipping Away](https://open.spotify.com/track/0BCPHe2assdUDijB5gUuCU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Slipping Away](https://open.spotify.com/album/6udWhj8k7YdjygeAl0HE0S) | 3:55 | 2020-06-26 |  |
 | [Slowdiving](https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 3:14 | 2022-04-29 |  |
+| [Snowflower](https://open.spotify.com/track/0pbNi6CIjylkOjq7a1PFei) | [Annie Stela](https://open.spotify.com/artist/6L2LACunZv5Bk1pyQdYCU0) | [Snowflower](https://open.spotify.com/album/3EnEsCxMnDEIoIp8tNBf4x) | 3:28 | 2022-06-09 |  |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-26 | 2022-01-22 |
 | [Sola](https://open.spotify.com/track/237dlPXLNIsatIRYKRbCWN) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/09Uf3mvkEMJZor5YsOP4dk) | 3:18 | 2020-04-14 |  |
 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 | 2019-10-25 |  |

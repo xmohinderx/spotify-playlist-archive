@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: PAJAUMI Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,919 likes - 85 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,996 likes - 85 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 10 | [Human Hero](https://open.spotify.com/track/0qn2lzKKB7v7TspaVad0Ry) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c) | [2061](https://open.spotify.com/album/7kb0q7cY1Fanry5qXOIhWi) | 5:01 |
 | 11 | [Butterscotch](https://open.spotify.com/track/10oWw93KKigwvIShRYJBXX) | [Annie Booth Sextet](https://open.spotify.com/artist/0H0DHzUeB40lePPjZFGBiI) | [Butterscotch](https://open.spotify.com/album/2usKk0ger2AJnuyITNsHIO) | 5:05 |
 | 12 | [Old Moon Laughing](https://open.spotify.com/track/0yHDeT4BtRL6Btdbl46fl6) | [Little Animal!](https://open.spotify.com/artist/23gLK2H4lsLTxG5T7Qesww) | [Old Moon Laughing](https://open.spotify.com/album/1TL4Ljrko8OXCNgDBkPhHU) | 3:20 |
-| 13 | [Spectra](https://open.spotify.com/track/1fJCjJH3HQ32AaAbfPpgPV) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [Spectra](https://open.spotify.com/album/1bDH0PUT9pcD6TyzXp0PI7) | 8:51 |
+| 13 | [Spectra \- Live](https://open.spotify.com/track/1fJCjJH3HQ32AaAbfPpgPV) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [Spectra \(Live\)](https://open.spotify.com/album/1bDH0PUT9pcD6TyzXp0PI7) | 8:51 |
 | 14 | [Lazy Breeze](https://open.spotify.com/track/5opjMyL91jXnGcLRBb36BJ) | [Lexsoul Dancemachine](https://open.spotify.com/artist/1sguzSLpSIfDxY95wn4Xsi) | [Lazy Breeze](https://open.spotify.com/album/5HwAXgE9OPobid0PMrfULl) | 5:25 |
 | 15 | [Place To Be](https://open.spotify.com/track/3N8mgnIpEwltptciq3SeV1) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Place To Be](https://open.spotify.com/album/5MmzOaBbtlTwPX96hgf0Ah) | 2:47 |
 | 16 | [Reine Seide](https://open.spotify.com/track/3Z9SQ98wyJUyJTaAoRPsHJ) | [Alien Roy Group](https://open.spotify.com/artist/39QkTuJ9zylGBORUD2GYKm) | [Overvoltage](https://open.spotify.com/album/5SXxtESiCoikUMbrQF2DKu) | 3:41 |

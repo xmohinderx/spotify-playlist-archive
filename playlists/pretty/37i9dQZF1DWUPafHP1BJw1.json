@@ -1,12 +1,12 @@
 {
   "description": "Your favorite pop songs, classically reimagined.",
-  "num_followers": 784997,
+  "num_followers": 785318,
   "original_name": "Pop Goes Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDA4MjAwMDAwMTgwYmI5NDliNGEwMDAwMDE3MGM0OTg2NmUz",
+  "snapshot_id": "MTY1NDc4MTY2MiwwMDAwMDA4MzAwMDAwMTgxNDhhYzU2ZjcwMDAwMDE3MGM0OTg2NmUz",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
-      },
-      "artists": [
-        {
-          "name": "Duomo",
-          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "VSQ Performs the Hits of 2020",
         "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 201786,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
-        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
-      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 146195,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
+        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
+      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
-        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
-      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "Wrecking ball (Solo Piano Version)",
         "url": "https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 204560,
       "name": "Wrecking Ball - Solo Piano Version",
       "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "positions - Bonus Track",
-      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 215466,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "positions - Bonus Track",
+      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -523,26 +523,6 @@
       "duration_ms": 177071,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Duo",
-          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
-        },
-        {
-          "name": "Dover Quartet",
-          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
-        }
-      ],
-      "duration_ms": 247155,
-      "name": "In the End",
-      "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -667,6 +647,26 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Dover Quartet",
+          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
+        }
+      ],
+      "duration_ms": 247155,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
         "name": "Nightcall (From \"Drive\")",
         "url": "https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "No Time to Die",
-        "url": "https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr"
-      },
-      "artists": [
-        {
-          "name": "Queenz of Piano",
-          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
-        }
-      ],
-      "duration_ms": 141970,
-      "name": "No Time to Die",
-      "url": "https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
       },
@@ -795,30 +779,6 @@
       "duration_ms": 168213,
       "name": "Remind U (feat. TOKiMONSTA)",
       "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Jess Gillam Ensemble",
-          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Retrograde (Arr. Rimmer / Maydew)",
-      "url": "https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -871,6 +831,22 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
+        "name": "No Time to Die",
+        "url": "https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr"
+      },
+      "artists": [
+        {
+          "name": "Queenz of Piano",
+          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
+        }
+      ],
+      "duration_ms": 141970,
+      "name": "No Time to Die",
+      "url": "https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 226973,
       "name": "Demons",
       "url": "https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Retrograde (Arr. Rimmer / Maydew)",
+      "url": "https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc"
     },
     {
       "added_at": "2022-05-13 04:02:00",

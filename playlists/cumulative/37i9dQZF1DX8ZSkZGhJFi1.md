@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-136 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+138 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ipanema](https://open.spotify.com/track/35wMZtYtVpNS1sVATrU5H5) | [Elixrr River](https://open.spotify.com/artist/1PwXZbR5QgqYL93wbnBzah) | [Pad Guy](https://open.spotify.com/album/3Q3gMjDdZ9BpZhz05TqL1s) | 4:29 | 2022-02-17 |  |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-02-17 |  |
 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 | 2022-02-17 |  |
+| [Lately I Was Lost](https://open.spotify.com/track/0izoLPqzTzr09ProDMJsps) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:48 | 2022-06-10 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2022-02-17 |  |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2022-02-17 |  |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2022-02-17 |  |
@@ -81,6 +82,7 @@
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2022-02-17 |  |
 | [New Shoes](https://open.spotify.com/track/5juHblWOCxsaAlOrOdaTRW) | [Holden](https://open.spotify.com/artist/4QzKwFmHaOYtYXs8oSPGkx) | [New Shoes](https://open.spotify.com/album/6WYHhMNiP9uosSqoM3EFgs) | 2:14 | 2022-02-17 |  |
+| [New Start](https://open.spotify.com/track/5t54ULTioRiGc5xuXv36bH) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [New Start](https://open.spotify.com/album/2bHbPzTTSlc6R1A1J1dj81) | 2:35 | 2022-06-10 |  |
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2022-02-17 |  |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2022-02-17 |  |
 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2022-02-17 |  |

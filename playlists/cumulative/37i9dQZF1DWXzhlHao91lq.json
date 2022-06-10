@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 217616,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/2N8HUYJ0oGyByJgkeh5MTS"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 268000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6ktuv95da650Ghn7crrZhg"
@@ -342,6 +342,24 @@
     },
     {
       "album": {
+        "name": "How Sweet It Is (To Be Loved by You)",
+        "url": "https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177385,
+      "name": "How Sweet It Is (To Be Loved by You)",
+      "url": "https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2"
+    },
+    {
+      "album": {
         "name": "Hypochondriac",
         "url": "https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 196010,
       "name": "I Was Alone",
       "url": "https://open.spotify.com/track/2869Nt4e2bG24nOuiEOCb7"
@@ -487,6 +505,24 @@
       "duration_ms": 211363,
       "name": "Love Me Like That",
       "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
+    },
+    {
+      "album": {
+        "name": "Too As",
+        "url": "https://open.spotify.com/album/0AG7BzuAPIfDdzZPvwE2OK"
+      },
+      "artists": [
+        {
+          "name": "Zack Ely",
+          "url": "https://open.spotify.com/artist/2N012funnmwx0fldUFDK4M"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "Lovin' Yourself",
+      "url": "https://open.spotify.com/track/7p4YiFSgGXFlkZvN6jk8U3"
     },
     {
       "album": {
@@ -665,7 +701,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
@@ -748,6 +784,42 @@
     },
     {
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186334,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
+    },
+    {
+      "album": {
+        "name": "Stay Awake",
+        "url": "https://open.spotify.com/album/396ffrTIqhpRywxvocaxpL"
+      },
+      "artists": [
+        {
+          "name": "Emmi",
+          "url": "https://open.spotify.com/artist/3eSiyfI9xykA5QtgcLS43b"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/4JEobcz2Jtu2qXFXgqEvsb"
+    },
+    {
+      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/75m9BUJkGvcfHOcjgopBo6"
       },
@@ -759,7 +831,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 195414,
       "name": "Storybook",
       "url": "https://open.spotify.com/track/2aLT8Ds8TJqZqneqJpvP0P"
@@ -784,6 +856,28 @@
     },
     {
       "album": {
+        "name": "Tell Her You Love Her (feat. Mat Kearney)",
+        "url": "https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        },
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263053,
+      "name": "Tell Her You Love Her (feat. Mat Kearney)",
+      "url": "https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg"
+    },
+    {
+      "album": {
         "name": "The Bird and the Fish",
         "url": "https://open.spotify.com/album/5FuhatGNxUIXFluzKXnk4E"
       },
@@ -803,6 +897,24 @@
       "duration_ms": 288096,
       "name": "The Bird and the Fish",
       "url": "https://open.spotify.com/track/2h47tgtdbp63HbGdEIXNaH"
+    },
+    {
+      "album": {
+        "name": "The Book of You & I",
+        "url": "https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207537,
+      "name": "The Book of You & I",
+      "url": "https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW"
     },
     {
       "album": {
@@ -947,10 +1059,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
+    },
+    {
+      "album": {
+        "name": "\u2014star.",
+        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153885,
+      "name": "\u2014star.",
+      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXzhlHao91lq"

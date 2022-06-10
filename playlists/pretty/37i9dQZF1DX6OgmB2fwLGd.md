@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> on Tuesdays at 8pm EST\. Cover: Armani White
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,683 likes - 91 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,928 likes - 91 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

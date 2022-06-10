@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Bibi Club
 
-655 songs - 1 day 9 hr 26 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+656 songs - 1 day 9 hr 29 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-06-03 |  |
 | [LEVELS](https://open.spotify.com/track/76FG8HZ27lqfceC1af0aHn) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [LEVELS](https://open.spotify.com/album/5zMY9dBNuoHLWsxtCdSEZj) | 2:42 | 2022-03-04 | 2022-04-02 |
 | [lie lie lie](https://open.spotify.com/track/5epDtUg4s8do8chclldxpZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [lie lie lie](https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16) | 2:51 | 2022-02-04 | 2022-03-05 |
+| [lie lie lie \- remix](https://open.spotify.com/track/2Dfgq5js5WVXSzpITCQhMT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [lie lie lie \(remix\)](https://open.spotify.com/album/36PtN8Dq0m9QSBPxM4lDIY) | 2:56 | 2022-06-03 |  |
 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-05-06 | 2022-05-12 |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2021-12-06 | 2022-01-08 |
 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 | 2022-02-04 | 2022-03-05 |

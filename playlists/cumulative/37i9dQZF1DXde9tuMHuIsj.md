@@ -4,7 +4,7 @@
 
 > Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Chanell
 
-130 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+132 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 | 2022-03-18 |  |
 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 | 2022-03-18 |  |
 | [Cotidiano](https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m) | 2:12 | 2022-03-18 | 2022-05-04 |
+| [Creo \- Remix](https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Creo \(Remix\)](https://open.spotify.com/album/0CLFXd0a3YDeP7IPRb6ggh) | 4:23 | 2022-06-10 |  |
 | [Cuentas Claras](https://open.spotify.com/track/3lP79XScAaS9QQb9yjJQOn) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Cuentas Claras](https://open.spotify.com/album/1oEsVBQG1yb251eNVX4fo7) | 3:07 | 2022-05-03 |  |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2022-05-03 |  |
 | [Desahogo](https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Desahogo](https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn) | 3:28 | 2022-03-18 | 2022-05-04 |
@@ -109,6 +110,7 @@
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2022-03-18 | 2022-05-04 |
 | [Sauce Boy Freestyle 5](https://open.spotify.com/track/69L3B6ZuwodK4NL8bAPgJc) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:56 | 2022-05-03 |  |
 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 | 2022-03-18 |  |
+| [Sola \(feat\. Myke Towers\)](https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:57 | 2022-06-10 |  |
 | [Somos O No Somos](https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Somos O No Somos](https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw) | 4:00 | 2022-05-03 |  |
 | [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-04-15 |  |
 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 | 2022-05-03 |  |

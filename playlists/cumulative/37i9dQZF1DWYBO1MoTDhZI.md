@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-395 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+396 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-08-28 | 2021-12-11 |
 | [Paper Cut](https://open.spotify.com/track/4gSEZ8dkB4GrrIowsib0l9) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Paper Cut](https://open.spotify.com/album/3YUYvVYmYUNoVJJTAMg6ox) | 3:08 | 2019-09-05\* | 2021-08-28 |
 | [Parallel Parking](https://open.spotify.com/track/5QGHOeBYDauPtC8yYD3wZZ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Parallel Parking](https://open.spotify.com/album/2LG85hF3dru5qPU4med6to) | 1:58 | 2021-02-19 | 2021-12-11 |
+| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-09 |  |
 | [Peach](https://open.spotify.com/track/35cr60GvlqBVchNX7fBqyo) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Peach](https://open.spotify.com/album/0kKFkaFs6oIYylXSaG7tiV) | 4:15 | 2019-09-05\* | 2022-02-05 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-19 |  |
 | [Perfect](https://open.spotify.com/track/77cj905zkxzZ0BOUaMd9SM) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Perfect](https://open.spotify.com/album/6HFU5gAvlDMV22aoFeyRC8) | 3:34 | 2021-12-11 | 2022-03-30 |

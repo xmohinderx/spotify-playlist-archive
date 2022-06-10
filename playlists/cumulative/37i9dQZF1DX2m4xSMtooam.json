@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 139253,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 152333,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 369280,
       "name": "Samba De Uma Nota So",
       "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 184826,
       "name": "Sorriu Para Mim",
       "url": "https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 235500,
       "name": "Unhappy Remark (Palpite Infeliz)",
       "url": "https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL"
@@ -2053,6 +2053,24 @@
       "duration_ms": 174133,
       "name": "Wave",
       "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
+    },
+    {
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
     },
     {
       "album": {

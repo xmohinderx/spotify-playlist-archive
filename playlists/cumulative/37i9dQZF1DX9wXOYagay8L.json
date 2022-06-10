@@ -34,6 +34,28 @@
     },
     {
       "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/5buihYf725bWcbMHFboqwf"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284776,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/77jr85pzR4YjCaK76WCPs0"
+    },
+    {
+      "album": {
         "name": "Amagama (Outro)",
         "url": "https://open.spotify.com/album/4qoViDJuin6g4MihSrGxf6"
       },
@@ -2875,7 +2897,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 289693,
       "name": "Ubaba",
       "url": "https://open.spotify.com/track/4RAUKdu1tEeeF9sKgfh2jB"
@@ -3098,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "Wa Nkutlwa Na",
+        "url": "https://open.spotify.com/album/19Cc36zy5O9APFjEw1HZFU"
+      },
+      "artists": [
+        {
+          "name": "Wave Rhyder",
+          "url": "https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282107,
+      "name": "Wa Nkutlwa Na",
+      "url": "https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas"
+    },
+    {
+      "album": {
         "name": "Wela (Unplugged)",
         "url": "https://open.spotify.com/album/2uM4vgqnUgypsZOzFTQg52"
       },
@@ -3109,7 +3149,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 310000,
       "name": "Wela (Unplugged)",
       "url": "https://open.spotify.com/track/4i5k9oYKeGW6L2FFOfnd1D"

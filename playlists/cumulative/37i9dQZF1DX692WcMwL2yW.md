@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-254 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+258 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [My Treasure](https://open.spotify.com/track/2VMVr3w3VkbQzj5oAiN3ws) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Moods](https://open.spotify.com/album/3oT7U6gyD3mvDz92R8RqOG) | 2:00 | 2021-04-26\* | 2021-04-28 |
 | [Needless to Say](https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Needless to Say](https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz) | 3:07 | 2021-04-26\* | 2022-04-22 |
 | [Night Trip](https://open.spotify.com/track/3GB3fTglT3cGErykWWqQwx) | [Kezz Beats](https://open.spotify.com/artist/6UfsrHXyOdIVCWnv4YSou3) | [Night Trip](https://open.spotify.com/album/2cegZ7un7PvEEbSMI6qpyU) | 2:26 | 2021-07-09 |  |
+| [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 | 2022-06-10 |  |
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2021-10-14 |  |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2021-04-26\* | 2022-05-14 |
 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2021-10-14 |  |
@@ -197,6 +198,7 @@
 | [Savages](https://open.spotify.com/track/2A9zsaUmd2lBr9P9TWVvKI) | [Deekay\_Bangerz](https://open.spotify.com/artist/0NPXCzl79WpQpkhdz5Wl4O), [El Nino Diablo](https://open.spotify.com/artist/0H2VHRUkTJRaLWbbucSfjK) | [Dungeon Noise](https://open.spotify.com/album/79ogyayn4MJNI1p6QND3DB) | 3:12 | 2021-05-07 | 2021-06-18 |
 | [Self\-Inflicted](https://open.spotify.com/track/3nJ92wlW6KH8RgL33OZr6M) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Self\-Inflicted](https://open.spotify.com/album/1JHlKsLpOd4HJNUiPttN8Q) | 3:33 | 2021-04-26\* | 2022-05-27 |
 | [Sensory](https://open.spotify.com/track/70foYW4a0fEYwy60SwEYUj) | [DARKCITY](https://open.spotify.com/artist/5E5kMELbzQ56qBssHVWlsy), [root](https://open.spotify.com/artist/1k27JeD1SDSojaZok0SoPO), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Sensory](https://open.spotify.com/album/5XGspEqpsGTTSnryJ9D1HB) | 4:19 | 2022-05-27 |  |
+| [Seoul Flower Market](https://open.spotify.com/track/1gWfvRd62abG1qVCk4p49k) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:20 | 2022-06-10 |  |
 | [Shaolin](https://open.spotify.com/track/3oY8edFQA1IjGaHv5H1ol1) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Magnum](https://open.spotify.com/album/3vYlEDTxOfio3cgUDSQM7Y) | 2:00 | 2021-08-26 | 2022-05-14 |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2021-06-04 | 2021-08-26 |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-09-10 |  |
@@ -214,6 +216,7 @@
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-04-26\* | 2022-05-14 |
 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 | 2022-04-08 |  |
 | [Starter](https://open.spotify.com/track/5ibGmOVcugAFDiDGn3RL6u) | [Alex Froot](https://open.spotify.com/artist/34IlI3sD4HQouKqpy02h42) | [Starter](https://open.spotify.com/album/2PPoZCz0OM5XegZBpWanXQ) | 2:26 | 2021-08-26 | 2021-10-14 |
+| [Step on Soil](https://open.spotify.com/track/3bhXsjM1vXQyEmePGDOSeT) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:45 | 2022-06-10 |  |
 | [Stories](https://open.spotify.com/track/3vPR3IuSWlGH7KbdFoY2N6) | [Decto](https://open.spotify.com/artist/7tovP8BnEWcis29zWFlEO9) | [Odyssey](https://open.spotify.com/album/7FE98zZhyJxjZtR4oJVYvr) | 3:04 | 2022-04-08 |  |
 | [Summertimes](https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:44 | 2021-04-26\* |  |
 | [Sus](https://open.spotify.com/track/16gVNJoxte9CR8Tc16QkjU) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [BROOKLYN](https://open.spotify.com/album/3YSri8vnihJfhMmLohwEhJ) | 1:38 | 2022-04-22 |  |
@@ -256,6 +259,7 @@
 | [Whirlpool](https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Whirlpool](https://open.spotify.com/album/1JuUBeuiFGZuNF3eV3429n) | 2:26 | 2021-08-26 | 2022-05-27 |
 | [Whis](https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Hunter Z](https://open.spotify.com/album/6w4N0qQOoZUqg0xB6Swlbg) | 2:00 | 2021-06-18 | 2022-05-27 |
 | [White Dunes](https://open.spotify.com/track/1jJl0ktn8NMZyFPxsvYegs) | [Silvana](https://open.spotify.com/artist/6DZ0eHndSzs3pEznIu5OXi) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:43 | 2022-04-22 |  |
+| [Wilhelm](https://open.spotify.com/track/4vQVNL13OHXdXSMtYSChcg) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Wilhelm](https://open.spotify.com/album/2KiHSDtLfCc0WJsISOF3Hd) | 3:01 | 2022-06-10 |  |
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-04-26\* |  |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-20 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2021-11-10 |  |

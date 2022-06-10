@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. Are you a MANIAC?",
-  "num_followers": 682389,
+  "num_followers": 683182,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA0Nzk5NSwwMDAwMDAzODAwMDAwMTgxMWNmMTc3OWEwMDAwMDE3ZjhiZWQ0NmIw",
+  "snapshot_id": "MTY1NDc4NzE3NSwwMDAwMDAzOTAwMDAwMTgxNDkwMDcyYzEwMDAwMDE3ZjhiZWQ0NmIw",
   "tracks": [
+    {
+      "added_at": "2022-06-09 15:06:15",
+      "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "CIRCUS",
+      "url": "https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE"
+    },
     {
       "added_at": "2022-06-01 01:46:35",
       "album": {

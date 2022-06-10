@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Hyphen Hyphen",
+  "description": "The best French indie tracks right now. Cover: Myd",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 129840,
       "name": "Chui pu fort",
       "url": "https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 149000,
       "name": "Comment tu vas finir",
       "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 198040,
       "name": "Dictators",
       "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
+    },
+    {
+      "album": {
         "name": "Don't Wait For Me",
         "url": "https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG"
       },
@@ -565,7 +583,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 157986,
       "name": "Dr\u00f4le d'id\u00e9e",
       "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
@@ -778,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/6tohQzrYlnWEqctbpz9aRy"
+      },
+      "artists": [
+        {
+          "name": "Saavan",
+          "url": "https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208631,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ixz0HGptQPRbZTXADWUfg"
+    },
+    {
+      "album": {
         "name": "SADOS",
         "url": "https://open.spotify.com/album/7dF1KlRv4vzCLyfE8sfDRG"
       },
@@ -847,6 +883,28 @@
       "duration_ms": 146213,
       "name": "Ilya",
       "url": "https://open.spotify.com/track/5mIf7UP0FEsGaGWBVjrNKP"
+    },
+    {
+      "album": {
+        "name": "Impala",
+        "url": "https://open.spotify.com/album/4CXS41U07hn4eZKZNEqdzo"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/1azxgcGDD3ht64TIR1pMAU"
     },
     {
       "album": {
@@ -1161,7 +1219,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 169226,
       "name": "le moment pr\u00e9sent",
       "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
@@ -1930,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Soleil de minuit",
+        "url": "https://open.spotify.com/album/1dB8roYaSN1rd7z1VSpnJK"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "Soleil de minuit",
+      "url": "https://open.spotify.com/track/3FzOlSWz0gKbthX0AJ6Vqw"
+    },
+    {
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2yRMCemIzq1YWHpgkwvSra"
       },
@@ -2121,10 +2197,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 243953,
       "name": "The Eyes",
       "url": "https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3"
+    },
+    {
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c"
     },
     {
       "album": {
@@ -2179,7 +2273,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 207693,
       "name": "Toiles d'araign\u00e9e",
       "url": "https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1"
@@ -2222,6 +2316,24 @@
     },
     {
       "album": {
+        "name": ":):",
+        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "Tu sais ma vie c'est vite chiant",
+      "url": "https://open.spotify.com/track/3QvEjsWx6Nf8OikfnMW5vM"
+    },
+    {
+      "album": {
         "name": "Un coup de g\u00e9nie",
         "url": "https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte"
       },
@@ -2233,7 +2345,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 192979,
       "name": "Un coup de g\u00e9nie",
       "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
@@ -2357,6 +2469,46 @@
       "duration_ms": 185942,
       "name": "What A Life (j'fais ma life) [feat. Suzane]",
       "url": "https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q"
+      },
+      "artists": [
+        {
+          "name": "Toro",
+          "url": "https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195178,
+      "name": "Yellow Car",
+      "url": "https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU"
+    },
+    {
+      "album": {
+        "name": "JTM",
+        "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "Z\u00e9ro",
+      "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
     },
     {
       "album": {

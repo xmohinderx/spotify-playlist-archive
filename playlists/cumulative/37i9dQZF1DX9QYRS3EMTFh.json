@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Bamby",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -27,6 +27,24 @@
       "duration_ms": 173250,
       "name": "10 / 10",
       "url": "https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI"
+    },
+    {
+      "album": {
+        "name": "Ah wa do dem",
+        "url": "https://open.spotify.com/album/2H6Si7tmU9EdlKxQl7AoGA"
+      },
+      "artists": [
+        {
+          "name": "Tiwony",
+          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167902,
+      "name": "AH WA DO DEM",
+      "url": "https://open.spotify.com/track/0mjsPJT6SMwpQvIRHwvU3W"
     },
     {
       "album": {
@@ -63,6 +81,36 @@
       "duration_ms": 146547,
       "name": "Back Shot",
       "url": "https://open.spotify.com/track/76hdc5WUNauUx5xQkwLZUU"
+    },
+    {
+      "album": {
+        "name": "Bad (Latin Remix)",
+        "url": "https://open.spotify.com/album/4RYR5yNVhoYnCes9n949qP"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Bad (Latin Remix)",
+      "url": "https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk"
     },
     {
       "album": {
@@ -447,7 +495,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188054,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/1K9me5Ws3wdZpazIz28pr8"
@@ -1133,7 +1181,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 152941,
       "name": "Location",
       "url": "https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb"
@@ -1740,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "album": {
         "name": "Skeleton Cartier",
         "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
       },
@@ -2117,7 +2183,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"

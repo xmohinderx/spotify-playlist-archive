@@ -4,10 +4,11 @@
 
 > Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
 
-101 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/1oaWwVir8TpHT0IwDnStYn)
+102 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1oaWwVir8TpHT0IwDnStYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 | 2022-01-21 |  |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-21 |  |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-01-21 |  |
 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 | 2022-01-21 |  |
@@ -64,7 +65,7 @@
 | [La Capacidad \(feat\. Las Acevedo & Diana Pereira\)](https://open.spotify.com/track/5ssDwNcGA5w8Q7nDvSKZuL) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Las Acevedo](https://open.spotify.com/artist/14jzwITn4nY03L1n3XkyEV), [Diana Pereira](https://open.spotify.com/artist/3LtFsZsIPmf9LsLAL986yv) | [La Papessa](https://open.spotify.com/album/3QkbeY9d1zftmgANgl4xsm) | 4:17 | 2022-01-21 |  |
 | [La Crecida](https://open.spotify.com/track/7b7mBnDZyNUoRru0Ao97op) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Gratitud](https://open.spotify.com/album/6Xm6Vm8i0T5CFPsjZlKbU6) | 4:22 | 2022-01-21 |  |
 | [Land of Aloha](https://open.spotify.com/track/1PFsH34VfPYGfU9EPcVV9r) | [Miss Garrison](https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY) | [Land of Aloha](https://open.spotify.com/album/5GXGUNPcViuMY9hlwH55di) | 4:04 | 2022-01-21 |  |
-| [Latino & Proud](https://open.spotify.com/track/07mGbA2IRjQlvW0Es36yD9) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/4a2i4pa8TJrtLZgVDK2HuA) | 3:40 | 2022-01-21 |  |
+| [Latino & Proud](https://open.spotify.com/track/07mGbA2IRjQlvW0Es36yD9) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/4a2i4pa8TJrtLZgVDK2HuA) | 3:40 | 2022-01-21 | 2022-06-10 |
 | [Lechuguilla](https://open.spotify.com/track/43huCMpzyzRVhnamVHiWgU) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Canta Lechuza](https://open.spotify.com/album/3pImGMQmAFMbJPJLhFxoXV) | 3:57 | 2022-01-21 |  |
 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 | 2022-01-21 |  |
 | [Ligera Love](https://open.spotify.com/track/0tLnoFEQgab6SjUN5WcHVv) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Reconocer](https://open.spotify.com/album/2TtqRYIH3hlVHs0x6Ad7Tr) | 2:27 | 2022-01-21 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Fyeqoodgurl",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "All Night (feat. Loco)",
+        "url": "https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo"
+      },
+      "artists": [
+        {
+          "name": "TYTAN",
+          "url": "https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "All Night (feat. Loco)",
+      "url": "https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0"
+    },
+    {
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9"
       },
@@ -81,6 +103,24 @@
       "duration_ms": 267391,
       "name": "Blurred",
       "url": "https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c"
+    },
+    {
+      "album": {
+        "name": "Gone Gurl",
+        "url": "https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY"
+      },
+      "artists": [
+        {
+          "name": "Fyeqoodgurl",
+          "url": "https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195590,
+      "name": "Gone Gurl",
+      "url": "https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW"
     },
     {
       "album": {
@@ -151,7 +191,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 258678,
       "name": "IWBYBF (Original Soundtrack from \"BE MY BOYFRIENDS 2 - ROSE IN DA HOUSE\")",
       "url": "https://open.spotify.com/track/6SVZlcM6bmOeYbiE93Ef53"
@@ -220,6 +260,28 @@
     },
     {
       "album": {
+        "name": "SECRETLY LOVE",
+        "url": "https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP"
+      },
+      "artists": [
+        {
+          "name": "DONUTCHA",
+          "url": "https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU"
+        },
+        {
+          "name": "KANGSOMKS",
+          "url": "https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179325,
+      "name": "SECRETLY LOVE",
+      "url": "https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w"
+    },
+    {
+      "album": {
         "name": "sit down (please)",
         "url": "https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP"
       },
@@ -235,6 +297,42 @@
       "duration_ms": 225000,
       "name": "sit down (please)",
       "url": "https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP"
+    },
+    {
+      "album": {
+        "name": "Yours <3",
+        "url": "https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr"
+      },
+      "artists": [
+        {
+          "name": "Wonderframe",
+          "url": "https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184495,
+      "name": "So Big",
+      "url": "https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT"
+    },
+    {
+      "album": {
+        "name": "SPARE \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e21\u0e32\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu"
+      },
+      "artists": [
+        {
+          "name": "Kacha Nontanun",
+          "url": "https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257877,
+      "name": "SPARE \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e21\u0e32\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC"
     },
     {
       "album": {
@@ -343,7 +441,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 254716,
       "name": "\u0e01\u0e47\u0e09\u0e31\u0e19\u0e19\u0e48\u0e30\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a (For a while)",
       "url": "https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C"
@@ -495,7 +593,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 181760,
       "name": "\u0e04\u0e32\u0e40\u0e1f\u0e2d\u0e35\u0e19 (My Caffeine)",
       "url": "https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin"
@@ -767,7 +865,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 240800,
       "name": "\u0e14\u0e35\u0e44\u0e1b\u0e2b\u0e21\u0e14",
       "url": "https://open.spotify.com/track/4ry6ldKaFtoLOBgS6rAndh"
@@ -829,7 +927,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 155862,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01 (happy accident)",
       "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
@@ -851,6 +949,24 @@
       "duration_ms": 254500,
       "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (Even If)",
+        "url": "https://open.spotify.com/album/6gNdGROAbKCQhZQC73SudF"
+      },
+      "artists": [
+        {
+          "name": "Wine",
+          "url": "https://open.spotify.com/artist/4fg1JZtagmtm75bxYcZBr1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210060,
+      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 - Even If",
+      "url": "https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g"
     },
     {
       "album": {
@@ -941,7 +1057,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 260571,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e40\u0e2b\u0e07\u0e32 (if only)",
       "url": "https://open.spotify.com/track/0Hw3zXdLdXqtbGhBPhUhY6"
@@ -1100,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e32\u0e40\u0e2d\u0e32\u0e44\u0e23 (A Rebound)",
+        "url": "https://open.spotify.com/album/4bYkrPsvvRsRhYcaSl3TA7"
+      },
+      "artists": [
+        {
+          "name": "Proo Thunwa",
+          "url": "https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "\u0e21\u0e32\u0e40\u0e2d\u0e32\u0e44\u0e23 - A Rebound",
+      "url": "https://open.spotify.com/track/0E1TRAWupIIwrC3vZDkHFd"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e35\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e14\u0e32\u0e27",
         "url": "https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo"
       },
@@ -1118,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e22\u0e49\u0e07 (From KinnPorsche The Series)",
+        "url": "https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e2d\u0e01 Season Five",
+          "url": "https://open.spotify.com/artist/1wM1e379Yyvtq6964zzL3G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e22\u0e49\u0e07 (From KinnPorsche The Series)",
+      "url": "https://open.spotify.com/track/7uACNnshGf5tGOj9i42irz"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e02\u0e49\u0e32\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 (Falling in Love)",
         "url": "https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj"
       },
@@ -1129,7 +1281,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 244136,
       "name": "\u0e23\u0e31\u0e01\u0e02\u0e49\u0e32\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 (Falling in Love)",
       "url": "https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe"
@@ -1375,7 +1527,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 267500,
       "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/2RzvMRIJoCpxSN9hAjfJlF"
@@ -1602,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d (From KinnPorsche The Series)",
+        "url": "https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk"
+      },
+      "artists": [
+        {
+          "name": "Barcode Tinnasit Isarapongporn",
+          "url": "https://open.spotify.com/artist/7kBYXxfsNkiMGawDOsvE67"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d (From KinnPorsche The Series)",
+      "url": "https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly) [feat. MILLI]",
         "url": "https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj"
       },
@@ -1653,7 +1823,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 183913,
       "name": "\u0e40\u0e2b\u0e25\u0e48\u0e17\u0e48\u0e2d",
       "url": "https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB"
@@ -1689,7 +1859,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 216569,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e07\u0e32 (Hide)",
       "url": "https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n"
@@ -1856,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e08\u0e1b\u0e4b\u0e21 (You cut my heart cuz you don't care my hair)",
+        "url": "https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj"
+      },
+      "artists": [
+        {
+          "name": "KiRANA",
+          "url": "https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "\u0e43\u0e08\u0e1b\u0e4b\u0e21 - You cut my heart cuz you don't care my hair",
+      "url": "https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d (AirTag)",
         "url": "https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY"
       },
@@ -1907,6 +2095,24 @@
       "duration_ms": 258379,
       "name": "\u0e43\u0e2b\u0e49\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e44\u0e07",
       "url": "https://open.spotify.com/track/2hT18XXbbUSPuu8jRWzIhj"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > Higgo Raj構想關於一個hot bit\*h「沉船」後，覺醒做返自己嘅故事。都係嗰句，想愛就愛吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678 likes - 26 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 26 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

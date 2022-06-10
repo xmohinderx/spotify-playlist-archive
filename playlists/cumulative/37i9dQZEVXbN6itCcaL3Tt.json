@@ -3964,6 +3964,32 @@
     },
     {
       "album": {
+        "name": "Dzielny Pacjent",
+        "url": "https://open.spotify.com/album/0dv2L5TZRI3Ww6nzO2pASn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158852,
+      "name": "Dzielny Pacjent",
+      "url": "https://open.spotify.com/track/2JgXs4DAmnN9Jz65gIrhCB"
+    },
+    {
+      "album": {
         "name": "Dzie\u0144 jeden w roku",
         "url": "https://open.spotify.com/album/5fWXtZtTHHlIIUtV6ZD4Sr"
       },
@@ -5115,7 +5141,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"

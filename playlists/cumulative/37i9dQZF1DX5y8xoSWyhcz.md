@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Kid Bloom
 
-866 songs - 1 day 20 hr 14 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+867 songs - 1 day 20 hr 17 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Let Me Feel Low \(feat\. Miloe\)](https://open.spotify.com/track/2WgtDonid49ziQ1jORmrES) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Let Me Feel Low \(feat\. Miloe\)](https://open.spotify.com/album/22EgoSZsZ2WEEZKXaXCum6) | 4:35 | 2020-11-14 | 2020-12-07 |
 | [Let Me Save You](https://open.spotify.com/track/3zjPyZkTYg2fd53yNoI1FA) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Me Save You](https://open.spotify.com/album/5EnyvzAwaulMGJqMe9DFSi) | 3:38 | 2021-09-18 | 2021-10-23 |
 | [lie lie lie](https://open.spotify.com/track/5epDtUg4s8do8chclldxpZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [lie lie lie](https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16) | 2:51 | 2021-11-27 | 2022-04-23 |
+| [lie lie lie \- remix](https://open.spotify.com/track/2Dfgq5js5WVXSzpITCQhMT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [lie lie lie \(remix\)](https://open.spotify.com/album/36PtN8Dq0m9QSBPxM4lDIY) | 2:56 | 2022-06-03 |  |
 | [Lifeboat](https://open.spotify.com/track/06XGDc22UJpDDA1WI9GM3x) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Lifeboat](https://open.spotify.com/album/4Sz4hLn5aObR6KNvr9vyyc) | 2:37 | 2022-01-07 | 2022-03-15 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-05-03 | 2021-07-17 |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 | 2021-10-02 |

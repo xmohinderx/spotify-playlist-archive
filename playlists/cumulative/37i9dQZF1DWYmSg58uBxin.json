@@ -870,6 +870,24 @@
     },
     {
       "album": {
+        "name": "evolutions",
+        "url": "https://open.spotify.com/album/7dxngiRlQql8lyVPsYduHa"
+      },
+      "artists": [
+        {
+          "name": "Julian Luger",
+          "url": "https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120232,
+      "name": "evolutions",
+      "url": "https://open.spotify.com/track/1YMG8eqZVOstN5Yw6SBGeX"
+    },
+    {
+      "album": {
         "name": "Fabula",
         "url": "https://open.spotify.com/album/7h24RWCo6tYMtvBXYfBdln"
       },

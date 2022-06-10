@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-100 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+102 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Nilave](https://open.spotify.com/track/0bBFHTeJKIqDZruxAGrAsd) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Sugirtharaja Sapesan](https://open.spotify.com/artist/1VVa6EfoRKLOsx744VfO3C) | [Nilave](https://open.spotify.com/album/0Xg3ZLaeQzbhwm3Tk7vZOR) | 3:16 | 2022-05-31 |  |
 | [NOBODY](https://open.spotify.com/track/5tqMsLGykkIIkTX4We9zJO) | [Stowe Francis](https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ) | [NOBODY](https://open.spotify.com/album/1X0APrHJwYghZuR3KxKd5N) | 2:40 | 2022-03-21 | 2022-05-31 |
 | [Ooradangu Uththaravu](https://open.spotify.com/track/1QGUiYP2G9EZoSHLVvaoZU) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak) | [Ooradangu Uththaravu](https://open.spotify.com/album/5WOcOmhUjF2yrwg9xBN7d4) | 3:19 | 2022-06-02 |  |
+| [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/5fVJ73lipcxif29dXiDcev), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-06-09 |  |
 | [Oru Jappaniya Meenaippol \- From "Naatpadu Theral \- 2"](https://open.spotify.com/track/04dE3IdO8YQkbsDUtjnecw) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV) | [Oru Jappaniya Meenaippol \(From "Naatpadu Theral \- 2"\)](https://open.spotify.com/album/4MlK59tQe0zTr0zqWjgGsX) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/track/0V6jQ4UPA1qZoCjCTlw0WQ) | [Sadish Ragupathy](https://open.spotify.com/artist/1NQn5XmA9wnfmIY4XPFUNL), [Abhijith Anilkumar](https://open.spotify.com/artist/7Lw0R0kCCTfMQaJQiG1ROp), [Madan](https://open.spotify.com/artist/6maVydCk51TQrc7S3wNx49) | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/album/7Gz4LlHvwyumntJiSvdCQK) | 3:03 | 2022-01-27 |  |
 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 | 2022-04-29 |  |
@@ -107,6 +108,7 @@
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 |  |
 | [Vennilavum Ponninadhiyum](https://open.spotify.com/track/6l0zMrCEPTC1tIHRXqjwg2) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Vennilavum Ponninadhiyum](https://open.spotify.com/album/58PYBlSE6mWtDRD5aXPCx8) | 3:13 | 2022-02-03 |  |
 | [Vettai](https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Vettai](https://open.spotify.com/album/7hTKG1aNFbQDr6YY7HZnGz) | 3:23 | 2022-04-05 |  |
+| [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 |  |
 | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ) | [P.S\. Ashwin](https://open.spotify.com/artist/0QeMt74YcTUUxJebGV58Vv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/album/4QF4CLBDzeconmu7xcwKTX) | 3:59 | 2022-04-04 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

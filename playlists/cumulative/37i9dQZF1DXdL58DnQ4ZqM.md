@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-232 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+233 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Embrace](https://open.spotify.com/track/3mnhlLOswWkDX4myxwq4Ru) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Embrace](https://open.spotify.com/album/1MLCJzyzug1A9bHm9eekDI) | 2:21 | 2022-03-16 |  |
 | [Emotional World](https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj) | [Flight Club](https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D) | [Flight \(Vol 1\)](https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX) | 3:18 | 2021-08-10 | 2022-03-17 |
 | [Endless Love](https://open.spotify.com/track/67kUPwZHMMJiuHE0lC9B0B) | [Willgoth Oakenfold](https://open.spotify.com/artist/2vO13ONMqZR7ij3pH1MCBg) | [Endless Love](https://open.spotify.com/album/5hubGJvMCUiS47LS3iCkyD) | 4:28 | 2021-08-10 | 2022-03-17 |
+| [Endless Ride](https://open.spotify.com/track/5UaRDNZRytOrwUpoC2PGnu) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Endless Ride](https://open.spotify.com/album/35Ot96eQKx5omcBkLUw1Lx) | 2:19 | 2022-06-10 |  |
 | [Exit](https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:34 | 2021-08-10 | 2022-03-17 |
 | [Eyt](https://open.spotify.com/track/7gOKwHMv6qvGGydjmA76c9) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Xixx](https://open.spotify.com/album/3vGSksiRTc53Jofh6ZsdiU) | 3:22 | 2021-08-10 | 2022-03-17 |
 | [Face the dive](https://open.spotify.com/track/6YZnJKi3jLeG78OVEyGgxv) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT) | 3:59 | 2021-08-10 | 2022-03-17 |

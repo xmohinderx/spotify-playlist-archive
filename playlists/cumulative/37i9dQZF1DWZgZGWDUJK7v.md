@@ -4,7 +4,7 @@
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Love Revolution\(연애혁명\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-58 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+59 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 | 2022-05-09 |  |
 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 | 2022-05-09 |  |
 | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1) | 4:36 | 2022-05-09 |  |
+| [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 |  |
 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 | 2022-05-09 |  |
 | [My Love is Pain](https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Love is Pain \(Marriage Or Death X Mad Clown, Sondia\)](https://open.spotify.com/album/7glE3yJAC0V371XkEJYVqf) | 3:42 | 2022-05-09 |  |
 | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [My Reflection \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2uLI89pW1DWuduHzqjTqQs) | 3:07 | 2022-05-09 |  |

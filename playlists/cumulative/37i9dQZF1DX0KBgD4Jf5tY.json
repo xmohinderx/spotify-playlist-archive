@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: specchiopaura, SANO",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Ginevra Nervi",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -81,6 +81,24 @@
       "duration_ms": 185185,
       "name": "1of1",
       "url": "https://open.spotify.com/track/5Kd075ZC3yyNHWfp2TNDpj"
+    },
+    {
+      "album": {
+        "name": "The Trunk",
+        "url": "https://open.spotify.com/album/6dKi7duAQCHvOqpUQJ7Peo"
+      },
+      "artists": [
+        {
+          "name": "Olmo",
+          "url": "https://open.spotify.com/artist/1eeXVA2sTpR51UoCDfjzOW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0fEoNh47MDDJjbUSE1Jrgk"
     },
     {
       "album": {
@@ -1204,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Distacco",
+        "url": "https://open.spotify.com/album/06yNxjDVL2II17sw5AkTig"
+      },
+      "artists": [
+        {
+          "name": "Camelia",
+          "url": "https://open.spotify.com/artist/0dPatCmpdlINrqFEoML8jm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Distacco",
+      "url": "https://open.spotify.com/track/20FM8mMnCWEY7TQ8NeK78x"
+    },
+    {
+      "album": {
         "name": "Maschere (Remix)",
         "url": "https://open.spotify.com/album/58GvZeCSW137Lzar4aaZip"
       },
@@ -1353,6 +1389,24 @@
       "duration_ms": 168820,
       "name": "eCooltra",
       "url": "https://open.spotify.com/track/0gME98nlmJ3ELluzumLK9U"
+    },
+    {
+      "album": {
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338200,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr"
     },
     {
       "album": {
@@ -1544,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "frantumi",
+        "url": "https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU"
+      },
+      "artists": [
+        {
+          "name": "junksleep",
+          "url": "https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "frantumi",
+      "url": "https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC"
+    },
+    {
+      "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/4JMH5czbCQE21URYUFcJ8Y"
       },
@@ -1693,7 +1765,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 152870,
       "name": "HOUDINI",
       "url": "https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA"
@@ -1715,7 +1787,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188571,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB"
@@ -1809,7 +1881,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 125624,
       "name": "Il suono che ho dentro alla testa",
       "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
@@ -1943,6 +2015,42 @@
       "duration_ms": 143850,
       "name": "L'amore su Tinder",
       "url": "https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ"
+    },
+    {
+      "album": {
+        "name": "L'invenzione della dance",
+        "url": "https://open.spotify.com/album/6bGoTJvrI6reJJG0S9o5qM"
+      },
+      "artists": [
+        {
+          "name": "Tiso",
+          "url": "https://open.spotify.com/artist/2o4EzEyBSByCnZwaVgh99h"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206206,
+      "name": "L'invenzione della dance",
+      "url": "https://open.spotify.com/track/2x14trnSSKMrJS9Q5feHJF"
+    },
+    {
+      "album": {
+        "name": "La Ruota",
+        "url": "https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG"
+      },
+      "artists": [
+        {
+          "name": "OIDA",
+          "url": "https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204512,
+      "name": "La Ruota",
+      "url": "https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e"
     },
     {
       "album": {
@@ -2299,6 +2407,42 @@
       "duration_ms": 167111,
       "name": "Montagnarussa",
       "url": "https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR"
+    },
+    {
+      "album": {
+        "name": "Montagne",
+        "url": "https://open.spotify.com/album/0CrxAt6D7bGDImfIBt9QI1"
+      },
+      "artists": [
+        {
+          "name": "Ters\u00f8",
+          "url": "https://open.spotify.com/artist/6dPkQ9H6GSNXJFe7ZnukoU"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254210,
+      "name": "Montagne",
+      "url": "https://open.spotify.com/track/0LLIKdwjscg0HjdUEPwuKn"
+    },
+    {
+      "album": {
+        "name": "Mostri",
+        "url": "https://open.spotify.com/album/2XET1mEckoj6EoJWkbD0OQ"
+      },
+      "artists": [
+        {
+          "name": "Femme",
+          "url": "https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167396,
+      "name": "Mostri",
+      "url": "https://open.spotify.com/track/0Gz9IzvwXRQRGYoUJ9mbdF"
     },
     {
       "album": {
@@ -2838,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "Occhi Rossi",
+        "url": "https://open.spotify.com/album/0mT09gh54HypspgwwzWd0R"
+      },
+      "artists": [
+        {
+          "name": "I Dolori del Giovane Walter",
+          "url": "https://open.spotify.com/artist/1yGEqWwG1niom92pU3ha4n"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179741,
+      "name": "Occhi Rossi",
+      "url": "https://open.spotify.com/track/5LBqJRTnM2ylpHIoZFlYNN"
+    },
+    {
+      "album": {
         "name": "oceano di lacrime",
         "url": "https://open.spotify.com/album/6BIetlE8TeXrXU5A6JTo0z"
       },
@@ -2937,7 +3099,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 193418,
       "name": "OSHILLANDO",
       "url": "https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX"
@@ -2991,7 +3153,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 192358,
       "name": "Pensiero magico",
       "url": "https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX"
@@ -3111,7 +3273,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 148965,
       "name": "Piatti Sporchi",
       "url": "https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8"
@@ -3673,7 +3835,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 155996,
       "name": "Scuse",
       "url": "https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6"
@@ -3757,7 +3919,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 179017,
       "name": "Serramanico Farfalla",
       "url": "https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb"
@@ -3811,7 +3973,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 208346,
       "name": "Sigo Huyendo",
       "url": "https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh"
@@ -4648,6 +4810,24 @@
     },
     {
       "album": {
+        "name": "VOLUME II CURE",
+        "url": "https://open.spotify.com/album/7ztlSH1ZMlbrMF4tTIMVnG"
+      },
+      "artists": [
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121739,
+      "name": "WESH ALL",
+      "url": "https://open.spotify.com/track/2Ox25vROeKo5yTH13cAo5Y"
+    },
+    {
+      "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
@@ -4699,7 +4879,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 291600,
       "name": "Zero",
       "url": "https://open.spotify.com/track/4acda42yRN6yGsdhx5ATk1"

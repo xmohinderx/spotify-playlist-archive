@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: ANNA
 
-243 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+246 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Almeno Stasera](https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 2:18 | 2022-05-03 | 2022-06-03 |
 | [Amore & Basilico](https://open.spotify.com/track/78hcD0Q5T73Gt40eJaAYPK) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Amore & Basilico](https://open.spotify.com/album/6R2P1SPissX76SM5E4TC74) | 3:01 | 2022-03-07 | 2022-04-06 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-05-03 | 2022-06-03 |
+| [ANARCHICI](https://open.spotify.com/track/2qn2TiFZNKjmC00LzoCvQQ) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [ANARCHICI](https://open.spotify.com/album/5DFilVagg5WL6q7HLSwphF) | 4:10 | 2022-06-09 |  |
 | [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 | 2022-06-02 |  |
 | [Anima in piena](https://open.spotify.com/track/2AZpzBmuZCD8V5WpjJiUzI) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Mostri](https://open.spotify.com/album/2oaAUknInCYTqSGtZUT08N) | 3:50 | 2021-12-07 | 2022-01-05 |
 | [ANSIA](https://open.spotify.com/track/3lokS66vRCUis4mEjF5KBu) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [ANSIA](https://open.spotify.com/album/4m0F5qV5tyn31UMUpjdYRy) | 2:52 | 2022-06-02 |  |
@@ -204,6 +205,7 @@
 | [Rusinè](https://open.spotify.com/track/5dto4XvkZtVkIoS01MuYBj) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [SENTIMENTAL SEASON](https://open.spotify.com/album/5UANvkXWD1fO7N8skSVUes) | 2:42 | 2021-12-07 | 2022-02-03 |
 | [SABBIE MOBILI](https://open.spotify.com/track/6SOtdbnV35PwIVLpFhMfnu) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [SABBIE MOBILI](https://open.spotify.com/album/17d7difDoVQ3pjgbURerM0) | 2:21 | 2022-05-03 | 2022-06-03 |
 | [Salice](https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi) | [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Salice](https://open.spotify.com/album/1KETHPt4P9yeJwQLnw7bkK) | 3:49 | 2022-01-04 | 2022-03-08 |
+| [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 | 2022-06-09 |  |
 | [Scatola](https://open.spotify.com/track/106fyaBCHP5I3mMED2OAHB) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Scatola](https://open.spotify.com/album/1Fi4bAtx1G2kCwFHS4JYLa) | 3:27 | 2022-02-02 | 2022-04-06 |
 | [Scema](https://open.spotify.com/track/3DZ4lWttS6qCfkusD6Lm8g) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scema](https://open.spotify.com/album/7vSumiaPXy6R4RVFKpi2tY) | 2:55 | 2022-02-02 | 2022-03-08 |
 | [Sciura Milanese](https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh) | 3:10 | 2022-02-02 | 2022-04-06 |
@@ -234,6 +236,7 @@
 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 | 2022-02-02 | 2022-04-06 |
 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 | 2022-02-02 | 2022-04-06 |
 | [Tremo](https://open.spotify.com/track/06cpgjxgSb5gcSTY90xKX3) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Tremo](https://open.spotify.com/album/49b7CFidzwmjE7rJ8jfoL8) | 3:25 | 2022-03-07 | 2022-06-03 |
+| [Tribale](https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Tribale](https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D) | 2:42 | 2022-06-09 |  |
 | [TSO](https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [TSO](https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan) | 3:09 | 2022-02-02 | 2022-04-06 |
 | [tu.](https://open.spotify.com/track/63oeo2wq00LdQNIGCUqEJy) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/3fqmpVZwl8zv9pMUrk7CVI) | 3:27 | 2021-12-07 | 2022-02-03 |
 | [Tutt\* stran\*](https://open.spotify.com/track/4sg1ORbMIL2t8afAHsG7xw) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Tutt\* stran\*](https://open.spotify.com/album/04ubGS2v1n2zI8E91p24Yt) | 2:55 | 2022-01-04 | 2022-02-03 |

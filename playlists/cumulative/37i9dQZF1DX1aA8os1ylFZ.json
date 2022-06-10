@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188693,
       "name": "Bad",
       "url": "https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd"
@@ -241,6 +241,24 @@
       "duration_ms": 229673,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7sVXNPMPd0ZOs4ryzAcMW8"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228816,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1I3reC5HX2tvJ4ULvvm968"
     },
     {
       "album": {
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219453,
       "name": "My Favourite Mistake",
       "url": "https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ"

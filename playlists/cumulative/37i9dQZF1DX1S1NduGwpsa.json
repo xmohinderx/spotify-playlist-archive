@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Melody Gardot",
+  "description": "The best jazz new releases. Photo : FKJ",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -41,6 +41,24 @@
       "duration_ms": 328346,
       "name": "Add Fiction",
       "url": "https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw"
+    },
+    {
+      "album": {
+        "name": "Age Of Ascent",
+        "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
     },
     {
       "album": {
@@ -99,7 +117,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 263400,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/5gBNcgLVzIUktu6E6GJqMZ"
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 264360,
       "name": "Captured Time",
       "url": "https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 284160,
       "name": "For Real",
       "url": "https://open.spotify.com/track/7vWCDnCsVZZAJiMdYEAD2r"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 285453,
       "name": "La \u00d1apa",
       "url": "https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI"
@@ -777,6 +795,28 @@
       "duration_ms": 281234,
       "name": "Madagascar - Single Edit",
       "url": "https://open.spotify.com/track/2gNGsNLgp8LEvKTmrlflrb"
+    },
+    {
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/7cUAxy0L0BTYnKtSLdgObX"
+      },
+      "artists": [
+        {
+          "name": "Marcus Strickland",
+          "url": "https://open.spotify.com/artist/6de0V6wLyRKp3I2LDMrXCr"
+        },
+        {
+          "name": "Christie Dashiell",
+          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225368,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/0u3Zx4Id7vUw1JaTOmCx9v"
     },
     {
       "album": {
@@ -1274,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "Sugar Boogie",
+        "url": "https://open.spotify.com/album/3cBiGBlG8iO4b3ApFACage"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224364,
+      "name": "Sugar Boogie",
+      "url": "https://open.spotify.com/track/3d9bpqER5KPEtUDt6qsk0m"
+    },
+    {
+      "album": {
         "name": "Sun Dog",
         "url": "https://open.spotify.com/album/459ZdoFvmNocJirrglhTRC"
       },
@@ -1336,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/7CCjUNt1yUBYj87AE4Pzzw"
       },
@@ -1377,7 +1453,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 212826,
       "name": "This Foolish Heart Could Love You",
       "url": "https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl"
@@ -1475,7 +1551,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 217906,
       "name": "To Feel My Love",
       "url": "https://open.spotify.com/track/1wHg9gkUj3sjT9juoZSdNR"
@@ -1548,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5BWHI6HIlttptflig3odJ7"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2hsbJHiMjljKFNtd5OGshn"
+    },
+    {
+      "album": {
         "name": "Uteki",
         "url": "https://open.spotify.com/album/1zDxdzbNu4o75qRzcQzkcc"
       },
@@ -1567,6 +1661,24 @@
       "duration_ms": 167000,
       "name": "Uteki",
       "url": "https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX"
+    },
+    {
+      "album": {
+        "name": "Victory Dance",
+        "url": "https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295893,
+      "name": "Victory Dance",
+      "url": "https://open.spotify.com/track/6cQzmvrbnCM1d51XOodmPR"
     },
     {
       "album": {

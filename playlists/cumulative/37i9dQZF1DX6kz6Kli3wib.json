@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "foamy",
+        "url": "https://open.spotify.com/album/4fYioHIsP8bXNUy0xM0SbQ"
+      },
+      "artists": [
+        {
+          "name": "Milk Malone",
+          "url": "https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "foamy",
+      "url": "https://open.spotify.com/track/6g3fCAc9ql4fmYAorTLuUw"
+    },
+    {
+      "album": {
         "name": "Following the trail",
         "url": "https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi"
       },

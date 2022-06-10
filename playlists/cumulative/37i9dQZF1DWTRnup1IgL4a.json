@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Drift off to sleep with acoustic guitar.",
-  "name": "Under the Stars",
+  "description": "Get a great night's sleep with these soft acoustic guitar tunes.",
+  "name": "Guitar for Sleep",
   "published_playlist_ids": [
     "7ISFFwuQB5ntspjOylTJdw"
   ],
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 181716,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4IjmclhUwmI4NnitZZkfUb"
@@ -401,6 +401,24 @@
       "duration_ms": 125472,
       "name": "Espa\u00f1oleta",
       "url": "https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS"
+    },
+    {
+      "album": {
+        "name": "Feelings You Cannot Hide",
+        "url": "https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mathieu",
+          "url": "https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "Feelings You Cannot Hide",
+      "url": "https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4"
     },
     {
       "album": {
@@ -815,7 +833,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 167666,
       "name": "Lonely Prayer",
       "url": "https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7"
@@ -873,6 +891,24 @@
       "duration_ms": 240511,
       "name": "Longe pode estar muito perto",
       "url": "https://open.spotify.com/track/4PuhyQFzQDXzwzNceo9HuP"
+    },
+    {
+      "album": {
+        "name": "Taormina",
+        "url": "https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Love me again",
+      "url": "https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF"
     },
     {
       "album": {
@@ -1110,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Passing Rain",
+        "url": "https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Passing Rain",
+      "url": "https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d"
+    },
+    {
+      "album": {
         "name": "Peaceful Workshop",
         "url": "https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl"
       },
@@ -1265,7 +1319,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 166851,
       "name": "Seresta",
       "url": "https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg"
@@ -1488,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "Tranquille",
+        "url": "https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP"
+      },
+      "artists": [
+        {
+          "name": "Cordell Zoe",
+          "url": "https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170838,
+      "name": "Tranquille",
+      "url": "https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51"
+    },
+    {
+      "album": {
         "name": "Underling",
         "url": "https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed"
       },
@@ -1561,6 +1633,24 @@
       "duration_ms": 149310,
       "name": "Unsung Heroes",
       "url": "https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5"
+    },
+    {
+      "album": {
+        "name": "Vacilando",
+        "url": "https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Vacilando",
+      "url": "https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz"
     },
     {
       "album": {

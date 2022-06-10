@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Desi music across borders and genres\. Cover: Twinjabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,387 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,400 likes - 89 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 |
+| 1 | [Screwing It Up](https://open.spotify.com/track/0UhSaRMPaCgF9PcUHJ2Lon) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Screwing It Up](https://open.spotify.com/album/4HehEGM5FLDlbFIJRYjHYG) | 3:19 |
 | 2 | [A Mi Tambien](https://open.spotify.com/track/547U8y8hkL0VwiGWQIawVi) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [A Mi Tambien](https://open.spotify.com/album/3oGNeC63uyqRudbdsM5LUM) | 2:43 |
-| 3 | [Screwing It Up](https://open.spotify.com/track/0UhSaRMPaCgF9PcUHJ2Lon) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Screwing It Up](https://open.spotify.com/album/4HehEGM5FLDlbFIJRYjHYG) | 3:19 |
-| 4 | [Harami](https://open.spotify.com/track/5IHWigPKhsajqRGxgWyC6x) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Harami](https://open.spotify.com/album/4oU8WP84iokSNQo1tJqzY5) | 2:29 |
+| 3 | [Harami](https://open.spotify.com/track/5IHWigPKhsajqRGxgWyC6x) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Harami](https://open.spotify.com/album/4oU8WP84iokSNQo1tJqzY5) | 2:29 |
+| 4 | [Qismat](https://open.spotify.com/track/4b0soQCSy5HtkBKB6M9XzF) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Qismat](https://open.spotify.com/album/7mkiYBGKez9OA0PvQ2ev4k) | 3:33 |
 | 5 | [Daily](https://open.spotify.com/track/1YHQk3mvPu3CJediWgaiNa) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Daily](https://open.spotify.com/album/19ENjuaSWREwNmdVuP7ddA) | 2:58 |
 | 6 | [She Bad](https://open.spotify.com/track/3fgE2kiX4wCIznmKNVRQ8O) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [She Bad](https://open.spotify.com/album/3CtoXePudXVyAAvr5OF4vi) | 2:38 |
 | 7 | [Oehnana ft\. TM Bax](https://open.spotify.com/track/5lUWDZXEFuQ6MjUYKx5guu) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 3:06 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 88 | [Divas](https://open.spotify.com/track/4qwOtfS2I6pPSt3CKq9TSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Divas](https://open.spotify.com/album/4ji38NmCuB2K32ZV3V7N6B) | 3:07 |
 | 89 | [Falling](https://open.spotify.com/track/2TDCPIKujxVYzIWXPGbaGY) | [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Lyan](https://open.spotify.com/artist/4rxmalszfZZfX8CDccpTpf) | [Falling](https://open.spotify.com/album/1E9MlbCux498CZI8WPX1Sz) | 3:37 |
 
-Snapshot ID: `MTY1MjE2NTQ1NiwwMDAwMDBlYjAwMDAwMTgwYWNiYzMyNmUwMDAwMDE3MGM0OWY5ZWY1`
+Snapshot ID: `MTY1NDc2MDQ0OSwwMDAwMDBlYzAwMDAwMTgxNDc2OGE2YjMwMDAwMDE3MGM0OWY5ZWY1`

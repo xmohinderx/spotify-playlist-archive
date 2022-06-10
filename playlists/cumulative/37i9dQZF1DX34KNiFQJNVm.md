@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada, IZA, Post Malone com Doja Cat e mais!
 
-1,881 songs - 4 day 1 hr 3 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+1,882 songs - 4 day 1 hr 6 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-04-16 |
 | [Flames](https://open.spotify.com/track/4BEsc7EIzOYFiClFnV8weP) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Flames](https://open.spotify.com/album/0A9oOLFr04cEwGempReqAH) | 3:21 | 2022-01-14 | 2022-01-22 |
+| [Flautinha](https://open.spotify.com/track/0d2CbaUiOR4epe8w4VZUPB) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Flautinha](https://open.spotify.com/album/2R7Vyk9Yj7lOzbpbRxS1yw) | 2:22 | 2022-06-03 |  |
 | [Flor](https://open.spotify.com/track/4WwaMmqXkRRoAGtrCVnc6O) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi), [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k) | [Flor](https://open.spotify.com/album/1UVpxyb8UIaBxTNvhO623L) | 3:37 | 2022-06-03 |  |
 | [florescer](https://open.spotify.com/track/09ItS3c6l7OLSyx5xPjEeL) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [VIGA](https://open.spotify.com/album/4k62KQIRN4d6Cf8dBFygdO) | 3:42 | 2022-04-22 | 2022-04-29 |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-01-21 | 2022-01-29 |

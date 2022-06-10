@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Nikhita Gandhi",
-  "num_followers": 4745,
+  "num_followers": 4747,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -700,20 +700,16 @@
       },
       "artists": [
         {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
           "name": "Javed-Mohsin",
           "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
         },
         {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
-        },
-        {
           "name": "Payal Dev",
           "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        },
-        {
-          "name": "Deane Sequeira",
-          "url": "https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC"
         }
       ],
       "duration_ms": 168442,

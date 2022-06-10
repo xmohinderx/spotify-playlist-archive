@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "La Sete D'Amore",
+        "url": "https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V"
+      },
+      "artists": [
+        {
+          "name": "Elmer Soul\u00e9",
+          "url": "https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94054,
+      "name": "La Sete D'Amore",
+      "url": "https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq"
+    },
+    {
+      "album": {
         "name": "Alma Azul",
         "url": "https://open.spotify.com/album/573aR866i22zkC8OTWKOVU"
       },

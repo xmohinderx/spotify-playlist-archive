@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128412,
+  "num_followers": 128407,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ1NSxjNDVmZjkyMzUyMzI4YzYxY2RmY2QwMTljMzQwODcwYzJlOTY2MGI0",
+  "snapshot_id": "MzQ1Nyw1OTRkMDliNzZhZTlkMzE0NzY3MjEzODc3YzIxZWViMjZiMzQzMDRj",
   "tracks": [
+    {
+      "added_at": "2022-06-09 16:43:04",
+      "album": {
+        "name": "Droids",
+        "url": "https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 220028,
+      "name": "Droids",
+      "url": "https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH"
+    },
     {
       "added_at": "2022-06-08 15:59:37",
       "album": {
@@ -1071,22 +1091,6 @@
       "duration_ms": 264500,
       "name": "Faded",
       "url": "https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf"
-    },
-    {
-      "added_at": "2022-03-29 16:21:04",
-      "album": {
-        "name": "Forget About Me",
-        "url": "https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz"
-      },
-      "artists": [
-        {
-          "name": "Nick Smith",
-          "url": "https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc"
-        }
-      ],
-      "duration_ms": 155476,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

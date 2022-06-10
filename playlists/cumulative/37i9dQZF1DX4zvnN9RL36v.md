@@ -4,12 +4,13 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-71 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
+73 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 | 2022-03-07 |  |
 | [0430](https://open.spotify.com/track/0xW6kidTNxzDRZIuCpU0wO) | [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [0430](https://open.spotify.com/album/0d84RiXv7OS88I3TC7G0HE) | 3:41 | 2022-03-07 |  |
+| [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 | 2022-06-09 |  |
 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 | 2022-03-07 |  |
 | [Alone](https://open.spotify.com/track/7ntK0Uv0nawyHqhmuHEtQv) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate,Pt.8\(Original Television Soundtrack\)](https://open.spotify.com/album/0jPbVk0V32lFwjft2sO4FB) | 3:48 | 2022-03-07 |  |
 | [An Ordinary Day](https://open.spotify.com/track/5d5LwS6WJagz80BcpZDzOO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Tv Soundtrack\) Part 3](https://open.spotify.com/album/0LJ4mPTGWWhiAkkzihAFdq) | 4:34 | 2022-03-07 |  |
@@ -29,6 +30,7 @@
 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 | 2022-03-07 |  |
 | [If You Were Me \(From Mr\. Sunshine \[Original Television Soundtrack\], Pt\. 14\)](https://open.spotify.com/track/55vLDRsWmZoUyKgNgF2mZP) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [If You Were Me \[From Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14\]](https://open.spotify.com/album/2oiawoUuxkhUEDEiTrcXgI) | 4:24 | 2022-03-07 |  |
 | [Jewel \(feat\. KURO\)](https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Jewel \(feat\. KURO\)](https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b) | 3:01 | 2022-03-07 |  |
+| [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 |  |
 | [Like Air \(feat\. Dalmood\)](https://open.spotify.com/track/1Q2OIj95JJ7sbU84Nm4r87) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW), [Dalmood](https://open.spotify.com/artist/0bbyVltGmhBaILdoxGZ350) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:05 | 2022-03-07 |  |
 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 | 2022-03-07 |  |
 | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/track/36OfOb4vcMDpnCp08CkAoZ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/album/6cUZKyRcIN505hk8MxDm2v) | 3:39 | 2022-03-07 |  |

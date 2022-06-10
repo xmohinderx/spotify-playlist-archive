@@ -986,6 +986,28 @@
     },
     {
       "album": {
+        "name": "Droids",
+        "url": "https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220028,
+      "name": "Droids",
+      "url": "https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K"
       },
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 155476,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW"

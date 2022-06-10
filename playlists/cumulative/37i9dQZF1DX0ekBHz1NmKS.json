@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Alla m\u00e5ste \u00e4lska mig",
+        "url": "https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1"
+      },
+      "artists": [
+        {
+          "name": "Emma-Lee Andersson",
+          "url": "https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164017,
+      "name": "Alla m\u00e5ste \u00e4lska mig",
+      "url": "https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM"
+    },
+    {
+      "album": {
         "name": "En g\u00e5ng i tiden (del 2)",
         "url": "https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 233413,
       "name": "Barn av v\u00e5r tid",
       "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
@@ -938,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Br\u00e4nner",
+        "url": "https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Br\u00e4nner",
+      "url": "https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd"
+    },
+    {
+      "album": {
         "name": "Buried",
         "url": "https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs"
       },
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 156355,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6oYf0YzUrchNMmrWQKm3pT"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 180133,
       "name": "Du \u00e4r allt jag vill ha",
       "url": "https://open.spotify.com/track/6jMDUl6rExqyjRzYavMFuy"
@@ -1967,7 +2003,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 161641,
       "name": "D\u00d6 F\u00d6R",
       "url": "https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3"
@@ -2021,7 +2057,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 269866,
       "name": "En fattig munk fr\u00e5n Skara",
       "url": "https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT"
@@ -2097,7 +2133,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 193422,
       "name": "Fake Front",
       "url": "https://open.spotify.com/track/1NK9I6zrU9TbVtV82umZHe"
@@ -2285,7 +2321,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 214293,
       "name": "Fire Burns You Cold",
       "url": "https://open.spotify.com/track/25ffJRgALd9ZCr22nHl8OJ"
@@ -2357,7 +2393,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 170040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz"
@@ -2743,7 +2779,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 212266,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/0S1xJLVhru1bOJH4EX0zcI"
@@ -2891,7 +2927,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 172468,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv"
@@ -3021,7 +3057,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 195173,
       "name": "Helan g\u00e5r",
       "url": "https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch"
@@ -3303,7 +3339,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219014,
       "name": "Hundratusen (feat. GAMMAL)",
       "url": "https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR"
@@ -3817,7 +3853,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 174917,
       "name": "Jag vill inte br\u00e5ka",
       "url": "https://open.spotify.com/track/0at5EUHXolMCt8H7cLWIHA"
@@ -3943,7 +3979,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 232109,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
@@ -4445,7 +4481,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Lova",
       "url": "https://open.spotify.com/track/001iFcI2PVrLteroX4urel"
@@ -5023,7 +5059,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Naked Love",
       "url": "https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz"
@@ -5041,7 +5077,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 209200,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
@@ -5265,6 +5301,24 @@
       "duration_ms": 237693,
       "name": "Nu stannar vi p\u00e5 marken",
       "url": "https://open.spotify.com/track/6AmXtz8CoUpH0AXvRSucLx"
+    },
+    {
+      "album": {
+        "name": "Nytt opium",
+        "url": "https://open.spotify.com/album/17y3qSADqECIpSUSqo6cZT"
+      },
+      "artists": [
+        {
+          "name": "Junior Brielle",
+          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249475,
+      "name": "Nytt opium",
+      "url": "https://open.spotify.com/track/24ZQxBTSz22uh3DdnKLUTG"
     },
     {
       "album": {
@@ -5595,7 +5649,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 237920,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv"
@@ -5779,7 +5833,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
@@ -6179,7 +6233,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188541,
       "name": "SAKNAR ORD",
       "url": "https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL"
@@ -6255,7 +6309,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 178526,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
@@ -7381,7 +7435,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 190693,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp"
@@ -7547,7 +7601,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 200334,
       "name": "The River",
       "url": "https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA"
@@ -7909,7 +7963,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 141333,
       "name": "Ut med allt",
       "url": "https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ"
@@ -8007,7 +8061,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -8455,7 +8509,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 194759,
       "name": "What You Were Made For",
       "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
@@ -8715,7 +8769,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Yours",
       "url": "https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT"

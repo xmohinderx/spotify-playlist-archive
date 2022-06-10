@@ -4,7 +4,7 @@
 
 > 
 
-62 songs - 4 hr 7 min - not published yet
+62 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/6Pa6YAec0uoo5SkRJc8HJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

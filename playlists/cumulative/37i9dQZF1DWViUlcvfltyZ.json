@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, i Tropea)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, gli Zen Circus)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -171,6 +171,24 @@
       "duration_ms": 160941,
       "name": "Blu",
       "url": "https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8"
+    },
+    {
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O"
+      },
+      "artists": [
+        {
+          "name": "K\u00e6ry Ann",
+          "url": "https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll"
     },
     {
       "album": {
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 210328,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 211649,
       "name": "Fiji",
       "url": "https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe"
@@ -535,10 +553,32 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 163940,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08"
+    },
+    {
+      "album": {
+        "name": "Gent",
+        "url": "https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA"
+      },
+      "artists": [
+        {
+          "name": "Selflore",
+          "url": "https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP"
+        },
+        {
+          "name": "Tana Combinaguai",
+          "url": "https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Gent",
+      "url": "https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl"
     },
     {
       "album": {
@@ -836,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Ansia Capitale",
+        "url": "https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66"
+      },
+      "artists": [
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184081,
+      "name": "La fine dell'eternit\u00e0",
+      "url": "https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe"
+    },
+    {
+      "album": {
         "name": "Ragazzina",
         "url": "https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6"
       },
@@ -847,7 +905,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 228924,
       "name": "Livido",
       "url": "https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v"
@@ -1406,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/7rDVuv58Z6ZfUEOMvBD6Eb"
+      },
+      "artists": [
+        {
+          "name": "Piqued Jacks",
+          "url": "https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191978,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6jDTTi7Ebqzf2d67Rfoqph"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -1421,6 +1497,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "The Light Shedder",
+        "url": "https://open.spotify.com/album/0NQGhIUUHSi7EYUq9pue06"
+      },
+      "artists": [
+        {
+          "name": "Laeds",
+          "url": "https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393120,
+      "name": "The Light Shedder",
+      "url": "https://open.spotify.com/track/68qqIsRN1CXGr2OC0fZWwc"
     },
     {
       "album": {
@@ -1453,7 +1547,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 176250,
       "name": "Tra chi fugge e chi resta",
       "url": "https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew"
@@ -1529,10 +1623,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 208101,
       "name": "Una festa",
       "url": "https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3"
+    },
+    {
+      "album": {
+        "name": "Valanga",
+        "url": "https://open.spotify.com/album/0Uzr5FEyRVTN2WuilSQZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Cara Calma",
+          "url": "https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Valanga",
+      "url": "https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS"
     },
     {
       "album": {

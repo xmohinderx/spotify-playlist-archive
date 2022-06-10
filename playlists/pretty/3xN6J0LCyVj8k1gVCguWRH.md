@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,573 likes - 125 songs - 7 hr 49 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,583 likes - 134 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,18 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 119 | [A Veces A Besos](https://open.spotify.com/track/586nNq2LbKBnjMvtFTrjWJ) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [A Veces A Besos](https://open.spotify.com/album/7teveKnXba4XXZ1CxQLf6k) | 2:26 |
 | 120 | [Summer Somewhere](https://open.spotify.com/track/5gXjWGcfXAXCtGIRvwtqmY) | [Monsieur Jovoni](https://open.spotify.com/artist/3xuKlsLk8I0Ch7gtyTKD2I), [J.Rovia](https://open.spotify.com/artist/5sF66VPWENlJu10egkIi2k) | [Shonan Drip](https://open.spotify.com/album/4t8kA7oUIwzsl8hF0G4wwd) | 2:16 |
 | 121 | [Breathe](https://open.spotify.com/track/6rpeIHhposl5lcVbouN8nk) | [Ed.1t](https://open.spotify.com/artist/00a74uAKOd6hQYhHFPZ6YC) | [Breathe](https://open.spotify.com/album/3irsbuhJ1MSDjepNVUi7lC) | 3:34 |
-| 122 | [Gholame Chëshm](https://open.spotify.com/track/2rNamr9pCceZgby2qPS6dM) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Mohammadreza Shajarian](https://open.spotify.com/artist/45EXJ1cQAEt8k2zIYHyLBm) | [Gholame Chëshm](https://open.spotify.com/album/4HDIJIvDg88VjqSX4qQvkj) | 2:33 |
-| 123 | [KM](https://open.spotify.com/track/50SrudKjaEI8AO7b9S8KfP) | [Miles Laforge](https://open.spotify.com/artist/6e1shSmBGcxyjxK5rgacLA) | [The UV](https://open.spotify.com/album/0WfltpJxvC0Cdc9Gy5jISA) | 2:40 |
-| 124 | [Kitty Cat](https://open.spotify.com/track/5GxI6UFqiB21CUUttI6Olp) | [Rose Wild](https://open.spotify.com/artist/6Xk8XHDgqtdMNAyr4h7rbs) | [Kitty Cat](https://open.spotify.com/album/0SDCZcP7XUyio5IwepSn2e) | 2:45 |
-| 125 | [Das Risiko](https://open.spotify.com/track/64ul0VBFy9Kxjsarl31euG) | [Family Time](https://open.spotify.com/artist/352Sj3QLwdoQXj3eLhwMHZ) | [Das Risiko](https://open.spotify.com/album/4lw5LjxSCuh61WM9xX5Btr) | 3:13 |
+| 122 | [Love Again](https://open.spotify.com/track/127MjyeDtYD30SlIAueSqR) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV) | [Love Again](https://open.spotify.com/album/20jgrsYb5T5pXiNF8mggXw) | 2:47 |
+| 123 | [Gholame Chëshm](https://open.spotify.com/track/2rNamr9pCceZgby2qPS6dM) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Mohammadreza Shajarian](https://open.spotify.com/artist/45EXJ1cQAEt8k2zIYHyLBm) | [Gholame Chëshm](https://open.spotify.com/album/4HDIJIvDg88VjqSX4qQvkj) | 2:33 |
+| 124 | [KM](https://open.spotify.com/track/50SrudKjaEI8AO7b9S8KfP) | [Miles Laforge](https://open.spotify.com/artist/6e1shSmBGcxyjxK5rgacLA) | [The UV](https://open.spotify.com/album/0WfltpJxvC0Cdc9Gy5jISA) | 2:40 |
+| 125 | [Impossible Things](https://open.spotify.com/track/0jtPhTHhecbl4rQQgpdJcl) | [Bethany Sorenson](https://open.spotify.com/artist/4OZUZ4yeIl8vnkVoHpE28v) | [Impossible Things](https://open.spotify.com/album/6MCYanRHAkg2DyubYa5Dh4) | 4:04 |
+| 126 | [But The Weather](https://open.spotify.com/track/6JGQ2BRW9SoyvWkMKaQeIk) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [But The Weather](https://open.spotify.com/album/6QmPTH1f0OhVFdQO7xEoam) | 3:50 |
+| 127 | [Holy](https://open.spotify.com/track/0OAsTVd2oJ4oIYNKqbEyP4) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [Holy](https://open.spotify.com/album/5OuXVOGDiY3Og6vuDGMssj) | 4:08 |
+| 128 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 |
+| 129 | [Pink](https://open.spotify.com/track/1TyDvm0QokpBLekSqhcVSF) | [Comforts](https://open.spotify.com/artist/0DTo7Y75bhTLMs5vlUSaxM) | [Pink](https://open.spotify.com/album/0pMKqDogGoFVJuDersfQ0d) | 3:33 |
+| 130 | [Mushrooms](https://open.spotify.com/track/1j8KRfQKhY7OukytcAipiC) | [Ruth and Emilia](https://open.spotify.com/artist/6YdZN8VEkerAGuOtQkuFGR) | [I Had a Dream: Songs of an Immigrant](https://open.spotify.com/album/6dKgsRZcpQ6rAbSEH7QoBr) | 3:09 |
+| 131 | [Star \(feat\. Yogi\)](https://open.spotify.com/track/5p4QNyQvoZtKlp6f4e1X5I) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Star \(feat\. Yogi\)](https://open.spotify.com/album/2CYg0eTUZlemEt7sdhRaA0) | 4:21 |
+| 132 | [Kitty Cat](https://open.spotify.com/track/5GxI6UFqiB21CUUttI6Olp) | [Rose Wild](https://open.spotify.com/artist/6Xk8XHDgqtdMNAyr4h7rbs) | [Kitty Cat](https://open.spotify.com/album/0SDCZcP7XUyio5IwepSn2e) | 2:45 |
+| 133 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 |
+| 134 | [Das Risiko](https://open.spotify.com/track/64ul0VBFy9Kxjsarl31euG) | [Family Time](https://open.spotify.com/artist/352Sj3QLwdoQXj3eLhwMHZ) | [Das Risiko](https://open.spotify.com/album/4lw5LjxSCuh61WM9xX5Btr) | 3:13 |
 
-Snapshot ID: `Mjk5Miw1ZWMwMjg2MzZjYWM5ZjQ0ZDNiNWYwMTZlYzA4YWU4ZmEyOTA0Y2Fl`
+Snapshot ID: `MzAwMSwzYWE4MDIzYzYxYmMwM2FhMmM1OWVjMDE1ZDhiMTc0MWVkZWMwOGJm`

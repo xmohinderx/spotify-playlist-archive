@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Afterwave",
+        "url": "https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK"
+      },
+      "artists": [
+        {
+          "name": "Scoobadive",
+          "url": "https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176685,
+      "name": "Afterwave",
+      "url": "https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ"
+    },
+    {
+      "album": {
         "name": "Alike / Surface",
         "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 180000,
       "name": "Cobolt",
       "url": "https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD"
@@ -2208,6 +2226,24 @@
     },
     {
       "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq"
+      },
+      "artists": [
+        {
+          "name": "Soundomana",
+          "url": "https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV"
+    },
+    {
+      "album": {
         "name": "Prends Une Gorg\u00e9e",
         "url": "https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG"
       },
@@ -2497,7 +2533,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 226383,
       "name": "Sea To Sky - Parra For Cuva Remix",
       "url": "https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt"
@@ -2767,7 +2803,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 260570,
       "name": "Strobe Alley",
       "url": "https://open.spotify.com/track/5d2xWaXb7Wyu0T9fSUPwJa"

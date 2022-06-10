@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 221081,
       "name": "best song",
       "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 239880,
       "name": "blooming",
       "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 243906,
       "name": "Couple",
       "url": "https://open.spotify.com/track/2dBCLpxf1QKzFUsZqtC3E1"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
@@ -427,6 +427,24 @@
       "duration_ms": 176626,
       "name": "DALLA",
       "url": "https://open.spotify.com/track/0BE13JCAlf4OYlWzlXNitY"
+    },
+    {
+      "album": {
+        "name": "DATE",
+        "url": "https://open.spotify.com/album/5BUwBTVvhJuMm2PJSKQxcu"
+      },
+      "artists": [
+        {
+          "name": "SEONGRI",
+          "url": "https://open.spotify.com/artist/3lKRDSj7o3AtOKSVPEhe3Z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216983,
+      "name": "DATE",
+      "url": "https://open.spotify.com/track/6QBLkeLbQ7zvQ0WuHesn1d"
     },
     {
       "album": {
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 167480,
       "name": "Deep in the night, you and me",
       "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 228213,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 251173,
       "name": "I love you more than me",
       "url": "https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 197967,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/3FyOTEfKpjQkPq4aSw7Qeb"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -986,6 +1004,28 @@
     },
     {
       "album": {
+        "name": "Woof &Meow Do you love me? OST",
+        "url": "https://open.spotify.com/album/577AQ4CR7ara4EveBUUTNz"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE KYUNG",
+          "url": "https://open.spotify.com/artist/7t64s5breOMMSEfhw9td7N"
+        },
+        {
+          "name": "CHA HUN (N.Flying)",
+          "url": "https://open.spotify.com/artist/4WKzUxDwpNCy7vMop9PrTW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162917,
+      "name": "LIKE YOU",
+      "url": "https://open.spotify.com/track/3cEy0jKDf5UQ2yZ4fsB7xX"
+    },
+    {
+      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -1001,7 +1041,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
@@ -1091,7 +1131,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 214560,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
@@ -1229,7 +1269,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
@@ -1247,7 +1287,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 201884,
       "name": "Our Cinema #1 - Someone Special",
       "url": "https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s"
@@ -1265,7 +1305,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 248078,
       "name": "Our Love is Great",
       "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
@@ -1323,7 +1363,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 248767,
       "name": "Right",
       "url": "https://open.spotify.com/track/4rqkl7cIZMZL6kBWox0D6B"
@@ -1417,7 +1457,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 161392,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI"
@@ -1623,7 +1663,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 281748,
       "name": "The One I Love",
       "url": "https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx"
@@ -1659,7 +1699,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
@@ -1875,7 +1915,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 250017,
       "name": "Watching",
       "url": "https://open.spotify.com/track/4iZCRVlRg1Bqti37xV8eTZ"
@@ -1954,6 +1994,28 @@
     },
     {
       "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "You Move Me (feat. SUNG SI KYUNG)",
+      "url": "https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R"
+    },
+    {
+      "album": {
         "name": "\ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
         "url": "https://open.spotify.com/album/154jyE6Wg5PPbqYhpvFVTw"
       },
@@ -1987,7 +2049,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 234017,
       "name": "\uc120\ubb3c",
       "url": "https://open.spotify.com/track/3SCQhlyxIji4Vc8ALcudLU"

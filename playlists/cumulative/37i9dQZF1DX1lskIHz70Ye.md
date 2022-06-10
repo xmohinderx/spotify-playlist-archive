@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-111 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+112 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Karleken: Kärleken \(Arr\. For guitar and double bass\)](https://open.spotify.com/track/7boVU5rCjSeC3cwRfOnmVg) | [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/6GGFMVODEXxaHbpRVTEhsL) | 4:16 | 2022-03-03 |  |
 | [La Frase Importante](https://open.spotify.com/track/6W4kU5OcSgSsn0e0yrZ6Na) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:02 | 2022-03-03 |  |
 | [La Paloma](https://open.spotify.com/track/72abTn5Owy3eM6LdAttyTd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 5:08 | 2022-03-03 |  |
+| [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-10 |  |
 | [La Ultima Vez](https://open.spotify.com/track/4ohd4Soqh0KVuT3c5wVNs5) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Alma Azul](https://open.spotify.com/album/573aR866i22zkC8OTWKOVU) | 2:10 | 2022-03-03 |  |
 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 | 2022-03-03 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |

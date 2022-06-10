@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Shanna Shannon",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Jinan Laetitia",
   "name": "RADAR Indonesia",
   "published_playlist_ids": [
     "37dv0S75HQ2Wer6Z25cDjS"
@@ -1262,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "Satu-satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284988,
+      "name": "Satu-satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "album": {
         "name": "Sedang Sayang Sayangnya",
         "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
       },
@@ -1570,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141397,
+      "name": "Unromantic",
+      "url": "https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn"
+    },
+    {
+      "album": {
         "name": "UWU (Unhappy Without You)",
         "url": "https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ"
       },
@@ -1585,6 +1621,24 @@
       "duration_ms": 205984,
       "name": "UWU (Unhappy Without You)",
       "url": "https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh"
     },
     {
       "album": {
@@ -1661,7 +1715,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 188250,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/2tJIp1gWlV6NpUyriIvOfd"

@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
@@ -377,10 +377,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 286386,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0"
+    },
+    {
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
     },
     {
       "album": {
@@ -413,7 +431,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 179506,
       "name": "Chun Li vs. Wah Wah Man",
       "url": "https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 278144,
       "name": "Dust",
       "url": "https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 238146,
       "name": "Finally Woken",
       "url": "https://open.spotify.com/track/2HOaA5gm7peSF67a0HJ14l"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 319000,
       "name": "My Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/1GCpvGwduaJ8uDelrJAcLL"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 290840,
       "name": "Purrfect",
       "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"

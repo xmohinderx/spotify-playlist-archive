@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=IKSVyJUIQW67ApGB2QesEw\" > Simi </a>",
+  "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d?si=5e3uW0FKTZSYZpO6m7c2fw\" > Moonga K </a>",
   "name": "Tantalizers",
   "published_playlist_ids": [
     "2v1HgA74E7en4Mnap99MYl"
@@ -1198,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "my mind",
+        "url": "https://open.spotify.com/album/6iQ27jtGf4BiOFCIXL42QJ"
+      },
+      "artists": [
+        {
+          "name": "MOONGA K.",
+          "url": "https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "my mind",
+      "url": "https://open.spotify.com/track/37qK4VffVjl5vNoUPNTbFQ"
+    },
+    {
+      "album": {
         "name": "Naked Wire",
         "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
       },
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 202066,
       "name": "Wrong for It",
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"

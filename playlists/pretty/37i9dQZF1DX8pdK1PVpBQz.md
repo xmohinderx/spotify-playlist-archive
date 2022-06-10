@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Caroline & Claude\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,779 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 28 | [Dreamhigh](https://open.spotify.com/track/3EXEIb1Oemh1ETsMP7157G) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Dreamhigh](https://open.spotify.com/album/3gODbR7sqAoy6PbslACQ5x) | 3:25 |
 | 29 | [HEAVEN](https://open.spotify.com/track/4eqWWW8guvk2Jnn38Pnn4F) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [HEAVEN](https://open.spotify.com/album/7n0UsPGko8FgCX7h07I7hM) | 4:43 |
 | 30 | [Intro To The Anthem](https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Intro To The Anthem](https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow) | 3:29 |
-| 31 | [SEE RED](https://open.spotify.com/track/1tNUzxdUz3cnEdQRZNGIQA) | [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ), [Trapbaby](https://open.spotify.com/artist/4MZI7acGJh6KYcpFfR4pis), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [SEE RED](https://open.spotify.com/album/42xabLFQ3lQ4HGhxUSDwcB) | 3:12 |
+| 31 | [SEE RED](https://open.spotify.com/track/1tNUzxdUz3cnEdQRZNGIQA) | [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ), [Trapbaby](https://open.spotify.com/artist/1JCrZj9bavyeiHTYDDGHjX), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [SEE RED](https://open.spotify.com/album/42xabLFQ3lQ4HGhxUSDwcB) | 3:12 |
 | 32 | [Drunk](https://open.spotify.com/track/2XhWcfx6ASDb0qvXbNsBsi) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [Drunk](https://open.spotify.com/album/4BXGV8ifzOD69k7hTs81Tx) | 3:14 |
 | 33 | [A Line](https://open.spotify.com/track/73gS8oIeBx85oEDce2Mkgg) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:10 |
 | 34 | [Marmalade Freestyle](https://open.spotify.com/track/6HxQIkyqMpZaYhpPsVxdF4) | [Promise](https://open.spotify.com/artist/71s14fdAZTRxZFJB9yrf31) | [Marmalade Freestyle](https://open.spotify.com/album/2hMXlr70oZAQFCPYk1fYXw) | 3:42 |

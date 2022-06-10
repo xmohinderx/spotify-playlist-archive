@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H"
+      },
+      "artists": [
+        {
+          "name": "Anna Kitkowska",
+          "url": "https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210923,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc"
+    },
+    {
+      "album": {
         "name": "As Lovely As You",
         "url": "https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4"
       },

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
   "name": "Huaynos Cl\u00e1sicos",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6WULSQ3fhigV44qwMbRlO1"
+  ],
   "tracks": [
     {
       "album": {
@@ -29,7 +31,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 186723,
       "name": "A los filos de un cuchillo",
       "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
@@ -119,7 +121,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
@@ -137,7 +139,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
@@ -177,6 +179,28 @@
       "duration_ms": 170109,
       "name": "Amor Te Has Marchado Lejos",
       "url": "https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m"
+    },
+    {
+      "album": {
+        "name": "Tu Puedes Volar",
+        "url": "https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF"
+      },
+      "artists": [
+        {
+          "name": "Damaris",
+          "url": "https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j"
+        },
+        {
+          "name": "Raices de Jauja",
+          "url": "https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Amor Verdadero (feat. Raices de Jauja)",
+      "url": "https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7"
     },
     {
       "album": {
@@ -299,7 +323,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 161973,
       "name": "Carrito del Regreso",
       "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
@@ -396,6 +420,24 @@
     },
     {
       "album": {
+        "name": "Enlazando Cantos II",
+        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249155,
+      "name": "Clavel de mi pecho",
+      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+    },
+    {
+      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -461,7 +503,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 164000,
       "name": "Cuerpo Soltero",
       "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
@@ -486,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+      },
+      "artists": [
+        {
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+    },
+    {
+      "album": {
         "name": "Manchaste Mi Vida",
         "url": "https://open.spotify.com/album/2nhvGYZLFUaioGQX3RyfwR"
       },
@@ -497,7 +557,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "D\u00e9jame Nom\u00e1s",
       "url": "https://open.spotify.com/track/73SwhVxW4D7RtwkNWXldfS"
@@ -515,7 +575,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 270000,
       "name": "D\u00f3nde est\u00e1 tu dinero",
       "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
@@ -533,7 +593,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
@@ -551,7 +611,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
@@ -616,6 +676,24 @@
     },
     {
       "album": {
+        "name": "Canto Natural del Ande",
+        "url": "https://open.spotify.com/album/2DvR3oevJSf8Hc8xuSoYWL"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal G\u00f3mez G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3Aj7SozLnhoezL3I4kjyW7"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309973,
+      "name": "Huaylla Ichu",
+      "url": "https://open.spotify.com/track/1tW0fte6lqArX11vd3rQyW"
+    },
+    {
+      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
       },
@@ -631,6 +709,24 @@
       "duration_ms": 361573,
       "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
       "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+    },
+    {
+      "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Ilusi\u00f3n Cualquiera",
+      "url": "https://open.spotify.com/track/6zMQ0CT55yyIUwSF3qxZ99"
     },
     {
       "album": {
@@ -663,7 +759,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 238889,
       "name": "Koka kintucha",
       "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
@@ -717,7 +813,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 254733,
       "name": "Linda Warmisitay",
       "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
@@ -739,6 +835,24 @@
       "duration_ms": 161933,
       "name": "Llanto por Llanto",
       "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
+    },
+    {
+      "album": {
+        "name": "La Miski",
+        "url": "https://open.spotify.com/album/0SuLz8YOEvDPA0tppv2sPN"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jes\u00fas Rodr\u00edguez La Miski",
+          "url": "https://open.spotify.com/artist/5pN0gsM5BbogZK9sowAj5q"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Mala Conciencia",
+      "url": "https://open.spotify.com/track/7KoOzMXequfGIrZFU3Tyyf"
     },
     {
       "album": {
@@ -771,7 +885,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 163080,
       "name": "Mi Linda Ni\u00f1a",
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
@@ -901,7 +1015,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
@@ -937,7 +1051,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 160173,
       "name": "Remembranzas",
       "url": "https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR"
@@ -962,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "album": {
         "name": "Huayno, Vol. 2",
         "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
@@ -973,7 +1105,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 167466,
       "name": "Sihuarsito",
       "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
@@ -991,10 +1123,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4DAavl2OUBU180DLfSeY5r"
+    },
+    {
+      "album": {
+        "name": "Mensajes Andinos",
+        "url": "https://open.spotify.com/album/3JgzRlcbxu5l5I9VtcwzNH"
+      },
+      "artists": [
+        {
+          "name": "Porfirio Ayvar",
+          "url": "https://open.spotify.com/artist/1kQzEZHNsAD8Gw7WHN13z1"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220746,
+      "name": "Siwarquinticha",
+      "url": "https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr"
     },
     {
       "album": {
@@ -1027,7 +1177,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 180853,
       "name": "Tomando Cerveza",
       "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
@@ -1085,6 +1235,24 @@
       "duration_ms": 264736,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
+    },
+    {
+      "album": {
+        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
+        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
+      },
+      "artists": [
+        {
+          "name": "Proyecci\u00f3n",
+          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Un Pasajero en T\u00fa Camino",
+      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
     },
     {
       "album": {

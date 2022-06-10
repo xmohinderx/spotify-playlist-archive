@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Kaze",
+  "description": "Il meglio dell'R&B italiano. Cover: Delicatoni",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 189600,
       "name": "Accuss\u00ec",
       "url": "https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 162666,
       "name": "Chi Chiamer\u00f2",
       "url": "https://open.spotify.com/track/22UnlX9bx3C4FbtxiaQ2aE"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 220408,
       "name": "Come se ballassimo",
       "url": "https://open.spotify.com/track/6vqp7l8bvamjZoihR5lu9b"
@@ -1072,6 +1072,46 @@
     },
     {
       "album": {
+        "name": "La Ruota",
+        "url": "https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG"
+      },
+      "artists": [
+        {
+          "name": "OIDA",
+          "url": "https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204512,
+      "name": "La Ruota",
+      "url": "https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e"
+    },
+    {
+      "album": {
+        "name": "Lacreme",
+        "url": "https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM"
+      },
+      "artists": [
+        {
+          "name": "SVM",
+          "url": "https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Lacreme",
+      "url": "https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa"
+    },
+    {
+      "album": {
         "name": "LACRIME D'ORO",
         "url": "https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw"
       },
@@ -1235,7 +1275,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 159428,
       "name": "Negli Occhi",
       "url": "https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE"
@@ -1297,6 +1337,24 @@
       "duration_ms": 173333,
       "name": "NON HO VOGLIA DI BERE",
       "url": "https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW"
+    },
+    {
+      "album": {
+        "name": "Non ti sento pi\u00f9",
+        "url": "https://open.spotify.com/album/70poOsHGDl7urLq0sfhPKH"
+      },
+      "artists": [
+        {
+          "name": "Bye.Tide",
+          "url": "https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Non ti sento pi\u00f9",
+      "url": "https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR"
     },
     {
       "album": {
@@ -1604,6 +1662,28 @@
     },
     {
       "album": {
+        "name": "Sei Diventata",
+        "url": "https://open.spotify.com/album/7z0slYrWLiphPOMOdPTvBl"
+      },
+      "artists": [
+        {
+          "name": "DepSure",
+          "url": "https://open.spotify.com/artist/56l6kzGxdc7vmWY9WGKe6z"
+        },
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Sei Diventata",
+      "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
+    },
+    {
+      "album": {
         "name": "Senza te",
         "url": "https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu"
       },
@@ -1865,7 +1945,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 151942,
       "name": "Un altro giro",
       "url": "https://open.spotify.com/track/17MzhNVbLCBY0G19GjBV79"
@@ -1909,6 +1989,24 @@
       "duration_ms": 182954,
       "name": "Vicino",
       "url": "https://open.spotify.com/track/73teXUHwtke0LElEq9dpYN"
+    },
+    {
+      "album": {
+        "name": "Vieni con me",
+        "url": "https://open.spotify.com/album/6dRU6IthL0vQcaL6OUcAgi"
+      },
+      "artists": [
+        {
+          "name": "MARA J",
+          "url": "https://open.spotify.com/artist/4AHUyFStTFR9V7kVC09b5j"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Vieni con me",
+      "url": "https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-260 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+264 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Backwards](https://open.spotify.com/track/0YE6RLx2NP461VXbb8PddM) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Backwards](https://open.spotify.com/album/1yU0j3TmoAdXMCs2tH6TMO) | 3:54 | 2022-05-20 |  |
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2022-05-20 |  |
 | [Beach Party](https://open.spotify.com/track/2w1n84MTAF3FJx5KEsPjAH) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Beach Party](https://open.spotify.com/album/24gf2fnyKA9GEzTv4875W7) | 1:43 | 2022-05-20 |  |
+| [Beach Safari](https://open.spotify.com/track/0Xi5bfphPPmBAKPqqUYztL) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x) | [Beach Safari](https://open.spotify.com/album/5UahO76QBDjZoukZpbFRWd) | 3:14 | 2022-06-10 |  |
 | [BEACH WAVES](https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [BEACH WAVES](https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0) | 2:08 | 2022-05-20 |  |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-05-20 | 2022-05-27 |
 | [Beggin'](https://open.spotify.com/track/5eG41VMRPiEf4uIYGdXTc1) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Beggin'](https://open.spotify.com/album/4UruVCOHP4j0PIBJ8yb2dJ) | 2:21 | 2022-06-03 |  |
@@ -89,6 +90,7 @@
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2022-05-20 |  |
 | [gone](https://open.spotify.com/track/2yYbsgAPuvoFQyomzNvmB0) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [gone](https://open.spotify.com/album/1D96LEiV9fQKdaKqEgkbSj) | 2:01 | 2022-05-20 | 2022-06-03 |
 | [Good Dog](https://open.spotify.com/track/6EQhgTDwXZ4OudcdZzutM2) | [Luke Otwell](https://open.spotify.com/artist/6ScHfmBUYiNEKPzPKrlBPC), [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [London Fireplaces](https://open.spotify.com/artist/4QfbgKG0oryVqlqig8qFYK), [Pauliverse](https://open.spotify.com/artist/3kBAqfgZgV0gUW1aoFQL8W) | [Good Dog](https://open.spotify.com/album/3LWZ90d0SzE8e1cPOL5tl6) | 2:40 | 2022-05-20 |  |
+| [Grand Ave](https://open.spotify.com/track/05lQwU66a8f5YEfn86ODCF) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Grand Ave](https://open.spotify.com/album/0xf9P699d0XBPwOu9xHnSk) | 1:41 | 2022-06-10 |  |
 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 | 2022-05-20 |  |
 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 | 2022-05-20 |  |
 | [Hammer](https://open.spotify.com/track/5tLMIpf7vZrIuRZPdh243H) | [Loyla Lo](https://open.spotify.com/artist/64Xx19yQZ3j5RzbTIG7Yl7) | [Sun Study](https://open.spotify.com/album/3vWeMRKNEpdkaJJPEDcFJX) | 1:43 | 2022-05-20 |  |
@@ -168,10 +170,12 @@
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 |  |
+| [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |
 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 | 2022-05-20 |  |
 | [Poetico](https://open.spotify.com/track/3WOVGisKBJAaab268pcVSw) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Birdcage](https://open.spotify.com/album/1rt06RiwxbqpW7lANXybwj) | 2:36 | 2022-05-20 |  |
 | [Postcards](https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:15 | 2022-05-20 | 2022-05-27 |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 |  |
+| [Purrfect](https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:18 | 2022-06-10 |  |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-05-20 |  |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-05-20 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2022-05-20 | 2022-05-27 |

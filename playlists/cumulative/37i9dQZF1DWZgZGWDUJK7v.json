@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Melody (Gongzza X Whee In)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+    },
+    {
+      "album": {
         "name": "Moonlight (From ''Love Revolution'' Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ"
       },

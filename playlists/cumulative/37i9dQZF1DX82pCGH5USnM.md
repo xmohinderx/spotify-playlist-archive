@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-503 songs - 1 day 6 hr 32 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+505 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Afrodeziac](https://open.spotify.com/track/42c7uR5Uz4piO3okWVQMFC) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 5:00 | 2020-12-24 | 2021-02-04 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 |  |
 | [Afternoon in Stereo](https://open.spotify.com/track/0cqWk8s2KJglPnuojyhYCQ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Afternoon in Stereo](https://open.spotify.com/album/4H25UhNaAxBmNdSmfxJSXa) | 3:04 | 2020-04-03\* | 2020-10-27 |
+| [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2021-11-08 |  |
 | [Ai Shiteru](https://open.spotify.com/track/0LyQVn9FoBHCJBfB83wJrq) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Ai Shiteru](https://open.spotify.com/album/0LecoFiRVdQoqUapmPvAkh) | 4:40 | 2021-06-16 | 2021-07-08 |
 | [Air Zones](https://open.spotify.com/track/6QwkdlobqveOUlXfddLJGK) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Air Zones](https://open.spotify.com/album/2hjZkraFr9q2gmMZwRSXD6) | 3:22 | 2021-09-09 |  |
@@ -145,6 +146,7 @@
 | [Endless Magic](https://open.spotify.com/track/4DKN3nZrkDvTyzdROv69Ic) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Endless Magic](https://open.spotify.com/album/3MgmDh1eWHfU743BO4BDiO) | 1:53 | 2020-04-14 | 2021-04-21 |
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2021-02-04 |  |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2021-04-15 | 2021-04-21 |
+| [Extra Sauce](https://open.spotify.com/track/1hciDzduTo3NzRZAUbn8MF) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Extra Sauce](https://open.spotify.com/album/093GCiTifgpyMmpiWDOCUE) | 2:54 | 2022-06-10 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-04-15 | 2021-08-20 |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2021-09-22 |  |
 | [fascination](https://open.spotify.com/track/2ZiOzyhYErIcdZUgAqprwO) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Fascination](https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb) | 2:41 | 2020-11-19 |  |
@@ -178,7 +180,7 @@
 | [glacial groove](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [glacial groove](https://open.spotify.com/album/5qS4a7yssrmqkMEmwcvhWx) | 2:33 | 2022-05-27 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-02 |  |
 | [Glossy](https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Glossy](https://open.spotify.com/album/2EMOjkmqb8WcLWn39fkCd5) | 2:48 | 2021-04-15 |  |
-| [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 |  |
+| [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 | 2022-06-10 |
 | [Golden Days](https://open.spotify.com/track/7d6FuHugP8dbJMlSVWio21) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Slow Move](https://open.spotify.com/album/4JAuTO8DEM0lpm9pSczYlb) | 3:52 | 2020-04-03\* | 2020-10-16 |
 | [Golden Delicious](https://open.spotify.com/track/33RYuJmDC6YR34O6ALA7st) | [Roy LT](https://open.spotify.com/artist/2nDvbGfbug3iV8TuyIqs4A) | [Golden Delicious](https://open.spotify.com/album/4o9cmtyIfE14I5DdLZtg1i) | 2:29 | 2021-04-15 | 2022-01-22 |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-04-21 |
@@ -307,7 +309,7 @@
 | [Ocean Flow](https://open.spotify.com/track/0kW5OLcBxPTzi8dj7XJf1a) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:46 | 2021-01-27 | 2022-05-11 |
 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 | 2021-02-19 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2021-11-08 |  |
-| [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 |  |
+| [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 | 2022-06-10 |
 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2021-09-09 | 2022-04-06 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |

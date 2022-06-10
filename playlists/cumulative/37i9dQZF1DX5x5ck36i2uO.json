@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 182868,
       "name": "010",
       "url": "https://open.spotify.com/track/6IIgIXUwRTY5wKfLYbJXqO"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 234202,
       "name": "3 GUINEAS",
       "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 197613,
       "name": "apple pie",
       "url": "https://open.spotify.com/track/1UVUQ1HwswnUm5SBbUbLm9"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 200607,
       "name": "BASS",
       "url": "https://open.spotify.com/track/25UCHfNEklg7Eqng7ErjFp"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 306520,
       "name": "Bloo Story",
       "url": "https://open.spotify.com/track/32cm8XVJ89BUaPx9SMDMg4"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 218642,
       "name": "BLURRED LINES (feat.HANHAE)",
       "url": "https://open.spotify.com/track/7bZ7cFMTCjunk4giFKyXr6"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 230322,
       "name": "bother 2021 (feat. gamma)",
       "url": "https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 182013,
       "name": "Chingchingching (Feat. DeVita)",
       "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 223636,
       "name": "Escape",
       "url": "https://open.spotify.com/track/4KWwu50PwXoTjzClhqz61h"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 215857,
       "name": "GOOD NIGHT",
       "url": "https://open.spotify.com/track/0CxMRR6CxLboQdmMPUWoPm"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Green Thumb",
+        "url": "https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Green Thumb",
+      "url": "https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2"
+    },
+    {
+      "album": {
         "name": "u n u part. 1",
         "url": "https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB"
       },
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 200186,
       "name": "gucci girl",
       "url": "https://open.spotify.com/track/1mqwUoKBZ0oci8NfA9czVG"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 210361,
       "name": "Idea",
       "url": "https://open.spotify.com/track/0L1yQ6PHvAisoRqpiJjCaB"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 223392,
       "name": "Insta Crush",
       "url": "https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 233458,
       "name": "Journey",
       "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 134117,
       "name": "masta",
       "url": "https://open.spotify.com/track/1EAzW11fvl3TBkiOfUGb5p"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 230896,
       "name": "Moonstruck X Qim Isle & Oh Hyuk",
       "url": "https://open.spotify.com/track/4UZ9I1o0PEagsUucPpNWAX"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 265517,
       "name": "NUGS (with THAMA)",
       "url": "https://open.spotify.com/track/4HCbPGMKg61aZZ93SMEPpL"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 155060,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 230173,
       "name": "Roommate",
       "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "she like caffeine",
       "url": "https://open.spotify.com/track/5wC2fb5odceHwkQOBKI6Im"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 191489,
       "name": "shine freestyle",
       "url": "https://open.spotify.com/track/1X1BzVAgfH6iJYDW2nyLfn"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 168409,
       "name": "sip slow",
       "url": "https://open.spotify.com/track/1QP8PRugJUCVguelzD5v8a"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 182760,
       "name": "SUMMER '21",
       "url": "https://open.spotify.com/track/2Rw5QLA8JRa8JyBGrjcyev"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 239020,
       "name": "the best",
       "url": "https://open.spotify.com/track/14hv5oFtKi8YjyBFWEYb0f"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 154093,
       "name": "Today (Prod. The Quiett)",
       "url": "https://open.spotify.com/track/2ldKEIaeRhSz3UVrrIFace"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 248896,
       "name": "today also (feat. Paloalto & The Quiett)",
       "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "under the ground",
       "url": "https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 222520,
       "name": "Whee",
       "url": "https://open.spotify.com/track/39rTd2GWPsulnGmmCMsYuh"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"

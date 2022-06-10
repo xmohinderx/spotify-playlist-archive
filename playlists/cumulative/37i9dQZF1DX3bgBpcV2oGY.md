@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-135 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+137 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-23 |  |
 | [Light of Seven](https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Light of Seven](https://open.spotify.com/album/3G395USQ5og7Qq5Hvnh7lg) | 1:59 | 2021-12-23 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2021-12-23 |  |
+| [Livella](https://open.spotify.com/track/6io96IgObwN4Vj5EBiJAn1) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Livella](https://open.spotify.com/album/2CUndCbSBl29Piid6Gml4L) | 2:18 | 2022-06-10 |  |
 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 | 2021-12-23 |  |
 | [Lost Paradise](https://open.spotify.com/track/5MXvA3O0Yu0QmpcQv63Sbu) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Lost Paradise](https://open.spotify.com/album/3VvTkRXePc0BnMqyEsL6gI) | 2:41 | 2022-03-01 |  |
 | [Love in song](https://open.spotify.com/track/4eSyxZqzEqbN0mlTgCq4uh) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Love in song](https://open.spotify.com/album/2YcZID7ZEhB6erimWQrBWU) | 1:53 | 2022-03-01 |  |
@@ -98,6 +99,7 @@
 | [No es mi mente](https://open.spotify.com/track/7ni5mRayDGv27vipkVC1Gg) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [No es mi mente](https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt) | 2:30 | 2021-12-23 |  |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-23 |  |
 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 | 2022-03-01 |  |
+| [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 | 2022-06-10 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-23 |  |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-23 |  |
 | [Pan’s Labyrinth Lullaby](https://open.spotify.com/track/7GLkPFyCRvqnHh98KsrSPB) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Film favorites for acoustic guitar vol 1 \(EP\)](https://open.spotify.com/album/35UxgJAP2G4fzunaQUeW2V) | 1:48 | 2021-12-23 |  |

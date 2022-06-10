@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,502 likes - 320 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,584 likes - 320 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 107 | [In Bloom](https://open.spotify.com/track/1ve6TCi0O78ypM3pyeXyYy) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 2:55 |
 | 108 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 |
 | 109 | [Goldbrick](https://open.spotify.com/track/5iMQUEiTuxPmw9A0204eXr) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Goldbrick](https://open.spotify.com/album/3xuv1KBBftJOx4IPwMNDhE) | 2:55 |
-| 110 | [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 |
+| 110 | [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 |
 | 111 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 |
 | 112 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 |
 | 113 | [Philadelphia Shore](https://open.spotify.com/track/1dCJ7AFJVbt8dVTLdsSswV) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Angels Garden](https://open.spotify.com/album/3aX3sHnsvSHI7dAMFwL4L2) | 3:02 |

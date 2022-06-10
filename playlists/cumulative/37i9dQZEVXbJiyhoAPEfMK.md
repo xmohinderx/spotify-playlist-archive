@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,031 songs - 2 day 6 hr 37 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,032 songs - 2 day 6 hr 40 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [187 Allstars ‘22](https://open.spotify.com/track/7jQcjzl8yPQsmxpO5orx4Y) | [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR), [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD) | [187 Allstars ‘22](https://open.spotify.com/album/3bXAKp1T2ViXKffJLB6snF) | 3:01 | 2022-02-26 | 2022-03-07 |
 | [1976](https://open.spotify.com/track/0jTWSs2OyxzYIk1sF7sUsO) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [1976](https://open.spotify.com/album/6Zi3ddIocKjhG7Kef8YIAY) | 2:37 | 2021-08-15 | 2021-08-17 |
 | [2011](https://open.spotify.com/track/44IkrAeQhRxZpuyshIeVEW) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Emerald](https://open.spotify.com/album/0CZJD4IxRg6Cqu6FEeVhWE) | 3:50 | 2021-11-07 | 2021-11-11 |
+| [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-09 |  |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-03 |
 | [2CB](https://open.spotify.com/track/2r9gIpt17PhZv0y2nCpFHC) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Zukunft](https://open.spotify.com/album/5ZC4ojBjk7xtoB2GXGbJuH) | 2:52 | 2021-09-12 | 2021-10-31 |
 | [2sad2disco](https://open.spotify.com/track/3HJKVymmisbtzi3s0hFCG4) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Kapitel I 2sad2disco \(2sad2disco\)](https://open.spotify.com/album/5QgUK4vAMv4GD4i9ZbKbsO) | 3:22 | 2021-09-05 | 2021-09-16 |
@@ -605,7 +606,7 @@
 | [Mogli](https://open.spotify.com/track/1ZBgY7QTphcAhvZVt2QQZI) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Mogli](https://open.spotify.com/album/1NEr9oqvrOiUHwJuoZNr3t) | 4:06 | 2022-01-15 | 2022-01-23 |
 | [Mogli](https://open.spotify.com/track/40Y6lHWmWBlTAmxdKrEpQF) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Rebell Army](https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33) | 4:06 | 2022-01-22 | 2022-01-24 |
 | [Moje Sve](https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Moje Sve](https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk) | 2:42 | 2021-10-03 | 2021-10-31 |
-| [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-04 |  |
+| [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-04 | 2022-06-10 |
 | [MOLOTOV](https://open.spotify.com/track/0k5UCvZ1BDP28db9y7OymD) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [MOLOTOV](https://open.spotify.com/album/59uSt5ns5N2Is03787A7kW) | 3:20 | 2022-05-21 | 2022-05-24 |
 | [Mon amour](https://open.spotify.com/track/6lBCjH1gpm5sk9KBll9akT) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:52 | 2022-03-05 | 2022-03-11 |
 | [Mona Lisa](https://open.spotify.com/track/5LYRIyhmlrDAQsYdHEvP0f) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [JSX](https://open.spotify.com/artist/7J0JxtOPMKWufOraoIqjiH) | [ULTRA](https://open.spotify.com/album/6BpbeB9VUpEBID5maQ8sHl) | 3:07 | 2021-03-27\* | 2021-03-27 |

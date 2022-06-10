@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,345 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,357 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 2 | [Tecnologia](https://open.spotify.com/track/4EopE6f7MU601tBbDccmcq) | [Pedro Simples](https://open.spotify.com/artist/4onypgNFPIHhPqEO7BYYIE), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Malokero Anônimo](https://open.spotify.com/artist/61h45TTf8pScBErVEDm3mz), [DJ B8](https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB) | [Tecnologia](https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa) | 3:07 |
 | 3 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 |
 | 4 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
-| 5 | [Ganhe Dinheiro ou Morra](https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg) | [Jacksom](https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn), [DJ Novesete](https://open.spotify.com/artist/1CGlNtddti2XKDgBtYfOyC) | [Ganhe Dinheiro ou Morra](https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd) | 3:00 |
+| 5 | [Ganhe Dinheiro ou Morra](https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg) | [Jacksom](https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn), [Dj Novset](https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD) | [Ganhe Dinheiro ou Morra](https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd) | 3:00 |
 | 6 | [Boombapkilla](https://open.spotify.com/track/5Unv2dcwiRiE1iEgx2vWWI) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Boombapkilla](https://open.spotify.com/album/7KgPRTz85zkd8tHUDn157K) | 3:24 |
 | 7 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 |
 | 8 | [5AM](https://open.spotify.com/track/49PonczSLhra0DxsSdSxq8) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:34 |

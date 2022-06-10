@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-101 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+105 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,11 @@
 | [forever more](https://open.spotify.com/track/0PMx2PH8D3kf44CX7T0kOg) | [bladecut](https://open.spotify.com/artist/1PkmXjtHF5wQCvN96FukFZ) | [school daze](https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km) | 1:55 | 2022-05-27 |  |
 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 | 2022-05-27 |  |
 | [FREEDOM](https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [FREEDOM](https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn) | 2:32 | 2022-06-03 |  |
+| [Gazebo](https://open.spotify.com/track/0XHENvoGfBGRYXhJJoQwtH) | [Midheavy](https://open.spotify.com/artist/09MBWHLepyOZYZFq3jk4G1) | [Kindthought](https://open.spotify.com/album/1slEvKRnMmVBqW54qBEHIl) | 2:51 | 2022-06-10 |  |
 | [Get By](https://open.spotify.com/track/1EJh8OljwnAkky8n2eqVnN) | [Manchester Lock](https://open.spotify.com/artist/5MtAUCEKXc1pUn2mcieuDG) | [Get By](https://open.spotify.com/album/22lgRuNopsEIllTdgQ5vRN) | 3:22 | 2022-05-27 |  |
 | [Glühen](https://open.spotify.com/track/1aI4TPwtXiXGm4rCvZ7C28) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Glühen](https://open.spotify.com/album/3JMHeyzLkomFz5P3bsETrZ) | 2:26 | 2022-05-27 |  |
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2022-05-27 |  |
+| [Green Valley](https://open.spotify.com/track/5kLVuHY6PpBkIyDc362quI) | [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU), [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Beats To Skate To, Vol.1](https://open.spotify.com/album/1n46VLE2E2BlcudV9198Lh) | 1:40 | 2022-06-10 |  |
 | [grind](https://open.spotify.com/track/54wyyYVcwwBYbJzYBmaQc8) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Attitudes Of November](https://open.spotify.com/album/7q69vhnV5YDtI5fQTp1UAE) | 2:05 | 2022-05-27 |  |
 | [Heaven's Nite](https://open.spotify.com/track/4n5QiZSOrc5dK6a9QFlL38) | [Blizzful](https://open.spotify.com/artist/0gG46tMHvdFASm9BmM0icf) | [Heaven's Nite](https://open.spotify.com/album/3elfAJETFNriDHy3SIbP8d) | 2:29 | 2022-05-27 |  |
 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 | 2022-05-27 |  |
@@ -82,6 +84,7 @@
 | [rising eyes](https://open.spotify.com/track/4sOOBRuKV8P9wDXNTXxSfP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [fallen planets & rising eyes](https://open.spotify.com/album/5Ozd8CXvUjbaKGtfIVIdkV) | 2:50 | 2022-05-27 |  |
 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 | 2022-05-27 |  |
 | [Rumble](https://open.spotify.com/track/24XbI3GX0rEVr0r4UXW9Vg) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 4:01 | 2022-05-27 |  |
+| [Serendipity](https://open.spotify.com/track/570mOFP7nwkJHEKuKoK0Gr) | [Ana's Dreams](https://open.spotify.com/artist/1GlVKWlsgnWjGGoSIzZhYe), [Amelia Clouds](https://open.spotify.com/artist/5nAP2r3JeLvqP3Fp5xNcw0) | [Indieana, Vol\. 3](https://open.spotify.com/album/2DwxZgvGGvdOzh1ywCxZcA) | 0:58 | 2022-06-10 |  |
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |
 | [signs](https://open.spotify.com/track/3Jb8cKwm5JfsicVfaj9jtE) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [signs](https://open.spotify.com/album/2s2tgZmyzjedmp4UmyBj13) | 2:39 | 2022-05-27 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-27 |  |
@@ -92,6 +95,7 @@
 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 | 2022-05-27 |  |
 | [Stop Flexing](https://open.spotify.com/track/4a3joydfGpY44IWuu9QU6D) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Long Past](https://open.spotify.com/album/2AWtwPczp5lU3SgZIl2unc) | 2:42 | 2022-05-27 | 2022-06-03 |
 | [study in lo\-fi hillshade](https://open.spotify.com/track/31QCr2Pvsq23hglCoKfVy2) | [Kathyline](https://open.spotify.com/artist/2gbD0B3Nzgzy0OQJwq3YBd) | [study in lo\-fi hillshade](https://open.spotify.com/album/2qGDXaVwBIer64qvkbIWRu) | 2:17 | 2022-05-27 |  |
+| [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 | 2022-06-10 |  |
 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 | 2022-05-27 |  |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-05-27 |  |
 | [Take a Moment](https://open.spotify.com/track/2Gyem6v6ySHKfNNeap8Q59) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [Take a Moment](https://open.spotify.com/album/13mYlRSP07v5q5OJiYhmT2) | 2:16 | 2022-05-27 |  |

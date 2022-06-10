@@ -1,28 +1,28 @@
 {
   "description": "next gen pop featuring Alexa Cappelli",
-  "num_followers": 1069602,
+  "num_followers": 1069839,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDUyOTQxOSwwMDAwMDVmODAwMDAwMTgxMzlhMzY3Y2IwMDAwMDE4MTJhYmQ3NWFk",
+  "snapshot_id": "MTY1NDc4NTQwNSwwMDAwMDVmOTAwMDAwMTgxNDhlNTczZmMwMDAwMDE4MTJhYmQ3NWFk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "10 Things I Hate About You",
-        "url": "https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l"
+        "name": "Could've Just Left Me Alone",
+        "url": "https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW"
       },
       "artists": [
         {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
         }
       ],
-      "duration_ms": 157138,
-      "name": "10 Things I Hate About You",
-      "url": "https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M"
+      "duration_ms": 137500,
+      "name": "Could've Just Left Me Alone",
+      "url": "https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-06-09 14:36:45",
       "album": {
-        "name": "Could've Just Left Me Alone",
-        "url": "https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW"
+        "name": "10 Things I Hate About You",
+        "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
       },
       "artists": [
         {
-          "name": "Alexa Cappelli",
-          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 137500,
-      "name": "Could've Just Left Me Alone",
-      "url": "https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW"
+      "duration_ms": 157138,
+      "name": "10 Things I Hate About You",
+      "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "blur",
-        "url": "https://open.spotify.com/album/10QgRGKde72CAkxtlTRZgj"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 152480,
-      "name": "blur",
-      "url": "https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Late To The Party",
@@ -743,6 +727,22 @@
       "duration_ms": 139180,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0yBZ0uyGRXehekIIadZ3Cd"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "blur",
+        "url": "https://open.spotify.com/album/10QgRGKde72CAkxtlTRZgj"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 152480,
+      "name": "blur",
+      "url": "https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8"
     },
     {
       "added_at": "2022-05-27 04:01:00",

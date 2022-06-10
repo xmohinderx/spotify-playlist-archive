@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "CIRCUS",
+      "url": "https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi"
       },

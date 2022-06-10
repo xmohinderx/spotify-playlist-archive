@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Bruses
 
-434 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+435 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Deslumbras](https://open.spotify.com/track/7fGEDZGE293OVJcQgp4Paz) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Deslumbras](https://open.spotify.com/album/3OGCHBZ0AWOXmaxvJTxHDn) | 3:32 | 2022-03-25 | 2022-04-02 |
 | [DICEDICEDICE](https://open.spotify.com/track/68QlH1AnnmEKTszH89rPGs) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG) | [LOS MÁS GUAPOS DE MADRID](https://open.spotify.com/album/28NoYuuZ6fBUSa4yPhN2sr) | 2:33 | 2022-05-13 | 2022-05-20 |
 | [Dicen](https://open.spotify.com/track/2Xni9iZFV0rVRznrdHMslV) | [Mareah](https://open.spotify.com/artist/30fNLnUSmzaRkYy9ygsBpf) | [Dicen](https://open.spotify.com/album/0TmPxN3YcGeqnQHJPZoxvz) | 3:03 | 2022-04-22 | 2022-04-29 |
+| [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 |  |
 | [Disfonía](https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV), [Simón Altgelt](https://open.spotify.com/artist/4mkyTjyoJuHvEq8Mr6suBz) | [Disfonía](https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b) | 2:29 | 2022-05-20 | 2022-05-28 |
 | [Dispara](https://open.spotify.com/track/73cJHFYfD0GDBx1C5bI8Tm) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 2:16 | 2022-05-20 | 2022-06-04 |
 | [Domingo Especialmente Triste](https://open.spotify.com/track/7FNLGoCEOlhuzkGvdJ8ClB) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Domingo Especialmente Triste](https://open.spotify.com/album/3ldtadrdiJJGtYCmWzctQo) | 3:12 | 2022-04-22 | 2022-04-29 |

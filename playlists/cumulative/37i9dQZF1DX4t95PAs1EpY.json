@@ -352,6 +352,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/5Y2BSAcBMJQuEtsZgrdoWr"
+      },
+      "artists": [
+        {
+          "name": "Twofacts",
+          "url": "https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97515,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1H2bzYnA7VNkiIaUnha69l"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw"
       },
@@ -1219,10 +1237,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 138352,
       "name": "Harpazo",
       "url": "https://open.spotify.com/track/2CJExqrBLTlUZS973gS4aQ"
+    },
+    {
+      "album": {
+        "name": "Hatsukoi",
+        "url": "https://open.spotify.com/album/12yjAIBR7jFWALPkLPmXMa"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/5hxqr1B0ZoHYXR2L4RCpUg"
     },
     {
       "album": {
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 160507,
       "name": "morning coffe",
       "url": "https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo"
@@ -1975,6 +2011,24 @@
       "duration_ms": 144067,
       "name": "naturale",
       "url": "https://open.spotify.com/track/3q4giA2JuMjmny009JEsbn"
+    },
+    {
+      "album": {
+        "name": "Navigators",
+        "url": "https://open.spotify.com/album/2vcXcHa9nM6HvfzYtUzMNu"
+      },
+      "artists": [
+        {
+          "name": "m\u00ebow m\u00ebow",
+          "url": "https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88615,
+      "name": "Navigators",
+      "url": "https://open.spotify.com/track/52a4rzZ0bOk2OfVawjiNVC"
     },
     {
       "album": {
@@ -2686,6 +2740,24 @@
     },
     {
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/4RVYvbLGnucZ09CH1I4kML"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185072,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3X8yILO7bUPSE8R8IpxzLW"
+    },
+    {
+      "album": {
         "name": "SimplyShtick",
         "url": "https://open.spotify.com/album/5sMrp4rgsAOFlC8CpS4F5h"
       },
@@ -2903,6 +2975,24 @@
       "duration_ms": 134400,
       "name": "Springy",
       "url": "https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB"
+    },
+    {
+      "album": {
+        "name": "stay (lofi)",
+        "url": "https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp"
+      },
+      "artists": [
+        {
+          "name": "zxch.",
+          "url": "https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "stay - lofi",
+      "url": "https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ"
     },
     {
       "album": {

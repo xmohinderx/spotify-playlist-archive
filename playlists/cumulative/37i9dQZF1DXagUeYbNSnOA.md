@@ -4,7 +4,7 @@
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Eli Almic on cover.
 
-496 songs - 1 day 3 hr 30 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+497 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [GIGANTES](https://open.spotify.com/track/27irDjqRkHwgbefte9VDss) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 1:45 | 2022-05-11 | 2022-06-08 |
 | [Gitana](https://open.spotify.com/track/1GTPKdO07az0P4p4MnyTMY) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Gitana](https://open.spotify.com/album/5GBcEpoPm1k7ynsVhPhEwa) | 3:19 | 2021-12-22 | 2022-01-27 |
 | [Gitana](https://open.spotify.com/track/6jI8HyJTIbhBu5wSSr59sk) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Fama y Fe](https://open.spotify.com/album/75wB5dRK42aKAtSIMMrFvX) | 3:03 | 2022-05-04 | 2022-05-26 |
+| [Guerra](https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Juano Loyola](https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 2:52 | 2022-06-08 |  |
 | [Handy](https://open.spotify.com/track/357GSqb5oSHDmqwYVhOUN1) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [Handy](https://open.spotify.com/album/6OtScsPNzW8YdNMDDMcJJt) | 3:02 | 2022-02-02 | 2022-03-03 |
 | [Hate Being In Love](https://open.spotify.com/track/5mZaMaqNcfT0sPZ6V4gk8W) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hate Being In Love](https://open.spotify.com/album/7A6IIgYWomVVrGjNEwzdMf) | 3:00 | 2022-03-23 | 2022-04-28 |
 | [Helen K](https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Helen K](https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt) | 2:58 | 2021-12-22 | 2022-01-27 |
