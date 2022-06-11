@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Nikki Lane",
+  "description": "A new shade of Country. Cover: American Aquarium",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 179288,
       "name": "All I Needed",
       "url": "https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No"
+    },
+    {
+      "album": {
+        "name": "Chicamacomico",
+        "url": "https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179288,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB"
     },
     {
       "album": {
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 246066,
       "name": "I Just Came Home To Count The Memories",
       "url": "https://open.spotify.com/track/6dP99TIwVsyUIJOCfvGpYl"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 171000,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk"
@@ -3104,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255880,
+      "name": "Scale These Walls",
+      "url": "https://open.spotify.com/track/06nuTL9QddAcOzMd4S2497"
+    },
+    {
+      "album": {
         "name": "Serenity Prayer",
         "url": "https://open.spotify.com/album/6LJmIqfbWEYiqhcJG3Vinf"
       },
@@ -3115,7 +3151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 290533,
       "name": "Serenity Prayer",
       "url": "https://open.spotify.com/track/5PkBcFWKw891Q8SgwGdPyz"
@@ -4305,6 +4341,24 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT"
+    },
+    {
+      "album": {
+        "name": "Chicamacomico",
+        "url": "https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166358,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1xRrkkWeecO6DJkM6Tj42B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: NoCap
 
-88 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+89 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Abandoned](https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Abandoned](https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP) | 2:56 | 2021-12-17 | 2022-06-04 |
 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2021-08-20 | 2022-03-12 |
 | [Angels Never Cry \(feat\. MoneyBagg Yo & Kodak Black\)](https://open.spotify.com/track/1NGEkrPq8SaBWXSx3Re839) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 4:13 | 2021-07-23 | 2022-02-26 |
+| [Benz Truck](https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Benz Truck](https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x) | 3:06 | 2022-06-10 |  |
 | [Best End](https://open.spotify.com/track/2y7qBvh9NqMRdQrLICIsiC) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj) | [Best End](https://open.spotify.com/album/2QLjvhGJ9p8ZspwhhOYj8v) | 2:25 | 2022-02-18 |  |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 |  |
 | [Buzz](https://open.spotify.com/track/0V3mdaIPmadVbYujq3nfSd) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Buzz](https://open.spotify.com/album/4PG7NHDf5vmrTtkUXkqJrh) | 3:16 | 2022-01-07 |  |

@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-72 songs - 4 hr 30 min - not published yet
+72 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

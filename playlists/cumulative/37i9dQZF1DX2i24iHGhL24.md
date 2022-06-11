@@ -2,7 +2,7 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Kelly Clarkson
+> Reimagined pop covers of your favorite songs\.  Cover: Zara Larsson
 
 280 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 

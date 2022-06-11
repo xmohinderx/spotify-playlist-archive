@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-127 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+128 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Slowing Down](https://open.spotify.com/track/380s4cpzc1XIUMwjRN8yNw) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Forever My Girl \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V) | 3:35 | 2021-10-15 |  |
 | [Smoke In A Bar](https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Smoke In A Bar](https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7) | 4:22 | 2021-10-15 |  |
 | [Soft Lights and Hard Country Music](https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [Soft Lights and Hard Country Music](https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ) | 2:49 | 2021-11-05 |  |
+| [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 |  |
 | [Something to Be Proud of \(20 Years of Hits Version\)](https://open.spotify.com/track/1ZcA5BpkTifRMYMdxK15IL) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Something to Be Proud of \(20 Years of Hits Version\)](https://open.spotify.com/album/2i9qff1wpgjvweWNTKunTG) | 4:12 | 2021-10-15 |  |
 | [Spilled Whiskey](https://open.spotify.com/track/2wkZrYkKGHy115cCOFVPRR) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [There's Still a Little Country Left](https://open.spotify.com/album/6jxtLhzm95SUEXi66ieBhU) | 3:32 | 2021-10-15 |  |
 | [Stone Blind Horses](https://open.spotify.com/track/7A7XBREnqLg97yuGRUiYUu) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stone Blind Horses](https://open.spotify.com/album/5lFUHRlw15fEKUaZ0y0nYU) | 3:45 | 2022-03-04 |  |

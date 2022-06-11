@@ -3224,6 +3224,24 @@
     },
     {
       "album": {
+        "name": "Kilos In La",
+        "url": "https://open.spotify.com/album/4DEO6Ztaa1WF0sx04bWErC"
+      },
+      "artists": [
+        {
+          "name": "Guapo Mafioso",
+          "url": "https://open.spotify.com/artist/6qtQo5MNDq83A1EFwV9c7a"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160548,
+      "name": "Kilos In La",
+      "url": "https://open.spotify.com/track/0j6UfFdjIgu6mfEA1cZ2X2"
+    },
+    {
+      "album": {
         "name": "El Babii",
         "url": "https://open.spotify.com/album/79oL8wQzMJfmaymXyG9InS"
       },
@@ -4236,6 +4254,24 @@
     },
     {
       "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147370,
+      "name": "Nena Trampa",
+      "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+    },
+    {
+      "album": {
         "name": "Supremo",
         "url": "https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh"
       },
@@ -4379,6 +4415,28 @@
       "duration_ms": 165506,
       "name": "No Me Rajo",
       "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
+    },
+    {
+      "album": {
+        "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+        "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240100,
+      "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+      "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
     },
     {
       "album": {
@@ -5833,7 +5891,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 217952,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu"
@@ -6631,7 +6689,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 173226,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV"

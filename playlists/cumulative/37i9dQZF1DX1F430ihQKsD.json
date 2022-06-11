@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Bibi Club",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Etienne Dufresne",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177184,
+      "name": "27",
+      "url": "https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR"
+    },
     {
       "album": {
         "name": "Addictive/Predictive",
@@ -378,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169702,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb"
+    },
+    {
+      "album": {
         "name": "Boulevard Alexandre",
         "url": "https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx"
       },
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 292960,
       "name": "Ce n'est pas de la chance",
       "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 193876,
       "name": "Facile",
       "url": "https://open.spotify.com/track/0U2nIrAiDBB2GIavdQ3p6J"
@@ -1141,6 +1177,28 @@
       "duration_ms": 137142,
       "name": "Free Grillz",
       "url": "https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ"
+    },
+    {
+      "album": {
+        "name": "Funambule (tout restera pareil)",
+        "url": "https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236098,
+      "name": "Funambule (tout restera pareil)",
+      "url": "https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i"
     },
     {
       "album": {
@@ -1391,7 +1449,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
@@ -1510,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159951,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6"
+    },
+    {
+      "album": {
         "name": "\u00c9chos d'une vie distante: volume 1",
         "url": "https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol"
       },
@@ -1579,7 +1655,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 280000,
       "name": "La vie ce n'est qu'un re\u0302ve",
       "url": "https://open.spotify.com/track/3PxTVq57d0XcGxM2xVRC3Q"
@@ -2509,7 +2585,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 171416,
       "name": "Sirens feat. KALLITECHNIS",
       "url": "https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH"
@@ -2643,10 +2719,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 185053,
       "name": "T'es beau",
       "url": "https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT"
+    },
+    {
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202347,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c"
     },
     {
       "album": {
@@ -2665,6 +2759,24 @@
       "duration_ms": 231230,
       "name": "Toune 2",
       "url": "https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe"
+    },
+    {
+      "album": {
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Tu as le droit",
+      "url": "https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3"
     },
     {
       "album": {

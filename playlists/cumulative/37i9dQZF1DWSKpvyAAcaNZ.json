@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 202160,
       "name": "Grinder",
       "url": "https://open.spotify.com/track/4CHDLQA19PRKRCtpBIzASe"
@@ -1309,6 +1309,24 @@
       "duration_ms": 195999,
       "name": "I Feel Love (Every Million Miles)",
       "url": "https://open.spotify.com/track/5gLr6cmDqa1FI4qhb7sUsw"
+    },
+    {
+      "album": {
+        "name": "I Gotcha (Rock Version)",
+        "url": "https://open.spotify.com/album/7eGOKI22KNSI4B6BNmbGvw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "I Gotcha - Rock Version",
+      "url": "https://open.spotify.com/track/4lEfAkMl6Aq7YBG5g4neX5"
     },
     {
       "album": {

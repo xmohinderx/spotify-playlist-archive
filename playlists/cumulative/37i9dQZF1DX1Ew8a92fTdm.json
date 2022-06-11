@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 92500,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 107440,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 121058,
       "name": "Arioso",
       "url": "https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 73000,
       "name": "Down By The Bay",
       "url": "https://open.spotify.com/track/3FpGkazRKFALtFqgoSHP94"
@@ -1121,6 +1121,24 @@
       "duration_ms": 78279,
       "name": "Hush My Little Angel",
       "url": "https://open.spotify.com/track/6PnTv60Gm4DcMa3uUf5CPQ"
+    },
+    {
+      "album": {
+        "name": "Sommerferien min",
+        "url": "https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Eriksen",
+          "url": "https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88750,
+      "name": "Hver dag med deg",
+      "url": "https://open.spotify.com/track/481atd1wQfDApIcP7viDSy"
     },
     {
       "album": {
@@ -1826,6 +1844,24 @@
     },
     {
       "album": {
+        "name": "Sommerferien min",
+        "url": "https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Eriksen",
+          "url": "https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77250,
+      "name": "Sommerferien min",
+      "url": "https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE"
+    },
+    {
+      "album": {
         "name": "Splashing in the Sun",
         "url": "https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb"
       },
@@ -1841,6 +1877,24 @@
       "duration_ms": 136875,
       "name": "Splashing in the Sun",
       "url": "https://open.spotify.com/track/5lL4d60LWLlGnM7MgT0NNn"
+    },
+    {
+      "album": {
+        "name": "Stars At Night",
+        "url": "https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl"
+      },
+      "artists": [
+        {
+          "name": "Jannah Zoey",
+          "url": "https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76903,
+      "name": "Stars At Night",
+      "url": "https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q"
     },
     {
       "album": {

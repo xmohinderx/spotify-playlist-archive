@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,135 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,231 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 4 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 |
 | 5 | [Outro Dia](https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX) | [A Banca Records, Lourena, Azzy, Mazin, Black](https://open.spotify.com/artist/29Tpb9NIA4RIZ6knnYXGDR) | [Outro Dia](https://open.spotify.com/album/1o2PIIFg4d09qZDRGDNfdo) | 3:52 |
 | 6 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
-| 7 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 |
-| 8 | [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 |
-| 9 | [Dióne](https://open.spotify.com/track/3btFitgDyAmqRpsnTVW8sR) | [Doreán](https://open.spotify.com/artist/5jvgFY84QwazP4ljpQqcvg), [Djow](https://open.spotify.com/artist/4dfW6aGgqWwU6juV63C0ZR), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Dióne](https://open.spotify.com/album/1S3TwRRwWYohy9wwH2EsQ4) | 3:51 |
-| 10 | [Anos Luz](https://open.spotify.com/track/0GYPcKDlsb8WEtJkkKdtgH) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Anos Luz](https://open.spotify.com/album/2NtkW7FT1VdKVjGXhLKp9k) | 4:24 |
-| 11 | [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 |
+| 7 | [Péssimo em Despedida](https://open.spotify.com/track/5rSt9trEpjeUJJqvKPcoEh) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Péssimo em Despedida](https://open.spotify.com/album/3EOViJE3hRUQ7CVlP0Wc9V) | 2:15 |
+| 8 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 |
+| 9 | [Abismo](https://open.spotify.com/track/30yWCNCHDq8cepVoSfzS7i) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO \(Deluxe\)](https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22) | 3:17 |
+| 10 | [Dióne](https://open.spotify.com/track/3btFitgDyAmqRpsnTVW8sR) | [Doreán](https://open.spotify.com/artist/5jvgFY84QwazP4ljpQqcvg), [Djow](https://open.spotify.com/artist/4dfW6aGgqWwU6juV63C0ZR), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Dióne](https://open.spotify.com/album/1S3TwRRwWYohy9wwH2EsQ4) | 3:51 |
+| 11 | [Anos Luz](https://open.spotify.com/track/0GYPcKDlsb8WEtJkkKdtgH) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Anos Luz](https://open.spotify.com/album/2NtkW7FT1VdKVjGXhLKp9k) | 4:24 |
 | 12 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 |
 | 13 | [TIPO](https://open.spotify.com/track/78qClcxizF1otoEWRi2OBb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/2Qz6gIPZbP5rNiITj2aFjl) | 3:49 |
 | 14 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 69 | [Mil Vezes](https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Mil Vezes](https://open.spotify.com/album/6J8oqkGDyaMpBt6ji1BOnq) | 3:48 |
 | 70 | [Barbie Marley](https://open.spotify.com/track/58IVw28EnEMYwMwBg4bm9R) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Fa7her](https://open.spotify.com/album/0M40ouy3DGERXGiMffJR15) | 3:36 |
 
-Snapshot ID: `MTY1NDIyNTI2MCwwMDAwMDA1ZTAwMDAwMTgxMjc4MjRlNGYwMDAwMDE3YzdiNTY2OWVl`
+Snapshot ID: `MTY1NDgzMDA2MCwwMDAwMDA1ZjAwMDAwMTgxNGI4ZWQyNmEwMDAwMDE3YzdiNTY2OWVl`

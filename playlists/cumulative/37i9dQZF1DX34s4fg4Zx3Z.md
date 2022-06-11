@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: kidsai; thiết kế: Isu Kim
 
-369 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+370 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [BAD](https://open.spotify.com/track/38G1CK2TY78FILbeO5HNt0) | [T.Bii](https://open.spotify.com/artist/4NxqmoqsNHQWxal57TxKCP), [Umie](https://open.spotify.com/artist/7gu3ZlV6XHIHV0An1E5UH7) | [BAD](https://open.spotify.com/album/0T97AmGE4MIu2gFhl7QqWF) | 2:53 | 2022-01-06 | 2022-01-26 |
 | [BCDBL](https://open.spotify.com/track/6DEmEQRZm5r8newbcAxokv) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [BCDBL](https://open.spotify.com/album/3OmSCvBkMHmPsTIn1SqBaT) | 3:33 | 2022-02-10 | 2022-03-21 |
 | [Be My Babe](https://open.spotify.com/track/013bVNmPFMohIJhrG6ELIV) | [Trà Long](https://open.spotify.com/artist/1QiNDiufzd27juQkJzOTkU) | [Be My Babe](https://open.spotify.com/album/2rV4wNhCkbrw0kbCmSOQDQ) | 4:25 | 2022-01-06 | 2022-04-20 |
-| [Before I Go](https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED) | [No Plan](https://open.spotify.com/artist/7mCudOgUvSdrBZShVarVoK) | [Before I Go](https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR) | 3:33 | 2022-06-09 |  |
+| [Before I Go](https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED) | [No Plan](https://open.spotify.com/artist/6D9IldP8aT38RwBsX2jvkg) | [Before I Go](https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR) | 3:33 | 2022-06-09 |  |
 | [Bird of Paradise](https://open.spotify.com/track/6BPiVcsHx8yyq4pNYyA5ak) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Bird of Paradise](https://open.spotify.com/album/5qClTakyBDhVvEoOIR2gR2) | 4:38 | 2022-06-09 |  |
 | [Biết Em](https://open.spotify.com/track/3m03j7w5yiPqF7arh4nLr9) | [Lynk Nguyen](https://open.spotify.com/artist/4NkJ2ST54TN8b1Mpp1d0Kh) | [Biết Em](https://open.spotify.com/album/0q0spQTpavLM5nYKQp1hOs) | 1:50 | 2022-01-06 | 2022-03-11 |
 | [Bring Me Back Into My Zone](https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB) | [Bring Me Back Into My Zone](https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU) | 3:05 | 2022-05-04 |  |
@@ -221,6 +221,7 @@
 | [Ngày Đơn Giản](https://open.spotify.com/track/3ndI0QxYn0BTMwQieWAiTb) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Ngày Đơn Giản](https://open.spotify.com/album/5VYBJ4ZA7t3DsTtm4UiBby) | 2:17 | 2022-03-17 | 2022-03-27 |
 | [Ngã Tư Đường](https://open.spotify.com/track/2CqE5jJKMUPLC0XdLilfE2) | [Jay Kem](https://open.spotify.com/artist/6IH78hLLFihKFpzYkqa3Bk), [Rick](https://open.spotify.com/artist/67ALlp3JvqTr0Ws7OrWIVH) | [Ngã Tư Đường](https://open.spotify.com/album/5zjqCFT6sLYSKP9siOXHMa) | 3:28 | 2022-05-11 | 2022-06-10 |
 | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/track/343Evi2l3pQ48UnpA9REPK) | [Thái Tuyết Trâm](https://open.spotify.com/artist/6VaHKM9MMuOzRaZovKL8Bk) | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/album/5mXUg02AvvrelVgQEOqFeT) | 4:40 | 2022-01-14 | 2022-05-05 |
+| [Ngại ngùng gì mà không yêu](https://open.spotify.com/track/3g14MRSmbFmmJOzUKMV1Se) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Duckie](https://open.spotify.com/artist/51BshXLs4BqwWyZfOIhkuq) | [Ngại ngùng gì mà không yêu](https://open.spotify.com/album/0W6rGWiZytu4GuajJt9ehe) | 2:53 | 2022-06-09 |  |
 | [Ngắm Nhìn Đắm Chìm \(Watchin' U\)](https://open.spotify.com/track/2OrViE7PohcvaNH7EkJ7p3) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Ngắm Nhìn Đắm Chìm \(Watchin' U\)](https://open.spotify.com/album/5h5rTsIbFbNAMx8RQrruDb) | 3:39 | 2022-01-06 | 2022-01-21 |
 | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN) | [Hazel](https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2) | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI) | 2:40 | 2022-05-11 |  |
 | [Ngọt Như Cherry \(feat\. Hằng Bơ\)](https://open.spotify.com/track/6ThTWv8l257SaiRULWjIdC) | [Ahn](https://open.spotify.com/artist/3KMl4axmm1nAW7ASB8vXFT), [Hằng Bơ](https://open.spotify.com/artist/5CyYSwHf4gGYqos834MWme) | [Ngọt Như Cherry](https://open.spotify.com/album/3xd47RGKaWQm1pEaoaDIt0) | 3:52 | 2022-01-06 | 2022-05-06 |

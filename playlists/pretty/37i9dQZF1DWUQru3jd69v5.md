@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: 2Rari
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,749 likes - 55 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,756 likes - 55 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 28 | [Nei pensieri](https://open.spotify.com/track/6YzDPCtvn2wFVZ1v1GA1pG) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X) | [Nei pensieri](https://open.spotify.com/album/486w35zJtyxWkM7AX2qzIG) | 2:56 |
 | 29 | [Cugino](https://open.spotify.com/track/3gg5KTw2TP6CLiQKRRzN9o) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Cugino](https://open.spotify.com/album/1JZEbWvE21FBzVtf4wFfSw) | 2:06 |
 | 30 | [Kabuki](https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Kabuki](https://open.spotify.com/album/7zv9IOwE1AVvnvxuQOw0Ye) | 3:00 |
-| 31 | [Cavalli](https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Cavalli](https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC) | 2:28 |
+| 31 | [Cavalli](https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Cavalli](https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC) | 2:28 |
 | 32 | [Genesi](https://open.spotify.com/track/0suprmMnPMdF8y0o1GJ0hV) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [Genesi](https://open.spotify.com/album/6ejsdI6UOh6eeKX06zRs2b) | 2:05 |
 | 33 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 |
 | 34 | [Couteau \- Drill Life 2](https://open.spotify.com/track/44s7wm1ysblXA7isTmyHrB) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [Couteau \(Drill Life 2\)](https://open.spotify.com/album/4aEWwOFbLsFAkEIZ5zNViw) | 3:09 |

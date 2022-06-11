@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-285 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+286 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Love Language](https://open.spotify.com/track/2kII74W6BvQZSOwXBotukX) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/1zDkevWz3xdsqVAYbdANiN) | 3:18 | 2021-07-17 |  |
 | [Love Like That](https://open.spotify.com/track/5WliYG94HXFCo7RmYZ7bLE) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [Love Like That](https://open.spotify.com/album/5nu0DOF0xqGEuXEiYeHhHi) | 3:36 | 2020-09-13\* | 2021-03-06 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2021-03-06 | 2021-11-11 |
-| [Lullaby](https://open.spotify.com/track/2yZH82CumlAogNd4UqkFE6) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lullaby](https://open.spotify.com/album/6SOSCpuewAjwFrbRNEPluK) | 2:26 | 2022-02-25 |  |
+| [Lullaby](https://open.spotify.com/track/2yZH82CumlAogNd4UqkFE6) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lullaby](https://open.spotify.com/album/6SOSCpuewAjwFrbRNEPluK) | 2:26 | 2022-02-25 | 2022-06-11 |
 | [Madness To Mayhem](https://open.spotify.com/track/5KNxP5oVDzSjtrpnjbFxIZ) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 6:56 | 2020-09-13\* | 2021-03-06 |
 | [Magic](https://open.spotify.com/track/4cn2oPfhfpI3Q5UGF9Q8mN) | [Kisch](https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Magic](https://open.spotify.com/album/4v7f44zLEP8Jpl2S4c7IBf) | 2:21 | 2021-03-11 | 2021-10-02 |
 | [Majesty](https://open.spotify.com/track/03jzORYDO63zFswHZzfzpp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Majesty](https://open.spotify.com/album/5Qz1kKR5GoGvgvhcLbvZKm) | 2:41 | 2021-07-24 | 2021-08-07 |
@@ -228,6 +228,7 @@
 | [Something About You](https://open.spotify.com/track/1IFbx5PR6BASAJC8Yd4mch) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Teen Idols: A Future Classic Compilation](https://open.spotify.com/album/74dDF2QXPn8yA94jIv9Iec) | 3:43 | 2020-09-13\* | 2020-12-03 |
 | [Something About You](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Something About You](https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q) | 3:45 | 2021-03-06 |  |
 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 | 2021-03-06 |  |
+| [Stare into Your Eyes](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [Stare into Your Eyes](https://open.spotify.com/album/2JLeW8AI1qRmPqOOGUwVli) | 2:21 | 2022-06-10 |  |
 | [Stay](https://open.spotify.com/track/4XBOr6AyDRmjBDQrUaHPsC) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO) | [Stay](https://open.spotify.com/album/26UK9bA7WT1rZ5jqqmNhpB) | 6:27 | 2020-09-13\* | 2021-03-06 |
 | [Stay](https://open.spotify.com/track/0Sm4Ql0BuY87bftUBH68tv) | [REVERSE](https://open.spotify.com/artist/2mP4JDbd7FikmTaymCT5tt), [NORTH26](https://open.spotify.com/artist/0VCdFnUDF3uztrIR53Jtsk) | [Stay](https://open.spotify.com/album/63Unsf2oq1OStxbdA8o29N) | 2:30 | 2021-08-21 |  |
 | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/track/4w6By5JzUpjc7IworHA5IB) | [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/album/6khyhgY2GMeTtIbAZ5pI5s) | 2:48 | 2021-12-04 | 2022-03-12 |

@@ -1,45 +1,13 @@
 {
-  "description": "Screaming, crying, throwing up.  Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Sky Ferreira",
-  "num_followers": 19739,
+  "description": "Screaming, crying, throwing up.  Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Gia Woods",
+  "num_followers": 19887,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIyODkyMCwwMDAwMDAzMTAwMDAwMTgxMjdiYTI3MTkwMDAwMDE4MTAxNmZlMDRl",
+  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDAzMjAwMDAwMTgxNGJjNGQ2ZTYwMDAwMDE4MTRiNDY4MDdh",
   "tracks": [
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
@@ -59,6 +27,22 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
         "name": "lay all your love on me",
         "url": "https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 178506,
       "name": "lay all your love on me",
       "url": "https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2PY1DxGDRf8s6a8rJMVQFK"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2k5cMN5C6DEzvumS13eiGQ"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -87,6 +87,70 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1Azk61TLFCKz4OyzUocsGR"
+      },
+      "artists": [
+        {
+          "name": "Betta Lemme",
+          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/7aXV8lYSlodq6jabXfB5Pt"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Blow Out My Candle",
+        "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "duration_ms": 179326,
+      "name": "Blow Out My Candle",
+      "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -121,36 +185,20 @@
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/2PY1DxGDRf8s6a8rJMVQFK"
+        "name": "Another Stranger",
+        "url": "https://open.spotify.com/album/5bnsd00W441t5LStFk95ov"
       },
       "artists": [
         {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+          "name": "Hedda Mae",
+          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
         }
       ],
-      "duration_ms": 127741,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2k5cMN5C6DEzvumS13eiGQ"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Blow Out My Candle",
-        "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 179326,
-      "name": "Blow Out My Candle",
-      "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+      "duration_ms": 178065,
+      "name": "Another Stranger",
+      "url": "https://open.spotify.com/track/03ApTIkz4BbUuIY7grHTEr"
     },
     {
       "added_at": "2022-02-15 15:40:26",
@@ -215,6 +263,38 @@
       "duration_ms": 190423,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Platinum Megamix",
+        "url": "https://open.spotify.com/album/4aa7wGbwqJya9N3HtO6Shb"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 439613,
+      "name": "Platinum Megamix",
+      "url": "https://open.spotify.com/track/2Z9agUb5fMyvfVeSA4r9rX"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -569,22 +649,6 @@
       "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
     },
     {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI"
-      },
-      "artists": [
-        {
-          "name": "Chloe Adams",
-          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
-        }
-      ],
-      "duration_ms": 163602,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
-    },
-    {
       "added_at": "2022-05-16 13:22:17",
       "album": {
         "name": "Ll\u00e1mame",
@@ -615,22 +679,6 @@
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/5tImLntTupOx3AGUeEa5Zz"
-      },
-      "artists": [
-        {
-          "name": "Glowie",
-          "url": "https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM"
-        }
-      ],
-      "duration_ms": 152853,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/5mw0BIlFhqy2i8PujBXURc"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -667,22 +715,6 @@
       "duration_ms": 218706,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Cry at Films (Solo Voice Version)",
-        "url": "https://open.spotify.com/album/6s1hui6gxAePH0Z2WX5KfV"
-      },
-      "artists": [
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Pose at Films - Cry at Films - Dummy Department Version",
-      "url": "https://open.spotify.com/track/6FlMQQ7Ne6pxlXtVLwXSgZ"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -883,22 +915,6 @@
       "duration_ms": 127653,
       "name": "You Don't Really Wanna",
       "url": "https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "blah blah blah",
-        "url": "https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei"
-      },
-      "artists": [
-        {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
-        }
-      ],
-      "duration_ms": 157690,
-      "name": "blah blah blah",
-      "url": "https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -1619,26 +1635,6 @@
     {
       "added_at": "2022-02-15 15:40:26",
       "album": {
-        "name": "Please (David Jackson Remix)",
-        "url": "https://open.spotify.com/album/4skBc1vOjD3USDtF7sozVp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 228864,
-      "name": "Please - David Jackson Remix",
-      "url": "https://open.spotify.com/track/6ll7bSskQYvJfh0qyYZQ8o"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
         "name": "What the Future Holds",
         "url": "https://open.spotify.com/album/1DcWbwQxPayKv0pcpbNEbA"
       },
@@ -1687,22 +1683,6 @@
       "duration_ms": 232876,
       "name": "Stupid Boy (feat. Big Freedia)",
       "url": "https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I Love You But I Love Me More",
-      "url": "https://open.spotify.com/track/351FDCXLTRFLiSdKz8lY0j"
     }
   ],
   "unique_name": "OBSESSED",

@@ -4610,8 +4610,8 @@
     },
     {
       "album": {
-        "name": "Jhoom - Ali Zafar",
-        "url": "https://open.spotify.com/album/2YW2dTpvfknlb8DfuNw18x"
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
       },
       "artists": [
         {
@@ -4619,12 +4619,12 @@
           "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
         }
       ],
-      "date_added": "2022-05-28",
+      "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 389213,
       "name": "Jhoom",
-      "url": "https://open.spotify.com/track/5z5fzo9PyIehwSyRqT4ogl"
+      "url": "https://open.spotify.com/track/2VR1z4g6haFyMoghNj46KB"
     },
     {
       "album": {
@@ -4639,7 +4639,43 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
+      "duration_ms": 389213,
+      "name": "Jhoom",
+      "url": "https://open.spotify.com/track/5z5fzo9PyIehwSyRqT4ogl"
+    },
+    {
+      "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
+    },
+    {
+      "album": {
+        "name": "Jhoom - Ali Zafar",
+        "url": "https://open.spotify.com/album/2YW2dTpvfknlb8DfuNw18x"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
       "duration_ms": 298986,
       "name": "Jhoom R&B Mix",
       "url": "https://open.spotify.com/track/6r8nR2JGKT9k4lnaSTdKkZ"

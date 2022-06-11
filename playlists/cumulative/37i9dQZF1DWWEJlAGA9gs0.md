@@ -2,7 +2,7 @@
 
 ### [Classical Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0)
 
-> A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of <a href="spotify:genre:classical">classical</a> music.
+> A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.
 
 150 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/4GpVB3ZYw6xDnEoi26xxbh)
 

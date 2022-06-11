@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 165970,
       "name": "El A\u00f1o Empezo Mal",
       "url": "https://open.spotify.com/track/20NvZKN3wXwvtd2EDoyEPr"
@@ -717,6 +717,28 @@
       "duration_ms": 209230,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV"
+    },
+    {
+      "album": {
+        "name": "HP",
+        "url": "https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W"
+      },
+      "artists": [
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204463,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED"
     },
     {
       "album": {
@@ -1079,7 +1101,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 169887,
       "name": "Obviamente",
       "url": "https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ"
@@ -1179,6 +1201,24 @@
       "duration_ms": 195893,
       "name": "Pal Cara",
       "url": "https://open.spotify.com/track/3sF3aJWl0tVITCSuuL9Uun"
+    },
+    {
+      "album": {
+        "name": "Perro Mujeriego",
+        "url": "https://open.spotify.com/album/6U4odtZ8h1Hdlku9bXNOe0"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Perro Mujeriego",
+      "url": "https://open.spotify.com/track/15OhHg83LlzFVzJjzKqI6y"
     },
     {
       "album": {

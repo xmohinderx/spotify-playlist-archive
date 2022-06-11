@@ -1,13 +1,29 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Lilyisthatyou",
-  "num_followers": 280632,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: emlyn",
+  "num_followers": 280764,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIyODkyMCwwMDAwMDA4YzAwMDAwMTgxMjdiYTI3MGUwMDAwMDE4MGRmMGQzMTg2",
+  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDA4ZDAwMDAwMTgxNGJjNGQ2Y2YwMDAwMDE4MTRiNTBkYTFi",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "loneliest b!tch in america",
+        "url": "https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 179262,
+      "name": "temporary funeral",
+      "url": "https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj"
+    },
     {
       "added_at": "2022-05-20 05:04:53",
       "album": {
@@ -103,6 +119,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "a letter to me",
+        "url": "https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE"
+      },
+      "artists": [
+        {
+          "name": "Dixie",
+          "url": "https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs"
+        }
+      ],
+      "duration_ms": 200031,
+      "name": "Someone to Blame",
+      "url": "https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q"
     },
     {
       "added_at": "2022-05-27 20:57:32",
@@ -311,22 +343,6 @@
       "duration_ms": 168084,
       "name": "Romeo Dies",
       "url": "https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
-        "url": "https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 138209,
-      "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
     },
     {
       "added_at": "2022-05-20 05:04:53",
@@ -1067,26 +1083,6 @@
       "duration_ms": 144782,
       "name": "Allergic",
       "url": "https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "GOOD FOR HER",
-        "url": "https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        },
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "GOOD FOR HER",
-      "url": "https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz"
     },
     {
       "added_at": "2022-01-21 05:00:00",

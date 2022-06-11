@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 186723,
       "name": "A los filos de un cuchillo",
       "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Papito por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/3wQqMBrsik0XtiDhTsWx9M"
+      },
+      "artists": [
+        {
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/2MwYotI5NsXGD7LazHfUX5"
+    },
+    {
+      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 169706,
       "name": "Chinita Ingrata",
       "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 249155,
       "name": "Clavel de mi pecho",
       "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 177653,
       "name": "Convoycito de Huancayo",
       "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Cuerpo Soltero",
       "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 197080,
       "name": "Donde Estar\u00e1s Palomita",
       "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "D\u00f3nde est\u00e1 tu dinero",
       "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 309973,
       "name": "Huaylla Ichu",
       "url": "https://open.spotify.com/track/1tW0fte6lqArX11vd3rQyW"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 202733,
       "name": "Ilusi\u00f3n Cualquiera",
       "url": "https://open.spotify.com/track/6zMQ0CT55yyIUwSF3qxZ99"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 254733,
       "name": "Linda Warmisitay",
       "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 228000,
       "name": "Mala Conciencia",
       "url": "https://open.spotify.com/track/7KoOzMXequfGIrZFU3Tyyf"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 163080,
       "name": "Mi Linda Ni\u00f1a",
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
@@ -1033,10 +1051,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 167773,
       "name": "Pucay Punchochay",
       "url": "https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su"
+    },
+    {
+      "album": {
+        "name": "Huayno Music Of Peru - Vol. 1",
+        "url": "https://open.spotify.com/album/291aNknbKbMh1TREXcWCEJ"
+      },
+      "artists": [
+        {
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Quisiera Olvidarte",
+      "url": "https://open.spotify.com/track/53KgMLCJ8sfQtE1mrpQZYK"
     },
     {
       "album": {
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
@@ -1141,10 +1177,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 220746,
       "name": "Siwarquinticha",
       "url": "https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr"
+    },
+    {
+      "album": {
+        "name": "Sobreviviendo",
+        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
+      },
+      "artists": [
+        {
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377280,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     },
     {
       "album": {
@@ -1177,7 +1231,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 180853,
       "name": "Tomando Cerveza",
       "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
@@ -1195,7 +1249,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 159453,
       "name": "Triste Enamorado",
       "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
@@ -1249,7 +1303,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 240293,
       "name": "Un Pasajero en T\u00fa Camino",
       "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"

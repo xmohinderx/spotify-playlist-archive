@@ -310,6 +310,24 @@
     },
     {
       "album": {
+        "name": "Don't Give Up On Us",
+        "url": "https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322626,
+      "name": "Don't Give Up On Us",
+      "url": "https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D"
+    },
+    {
+      "album": {
         "name": "Libert\u00e9",
         "url": "https://open.spotify.com/album/2n0oR2fuj2Wzmv6r4LM1tn"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 279666,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/3r7PiXUMvOrIb5nEcFP6uB"

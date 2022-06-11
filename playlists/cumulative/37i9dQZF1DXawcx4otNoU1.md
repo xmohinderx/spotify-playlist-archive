@@ -2,7 +2,7 @@
 
 ### [Spooning](https://open.spotify.com/playlist/37i9dQZF1DXawcx4otNoU1)
 
-> This is the perfect playlist for those cozy moments.
+> For those cozy moments.
 
 155 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 

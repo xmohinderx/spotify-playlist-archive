@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Krawk, ANNA, Jorge Bask
 
-107 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
+108 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dona da Vibe](https://open.spotify.com/track/6ITuu0hykVCxiH5ubRl86O) | [Dolsski](https://open.spotify.com/artist/7xc8g5RpWc7FTnbkKKCUhK), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Dona da Vibe](https://open.spotify.com/album/6gaR9YishjVc1XiLLsbYFr) | 2:37 | 2022-03-18 | 2022-06-04 |
 | [Dona do Lugar](https://open.spotify.com/track/1nFCagWKZY4W3wioLEZa2k) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [ANNA](https://open.spotify.com/artist/6ruC0Mq1w25uC7EHx9ZHzZ) | [Dona do Lugar](https://open.spotify.com/album/21e1QUDXnJOL3DkzdKVY25) | 3:57 | 2022-05-20 |  |
 | [DONO DE FARMÁCIA](https://open.spotify.com/track/2r3NkBc03Ucm4gVJytRvJW) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [GEBE](https://open.spotify.com/artist/1PHKKhYrxhcDLlQaByPYr6) | [DONO DE FARMÁCIA](https://open.spotify.com/album/5kiRzOiscinf3j8sn1xFFs) | 2:12 | 2022-03-18 | 2022-04-02 |
+| [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 | 2022-06-10 |  |
 | [Ela Pula](https://open.spotify.com/track/2hzfGunUHr4hYGbSfjV6kY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Ela Pula](https://open.spotify.com/album/0KXPF0t10ml2km7ZE7InxL) | 3:19 | 2022-03-18 | 2022-05-07 |
 | [Escola](https://open.spotify.com/track/2g08pOAqvnqYVwPoAcwq8G) | [Dii Ornelas](https://open.spotify.com/artist/4dhEVPVt6FvQg5J5GalK6H) | [Escola](https://open.spotify.com/album/6mOtkvZOGiGJj3s1h7oq7H) | 2:36 | 2022-04-08 |  |
 | [Eu Sei](https://open.spotify.com/track/2HPXiiN92wwR3ZmXI4BjY7) | [Will Kevin](https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG), [Cezza](https://open.spotify.com/artist/5rLw6pCcoJyli9ZYnDFwrV) | [Eu Sei](https://open.spotify.com/album/5PkNJfoBruW40DwjyBi9AW) | 3:01 | 2022-04-08 |  |

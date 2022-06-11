@@ -554,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Il Tempo delle Cose",
+        "url": "https://open.spotify.com/album/3HN1KEM9HJuwZWRaq4pGmI"
+      },
+      "artists": [
+        {
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+        },
+        {
+          "name": "Geoff Lawson",
+          "url": "https://open.spotify.com/artist/0I31OVqRo3WbwwX6gBj6nm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364400,
+      "name": "Il Tempo delle Cose",
+      "url": "https://open.spotify.com/track/6hIAiqwxWaqdCzm1KjxfGv"
+    },
+    {
+      "album": {
         "name": "Julie-O",
         "url": "https://open.spotify.com/album/1YyVWc7cAsrxh57bw6mbOi"
       },

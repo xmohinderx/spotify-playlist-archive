@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-174 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+175 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Want You Bad](https://open.spotify.com/track/4TQnD9qrhuNN5bea2kCWQ5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Want You Bad](https://open.spotify.com/album/3GS1ipxKJuw8BY9n7kizOi) | 3:13 | 2021-12-03 | 2022-05-07 |
 | [Way Out](https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Clara Mae](https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP) | [Way Out](https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE) | 2:41 | 2021-12-03 |  |
 | [We Know Who We Are](https://open.spotify.com/track/40KNxBXDuACwNkRjPIR34r) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [We Know Who We Are](https://open.spotify.com/album/5L3XtVZvY6vRiWKIxkZkTz) | 4:07 | 2021-12-03 |  |
+| [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-10 |  |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-02-11 |  |
 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 | 2021-12-03 |  |
 | [What It Used To Be](https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [What It Used To Be](https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj) | 3:42 | 2022-03-04 |  |

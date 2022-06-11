@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-142 songs - 7 hr 34 min - not published yet
+143 songs - 7 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Arcade Dwellers](https://open.spotify.com/track/3b3A8AcfVhRVVizAQmQls5) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Arcade Dwellers](https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3) | 4:20 | 2022-02-03 |  |
 | [Avatar](https://open.spotify.com/track/7mjtzOAMQs11liY3WdgT5v) | [RYVN](https://open.spotify.com/artist/6TTZGloO0o4IMy4eIaj8gU) | [Avatar](https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3) | 2:34 | 2022-03-04 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 |  |
+| [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 |  |
 | [Back To Time \(with Broad Run, Arnie Woods & Ethan Heckard\)](https://open.spotify.com/track/7u1Eeu5hNUV1sI5hzXwekY) | [Icehunt](https://open.spotify.com/artist/0YbpnbhAbWQrJWdEM4WGmk), [Broad Run](https://open.spotify.com/artist/66y6xyklR36qPMpXTcA857), [Arnie Woods](https://open.spotify.com/artist/2ZwlwG7xAnI52JZQLtTM1L), [Ethan Heckard](https://open.spotify.com/artist/0lruvSWWhQvzJ5myObBUzL) | [Back To Time \(with Broad Run, Arnie Woods & Ethan Heckard\)](https://open.spotify.com/album/6xLf6hWH8X4Bx60zcjMZPV) | 3:19 | 2022-02-03 |  |
 | [Badniss](https://open.spotify.com/track/4LjE3049sF4hdrpjNJECkn) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Badniss](https://open.spotify.com/album/1krLgSqhTIvAi0T7FM3goB) | 2:55 | 2022-02-03 |  |
 | [Be Gone \- Urbandawn Remix](https://open.spotify.com/track/3e3vnMRzSUO9ZOxGquaeqC) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Be Gone \(Urbandawn Remix\)](https://open.spotify.com/album/3i36MGIWpR7ucGSitqzULQ) | 3:46 | 2022-02-03 |  |

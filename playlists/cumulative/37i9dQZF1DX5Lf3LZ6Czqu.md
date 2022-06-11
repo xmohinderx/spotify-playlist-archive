@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-71 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+72 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dragon's Tail \- Instrumental](https://open.spotify.com/track/7xOdjT5HRqckEXhjWGAOcP) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail \(Instrumental\)](https://open.spotify.com/album/2JppXP0sF33yMsYcYObwX1) | 4:53 | 2021-08-06 |  |
 | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/track/6Kcmvtym0taGPHlciFxgKa) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/album/5LIkApuwAK9pMeWcOH2s9G) | 3:56 | 2021-05-04 |  |
 | [Abbot Kinney](https://open.spotify.com/track/39bETklNLbxywBZOTFTkYj) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Abbot Kinney](https://open.spotify.com/album/44FKxAgwdWEYEshZ4sAMKx) | 3:13 | 2021-05-04 |  |
+| [Action Boyz](https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo) | [Guardian Spirits of the Quantum Multiverse](https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5) | 3:08 | 2022-06-10 |  |
 | [Alchemy](https://open.spotify.com/track/3WfjYZbJiVpdjPdeduMLFX) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine](https://open.spotify.com/album/5Xxlrt2y3fLjmZM3gutv0E) | 5:06 | 2021-05-04 |  |
 | [Android](https://open.spotify.com/track/1Fu3mNtJYa8wroSw6AsuCd) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Dark Matter](https://open.spotify.com/album/7iSbgvQqfpMRA83dc8nUTl) | 5:47 | 2021-05-04 |  |
 | [Antisocialmedia](https://open.spotify.com/track/0fDrAO5XentyidBRliT6o4) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:48 | 2021-05-04 |  |

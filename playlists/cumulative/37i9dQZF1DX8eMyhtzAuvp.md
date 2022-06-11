@@ -4,7 +4,7 @@
 
 > Made for those who have been waiting for lovely summer nights
 
-51 songs - 3 hr 0 min - not published yet
+51 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2eXMGwGQulNspuXocRGIiv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

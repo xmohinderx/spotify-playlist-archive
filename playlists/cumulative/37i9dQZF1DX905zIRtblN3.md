@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Grupo Firme & Banda El Recodo, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Luis R Conriquez, al millón con La Reina.
 
 127 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 

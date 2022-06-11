@@ -4,7 +4,7 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Farina, El Alfa
 
-111 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
+112 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Puerto Rico \- Remix](https://open.spotify.com/track/6P6BoBLQicL8mQYYotouh8) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [Jordani](https://open.spotify.com/artist/0it6z33DV0QPR7m85tyhjz), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Chapa La Voz Del Patio](https://open.spotify.com/artist/5n57zGiEPBGE6RlsCg9kue), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [JS Producer](https://open.spotify.com/artist/1Jyk0zGpdh3stAI82cSd2r), [Breo Music](https://open.spotify.com/artist/6aH1ReFDgPtE6eRw4mcktb), [El Rey Guevara](https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m), [Black Virosa](https://open.spotify.com/artist/4PdEJZQIavz8DIVmHjegGW), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Puerto Rico \(Remix\)](https://open.spotify.com/album/2hnRIgpIcbkXI8zyQpWVbk) | 5:10 | 2021-11-19 | 2022-03-05 |
 | [Que Sera?](https://open.spotify.com/track/1o7pdhP5Z4u9hWtIFFaqu4) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Que Sera?](https://open.spotify.com/album/0b5Y1nuev4ssM5k0WedKWY) | 3:01 | 2022-03-18 |  |
 | [Replica \(feat\. El Alfa\)](https://open.spotify.com/track/289vPItCYBhBik7acU46qI) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Replica \(feat\. El Alfa\)](https://open.spotify.com/album/3VRRzMuuqpMX5UsObjwTPp) | 2:51 | 2021-11-19 | 2022-01-11 |
+| [Ruleta](https://open.spotify.com/track/1TmaUCaKqjWmd1JAsU4jo3) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:49 | 2022-06-10 |  |
 | [Rumba](https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Rumba](https://open.spotify.com/album/0YrHyGolRAyrQ508sh4Yw4) | 3:15 | 2021-11-19 | 2022-03-18 |
 | [Se Acabó la Cuarentena](https://open.spotify.com/track/7kGDAuP9P8mT2epyDwbdDj) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Viva el Perreo](https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j) | 2:46 | 2021-11-19 |  |
 | [Singapur](https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [El Androide](https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx) | 2:58 | 2022-03-18 | 2022-04-09 |

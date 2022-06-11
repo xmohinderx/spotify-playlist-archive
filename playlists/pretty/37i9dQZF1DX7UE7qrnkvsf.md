@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,062 likes - 104 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,053 likes - 104 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 103 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 | 104 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 |
 
-Snapshot ID: `MTY1NDA4NDg3MSwwMDAwMDA0ODAwMDAwMTgxMWYyNDI3MDQwMDAwMDE2ZTdlNzM2Yjky`
+Snapshot ID: `MTY1NDg2MTg3NCwwMDAwMDA0OTAwMDAwMTgxNGQ3NDQzOGMwMDAwMDE4MTRkNzQwZWIx`

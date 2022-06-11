@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: MYA.
 
-105 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+106 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cristianas](https://open.spotify.com/track/1eaPEMcksRVTM18pwfltIE) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cristianas](https://open.spotify.com/album/1PqHQVuTUIctPdnwMH3aZF) | 2:51 | 2022-05-24 |  |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-05-24 |  |
 | [Cómo Le Explico](https://open.spotify.com/track/4K09SCVObadMlQ90AVuuvG) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Cómo Le Explico](https://open.spotify.com/album/2fH98SBzqCHiTGnjKQMHwV) | 3:02 | 2022-05-24 |  |
+| [De Vacaciones](https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [De Vacaciones](https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3) | 2:21 | 2022-06-10 |  |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2022-05-24 |  |
 | [Diva](https://open.spotify.com/track/41eAvRCwPknwqqvyRMlERi) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Diva](https://open.spotify.com/album/4QGwO4AJO6wuttPXDPOgaI) | 3:06 | 2022-05-24 |  |
 | [DONDE SEA](https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [DONDE SEA](https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6) | 2:38 | 2022-05-24 |  |
@@ -45,7 +46,7 @@
 | [Hace Rato](https://open.spotify.com/track/7qIQjokKz9tSxKoYRtv5Md) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:13 | 2022-05-24 |  |
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2022-05-24 |  |
 | [HIPÓCRITA](https://open.spotify.com/track/3MzIbS7vJQDqECgY5NbEk9) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/4YPvY8FTDgGAbkqkn6jU70) | 2:11 | 2022-05-24 |  |
-| [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-05-24 |  |
+| [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-05-24 | 2022-06-11 |
 | [Inseguridades](https://open.spotify.com/track/7LbbirHUrbo8NzKwiT7yOW) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Inseguridades](https://open.spotify.com/album/2ssQJdINLCv9ecZqOuIHk8) | 3:26 | 2022-05-24 |  |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-05-24 |  |
 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 | 2022-05-24 |  |

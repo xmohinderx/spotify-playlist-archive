@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3ix6PDWD6BLx8jJ1RVrKSz"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7nKQUWSFg7HvTxdqSv4ocF"
+    },
+    {
+      "album": {
         "name": "Baby Doll",
         "url": "https://open.spotify.com/album/3w8QAeLI6MlLCdTo5GeR5P"
       },
@@ -177,6 +195,24 @@
       "duration_ms": 185699,
       "name": "Buen Rato",
       "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
+    },
+    {
+      "album": {
+        "name": "Calle y Pistola",
+        "url": "https://open.spotify.com/album/2rMOOoHNbnz9cw4WrZP2fV"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Calle y Pistola",
+      "url": "https://open.spotify.com/track/2RvUFk33p2hfPF7S3MTjsd"
     },
     {
       "album": {
@@ -489,6 +525,52 @@
       "duration_ms": 242006,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
+    },
+    {
+      "album": {
+        "name": "El Carro",
+        "url": "https://open.spotify.com/album/1FwU9ns5c2ct9XBg5KgpfS"
+      },
+      "artists": [
+        {
+          "name": "Fabian Riveros",
+          "url": "https://open.spotify.com/artist/19cJmmJHLQklVrUkI8Y9oo"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Andresito Otro Corte",
+          "url": "https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo"
+        },
+        {
+          "name": "Benjita Montana",
+          "url": "https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        },
+        {
+          "name": "Italo Mvp",
+          "url": "https://open.spotify.com/artist/4opdscImXoT2ZAlN99xWEC"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459130,
+      "name": "El Carro",
+      "url": "https://open.spotify.com/track/3y2iQ87JLSH1J6A6ZaJyn5"
     },
     {
       "album": {
@@ -868,6 +950,28 @@
     },
     {
       "album": {
+        "name": "Hay Amores Que Matan",
+        "url": "https://open.spotify.com/album/7Geerm1upPPZPIP54L0FHJ"
+      },
+      "artists": [
+        {
+          "name": "Bayronfire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240078,
+      "name": "Hay Amores Que Matan",
+      "url": "https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1"
+    },
+    {
+      "album": {
         "name": "Hooka",
         "url": "https://open.spotify.com/album/4dotvAmzUuJ8yugn71wz86"
       },
@@ -1003,6 +1107,28 @@
       "duration_ms": 165047,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF"
+    },
+    {
+      "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/4zGFS1t7pqmlwC6siRSz3M"
+      },
+      "artists": [
+        {
+          "name": "Nico Mastre",
+          "url": "https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td"
+        },
+        {
+          "name": "Bayronfire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180892,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/4GEdcJ36aTarJ1FffmRtV5"
     },
     {
       "album": {
@@ -1249,7 +1375,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 179072,
       "name": "Menorcito Jordan",
       "url": "https://open.spotify.com/track/3SgDHRlOooQVnyjm9VaEOV"
@@ -1271,7 +1397,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 220212,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5T9aWINkvC8GtmcFI2TZAb"
@@ -1367,7 +1493,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 300000,
       "name": "Modo Bellakeo - Remix",
       "url": "https://open.spotify.com/track/0SaXDaVenmZynBYRD3eJG6"
@@ -1453,7 +1579,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 273408,
       "name": "Muevete",
       "url": "https://open.spotify.com/track/3e0EYgl4lQYB6k4pYqg9Pl"
@@ -1717,7 +1843,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 183157,
       "name": "Party en la Pobla 2.0",
       "url": "https://open.spotify.com/track/3tv8MqcUHJlY5E6lZl6dCW"
@@ -1787,7 +1913,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 172368,
       "name": "Pistolas Con Chip",
       "url": "https://open.spotify.com/track/2DBIgoTbNKohMj9vLlgMOK"
@@ -2130,6 +2256,24 @@
     },
     {
       "album": {
+        "name": "Si Lo Dejas Pasar",
+        "url": "https://open.spotify.com/album/77W8EQC7r9G7SCOszGQVmJ"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170739,
+      "name": "Si Lo Dejas Pasar",
+      "url": "https://open.spotify.com/track/2UboXeNVAy7Tkvz2oxfghl"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6IzK8CeN8WYgytqOhtUAyQ"
       },
@@ -2189,6 +2333,24 @@
       "duration_ms": 165679,
       "name": "Siempre Fine",
       "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
+    },
+    {
+      "album": {
+        "name": "Solos",
+        "url": "https://open.spotify.com/album/4OwkPWtn9O1h6KQ2iaLY6K"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237355,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/1AF9s7uWrrBtS7n7zX50er"
     },
     {
       "album": {
@@ -2299,7 +2461,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 195000,
       "name": "Toma",
       "url": "https://open.spotify.com/track/0BK8ofe5aiqd4b9ANFpKpY"
@@ -2431,7 +2593,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 204631,
       "name": "Una Glock",
       "url": "https://open.spotify.com/track/3ihLb6d7mWwOtFt4yaxCQu"
@@ -2453,6 +2615,28 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/03MtXTX960Ig8MZfvfTA9A"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226244,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4x0IsQPJJs0SNp2jy5Njfx"
     },
     {
       "album": {

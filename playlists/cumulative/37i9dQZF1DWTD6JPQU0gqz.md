@@ -2,7 +2,7 @@
 
 ### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/37i9dQZF1DWTD6JPQU0gqz)
 
-> Celebrando a los músicos Afro\-Latinos\. Cover: Goyo
+> Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
 200 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/7oLsX7IwgiSOJmGxuJ1YL5)
 
@@ -26,7 +26,7 @@
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-02-18 | 2022-06-04 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-06-03 |  |
 | [Bruca Manigua](https://open.spotify.com/track/2nRmc4GL2U1Ehrqzf4eCqF) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club presents\)](https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1) | 4:44 | 2021-12-21 | 2022-06-04 |
-| [Brujas](https://open.spotify.com/track/4a925uZhSr6NAeD7RvgLhH) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [1992 Deluxe](https://open.spotify.com/album/0HDrblLFAsyyytu3xKtbnL) | 2:58 | 2021-12-21 |  |
+| [Brujas](https://open.spotify.com/track/4a925uZhSr6NAeD7RvgLhH) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [1992 Deluxe](https://open.spotify.com/album/0HDrblLFAsyyytu3xKtbnL) | 2:58 | 2021-12-21 | 2022-06-11 |
 | [Budy Bye](https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Sleng Teng Riddim](https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci) | 4:20 | 2022-06-06 |  |
 | [Canciones Viejas](https://open.spotify.com/track/7gxii9300kESK7IRrKkDbT) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Canciones Viejas](https://open.spotify.com/album/1F1iKk67NLjLuemU8uelvX) | 4:20 | 2022-02-18 | 2022-06-04 |
 | [Canto A La Habana](https://open.spotify.com/track/0h7TZKhPxzR8edeEq7TwuK) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Renacimiento](https://open.spotify.com/album/1MpZttKB8o0NCMU8thnRnE) | 3:50 | 2021-12-21 | 2022-06-04 |
@@ -86,7 +86,7 @@
 | [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 | 2021-12-21 | 2022-06-04 |
 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 | 2021-12-21 | 2022-06-04 |
 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 | 2022-06-06 |  |
-| [It's My Brown Skin](https://open.spotify.com/track/1C0O7rBGvUwcf1yASFTLYX) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Private Energy](https://open.spotify.com/album/0wlmeNBrcTD0NmlTHCkmbd) | 3:06 | 2022-06-06 |  |
+| [It's My Brown Skin](https://open.spotify.com/track/1C0O7rBGvUwcf1yASFTLYX) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Private Energy](https://open.spotify.com/album/0wlmeNBrcTD0NmlTHCkmbd) | 3:06 | 2022-06-06 | 2022-06-11 |
 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 | 2022-06-03 |  |
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-06-03 |  |
 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 | 2022-06-03 |  |
@@ -166,7 +166,7 @@
 | [Represent](https://open.spotify.com/track/6t7JcobrG8uPND06S7ZJ0n) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0) | [Antidiotico](https://open.spotify.com/album/1enM4REsQap738QI86Qxbj) | 3:41 | 2021-12-21 | 2022-06-04 |
 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 | 2021-12-21 |  |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2022-02-18 |  |
-| [Say I](https://open.spotify.com/track/2XzhZ1V8l837PXOOW3Mvhb) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [So Amazin'](https://open.spotify.com/album/1gTlBwfsBAwzn440nxu52V) | 3:31 | 2021-12-21 |  |
+| [Say I](https://open.spotify.com/track/2XzhZ1V8l837PXOOW3Mvhb) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [So Amazin'](https://open.spotify.com/album/1gTlBwfsBAwzn440nxu52V) | 3:31 | 2021-12-21 | 2022-06-11 |
 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 | 2022-02-18 |  |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-02-18 | 2022-06-04 |
 | [She Say \(feat\. Eladio Carrion\)](https://open.spotify.com/track/5W1Wuga2pBAjKORpP3k0T2) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Flavors 2](https://open.spotify.com/album/5Wfnv7VS1gHDPkN4971mnM) | 3:45 | 2021-12-21 | 2022-06-04 |

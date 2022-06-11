@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,863 likes - 128 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,977 likes - 128 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 127 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
 | 128 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 |
 
-Snapshot ID: `MTY1NDY3NjE5MiwwMDAwMDA5MTAwMDAwMTgxNDI2MmZjOWIwMDAwMDE2ZDAwYjRhZjc4`
+Snapshot ID: `MTY1NDg2NDA4OSwwMDAwMDA5MjAwMDAwMTgxNGQ5NjEzMDMwMDAwMDE4MTRkOTVkZTRl`

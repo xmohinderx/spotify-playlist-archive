@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Joyce Manor
 
-370 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+371 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Gravedigger](https://open.spotify.com/track/65pHyuLVSdpjJNhf27H0Rh) | [SUCK](https://open.spotify.com/artist/7MxmGisbEwkQfFGkTfpkWA) | [Gravedigger](https://open.spotify.com/album/4K1j35D9tFWOJe0qI4LpKx) | 2:29 | 2022-05-26 |  |
 | [Green Squirrel in Pretty Bad Shape](https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Green Squirrel in Pretty Bad Shape](https://open.spotify.com/album/2062Jn4uaZQ67IhVqiviBj) | 2:40 | 2021-12-17 | 2022-01-28 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-04 | 2022-03-25 |
+| [Gucci](https://open.spotify.com/track/2RIdz4Q2Ij10tT7DRJjTa6) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Gucci](https://open.spotify.com/album/1XCcR2dx782OgYp9rfVvC7) | 2:42 | 2022-06-09 |  |
 | [Habitual](https://open.spotify.com/track/2G7KOokR015FKnTp75gujf) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Feel the Void](https://open.spotify.com/album/1Nz4Ufkp2AZRR1giNkbp5J) | 3:54 | 2022-03-18 | 2022-04-22 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-04 | 2022-04-22 |
 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-05-20 |  |

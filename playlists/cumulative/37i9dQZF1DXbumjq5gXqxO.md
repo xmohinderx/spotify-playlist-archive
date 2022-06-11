@@ -2,14 +2,16 @@
 
 ### [Hustle Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbumjq5gXqxO)
 
-> Check out the Official Hustle Playlist\. <a href="https://www.netflix.com/title/80242342">Watch now on Netflix</a>
+> Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-21 songs - 1 hr 16 min - not published yet
+23 songs - 1 hr 24 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Already Dead](https://open.spotify.com/track/2AqYgGrdPy8Ok6lttZe1cs) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [Hustle \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3jex2C4qMfmBiXmRcIE8Oj) | 4:23 | 2022-06-08 |  |
+| [Become a Mountain](https://open.spotify.com/track/1NIjx6oS7ECM5UtTpPUFIa) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Mystic Familiar](https://open.spotify.com/album/10e9Nf6QFZMTEy5TQm8G85) | 4:05 | 2022-06-10 |  |
 | [Bo Vs Kermit Pt 1](https://open.spotify.com/track/6c9FZxNyvcHjeC4oI5LIuN) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [Hustle \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3jex2C4qMfmBiXmRcIE8Oj) | 2:41 | 2022-06-08 |  |
+| [Change Your Life \(You Can Do It\)](https://open.spotify.com/track/17MXoU0jFQnhpf05xqDc8P) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Change Your Life \(You Can Do It\)](https://open.spotify.com/album/4WSbj69TjLn147E8bhQfYQ) | 4:28 | 2022-06-10 |  |
 | [Combine](https://open.spotify.com/track/7IrwbXuntE5iGMh22ZvyvF) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [Hustle \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3jex2C4qMfmBiXmRcIE8Oj) | 3:33 | 2022-06-08 |  |
 | [Drumdown Mambo \(feat\. Jasiah\)](https://open.spotify.com/track/0ww5NVJt3quNKHp8Fn5wQK) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 1:39 | 2022-06-08 |  |
 | [Feel It In The Air](https://open.spotify.com/track/4rICUbwZZuqUOcgQgtux2k) | [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Melissa](https://open.spotify.com/artist/3pULNk88nvuihcs2joiqpG) | [The B.Coming](https://open.spotify.com/album/6XjOkMukhyyEORUU0ucQ7m) | 4:06 | 2022-06-08 |  |

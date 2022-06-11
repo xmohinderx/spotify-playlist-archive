@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-581 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+582 songs - 1 day 7 hr 24 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Give Me A Reason](https://open.spotify.com/track/5llS7ND05GQQ9jTOzMjXNO) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Give Me A Reason](https://open.spotify.com/album/0qxZx6OTqHe1UjXECU4tIi) | 3:24 | 2020-02-11 | 2021-05-12 |
 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 | 2019-08-27\* | 2019-11-11 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-07-09 |  |
 | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/track/1Jf9ENlFh3WDUM8Jk30Kfm) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/album/7hhHgVOMHluzEexFMTpVbE) | 2:41 | 2019-08-27\* | 2020-02-12 |
 | [Gold](https://open.spotify.com/track/3yK3FMbBKamJeJFOQ6ybjo) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Into Gold](https://open.spotify.com/album/1xcZ5lmwepV6Xj9WpNwt8Z) | 3:40 | 2020-02-21 | 2021-05-12 |

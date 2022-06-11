@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 151423,
       "name": "Bleed It",
       "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
@@ -353,6 +353,28 @@
       "duration_ms": 151598,
       "name": "Breast Milk Freestyle",
       "url": "https://open.spotify.com/track/1nIXmqWFPYCYUYIJWaMcz1"
+    },
+    {
+      "album": {
+        "name": "Breath Control",
+        "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Breath Control (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
     },
     {
       "album": {
@@ -634,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Low Key EP",
+        "url": "https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ"
+      },
+      "artists": [
+        {
+          "name": "EdwOrdS",
+          "url": "https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov"
+    },
+    {
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -725,7 +765,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 88109,
       "name": "Food For Thots",
       "url": "https://open.spotify.com/track/0AIeN6y2uTlIkj7AKcgaXN"
@@ -1639,7 +1679,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 109813,
       "name": "Over You.",
       "url": "https://open.spotify.com/track/3a7tj41nj7S3LKmkGJB2zT"
@@ -2597,6 +2637,24 @@
       "duration_ms": 144222,
       "name": "Xfoliate (feat. General Fly)",
       "url": "https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY"
+    },
+    {
+      "album": {
+        "name": "You Cried",
+        "url": "https://open.spotify.com/album/2YaFX1p8bTSZvjsXKl24y8"
+      },
+      "artists": [
+        {
+          "name": "Lu-Kusa Woe",
+          "url": "https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119887,
+      "name": "You Cried",
+      "url": "https://open.spotify.com/track/2IPqCA3Sh9B9zAgzaH7KOx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3XgesiUXnsq"

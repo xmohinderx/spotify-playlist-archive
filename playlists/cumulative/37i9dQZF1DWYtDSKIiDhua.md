@@ -4,7 +4,7 @@
 
 > The R&B tracks essential for your current mood\. Cover: SZA
 
-80 songs - 4 hr 17 min - not published yet
+80 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

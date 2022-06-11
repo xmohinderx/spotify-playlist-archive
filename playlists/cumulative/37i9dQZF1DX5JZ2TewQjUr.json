@@ -1654,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "WHITELIES",
+        "url": "https://open.spotify.com/album/2c2NXy8ZwXA22gCAIMIB4Z"
+      },
+      "artists": [
+        {
+          "name": "Derek Chan",
+          "url": "https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "WHITELIES",
+      "url": "https://open.spotify.com/track/1ZCni5M2ETDB01M2TqLvgA"
+    },
+    {
+      "album": {
         "name": "WHO A U ?",
         "url": "https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD"
       },

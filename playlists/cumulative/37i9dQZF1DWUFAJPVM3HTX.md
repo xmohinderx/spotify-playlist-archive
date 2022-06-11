@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Reggie Becton
 
-512 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+513 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Summer's Gone](https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 3:21 | 2022-05-18 | 2022-06-10 |
 | [Sunday](https://open.spotify.com/track/5YTX6MAmSHdh6UI9uyvMHw) | [Rob V](https://open.spotify.com/artist/4MfMoxxIjmWNJm1Strguyd) | [Sunday](https://open.spotify.com/album/1ppZ4yRYpmhcv9NsFO0tOA) | 3:04 | 2022-03-23 | 2022-05-12 |
 | [Sundress](https://open.spotify.com/track/2PVIOPgiTf6w6RlEJxQdkg) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal](https://open.spotify.com/album/6V836oeuXh62MWgiAHZPLz) | 3:19 | 2021-12-01 | 2022-01-13 |
+| [SUNRISE](https://open.spotify.com/track/5bvsXgDtVaFSg2JFhxL1lH) | [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [SUNRISE](https://open.spotify.com/album/1DI9bwQfWVGOAYkF18mFo7) | 2:55 | 2022-06-10 |  |
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-03-02 | 2022-03-18 |
 | [Sweet Like Summer](https://open.spotify.com/track/1VjxNUdEKz47ZFFcreDAeI) | [GITAA](https://open.spotify.com/artist/64YK1l1Rd3GlvXVrEgsrxJ) | [Sweet Like Summer](https://open.spotify.com/album/1eaZAyoOft6h7rhs3IBQRD) | 3:18 | 2022-01-12 | 2022-02-03 |
 | [Sweet Sensation](https://open.spotify.com/track/3yK2sMDG9pBIHjuIEO50UG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Purple BLUE](https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh) | 2:43 | 2021-12-01 | 2022-01-13 |

@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 269339,
       "name": "Equally",
       "url": "https://open.spotify.com/track/7AXJP7qDhsxbNr4iUbdjsA"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 191114,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
@@ -1454,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+    },
+    {
+      "album": {
         "name": "Costero",
         "url": "https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 273600,
       "name": "I wanted you to know (on Yamaha Upright, 1981)",
       "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 166320,
       "name": "In The End",
       "url": "https://open.spotify.com/track/5AZP3UVGWoJe5ViBnqvl0G"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 119120,
       "name": "Nowesind",
       "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 199400,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
@@ -3296,6 +3314,24 @@
     },
     {
       "album": {
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "album": {
         "name": "Unus mundus",
         "url": "https://open.spotify.com/album/1ELkIzvjsf34zkpLBz4H8H"
       },
@@ -3397,7 +3433,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"

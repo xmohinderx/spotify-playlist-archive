@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-879 songs - 2 day 0 hr 58 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+880 songs - 2 day 1 hr 2 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [150](https://open.spotify.com/track/4RmyvCoYKGaBAsC4CLkMMu) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-13 |
 | [20 Ave Mariaa](https://open.spotify.com/track/2SREBxoqvxhB0wQHgLeNVI) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [20 Ave Mariaa](https://open.spotify.com/album/4obc4ozeksN2VovrhKqSTR) | 3:43 | 2021-03-27\* | 2021-08-22 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-18 | 2021-08-22 |
+| [20min](https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [20min](https://open.spotify.com/album/0M2eY9R5eYfhyaYhrAfzh3) | 3:24 | 2022-06-10 |  |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2022-05-10 |
 | [2step \(feat\. Ellinoora\)](https://open.spotify.com/track/3Cem1dtq0bNVYQNqz9h0BY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [2step \(The Remixes\)](https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7) | 2:33 | 2022-05-28 |  |
@@ -813,7 +814,7 @@
 | [Valmiina futaa](https://open.spotify.com/track/0MDLQGQ0txcIdo440A1q7N) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Valmiina futaa](https://open.spotify.com/album/1VZr8uq1l2CyM1h8QahS2V) | 2:55 | 2021-06-14 | 2021-08-31 |
 | [Valoo](https://open.spotify.com/track/5BeMjPUnxSBUK4fXtPsRoD) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Valoo](https://open.spotify.com/album/6mdZfQApSpV0jssCxFiTWq) | 3:07 | 2021-10-10 | 2021-10-18 |
 | [Valot \(feat\. Juno, LEO & Väinöväinö\)](https://open.spotify.com/track/18iiaxZxjQ31VqXX8IIbYb) | [Kuohu](https://open.spotify.com/artist/5WOLOIUAhbTHw5bnZ6rqTC), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [LEO](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Väinöväinö](https://open.spotify.com/artist/5sHEtn1g7FilHv3bYAa5j4) | [Valot \(feat\. Juno, LEO & Väinöväinö\)](https://open.spotify.com/album/3pDxcW0dBErLUZB1KSKBmz) | 3:22 | 2021-03-27 | 2021-03-29 |
-| [Vamos](https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Vamos](https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U) | 2:40 | 2022-01-08 |  |
+| [Vamos](https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Vamos](https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U) | 2:40 | 2022-01-08 | 2022-06-11 |
 | [Vamos \- Remix](https://open.spotify.com/track/6yZuWA0iFPnk7OlGuCPwQj) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Vamos \(Remix\)](https://open.spotify.com/album/0qa7jGaAxYM0SYXsQzIe6m) | 3:21 | 2022-05-21 | 2022-05-31 |
 | [Varpunen jouluaamuna](https://open.spotify.com/track/6zAQuHIi9gENYJTYuwJmvU) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 3:40 | 2021-12-24 | 2021-12-27 |
 | [Vastaaja \(feat\. Ege Zulu & Pessa\)](https://open.spotify.com/track/2LGHc5OI7tWamZd7JoOfll) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Väärinymmärretty](https://open.spotify.com/album/05s8Cw5OJ4MFJJKYcopWGn) | 3:06 | 2022-01-18 | 2022-05-15 |

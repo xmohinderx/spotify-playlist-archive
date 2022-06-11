@@ -122,6 +122,28 @@
     },
     {
       "album": {
+        "name": "Away From Me",
+        "url": "https://open.spotify.com/album/6TK2A3juCejutugbkArptL"
+      },
+      "artists": [
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        },
+        {
+          "name": "ESAI",
+          "url": "https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Away From Me",
+      "url": "https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T"
+    },
+    {
+      "album": {
         "name": "Back To Time (with Broad Run, Arnie Woods & Ethan Heckard)",
         "url": "https://open.spotify.com/album/6xLf6hWH8X4Bx60zcjMZPV"
       },

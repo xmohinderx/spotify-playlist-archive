@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Monét Ngo,  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,003 likes - 84 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,815 likes - 84 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ruby Sparks](https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Ruby Sparks](https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY) | 4:14 |
-| 2 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 |
-| 3 | [Parliaments](https://open.spotify.com/track/5tpDX58ps1R79zczsYiz8n) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Parliaments](https://open.spotify.com/album/5YtmYNbbPLO8HSCX5B6Mdl) | 2:52 |
+| 1 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 |
+| 2 | [Parliaments](https://open.spotify.com/track/5tpDX58ps1R79zczsYiz8n) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Parliaments](https://open.spotify.com/album/5YtmYNbbPLO8HSCX5B6Mdl) | 2:52 |
+| 3 | [Ruby Sparks](https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Ruby Sparks](https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY) | 4:14 |
 | 4 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 |
 | 5 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 |
 | 6 | [Case Closed](https://open.spotify.com/track/1UzVWzwN8uBgDj264HPojF) | [Zayland](https://open.spotify.com/artist/5M9hQI5iiKLFHZ8JRaZafM) | [Case Closed](https://open.spotify.com/album/27wvgRfSLCcrIDIFxgtVNZ) | 2:10 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 83 | [Hesitation](https://open.spotify.com/track/5mHxvRNn28mLNRkFL7dWHK) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe) | [With Her / Hesitation](https://open.spotify.com/album/7zZaYnq0VVwUIXFWsbrS5U) | 3:48 |
 | 84 | [Kilos](https://open.spotify.com/track/3S8s3Y9OfkxL1wA2HRCoPF) | [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Kilos](https://open.spotify.com/album/0E5pFktJRlOgO3kWrgH8fj) | 5:31 |
 
-Snapshot ID: `MTY1NDgwNjU1OCwwMDAwMDFjMjAwMDAwMTgxNGEyODM3Y2MwMDAwMDE4MTQzZTdkOGM1`
+Snapshot ID: `MTY1NDg3Nzg3OSwwMDAwMDFjMzAwMDAwMTgxNGU2ODdjY2UwMDAwMDE4MTQzZTdkOGM1`

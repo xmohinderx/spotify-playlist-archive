@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-194 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+195 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Changing Channels](https://open.spotify.com/track/6zkI9ra0jflB8cFOz9JPa4) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:02 | 2022-01-01 |  |
 | [Church Bells \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/5E5wgTbHRPicCLIjiWw5AS) | [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:09 | 2022-01-01 |  |
 | [Church On Cumberland Road](https://open.spotify.com/track/2WoPVanLzJxU0483JcbJIC) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 4:28 | 2022-01-01 |  |
+| [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-06-10 |  |
 | [Come Over \- Acoustic Mixtape](https://open.spotify.com/track/5ZuDo4T5NU7jg5y0yV2Otk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 4:01 | 2022-02-28 |  |
 | [Cop Car](https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:13 | 2022-02-28 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-02-28 |  |

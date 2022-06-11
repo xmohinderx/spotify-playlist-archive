@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbumjq5gXqxO.md) - [plain]
 
 ### [Hustle Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbumjq5gXqxO)
 
-> Check out the Official Hustle Playlist\. <a href="https://www.netflix.com/title/80242342">Watch now on Netflix</a>
+> Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 21 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbumjq5gXqxO.md) - [plain]
 | 19 | [Heaven](https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [R&B?](https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz) | 2:59 |
 | 20 | [Run Up HIll Win](https://open.spotify.com/track/0fuNrf9eyCnJkFtFJneInh) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [Hustle \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3jex2C4qMfmBiXmRcIE8Oj) | 3:04 |
 | 21 | [Full Effect](https://open.spotify.com/track/64DnGyz71FXuhIm5fAcXBh) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [Young Gunz](https://open.spotify.com/artist/2sBv30RzdeMVPoBXbzjIo5) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 4:50 |
+| 22 | [Change Your Life \(You Can Do It\)](https://open.spotify.com/track/17MXoU0jFQnhpf05xqDc8P) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Change Your Life \(You Can Do It\)](https://open.spotify.com/album/4WSbj69TjLn147E8bhQfYQ) | 4:28 |
+| 23 | [Become a Mountain](https://open.spotify.com/track/1NIjx6oS7ECM5UtTpPUFIa) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Mystic Familiar](https://open.spotify.com/album/10e9Nf6QFZMTEy5TQm8G85) | 4:05 |
 
-Snapshot ID: `MTY1NDcwMTExNiwwMDAwMDAwMjAwMDAwMTgxNDNkZjRkMTIwMDAwMDE4MTQzZGFlNjYw`
+Snapshot ID: `MTY1NDg4Mzc4MCwwMDAwMDAwMzAwMDAwMTgxNGVjMjg5MzYwMDAwMDE4MTQzZGFlNjYw`

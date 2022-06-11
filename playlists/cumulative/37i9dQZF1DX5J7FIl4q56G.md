@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Parkway Drive
 
-992 songs - 2 day 19 hr 0 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+993 songs - 2 day 19 hr 3 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Revelation Denied](https://open.spotify.com/track/49CdpNqdhe8wFBHxUpNqTH) | [Intoxicated](https://open.spotify.com/artist/6mloZ1De5nFjLFLWfXFxEV) | [Revelation Denied](https://open.spotify.com/album/3CbBZoRrHN1yBvdfkDWysG) | 3:29 | 2022-02-17 | 2022-03-04 |
 | [Revolt](https://open.spotify.com/track/4YnnMY88gs1hbKZaGz12sd) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ) | [Revolt](https://open.spotify.com/album/4BDeqkERzB7Una7uCTlbrk) | 3:33 | 2021-12-17 | 2022-01-21 |
 | [Rift](https://open.spotify.com/track/3jw24b425M2R4XVSP53jd1) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Rift](https://open.spotify.com/album/4B0zQZ9zjIVMg6bSVpaxUB) | 3:27 | 2022-02-11 | 2022-02-18 |
+| [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 |  |
 | [Right There, Just Like That](https://open.spotify.com/track/6sxdlON2OhydFd8j2OIYeA) | [Motor Sister](https://open.spotify.com/artist/2PSgWUN5hVuv4LYulLxaT3) | [Right There, Just Like That](https://open.spotify.com/album/6K8ls5wvPJRnhVgm131HX2) | 3:06 | 2022-04-15 | 2022-04-22 |
 | [Romeo Delight](https://open.spotify.com/track/5Wsw3iaHNipb5IzoBjzPMm) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Romeo Delight](https://open.spotify.com/album/5bG5XD1u5hgULFub94yLXB) | 4:20 | 2022-01-14 | 2022-02-11 |
 | [Rot](https://open.spotify.com/track/7JKnwmpweNsNL7jPKm6lPq) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ) | [Rot](https://open.spotify.com/album/5mR2J9K8zJJefhPdwBr4ms) | 6:19 | 2022-04-22 | 2022-04-29 |

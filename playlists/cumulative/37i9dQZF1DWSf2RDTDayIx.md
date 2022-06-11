@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-250 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
+251 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Finally Ready \(feat\. Billy Porter\) \- David Penn Remix](https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Finally Ready \(feat\. Billy Porter\) \[Remixes\]](https://open.spotify.com/album/3ykbnn15S97CpnOsVgH9aY) | 3:55 | 2021-12-03 | 2022-01-08 |
 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj) | 3:20 | 2021-12-03 | 2022-01-08 |
 | [Forever Love \(feat\. Viiq\)](https://open.spotify.com/track/6bVWGtN2BVH53il4JSFON8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Forever Love \(feat\. Viiq\)](https://open.spotify.com/album/19rMZRfgM5ngNLagrXpqwk) | 2:35 | 2021-12-03 | 2022-01-08 |
+| [Free](https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Brighter Future 2](https://open.spotify.com/album/4kI8vmtGZHrNrc6WWHW5iw) | 3:12 | 2022-06-10 |  |
 | [Free](https://open.spotify.com/track/1pR1dztObMe3vjlkQk78MJ) | [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Free](https://open.spotify.com/album/2EGpCCouW6wH37keLt09BP) | 2:58 | 2021-12-03 | 2022-01-05 |
 | [Free \(with Drew Love\)](https://open.spotify.com/track/64BKKgWdKdmKlQDzRfHW3C) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Free \(with Drew Love\)](https://open.spotify.com/album/4vPi417GIyreDLamFQVZJd) | 3:42 | 2022-01-07 |  |
 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 | 2021-12-03 |  |

@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-87 songs - 6 hr 4 min - not published yet
+88 songs - 6 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2022-05-18 |  |
 | [Midnight Rider](https://open.spotify.com/track/6kNiAIx1tc28Zi16dNBJIL) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Remastered\)](https://open.spotify.com/album/3AIFhrBogAMWI1tylthUFP) | 3:00 | 2022-05-18 |  |
 | [Mind Games \- Ultimate Mix](https://open.spotify.com/track/4LgPHW98WGoir4NVH4ewLF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games \(Ultimate Mix\)](https://open.spotify.com/album/0Z9XDrFoDJqb2Mn8Ua3dFq) | 4:11 | 2022-05-18 |  |
+| [Moonlight Drive](https://open.spotify.com/track/06g3As8xI2VvPh9gbZBLFU) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Moonlight Drive](https://open.spotify.com/album/31adQAH0S6mZlItueX7x37) | 3:00 | 2022-06-10 |  |
 | [My Generation \- Mono Version](https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:18 | 2022-05-18 |  |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 | 2022-05-18 |  |
 | [O\-O\-H Child](https://open.spotify.com/track/0ZwoZncprab0aClRNs0axg) | [Paul Stanley's Soul Station](https://open.spotify.com/artist/3SSu1tFfLuAZgAvEPOyay6) | [O\-O\-H Child](https://open.spotify.com/album/2wNtFGlGGFLou0pYMlSn5P) | 3:40 | 2022-05-18 |  |

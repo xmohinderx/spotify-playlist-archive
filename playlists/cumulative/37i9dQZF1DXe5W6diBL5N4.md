@@ -2,9 +2,9 @@
 
 ### [New Music K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: aespa\(에스파\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
+> 신곡 배달! The freshest K\-Pop releases are here! \(Cover: BTS\(방탄소년단\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-1,012 songs - 2 day 10 hr 40 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+1,013 songs - 2 day 10 hr 43 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-05-30 |  |
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-05-13 | 2022-05-28 |
 | [a timid man](https://open.spotify.com/track/1BGUaTYefC9CrZFY879TKQ) | [울랄라세션](https://open.spotify.com/artist/4r4f4hYXqvB1xGMxm6JcF7) | [현재는 아름다워 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2hHoAvZ5gRhBLHv9A0xFOf) | 3:32 | 2022-04-28 | 2022-05-04 |
-| [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long:D](https://open.spotify.com/artist/3WZO0VgmgSw5elnSgItJjE) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-07 |  |
+| [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-07 |  |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-09 | 2022-05-19 |
 | [About you](https://open.spotify.com/track/4EoTEZdnweMSVGpJPEt9JP) | [Asher](https://open.spotify.com/artist/0oXNIeYVlrsIcSdGGkKq6N) | [About you](https://open.spotify.com/album/2bmmo7d4G7bY8kKOBZl6cC) | 2:54 | 2022-05-17 | 2022-05-28 |
 | [ACACIA](https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [ACACIA](https://open.spotify.com/album/0hwx9RAwQqLMt5gCDrC49w) | 3:32 | 2022-05-13 | 2022-05-28 |
@@ -336,7 +336,7 @@
 | [Funky Drive](https://open.spotify.com/track/2dfDjliDkAZwTas9pcVAtw) | [JulyMorning](https://open.spotify.com/artist/30P86pnaycnTGEKX0mFEP6), [12Wol](https://open.spotify.com/artist/4jeMPxrPovmczIJySSyXxW) | [Funky Drive](https://open.spotify.com/album/1nE2YT12F7GD0IVD7O8Rci) | 3:39 | 2022-05-02 | 2022-05-10 |
 | [Future Star](https://open.spotify.com/track/00qAit7kmmnkcOzpoPh6XP) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Future Star](https://open.spotify.com/album/4lzgErFxW9RYh5GiY2BgmM) | 3:17 | 2022-04-19 | 2022-04-23 |
 | [GAME \(with dvckii\)](https://open.spotify.com/track/45fdxhO3wORmfPBhgt2kbw) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6), [dvckii](https://open.spotify.com/artist/28rSryznQLS0P9ZQmPCPRD) | [GAME](https://open.spotify.com/album/7pcs2lt7HHS4BsRFq6hnkJ) | 3:04 | 2022-04-28 | 2022-05-04 |
-| [Gap](https://open.spotify.com/track/6CBzo5k8Lie2qgwfkMoUDa) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [Gap](https://open.spotify.com/album/296BO4ZNv8Ci2BZ0FSDcPK) | 4:10 | 2022-05-30 |  |
+| [Gap](https://open.spotify.com/track/6CBzo5k8Lie2qgwfkMoUDa) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [Gap](https://open.spotify.com/album/296BO4ZNv8Ci2BZ0FSDcPK) | 4:10 | 2022-05-30 | 2022-06-11 |
 | [Garden in my mind](https://open.spotify.com/track/0t7F2UJzReoj4xIEam8Thj) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [Garden in my mind](https://open.spotify.com/album/4JBrAPBJTxjjxXEjfIxewd) | 3:44 | 2022-04-19 | 2022-05-03 |
 | [Gasoline](https://open.spotify.com/track/69LA8ZxpRAkvD18qENtTrb) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Gasoline](https://open.spotify.com/album/3ElwPHW7K5ljC38BZ1bp1K) | 2:46 | 2022-04-28 | 2022-05-06 |
 | [Get away from me](https://open.spotify.com/track/4dcpQqODdNTsW6Mcgcc2qe) | [REDAY](https://open.spotify.com/artist/1upbspNdKLtf8c20pDp2NT) | [IGNORAMUS](https://open.spotify.com/album/5qefcPcEmhF1uabGJTQu42) | 2:45 | 2022-05-13 | 2022-05-28 |
@@ -966,6 +966,7 @@
 | [Wrecker ft Vernon of SEVENTEEN](https://open.spotify.com/track/6M2R8LHcCdlnDw45AbWsMS) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Wrecker](https://open.spotify.com/album/2DA6c9l9zP1fnTKom5SfY2) | 3:06 | 2022-05-17 | 2022-05-31 |
 | [X\-Ray](https://open.spotify.com/track/0XzHblTGWrJ84cb0Q2ZPqp) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [ARCADE : V](https://open.spotify.com/album/2X6KW5nq83Dj1yDImxkYu3) | 3:08 | 2022-04-19 | 2022-04-23 |
 | [Yellow Gang](https://open.spotify.com/track/5QBrOei7ufS1YKeDCj1z2g) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Yellow Gang](https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH) | 2:27 | 2022-04-19 | 2022-04-23 |
+| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 |  |
 | [Yooooo \(Feat\. Kid Milli, sokodomo, Polodared\)](https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:03 | 2022-04-19 | 2022-04-23 |
 | [You](https://open.spotify.com/track/1cOdLIVkanabBExcxmdDXe) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD) | [You \(Jeong Yu Jin x Some Playlist\)](https://open.spotify.com/album/2Ns5zPirVQo9tTDsj9O0iQ) | 3:45 | 2022-05-30 |  |
 | [you](https://open.spotify.com/track/3g6lml297b6ai3Azf6Ytw5) | [Park Ji Yoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [you](https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV) | 3:46 | 2022-05-27 | 2022-06-10 |

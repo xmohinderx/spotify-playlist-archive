@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-137 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+140 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,10 @@
 | [A Ram Sam Sam](https://open.spotify.com/track/56QKL1S0CywvdIjp0vHtjh) | [Carine Vester](https://open.spotify.com/artist/3lfo96yWyh9kw1mprRdOLU) | [Ten Little Indians](https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2) | 1:33 | 2022-02-10 |  |
 | [A Smile for Everyone](https://open.spotify.com/track/6kkVJzTyJ4LKh4zM6TodVF) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 2:07 | 2022-02-10 |  |
 | [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 |  |
-| [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 |  |
+| [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 | 2022-06-11 |
 | [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 |  |
-| [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 |  |
-| [Arioso](https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Pieces](https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9) | 2:01 | 2022-02-10 |  |
+| [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 | 2022-06-11 |
+| [Arioso](https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Pieces](https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9) | 2:01 | 2022-02-10 | 2022-06-11 |
 | [Arriba del Cielo](https://open.spotify.com/track/3KWiNfUbi0zs0KoMAusIBN) | [Marshfold](https://open.spotify.com/artist/5YKn3z6YLjGP2ydLHVanoa) | [Arriba del Cielo](https://open.spotify.com/album/2j0cClBu5CYlleUVKg116a) | 1:09 | 2022-02-10 |  |
 | [As You Fall Asleep](https://open.spotify.com/track/5IN2z7VbAJU1swuJxv3mX5) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:48 | 2022-02-10 |  |
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
@@ -48,7 +48,7 @@
 | [Dans notre jardin](https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Dans notre jardin](https://open.spotify.com/album/7Lz4tikU1XQxOis3UNLPWl) | 1:28 | 2022-04-22 |  |
 | [Don't Worry Baby](https://open.spotify.com/track/4lma9ZO9Xux8SxU7lbR6X5) | [Don't Worry Baby Lullabies](https://open.spotify.com/artist/2rB8ZbwgwJStg2vvSrTwUp) | [Don't Worry Baby](https://open.spotify.com/album/5fqjLiDafcWE7steZN3cES) | 2:13 | 2022-04-22 |  |
 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 | 2022-02-10 |  |
-| [Down By The Bay](https://open.spotify.com/track/3FpGkazRKFALtFqgoSHP94) | [Juliusz Olszewski](https://open.spotify.com/artist/3fhyvyCm5tmUhKClaprPsn) | [If You're Happy And You Know It](https://open.spotify.com/album/55l78rP89wx0v9oFfvOKU4) | 1:13 | 2022-02-10 |  |
+| [Down By The Bay](https://open.spotify.com/track/3FpGkazRKFALtFqgoSHP94) | [Juliusz Olszewski](https://open.spotify.com/artist/3fhyvyCm5tmUhKClaprPsn) | [If You're Happy And You Know It](https://open.spotify.com/album/55l78rP89wx0v9oFfvOKU4) | 1:13 | 2022-02-10 | 2022-06-11 |
 | [Dream Dreams](https://open.spotify.com/track/2oppXf0oJKglJLVoSPdDb3) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Dream Dreams](https://open.spotify.com/album/7ywh2jYHwz3eAlwSW9gBJL) | 1:03 | 2022-05-17 |  |
 | [Dreaming Fairies](https://open.spotify.com/track/25EANIja57vwSi2HiGuYLU) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Dreaming Fairies](https://open.spotify.com/album/77tBcOPmY6EDM6mL1yN7HD) | 1:32 | 2022-02-10 |  |
 | [Dreams Of Roses](https://open.spotify.com/track/1o8xy2ywk1uUCLLa3igv5r) | [Natalie Park](https://open.spotify.com/artist/5xBhqnVsDaIWI16jfjV8An) | [Dreams Of Roses](https://open.spotify.com/album/6EjIX0f3QPUZpHRWKWZMBS) | 1:35 | 2022-02-10 |  |
@@ -70,6 +70,7 @@
 | [Hide and seek](https://open.spotify.com/track/5UJ8MXBy8QHCTi764Dzk1e) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [Hide and seek](https://open.spotify.com/album/2JI1bDmqusPLCzmmxygBid) | 1:23 | 2022-02-10 |  |
 | [Hide and Seek](https://open.spotify.com/track/2afuD9yMSnn0WStO5SdnuX) | [Romeo's Music Box](https://open.spotify.com/artist/09KF2faaPp2vPZYnrCftV6) | [Country Mornings](https://open.spotify.com/album/2zTZjB3D253xXYmDR4j4O6) | 1:59 | 2022-02-10 |  |
 | [Hush My Little Angel](https://open.spotify.com/track/6PnTv60Gm4DcMa3uUf5CPQ) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:18 | 2022-02-10 |  |
+| [Hver dag med deg](https://open.spotify.com/track/481atd1wQfDApIcP7viDSy) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Sommerferien min](https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP) | 1:28 | 2022-06-10 |  |
 | [Hänschen klein](https://open.spotify.com/track/7CLSv8Jzp0aG04JSaAclTR) | [Tia Campuzano](https://open.spotify.com/artist/30PvDTSBaMasdMHgbgCCw7) | [Kumbaya my lord](https://open.spotify.com/album/39IRgH2P5Tp7v9vCsixiFO) | 0:40 | 2022-02-10 | 2022-04-23 |
 | [I Can't Help Falling In Love \- Music Box](https://open.spotify.com/track/2tBDvIzbmWvy4fvzcwBdq3) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [I Can't Help Falling In Love \(Music Box\)](https://open.spotify.com/album/5RkYkiGiLJRMJ0AMtOSx9U) | 1:46 | 2022-05-17 |  |
 | [In mom's purse](https://open.spotify.com/track/3KXK50MwbDlWNvXDIzCHDt) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:11 | 2022-05-17 |  |
@@ -109,7 +110,9 @@
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 |  |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 |  |
 | [Somewhere over the rainbow](https://open.spotify.com/track/7xR4hSnxdNczhdckGAeqPE) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:48 | 2022-02-10 |  |
+| [Sommerferien min](https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Sommerferien min](https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP) | 1:17 | 2022-06-10 |  |
 | [Splashing in the Sun](https://open.spotify.com/track/5lL4d60LWLlGnM7MgT0NNn) | [Sara Oh](https://open.spotify.com/artist/2TIZ5af12SXGEKOfsVeAgM) | [Splashing in the Sun](https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb) | 2:16 | 2022-02-10 |  |
+| [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 |  |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-17 |  |
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 |  |
 | [Sunset](https://open.spotify.com/track/1EENlCQndVgWifmYILC8zI) | [Shania Dawes](https://open.spotify.com/artist/1kztaubebsodHyZE8jAVUo) | [Sunset](https://open.spotify.com/album/5h267Ia1lIEzcAcncdek9i) | 1:24 | 2022-02-10 |  |

@@ -4,7 +4,7 @@
 
 > Just chill...
 
-260 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+261 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hope You Are Okay](https://open.spotify.com/track/6vYbNeMUIMGRSX2OLhQQOk) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Hope You Are Okay](https://open.spotify.com/album/6T3wQsFNhRoYPbVB6mOd4T) | 1:55 | 2020-08-10 | 2022-01-22 |
 | [How It Was](https://open.spotify.com/track/2chYHCTlDhpNfZIPzgZ9dS) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [How It Was](https://open.spotify.com/album/0CgN4X2knXtH8trDKPVd5W) | 3:09 | 2020-06-12 |  |
 | [Human Nature](https://open.spotify.com/track/6vtgPYtS3TuQko4T4NCsc1) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Human Nature](https://open.spotify.com/album/6FwTL3AtmfzvHwSkX0QLDE) | 4:19 | 2020-06-12 |  |
+| [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 |  |
 | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/album/0HfMtVtwcLY0hrZbIMc5X5) | 2:01 | 2020-02-28 |  |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
 | [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 |  |

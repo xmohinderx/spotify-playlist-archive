@@ -4,12 +4,13 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-80 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1mxT9VBVPBq4KOuVH5Aq5o)
+81 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/1mxT9VBVPBq4KOuVH5Aq5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hajnal Köszöntése](https://open.spotify.com/track/5hk7bSem5WjfOs1hOfLcAq) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Metanoia](https://open.spotify.com/album/6RIVeektmOKVqaewOZzXvo) | 5:56 | 2022-05-13 |  |
 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 | 2022-05-13 |  |
+| [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 | 2022-06-10 |  |
 | [Appalachia](https://open.spotify.com/track/7u0XWL41N6AqkmaqYGjBv8) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Appalachia](https://open.spotify.com/album/0wLo8lUnywiRPgkjrqZ3Bf) | 3:59 | 2022-05-13 |  |
 | [Blodbylgje](https://open.spotify.com/track/49vfzNh1RARoPNcDDIAGLf) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn) | [Blodbylgje](https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn) | 15:22 | 2022-05-13 |  |
 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/3KT52834YTKYqxMS3Uus55) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/7hBdpuRzven4G0UHw8bnnl) | 4:06 | 2022-05-13 |  |
@@ -33,7 +34,7 @@
 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 | 2022-05-13 |  |
 | [Jormungandr \- Vinland Edition](https://open.spotify.com/track/0QK4Q4hcwQTzbiWisvrv83) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Ragnarök](https://open.spotify.com/album/2OyNo7JIAxW8DhS2fLPAJ8) | 4:13 | 2022-05-13 |  |
 | [Jólanótt](https://open.spotify.com/track/0LHxitnBVBbmRVqCZH8I74) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Jólanótt](https://open.spotify.com/album/212WacUd6V0YsXOcRAt3uk) | 3:25 | 2022-05-13 |  |
-| [Khaalo](https://open.spotify.com/track/7mE8m4vRSFhjRbTLqPRGRg) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh) | [Khaalo](https://open.spotify.com/album/01VmZeDpVALsIbNmq8oHew) | 5:45 | 2022-05-13 |  |
+| [Khaalo](https://open.spotify.com/track/7mE8m4vRSFhjRbTLqPRGRg) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh) | [Khaalo](https://open.spotify.com/album/01VmZeDpVALsIbNmq8oHew) | 5:45 | 2022-05-13 | 2022-06-11 |
 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 | 2022-05-13 |  |
 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 | 2022-05-13 |  |
 | [Lady of the Depe](https://open.spotify.com/track/0R5QKL9pWF89Ihl7kOoUEa) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Songs from the Mere](https://open.spotify.com/album/5TIPUwfqMQtlv0WXCh9ksK) | 6:18 | 2022-05-13 |  |

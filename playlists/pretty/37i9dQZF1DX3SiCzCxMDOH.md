@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your focus with instrumental jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,078 likes - 176 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,150 likes - 176 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 175 | [Goodbye](https://open.spotify.com/track/6mV94eTaeLShS60zi0lHxv) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Art & Soul](https://open.spotify.com/album/4e4qbotsDrDjZm3yUnVdP4) | 5:36 |
 | 176 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
 
-Snapshot ID: `MTY1NDY3Nzc3OSwwMDAwMDA2MjAwMDAwMTgxNDI3YjM0MmYwMDAwMDE3MGM0OTg3ZjJk`
+Snapshot ID: `MTY1NDg2NDIxOSwwMDAwMDA2MzAwMDAwMTgxNGQ5ODBlOGMwMDAwMDE4MTRkOTdjNDMw`

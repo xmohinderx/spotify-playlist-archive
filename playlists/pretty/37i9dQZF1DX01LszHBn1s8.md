@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 💙 i would never fall in love again until i found her 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,455 likes - 419 songs - 22 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,649 likes - 419 songs - 22 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

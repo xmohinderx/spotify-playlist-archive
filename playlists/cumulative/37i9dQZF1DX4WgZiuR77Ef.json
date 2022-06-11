@@ -1488,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Melody Feels Right",
+        "url": "https://open.spotify.com/album/7eM7dX0GpqjHa1djdNRFzI"
+      },
+      "artists": [
+        {
+          "name": "Kc Roberts & the Live Revolution",
+          "url": "https://open.spotify.com/artist/1YZOBH70YX0MgjDSUQ1hTO"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259538,
+      "name": "Melody Feels Right - Single Version",
+      "url": "https://open.spotify.com/track/1WNwV1V2lDYw5oEFjaQhNx"
+    },
+    {
+      "album": {
         "name": "Mindblastin'",
         "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },

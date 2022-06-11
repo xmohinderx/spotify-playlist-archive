@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 77038,
       "name": "Call Of The Night",
       "url": "https://open.spotify.com/track/5TzH8tJ3aYy8u6cTdePUgv"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 101819,
       "name": "Concerto for Clarinet in Bb",
       "url": "https://open.spotify.com/track/7q8eirAeTDzrzUfew3qiXg"
@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Be Afraid",
+        "url": "https://open.spotify.com/album/3dYDDxkFInOqFf2uCWWKaY"
+      },
+      "artists": [
+        {
+          "name": "Winslow Winchester",
+          "url": "https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80540,
+      "name": "Don\u2019t Be Afraid",
+      "url": "https://open.spotify.com/track/4e2Nt0Vn5yV1RC7jTEyHNQ"
+    },
+    {
+      "album": {
         "name": "Doris the Dinosaur",
         "url": "https://open.spotify.com/album/5xjlG275KygrEUHhap5QtW"
       },
@@ -599,6 +617,24 @@
       "duration_ms": 99124,
       "name": "Doris the Dinosaur",
       "url": "https://open.spotify.com/track/66TR57LOceNV0jviVsp6HC"
+    },
+    {
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/4tUpNJ2xyrZedbfWYMug7W"
+      },
+      "artists": [
+        {
+          "name": "Saxon Howland",
+          "url": "https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104324,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/4BJhESuBfCJIPM8ZIr1rm3"
     },
     {
       "album": {
@@ -890,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/4jBmAyPpxu69QyGrF66LV8"
+      },
+      "artists": [
+        {
+          "name": "Jonty Kitchen",
+          "url": "https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86756,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4VHOulCmJNhrmBj4hn49lz"
+    },
+    {
+      "album": {
         "name": "I Dreamed a Dream",
         "url": "https://open.spotify.com/album/3nBAfREZvjGYEYQVD55p9U"
       },
@@ -901,10 +955,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 155989,
       "name": "I Dreamed a Dream",
       "url": "https://open.spotify.com/track/3hPskllCMXK9tpILi91N2A"
+    },
+    {
+      "album": {
+        "name": "I Long For The Bed",
+        "url": "https://open.spotify.com/album/0O3TTJr25gQ4Dx6Iykal9k"
+      },
+      "artists": [
+        {
+          "name": "Rusty Everett",
+          "url": "https://open.spotify.com/artist/6XzRNYTnp1uab8LvuYBaTg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91621,
+      "name": "I Long For The Bed",
+      "url": "https://open.spotify.com/track/0yTeB9CtqvLEjr2dI5RQI1"
     },
     {
       "album": {
@@ -1376,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Teddy",
+        "url": "https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq"
+      },
+      "artists": [
+        {
+          "name": "Kim Low",
+          "url": "https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81621,
+      "name": "My Favorite Teddy",
+      "url": "https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX"
+    },
+    {
+      "album": {
         "name": "My Island",
         "url": "https://open.spotify.com/album/4OvdeNw3yt0Q8P1Q4EvBBh"
       },
@@ -1409,6 +1499,42 @@
       "duration_ms": 102500,
       "name": "My Lucky Star",
       "url": "https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu"
+    },
+    {
+      "album": {
+        "name": "My Own",
+        "url": "https://open.spotify.com/album/2w7uJhkF93qSjnoAAtoXmD"
+      },
+      "artists": [
+        {
+          "name": "Niles Hodges",
+          "url": "https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73513,
+      "name": "My Own",
+      "url": "https://open.spotify.com/track/58WENxytKUwwWfU9MhlRRf"
+    },
+    {
+      "album": {
+        "name": "My Perfect Star",
+        "url": "https://open.spotify.com/album/2yWDl1bdglLnZSRpAiKzEe"
+      },
+      "artists": [
+        {
+          "name": "Egbert Devine",
+          "url": "https://open.spotify.com/artist/4A4PVIJyA3KM3c8dh58gG5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101621,
+      "name": "My Perfect Star",
+      "url": "https://open.spotify.com/track/0Hz2GlWTNl5CDRiRaxPxH0"
     },
     {
       "album": {
@@ -1477,7 +1603,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 208638,
       "name": "One day I'll fly away",
       "url": "https://open.spotify.com/track/2vTV4arQgo5bKYVBiP1Fz8"
@@ -1585,7 +1711,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 143507,
       "name": "Ravel Pavane",
       "url": "https://open.spotify.com/track/47l5wR1y8oACC8yKgBWNbt"
@@ -1981,7 +2107,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 174000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4hWFKCSsUVuYJl0g6fQ404"
@@ -2003,6 +2129,24 @@
       "duration_ms": 107027,
       "name": "Trevor the peaceful Snake",
       "url": "https://open.spotify.com/track/1zd87iMSOe0pffocJ08WgF"
+    },
+    {
+      "album": {
+        "name": "Trudy The Fox",
+        "url": "https://open.spotify.com/album/6W2b1qWMVDCPJAKaEX1qAu"
+      },
+      "artists": [
+        {
+          "name": "Orson Pierson",
+          "url": "https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98918,
+      "name": "Trudy The Fox",
+      "url": "https://open.spotify.com/track/2S3uOARpZwfZdkXcq7gYtQ"
     },
     {
       "album": {

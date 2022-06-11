@@ -1,13 +1,41 @@
 {
   "description": "All new, all blues. Cover: G. Love",
-  "num_followers": 117780,
+  "num_followers": 117823,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDBjMDAwMDAwMTgwZGZhMDM0ZmUwMDAwMDE4MGFlYTU0YTQ0",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDBjMTAwMDAwMTgxNGJjNmFiMWIwMDAwMDE4MGFlYTU0YTQ0",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Mississippi (feat. Alvin Youngblood Hart, R.L. Boyce & Speech)",
+        "url": "https://open.spotify.com/album/08FKzpmSLAl1KUu5MdmaSW"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Alvin Youngblood Hart",
+          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
+        },
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        },
+        {
+          "name": "Speech",
+          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Mississippi (feat. Alvin Youngblood Hart, R.L. Boyce & Speech)",
+      "url": "https://open.spotify.com/track/4QmpGQH2Iv6u9wxAdZn18l"
+    },
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
@@ -23,22 +51,6 @@
       "duration_ms": 202653,
       "name": "Rolling Around in It",
       "url": "https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Laughing in the Sunshine",
-        "url": "https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "Laughing in the Sunshine",
-      "url": "https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -87,6 +99,26 @@
       "duration_ms": 222685,
       "name": "They Go Low",
       "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/22gJV8W8FZumLASGe2v0kV"
+      },
+      "artists": [
+        {
+          "name": "Blues Pills",
+          "url": "https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY"
+        },
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 224858,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -780,7 +812,7 @@
           "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         },
         {
-          "name": "Kyshona Armstrong",
+          "name": "Kyshona",
           "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
         },
         {

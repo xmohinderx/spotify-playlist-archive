@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-74 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+75 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2022-03-07 |  |
 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 | 2022-03-07 |  |
 | [Procuro Alguém \(prod\. Coyote Beatz\)](https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Thiago Braga](https://open.spotify.com/artist/332BX60yn7fPIR2ivr8TxM) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:33 | 2022-03-07 |  |
+| [Péssimo em Despedida](https://open.spotify.com/track/5rSt9trEpjeUJJqvKPcoEh) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Péssimo em Despedida](https://open.spotify.com/album/3EOViJE3hRUQ7CVlP0Wc9V) | 2:15 | 2022-06-10 |  |
 | [Química](https://open.spotify.com/track/23m4wnmi95T1Df8Cx3SIME) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/1GrLzuMykj1N2woxKXsb0W) | 3:24 | 2022-03-07 |  |
 | [Rubi](https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Rubi](https://open.spotify.com/album/2lf9zogvZ4DKBWomGkoisi) | 3:27 | 2022-03-07 |  |
 | [S2](https://open.spotify.com/track/6iZetMvxSFh0kiHvEIKs1w) | [Ricca](https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc), [Auler](https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m), [Rod](https://open.spotify.com/artist/2kPkt66RFtRtnJiB1NjYqP) | [S2](https://open.spotify.com/album/5MK57OSY3yumqnxtvu6xIM) | 2:34 | 2022-03-25 |  |
@@ -78,7 +79,7 @@
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-07 |  |
 | [Te Observando](https://open.spotify.com/track/2gJT3axX6u8nekLSkkryZt) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Te Observando](https://open.spotify.com/album/0AqeHHrJOsFpMkqID7Iy4i) | 3:33 | 2022-03-07 |  |
 | [TIPO](https://open.spotify.com/track/78qClcxizF1otoEWRi2OBb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/2Qz6gIPZbP5rNiITj2aFjl) | 3:49 | 2022-03-07 |  |
-| [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 | 2022-06-03 |  |
+| [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 | 2022-06-03 | 2022-06-11 |
 | [Vai Vai](https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Vai Vai](https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs) | 2:18 | 2022-05-27 | 2022-06-04 |
 | [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 |  |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-07 |  |

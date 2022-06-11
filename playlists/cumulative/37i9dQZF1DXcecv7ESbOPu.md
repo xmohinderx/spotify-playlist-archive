@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-2,715 songs - 5 day 22 hr 34 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+2,717 songs - 5 day 22 hr 41 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-03-03 | 2022-03-11 |
 | [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 | 2022-01-13 | 2022-01-21 |
 | [Give You Up \(feat\. Mila Falls\)](https://open.spotify.com/track/3D1ihfozmd9hN3v3CqJsr5) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Give You Up \(feat\. Mila Falls\)](https://open.spotify.com/album/3891FMLH9O8ggXq9kkk0xz) | 2:58 | 2021-12-23 | 2021-12-31 |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 |  |
 | [Glittret](https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Glittret](https://open.spotify.com/album/03xYeyaQWSy9HD9Zw8uqO5) | 4:36 | 2022-04-28 | 2022-05-06 |
 | [Gloria](https://open.spotify.com/track/00whLf2fIklPFvJsNPTWkB) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm) | [Gloria](https://open.spotify.com/album/4rQrSXmQyFKgDowPUZ5U54) | 3:12 | 2022-03-11 | 2022-03-18 |
 | [Glömma allt med dig](https://open.spotify.com/track/4szCSVN1pCq316pqkWnhDO) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK) | [Glömma allt med dig](https://open.spotify.com/album/34eX0Gp8OmsXNLPr9DDGrp) | 2:55 | 2022-01-20 | 2022-01-28 |
@@ -2690,6 +2691,7 @@
 | [Years](https://open.spotify.com/track/50FG4fd4Unx6OswxEwHmFX) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 2:56 | 2022-05-05 | 2022-05-13 |
 | [Yeh I Fuckin' Did It \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/0JlBceojDDiHGAKtMEhGm9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:11 | 2022-02-03 | 2022-02-11 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-17 | 2022-02-25 |
+| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-09 |  |
 | [You](https://open.spotify.com/track/2J3o6khBzlVMjg6ogff9X5) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [You](https://open.spotify.com/album/0yWrVYZSjZ9AqRClC2JEDg) | 3:26 | 2022-02-03 | 2022-02-11 |
 | [You Belong](https://open.spotify.com/track/42xlGkV3dKBi2mzPdCDRfT) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [You Belong](https://open.spotify.com/album/3QralLbr3XT6BadVkHlmSW) | 3:45 | 2021-12-31 | 2022-01-07 |
 | [You Belong with Me](https://open.spotify.com/track/33KflgcDPKHbnnOvX1Peqd) | [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa), [Marcus Cardello](https://open.spotify.com/artist/0cDMOBsQAiNdrEsQXrtqXp) | [You Belong with Me](https://open.spotify.com/album/6qsBMRui7WwEWb7uTwxhOn) | 2:36 | 2022-01-20 | 2022-01-28 |

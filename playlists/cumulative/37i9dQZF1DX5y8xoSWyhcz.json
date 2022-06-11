@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: Kid Bloom",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: Ethan Surman",
   "name": "indie pop & chill",
   "published_playlist_ids": [
     "4lgMQu4P2ziouf8Qz9MR8Q"
@@ -9373,7 +9373,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 216533,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
@@ -9961,7 +9961,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 231973,
       "name": "Nothing Fits",
       "url": "https://open.spotify.com/track/6hj7ILX5Cf9eLpA0qvL6oh"
@@ -11509,7 +11509,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 176445,
       "name": "reel",
       "url": "https://open.spotify.com/track/1zrDMS6oE0jsPjIiOqJf4U"
@@ -11906,6 +11906,24 @@
     },
     {
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/4pRXYx8SnrrUBADBLwSbff"
+      },
+      "artists": [
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206258,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/0C0mdumf7sO63zRFyBCXmo"
+    },
+    {
+      "album": {
         "name": "Science World",
         "url": "https://open.spotify.com/album/3BLzYAEovHaSbvvdtcDewD"
       },
@@ -12199,6 +12217,28 @@
       "duration_ms": 112103,
       "name": "Shut It Up!",
       "url": "https://open.spotify.com/track/7MvZSYL3SmiaHIXcjfhAvM"
+    },
+    {
+      "album": {
+        "name": "postcard from Paris",
+        "url": "https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "si rose",
+      "url": "https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5"
     },
     {
       "album": {
@@ -14479,6 +14519,28 @@
       "duration_ms": 166603,
       "name": "this is what having a crush feels like",
       "url": "https://open.spotify.com/track/68Ux98CKaDJl8kpm5trcux"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "Molitor",
+          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229837,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2"
     },
     {
       "album": {

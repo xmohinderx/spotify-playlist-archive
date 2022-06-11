@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 261533,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/6J7mW499G85jploVoWC6Sr"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 219053,
       "name": "All Day (Flex)",
       "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 183480,
       "name": "All for you (Feat. KIRIN)",
       "url": "https://open.spotify.com/track/2VO8V0IXfRrtDDx1gQIYOw"
@@ -249,11 +249,33 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
+      "duration_ms": 251846,
+      "name": "Alone Tonight (feat. Sik-K)",
+      "url": "https://open.spotify.com/track/1VCRZnDVoYdcAGo9Gg5Ufa"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 252367,
       "name": "Aquaman",
       "url": "https://open.spotify.com/track/6XyFNu5mbPcIIdiTCHS3qH"
@@ -331,7 +353,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 210546,
       "name": "Ben Baller",
       "url": "https://open.spotify.com/track/6DiUNb7fewa9TVSSR2nm8v"
@@ -715,7 +737,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Do What I Like",
       "url": "https://open.spotify.com/track/4qnk7LAcK0eLcQXRl9EESa"
@@ -847,7 +869,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 152417,
       "name": "EL TORNADO",
       "url": "https://open.spotify.com/track/6h4C92fmJxBrBR9oplhoTM"
@@ -865,7 +887,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 143053,
       "name": "Encore",
       "url": "https://open.spotify.com/track/1T8y6o6n9K4s1lXNQfEKVX"
@@ -887,7 +909,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 220717,
       "name": "ENGINE",
       "url": "https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 256047,
       "name": "Finish Line (feat. SUPERBEE & Jvcki Wai)",
       "url": "https://open.spotify.com/track/40rRulLNB13Pwq1Br6pH6u"
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 190029,
       "name": "Forever (with DJ Ale Mora) [feat. Cha Cha Malone]",
       "url": "https://open.spotify.com/track/2IwqVITCYgOcD5fInH0VSV"
@@ -1105,7 +1127,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Forget About Tomorrow",
       "url": "https://open.spotify.com/track/7yeEBr76JleM2dmp8gptXZ"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 198413,
       "name": "Get It All",
       "url": "https://open.spotify.com/track/0zeHatOFpc0fmq7iKAUYkR"
@@ -1275,7 +1297,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 196600,
       "name": "Girl Friend",
       "url": "https://open.spotify.com/track/7KUHCJNUJh4V9xOGpiZ310"
@@ -1501,7 +1523,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 210344,
       "name": "I Don\u2019t Disappoint",
       "url": "https://open.spotify.com/track/5SuzqujsmDuJ6ECSPrDDAQ"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 123280,
       "name": "K-TOWN",
       "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
@@ -1689,7 +1711,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 211426,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0hJjJg3JBczHIVNpyJxa28"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 243593,
       "name": "Limousine (feat. KRNFX)",
       "url": "https://open.spotify.com/track/0UpNm3c46jesrYrek1W3Qj"
@@ -2011,7 +2033,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 201333,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/4kMXS2XB68eehCZjraNHaD"
@@ -2291,7 +2313,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 226278,
       "name": "Sex Trip",
       "url": "https://open.spotify.com/track/3DnTUScRmTqeNkkgBW6kpA"
@@ -2699,7 +2721,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 214374,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3q7IOUrYa0hQZkhC1ZVFTS"
@@ -3021,7 +3043,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 204816,
       "name": "Welcome (Remastered)",
       "url": "https://open.spotify.com/track/71xQs0R5HRulJVLYl4pEbg"
@@ -3065,7 +3087,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 255360,
       "name": "What up!",
       "url": "https://open.spotify.com/track/4vcauRiAj4RswgYZ7ebIvL"
@@ -3405,7 +3427,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 244153,
       "name": "\ubed4\ud558\uc796\uc544 You Know (feat. Okasian)",
       "url": "https://open.spotify.com/track/0YJjugu2dbpcxY3ChD6AkK"
@@ -3423,7 +3445,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 236919,
       "name": "\uc0ac\uc2e4\uc740 The Truth Is",
       "url": "https://open.spotify.com/track/12WXS7SwLIRXJEbi3gFy1E"

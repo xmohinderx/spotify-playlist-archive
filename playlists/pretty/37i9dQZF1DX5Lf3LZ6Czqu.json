@@ -1,13 +1,33 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 93839,
+  "num_followers": 93879,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDEyMCwwMDAwMDAyOTAwMDAwMTgxMDNhZGEzMWQwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDAyYTAwMDAwMTgxNGJjNmFiMzAwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Guardian Spirits of the Quantum Multiverse",
+        "url": "https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        },
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Action Boyz",
+      "url": "https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq"
+    },
     {
       "added_at": "2022-05-20 04:02:00",
       "album": {

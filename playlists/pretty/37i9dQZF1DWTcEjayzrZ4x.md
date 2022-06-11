@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Instrumental  jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,032 likes - 195 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,100 likes - 195 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 194 | [Galaxy](https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 3:51 |
 | 195 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 |
 
-Snapshot ID: `MTY1NDY4ODM0NiwwMDAwMDA3ZjAwMDAwMTgxNDMxYzcyNjQwMDAwMDE3MjgzNTQ3ZTll`
+Snapshot ID: `MTY1NDg2NzkwNywwMDAwMDA4MDAwMDAwMTgxNGRkMDUyZjIwMDAwMDE4MTRkY2ZlOTRl`

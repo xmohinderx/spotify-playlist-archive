@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Fantastic Negrito
 
-166 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+167 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Gold to Glass](https://open.spotify.com/track/6mZYdvc4G2Hk5J7v5AqCvJ) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/0AvofRwpMFBiwA7ouH8oBT) | 3:56 | 2021-12-17 |  |
 | [Good Evening](https://open.spotify.com/track/398QU045BgD0nsMgxedVCG) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Good Evening](https://open.spotify.com/album/2VkJ4a7OAtEhhxZZRDuAAV) | 4:39 | 2021-12-17 |  |
 | [Good Thing](https://open.spotify.com/track/5V6JS67petdOBOIo2Lz16y) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Good Thing](https://open.spotify.com/album/65wpy7UdEGYqWkx91SLoLe) | 2:29 | 2021-12-17 |  |
-| [Grinder](https://open.spotify.com/track/4CHDLQA19PRKRCtpBIzASe) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:22 | 2021-12-17 |  |
+| [Grinder](https://open.spotify.com/track/4CHDLQA19PRKRCtpBIzASe) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:22 | 2021-12-17 | 2022-06-11 |
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-12-17 |  |
 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 | 2021-12-17 |  |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-12-17 |  |
@@ -78,6 +78,7 @@
 | [Hungry Heart](https://open.spotify.com/track/1ebuZBkHsWXUtMEkjUBQaA) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Hungry Heart](https://open.spotify.com/album/0CZixsry473uXYUqJyDlob) | 3:21 | 2021-12-17 | 2022-01-22 |
 | [Hurry Up And Wait](https://open.spotify.com/track/3J9cIhqTC2KQT737cFexIo) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Any Way, Shape Or Form](https://open.spotify.com/album/6ku0ECOC4mRbf3n2YGl81S) | 3:03 | 2021-12-17 |  |
 | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/track/5gLr6cmDqa1FI4qhb7sUsw) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/album/6nWrvRzCqL7lPL0HRIqfpU) | 3:15 | 2021-12-17 | 2022-06-04 |
+| [I Gotcha \- Rock Version](https://open.spotify.com/track/4lEfAkMl6Aq7YBG5g4neX5) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [I Gotcha \(Rock Version\)](https://open.spotify.com/album/7eGOKI22KNSI4B6BNmbGvw) | 4:24 | 2022-06-10 |  |
 | [I Killed Robert Johnson](https://open.spotify.com/track/6hb8MK0RcVOOxfpNDbZAIS) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/790mhPtbtIdMDRdZM3Jimz) | 5:25 | 2021-12-17 |  |
 | [I Know](https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [I Know](https://open.spotify.com/album/0JvDP9cB6D2fqbTZGSPHUp) | 3:38 | 2021-12-17 | 2022-04-29 |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 |  |

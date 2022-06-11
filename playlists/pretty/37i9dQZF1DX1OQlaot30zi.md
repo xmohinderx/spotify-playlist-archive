@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Jake La Furia, Rhove, thasup e Salmo, Sfera e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,485 likes - 78 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,574 likes - 78 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 13 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 |
 | 14 | [Mon Amour \(feat\. Inoki\)](https://open.spotify.com/track/4uxrq4uGhZNy3qeiUnzSsn) | [Guido Cagiva](https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [MITO](https://open.spotify.com/album/4VkBWpvJu01MrfZkXGw9Ea) | 2:42 |
 | 15 | [Assagiare](https://open.spotify.com/track/5tXkJqcEdCaHRrzpMLAFlT) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Primo Nero in Italia](https://open.spotify.com/album/2FAfKpNjS2N6oGLMMy769v) | 2:01 |
-| 16 | [Cavalli](https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Cavalli](https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC) | 2:28 |
+| 16 | [Cavalli](https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Cavalli](https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC) | 2:28 |
 | 17 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 |
 | 18 | [Guagliune Sfurtunate](https://open.spotify.com/track/3tzNF9kVhgxXk1FfwSQUWF) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9), [Re Cluso](https://open.spotify.com/artist/4BS2z9lqyv4zJ64FEbn8mA) | [Guagliune Sfurtunate](https://open.spotify.com/album/3AHdYfmkiSccGFZKhWFgCt) | 2:54 |
 | 19 | [Foulard \(feat\. Tony Boy\)](https://open.spotify.com/track/3XfvhjWN484B6QynChz8EL) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Foulard \(feat\. Tony Boy\)](https://open.spotify.com/album/5hHuAYEqrZXGrwfB5RM9IJ) | 2:47 |

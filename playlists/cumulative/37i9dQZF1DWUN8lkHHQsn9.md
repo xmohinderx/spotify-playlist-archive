@@ -4,7 +4,7 @@
 
 > Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: sedguy
 
-71 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+74 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 | 2022-06-01 |  |
 | [Bez powietrza](https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Bez powietrza](https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag) | 2:59 | 2022-06-01 |  |
 | [bezdech](https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50) | [livia lena](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [bezdech](https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R) | 3:19 | 2022-06-01 |  |
+| [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 | 2022-06-10 |  |
 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 | 2022-06-01 |  |
 | [Ciała Niebieskie](https://open.spotify.com/track/1vX60GfNMXm4ghISGo7QBe) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Ciała Niebieskie](https://open.spotify.com/album/6QHFF4bgTFpmy6aNMo6PLE) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 |  |
@@ -25,7 +26,7 @@
 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 | 2022-06-01 |  |
 | [Fragile](https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Fragile](https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj) | 3:06 | 2022-06-01 |  |
 | [GEJSZA](https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna) | [GEJSZA](https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl) | 3:28 | 2022-06-01 |  |
-| [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 | 2021-06-22 | 2022-06-08 |
+| [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 | 2021-06-22 |  |
 | [Head in The Sky](https://open.spotify.com/track/5qLtgcbN26a38JV6VY26KY) | [Bloo Crane](https://open.spotify.com/artist/2fArSWn7Q393fy7zt2Im9I) | [Bloo Feelings](https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq) | 3:35 | 2021-06-22 | 2022-06-01 |
 | [Ikarius](https://open.spotify.com/track/7wPHioxNnxMLopWg6TYOKR) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Ikarius](https://open.spotify.com/album/60rkXmk61sVrD3MVq2fqxS) | 3:20 | 2021-06-22 | 2022-06-01 |
 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 | 2022-06-07 |  |
@@ -36,7 +37,7 @@
 | [Krzykiem](https://open.spotify.com/track/0Ca5dBpD3Ga8FUrceVDcLq) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Krzykiem](https://open.spotify.com/album/1vy7FZQzS62O06E6emhVyk) | 3:37 | 2021-06-22 | 2022-06-01 |
 | [Lont](https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Lont](https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX) | 3:48 | 2022-06-01 |  |
 | [Lowcost](https://open.spotify.com/track/3a3nbc4trOMB2SNUWzmPn7) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 3:40 | 2021-06-22 | 2022-06-01 |
-| [Lowcost](https://open.spotify.com/track/56NJBkLZKU0viA3DtcZl06) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/5qrC1OMKnrMezDlitDquLF) | 3:40 | 2022-06-01 |  |
+| [Lowcost](https://open.spotify.com/track/56NJBkLZKU0viA3DtcZl06) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/5qrC1OMKnrMezDlitDquLF) | 3:40 | 2022-06-01 | 2022-06-11 |
 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 | 2022-06-01 |  |
 | [Miasto na W](https://open.spotify.com/track/2kRkTXrB0ffACOUaiOY3sJ) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Miasto na W](https://open.spotify.com/album/4EqMnPG6WLzc0MRWFm6Q0A) | 3:09 | 2021-06-22 | 2022-06-01 |
 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 | 2022-06-01 |  |
@@ -47,7 +48,7 @@
 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 | 2022-06-01 |  |
 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 | 2021-06-22 |  |
 | [Ostatnia piosenka o tobie](https://open.spotify.com/track/4AKCYZw3cILC41qQmm8LiR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Ostatnia piosenka o tobie](https://open.spotify.com/album/45qbG2EnDCUWNJ3Greaowm) | 4:09 | 2021-06-22 | 2022-06-01 |
-| [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 | 2022-06-01 | 2022-06-09 |
+| [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 | 2022-06-01 |  |
 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 | 2022-06-01 |  |
 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 | 2022-06-01 |  |
 | [Pocałunek](https://open.spotify.com/track/141Jp2FUxUmyrE3Y5X9rZC) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Pocałunek](https://open.spotify.com/album/1sd80sFziTx0q58IozhGzR) | 3:30 | 2021-06-22 | 2022-06-01 |
@@ -66,8 +67,10 @@
 | [Stalker](https://open.spotify.com/track/3BdtOK2oTUSLcwgHAQ6aIi) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Stalker](https://open.spotify.com/album/6EPLw3UyM9oCzbBatzdWkz) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 | 2022-06-01 |  |
 | [Stop Bzdurom \(The Bad Gays\)](https://open.spotify.com/track/78xBVzCxu76P01HldHdaeE) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 4:33 | 2021-06-22 | 2022-06-01 |
+| [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 | 2022-06-10 |  |
 | [Suka jak Ja](https://open.spotify.com/track/4ycrPLMf7MzGM2x1N2LIfG) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Suka jak Ja](https://open.spotify.com/album/3IddZSA2Lrgfs1ruhbzSFD) | 3:10 | 2022-06-01 |  |
 | [Suwenir](https://open.spotify.com/track/4q2gmv1VIaI0a8i4AVjewe) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Suwenir](https://open.spotify.com/album/3WobIG2LjPmQcE2hbGJXRy) | 3:49 | 2022-06-01 |  |
+| [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 | 2022-06-10 |  |
 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 | 2022-06-01 |  |
 | [The Moon](https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [The Moon](https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU) | 4:44 | 2022-06-01 |  |
 | [TUŻ PRZED PÓŁNOCĄ](https://open.spotify.com/track/3QsWorTM8pMtw6ti7Mb35s) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd), [KRÓL](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 3:54 | 2021-06-22 | 2022-06-01 |
@@ -75,9 +78,9 @@
 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 | 2022-06-01 |  |
 | [Wal się](https://open.spotify.com/track/4KZAOF5G7EhNAPyVtpnwWM) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Wal się](https://open.spotify.com/album/3MUPSb6vNKNJ70t5YlAFW0) | 3:22 | 2021-06-22 | 2022-06-01 |
 | [We Will Love You](https://open.spotify.com/track/2HxM37qi9QD92PCaYoyJWB) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Post Dreams](https://open.spotify.com/album/0aAOa1NeG7gZwbGpIM47yF) | 4:10 | 2021-06-22 | 2022-06-01 |
-| [You Don't Understand Me](https://open.spotify.com/track/3Re2nQkNd0r8xruQ2m6aiE) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [You Don't Understand Me](https://open.spotify.com/album/57Z2HxWEMKEMiq39wy1uTK) | 4:25 | 2022-06-01 |  |
+| [You Don't Understand Me](https://open.spotify.com/track/3Re2nQkNd0r8xruQ2m6aiE) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [You Don't Understand Me](https://open.spotify.com/album/57Z2HxWEMKEMiq39wy1uTK) | 4:25 | 2022-06-01 | 2022-06-11 |
 | [zanim](https://open.spotify.com/track/0ZwMbR7nt66eB1WR0YcHa0) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [CISZA W BLOKU](https://open.spotify.com/album/0fIAR61jSqd4pjpWrsCRbb) | 5:34 | 2021-06-22 | 2022-06-01 |
 | [Zespół Cotarda](https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [Nic się nie stało](https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT) | 2:53 | 2022-06-01 |  |
-| [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-06-01 |  |
+| [Śnię](https://open.spotify.com/track/1fIVFQWn3gScoiGAoidSX8) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Śnię](https://open.spotify.com/album/5o6yfjwDa19gz1GvbRvHsn) | 2:52 | 2022-06-01 | 2022-06-11 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

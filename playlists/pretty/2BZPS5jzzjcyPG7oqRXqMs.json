@@ -1,13 +1,29 @@
 {
   "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
-  "num_followers": 12893,
+  "num_followers": 12897,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzE0MSw4NjNkYjhmYWZhNTE1ZDViMGIxZTAzZWQ5MzM3OTcwNzE1ZTZjNjUy",
+  "snapshot_id": "MzE0Myw3MmNlZWZkOTM3ZDkxNjI0ODQxOWE3YmQ5MzA0NzI3NTgwODg4ZjJk",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:19:23",
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
+    },
     {
       "added_at": "2022-06-03 13:57:29",
       "album": {
@@ -531,6 +547,26 @@
       "duration_ms": 384501,
       "name": "Simple Kingdom (with Cody Carnes) - Live",
       "url": "https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s"
+    },
+    {
+      "added_at": "2022-06-10 17:55:42",
+      "album": {
+        "name": "Christ Our Hope In Life And Death",
+        "url": "https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Christ Our Hope In Life And Death",
+      "url": "https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu"
     },
     {
       "added_at": "2022-04-05 15:03:18",

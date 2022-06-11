@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Saya Gray
 
-906 songs - 2 day 6 hr 4 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+907 songs - 2 day 6 hr 8 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-11-05 | 2022-03-09 |
 | [glad ur gone](https://open.spotify.com/track/2BhYza30OCp9NUF5Yavo9w) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [glad ur gone](https://open.spotify.com/album/4AaIk7kmUbdOl97epNOoSI) | 4:05 | 2021-07-02 | 2021-09-03 |
 | [Glimmer](https://open.spotify.com/track/0p8La7Sz6cNeYsqzXYtPgX) | [FOZSA](https://open.spotify.com/artist/0oHNluZt2ANbFvSo60xDO6) | [Glimmer](https://open.spotify.com/album/2LzYH8fpfnEaPBTMTdoRMm) | 3:46 | 2020-09-29\* | 2020-10-23 |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 |  |
 | [Glowing in the Dark](https://open.spotify.com/track/4V0nJR3AfJI4J13297ga7u) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Glowing in the Dark](https://open.spotify.com/album/04LKchTCKFSGU8LPnAmeWS) | 2:59 | 2020-11-13 | 2021-01-15 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2020-09-29\* | 2020-10-30 |
 | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/track/5gxd09Fnkylal8TLCAVvNv) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/album/24z1u6qVeGPWVQlq4JjDMi) | 4:35 | 2022-05-05 |  |

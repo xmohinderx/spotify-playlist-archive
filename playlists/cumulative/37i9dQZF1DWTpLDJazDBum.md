@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-186 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+187 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2022-04-08 |  |
 | [Ceilings](https://open.spotify.com/track/6K9Y2y4KKovWcun1Nl5FKI) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Deny](https://open.spotify.com/album/7EFM5bSubOwxnOWwygRRX2) | 3:56 | 2022-04-08 | 2022-05-27 |
 | [Charm City](https://open.spotify.com/track/1KjNiIzJrW7P5U6LiFHAWo) | [Daal Rhost](https://open.spotify.com/artist/4ymH6Ywnqm4Rd7t7u9Uj3n) | [Charm City](https://open.spotify.com/album/6kFIVvZxaeqpwkxHcLf6XL) | 2:59 | 2022-04-08 |  |
+| [Chatter](https://open.spotify.com/track/7e37sjXfNRVNdSscByQtIJ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 3:17 | 2022-06-10 |  |
 | [Chill Waves](https://open.spotify.com/track/1inG6LZDKMKi24oXMwt8a0) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Youth](https://open.spotify.com/album/1rkgMEWBDbzXZ1YMMIaOAb) | 2:40 | 2022-04-08 | 2022-05-27 |
 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 | 2022-05-26 |  |
 | [Churchill](https://open.spotify.com/track/4YyPOwTe5sXVJLXGqqVhPl) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Churchill](https://open.spotify.com/album/5cSLfFaH4zZVplCsuk6tNQ) | 1:52 | 2022-05-26 |  |

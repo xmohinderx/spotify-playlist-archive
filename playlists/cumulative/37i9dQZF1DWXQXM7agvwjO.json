@@ -772,6 +772,28 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7HgjuLPrTSunnZIbwwXNHQ"
+    },
+    {
+      "album": {
         "name": "Coeur Kamikaze \u5fc3\u8207\u6d77",
         "url": "https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ"
       },

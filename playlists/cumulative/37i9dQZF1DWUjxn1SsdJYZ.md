@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: MLBRN
 
-162 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+163 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Since When](https://open.spotify.com/track/5Wk5ETWckKEeWFU5zy6G6q) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Lawd Lance](https://open.spotify.com/artist/5QomExSHXEoFZllmjeaQBM), [JR](https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl) | [Since When](https://open.spotify.com/album/55md5f23yj7QaWnI3NJEfp) | 2:47 | 2022-03-21 |  |
 | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 |  |
 | [spaceship](https://open.spotify.com/track/5kE5Wi5ZNyQxjZosVH3eTw) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [spaceship](https://open.spotify.com/album/4ib6cm9ioWybJybSquS4pm) | 1:50 | 2022-03-24 | 2022-04-15 |
-| [SPAZ OUT](https://open.spotify.com/track/0Bi0fpO6bgB4rl0laBvI5w) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Jay Swi$h](https://open.spotify.com/artist/1vE0MbvpMkA7G3IfgcWAIO), [XPUNCH](https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr) | [AA LIL SUM](https://open.spotify.com/album/0IkizF0VoRj9eLLK9tlyn7) | 2:07 | 2022-06-09 |  |
+| [Spaz Out](https://open.spotify.com/track/0Bi0fpO6bgB4rl0laBvI5w) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Jay Swi$h](https://open.spotify.com/artist/1vE0MbvpMkA7G3IfgcWAIO), [XPUNCH](https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr) | [AAA Lil Sum](https://open.spotify.com/album/0IkizF0VoRj9eLLK9tlyn7) | 2:07 | 2022-06-09 |  |
 | [Steady](https://open.spotify.com/track/2x87Aklz120dbM31TrH4Kd) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Steady](https://open.spotify.com/album/71E26CGhROyl6RCXpathME) | 2:45 | 2022-03-21 |  |
 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 | 2022-03-21 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/4tIAySbbDf6SyvnGxRJaqO) | [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Stuck In My Ways](https://open.spotify.com/album/102RiVASUdzi7goE5yclR7) | 2:37 | 2022-03-21 | 2022-03-25 |
@@ -169,6 +169,7 @@
 | [Whoever](https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [Whoever](https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z) | 2:38 | 2022-03-21 | 2022-03-25 |
 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 | 2022-03-25 |  |
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |
+| [Y U MAD](https://open.spotify.com/track/2Yf3r73NcKFFUCq7wndpy1) | [Nina Lee Kisses](https://open.spotify.com/artist/6FKYu75Gp3JHZte2LUVynB) | [DREAMVIEW](https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ) | 2:28 | 2022-06-09 |  |
 | [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

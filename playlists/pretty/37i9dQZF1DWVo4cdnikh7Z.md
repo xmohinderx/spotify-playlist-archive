@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,973 likes - 64 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,758 likes - 64 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 5 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 |
 | 6 | [Jalabulajangu](https://open.spotify.com/track/4lS1ldfypKYEwKqbu3a04x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:22 |
 | 7 | [Porkanda Singam](https://open.spotify.com/track/3yqkV2Vd0u4l9lUnlaFNZT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:18 |
-| 8 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/5fVJ73lipcxif29dXiDcev), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 |
+| 8 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 |
 | 9 | [Paapa Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/track/6N1W8K1cpEK1GdS4Q24aRF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Girishh Gopalakrishnan](https://open.spotify.com/artist/1h8cptkBZRjX3xJT2rtkkl) | [Paapa Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/album/2g9NPPtI4w7ujQ6kRdMBpF) | 4:17 |
 | 10 | [Mayava Thooyava](https://open.spotify.com/track/183TEaqrJkIB46zjnEV6r6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Iravin Nizhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28ivRihqieVI2X7hf21buG) | 4:08 |
 | 11 | [The Suzhal Roar](https://open.spotify.com/track/437vCqn09LFz86Pa0FxCXL) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [The Suzhal Roar](https://open.spotify.com/album/6I1icjXeWonWfckCk6JzBw) | 0:51 |

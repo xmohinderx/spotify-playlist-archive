@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lary Kidd ",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Tronel",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 176853,
       "name": "Barre Tendre",
       "url": "https://open.spotify.com/track/3T02MLKuLd4GgHZIP7sYug"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 207761,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 287266,
       "name": "COBAYE",
       "url": "https://open.spotify.com/track/2dqaIgv4BedNGfQZmYBtfc"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 199453,
       "name": "Corde \u00e0 linge",
       "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 228690,
       "name": "Du Pain & des Jeux",
       "url": "https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g"
@@ -1485,6 +1485,24 @@
       "duration_ms": 245410,
       "name": "Essayer",
       "url": "https://open.spotify.com/track/2lzkrk1S2oY4r46gMBwc8E"
+    },
+    {
+      "album": {
+        "name": "Fais PT",
+        "url": "https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd"
+      },
+      "artists": [
+        {
+          "name": "Tronel",
+          "url": "https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191947,
+      "name": "Fais PT",
+      "url": "https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN"
     },
     {
       "album": {
@@ -1834,6 +1852,28 @@
     },
     {
       "album": {
+        "name": "G\u00e9n\u00e9ration VDR",
+        "url": "https://open.spotify.com/album/6TrliXQxDiWmkAuJftqKmN"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "D4vid Lee",
+          "url": "https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216456,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/6sBWExHE8o9EPgl5qtouGf"
+    },
+    {
+      "album": {
         "name": "HIT",
         "url": "https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR"
       },
@@ -1991,6 +2031,28 @@
       "duration_ms": 162951,
       "name": "Ice",
       "url": "https://open.spotify.com/track/4WlJtmZCEGD1L0Vr3d9Wcl"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        },
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141631,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm"
     },
     {
       "album": {
@@ -2263,7 +2325,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 204112,
       "name": "LESBIENNE WOKE SUR L'AUTOTUNE",
       "url": "https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD"
@@ -2314,6 +2376,28 @@
     },
     {
       "album": {
+        "name": "Maison S\u00e9rieuse",
+        "url": "https://open.spotify.com/album/5WDbgkqHGUlchrsE4gDFG3"
+      },
+      "artists": [
+        {
+          "name": "Ragers",
+          "url": "https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151991,
+      "name": "Maison S\u00e9rieuse",
+      "url": "https://open.spotify.com/track/3NxGzIj7N31sQPrAqec8Vq"
+    },
+    {
+      "album": {
         "name": "Mal au coeur",
         "url": "https://open.spotify.com/album/1a3Wpn0NDPrEoerucPrsg9"
       },
@@ -2325,7 +2409,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 139623,
       "name": "Mal au coeur",
       "url": "https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn"
@@ -2365,6 +2449,28 @@
       "duration_ms": 211764,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l"
+    },
+    {
+      "album": {
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Matusalem",
+      "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
     },
     {
       "album": {
@@ -2933,7 +3039,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 161221,
       "name": "Pi\u00e8ge Rock Alternatif",
       "url": "https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj"
@@ -3193,6 +3299,24 @@
       "duration_ms": 144000,
       "name": "Real & Riche",
       "url": "https://open.spotify.com/track/47vfWmPJrB4sIETbjwbh86"
+    },
+    {
+      "album": {
+        "name": "Regard mena\u00e7ant",
+        "url": "https://open.spotify.com/album/1ST9CdLPLoxoEWbGbmTJmf"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "Regard mena\u00e7ant",
+      "url": "https://open.spotify.com/track/1CtwzMlNDHv3GjHvRzaaaH"
     },
     {
       "album": {

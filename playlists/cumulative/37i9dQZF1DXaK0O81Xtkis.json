@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Isaac Dunbar takes over Soda! Isaac's picks at the top.",
+  "description": "It's summer so it's Surfaces, obvs",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY"
+      },
+      "artists": [
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151664,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
+    },
+    {
+      "album": {
         "name": "Die Right Here",
         "url": "https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89"
       },
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 163602,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 203080,
       "name": "Happy Pills",
       "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
@@ -1793,6 +1811,24 @@
       "duration_ms": 264430,
       "name": "Heart of Mine",
       "url": "https://open.spotify.com/track/44jwtvBLfdg9f4cTD2Wm2R"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/6jpRpPLwEpPte2TzQEo6XG"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230558,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1zeo9q1sdTGDSecA91EZPt"
     },
     {
       "album": {
@@ -2009,6 +2045,24 @@
       "duration_ms": 181153,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
+    },
+    {
+      "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/5FRAelEQwWoSJgZ6liCJzs"
+      },
+      "artists": [
+        {
+          "name": "Hastings",
+          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176475,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65"
     },
     {
       "album": {
@@ -2359,6 +2413,24 @@
       "duration_ms": 217243,
       "name": "if jesus saves, she's my type",
       "url": "https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH"
+    },
+    {
+      "album": {
+        "name": "ilu",
+        "url": "https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "ilu",
+      "url": "https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp"
     },
     {
       "album": {
@@ -2965,7 +3037,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 143971,
       "name": "maybe money",
       "url": "https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC"
@@ -3503,7 +3575,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 210662,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
@@ -4199,7 +4271,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/413GLSu7A62MzPv3lYh6Kt"
@@ -4559,6 +4631,24 @@
       "duration_ms": 195924,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0MWcbfTaDRtQDhqthVmVon"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136940,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
     },
     {
       "album": {
@@ -4934,6 +5024,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4XXC4nxkEl1Q29lsTXbi4z"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214235,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4wJtYAMOzz013zi6KjHDeT"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -5180,6 +5288,24 @@
     },
     {
       "album": {
+        "name": "What's Been On Your Mind?",
+        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172490,
+      "name": "What's Been On Your Mind?",
+      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
+    },
+    {
+      "album": {
         "name": "When The World Was Mine",
         "url": "https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M"
       },
@@ -5281,7 +5407,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 180742,
       "name": "World's Smallest Violin",
       "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
@@ -5321,7 +5447,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 182773,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC"

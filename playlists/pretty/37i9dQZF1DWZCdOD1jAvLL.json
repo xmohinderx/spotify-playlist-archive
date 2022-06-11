@@ -1,13 +1,33 @@
 {
-  "description": "Ride the bassline. Cover: Smalltown DJs",
-  "num_followers": 169914,
+  "description": "Ride the bassline. Cover: SNAILS, Escape the Fate",
+  "num_followers": 170079,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIzMDA5NSwwMDAwMDIwMjAwMDAwMTgxMjdjYzE4NzAwMDAwMDE4MTI3YzlmODg2",
+  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDIwMzAwMDAwMTgxNGJjNGQ2Y2IwMDAwMDE4MTRiODY2Y2Y3",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
+    },
     {
       "added_at": "2022-06-03 04:21:35",
       "album": {
@@ -69,6 +89,22 @@
       "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
+    },
+    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "Move It",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Elvis",
+      "url": "https://open.spotify.com/track/5vFGLkcPG8JdYAuAVVczGR"
+    },
+    {
       "added_at": "2022-05-27 05:59:11",
       "album": {
         "name": "Lies",
@@ -145,6 +197,26 @@
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Vibin'",
+        "url": "https://open.spotify.com/album/0ueJeqZ7elPura2qaI7Y9R"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "EASTON",
+          "url": "https://open.spotify.com/artist/1C8AF3HUn2d2rRz1z4Ukv1"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/2j83VcHaFueO6HE7vvUEBg"
+    },
+    {
       "added_at": "2022-06-03 04:21:35",
       "album": {
         "name": "Freak Machine",
@@ -159,6 +231,22 @@
       "duration_ms": 221223,
       "name": "Freak Machine",
       "url": "https://open.spotify.com/track/0XymbFxLcMhG1oNuwczvMV"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2022-05-27 05:59:11",
@@ -907,26 +995,6 @@
     {
       "added_at": "2022-05-27 05:59:11",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
         "name": "The Beat Goes",
         "url": "https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm"
       },
@@ -959,22 +1027,6 @@
       "duration_ms": 202285,
       "name": "Color Of Your Soul",
       "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Stimulate",
-        "url": "https://open.spotify.com/album/1le5zXq9nLfSCTVm8LPtnc"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Stimulate",
-      "url": "https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt"
     },
     {
       "added_at": "2022-05-27 05:59:11",
@@ -1039,46 +1091,6 @@
       "duration_ms": 183875,
       "name": "Locco",
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Leave Your Mind Behind",
-        "url": "https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z"
-      },
-      "artists": [
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 186190,
-      "name": "Leave Your Mind Behind",
-      "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
-    },
-    {
-      "added_at": "2022-05-27 05:59:11",
-      "album": {
-        "name": "Turn Off The Lights (Cloonee Remix)",
-        "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Alexis Roberts",
-          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
-        }
-      ],
-      "duration_ms": 198754,
-      "name": "Turn Off The Lights - Cloonee Remix",
-      "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
     },
     {
       "added_at": "2022-05-27 05:59:11",

@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Eyouni Feeh Ydobu",
+        "url": "https://open.spotify.com/album/2RlrrVOqM1dXElHVZYedDn"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Eyouni Feeh Ydobu",
+      "url": "https://open.spotify.com/track/0fmpUGxAdqRUXLI9QnZIDo"
+    },
+    {
+      "album": {
         "name": "Fadeha Denyay",
         "url": "https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The best Hip Hop coming out of Australia. Cover: MLBRN",
-  "num_followers": 131206,
+  "num_followers": 131243,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
@@ -387,7 +387,23 @@
     {
       "added_at": "2022-06-09 17:21:59",
       "album": {
-        "name": "AA LIL SUM",
+        "name": "DREAMVIEW",
+        "url": "https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ"
+      },
+      "artists": [
+        {
+          "name": "Nina Lee Kisses",
+          "url": "https://open.spotify.com/artist/6FKYu75Gp3JHZte2LUVynB"
+        }
+      ],
+      "duration_ms": 148163,
+      "name": "Y U MAD",
+      "url": "https://open.spotify.com/track/2Yf3r73NcKFFUCq7wndpy1"
+    },
+    {
+      "added_at": "2022-06-09 17:21:59",
+      "album": {
+        "name": "AAA Lil Sum",
         "url": "https://open.spotify.com/album/0IkizF0VoRj9eLLK9tlyn7"
       },
       "artists": [
@@ -405,7 +421,7 @@
         }
       ],
       "duration_ms": 127058,
-      "name": "SPAZ OUT",
+      "name": "Spaz Out",
       "url": "https://open.spotify.com/track/0Bi0fpO6bgB4rl0laBvI5w"
     },
     {

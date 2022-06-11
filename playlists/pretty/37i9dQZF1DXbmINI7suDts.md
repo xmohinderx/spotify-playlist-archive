@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 49 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 |
 | 50 | [One Thing](https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U) | [Lukas Blacc](https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [BoBV](https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7) | 4:11 |
 
-Snapshot ID: `MTY1NDc4ODk5MiwwMDAwMDAwMzAwMDAwMTgxNDkxYzJjNGYwMDAwMDE4MTM3ZTU1NGIw`
+Snapshot ID: `MTY1NDg0OTUxMSwwMDAwMDAwNDAwMDAwMTgxNGNiN2EwZDIwMDAwMDE4MTRjYjczZDM3`

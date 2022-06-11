@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,522 likes - 104 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,582 likes - 104 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 103 | [Cherokee](https://open.spotify.com/track/6iqyiNM3H4OoB7O02IYsVd) | [Grove Street Quartet](https://open.spotify.com/artist/4eMnMIKHP2KiEXc8AjlX3X) | [April In Paris](https://open.spotify.com/album/6pebkNMPXaNerOfuEPp8E8) | 3:19 |
 | 104 | [C Jam Blues](https://open.spotify.com/track/0mlDTc832qP4Byo2fsZyl0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 3:23 |
 
-Snapshot ID: `MTY1NDY5MjEzMiwwMDAwMDA3MTAwMDAwMTgxNDM1NjM0YWIwMDAwMDE3MGY2Zjk4NzI5`
+Snapshot ID: `MTY1NDg1Mjk0MiwwMDAwMDA3MjAwMDAwMTgxNGNlYmZiYWIwMDAwMDE4MTRjZWJhZDZj`

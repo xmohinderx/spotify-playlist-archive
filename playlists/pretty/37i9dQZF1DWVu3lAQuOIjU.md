@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain]
 
 > From pop culture to financial wellness, stay tapped in w/ these podcasts episodes every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,882 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY1MzYyNjg4MCwwMDAwMDAyZjAwMDAwMTgxMDNkN2MwNzUwMDAwMDE3ZGM0MTM3NTBl`
+Snapshot ID: `MTY1NDg3MjM3MiwwMDAwMDAzMDAwMDAwMTgxNGUxNDc0NzMwMDAwMDE3ZGM0MTM3NTBl`

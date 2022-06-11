@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Danielle Ponder",
+  "description": "A new take on a classic sound. Cover: Jacob Banks",
   "name": "Retro Soul",
   "published_playlist_ids": [
     "19AFs6pZ8WyCXnrxjl6M3m"
@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+    },
+    {
+      "album": {
         "name": "California Wine",
         "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
       },
@@ -99,7 +117,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
@@ -291,7 +309,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 232472,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 311597,
       "name": "How Do We Heal",
       "url": "https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 221435,
       "name": "If My Love Was Enough",
       "url": "https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 159120,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX"
@@ -1055,6 +1073,24 @@
       "duration_ms": 188733,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7"
+    },
+    {
+      "album": {
+        "name": "Loving You Is Easy",
+        "url": "https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204384,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ"
     },
     {
       "album": {
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 219841,
       "name": "Nunya",
       "url": "https://open.spotify.com/track/5bI3aZo6ac2M0SgMBaF7Kw"
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
@@ -1337,6 +1373,28 @@
       "duration_ms": 218613,
       "name": "Rome",
       "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
+    },
+    {
+      "album": {
+        "name": "Room for Us All",
+        "url": "https://open.spotify.com/album/14bLaJ0fePGoHcwwwoxZ9g"
+      },
+      "artists": [
+        {
+          "name": "Effie Zilch",
+          "url": "https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN"
+        },
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207285,
+      "name": "Room for Us All",
+      "url": "https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986"
     },
     {
       "album": {
@@ -1525,7 +1583,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
@@ -1579,7 +1637,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
@@ -1637,7 +1695,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 260706,
       "name": "The Light of the Sun",
       "url": "https://open.spotify.com/track/5o6klEdkcOSbzw9E3iHUYy"
@@ -1677,7 +1735,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 180413,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/0vo6nKF32kZeazSurxo99E"
@@ -1797,7 +1855,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 290626,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L"
@@ -1891,7 +1949,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 187213,
       "name": "You Know What It Do",
       "url": "https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT"

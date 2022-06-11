@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Jimmy Eat World
 
-1,180 songs - 2 day 20 hr 14 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,181 songs - 2 day 20 hr 18 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Brighter Than Blue](https://open.spotify.com/track/6UDo1SsHhJc1Eeo2iGzVov) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brighter Than Blue](https://open.spotify.com/album/19d1mvvVbAqciHe5rqHVaL) | 3:42 | 2022-02-17 | 2022-02-25 |
 | [Bring Us Down](https://open.spotify.com/track/2Vlcv2ABEQ21nTcYJWLktM) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bring Us Down](https://open.spotify.com/album/3l7IR16zZm6pvPDPckG7Af) | 3:22 | 2022-05-19 | 2022-05-27 |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-18 | 2022-03-25 |
+| [Broken](https://open.spotify.com/track/2JwY5r2GELXj8Hjs4FrMqJ) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Broken](https://open.spotify.com/album/32oZdt1L0Sce81b0rJUvMS) | 4:16 | 2022-06-09 |  |
 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 | 2022-05-19 | 2022-05-27 |
 | [Brother of Mine](https://open.spotify.com/track/03Idtt3AjQG0X7IyoXpuw6) | [Spielbergs](https://open.spotify.com/artist/1PTXobwsxwhjcIajCjV8u4) | [Brother of Mine](https://open.spotify.com/album/4b4WAaunBaI9dRwsTpnbMG) | 4:14 | 2022-03-24 | 2022-04-01 |
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-01-21 |

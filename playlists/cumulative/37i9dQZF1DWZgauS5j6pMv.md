@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Cory Wong
 
-171 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+172 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 | 2022-04-08 |  |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 |  |
 | [GOODTIME](https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/7mDDcLEWTPayHYopYr9cdl) | 3:42 | 2022-06-03 |  |
+| [Gucci Shoes](https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Gucci Shoes](https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8) | 3:01 | 2022-06-10 |  |
 | [Guilty Pleasures](https://open.spotify.com/track/42Bax5tepDSjA1pDu8Mpn1) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/6l2bKNKNk61scQGAUMX3D2) | 4:18 | 2020-11-20 | 2022-04-09 |
 | [Happy Meal](https://open.spotify.com/track/2XA4OlwOVNnm09yMXUc1nI) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Happy Meal](https://open.spotify.com/album/644apP2mf0OYoBgU2iahms) | 3:12 | 2021-10-01 |  |
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-01-07 |  |
@@ -158,7 +159,7 @@
 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 | 2021-09-10 |  |
 | [Trust Me](https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Trust Me](https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX) | 3:05 | 2022-02-25 |  |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-20 |  |
-| [twofaces](https://open.spotify.com/track/75BzES3PZtvAw3R09DpcCg) | [nic violets](https://open.spotify.com/artist/3nkFwNBN0MOj4KGW7mLyxH) | [twofaces](https://open.spotify.com/album/69Jp1KYzhC4gwXxY3lnYNK) | 2:37 | 2021-04-16 |  |
+| [twofaces](https://open.spotify.com/track/75BzES3PZtvAw3R09DpcCg) | [nic violets](https://open.spotify.com/artist/3nkFwNBN0MOj4KGW7mLyxH) | [twofaces](https://open.spotify.com/album/69Jp1KYzhC4gwXxY3lnYNK) | 2:37 | 2021-04-16 | 2022-06-11 |
 | [United](https://open.spotify.com/track/7H0TmajbmYbgev2l9KKOk7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [United](https://open.spotify.com/album/5EXoaOV8O3rgazk5l3v7Fs) | 3:26 | 2021-01-22 | 2022-05-28 |
 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 | 2022-05-06 |  |
 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 | 2022-01-28 |  |

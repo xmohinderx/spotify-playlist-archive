@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Eu Vou Com Carinho Ela Quer Com Força e os funks mais 🔑 do Brasil\. Foto: MC Don Juan, MC G15, MC Davi
+> Gostosinho Tu Cai e os funks mais 🔑 do Brasil\. Foto: MC Pepeu, DJ Swat
 
-85 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
+86 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2021-12-31 |  |
 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 | 2022-01-26 | 2022-02-19 |
 | [Não Quer Chifre](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Quer Chifre](https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g) | 2:29 | 2021-12-31 | 2022-06-07 |
-| [O Porte da 40](https://open.spotify.com/track/0wcAfve621R8p3sTQjjJXA) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe), [Mc Gebe](https://open.spotify.com/artist/633d3XXJxSlkxnQfDpYwPW), [Mc Vh Diniz](https://open.spotify.com/artist/5jJWDuZUhCy7cP7BH6Thf0) | [O Porte da 40](https://open.spotify.com/album/71cp204DB5PGabceX3yiBl) | 3:04 | 2021-12-31 |  |
+| [Não Se Apavora](https://open.spotify.com/track/3LnVW6Hzm21XEH02yw3uSV) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Não Se Apavora](https://open.spotify.com/album/5PcwVWv5ZgclW4AXaDtdxE) | 3:29 | 2022-06-10 |  |
+| [O Porte da 40](https://open.spotify.com/track/0wcAfve621R8p3sTQjjJXA) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe), [Mc Gebe](https://open.spotify.com/artist/633d3XXJxSlkxnQfDpYwPW), [Mc Vh Diniz](https://open.spotify.com/artist/5jJWDuZUhCy7cP7BH6Thf0) | [O Porte da 40](https://open.spotify.com/album/71cp204DB5PGabceX3yiBl) | 3:04 | 2021-12-31 | 2022-06-11 |
 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 | 2022-03-04 | 2022-03-23 |
 | [Pegada de Malvado](https://open.spotify.com/track/2Ho2vEEJAZOAnpxl9GsFYR) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm) | [Pegada de Malvado](https://open.spotify.com/album/2CiaR4gIfXUDR2SB0K07oP) | 1:47 | 2021-12-31 |  |
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 | 2021-12-31 | 2022-02-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=Tqpe88HESj2LvKSvloA14A\"> Wendy Kay </a>",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd?si=a2EvUKURTMSmoiISq_5yyA\"> Amara Tari </a>",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -421,6 +421,24 @@
       "duration_ms": 222171,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
+      },
+      "artists": [
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
     },
     {
       "album": {
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 197389,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8"

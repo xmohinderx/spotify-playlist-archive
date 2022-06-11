@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 153065,
       "name": "24 48",
       "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 197031,
       "name": "Already Best Friends (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 142913,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV"
@@ -646,6 +646,28 @@
     },
     {
       "album": {
+        "name": "Breath Control",
+        "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Breath Control (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
+    },
+    {
+      "album": {
         "name": "Big Baby DRAM",
         "url": "https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V"
       },
@@ -715,7 +737,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 179352,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7"
@@ -875,7 +897,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 170945,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/3iBlHQdUYMH1uQ45EjMmkw"
@@ -1394,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "Sunshine In A Bag",
+        "url": "https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy"
+      },
+      "artists": [
+        {
+          "name": "OHNO",
+          "url": "https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167243,
+      "name": "Drowsy",
+      "url": "https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
       },
@@ -1670,6 +1710,24 @@
     },
     {
       "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7yM1i0hC7Dxyfb9ISXp0io"
+      },
+      "artists": [
+        {
+          "name": "Casper Jones",
+          "url": "https://open.spotify.com/artist/23sBHvNKx0DJqlO00SQiF7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158367,
+      "name": "Flavors",
+      "url": "https://open.spotify.com/track/1YshKoWMcR68W8ZYBtNal7"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/2BF22IRfGkJhNsdDYxVE7r"
       },
@@ -1681,7 +1739,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 93953,
       "name": "Float",
       "url": "https://open.spotify.com/track/7B2bBV0UHQwjuumnpr461D"
@@ -1993,6 +2051,24 @@
       "duration_ms": 199670,
       "name": "Girl U My Plug",
       "url": "https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140921,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
     },
     {
       "album": {
@@ -2463,7 +2539,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 167940,
       "name": "I Love My Homies",
       "url": "https://open.spotify.com/track/7tBwo8HOnM68mTeWNAHs6X"
@@ -2831,6 +2907,24 @@
       "duration_ms": 138928,
       "name": "life got crazy",
       "url": "https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY"
+    },
+    {
+      "album": {
+        "name": "Live Fast Die Numb",
+        "url": "https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134498,
+      "name": "Live Fast Die Numb",
+      "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
     },
     {
       "album": {
@@ -3234,6 +3328,24 @@
     },
     {
       "album": {
+        "name": "morning",
+        "url": "https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd"
+      },
+      "artists": [
+        {
+          "name": "Aizayah Hills",
+          "url": "https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "morning",
+      "url": "https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y"
+    },
+    {
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -3466,6 +3578,28 @@
     },
     {
       "album": {
+        "name": "OH MY LORD (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147022,
+      "name": "OH MY LORD (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2"
+    },
+    {
+      "album": {
         "name": "okay okay",
         "url": "https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57"
       },
@@ -3691,6 +3825,24 @@
       "duration_ms": 252262,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
+    },
+    {
+      "album": {
+        "name": "Place To Speak",
+        "url": "https://open.spotify.com/album/0uJCcl4CuvYxcsNHWGR9nf"
+      },
+      "artists": [
+        {
+          "name": "Hey! Astro",
+          "url": "https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "Place To Speak",
+      "url": "https://open.spotify.com/track/0LLeE9EyJzgvx3efdsGJTn"
     },
     {
       "album": {
@@ -4489,7 +4641,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 201923,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/36Dl8J2GhDwcTkWYHbcJII"
@@ -4645,7 +4797,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
@@ -5007,7 +5159,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 162711,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z"
@@ -5152,6 +5304,28 @@
     },
     {
       "album": {
+        "name": "No Love Is Ever Wasted",
+        "url": "https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Upper Hand",
+      "url": "https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC"
+    },
+    {
+      "album": {
         "name": "COLOR BLIND",
         "url": "https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi"
       },
@@ -5277,6 +5451,24 @@
       "duration_ms": 233880,
       "name": "Weekend Millionaires",
       "url": "https://open.spotify.com/track/4CNAf3OB75dximfpqT52Lo"
+    },
+    {
+      "album": {
+        "name": "where did u go?",
+        "url": "https://open.spotify.com/album/2IpxLRYidbeYmaonFzEU9y"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226045,
+      "name": "where did u go?",
+      "url": "https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9"
     },
     {
       "album": {

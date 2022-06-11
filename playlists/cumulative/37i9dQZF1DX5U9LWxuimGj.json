@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Girls Like Me",
+        "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171045,
+      "name": "Girls Like Me",
+      "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1471,6 +1489,24 @@
       "duration_ms": 197943,
       "name": "Timeless (Spanish Version)",
       "url": "https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G"
+    },
+    {
+      "album": {
+        "name": "Tomemos Un Trago (Let's Find A Bar - Spanish Version)",
+        "url": "https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178085,
+      "name": "Tomemos Un Trago - Let's Find A Bar - Spanish Version",
+      "url": "https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc"
     },
     {
       "album": {

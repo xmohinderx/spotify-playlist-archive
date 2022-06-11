@@ -2813,6 +2813,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [SLAP!](/playlists/pretty/37i9dQZF1DX97SIuADeA1Y.md)
 - [SPA Treatment](/playlists/pretty/37i9dQZF1DX4Q2SnB3glnP.md)
 - [SPY×FAMILY](/playlists/pretty/37i9dQZF1DX8hWYpNQhxSa.md)
+- [SUMMA](/playlists/pretty/37i9dQZF1DXbuS4aou8qH2.md)
 - [SUPER BAND \(슈퍼밴드\)](/playlists/pretty/37i9dQZF1DX0DKm9RA9zpe.md)
 - [SUPERNOVA](/playlists/pretty/37i9dQZF1DX82RdxyHKCWG.md)
 - [SXSW Best Indie](/playlists/pretty/37i9dQZF1DX6CwQbybVjjk.md)

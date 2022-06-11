@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,588 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,596 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La vitesse](https://open.spotify.com/track/48tqvAldUfdiQSk7WL3twJ) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse / Nos rêves / Mon cœur](https://open.spotify.com/album/0d2dN6lnMwbCoW0l3EEItC) | 4:00 |
 | 2 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 |
 | 3 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 |
-| 4 | [Tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 |
+| 4 | [tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 |
 | 5 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 |
 | 6 | [Sensible](https://open.spotify.com/track/4lmIe09Uj7Cw6k245pKVDl) | [Al.Hy](https://open.spotify.com/artist/0srSsrvpoaTJUUxha38C4H) | [Sensible](https://open.spotify.com/album/5Mnr6fqtAyGynkwdgHix3E) | 2:36 |
 | 7 | [Au bout du monde](https://open.spotify.com/track/0g7USBi1Du9VLwNyK6q12A) | [Marghe](https://open.spotify.com/artist/0fmiJKQkjcX69wVNArGZtk) | [Au bout du monde](https://open.spotify.com/album/6XhK7VRd8RlYClw56kVLfX) | 3:23 |

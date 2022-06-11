@@ -2,14 +2,16 @@
 
 ### [Good Father](https://open.spotify.com/playlist/37i9dQZF1DX3RkXiUJ5aMs)
 
-> A collection of inspired songs and familiar tunes about life and the love of the father.
+> A collection of inspired songs about life and the love of the father.
 
-58 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
+65 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21 Years](https://open.spotify.com/track/20enmDMVhWFDjkVHzv1vVA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [21 Years](https://open.spotify.com/album/4xqmsCvbaarlxQEJQU3ysl) | 4:03 | 2021-06-18 |  |
+| [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 | 2022-06-10 |  |
 | [Anything Like Me](https://open.spotify.com/track/2FGGvxPrVkpJ3lNZQfottL) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:13 | 2021-06-18 |  |
+| [Before You Ask Her](https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Before You Ask Her](https://open.spotify.com/album/3PqgiZxdVoPEFVnE9mA8PZ) | 3:21 | 2022-06-10 |  |
 | [Between A Father and A Son](https://open.spotify.com/track/3ggjEASNMQ2n9s5WsPXT2i) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Old New Borrowed Blues](https://open.spotify.com/album/3ZdzLrDKAyYBv3nr8F6ggI) | 4:12 | 2021-06-18 |  |
 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 | 2021-06-18 |  |
 | [Can't Live A Day](https://open.spotify.com/track/1mopEOz5TeAMbz81Z63xKJ) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [In A Different Light](https://open.spotify.com/album/4F7DNG4XaKfSoyf9u72a75) | 4:46 | 2021-06-18 |  |
@@ -23,11 +25,15 @@
 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 | 2021-06-18 |  |
 | [Faithful Father](https://open.spotify.com/track/1nNpYVEUTLttNspEESv5xF) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Greatest Hits](https://open.spotify.com/album/5XqM5WvxZTfLywTpcj0Oek) | 3:46 | 2021-06-18 |  |
 | [Family](https://open.spotify.com/track/1VAVGF84xWOXojCoOjKsvV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:46 | 2021-06-18 |  |
+| [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 | 2022-06-10 |  |
 | [Father \- Acoustic](https://open.spotify.com/track/4VdDTY1N9NFqFZ8c9sBjzl) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [The Road Acoustic](https://open.spotify.com/album/0n4i83lJWBFUPfYPDNpylw) | 4:28 | 2021-06-18 |  |
 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 | 2021-06-18 |  |
+| [Father Heart](https://open.spotify.com/track/4gQDQKwTmnyiR8D2mqKmjU) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Father Heart](https://open.spotify.com/album/3LH2IzuwOwOBZy2MWe6bEG) | 3:08 | 2022-06-10 |  |
 | [Father Knows Best](https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 6:31 | 2021-06-18 |  |
+| [First a Son \- Live](https://open.spotify.com/track/1X5frOuRhgRxlWrB4PXZ5x) | [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [First a Son \(Live\)](https://open.spotify.com/album/54ED5AYVMlLkwipCofO5qI) | 5:04 | 2022-06-10 |  |
 | [Go There With You](https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 5:18 | 2021-06-18 |  |
 | [Good Good Father](https://open.spotify.com/track/3i7ZOuSmoKYSgLQuohMcig) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Good Good Father](https://open.spotify.com/album/5HsnubJcvi5bNAC3pyV64a) | 4:20 | 2021-06-18 |  |
+| [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 | 2022-06-10 |  |
 | [He Walked on Water \(feat\. Kenny Chesney\)](https://open.spotify.com/track/0av4Ea4otAKsAYCreKyWDl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Anniversary Celebration](https://open.spotify.com/album/0PzcDkEDb9x7RFNzWYf1Fj) | 3:29 | 2021-06-18 |  |
 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2qyih496IOcMiU1FHoHFNd) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [The Ultimate Playlist \- The Early Years](https://open.spotify.com/album/2Ql4Kpm9oX0ReygLvCpLrR) | 3:19 | 2021-06-18 |  |
 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 | 2021-06-18 |  |
@@ -64,6 +70,7 @@
 | [When I Pray for You](https://open.spotify.com/track/16DRIwIBIgZdAgpp0vLh5q) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [When I Pray for You](https://open.spotify.com/album/4kG5pb8MWB47R7UV3tpdci) | 3:29 | 2021-06-18 |  |
 | [When Love Takes You In](https://open.spotify.com/track/0eSFnGle4aBxTZ83VRs6vP) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 4:43 | 2021-06-18 |  |
 | [Why?](https://open.spotify.com/track/5RZTENetZmHBhqidC5MMj4) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Recollection: The Best Of Nichole Nordeman](https://open.spotify.com/album/3Yuzktsf4w6np56m93XvWa) | 6:02 | 2021-06-18 |  |
+| [Wildflower](https://open.spotify.com/track/34gHTjNvVeaZvCvCjPDKi3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Wildflower](https://open.spotify.com/album/03tF78PniAEmmVoFIVQFKb) | 3:20 | 2022-06-10 |  |
 | [You're Gonna Miss This](https://open.spotify.com/track/68Q1r5zDnnYaHkh80yal4A) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Volume II](https://open.spotify.com/album/0iUDlT7z0kFqkCiAebkHOs) | 3:44 | 2021-06-18 |  |
 | [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 | 2021-06-25 |  |
 

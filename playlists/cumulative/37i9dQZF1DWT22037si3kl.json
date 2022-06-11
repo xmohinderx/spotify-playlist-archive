@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Cord\u00f5es",
+        "url": "https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "2 Cord\u00f5es",
+      "url": "https://open.spotify.com/track/5LCqgzxRZc73VXObHCddwe"
+    },
+    {
+      "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
       },
@@ -171,7 +193,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 213394,
       "name": "Auge",
       "url": "https://open.spotify.com/track/4nR9sj1U7lLieKZ3vjv1kr"
@@ -454,6 +476,28 @@
     },
     {
       "album": {
+        "name": "Empilhando Flows",
+        "url": "https://open.spotify.com/album/7rQlLpFkQq8G20X1CI5Gvm"
+      },
+      "artists": [
+        {
+          "name": "Ximenes",
+          "url": "https://open.spotify.com/artist/3iRIIkd77PQ80F5HeR51sa"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149795,
+      "name": "Empilhando Flows",
+      "url": "https://open.spotify.com/track/2QXCSP5YIFV0FjjUzSybqh"
+    },
+    {
+      "album": {
         "name": "Eu Fiz o Jogo Virar",
         "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
       },
@@ -510,6 +554,36 @@
     },
     {
       "album": {
+        "name": "EUROPA (feat. Gson)",
+        "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "EUROPA (feat. Gson)",
+      "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "album": {
         "name": "Evoque",
         "url": "https://open.spotify.com/album/7CmIWILqx7vHBnndYdzUxJ"
       },
@@ -533,6 +607,28 @@
       "duration_ms": 139702,
       "name": "Evoque",
       "url": "https://open.spotify.com/track/7AUliVQjA6OKpSaqFTPbvn"
+    },
+    {
+      "album": {
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
     },
     {
       "album": {
@@ -729,7 +825,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 184273,
       "name": "Hilux",
       "url": "https://open.spotify.com/track/37H3lGic5EOlZQ9SLuJaVw"
@@ -1263,7 +1359,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 227760,
       "name": "Na Cara",
       "url": "https://open.spotify.com/track/6l8gBEkQ9JpxY4sS2VNNaa"
@@ -2149,7 +2245,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"

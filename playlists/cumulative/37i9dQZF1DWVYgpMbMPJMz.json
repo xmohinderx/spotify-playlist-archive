@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  The Belonging Co",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  River Valley Worship",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 292844,
       "name": "Awestruck",
       "url": "https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 255320,
       "name": "God, Turn It Around",
       "url": "https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 406436,
       "name": "I Say Yes - Live",
       "url": "https://open.spotify.com/track/2CNqVcNFHZxPOEnL2sPjkx"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 412320,
       "name": "If I Was A Bird - Live",
       "url": "https://open.spotify.com/track/6CHDS93A1KpK1o5H7l8phc"
@@ -1742,6 +1742,32 @@
     },
     {
       "album": {
+        "name": "Jesus The Healer (Live)",
+        "url": "https://open.spotify.com/album/6naImSgwqgJuqxmpi9uUU3"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685886,
+      "name": "Jesus The Healer - Live",
+      "url": "https://open.spotify.com/track/0s05p6SP1Y3M1xUo51qmaS"
+    },
+    {
+      "album": {
         "name": "Jesus Victorious (Jezus Overwinnaar)",
         "url": "https://open.spotify.com/album/5dt12Hf53YydCqmQT5hnEq"
       },
@@ -1916,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Let The River Flow (Live)",
+        "url": "https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337782,
+      "name": "Let It Out - Live",
+      "url": "https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc"
+    },
+    {
+      "album": {
         "name": "I'll Tell These Stories to My Kids",
         "url": "https://open.spotify.com/album/3xYvltnUkIyXGWA4S5o1UG"
       },
@@ -2011,7 +2055,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 594613,
       "name": "Lord Of The Harvest - Live",
       "url": "https://open.spotify.com/track/7C9T43q7KGEYWkkQ2jFEcE"
@@ -2073,7 +2117,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 357525,
       "name": "Mustard Seed",
       "url": "https://open.spotify.com/track/5SKRevBBlUlUFhqV9C3shR"
@@ -2309,7 +2353,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 338448,
       "name": "Now Here (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
@@ -2345,7 +2389,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 271379,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/1RVSKrJR0Qoi1eoSMuT1AH"
@@ -2516,6 +2560,28 @@
     },
     {
       "album": {
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541190,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/7GUpDKXuFJ161rnYt4e0Lu"
+    },
+    {
+      "album": {
         "name": "Repent (What a Joy It Is)",
         "url": "https://open.spotify.com/album/0vo60762vFtyyXPb7or37B"
       },
@@ -2633,7 +2699,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 481802,
       "name": "Same God (feat. Jonsal Barrientes)",
       "url": "https://open.spotify.com/track/2mqy9sPe3Qj1hPrnQdvimJ"
@@ -2658,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "Faith in Our Time (Live)",
+        "url": "https://open.spotify.com/album/0LCI9071sGnTwL9wtHtRbI"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349384,
+      "name": "Send Me - Live",
+      "url": "https://open.spotify.com/track/6NPcafx19ITpIYAsvgruAL"
+    },
+    {
+      "album": {
         "name": "Live From Rehearsals",
         "url": "https://open.spotify.com/album/3VJ3N74TWo85AbdMsPXiYA"
       },
@@ -2677,7 +2761,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 380312,
       "name": "Shine Like Stars - Live From Rehearsals",
       "url": "https://open.spotify.com/track/4ElvDloHe5RukqNYYjyasR"
@@ -2913,7 +2997,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 296179,
       "name": "Thank You Lord - Live",
       "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
@@ -2983,7 +3067,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 184883,
       "name": "The Love Of Jesus",
       "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
@@ -3713,7 +3797,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"

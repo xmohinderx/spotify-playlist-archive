@@ -1430,6 +1430,28 @@
     },
     {
       "album": {
+        "name": "Vivaldi: The Four Seasons (Arr. K. Thomas for Harp)",
+        "url": "https://open.spotify.com/album/4fzv6jXoJg5jOUF94yHQvo"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Keziah Thomas",
+          "url": "https://open.spotify.com/artist/3IOHZcjM9tHt4RJrnN208Q"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\" (Arr. K. Thomas for Harp): I. Allegro non molto",
+      "url": "https://open.spotify.com/track/2PkUDZoUyP8pwLl0nBFjbN"
+    },
+    {
+      "album": {
         "name": "The Great Longing of an Unquiet Heart",
         "url": "https://open.spotify.com/album/2PrP41fS0K8DiSOt8xXnUW"
       },

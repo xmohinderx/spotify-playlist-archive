@@ -4,7 +4,7 @@
 
 > Higgo Raj構想關於一個hot bit\*h「沉船」後，覺醒做返自己嘅故事。都係嗰句，想愛就愛吧！
 
-26 songs - 1 hr 27 min - not published yet
+26 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

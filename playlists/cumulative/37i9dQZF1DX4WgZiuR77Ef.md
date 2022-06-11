@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-136 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+137 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 | 2021-09-03 |  |
 | [Make Way for the Funk Parade](https://open.spotify.com/track/3LtAdAaM6njXeGzmCdkXc9) | [Jordan John](https://open.spotify.com/artist/7GPNa53BeLP2ALe8eoueU0) | [Funk Parade](https://open.spotify.com/album/2gEOnDhIu7txjkJLUtUdFu) | 5:32 | 2020-10-30 | 2022-04-09 |
 | [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 | 2022-05-13 |  |
+| [Melody Feels Right \- Single Version](https://open.spotify.com/track/1WNwV1V2lDYw5oEFjaQhNx) | [Kc Roberts & the Live Revolution](https://open.spotify.com/artist/1YZOBH70YX0MgjDSUQ1hTO) | [Melody Feels Right](https://open.spotify.com/album/7eM7dX0GpqjHa1djdNRFzI) | 4:19 | 2022-06-10 |  |
 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 | 2020-10-30 | 2022-04-09 |
 | [Mirror Ballin'](https://open.spotify.com/track/1pRh0b2MQUjxsXJbXDq6up) | [X\-Ray Ted](https://open.spotify.com/artist/12EFr92EFfo4RZCEJspg2m) | [Mirror Ballin' EP](https://open.spotify.com/album/2xsoZDOSzlsq5yQvWPsWFd) | 4:52 | 2020-10-30 | 2022-04-09 |
 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 | 2020-10-30 | 2022-04-09 |

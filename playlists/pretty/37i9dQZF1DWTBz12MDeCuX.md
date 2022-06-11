@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,726 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,740 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 78 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 |
 | 79 | [GL +3](https://open.spotify.com/track/5liQ5heZoAB6ohWhpdVWPa) | [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [GL +3](https://open.spotify.com/album/0JBJEu7kyFBmygxp9l1KO1) | 2:39 |
 
-Snapshot ID: `MTY1NDgxMjA2MCwwMDAwMDBiYTAwMDAwMTgxNGE3YzJhMTQwMDAwMDE4MTQzZWRhYzE2`
+Snapshot ID: `MTY1NDg1MjkyNCwwMDAwMDBiYjAwMDAwMTgxNGNlYmI1ZDEwMDAwMDE4MTRjZWI4OWU0`

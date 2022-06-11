@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-83 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+85 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [El Trabajador](https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b) | [Beyond These Walls](https://open.spotify.com/album/2KQOp4bGm40HvQIcxQbrCp) | 3:11 | 2021-12-10 |  |
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 |  |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2021-12-10 |  |
+| [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 |  |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 |  |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 |  |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 |  |
@@ -83,6 +84,7 @@
 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 | 2021-12-10 |  |
 | [The Unforgiven](https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW) | 4:05 | 2021-12-10 |  |
 | [Timeless \(Spanish Version\)](https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Timeless](https://open.spotify.com/album/6pKXgkrBT3Gz7jixcrBCJ6) | 3:17 | 2021-12-10 |  |
+| [Tomemos Un Trago \- Let's Find A Bar \- Spanish Version](https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Tomemos Un Trago \(Let's Find A Bar \- Spanish Version\)](https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N) | 2:58 | 2022-06-10 |  |
 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 | 2021-12-10 |  |
 | [True Love](https://open.spotify.com/track/2T4FEAOUdzffXKzeyjrhPJ) | [Vince Mira](https://open.spotify.com/artist/6TnRQbaMql4s7JjzN0gup9) | [El Radio](https://open.spotify.com/album/1Ou8ELAdRfOzuJeKuARs9v) | 3:04 | 2021-12-10 |  |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 |  |

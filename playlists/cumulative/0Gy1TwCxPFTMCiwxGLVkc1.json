@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Bubbly (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg"
+      },
+      "artists": [
+        {
+          "name": "Slo-Fi Ghost",
+          "url": "https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186604,
+      "name": "Bubbly - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO"
+    },
+    {
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4"
       },

@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 58778,
+  "description": "The best newly released songs of the week. Cover: BTS",
+  "num_followers": 58785,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDc5MDQwMCwwMDAwMDQ3YzAwMDAwMTgxNDkzMWE4YjgwMDAwMDE4MTQ4YzY3MGY1",
+  "snapshot_id": "MTY1NDg1Mjg1NywwMDAwMDQ3ZTAwMDAwMTgxNGNlYWFlNWEwMDAwMDE4MTRiNjE0Nzc5",
   "tracks": [
+    {
+      "added_at": "2022-06-09 16:00:00",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
     {
       "added_at": "2022-06-09 16:00:00",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 196986,
       "name": "Waiting For Never",
       "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
+    },
+    {
+      "added_at": "2022-06-09 16:00:00",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-06-09 16:00:00",
@@ -681,6 +713,26 @@
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "All In Place (feat. Bearcubs)",
+        "url": "https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp"
+      },
+      "artists": [
+        {
+          "name": "BLOODMOON",
+          "url": "https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i"
+        },
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 243558,
+      "name": "All In Place",
+      "url": "https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P"
+    },
+    {
       "added_at": "2022-06-09 16:00:00",
       "album": {
         "name": "a letter to me",
@@ -695,6 +747,22 @@
       "duration_ms": 200031,
       "name": "Someone to Blame",
       "url": "https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q"
+    },
+    {
+      "added_at": "2022-06-10 09:20:57",
+      "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/71abCXubO4hiuo1AX9RBM7"
+      },
+      "artists": [
+        {
+          "name": "zekke",
+          "url": "https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/78jpa4kOOgObeaCxvLSUEv"
     },
     {
       "added_at": "2022-06-09 16:00:00",
@@ -967,7 +1035,7 @@
     {
       "added_at": "2022-06-09 16:00:00",
       "album": {
-        "name": "Je M'appelle",
+        "name": "Je M'appelle (Remix)",
         "url": "https://open.spotify.com/album/7wAprxpngbUpq9Ch0nfY9A"
       },
       "artists": [
@@ -985,7 +1053,7 @@
         }
       ],
       "duration_ms": 150212,
-      "name": "Je M'appelle (feat. Tion Wayne & French Montana)",
+      "name": "Je M'appelle (feat. Tion Wayne & French Montana) - Remix",
       "url": "https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n"
     },
     {
@@ -1079,6 +1147,22 @@
     {
       "added_at": "2022-06-09 16:00:00",
       "album": {
+        "name": "How's It Taste?",
+        "url": "https://open.spotify.com/album/1uYQjkeNu5H3G3loWnvmsh"
+      },
+      "artists": [
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        }
+      ],
+      "duration_ms": 248031,
+      "name": "How's It Taste?",
+      "url": "https://open.spotify.com/track/4cTFPthsFxkjvaK1DSYfbO"
+    },
+    {
+      "added_at": "2022-06-09 16:00:00",
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr"
       },
@@ -1091,6 +1175,22 @@
       "duration_ms": 172480,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD"
+    },
+    {
+      "added_at": "2022-06-09 16:00:00",
+      "album": {
+        "name": "WHITELIES",
+        "url": "https://open.spotify.com/album/2c2NXy8ZwXA22gCAIMIB4Z"
+      },
+      "artists": [
+        {
+          "name": "Derek Chan",
+          "url": "https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "WHITELIES",
+      "url": "https://open.spotify.com/track/1ZCni5M2ETDB01M2TqLvgA"
     },
     {
       "added_at": "2022-06-09 16:00:00",

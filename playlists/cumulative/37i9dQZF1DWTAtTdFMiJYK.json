@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover : Vismay Patel",
+  "description": "Most exciting artists from the Indian Indie scene. Cover : Akanksha Bhandari",
   "name": "Radar India",
   "published_playlist_ids": [
     "6HbYGIijNLCCdW0az43i5B"
@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Betahasha",
+        "url": "https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Nilotpal Sinha",
+          "url": "https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196233,
+      "name": "Betahasha",
+      "url": "https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it"
+    },
+    {
+      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr"
       },
@@ -313,7 +335,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 188235,
       "name": "Bina Tere",
       "url": "https://open.spotify.com/track/4vbHPgMizyrdNMYbCnxseY"
@@ -397,6 +419,28 @@
       "duration_ms": 103340,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc"
+    },
+    {
+      "album": {
+        "name": "Chhodo Kalaiya",
+        "url": "https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Saiwariya",
+          "url": "https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "Chhodo Kalaiya",
+      "url": "https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR"
     },
     {
       "album": {
@@ -1041,7 +1085,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 165434,
       "name": "idk",
       "url": "https://open.spotify.com/track/6EPAW0VyoXqJBEmgQXnFfV"
@@ -1201,7 +1245,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 246111,
       "name": "Jab Tum Miley",
       "url": "https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2"
@@ -1595,7 +1639,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 324932,
       "name": "Kitna Tarsey",
       "url": "https://open.spotify.com/track/1qPEaFTUb64NGcxM9QEK00"
@@ -2067,6 +2111,24 @@
       "duration_ms": 277636,
       "name": "Raahein",
       "url": "https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur"
+    },
+    {
+      "album": {
+        "name": "Raaz Tera Mera",
+        "url": "https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Raaz Tera Mera",
+      "url": "https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN"
     },
     {
       "album": {

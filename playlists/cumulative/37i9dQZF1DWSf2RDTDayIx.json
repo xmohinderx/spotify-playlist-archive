@@ -1680,6 +1680,28 @@
     },
     {
       "album": {
+        "name": "Brighter Future 2",
+        "url": "https://open.spotify.com/album/4kI8vmtGZHrNrc6WWHW5iw"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192688,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2EGpCCouW6wH37keLt09BP"
       },

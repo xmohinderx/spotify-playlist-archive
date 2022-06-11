@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-100 songs - 6 hr 48 min - not published yet
+100 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

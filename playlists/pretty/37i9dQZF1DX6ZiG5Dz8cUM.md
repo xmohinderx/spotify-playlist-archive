@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the tone for your date night with some cozy and romantic jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,125 likes - 105 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,207 likes - 105 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 104 | [Come Rain Or Come Shine](https://open.spotify.com/track/4FRemWPuKnnEfy0sTEb1LQ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Embraceable You](https://open.spotify.com/album/2SGvc5XNCMqomh6WmLFuvW) | 2:09 |
 | 105 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 |
 
-Snapshot ID: `MTY1NDc2NjY4MywwMDAwMDA3MDAwMDAwMTgxNDdjN2M2OWQwMDAwMDE3MjRjMzdlZjEw`
+Snapshot ID: `MTY1NDg1Mzk0NSwwMDAwMDA3MTAwMDAwMTgxNGNmYjQ5NTUwMDAwMDE4MTRjZmIwM2Ux`

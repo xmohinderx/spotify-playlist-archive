@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-315 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+317 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-03 |  |
 | [I can't stop](https://open.spotify.com/track/02xP8YKQjC9EOti0sC87Nl) | [Hiboky](https://open.spotify.com/artist/4XmN4QdtGS3wBL5Erq7RWu) | [I can't stop](https://open.spotify.com/album/2JLidK5LE0nbC7XYJAIo1T) | 3:10 | 2022-05-04 |  |
 | [I Know](https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Know](https://open.spotify.com/album/20U0SiZh9ofVxSOlvPVLBV) | 3:44 | 2022-04-01 |  |
+| [I Know](https://open.spotify.com/track/6OXeQE9fGrNEDXZZjqWG3k) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:44 | 2022-06-10 |  |
 | [i wanna say](https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [i wanna say](https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr) | 3:07 | 2022-04-01 | 2022-05-18 |
 | [I'm Dreaming](https://open.spotify.com/track/0EqSRhWIeNqdomsU603EfC) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [I'm Dreaming](https://open.spotify.com/album/5OrbMYF9w0mxSi5mwtLoYR) | 3:57 | 2022-01-14 |  |
 | [ID\-1999](https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco) | [ID\-1999](https://open.spotify.com/album/42PYPVdXv4kGetNfShSWzb) | 2:53 | 2022-03-07 | 2022-04-02 |
@@ -182,6 +183,7 @@
 | [Lost In My Mind](https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Lost In My Mind](https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX) | 3:15 | 2022-03-04 | 2022-04-02 |
 | [Lost Without You](https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Lost Without You](https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b) | 3:51 | 2022-02-04 | 2022-03-05 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-05-06 |  |
+| [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-06-10 |  |
 | [LOVE ME](https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ) | 3:24 | 2022-01-14 |  |
 | [Love Me First](https://open.spotify.com/track/6ZiLW7bS9eqAI3o7vz7d7p) | [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Love Me First](https://open.spotify.com/album/1rzJaJGNnrBF1h0b50cwxb) | 2:43 | 2022-06-03 |  |
 | [Love Me Now](https://open.spotify.com/track/0jFZ2urbupCjFFJTCuw6fM) | [IAMSAM](https://open.spotify.com/artist/6RsUpx0KNqH6at7oNsRkXD) | [Love Me Now](https://open.spotify.com/album/32G9YtZBaYCm30wQFKqCv9) | 4:00 | 2022-04-25 | 2022-06-04 |

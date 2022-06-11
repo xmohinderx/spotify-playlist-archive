@@ -1504,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Far From The Maddening Crowds (Evolution Mixes)",
+        "url": "https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Lost You Somewhere - Evolution Mix",
+      "url": "https://open.spotify.com/track/3PxR3XasfbFP0258F6DRvd"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
       },
@@ -2362,6 +2380,32 @@
     },
     {
       "album": {
+        "name": "Armada Electronic Elements - Ibiza 2022",
+        "url": "https://open.spotify.com/album/6U9PO4D4bzErgGG2B8eCL1"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280645,
+      "name": "Silence - AVIRA Remix",
+      "url": "https://open.spotify.com/track/3HLCOthcpNZteCJ3j2IOfF"
+    },
+    {
+      "album": {
         "name": "Silence (AVIRA Remix)",
         "url": "https://open.spotify.com/album/6cJysGEm7en9Lg6Cxvb8Sa"
       },
@@ -2381,7 +2425,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 280645,
       "name": "Silence - AVIRA Remix",
       "url": "https://open.spotify.com/track/4Yv1HD4KahtoTBnYyO2EeX"
@@ -2659,7 +2703,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 157105,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/3yBZZbOkz7UYR450t3RGhR"

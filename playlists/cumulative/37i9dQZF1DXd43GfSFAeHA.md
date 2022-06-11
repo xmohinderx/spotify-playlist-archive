@@ -2,7 +2,7 @@
 
 ### [Arab Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXd43GfSFAeHA)
 
-> Hip\-Hop tracks from the Arab world\. Cover: Wegz
+> Hip\-Hop tracks from the Arab world\. Cover: Dafencii
 
 104 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 

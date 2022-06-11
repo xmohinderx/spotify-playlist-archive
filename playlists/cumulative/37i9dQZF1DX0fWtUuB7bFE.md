@@ -4,7 +4,7 @@
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
+51 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Coming Undone](https://open.spotify.com/track/5OCiXLk65pqIM793HtmJfT) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Change The World](https://open.spotify.com/album/6APtDR2O7RrsZiDCXKXkyg) | 3:20 | 2022-05-20 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-20 |  |
 | [Dig Yourself Deep \- Paul Tipler Remix](https://open.spotify.com/track/4zFcpN5BtjZJ4lKAHBBU0t) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt), [Paul Tipler](https://open.spotify.com/artist/1K1gY3jNM7v2oin7ElLDry) | [Dig What You Need](https://open.spotify.com/album/5JQhknkzCUN5RuDvy1zoqB) | 1:52 | 2022-05-20 |  |
+| [Don't Give Up On Us](https://open.spotify.com/track/3FQuJiVvCjU6RmkXDDME1D) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Don't Give Up On Us](https://open.spotify.com/album/4nPgrSDWnf4M8W9M4PKfnd) | 5:22 | 2022-06-10 |  |
 | [Don't Ya Mess With Me](https://open.spotify.com/track/3VJIfLCvM1wF7LQCSrU0td) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Liberté](https://open.spotify.com/album/2n0oR2fuj2Wzmv6r4LM1tn) | 3:32 | 2022-05-20 |  |
 | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/track/1r4TvZ1NDSGsJxmFOcXrqb) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Barry Sparks](https://open.spotify.com/artist/4Rl5skbePa3vdyXRr9muro), [Ronnie Romero](https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Emergency \(feat\. Ronnie Romero, Barry Sparks & Simon Phillips\)](https://open.spotify.com/album/2O3nyTQwb5eg9PwYi5Ft0X) | 3:49 | 2022-05-20 |  |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-05-20 |  |
@@ -36,7 +37,7 @@
 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 | 2022-05-20 |  |
 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 | 2022-05-20 |  |
 | [Joy](https://open.spotify.com/track/2sgaLqnHB6a3yjqEEeZI8n) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Joy](https://open.spotify.com/album/29UMaGZHrrz6EsgDUVlPs5) | 3:46 | 2022-05-20 |  |
-| [Let It Rain](https://open.spotify.com/track/3r7PiXUMvOrIb5nEcFP6uB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Let It Rain](https://open.spotify.com/album/411K9uONbXWDxo9aEgEyE0) | 4:39 | 2022-05-20 |  |
+| [Let It Rain](https://open.spotify.com/track/3r7PiXUMvOrIb5nEcFP6uB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Let It Rain](https://open.spotify.com/album/411K9uONbXWDxo9aEgEyE0) | 4:39 | 2022-05-20 | 2022-06-11 |
 | [Missionary Man](https://open.spotify.com/track/3lyG8ACQicIIE3o71gFOGk) | [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Missionary Man](https://open.spotify.com/album/6CCHVriloUCvynss0R9itq) | 3:59 | 2022-05-20 |  |
 | [Mrs Tibbets](https://open.spotify.com/track/5LRMWTguCQZKwSz2bFvT6P) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [The Zealot Gene](https://open.spotify.com/album/2stNMfjktG7XPoCmfKACOC) | 5:52 | 2022-05-20 |  |
 | [Not Dark Yet](https://open.spotify.com/track/2sSZx53igUZ9zz27FJcqrZ) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Not Dark Yet](https://open.spotify.com/album/14KXXi1BBpqgF55OjnMrXY) | 3:53 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,450 songs - 3 day 12 hr 29 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,452 songs - 3 day 12 hr 37 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 | 2021-11-20 | 2022-04-17 |
 | [FEEL SOMETHING](https://open.spotify.com/track/0O810xQTik9mLUXwjbDqrC) | [B.A.D.A.](https://open.spotify.com/artist/5DRgp80WYkhaRnALRKlWRz) | [FEEL SOMETHING](https://open.spotify.com/album/0WcN5F6LTUrMx7qlHa5axc) | 3:55 | 2020-05-30 | 2020-06-10 |
 | [Feel The Vibe](https://open.spotify.com/track/3KapR70eIR6Zm3kJfG4oB3) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [1123](https://open.spotify.com/album/7lZWuo8TFgz5ty8PEWa6SO) | 4:00 | 2019-09-29\* | 2021-11-19 |
+| [Feel This Once](https://open.spotify.com/track/6lu4a3efYrHm6om4lqwTIq) | [Nadia Kamrath](https://open.spotify.com/artist/61GgMthExetzzfmrqTBuHq) | [Feel This Once](https://open.spotify.com/album/3fl8JDRyw2uT0rLscashik) | 2:55 | 2022-06-10 |  |
 | [Feel Us Elevate](https://open.spotify.com/track/3V3QVqaomXslGdZOhSPRrC) | [Kira Rizavi](https://open.spotify.com/artist/5nZkybKpjeomEBzD2p5MP4) | [Feel Us Elevate](https://open.spotify.com/album/1r9RzIgh0Xcj25IUDvaSv1) | 3:13 | 2021-08-21 | 2021-09-05 |
 | [Feeling](https://open.spotify.com/track/6ze3rTbidkkYIzdgBA8i0l) | [Frankie Bottz](https://open.spotify.com/artist/4WobtMkGG2OmzjIxjQ0RxW) | [Feeling](https://open.spotify.com/album/4TVBpFk9lI9wvUUp9NXeeL) | 4:16 | 2022-01-28 | 2022-02-13 |
 | [Feeling Good](https://open.spotify.com/track/3A7yE3igxCotMUgzQzMXwK) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 2:16 | 2020-08-20 |  |
@@ -1083,6 +1084,7 @@
 | [Save Me](https://open.spotify.com/track/7qDJpm2mrNGsM4VubSDxek) | [YFRS](https://open.spotify.com/artist/3OApJV6ZV4UUqpxiVBHmGc) | [Save Me](https://open.spotify.com/album/4ogUfhyvyPASSHVg1zonjI) | 3:22 | 2020-11-06 | 2020-11-21 |
 | [Save Me \- Extended](https://open.spotify.com/track/1ZqlkhFxsZLTRd9W46H1vD) | [Jonny pena](https://open.spotify.com/artist/4R9t0fwVA7M9mBgaue3QRO) | [Save Me](https://open.spotify.com/album/7sAcMFajrQH97RU4BEA0xr) | 5:56 | 2021-05-21 | 2021-06-06 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-05-05 | 2021-07-12 |
+| [Saving Grace](https://open.spotify.com/track/470vHK4KQthoKtDU6caZux) | [Kinzoogianna](https://open.spotify.com/artist/2D069JyO8S067PzOr5XtUz) | [Saving Grace](https://open.spotify.com/album/0Lf3COKKr7BaRP0OEHRO3Y) | 4:46 | 2022-06-10 |  |
 | [Saviour](https://open.spotify.com/track/05WNvibI47v6Y9ificpqoK) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Saviour](https://open.spotify.com/album/6UONmsq7qrzQTBbEGptYd6) | 3:11 | 2020-05-11 | 2022-03-07 |
 | [Say Goodbye To The Bad Guys](https://open.spotify.com/track/4DpVheICgQbnbfHR3Manb7) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [EROS](https://open.spotify.com/album/13ZPRwkvm5Lo9j6XZK0aHD) | 2:49 | 2022-03-06 | 2022-03-26 |
 | [Say Hello](https://open.spotify.com/track/6LyarjEWv8aP5DLDclk0hl) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Say Hello](https://open.spotify.com/album/21zQkZDEt3v6yCYpBHacNH) | 4:13 | 2020-08-15 | 2020-09-04 |

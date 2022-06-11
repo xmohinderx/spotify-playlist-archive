@@ -2328,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/1XCcR2dx782OgYp9rfVvC7"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/2RIdz4Q2Ij10tT7DRJjTa6"
+    },
+    {
+      "album": {
         "name": "Feel the Void",
         "url": "https://open.spotify.com/album/1Nz4Ufkp2AZRR1giNkbp5J"
       },

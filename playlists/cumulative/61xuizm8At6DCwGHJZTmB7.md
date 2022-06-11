@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-163 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+165 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Christ Be Magnified](https://open.spotify.com/track/4N2SVgJkVmn4sgS7s2410F) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:02 | 2022-02-17 |  |
 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 | 2022-04-05 |  |
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2022-04-04 |  |
+| [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 |  |
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
 | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/track/2Qg5fWJ1z176U0lVH8nY9O) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/album/4YuF1KBGzAG4QKQGlaqlGC) | 4:25 | 2022-05-25 |  |
 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 | 2022-02-17 | 2022-03-16 |
@@ -46,6 +47,7 @@
 | [Everything Is Changing \- Live](https://open.spotify.com/track/0OuEwptVO30M0Q4MJQCpyL) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP) | [Everything Is Changing \(Live\)](https://open.spotify.com/album/3zZXu0e7cCMYuYVTZ33O50) | 8:23 | 2022-02-25 | 2022-04-05 |
 | [Faithful](https://open.spotify.com/track/2VQJFp46zYr6L4QyzstmRz) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Miracle Maker + Faithful](https://open.spotify.com/album/3xbSzDKD6mggwMXii4TiGd) | 4:40 | 2022-02-17 | 2022-04-05 |
 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 | 2022-02-17 | 2022-06-10 |
+| [Firm Foundation \(He Won't\)](https://open.spotify.com/track/4Pk1GDnV9cTAx2gs3bJX9V) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/4xoabnZnUHQDAWZJ5f0oZl) | 5:24 | 2022-06-10 |  |
 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT) | 6:22 | 2022-02-17 |  |
 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 | 2022-04-04 |  |
 | [Fresh Wind \- Studio](https://open.spotify.com/track/5bCBMKuaHNpRCuPPVKtzlk) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/0hta3inDwefmP7JjYEY33c) | [Fresh Wind \(Studio\)](https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW) | 4:33 | 2022-02-17 |  |

@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: POORSTACY
 
-103 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+104 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 | 2022-04-08 | 2022-04-29 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-04-08 |  |
 | [Kids](https://open.spotify.com/track/1qSGTNIYe8LaHkGzLEsFOI) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Brian "Head" Welch](https://open.spotify.com/artist/4Dd4L5XTvf8rjyfxhCdwsu), [JR BAREIS](https://open.spotify.com/artist/5e5GBpRbTYHRxXoos9gUzF) | [Kids](https://open.spotify.com/album/79xV1m2C1DUk0dqGN2J6ym) | 3:49 | 2022-04-08 |  |
-| [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-29 |  |
+| [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-29 | 2022-06-11 |
 | [Last Resort & Spa](https://open.spotify.com/track/0XTF9X6GQuH44vh4K0bdps) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form \- EP](https://open.spotify.com/album/2HteCpWX59nQdx0ctm8lkO) | 4:14 | 2022-04-08 |  |
 | [Legend Has It](https://open.spotify.com/track/4RnfMhMUMqHlrn4V6A3KfS) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels 3](https://open.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9) | 3:25 | 2022-04-08 |  |
 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 | 2022-04-08 |  |
@@ -81,6 +81,7 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-04-29 |  |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 |  |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-04-08 |  |
+| [Potluck Lunch for Cannibals](https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/0kzeKP6WbJJQIqmhOrCviw) | 2:55 | 2022-06-10 |  |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-08 |  |
 | [Prescription Kid](https://open.spotify.com/track/3qFQBjBhJRpqEB2KL2FxLK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 3:28 | 2022-04-08 |  |
 | [Pretend](https://open.spotify.com/track/55tKh3y0kGoMGexQeyCktd) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Intrelock](https://open.spotify.com/artist/41pmSD7ceBz02NR6M2u0B4) | [Pretend](https://open.spotify.com/album/6r2wINnEsK01NjpxbZuZmQ) | 4:40 | 2022-04-08 |  |

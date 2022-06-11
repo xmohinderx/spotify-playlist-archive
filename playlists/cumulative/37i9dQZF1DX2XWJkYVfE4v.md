@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-65 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+66 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Suite bergamasque, L\. 75: 3\. Clair de lune \(Arr\. Koncz\)](https://open.spotify.com/track/6cwDVYsQ4phsqFaWP0giNx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Made in Berlin](https://open.spotify.com/artist/4XMjjLsYeGOh6AwrrwtC74) | [The Golden Age](https://open.spotify.com/album/6Fzu8jtRTB4lTLg2WECH99) | 4:32 | 2021-12-17 |  |
 | [Suite No\. 3 in D Major, BWV 1068: Suite No\. 3 in D Major, BWV 1068: II\. Air](https://open.spotify.com/track/3P15Mx8jlZd6CPrf9rGXBV) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Bach: Orchestral Suites](https://open.spotify.com/album/2hepGgEkxWLHtT5R3yJqxu) | 4:37 | 2021-12-17 |  |
 | [The Carnival of the Animals, R\. 125: XIII\. The Swan](https://open.spotify.com/track/3ZYIIUaTnqIox0MS5r6Y74) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN) | [Klassik Wunderland \- Klassische Musik für Kinder](https://open.spotify.com/album/4Pd82AhdpHnekno3EC41xl) | 3:13 | 2021-12-17 |  |
+| [The Four Seasons, Violin Concerto in F Minor, Op\. 8 No\. 4, RV 297 "Winter" \(Arr\. K\. Thomas for Harp\): I\. Allegro non molto](https://open.spotify.com/track/2PkUDZoUyP8pwLl0nBFjbN) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Keziah Thomas](https://open.spotify.com/artist/3IOHZcjM9tHt4RJrnN208Q) | [Vivaldi: The Four Seasons \(Arr\. K\. Thomas for Harp\)](https://open.spotify.com/album/4fzv6jXoJg5jOUF94yHQvo) | 4:07 | 2022-06-10 |  |
 | [The Great Longing of an Unquiet Heart](https://open.spotify.com/track/447C7XdzYrpWmiKUfalsKW) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [The Great Longing of an Unquiet Heart](https://open.spotify.com/album/2PrP41fS0K8DiSOt8xXnUW) | 3:04 | 2022-03-04 |  |
 | [The Snow Maiden, Op\. 12 "Snégourotchka": X\. Melodrama](https://open.spotify.com/track/1UXV5arO8xTalQz5UySrJg) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE) | [The Snow Maiden, Op\. 12 "Snégourotchka": X\. Melodrama](https://open.spotify.com/album/2r2L6bSD4fjCa6D6uOZCPZ) | 4:22 | 2021-12-17 |  |
 | [The Warmth of the Sun](https://open.spotify.com/track/4cPh8xelgJxzWEvlxt8BHc) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [The Hope of Better Weather](https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo) | 3:00 | 2021-12-17 |  |

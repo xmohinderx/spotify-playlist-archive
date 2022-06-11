@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Gvano",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Lluvia Ar\u00e1mbula",
   "name": "M\u00fasica Mexicana Rising",
   "published_playlist_ids": [
     "5fGjTGABmDRAhYaKIhz6Cv"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 143000,
       "name": "A Pata",
       "url": "https://open.spotify.com/track/0nLK5ol9VxY6OzYhjNwyvy"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 188973,
       "name": "El Error",
       "url": "https://open.spotify.com/track/1KQ5s1khSX5yi1AIWxKbms"
@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Gabriel Ornelas",
+        "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187430,
+      "name": "Gabriel Ornelas",
+      "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
+    },
+    {
+      "album": {
         "name": "Grupo Delta",
         "url": "https://open.spotify.com/album/1dUEISo0a9XuXLJLg3WIhv"
       },
@@ -1208,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Las Guerras de Califas",
+        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
+      },
+      "artists": [
+        {
+          "name": "Clave Secreta",
+          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215402,
+      "name": "Las Guerras de Califas",
+      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
       },
@@ -1335,6 +1371,24 @@
       "duration_ms": 214804,
       "name": "Maldito Olvido",
       "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "album": {
+        "name": "Manny Flores",
+        "url": "https://open.spotify.com/album/13adeP5WP72vXLkntMJMbj"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Regimiento",
+          "url": "https://open.spotify.com/artist/2dYOoYpVWymc4PTl1KR5o6"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214536,
+      "name": "Manny Flores",
+      "url": "https://open.spotify.com/track/23hHl7ujNhCXKirOUhPPTm"
     },
     {
       "album": {
@@ -1801,7 +1855,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 196146,
       "name": "Que Salga De Ti",
       "url": "https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf"
@@ -1862,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Seguimos En El Refuego",
+        "url": "https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD"
+      },
+      "artists": [
+        {
+          "name": "El De La H",
+          "url": "https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Seguimos En El Refuego",
+      "url": "https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa"
+    },
+    {
+      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -1891,7 +1963,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 131653,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY"
@@ -1909,7 +1981,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 193866,
       "name": "Si Me Ven Tomar",
       "url": "https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu"
@@ -1949,7 +2021,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 108863,
       "name": "Sin Cuida'o",
       "url": "https://open.spotify.com/track/7HucjYSSbMuLuXcHondO26"
@@ -2050,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os Encontrados",
         "url": "https://open.spotify.com/album/7dTwMNd9TJrsx4zjpKwKmt"
       },
@@ -2137,6 +2227,24 @@
       "duration_ms": 179568,
       "name": "Tu De Que Vas",
       "url": "https://open.spotify.com/track/7EXUYzYgC946CWUelyu3QY"
+    },
+    {
+      "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149851,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,826 likes - 118 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,857 likes - 118 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 117 | [I Should Care](https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 10:02 |
 | 118 | [Fin De L'Affaire \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Hank Mobley Quintet \(Remastered\)](https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb) | 6:39 |
 
-Snapshot ID: `MTY1NDY5Mjk2MiwwMDAwMDA3NzAwMDAwMTgxNDM2MmUxNDAwMDAwMDE3Y2E3MmIyYjg4`
+Snapshot ID: `MTY1NDg1NDg5MiwwMDAwMDA3ODAwMDAwMTgxNGQwOWJiZjYwMDAwMDE4MTRkMDkwNDQ4`

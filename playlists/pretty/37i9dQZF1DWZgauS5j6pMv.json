@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 253767,
+  "num_followers": 253889,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIyODg2MCwwMDAwMDA4MjAwMDAwMTgxMjdiOTNjZTMwMDAwMDE3ZmZmNjQ4MDNh",
+  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDA4MzAwMDAwMTgxNGJjNmFiMjkwMDAwMDE3ZmZmNjQ4MDNh",
   "tracks": [
     {
       "added_at": "2022-06-03 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 222272,
       "name": "GOODTIME",
       "url": "https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Gucci Shoes",
+        "url": "https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8"
+      },
+      "artists": [
+        {
+          "name": "Collard",
+          "url": "https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH"
+        }
+      ],
+      "duration_ms": 181349,
+      "name": "Gucci Shoes",
+      "url": "https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1859,22 +1875,6 @@
       "duration_ms": 229253,
       "name": "You Got the Right Thang",
       "url": "https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC"
-    },
-    {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "twofaces",
-        "url": "https://open.spotify.com/album/69Jp1KYzhC4gwXxY3lnYNK"
-      },
-      "artists": [
-        {
-          "name": "nic violets",
-          "url": "https://open.spotify.com/artist/3nkFwNBN0MOj4KGW7mLyxH"
-        }
-      ],
-      "duration_ms": 157963,
-      "name": "twofaces",
-      "url": "https://open.spotify.com/track/75BzES3PZtvAw3R09DpcCg"
     }
   ],
   "unique_name": "Nu-Funk",
