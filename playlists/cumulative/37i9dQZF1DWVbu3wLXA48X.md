@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Beach Bunny
 
-370 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+371 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-02 |  |
 | [Drinking On A Tuesday](https://open.spotify.com/track/4UXIejXKvrHnbKoCNxojQA) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Drinking On A Tuesday](https://open.spotify.com/album/7iE0mJLOVvthwGkN04OBZ0) | 3:16 | 2021-12-16 | 2022-02-18 |
 | [Déjà Vu](https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Déjà Vu](https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz) | 2:42 | 2022-03-31 | 2022-04-29 |
+| [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-11 |  |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-05-13 |
 | [Eden](https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK) | [All We Are](https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT) | [Eden](https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt) | 4:12 | 2021-12-16 | 2021-12-31 |
 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 | 2021-12-23 | 2022-01-21 |
@@ -223,7 +224,7 @@
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [Now You See Me](https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od) | 2:54 | 2021-12-16 | 2022-01-21 |
 | [Numb \(Feat\. Yellboy\)](https://open.spotify.com/track/06SXPlJLAvHuW3kE7uM8DF) | [ALOH](https://open.spotify.com/artist/6Pyu7hF0SX3P12ndEMYz4v), [Yellboy](https://open.spotify.com/artist/5Jq4KowVqFByezqZ5RG7EQ) | [Numb \(Feat\. Yellboy\)](https://open.spotify.com/album/3VNvA4gW2LaCIcdCt3RIv2) | 3:56 | 2022-01-06 | 2022-03-25 |
-| [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-20 |  |
+| [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-20 | 2022-06-12 |
 | [OK](https://open.spotify.com/track/6tIZqygSTNRyGn9WSIQxrl) | [Adrian Danial](https://open.spotify.com/artist/494R2afpLGofkQy8OVXleD) | [OK](https://open.spotify.com/album/0VZTi0KgY9x0o145joTKd0) | 2:26 | 2022-03-31 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-05-26 |  |
 | [On My Way](https://open.spotify.com/track/61GbM6MHAXxM0q59ZkQguY) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [On My Way](https://open.spotify.com/album/3xuFX5Ckge9b2voKWQw1yv) | 2:46 | 2022-04-14 |  |

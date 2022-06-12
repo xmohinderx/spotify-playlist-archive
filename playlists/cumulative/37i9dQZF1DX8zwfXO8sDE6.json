@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 294800,
       "name": "CLOSE YOUR EYES",
       "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 269026,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 288506,
       "name": "HEART to HEART",
       "url": "https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 223600,
       "name": "JOKER",
       "url": "https://open.spotify.com/track/3khSQSamXJGnuA3s2SiUis"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 351520,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 371226,
       "name": "ON THE SEASHORE",
       "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 313773,
       "name": "SUNDAY NIGHT TO MONDAY MORNING",
       "url": "https://open.spotify.com/track/7FyoAOAhwIXmqrxiROlTXZ"
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Kissing Fish (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
+        "url": "https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ"
+      },
+      "artists": [
+        {
+          "name": "Nanako Sato",
+          "url": "https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279693,
+      "name": "\u30ad\u30c3\u30b7\u30f3\u30b0\u30fb\u30d5\u30a3\u30c3\u30b7\u30e5 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v"
+    },
+    {
+      "album": {
         "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8 \u5927\u6a4b\u7d14\u5b50 \u30b7\u30f3\u30b0\u30eb\u30b9",
         "url": "https://open.spotify.com/album/7xZbqNj6i60dJENaliMEOR"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 226600,
       "name": "\u30af\u30ea\u30b9\u30bf\u30eb\u30fb\u30b7\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/24yeqyHA3EW35CKpyeE4uR"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 277373,
       "name": "\u30b5\u30de\u30fc\u30d7\u30ec\u30a4\u30b9\u30b5\u30de\u30fc\u30e9\u30f4",
       "url": "https://open.spotify.com/track/09tmSzM2ugauLzrtJV2ueP"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 258226,
       "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
       "url": "https://open.spotify.com/track/4nUSSxLYymxQo9a6xiYq5M"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 242200,
       "name": "\u30db\u3099\u30f3\u30db\u3099\u30e4\u30fc\u30b7\u3099\u6ce2\u6b62\u5834",
       "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 332175,
       "name": "\u5f71\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 229120,
       "name": "\u5fc3\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 247773,
       "name": "\u611b\u306e\u708e",
       "url": "https://open.spotify.com/track/1tGGcYOsmRVPJp9HTWOhRE"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 235853,
       "name": "\u7802\u306e\u5973",
       "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"

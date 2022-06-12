@@ -4,7 +4,7 @@
 
 > Cover Artist: Bad Wolves                      Rock out while you work out! Follow for updates!
 
-141 songs - 8 hr 59 min - not published yet
+141 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

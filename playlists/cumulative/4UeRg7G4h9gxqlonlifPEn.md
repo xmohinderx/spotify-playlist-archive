@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Skillibeing, Fivio Foreign, French Montana
 
-105 songs - 4 hr 58 min - not published yet
+105 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

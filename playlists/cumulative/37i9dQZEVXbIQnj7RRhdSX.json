@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2000,6 +2000,32 @@
     },
     {
       "album": {
+        "name": "BUBBLE (feat. thasup & Salmo)",
+        "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164327,
+      "name": "BUBBLE (feat. thasup & Salmo)",
+      "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -2319,7 +2345,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 197247,
       "name": "CASA",
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
@@ -3330,6 +3356,24 @@
     },
     {
       "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169937,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/0Qs2VJgDHPBJBvtfCqQcox"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -3433,6 +3477,32 @@
       "duration_ms": 221884,
       "name": "COSPLAYER",
       "url": "https://open.spotify.com/track/09FMFnWC5RYkvvvsjOus9B"
+    },
+    {
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        },
+        {
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201739,
+      "name": "Couple (feat. Sasso)",
+      "url": "https://open.spotify.com/track/7z0xS1uKqL3eo83ZUkjpjQ"
     },
     {
       "album": {
@@ -5357,7 +5427,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -6408,6 +6478,36 @@
     },
     {
       "album": {
+        "name": "Hace Calor (Remix)",
+        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
+    },
+    {
+      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -6459,7 +6559,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -7726,6 +7826,32 @@
     },
     {
       "album": {
+        "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
+        "url": "https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
+      "url": "https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -7982,6 +8108,52 @@
     },
     {
       "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5LWmFTJeHQmJsFzG4p1q6d"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309650,
+      "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
+      "url": "https://open.spotify.com/track/4fuCi43DogsknVxQtVpnx0"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw"
       },
@@ -8033,6 +8205,24 @@
       "duration_ms": 228984,
       "name": "La genesi del tuo colore",
       "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
+    },
+    {
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "La Haine",
+      "url": "https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a"
     },
     {
       "album": {
@@ -8414,6 +8604,28 @@
     },
     {
       "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "LAPROVINCE #2",
+      "url": "https://open.spotify.com/track/7CAnoTpF05LbICRLc8FUDY"
+    },
+    {
+      "album": {
         "name": "LAPROVINCE #2",
         "url": "https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH"
       },
@@ -8429,7 +8641,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 116669,
       "name": "LAPROVINCE #2",
       "url": "https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ"
@@ -10285,7 +10497,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 160204,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1"
@@ -14341,7 +14553,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 159840,
       "name": "Soldi Puliti",
       "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
@@ -15471,7 +15683,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 204692,
       "name": "Tienimi stanotte",
       "url": "https://open.spotify.com/track/3u9LnNtp8669srAZoQh7mZ"
@@ -15732,6 +15944,24 @@
     },
     {
       "album": {
+        "name": "Tribale",
+        "url": "https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "Tribale",
+      "url": "https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg"
+    },
+    {
+      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
       },
@@ -15777,6 +16007,28 @@
       "duration_ms": 214785,
       "name": "TROIA (feat. J Lord)",
       "url": "https://open.spotify.com/track/7tZ3j6ftRvAWfuMLrOVEfr"
+    },
+    {
+      "album": {
+        "name": "Tropicana (feat. Annalisa)",
+        "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Tropicana (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
     },
     {
       "album": {
@@ -15835,6 +16087,28 @@
       "duration_ms": 228706,
       "name": "Tuo padre, mia madre, Lucia",
       "url": "https://open.spotify.com/track/4xOGo8ca9Ys8jyTVkdYoAz"
+    },
+    {
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208587,
+      "name": "Tuta Lacoste (feat. Timal)",
+      "url": "https://open.spotify.com/track/5EqtRjjXWq4sxL3c6PDK8q"
     },
     {
       "album": {
@@ -16511,7 +16785,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 172761,
       "name": "Vieni nel mio cuore",
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
@@ -17067,7 +17341,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 232019,
       "name": "Yo Voy (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"

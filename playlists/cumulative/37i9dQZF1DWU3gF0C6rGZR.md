@@ -4,7 +4,7 @@
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-100 songs - 7 hr 21 min - not published yet
+100 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/41URsZPJcQPYhwSFhP1FxJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Grab your neon socks &amp; Members Only jackets &amp; strap with the biggest hits from the decade of excess!
 
-81 songs - 5 hr 55 min - not published yet
+81 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/2BgYeTFdGz0X5hAfIl0ERw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The beats and ballers of the 2000's are all here\. Blaze up the biggest hits of Hip Hop! Cover: Miss E
 
-70 songs - 4 hr 42 min - not published yet
+70 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2TZdjNCzsZfyRq4YZq5QRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

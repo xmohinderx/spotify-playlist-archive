@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: kidsai; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,108 likes - 97 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,126 likes - 97 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 27 | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU) | 4:29 |
 | 28 | [Shoot me](https://open.spotify.com/track/1FdGrIf3VYXgh2BHeaLvlq) | [DKid](https://open.spotify.com/artist/2G10onVIMw3d6jx92Tl4v8), [RPT LAKE](https://open.spotify.com/artist/1v5kr0aM1qKIAFGciqpZZd) | [Shoot me](https://open.spotify.com/album/4iUIwF6GlIVcZDNYgvgAJe) | 4:06 |
 | 29 | [Theo Ánh Mặt Trời](https://open.spotify.com/track/0wP2FxciFpzd5BlMqNAOr1) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Theo Ánh Mặt Trời](https://open.spotify.com/album/1mNaUnDCQ7pp6DdU5sFMFy) | 3:17 |
-| 30 | [Falling In Love](https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9) | [Quốc Anh](https://open.spotify.com/artist/2jsehRYFjBt2qJP3EHEGFn) | [Falling In Love](https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO) | 2:59 |
+| 30 | [Falling In Love](https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9) | [Quốc Anh](https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD) | [Falling In Love](https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO) | 2:59 |
 | 31 | [BABI CHO ANH MỘNG MER](https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [BABI CHO ANH MỘNG MER](https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim) | 3:23 |
 | 32 | [Sẽ Đến Lúc](https://open.spotify.com/track/2O9FYCgBynly0lShGwPmrP) | [dot.Band](https://open.spotify.com/artist/7zdIyqYJd2ZnSZUUc4qYAh), [Âu](https://open.spotify.com/artist/357FAD9ULn7AljEFoFGYYb) | [Sẽ Đến Lúc](https://open.spotify.com/album/1KTjXZ4g4AmULecsObtiDW) | 4:42 |
 | 33 | [Mùa Đông Cô Đơn](https://open.spotify.com/track/1se2ZknYwSDiGYYyD4KFdU) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Công Phúc](https://open.spotify.com/artist/2RTxk7k09aitr15vkJ5kwL) | [Mùa Đông Cô Đơn](https://open.spotify.com/album/32CQporH0IpIWdLnFI1H6q) | 4:32 |

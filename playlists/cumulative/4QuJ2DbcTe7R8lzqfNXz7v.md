@@ -4,7 +4,7 @@
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-100 songs - 6 hr 2 min - not published yet
+100 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/3sXYtLAZqw93tiWySpmNk2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

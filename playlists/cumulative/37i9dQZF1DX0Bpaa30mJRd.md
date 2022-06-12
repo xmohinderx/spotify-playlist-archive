@@ -4,7 +4,7 @@
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-80 songs - 4 hr 12 min - not published yet
+80 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

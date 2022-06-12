@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gabry Ponte x LUM!X
 
-47 songs - 2 hr 21 min - not published yet
+47 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

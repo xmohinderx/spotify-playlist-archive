@@ -4,7 +4,7 @@
 
 > A pop playlist full of hits from the 00s!
 
-50 songs - 3 hr 12 min - not published yet
+50 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ecologyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,494 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,523 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Filme](https://open.spotify.com/track/469BpZk4BQgk07sYZIb015) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Filme](https://open.spotify.com/album/4nmpVIdfq68o2isLOiWBua) | 3:15 |
 | 2 | [Freestyle](https://open.spotify.com/track/7AXDggO30XJi93T9cW7wBL) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Freestyle](https://open.spotify.com/album/688jlHCyptPurzfgv6OTUz) | 2:12 |
 | 3 | [Vivendo Como um Rei](https://open.spotify.com/track/4ZcBQ1jwmbhQ8ZcKskHceW) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Vivendo Como um Rei](https://open.spotify.com/album/1wT5lhUa92OMIXapEpaks0) | 2:37 |
-| 4 | [4 Real](https://open.spotify.com/track/5zJQWY0aWwNkUWLXXfJulA) | [Limera](https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt), [Taffari](https://open.spotify.com/artist/11IrFgeFixljPgzPm6BGPO), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [4 Real](https://open.spotify.com/album/4LJGOS2XY0MtUTtZa0RwNx) | 2:30 |
+| 4 | [4 Real](https://open.spotify.com/track/5zJQWY0aWwNkUWLXXfJulA) | [Limera](https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt), [Makonnen Tafari](https://open.spotify.com/artist/5pCLuiabkZX959HejLUmW6), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [4 Real](https://open.spotify.com/album/4LJGOS2XY0MtUTtZa0RwNx) | 2:30 |
 | 5 | [Cada Vez Mais High](https://open.spotify.com/track/0eYNaqwlF2QfhKNTgvTsz7) | [Slow Gang](https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq), [Droso 08](https://open.spotify.com/artist/6ldzMYF94YeCpiQuRFyJpw), [Jeromx](https://open.spotify.com/artist/1JsO6jl39B2T5atgizV44y) | [Cada Vez Mais High](https://open.spotify.com/album/7FCHFePNCMgNYNL4XjiLL5) | 3:21 |
 | 6 | [Distante](https://open.spotify.com/track/2fg1guOKTbWgXVYbKuNvHT) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Distante](https://open.spotify.com/album/2Q1xkwzOeAWQ8G6V19cS34) | 3:23 |
 | 7 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 |

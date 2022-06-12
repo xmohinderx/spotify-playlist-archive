@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Nikhita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,758 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Honey Ke Sang](https://open.spotify.com/track/33btrUI6LRI7EyGBzbmp8f) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Akshay The One](https://open.spotify.com/artist/5IRSf4S62R0kCxuSyycXJd) | [Honey Ke Sang](https://open.spotify.com/album/3mVzZZmucyG2WEfvo3aSGu) | 2:50 |
 | 3 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 | 4 | [Sun Bhi Le](https://open.spotify.com/track/7C2hyN0hWnAidYAS6EPA2b) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Sun Bhi Le \(From "Ittu Si Baat"\)](https://open.spotify.com/album/3KdGkT6ZiG1tDuRf7uWj70) | 4:22 |
-| 5 | [Heer Meri](https://open.spotify.com/track/1iQDhmcdGpFjGbW0oWM3wn) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Shazahn Mujeeb](https://open.spotify.com/artist/2AbdnxMvXXyFk0mnHXeC3O) | [Heer Meri](https://open.spotify.com/album/1ZWkE63sm2TZjkGMhuAZ1X) | 3:55 |
+| 5 | [Heer Meri](https://open.spotify.com/track/1iQDhmcdGpFjGbW0oWM3wn) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Shahzan Mujeeb](https://open.spotify.com/artist/6VMtUNLHt01KKnQvv2E0Fi) | [Heer Meri](https://open.spotify.com/album/1ZWkE63sm2TZjkGMhuAZ1X) | 3:55 |
 | 6 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 |
 | 7 | [Badle Badle \(From "Vikram Hitlist \(Hindi\)"\)](https://open.spotify.com/track/0drQZvE3y9ReqPtarGiuQp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Badle Badle \[From "Vikram Hitlist \(Hindi\)"\]](https://open.spotify.com/album/21eyeUuI1KpCZdFmZ1oS57) | 3:31 |
 | 8 | [Dil Udeyaa](https://open.spotify.com/track/4b3COrf46CUyquZXBwPiAr) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Unoosha](https://open.spotify.com/artist/34Enq6xy317CqFsTw81JnC) | [Dil Udeyaa](https://open.spotify.com/album/2IBfUXkya05famCeryEimA) | 3:29 |

@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-3 songs - 11 min 20 sec - not published yet
+3 songs - 11 min 20 sec - [published](https://open.spotify.com/playlist/3FqoyZfpKt4DJYQW8JHtcU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

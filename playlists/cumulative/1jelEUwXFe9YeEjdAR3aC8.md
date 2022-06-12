@@ -4,7 +4,7 @@
 
 > Chill indie songs by Reneé Rapp, Stephen Sanchez, and more!
 
-57 songs - 3 hr 16 min - not published yet
+57 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

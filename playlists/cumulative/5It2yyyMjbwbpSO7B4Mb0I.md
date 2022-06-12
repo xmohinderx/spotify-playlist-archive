@@ -4,7 +4,7 @@
 
 > El playlist con la música más caliente del mundo latino!
 
-66 songs - 3 hr 40 min - not published yet
+66 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/4hg51aBhHLfjItqEaLqJFp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

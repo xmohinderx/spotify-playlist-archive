@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,755 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,560 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Elegant & Gang](https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Elegant & Gang](https://open.spotify.com/album/6XklZC1pUcru2h12f8F0WF) | 3:25 |
+| 1 | [Elegant & Gang](https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Elegant & Gang](https://open.spotify.com/album/6XklZC1pUcru2h12f8F0WF) | 3:25 |
 | 2 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 |
 | 3 | [Je M'appelle \(feat\. Tion Wayne & French Montana\) \- Remix](https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Je M'appelle \(Remix\)](https://open.spotify.com/album/7wAprxpngbUpq9Ch0nfY9A) | 2:30 |
 | 4 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |

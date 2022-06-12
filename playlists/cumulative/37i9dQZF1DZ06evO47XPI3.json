@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 138066,
       "name": "A Lover's Concerto",
       "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 184506,
       "name": "Break Your Promise - Remastered",
       "url": "https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 150186,
       "name": "Can't Get Over Losing You",
       "url": "https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/7xAmIfxcfwn9ZxMvSfCPUQ"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 227946,
       "name": "Don't Throw It All Away - 7\" Version",
       "url": "https://open.spotify.com/track/5ke5fPNXizlAX11dGVNv4W"
@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "album": {
         "name": "The Best of The Delfonics",
         "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
       },
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 300710,
       "name": "For the Love I Gave to You",
       "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 138360,
       "name": "Hot Dog (I Love You So) - Remastered",
       "url": "https://open.spotify.com/track/7ulFQzcnIDm337xLiQMYx4"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 166160,
       "name": "I'm Sorry - Remastered",
       "url": "https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
@@ -563,6 +581,24 @@
       "duration_ms": 170626,
       "name": "Life Never Ends",
       "url": "https://open.spotify.com/track/7367xyX35DY5U1bgkA467M"
+    },
+    {
+      "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Looking for a Girl",
+      "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
     },
     {
       "album": {
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 341093,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1"
@@ -725,7 +761,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 191733,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
@@ -743,7 +779,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 137466,
       "name": "Scarborough Fair - Remastered for Buddha",
       "url": "https://open.spotify.com/track/6YxNkTm0dBwrhPvzRRp2eU"
@@ -801,7 +837,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 198573,
       "name": "Somebody Loves You - Remastered",
       "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 259199,
       "name": "Start All Over Again",
       "url": "https://open.spotify.com/track/3T94VAbOrvsKgXEFsTLEOb"
@@ -913,7 +949,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "The Phoney",
       "url": "https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v"
@@ -931,7 +967,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 204560,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/76g73QHtKlGFAW2FUSCV0e"
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 279400,
       "name": "Think It Over - Digitally Remastered 1997",
       "url": "https://open.spotify.com/track/4OvI7trjELxJHuuNPCjO9R"
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 182280,
       "name": "Walk Right Up to the Sun",
       "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"

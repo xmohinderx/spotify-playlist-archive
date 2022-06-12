@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New album from Diplo, plus the latest cuts from Ewan McVicar, Blackhaine, Louis The Child &amp; Aluna, piri &amp; Tommy, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,538 likes - 145 songs - 8 hr 47 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,535 likes - 145 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

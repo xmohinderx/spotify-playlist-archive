@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+64 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 | 2022-05-25 |  |
 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 | 2022-05-25 |  |
 | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/track/3HNs1UAn7OZQiby7DXTIYl) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/album/4xG7w6o7w2ah1W2a3tPgaV) | 3:12 | 2022-05-25 |  |
-| [On My Way](https://open.spotify.com/track/1hkM6wr47hVWSEK6EY4nAl) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [On My Way](https://open.spotify.com/album/5mG78aHvHhVs0KR7FYK3vv) | 3:01 | 2022-05-25 |  |
+| [On My Way](https://open.spotify.com/track/1hkM6wr47hVWSEK6EY4nAl) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [On My Way](https://open.spotify.com/album/5mG78aHvHhVs0KR7FYK3vv) | 3:01 | 2022-05-25 | 2022-06-12 |
+| [On My Way \(Rain or Shine Remix\)](https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/4NtbltmozSWfZ4ZfRPXCLL) | 4:00 | 2022-06-11 |  |
 | [Only The Gods \(feat\. Anabel Englund\)](https://open.spotify.com/track/6oSWam6C5d0HyUS4bVNVqN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Only the Gods / Better on My Own \(feat\. Anabel Englund\)](https://open.spotify.com/album/4gaWk8Dxttn5CvKAN5kRYR) | 4:37 | 2022-05-25 |  |
 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 | 2022-05-25 |  |
 | [Peace of Mind](https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr) | 2:57 | 2022-05-25 |  |

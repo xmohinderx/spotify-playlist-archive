@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,726 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,828 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 |
-| 2 | [Ana Astahel](https://open.spotify.com/track/0DQQIvNQ5YM1Ci6znjvRb9) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Ana Astahel](https://open.spotify.com/album/21cNpmRbUJCv2ojUk3CmGn) | 4:06 |
-| 3 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 |
-| 4 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 |
+| 2 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 |
+| 3 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 |
+| 4 | [Ana Astahel](https://open.spotify.com/track/0DQQIvNQ5YM1Ci6znjvRb9) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Ana Astahel](https://open.spotify.com/album/21cNpmRbUJCv2ojUk3CmGn) | 4:06 |
 | 5 | [Nar](https://open.spotify.com/track/1KFRIHZppFpLIQXhyVjniO) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Nar](https://open.spotify.com/album/2Ls4sAGfO30G9Tuhsu3HKI) | 4:28 |
 | 6 | [Er7am 7ali](https://open.spotify.com/track/6SgEZAjgJCjqunDi1bKJfR) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Er7am 7ali](https://open.spotify.com/album/7bzq1yir1DHiQSS8E2B5hX) | 4:31 |
 | 7 | [Ethkart](https://open.spotify.com/track/22g7S2odtoInanZZMAP4Dx) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Ethkart](https://open.spotify.com/album/5gNs2z7e2NbM76jZN9WOs4) | 3:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 50 | [Taal Nteer](https://open.spotify.com/track/6Zry9g2l8WFpoX83Lky6sq) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN), [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Taal Nteer](https://open.spotify.com/album/75rhxEVGf6zhVpWV8tZ7JE) | 4:20 |
 | 51 | [Allah Shahid](https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Allah Shahid](https://open.spotify.com/album/5oIMyoc9iYzGFemCMxoIcR) | 4:19 |
 
-Snapshot ID: `MTY1NDg0NTcwNSwwMDAwMDEyODAwMDAwMTgxNGM3ZDhjY2UwMDAwMDE4MTI5OGY1YTYy`
+Snapshot ID: `MTY1NDk0MzYyNiwwMDAwMDEyOTAwMDAwMTgxNTI1M2IzODMwMDAwMDE4MTI5OGY1YTYy`

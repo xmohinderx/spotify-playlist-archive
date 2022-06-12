@@ -4,7 +4,7 @@
 
 > Lo\-Fi, Beats, for Study and Focus\. Relax...
 
-102 songs - 4 hr 8 min - not published yet
+102 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

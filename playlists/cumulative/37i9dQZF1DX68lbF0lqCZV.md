@@ -4,7 +4,7 @@
 
 > Con mucho corazón 💘
 
-50 songs - 2 hr 46 min - not published yet
+50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/0aaLX15Eigcd4crhSdFB90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

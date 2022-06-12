@@ -4,7 +4,7 @@
 
 > The biggest 00s hits from Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 
-106 songs - 6 hr 51 min - not published yet
+106 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/1ynosKRh1qAFE5dJbCyAPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

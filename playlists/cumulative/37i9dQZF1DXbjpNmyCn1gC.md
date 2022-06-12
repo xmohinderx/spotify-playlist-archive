@@ -4,7 +4,7 @@
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-115 songs - 7 hr 30 min - not published yet
+115 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/34zjMk59cqmuykb2g015hQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

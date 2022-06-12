@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-10",
   "description": "Rock that was on repeat during the summers of the 1970s.",
   "name": "70s Summer Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2cyQ6dmMAqrX0JrBpZloRA"
+  ],
   "tracks": [
     {
       "album": {
@@ -143,7 +145,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 238146,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD"
@@ -251,7 +253,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 168826,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/4scS449npSaFolwj9b4RJD"
@@ -413,7 +415,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 231546,
       "name": "Do Anything You Want To",
       "url": "https://open.spotify.com/track/2lAbLCbTklfVd0YqeM3hSI"
@@ -539,7 +541,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
@@ -647,7 +649,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
@@ -773,7 +775,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 210253,
       "name": "Jesus Just Left Chicago - 2006 Remaster",
       "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
@@ -1014,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -1151,7 +1171,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 201560,
       "name": "Moonshine Sally",
       "url": "https://open.spotify.com/track/68AHScwgPtIxHOZnljOTZ3"
@@ -1295,7 +1315,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 237440,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
@@ -1767,7 +1787,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 241572,
       "name": "The Wall Street Shuffle",
       "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"

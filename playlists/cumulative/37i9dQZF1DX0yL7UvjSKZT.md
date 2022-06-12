@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-145 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+146 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [I Don't Know](https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs) | [The Slocan Ramblers](https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk) | [I Don't Know](https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll) | 4:07 | 2022-05-13 |  |
 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 | 2022-01-07 |  |
 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
+| [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 | 2022-06-11 |  |
 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 | 2022-02-25 |  |
 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 | 2021-10-01 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-01 | 2022-01-22 |
@@ -114,7 +115,7 @@
 | [Sometimes it Does](https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N) | 1:59 | 2021-10-01 |  |
 | [Stay a While](https://open.spotify.com/track/6Sp7ioZJNeGQQYsEHUjpS6) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Stay a While](https://open.spotify.com/album/4Uyqd3HBi5Hh0MQO8cMnO0) | 2:33 | 2022-04-22 |  |
 | [Steampipe Coffee](https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu), [Jeff Sipe](https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr) | [Steampipe Coffee](https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7) | 4:49 | 2022-05-13 |  |
-| [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-10-01 |  |
+| [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-10-01 | 2022-06-12 |
 | [Strange Winds](https://open.spotify.com/track/3XepsxnFOALoHKxabNZ8TF) | [Rev Ezra](https://open.spotify.com/artist/3kxPC4Jstp20P1xWvdMoVB) | [Strange Winds](https://open.spotify.com/album/1yOfDbta0Oc1Wn90Z4gDyy) | 3:24 | 2022-04-22 |  |
 | [Stress Dreams](https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx) | 8:01 | 2022-01-07 |  |
 | [Stuck on Your Mind \- Audiotree Live Version](https://open.spotify.com/track/35yqG3NlZFbOr6mJ80qvzQ) | [Horseshoes & Hand Grenades](https://open.spotify.com/artist/4nl7okSNAZuu9DWr9jkzSs) | [Horseshoes & Hand Grenades on Audiotree Live \- EP](https://open.spotify.com/album/4MYtNl13xrjuBRfTT1An11) | 4:17 | 2021-10-01 | 2022-01-22 |
@@ -151,7 +152,7 @@
 | [You Are My Sunshine](https://open.spotify.com/track/036wosWhY0P3ibCFRQLgbw) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/1ce4TJnN4Hn9km24yisiep) | 3:20 | 2021-10-15 | 2022-01-08 |
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 | 2022-01-22 |
 | [You Look Like Trouble \- But I Guess I Do Too](https://open.spotify.com/track/7KVUUbgwJsr5upohiyQkW7) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Highways Heartaches and Time Well Wasted \- EP](https://open.spotify.com/album/1mHrAySciYSR2nZIRpuBg5) | 3:45 | 2021-10-01 |  |
-| [You Never Told Me I Was Pretty](https://open.spotify.com/track/60L5IGUFyaYbq5trTeXris) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [You Never Told Me I Was Pretty](https://open.spotify.com/album/1eeJNt5xneBYT3kqOFmMap) | 3:42 | 2022-03-25 |  |
+| [You Never Told Me I Was Pretty](https://open.spotify.com/track/60L5IGUFyaYbq5trTeXris) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [You Never Told Me I Was Pretty](https://open.spotify.com/album/1eeJNt5xneBYT3kqOFmMap) | 3:42 | 2022-03-25 | 2022-06-12 |
 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2021-10-01 | 2022-04-23 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

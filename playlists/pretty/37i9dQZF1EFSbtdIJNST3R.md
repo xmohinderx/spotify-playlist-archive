@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 16 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 |
 | 17 | [Echte Meisjes Huilen Niet](https://open.spotify.com/track/2khV5bt8Hdz8l8u1dQ9Odl) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/5QjL1KT0rE9RIIJpGxJ2pm) | 2:17 |
 | 18 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
-| 19 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
-| 20 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Hallo, Dit Is Je Ex](https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI) | 2:31 |
+| 19 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Hallo, Dit Is Je Ex](https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI) | 2:31 |
+| 20 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
 | 21 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
 | 22 | [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 |
 | 23 | [Sum Like That](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sum Like That](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 29 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 | 30 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
 
-Snapshot ID: `Mjc1ODE3ODIsMDAwMDAwMDA5YmVjODNiZWUyMjQ3YTBjMDAyYzYyM2RkZGQ0Mjk0NA==`
+Snapshot ID: `Mjc1ODMyMjIsMDAwMDAwMDAxYzY4YjBlYjc2MDNmMmJkMGM3MmNjMTQ3ZmY5MzNjOQ==`

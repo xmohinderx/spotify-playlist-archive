@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Snarky Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,432 likes - 85 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,632 likes - 85 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 12 | [Juneteenth](https://open.spotify.com/track/0A5bqGbPxnzT5A6Ytzn22l) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Juneteenth](https://open.spotify.com/album/3MlKaVcAPRY4dnKZ0oRcyy) | 4:06 |
 | 13 | [Ruby Dance](https://open.spotify.com/track/4jVJyn1mluD7WzJIHR4Nf0) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Ruby Dance](https://open.spotify.com/album/4YccJYrjqmnsHMefOaOS19) | 6:32 |
 | 14 | [Two\-Tone](https://open.spotify.com/track/53GzYKDzQbVxZLPv1LLg66) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [SUPERSTORE](https://open.spotify.com/album/6pg3XdudiTtiA457uOudNQ) | 2:43 |
-| 15 | [Always and Forever](https://open.spotify.com/track/4d99cprqBqicUIpKDvVAox) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Always and Forever](https://open.spotify.com/album/6FPEOzQC7mxRgWlYm0q4Du) | 4:33 |
+| 15 | [Always and Forever](https://open.spotify.com/track/4d99cprqBqicUIpKDvVAox) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Always and Forever](https://open.spotify.com/album/6FPEOzQC7mxRgWlYm0q4Du) | 4:33 |
 | 16 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 |
 | 17 | [The Last Song \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron & Justin Stanton\)](https://open.spotify.com/track/6cAQCcRC7HeIxxQ5EdxI9k) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Dirty Mindz](https://open.spotify.com/album/3BSfTSY5q7tNeZgWw7nC6H) | 9:18 |
 | 18 | [Circadian](https://open.spotify.com/track/2H2t8HCFkE2TIN8xik7wGE) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Circadian](https://open.spotify.com/album/4dehc9Rahv4v6Fd3YvXaSb) | 2:41 |

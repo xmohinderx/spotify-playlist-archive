@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,917 likes - 110 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,976 likes - 110 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 29 | [Ask for the Rhythm](https://open.spotify.com/track/0aXU3XPBwYN8QzkjvmnLic) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG), [Joey Martinez G](https://open.spotify.com/artist/517y65DlFIKNgVVPSNJUHe) | [Amapola](https://open.spotify.com/album/7z60Si2DbAvtYKL4jS0pej) | 1:36 |
 | 30 | [Do Understand](https://open.spotify.com/track/4EM29o6NRkqkcGYZsVUdx5) | [Alex Dumpty](https://open.spotify.com/artist/6U5fHzqa2qiHqlYPzGTB7I) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 2:14 |
 | 31 | [Doping](https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw) | [DOPE90](https://open.spotify.com/artist/5PvSb8IlXP6e2rX6Pwoj8u), [Kovsh](https://open.spotify.com/artist/08g5Q6KdzrLJsXxoZzqDmB) | [Sputnik](https://open.spotify.com/album/7osdfCoxMwonsdCbZKSgf3) | 3:08 |
-| 32 | [Just Visiting](https://open.spotify.com/track/0dGgdtd0Y5JyPaOPDna8VE) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV) | [Just Visiting](https://open.spotify.com/album/1tGG3bDpld3wlMsVqJlpPX) | 1:58 |
+| 32 | [Just Visiting](https://open.spotify.com/track/0dGgdtd0Y5JyPaOPDna8VE) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Just Visiting](https://open.spotify.com/album/1tGG3bDpld3wlMsVqJlpPX) | 1:58 |
 | 33 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 |
 | 34 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 | 35 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 |

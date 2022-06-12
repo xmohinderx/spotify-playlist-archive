@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Jimmy Eat World
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,472 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,723 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 36 | [Keep Up Until It Bleeds](https://open.spotify.com/track/7FMF5tM8SyGbw7o6pCOKYZ) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Keep Up Until It Bleeds](https://open.spotify.com/album/4wyMHDo55NpyDa14Bc5S4c) | 4:31 |
 | 37 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 |
 | 38 | [Dauphin](https://open.spotify.com/track/2WeRxYxRptbz72Jj4w0C5r) | [MAYPINE](https://open.spotify.com/artist/5AwwX1P1Saf9dw2nq3oclb) | [Dauphin](https://open.spotify.com/album/6Sry9tPW827PSGY34KdxKW) | 4:08 |
-| 39 | [Maps](https://open.spotify.com/track/167tDWa5sIiIg7aDeOnqo5) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Halo DLX](https://open.spotify.com/album/0s71ljtNA4sGhQ8kjUsFh9) | 3:29 |
-| 40 | [Gingerbread Man](https://open.spotify.com/track/4OYNhNCw8u1P7AlyVBUj9Q) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [1st Congregational Church of Eternal Love and Free Hugs](https://open.spotify.com/album/5529UlgQxgJGMifcqZlV8T) | 3:50 |
+| 39 | [Maps](https://open.spotify.com/track/167tDWa5sIiIg7aDeOnqo5) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [HALO DLX](https://open.spotify.com/album/0s71ljtNA4sGhQ8kjUsFh9) | 3:29 |
+| 40 | [Gingerbread Man](https://open.spotify.com/track/4OYNhNCw8u1P7AlyVBUj9Q) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [1st Congregational Church of Eternal Love \(And Free Hugs\)](https://open.spotify.com/album/5529UlgQxgJGMifcqZlV8T) | 3:50 |
 | 41 | [Fata Morgana](https://open.spotify.com/track/24h3RnZnm3hUcWQ9AF52wt) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Fata Morgana](https://open.spotify.com/album/39VJJiyzmfThN6s8IJmSZ5) | 3:22 |
 | 42 | [Golden Woman](https://open.spotify.com/track/1T3H1dYVlvYrt8Jmbp1Ui0) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Golden Woman](https://open.spotify.com/album/4iNkJBmqNBp69kfaLTrVGm) | 3:08 |
 | 43 | [El Jardín](https://open.spotify.com/track/6cdEcO8G4obGSuky29W74j) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [El Jardín](https://open.spotify.com/album/4nWaA1dHC0dyC2beAI2ZLL) | 3:45 |

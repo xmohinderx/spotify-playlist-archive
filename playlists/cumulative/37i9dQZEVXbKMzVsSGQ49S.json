@@ -2547,7 +2547,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 193320,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5BsDtyRfgUW4ZyJ2iUSjkX"
@@ -6909,7 +6909,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -7732,6 +7732,32 @@
     },
     {
       "album": {
+        "name": "K\u00fareki (feat. Daniil & Joey Christ)",
+        "url": "https://open.spotify.com/album/2m3t477BofP7dq2qdmkD4g"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maraj",
+          "url": "https://open.spotify.com/artist/2ot1BrqrtRXWOgvlv4PxLl"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Joey Christ",
+          "url": "https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220868,
+      "name": "K\u00fareki (feat. Daniil & Joey Christ)",
+      "url": "https://open.spotify.com/track/3Y8roJVQA2uH573jNSTR0z"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -7889,6 +7915,24 @@
       "duration_ms": 191076,
       "name": "Leggstu h\u00e9r hj\u00e1 m\u00e9r",
       "url": "https://open.spotify.com/track/2tFrSFvGDjGpBP4pWAURpI"
+    },
+    {
+      "album": {
+        "name": "D3POSIT2",
+        "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148441,
+      "name": "LEI\u00d0UR INN \u00c1 KL\u00daBB",
+      "url": "https://open.spotify.com/track/0KZetrBeAhkD6mvrYoVueO"
     },
     {
       "album": {
@@ -8269,7 +8313,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
@@ -9019,7 +9063,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -9041,6 +9085,24 @@
       "duration_ms": 165442,
       "name": "MEIRA",
       "url": "https://open.spotify.com/track/3sajnpFxSNBjJNSR9ytFlN"
+    },
+    {
+      "album": {
+        "name": "D3POSIT2",
+        "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148441,
+      "name": "MEIRA SH!T",
+      "url": "https://open.spotify.com/track/6dnjcLZcEtv3ta6ZeZLoPP"
     },
     {
       "album": {
@@ -11635,7 +11697,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 298283,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/4mhxzwOdKdyM0HOeCutQWe"
@@ -11657,6 +11719,24 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "album": {
+        "name": "D3POSIT2",
+        "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136753,
+      "name": "SANNA MIG",
+      "url": "https://open.spotify.com/track/6YR2dZAXITSa3MN6FRsUBq"
     },
     {
       "album": {
@@ -13190,6 +13270,24 @@
     },
     {
       "album": {
+        "name": "D3POSIT2",
+        "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132077,
+      "name": "SVART H\u00c1R REMIX",
+      "url": "https://open.spotify.com/track/0DWoFj9EpmSYltKbHkL42f"
+    },
+    {
+      "album": {
         "name": "ANDI, L\u00cdF, HJARTA, S\u00c1L",
         "url": "https://open.spotify.com/album/7z3kzUHg0g0UuSsjAvog0m"
       },
@@ -14609,7 +14707,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"

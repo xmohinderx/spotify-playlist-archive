@@ -4,7 +4,7 @@
 
 > A classic playlist full of favorites of the 80s including Def Leppard, Bryan Adams and more!
 
-66 songs - 4 hr 28 min - not published yet
+66 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/3bzZIvwpqlDHx5QrRZ6uGM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

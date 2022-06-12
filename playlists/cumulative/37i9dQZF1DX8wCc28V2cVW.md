@@ -4,7 +4,7 @@
 
 > FFVII REMAKE O.S.Tから楽曲追加！ 緻密な映像美と豊かな物語性で世界中から愛されている最高峰RPGシリーズ、ファイナルファンタジーの珠玉の名曲集。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-80 songs - 4 hr 55 min - not published yet
+80 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/3qOfVSEpSo7k19vrRoavNS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

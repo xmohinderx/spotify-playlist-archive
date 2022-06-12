@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,363 likes - 84 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,395 likes - 84 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

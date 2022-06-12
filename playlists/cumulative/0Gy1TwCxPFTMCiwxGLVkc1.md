@@ -4,7 +4,7 @@
 
 > Looking for pop music that's safe to play at work \(or in front of the kids when you're working from home\)? This playlist is for you!
 
-31 songs - 1 hr 41 min - not published yet
+31 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-92 songs - 4 hr 49 min - not published yet
+92 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

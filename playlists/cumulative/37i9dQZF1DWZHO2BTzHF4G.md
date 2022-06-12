@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2000s.
 
-100 songs - 6 hr 30 min - not published yet
+100 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6dFdmMiL6Go999QqBaJzZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

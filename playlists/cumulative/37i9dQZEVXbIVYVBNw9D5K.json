@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "200 M\u0130LYAR",
+        "url": "https://open.spotify.com/album/5TXdEcUOwCGqvWWVQdtybe"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126022,
+      "name": "200 M\u0130LYAR",
+      "url": "https://open.spotify.com/track/3Z14anmq3j3aKSVd81sCQz"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
       },
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 193805,
       "name": "Ar\u0131yorum",
       "url": "https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 186706,
       "name": "Bilmem Mi?",
       "url": "https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 231369,
       "name": "Bu Saatten Sonra",
       "url": "https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu"
@@ -1913,6 +1931,24 @@
       "duration_ms": 165408,
       "name": "Bulamazd\u0131m",
       "url": "https://open.spotify.com/track/7Cj6NfRguxo57WTRjtKfV7"
+    },
+    {
+      "album": {
+        "name": "Bunlar Anlamaz",
+        "url": "https://open.spotify.com/album/0qAhJoMliWOFN2os85qYAK"
+      },
+      "artists": [
+        {
+          "name": "Ben Fero",
+          "url": "https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117784,
+      "name": "Bunlar Anlamaz",
+      "url": "https://open.spotify.com/track/6gGnbyMVDWulzCHtPvpxRh"
     },
     {
       "album": {
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 152559,
       "name": "Ferag\u00e2t",
       "url": "https://open.spotify.com/track/72EjrX3xp4Ea2nhQRY6LMI"
@@ -3677,7 +3713,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 156206,
       "name": "Hadi \u00c7al",
       "url": "https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT"
@@ -4429,6 +4465,24 @@
       "duration_ms": 189500,
       "name": "Kader",
       "url": "https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY"
+    },
+    {
+      "album": {
+        "name": "Kafa Tatili",
+        "url": "https://open.spotify.com/album/1kj82OlvIWJcIOx4LupuuF"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179621,
+      "name": "Kafa Tatili",
+      "url": "https://open.spotify.com/track/365h8PI7fkpQMYWpk4HHC1"
     },
     {
       "album": {
@@ -8423,6 +8477,24 @@
       "duration_ms": 177580,
       "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
       "url": "https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf"
+    },
+    {
+      "album": {
+        "name": "Zeki M\u00fcren",
+        "url": "https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135908,
+      "name": "Zeki M\u00fcren",
+      "url": "https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL"
     },
     {
       "album": {

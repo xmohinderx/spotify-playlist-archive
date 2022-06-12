@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 326000,
       "name": "Control Machine",
       "url": "https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 494968,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 303428,
       "name": "Foresight",
       "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 573333,
       "name": "Heaven Eleven",
       "url": "https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 189254,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng"
@@ -2319,7 +2319,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 538539,
       "name": "Shores of The Subconscious",
       "url": "https://open.spotify.com/track/5H0qHxv8gIcMfpyDNis7iU"
@@ -2811,7 +2811,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -2833,10 +2833,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 322250,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/5NO5KgBLdWdD3oMWWL8CEB"
+    },
+    {
+      "album": {
+        "name": "Water Is Life",
+        "url": "https://open.spotify.com/album/0E6AoFodwPylN7AcgFBMJM"
+      },
+      "artists": [
+        {
+          "name": "Phenomenal",
+          "url": "https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU"
+        },
+        {
+          "name": "Miirage",
+          "url": "https://open.spotify.com/artist/6w716f7d5r850erAdyJjzA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374278,
+      "name": "Water Is Life",
+      "url": "https://open.spotify.com/track/43y8VDnBiV5q9eKlSk1aoA"
     },
     {
       "album": {
@@ -2873,7 +2895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
@@ -2965,7 +2987,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"

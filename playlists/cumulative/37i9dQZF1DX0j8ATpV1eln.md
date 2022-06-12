@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-73 songs - 4 hr 51 min - not published yet
+73 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

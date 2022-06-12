@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 174692,
       "name": "Carino Mio",
       "url": "https://open.spotify.com/track/0jobOWmn5t5VmSXkld0SWi"
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Lagrimas",
+        "url": "https://open.spotify.com/album/0JN8mZ3miJNMroapco383C"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138226,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
+    },
+    {
+      "album": {
         "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
         "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 212666,
       "name": "Me Llega, Me Llega",
       "url": "https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 116693,
       "name": "Que Tal Si Te Compro",
       "url": "https://open.spotify.com/track/0uCuMs49RrVr6aTAjItT8c"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 201573,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/7oFrzDDNmPCGbPDnvYdZXv"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Volv\u00ed A Mi Finca De Adobe",
       "url": "https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp"

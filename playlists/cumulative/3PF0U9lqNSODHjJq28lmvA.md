@@ -4,7 +4,7 @@
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-64 songs - 3 hr 50 min - not published yet
+64 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/3jiEnkgtFoBVGgNkQaHpJi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

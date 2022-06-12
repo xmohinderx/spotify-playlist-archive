@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -541,6 +541,40 @@
       "duration_ms": 177491,
       "name": "Ajax",
       "url": "https://open.spotify.com/track/7AZhm74e7vLOa1Aruw4WK7"
+    },
+    {
+      "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        },
+        {
+          "name": "Nuki",
+          "url": "https://open.spotify.com/artist/5VyuxeMadrk0YwzaSplggN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "Akropoli",
+      "url": "https://open.spotify.com/track/1X96wYrlbgvTsdnMP0YzcR"
     },
     {
       "album": {
@@ -1419,7 +1453,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 201521,
       "name": "Aya",
       "url": "https://open.spotify.com/track/1oa2VjfQHY3jOMhr4INBOf"
@@ -1639,7 +1673,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 180000,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0vDBi13nyH5IA0bE6j8oV1"
@@ -4238,6 +4272,32 @@
     },
     {
       "album": {
+        "name": "Egw Ki Esy",
+        "url": "https://open.spotify.com/album/6Az4jJ1gutegsszavSJXsB"
+      },
+      "artists": [
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/21sZyR7G75dNav5foqjApa"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182913,
+      "name": "Egw Ki Esy",
+      "url": "https://open.spotify.com/track/4bn7uGPFqouyMIXnnXx4KU"
+    },
+    {
+      "album": {
         "name": "Eipes Tha Figeis",
         "url": "https://open.spotify.com/album/0pWX92zcZPZOTRvGWtH4bk"
       },
@@ -4822,6 +4882,32 @@
     },
     {
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Filaki",
+      "url": "https://open.spotify.com/track/4QLernO4WGAbsKgzs8LPOl"
+    },
+    {
+      "album": {
         "name": "Fimi",
         "url": "https://open.spotify.com/album/0BI7ftzriehdJ5tm1ftFze"
       },
@@ -5340,6 +5426,24 @@
     },
     {
       "album": {
+        "name": "Gennimeni",
+        "url": "https://open.spotify.com/album/7w7bXS8fVJU52na0dbVqTC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230517,
+      "name": "Gennimeni",
+      "url": "https://open.spotify.com/track/4ZhJ5N8Er4CfpaNakUQTkP"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -5439,7 +5543,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 127205,
       "name": "GINA",
       "url": "https://open.spotify.com/track/4XtCM0qWk51wpqwaOTrSmc"
@@ -6602,6 +6706,24 @@
     },
     {
       "album": {
+        "name": "Industry",
+        "url": "https://open.spotify.com/album/1bsZkAYySHpLDm2wcdS0nQ"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Industry",
+      "url": "https://open.spotify.com/track/1ODYYaM8rRgERr6WV3ZWiJ"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -6731,7 +6853,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
@@ -7096,6 +7218,32 @@
     },
     {
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Kardia Mou",
+      "url": "https://open.spotify.com/track/4kdhUBdBQCEjqbC961YW1L"
+    },
+    {
+      "album": {
         "name": "Kathikon",
         "url": "https://open.spotify.com/album/7d3k9aWkP4DCWJTYzW4v9h"
       },
@@ -7445,7 +7593,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 150683,
       "name": "Koala",
       "url": "https://open.spotify.com/track/1JbxABWzusKkMdr1QYsGsi"
@@ -9626,6 +9774,28 @@
     },
     {
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "Mikri",
+      "url": "https://open.spotify.com/track/2h6a8AGzI8XBnhYbVHzMJ4"
+    },
+    {
+      "album": {
         "name": "TOPBOY",
         "url": "https://open.spotify.com/album/6y1IrK4qfYlztsk6qvGnra"
       },
@@ -10181,7 +10351,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 211188,
       "name": "Mporei",
       "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
@@ -10437,7 +10607,7 @@
       ],
       "date_added": "2021-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 196271,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7"
@@ -11978,6 +12148,36 @@
     },
     {
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163695,
+      "name": "Pote",
+      "url": "https://open.spotify.com/track/1FiFx6yye9FhrDkuu71NJa"
+    },
+    {
+      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa"
       },
@@ -12345,6 +12545,54 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182033,
+      "name": "Pyrkagia",
+      "url": "https://open.spotify.com/track/5rHMm3EnBfYhenxew4FzEn"
+    },
+    {
+      "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Qatar",
+      "url": "https://open.spotify.com/track/3RCOLt9WwbOe434IPx0jHg"
     },
     {
       "album": {
@@ -13137,7 +13385,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 182582,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/55Iej8nAWkAD7QlgQfpiJp"
@@ -15539,7 +15787,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 174857,
       "name": "Veres",
       "url": "https://open.spotify.com/track/05s7o2edFCH1IWwQdCPXnf"

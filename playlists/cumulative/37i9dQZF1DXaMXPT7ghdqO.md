@@ -4,7 +4,7 @@
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-96 songs - 6 hr 8 min - not published yet
+96 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/2YLxuzSVg17WJrVNq1unKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

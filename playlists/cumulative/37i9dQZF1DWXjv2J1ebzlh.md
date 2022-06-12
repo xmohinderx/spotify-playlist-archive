@@ -4,7 +4,7 @@
 
 > The magical world map!
 
-760 songs - 2 day 0 hr 46 min - not published yet
+760 songs - 2 day 0 hr 46 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

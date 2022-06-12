@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Van Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,843 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,854 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Surrender To The Rhythm](https://open.spotify.com/track/1giGzzU08U4XCp5kRlJaev) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Rusty](https://open.spotify.com/artist/2TaXM3fb6luoBVLvLaZkZT) | [The Resurrection Of Rust](https://open.spotify.com/album/4O3UZEJ5erCdxwq1UxYigP) | 3:41 |
+| 1 | [Surrender To The Rhythm](https://open.spotify.com/track/1giGzzU08U4XCp5kRlJaev) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Rusty](https://open.spotify.com/artist/66bIf61b6SKblDQ06KHrfA) | [The Resurrection Of Rust](https://open.spotify.com/album/4O3UZEJ5erCdxwq1UxYigP) | 3:41 |
 | 2 | [Firecracker](https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Firecracker](https://open.spotify.com/album/3KETmuy3XHOCpqJSyBoYXD) | 3:50 |
 | 3 | [Long Shot](https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [He Sang She Sang](https://open.spotify.com/album/6apzcsmHj4RWqxWPycVsFr) | 4:33 |
 | 4 | [The Man with the Double Face \- Single Edit](https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Man with the Double Face](https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd) | 3:23 |

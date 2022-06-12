@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        },
+        {
+          "name": "Jason Sellers",
+          "url": "https://open.spotify.com/artist/5TRj3DqC4pcZaTIGFq99Bg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256399,
+      "name": "A Little Past Little Rock",
+      "url": "https://open.spotify.com/track/0ieL9hQJOHdlnyeOoBv768"
+    },
+    {
+      "album": {
         "name": "Strait From The Heart",
         "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
       },
@@ -199,7 +221,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 170813,
       "name": "Boots On",
       "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
@@ -469,7 +491,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 227198,
       "name": "Dancing Away with My Heart",
       "url": "https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM"
@@ -931,7 +953,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 272866,
       "name": "I May Hate Myself In The Morning",
       "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
@@ -989,6 +1011,24 @@
       "duration_ms": 208365,
       "name": "I'd Do It Different",
       "url": "https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc"
+    },
+    {
+      "album": {
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "I'll Think Of A Reason Later",
+      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
     },
     {
       "album": {
@@ -1325,7 +1365,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 196880,
       "name": "Me on You",
       "url": "https://open.spotify.com/track/68yrOD2q0Chbbd5BEsj7aM"
@@ -2121,7 +2161,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Three Chords and the Truth",
       "url": "https://open.spotify.com/track/5JQ6WqccFWUY3A6rW1Zh7v"
@@ -2211,7 +2251,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"

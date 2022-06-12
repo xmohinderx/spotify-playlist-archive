@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408 likes - 106 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 106 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 37 | [Delete](https://open.spotify.com/track/57cb34V8SkdHvKZuwOtQ2W) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh) | [KOYOTE X Linda G](https://open.spotify.com/album/4c7R5QQbHXU9YKBJs88KAb) | 3:21 |
 | 38 | [Do You Wanna Know](https://open.spotify.com/track/4zkeHAz0ccaKfspti6NUTs) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:22 |
 | 39 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
-| 40 | [Weep In The Moonlight](https://open.spotify.com/track/3wVHFEQtLwoCOCI1tgi8P6) | [Jellyboy](https://open.spotify.com/artist/5iZz51YRPFZ3Ym9WZOOUH0), [고냉](https://open.spotify.com/artist/3W0coM6R42aOzFN7BpDZoX) | [Weep In The Moonlight](https://open.spotify.com/album/3QmhhKBPo20DriUAHE6abW) | 4:32 |
+| 40 | [Weep In The Moonlight \(feat\. 고냉\)](https://open.spotify.com/track/3wVHFEQtLwoCOCI1tgi8P6) | [Jellyboy](https://open.spotify.com/artist/5iZz51YRPFZ3Ym9WZOOUH0), [고냉](https://open.spotify.com/artist/3W0coM6R42aOzFN7BpDZoX) | [Weep In The Moonlight](https://open.spotify.com/album/3QmhhKBPo20DriUAHE6abW) | 4:32 |
 | 41 | [Juliana](https://open.spotify.com/track/6GONQZLIT7Iqe7DWrRXHTx) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [Juliana \(we.MAKE20 \#9\)](https://open.spotify.com/album/34NHZonxGm6OLWnL7jH54j) | 3:26 |
 | 42 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 |
 | 43 | [Alibis](https://open.spotify.com/track/2NuqKld8bDnPRiWYeV3DRR) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:25 |

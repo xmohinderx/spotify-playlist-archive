@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-37 songs - 2 hr 0 min - not published yet
+37 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/0MCrS85VoM1t1atVY1kaao)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

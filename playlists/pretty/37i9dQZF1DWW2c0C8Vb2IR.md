@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,300 likes - 46 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,364 likes - 46 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 12 | [COSMIC INTERCOURSE \(Pt\. II\) \(feat\. Chris Dave\)](https://open.spotify.com/track/22ZVHkx4dhqks7OYF4eOd6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [COSMIC INTERCOURSE \(Pt\. II\) \(feat\. Chris Dave\)](https://open.spotify.com/album/0pI2RJ7PFkmDX3yT04MeFW) | 2:14 |
 | 13 | [In a Sentimental Mood](https://open.spotify.com/track/4nwPv8i1VJlgkiy8vTfGzA) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [In a Sentimental Mood](https://open.spotify.com/album/51mMHyLtEz8eQoNGEtwwL1) | 6:23 |
 | 14 | [TRKNTRKX.MMBL](https://open.spotify.com/track/2U5TGYirUKAfxuWvqOtuWl) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [TRKNTRKX.MMBL](https://open.spotify.com/album/5mp7N97y6VctexUJ0vdcL0) | 3:35 |
-| 15 | [Always and Forever](https://open.spotify.com/track/4d99cprqBqicUIpKDvVAox) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Always and Forever](https://open.spotify.com/album/6FPEOzQC7mxRgWlYm0q4Du) | 4:33 |
+| 15 | [Always and Forever](https://open.spotify.com/track/4d99cprqBqicUIpKDvVAox) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Always and Forever](https://open.spotify.com/album/6FPEOzQC7mxRgWlYm0q4Du) | 4:33 |
 | 16 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 |
 | 17 | [Silence in Tokyo](https://open.spotify.com/track/7B2FdqAAHMIbFIK5eGSN8P) | [H ZETT M](https://open.spotify.com/artist/17y4gk0pde02ye3WgJJwbI) | [Silence in Tokyo](https://open.spotify.com/album/53mfx2JyErenKxG5tXkCVs) | 20:12 |
 | 18 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |

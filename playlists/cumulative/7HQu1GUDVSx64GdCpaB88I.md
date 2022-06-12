@@ -4,7 +4,7 @@
 
 > Get UR 90s Freak ON! Cover: Biggie
 
-91 songs - 6 hr 32 min - not published yet
+91 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/49XqOosYNR0yJVjFXfcBnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

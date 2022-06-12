@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 149883,
       "name": "Coma",
       "url": "https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 200347,
       "name": "Forse Dio",
       "url": "https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 158740,
       "name": "gusto,, paranoia !",
       "url": "https://open.spotify.com/track/5hO7SFzboofb2rKNtA5QHg"
@@ -1392,6 +1392,28 @@
     },
     {
       "album": {
+        "name": "Dove la luce non arriva",
+        "url": "https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs"
+      },
+      "artists": [
+        {
+          "name": "Mael+",
+          "url": "https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n"
+        },
+        {
+          "name": "Puhf",
+          "url": "https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "Punti di vista",
+      "url": "https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt"
+    },
+    {
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 178517,
       "name": "Solita",
       "url": "https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8"
@@ -1751,7 +1773,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 150222,
       "name": "vivere solo",
       "url": "https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm"

@@ -4,7 +4,7 @@
 
 > Grab your hair gel and let's slide back to the 90's Alt Rock scene! Cover: Depeche Mode
 
-82 songs - 5 hr 40 min - not published yet
+82 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/24JwVIN24HR2XePMfwWc4Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

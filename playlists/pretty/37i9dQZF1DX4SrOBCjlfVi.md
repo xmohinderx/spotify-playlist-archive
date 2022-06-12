@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pharrell, XXXTENTACION, Nardo Wick and more\. Cover: Rae Sremmurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,514 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,641 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 23 | [Astronaut Status](https://open.spotify.com/track/1ds6ojrd50ASxDI7T9mNjR) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Astronaut Status](https://open.spotify.com/album/36hbMTp0GKAk6DZqzBxBgk) | 2:34 |
 | 24 | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0fui89rpESfYKoh0e01jdO) | 3:04 |
-| 25 | [Pose \(feat\. Curren$y\)](https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pose \(feat\. Curren$y\)](https://open.spotify.com/album/4BExQf4XQxKdT1NYyjtyR8) | 3:24 |
+| 25 | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/album/4BExQf4XQxKdT1NYyjtyR8) | 3:24 |
 | 26 | [Rolling Stone](https://open.spotify.com/track/7fFDrbW55FNd1Ys7sQgdgf) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee) | [Rolling Stone](https://open.spotify.com/album/6GwbGjsC8nKQVnC8fpKCHQ) | 2:34 |
 | 27 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 |
 | 28 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |

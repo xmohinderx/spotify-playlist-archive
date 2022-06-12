@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 253227,
       "name": "Bad Liar \u2013 Stripped",
       "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/59EFjPF4IB7BJAi1FGzdtY"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 156482,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 222810,
       "name": "Clean Eyes - Acoustic",
       "url": "https://open.spotify.com/track/0SVYWwKsM3ln1k3xXNaeXE"
@@ -372,6 +372,28 @@
     },
     {
       "album": {
+        "name": "Darling This Isn't",
+        "url": "https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0"
+      },
+      "artists": [
+        {
+          "name": "Sorry, Peach",
+          "url": "https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO"
+        },
+        {
+          "name": "Honest Creature",
+          "url": "https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Darling This Isn't",
+      "url": "https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4"
+    },
+    {
+      "album": {
         "name": "Dear You (Act III)",
         "url": "https://open.spotify.com/album/56u1zlkOSdeqzWkkTgp75j"
       },
@@ -391,6 +413,24 @@
       "duration_ms": 215800,
       "name": "Dear You (Act III)",
       "url": "https://open.spotify.com/track/1Li7RAL8KcNUgLL2DdCuaN"
+    },
+    {
+      "album": {
+        "name": "Derek's Song",
+        "url": "https://open.spotify.com/album/1OidglOWIYDhCy8LTw81y3"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Derek's Song",
+      "url": "https://open.spotify.com/track/7BJSeJ9Y5GTKAVXEliENbd"
     },
     {
       "album": {
@@ -604,6 +644,32 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp"
+      },
+      "artists": [
+        {
+          "name": "quiet thrill",
+          "url": "https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG"
+        },
+        {
+          "name": "Joel Ansett",
+          "url": "https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl"
+        },
+        {
+          "name": "Dan DeCristofaro",
+          "url": "https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM"
+    },
+    {
+      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/6YNhHN53ycLCcq0GjAfvsW"
       },
@@ -633,7 +699,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 176939,
       "name": "Heartshaker - Acoustic",
       "url": "https://open.spotify.com/track/6oWeMwp3olTA8zD3ExlNbH"
@@ -691,7 +757,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
@@ -947,7 +1013,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
@@ -1113,7 +1179,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 173400,
       "name": "Little Victories",
       "url": "https://open.spotify.com/track/5SbYDzbgqFwoskAcM73WLl"
@@ -1221,7 +1287,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 197168,
       "name": "More",
       "url": "https://open.spotify.com/track/0RjJ3YHeqcfAF3gSNEaKKD"
@@ -1427,7 +1493,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
@@ -1589,7 +1655,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 198653,
       "name": "Spring Slips Away",
       "url": "https://open.spotify.com/track/6fbCGYKjzc4dGH2xU0CLsd"
@@ -1665,7 +1731,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
@@ -1957,7 +2023,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 145217,
       "name": "Whiplash - Acoustic",
       "url": "https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV"

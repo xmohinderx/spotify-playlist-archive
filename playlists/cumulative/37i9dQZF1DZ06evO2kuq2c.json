@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Day in Day Out",
+      "url": "https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H"
+    },
+    {
+      "album": {
         "name": "Daybreaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 217080,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz"

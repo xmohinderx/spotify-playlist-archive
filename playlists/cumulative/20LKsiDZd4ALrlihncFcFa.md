@@ -4,7 +4,7 @@
 
 > The ultimate 90s alt rock playlist featuring Foo Fighters, Pearl Jam, Rage Against the Machine &amp; more!
 
-100 songs - 6 hr 35 min - not published yet
+100 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/7ztpjI8NIyZTv7HF3VWiBX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

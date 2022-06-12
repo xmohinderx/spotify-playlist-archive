@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-50 songs - 2 hr 51 min - not published yet
+50 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

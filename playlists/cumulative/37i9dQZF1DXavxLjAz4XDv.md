@@ -4,7 +4,7 @@
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-60 songs - 2 hr 38 min - not published yet
+60 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3pyCLmWdflZtbUMknvlqpy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

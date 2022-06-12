@@ -4,7 +4,7 @@
 
 > Your go\-to playlist for this week's hottest music featuring Pharrell, Harry Styles &amp; more!
 
-32 songs - 1 hr 31 min - not published yet
+32 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/75s0XbdgHXKxghQ09Qc5k3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

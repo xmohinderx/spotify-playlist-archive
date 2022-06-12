@@ -4,7 +4,7 @@
 
 > Gentle classical music for you and your baby, proven to stimulate your little one's brain activity in the womb during pregnancy, and as a newborn.
 
-31 songs - 2 hr 11 min - not published yet
+31 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/5s3iya5E2BVzDzselFqVXh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > A Luiza preparou uma playlist especial pro momento de autocuidado <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,134 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,125 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/1axArDrl7n4M3QZMNN0XMs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:42 |
 | 50 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 |
 
-Snapshot ID: `MTY1NDkwOTIyMCwwMDAwMDAwMGY2ODAyNTg5YzBjMzYwODI0OGYyZDRmODlkMmY3ZmIy`
+Snapshot ID: `MTY1NDk5NTk2MCwwMDAwMDAwMGY2ODAyNTg5YzBjMzYwODI0OGYyZDRmODlkMmY3ZmIy`

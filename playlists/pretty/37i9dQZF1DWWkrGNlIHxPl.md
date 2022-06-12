@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > DJ Snake takeover Arab X for the release of Disco Maghreb\. Check out hand picked tracks that inspired him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,987 likes - 32 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,062 likes - 32 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-88 songs - 6 hr 7 min - not published yet
+88 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

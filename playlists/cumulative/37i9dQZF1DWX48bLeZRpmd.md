@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©N,K/Q　©N,K/Q2　©N,K/GM
 
-47 songs - 2 hr 32 min - not published yet
+47 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/62tGCSpgpxlmk3AbALLneu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,814 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,941 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 |
+| 1 | [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 |
 | 2 | [Historinha](https://open.spotify.com/track/7byTUdupcQ5dSRd3D9jAQo) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Historinha](https://open.spotify.com/album/1uYOEODOSLvUkdKB1VZTjU) | 2:19 |
 | 3 | [12 Chivas](https://open.spotify.com/track/0WwhC11l4afABOd1rSntp3) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [12 CHIVAS](https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo) | 2:55 |
 | 4 | [ye](https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [ye](https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P) | 2:47 |

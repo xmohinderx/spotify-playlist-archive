@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-103 songs - 7 hr 20 min - not published yet
+103 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

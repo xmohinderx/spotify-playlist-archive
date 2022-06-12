@@ -1,12 +1,12 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Beach Bunny",
-  "num_followers": 94802,
+  "num_followers": 94830,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDE2NjAwMDAwMTgxNGJjNGQ2ZDAwMDAwMDE4MTRhZTQ1NGJj",
+  "snapshot_id": "MTY1NDkyNTMxOCwwMDAwMDE2NzAwMDAwMTgxNTEzYzU5YWEwMDAwMDE4MTRhZTQ1NGJj",
   "tracks": [
     {
       "added_at": "2022-06-10 04:00:00",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
+      "added_at": "2022-06-11 05:28:38",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/70HeUV33B447KbycGdxC6D"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "duration_ms": 197459,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "SWIRL",
@@ -667,26 +683,6 @@
       "duration_ms": 236493,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "OH HEY",
-        "url": "https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        },
-        {
-          "name": "L\u00dcCY",
-          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
-        }
-      ],
-      "duration_ms": 237782,
-      "name": "OH HEY",
-      "url": "https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU"
     },
     {
       "added_at": "2022-06-10 04:00:00",

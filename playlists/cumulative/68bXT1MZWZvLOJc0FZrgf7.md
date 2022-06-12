@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Deorro &amp; Ally Brooke
 
-151 songs - 7 hr 57 min - not published yet
+151 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

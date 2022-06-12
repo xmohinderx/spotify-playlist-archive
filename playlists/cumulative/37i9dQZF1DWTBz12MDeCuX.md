@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-79 songs - 3 hr 55 min - not published yet
+79 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

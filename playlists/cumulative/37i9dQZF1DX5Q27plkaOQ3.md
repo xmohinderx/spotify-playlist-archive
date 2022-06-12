@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Kai Wachi.
 
-180 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+181 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 |  |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 |  |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
+| [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 |  |
 | [Destiny](https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Destiny](https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm) | 4:28 | 2021-12-17 | 2022-05-07 |
 | [Destroyer](https://open.spotify.com/track/19z6t2S2gWWvlPwwnqUz4V) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Destroyer](https://open.spotify.com/album/3vPigQ0lyiT4gqmiijHKYe) | 3:33 | 2021-12-17 |  |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 |  |
@@ -80,7 +81,7 @@
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-12-17 |  |
 | [Gunshots](https://open.spotify.com/track/3JQMhnfjxYKU9NG8vzjU9s) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Gunshots](https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9) | 3:34 | 2022-02-11 |  |
 | [Habitat](https://open.spotify.com/track/16fy74yXmGeSMk2yqbPlLV) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Habitat](https://open.spotify.com/album/30NTJsLIcuDltdil45Tpnt) | 2:41 | 2021-12-17 |  |
-| [Haxo \-Sharks Remix](https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Graphyt](https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Haxo \(Sharks Remix\)](https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj) | 4:12 | 2022-06-10 |  |
+| [Haxo \-Sharks Remix](https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Graphyt](https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Haxo \(Sharks Remix\)](https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj) | 4:12 | 2022-06-10 | 2022-06-12 |
 | [Heavyweights](https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Energy Timewarp](https://open.spotify.com/album/0RrDWUxUMo5BLBZoGPFUyD) | 3:04 | 2022-02-25 |  |
 | [Holla](https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Holla](https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A) | 3:02 | 2022-04-01 |  |
 | [Horizon](https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 5:21 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Emmanuel y Mijares en un mismo lugar.
 
-50 songs - 3 hr 34 min - not published yet
+50 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4pUdPRJ82aSf9CL08DxeEW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

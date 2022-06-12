@@ -491,7 +491,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 185906,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/0POuQCMT4zyRzB2MjbzVaI"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 298253,
       "name": "Cherub Rock - Remastered 2011",
       "url": "https://open.spotify.com/track/0fIC59ZyS8ThtUF0Um6zuD"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 250093,
       "name": "Color - Remastered",
       "url": "https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 204941,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/6Gb61K7iGe3GbHH4Q86A7I"
@@ -2479,7 +2479,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 191800,
       "name": "Howlin' For You",
       "url": "https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ"
@@ -2627,6 +2627,24 @@
       "duration_ms": 222173,
       "name": "I'm America",
       "url": "https://open.spotify.com/track/5HYEjfX8h3F82Qyb96PXg8"
+    },
+    {
+      "album": {
+        "name": "Pixelated Oblivion",
+        "url": "https://open.spotify.com/album/7Ih2h5RbwzFVwrC4LaMeQ9"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229652,
+      "name": "I'm Not Surprised",
+      "url": "https://open.spotify.com/track/7hbUuHOl7TB6uBYDlbFbvH"
     },
     {
       "album": {
@@ -3563,7 +3581,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 162386,
       "name": "Moaning Lisa Smile",
       "url": "https://open.spotify.com/track/7gChGUkqWkinDS7uYoMLIM"
@@ -3585,6 +3603,24 @@
       "duration_ms": 256315,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6vBVkRVnVuguXXES422YbS"
+    },
+    {
+      "album": {
+        "name": "Monster Made of Memories",
+        "url": "https://open.spotify.com/album/3PYXlGZJmUtSwq5fJ840oV"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Monster Made of Memories",
+      "url": "https://open.spotify.com/track/7HdGW7nnqYz5LhKt13J6PQ"
     },
     {
       "album": {
@@ -3751,6 +3787,24 @@
       "duration_ms": 278746,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
+    },
+    {
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/2pyDFDmWBK3pAPprRqEOw5"
+      },
+      "artists": [
+        {
+          "name": "Confetti",
+          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/7ySlDUcybvNllQd4WxCvtT"
     },
     {
       "album": {
@@ -3993,7 +4047,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
@@ -4083,7 +4137,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
@@ -4141,6 +4195,24 @@
       "duration_ms": 220537,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
+    },
+    {
+      "album": {
+        "name": "Pray To The Hunter (The Elder Scrolls Online)",
+        "url": "https://open.spotify.com/album/1gS2HRB3La2cwpovw1Jr7n"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Pray To The Hunter - The Elder Scrolls Online",
+      "url": "https://open.spotify.com/track/6HydrRCoO5kRpB7a7XeK05"
     },
     {
       "album": {
@@ -4808,6 +4880,54 @@
     },
     {
       "album": {
+        "name": "SLOW MOTION",
+        "url": "https://open.spotify.com/album/4W4X7bW04C7ZBrzKQUZNvQ"
+      },
+      "artists": [
+        {
+          "name": "SONOSUKIMAKARA",
+          "url": "https://open.spotify.com/artist/6lFhER0DwG5EAE8RwBzm1x"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213312,
+      "name": "SLOW MOTION",
+      "url": "https://open.spotify.com/track/4N4BIRYiFolA50cZ2slwU8"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/4FUCM8fk3xeDC22MLXlFSt"
+      },
+      "artists": [
+        {
+          "name": "Hidden Citizens",
+          "url": "https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J"
+        },
+        {
+          "name": "HAYASA G",
+          "url": "https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA"
+        },
+        {
+          "name": "Bryce Fox",
+          "url": "https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6h9x4FupskFhtNkfNt2YiH"
+    },
+    {
+      "album": {
         "name": "sober",
         "url": "https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf"
       },
@@ -5083,7 +5203,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 218806,
       "name": "Sunday Driver",
       "url": "https://open.spotify.com/track/0qVSoMLshegqzDE2FZlIsc"
@@ -5299,7 +5419,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 267333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/772AiQoYHA7lDckryjGyVj"
@@ -5653,7 +5773,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 274281,
       "name": "The Way You Used to Do",
       "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
@@ -5797,7 +5917,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 181133,
       "name": "Trip Switch",
       "url": "https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8"
@@ -5963,7 +6083,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 277120,
       "name": "Up In The Air",
       "url": "https://open.spotify.com/track/0jUyIAehDk6svz4Neqi5sp"
@@ -6191,6 +6311,24 @@
       "duration_ms": 189940,
       "name": "Wildfire - LEC Version",
       "url": "https://open.spotify.com/track/0mCzRKDnu4ptPxnG28Gowz"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh"
     },
     {
       "album": {

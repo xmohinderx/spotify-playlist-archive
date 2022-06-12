@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring SIDEPIECE & Lee Foss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,502 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,604 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [1, 2 Step](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 |
+| 1 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 |
 | 2 | [Hella](https://open.spotify.com/track/45InXApu4gOT5EzXwBgkKH) | [Kyle Kinch](https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Hella](https://open.spotify.com/album/4S6K91yvwR38JP4ssauwf9) | 2:52 |
-| 3 | [Get Down Low](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 |
+| 3 | [Get Down Low \(Dip\)](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low \(Dip\)](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 |
 | 4 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 |
 | 5 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 |
 | 6 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 33 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 |
 | 34 | [Movin'](https://open.spotify.com/track/0YlRqNyRkUHzjDlzSMMhUu) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Movin'](https://open.spotify.com/album/2AMOcFCKIBuojv3eaDeN5x) | 3:28 |
 | 35 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 |
-| 36 | [Mission](https://open.spotify.com/track/2O7lNYqE0OPcG7tuyzudxq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [rion s](https://open.spotify.com/artist/03FPMkPQlNvm34LtByBPnO) | [Mission](https://open.spotify.com/album/4yBeXuc7Qfr7glD1Mq2sXQ) | 2:50 |
+| 36 | [Mission](https://open.spotify.com/track/2O7lNYqE0OPcG7tuyzudxq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Mission](https://open.spotify.com/album/4yBeXuc7Qfr7glD1Mq2sXQ) | 2:50 |
 | 37 | [Piano](https://open.spotify.com/track/3oRPMjrptefomD6Q2hy2JA) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Movements, Pt.3](https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2) | 3:14 |
 | 38 | [Wildside](https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2) | [Yousef](https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF), [Penny F.](https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd) | [Wildside](https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J) | 4:09 |
 | 39 | [F\*ck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [F\*ck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |

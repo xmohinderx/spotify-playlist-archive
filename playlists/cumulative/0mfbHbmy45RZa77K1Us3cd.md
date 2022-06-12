@@ -4,7 +4,7 @@
 
 > Hit songs from the top 21 most streamed artists on the UnitedMasters platform in 2021.
 
-21 songs - 58 min 19 sec - not published yet
+21 songs - 58 min 19 sec - [published](https://open.spotify.com/playlist/4eAUX1tchR5fKaViYSli0a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

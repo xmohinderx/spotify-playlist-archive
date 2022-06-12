@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Émile Bilodeau
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,367 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 31 | [Le sel de la mer](https://open.spotify.com/track/1EgigopTr7Ft107JFs08zu) | [Zoe Sanders](https://open.spotify.com/artist/1EDU4S0vDAK3UaweNtq59X) | [Le sel de la mer](https://open.spotify.com/album/1qYQYDxI8DeFKHhAD9rV70) | 2:56 |
 | 32 | [Clandestin](https://open.spotify.com/track/6DIjzGSsbZhBxAmzNg2i9T) | [La Faune](https://open.spotify.com/artist/3PHImlj9rqrewqZx3uPlQO) | [Clandestin](https://open.spotify.com/album/7FVcYDNzwMf0lYi2Es6zwO) | 2:49 |
 | 33 | [Score](https://open.spotify.com/track/7oDdD7OW0JvWZW4przApFc) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [Score](https://open.spotify.com/album/7x1ai3nAiI0MBXsgDIWMFJ) | 2:44 |
-| 34 | [1 shot](https://open.spotify.com/track/3JgLwoY6XG8jxtczN9xZ2y) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [1 shot](https://open.spotify.com/album/6jMOnZDeD7wYcS0DMrbc3y) | 2:53 |
-| 35 | [CROP TOP](https://open.spotify.com/track/4Taj3786owTb8Z8JEZBVE2) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [CROP TOP](https://open.spotify.com/album/4xGxwhPDfO8WDJ8SrmxXOA) | 2:32 |
+| 34 | [1 shot](https://open.spotify.com/track/3JgLwoY6XG8jxtczN9xZ2y) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [DJ Keishawn](https://open.spotify.com/artist/0NXDvLMKfwZAhyblSeA8Um) | [1 shot](https://open.spotify.com/album/6jMOnZDeD7wYcS0DMrbc3y) | 2:53 |
+| 35 | [Crop Top](https://open.spotify.com/track/4Taj3786owTb8Z8JEZBVE2) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Crop Top](https://open.spotify.com/album/4xGxwhPDfO8WDJ8SrmxXOA) | 2:32 |
 | 36 | [Illusions](https://open.spotify.com/track/7m4ANVR0ahJDo75GTm4AmI) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Illusions](https://open.spotify.com/album/4IJeaKPemcXK21lCmJr1t7) | 3:40 |
 | 37 | [Jaune](https://open.spotify.com/track/0sGwVgPyI5iLTFpBFnj69h) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Jaune](https://open.spotify.com/album/3OdXn01pitKiIuY70jWr47) | 4:00 |
 | 38 | [DOLCE](https://open.spotify.com/track/6xGrGYtQT46BMNcvuf1Fry) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [DOLCE](https://open.spotify.com/album/28DXTYUTGoEOdnO07Xmh26) | 2:30 |

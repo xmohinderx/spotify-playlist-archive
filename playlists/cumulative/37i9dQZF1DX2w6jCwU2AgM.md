@@ -4,7 +4,7 @@
 
 > Dejate llevar por estas suaves melodías acústicas.
 
-60 songs - 2 hr 52 min - not published yet
+60 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/35j2R0PEhkBQbjAKY2tmF7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

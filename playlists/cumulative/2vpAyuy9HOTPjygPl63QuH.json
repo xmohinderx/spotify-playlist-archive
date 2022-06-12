@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "It's Ecstasy EP",
+        "url": "https://open.spotify.com/album/0iY9cBd95XTzOSxuUykGsZ"
+      },
+      "artists": [
+        {
+          "name": "Sonickraft",
+          "url": "https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198452,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/3sWJfExp0jAqvOlfoAfpFA"
+    },
+    {
+      "album": {
         "name": "This Is Night Bass: Vol. 14",
         "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
       },

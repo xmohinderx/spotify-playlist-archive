@@ -4,7 +4,7 @@
 
 > Listen to soundtracks from SF anime series "TRIGUN"./ 世界中から愛される名作SF「トライガン」TVアニメ＆劇場版サントラが遂にSpotifyに到着！© 内藤泰弘/少年画報社・トライガン製作委員会
 
-30 songs - 1 hr 39 min - not published yet
+30 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/7oTd2f4FKKVVjdCJIa9g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

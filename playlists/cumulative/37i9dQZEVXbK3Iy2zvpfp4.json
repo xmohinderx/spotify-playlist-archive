@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5YNobSqpJ71QdqLAH2udAx"
+  ],
   "tracks": [
     {
       "album": {
@@ -71,7 +73,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 132506,
       "name": "Aha-Aha",
       "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
@@ -107,7 +109,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 139618,
       "name": "Anadrol",
       "url": "https://open.spotify.com/track/4MvQzXZayaC5bdVtl0k5Mb"
@@ -213,7 +215,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 167105,
       "name": "BeamerBoy - HardRemix",
       "url": "https://open.spotify.com/track/6DJ76Gpxh5fhLbUbGj6HwJ"
@@ -265,6 +267,24 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d"
+    },
+    {
+      "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163613,
+      "name": "Devil Doesn\u2019t Bargain",
+      "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
     },
     {
       "album": {
@@ -510,6 +530,24 @@
     },
     {
       "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+      },
+      "artists": [
+        {
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
       },
@@ -521,7 +559,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 189679,
       "name": "Legend",
       "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
@@ -601,7 +639,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 164095,
       "name": "Malo Tebya",
       "url": "https://open.spotify.com/track/6DG4UNYc86nHIMYlsrpRrz"
@@ -655,7 +693,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -703,6 +741,24 @@
       "duration_ms": 212465,
       "name": "Moj \u017divot",
       "url": "https://open.spotify.com/track/7eOV2bkfOEOi5KP903nqSm"
+    },
+    {
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/7wXd6hDP4E0Jx3wZxigayH"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213774,
+      "name": "NA PROBL\u00c9MY M\u00c1\u0160 CEL\u00dd ROK",
+      "url": "https://open.spotify.com/track/04yctsBRGu0q9Ip120SZaM"
     },
     {
       "album": {
@@ -837,7 +893,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 143552,
       "name": "Punk Tactics",
       "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
@@ -859,6 +915,24 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
     },
     {
       "album": {
@@ -913,7 +987,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
@@ -985,7 +1059,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
@@ -1007,6 +1081,28 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Coco mikrofono (2009-2019)",
+        "url": "https://open.spotify.com/album/2UqSL3feRCyL2txTsuCqz3"
+      },
+      "artists": [
+        {
+          "name": "Cocoman",
+          "url": "https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2"
+        },
+        {
+          "name": "Dr. Kary",
+          "url": "https://open.spotify.com/artist/2EQiWpszVgF6ljThHxvQSc"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "Tak u\u017e to bal",
+      "url": "https://open.spotify.com/track/4NvuvdCL791n5lzfPiV9fO"
     },
     {
       "album": {
@@ -1064,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "album": {
         "name": "Why Not",
         "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
       },
@@ -1079,6 +1193,24 @@
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043b\u044b\u0448\u044c, \u041c\u0430\u043b\u0430\u044f",
+        "url": "https://open.spotify.com/album/1cLtVUIR7M01T6sHxNOXCZ"
+      },
+      "artists": [
+        {
+          "name": "Dzharo & Khanza",
+          "url": "https://open.spotify.com/artist/2mU9RFNN2NhzpR7vXK5DDt"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96107,
+      "name": "\u0421\u043b\u044b\u0448\u044c, \u041c\u0430\u043b\u0430\u044f",
+      "url": "https://open.spotify.com/track/46VMKEqHa2MLuZyPByUBO2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbK3Iy2zvpfp4"

@@ -4,7 +4,7 @@
 
 > 8月6日公開<a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。The official playlist for "ONE PIECE FILM RED"\.  ©尾田栄一郎／2022「ワンピース」製作委員会
 
-17 songs - 1 hr 8 min - not published yet
+17 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

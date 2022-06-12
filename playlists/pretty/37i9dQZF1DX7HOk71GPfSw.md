@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,832 likes - 114 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,323 likes - 114 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [selective altruism](https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [selective altruism](https://open.spotify.com/album/794UU4K5mVMCdraXNCSnvB) | 3:23 |
 | 2 | [MORE](https://open.spotify.com/track/1dh3gLolmSRmOcFrUNV3N3) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [MORE](https://open.spotify.com/album/37CE40tXZOopv96zoUigRn) | 1:36 |
 | 3 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 |
-| 4 | [enclosed](https://open.spotify.com/track/1iJLPw7uu2KP9Q6qqoZp2r) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [enclosed](https://open.spotify.com/album/5gS7xx28s3dX66Hf2HuEDi) | 3:22 |
+| 4 | [enclosed](https://open.spotify.com/track/1iJLPw7uu2KP9Q6qqoZp2r) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [enclosed](https://open.spotify.com/album/5gS7xx28s3dX66Hf2HuEDi) | 3:20 |
 | 5 | [midwest](https://open.spotify.com/track/1PaXxkVPwqSzg765s8XAsu) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [midwest](https://open.spotify.com/album/105u7fM5A46aCVdqsrcYJZ) | 1:51 |
 | 6 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 7 | [i wanna slam my head against the wall](https://open.spotify.com/track/6mEMH5rbZ20ffSf4U9Ff37) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 |

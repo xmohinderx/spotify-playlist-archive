@@ -4,7 +4,7 @@
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party\. Get inspired with <a href="https://www.weddingchicks.com/.">WEDDING CHICKS.</a>
 
-100 songs - 6 hr 4 min - not published yet
+100 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

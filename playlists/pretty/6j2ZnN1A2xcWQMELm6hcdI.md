@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Yas Queen\. Cover: Becky G
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 354,039 likes - 121 songs - 5 hr 55 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 354,030 likes - 121 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 274440,
       "name": "Cerveza, Cerveza",
       "url": "https://open.spotify.com/track/2MwYotI5NsXGD7LazHfUX5"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 254506,
       "name": "Challwaschallay",
       "url": "https://open.spotify.com/track/3d3UsZ3Xgv3h03CXimk6uP"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 169706,
       "name": "Chinita Ingrata",
       "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 206293,
       "name": "Perlas Challay",
       "url": "https://open.spotify.com/track/38O5w9pEdK5M9XvzoXbl0I"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 153240,
       "name": "Quisiera Olvidarte",
       "url": "https://open.spotify.com/track/53KgMLCJ8sfQtE1mrpQZYK"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4DAavl2OUBU180DLfSeY5r"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 220746,
       "name": "Siwarquinticha",
       "url": "https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr"
@@ -1195,10 +1195,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 377280,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
+    },
+    {
+      "album": {
+        "name": "El Nuevo L\u00edder del Requinto",
+        "url": "https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB"
+      },
+      "artists": [
+        {
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382902,
+      "name": "Soy Provinciano",
+      "url": "https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja"
     },
     {
       "album": {

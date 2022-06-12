@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈ cover: Tamia
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,354 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,705 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Work out to these bops and bangers from Nicki Minaj, DJ Snake, and more!
 
-52 songs - 2 hr 48 min - not published yet
+52 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/7g7wPnfrY0sMCexNWzHf2K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

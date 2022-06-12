@@ -1586,6 +1586,28 @@
     },
     {
       "album": {
+        "name": "Bad Mood",
+        "url": "https://open.spotify.com/album/03IXGYoYXGmikAhXnedn47"
+      },
+      "artists": [
+        {
+          "name": "Natasha Hunt Lee",
+          "url": "https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ"
+        },
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185895,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/7ckbcPoMTMOdnlBIsrHjDD"
+    },
+    {
+      "album": {
         "name": "Bags",
         "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
       },
@@ -2231,7 +2253,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -4187,7 +4209,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 186760,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/5SNZ7Iv54NzJgpb1hFxgXl"
@@ -8520,6 +8542,24 @@
     },
     {
       "album": {
+        "name": "hold the applause",
+        "url": "https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149230,
+      "name": "hold the applause",
+      "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv"
       },
@@ -9305,7 +9345,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "I Would Probably Hate You",
       "url": "https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88"
@@ -10385,7 +10425,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 150770,
       "name": "La La La",
       "url": "https://open.spotify.com/track/6WivhoU5qLcUtbYg2fo9Ay"
@@ -11075,7 +11115,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 196142,
       "name": "Line",
       "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
@@ -15081,7 +15121,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
@@ -15775,7 +15815,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 163602,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
@@ -18647,7 +18687,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"

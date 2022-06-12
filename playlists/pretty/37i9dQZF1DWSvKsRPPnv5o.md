@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,830 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,911 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 4 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 |
 | 5 | [Brand New Rolex](https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Divine Timing](https://open.spotify.com/album/6fZkrQzH9f86D5Y0YLuLJu) | 2:27 |
 | 6 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 |
-| 7 | [Pose \(feat\. Curren$y\)](https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pose \(feat\. Curren$y\)](https://open.spotify.com/album/4BExQf4XQxKdT1NYyjtyR8) | 3:24 |
+| 7 | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/album/4BExQf4XQxKdT1NYyjtyR8) | 3:24 |
 | 8 | [STUCK](https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [STUCK](https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065) | 3:37 |
 | 9 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 |
 | 10 | [Don't Condone 2](https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Don't Condone 2](https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ) | 4:24 |

@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-54 songs - 3 hr 29 min - not published yet
+54 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

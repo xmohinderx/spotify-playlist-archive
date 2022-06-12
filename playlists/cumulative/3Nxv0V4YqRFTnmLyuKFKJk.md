@@ -4,7 +4,7 @@
 
 > Driving Songs • Best of Dad Rock
 
-100 songs - 6 hr 56 min - not published yet
+100 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2ic9SBGuOME1LWkPyw2dIY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ¡Vamos a dar una vuelta en ruedas al ritmo de la música!
 
-50 songs - 3 hr 14 min - not published yet
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/34A16dQvbaeQCk3691hDqn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

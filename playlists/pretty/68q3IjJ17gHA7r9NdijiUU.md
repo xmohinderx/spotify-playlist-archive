@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > This pop playlist will make your 10 hour drive feel like 5\. Road Trip with OneRepublic, Imagine Dragons, Smash Mouth and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 322,416 likes - 53 songs - 3 hr 17 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 322,411 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

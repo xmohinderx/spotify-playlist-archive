@@ -4,7 +4,7 @@
 
 > Train like an olympian at home or at the gym with throwback hits!
 
-55 songs - 3 hr 26 min - not published yet
+55 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

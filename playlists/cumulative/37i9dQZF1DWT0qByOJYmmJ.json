@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 222474,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/1F51u77jFLv9pu8vzpsrxI"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 235320,
       "name": "Caf\u00e9 De Las Ocho",
       "url": "https://open.spotify.com/track/6XpmMP3AzxZjI81e9apesl"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 238480,
       "name": "Combusti\u00f3n",
       "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 210930,
       "name": "Contigo o Sin Ti",
       "url": "https://open.spotify.com/track/1TxqXHNemiC1QPO7lfmIOO"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 196890,
       "name": "Cupido - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 166086,
       "name": "Despu\u00e9s de la tormenta",
       "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "La Perra Soledad",
+        "url": "https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188228,
+      "name": "La Perra Soledad",
+      "url": "https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr"
+    },
+    {
+      "album": {
         "name": "La Vida Nos Hizo En Pares",
         "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
       },
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 230392,
       "name": "Labios de Im\u00e1n",
       "url": "https://open.spotify.com/track/1feR4saICXOjmL7LSKDlJK"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 228852,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 226142,
       "name": "por qu\u00e9 est\u00e1 tan cabr\u00f3n crecer?",
       "url": "https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
@@ -1601,6 +1619,24 @@
       "duration_ms": 245783,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7"
+    },
+    {
+      "album": {
+        "name": "Sad Girl",
+        "url": "https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ"
     },
     {
       "album": {
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
@@ -1969,7 +2005,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"

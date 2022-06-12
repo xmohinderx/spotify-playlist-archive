@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: O Grilo, Daparte
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,653 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,676 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 15 | [Acordei](https://open.spotify.com/track/7omGS2EKCcWM6oNBkN4ryV) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordei](https://open.spotify.com/album/7Awks75QKXipZmTWMjTeeP) | 3:02 |
 | 16 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
 | 17 | [Nada Vai Mudar](https://open.spotify.com/track/4lRljFMS2sUYJWouc5jNYZ) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Nada Vai Mudar](https://open.spotify.com/album/0RqFF8YxJoTazQXgFT4MJj) | 3:02 |
-| 18 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 |
+| 18 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 |
 | 19 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 |
 | 20 | [Under The Ocean](https://open.spotify.com/track/3L2LUagmMR5t9eY3Vv7azy) | [JUNE](https://open.spotify.com/artist/3wqsmnTNaFkvEOL9lqaWrB) | [I Doubt / Under The Ocean](https://open.spotify.com/album/6wbOWwspIddKXjUG439oa8) | 4:12 |
 | 21 | [Mistificar](https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mistificar](https://open.spotify.com/album/4mvVkLGZeUGm0D6C8zZuiZ) | 3:07 |

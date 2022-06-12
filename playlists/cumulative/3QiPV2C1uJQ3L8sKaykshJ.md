@@ -4,7 +4,7 @@
 
 > Listen to A\-List tracks from RCA Records featuring music from Latto x Mariah Carey, Kygo ft\. DNCE, Becky G &amp; Karol G, Doja Cat, and more\. Cover: Doja Cat
 
-47 songs - 2 hr 33 min - not published yet
+47 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/2sh9qmAJ9rtmiXeIBtt7j0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

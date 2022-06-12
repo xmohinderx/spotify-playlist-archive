@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-158 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+159 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-13 | 2022-05-30 |
 | [In My Head](https://open.spotify.com/track/2U7ePu00JjIu04rLM0EZFn) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [In My Head](https://open.spotify.com/album/3P9NfGR1yGOkPdAU1ZJRRs) | 4:30 | 2022-05-29 | 2022-06-04 |
 | [Intro To The Anthem](https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Intro To The Anthem](https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow) | 3:29 | 2022-06-03 | 2022-06-11 |
+| [Jumpman](https://open.spotify.com/track/3sWJfExp0jAqvOlfoAfpFA) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [It's Ecstasy EP](https://open.spotify.com/album/0iY9cBd95XTzOSxuUykGsZ) | 3:18 | 2022-06-11 |  |
 | [Kilos](https://open.spotify.com/track/0SO1znGNPqLM3PW1hmYVNv) | [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 5:31 | 2022-06-03 | 2022-06-11 |
 | [La Difícil](https://open.spotify.com/track/19dsjg3l0Gnnbvml0Lp0ci) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [La Difícil](https://open.spotify.com/album/5HAqZgIh0OXfE7X5gzpqWO) | 3:40 | 2022-06-10 |  |
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 | 2022-05-30 |

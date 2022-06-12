@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 319373,
       "name": "Baby's On Fire - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 223680,
       "name": "Backwater - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/5LyWia3X6AJtosLJdSA6ar"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 189466,
       "name": "Drift - Remastered 2005",
       "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 261320,
       "name": "Prophecy Theme",
       "url": "https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 185720,
       "name": "Sch\u00f6ne H\u00e4nde",
       "url": "https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 141040,
       "name": "Sombre Reptiles - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"
@@ -1041,6 +1041,32 @@
       "duration_ms": 480280,
       "name": "Stars - Remastered 2005",
       "url": "https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Eugene Bowen",
+          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89813,
+      "name": "Steal Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
     },
     {
       "album": {
@@ -1249,7 +1275,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 270280,
       "name": "Under Stars - 2005 Mix",
       "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Bizarrap, Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,919 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,020 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [53xo](https://open.spotify.com/track/25HG2547783ZYlLIOUw5n0) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Amorología](https://open.spotify.com/album/6O3isOI8FLPXkszCTlS72o) | 2:52 |
 | 38 | [Tiene Que Ser Para Mí](https://open.spotify.com/track/2KGP89JX0M0eifzuIWZSAc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 3:10 |
 | 39 | [i've been thinking lately](https://open.spotify.com/track/31Vk0Aqq53QqD0BXbdl33S) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [i've been thinking lately](https://open.spotify.com/album/23vQflCpxGtbyjQuNZ0zQ1) | 3:02 |
-| 40 | [Tamo Arriba](https://open.spotify.com/track/3omzuxBErJET4nEb9LJJXB) | [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Gustavo Elis](https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4), [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [Aran One](https://open.spotify.com/artist/2J6w7AO0a1hghIqa6cO7pg) | [Tamo Arriba](https://open.spotify.com/album/4DIs9w8Olb6gI8A0Bl4ruO) | 3:06 |
-| 41 | [Una Más](https://open.spotify.com/track/7DQlDpS6ILIGr6X607Sdjb) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Una Más](https://open.spotify.com/album/11QlaOP22EOC4zZS1DmRCH) | 3:02 |
-| 42 | [LATE](https://open.spotify.com/track/2CR2smbfNpSXK6KraQ0xT4) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [LATE](https://open.spotify.com/album/6EEEh3KWLTEueqlNY8WrC1) | 3:22 |
-| 43 | [Magnolia](https://open.spotify.com/track/0LNAHn5HiGUGekY9uLHKk6) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Maldito Darío](https://open.spotify.com/artist/6JMMydhHeHdAQiM2cRftkI) | [Magnolia](https://open.spotify.com/album/2rEi1b0MnDu3KKxBtBcY29) | 3:34 |
-| 44 | [La Vida](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 |
-| 45 | [700 Días](https://open.spotify.com/track/5H4uu49Rvh8TL9WkF0AULI) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [700 Días](https://open.spotify.com/album/12nVcYLWZyQ6ML9r3C3eHR) | 3:08 |
-| 46 | [Brindo Por Lo Malo](https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Brindo Por Lo Malo](https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd) | 2:10 |
+| 40 | [Una Más](https://open.spotify.com/track/7DQlDpS6ILIGr6X607Sdjb) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Una Más](https://open.spotify.com/album/11QlaOP22EOC4zZS1DmRCH) | 3:02 |
+| 41 | [LATE](https://open.spotify.com/track/2CR2smbfNpSXK6KraQ0xT4) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [LATE](https://open.spotify.com/album/6EEEh3KWLTEueqlNY8WrC1) | 3:22 |
+| 42 | [Magnolia](https://open.spotify.com/track/0LNAHn5HiGUGekY9uLHKk6) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Maldito Darío](https://open.spotify.com/artist/6JMMydhHeHdAQiM2cRftkI) | [Magnolia](https://open.spotify.com/album/2rEi1b0MnDu3KKxBtBcY29) | 3:34 |
+| 43 | [La Vida](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 |
+| 44 | [700 Días](https://open.spotify.com/track/5H4uu49Rvh8TL9WkF0AULI) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [700 Días](https://open.spotify.com/album/12nVcYLWZyQ6ML9r3C3eHR) | 3:08 |
+| 45 | [Brindo Por Lo Malo](https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Brindo Por Lo Malo](https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd) | 2:10 |
+| 46 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 |
 | 47 | [Siempre Mia](https://open.spotify.com/track/7aFf3HV1rzEugLqUWivl89) | [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3) | [Siempre Mia](https://open.spotify.com/album/7GeMYb9vZoR5PC9ePWqYZH) | 3:36 |
 | 48 | [Pa Que Tu Me Llamas](https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Pa Que Tu Me Llamas](https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3) | 3:55 |
 | 49 | [NDA](https://open.spotify.com/track/12CZ1bbgeQP31Z5FbPSDNo) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [NDA](https://open.spotify.com/album/7AFKFouP0RvPvpsODMWElq) | 2:32 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 58 | [Oh Na Na](https://open.spotify.com/track/0S3icxF6bsVFQHFQItftMW) | [La Momia](https://open.spotify.com/artist/6JWUXaHKciwQUiK4AVN9Zq) | [Oh Na Na](https://open.spotify.com/album/1ujnSzBNUGqZ3HV2VpZ9Ge) | 3:11 |
 | 59 | [Todo](https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Todo](https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg) | 2:09 |
 
-Snapshot ID: `MTY1NDg1MTE5NCwwMDAwMDM5ZTAwMDAwMTgxNGNkMTRkYzEwMDAwMDE4MTNmMTNiMTgx`
+Snapshot ID: `MTY1NDkxMDc4OSwwMDAwMDM5ZjAwMDAwMTgxNTA1ZWE4NjAwMDAwMDE4MTNmMTNiMTgx`

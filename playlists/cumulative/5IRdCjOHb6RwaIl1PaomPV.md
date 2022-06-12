@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New album from Diplo, plus the latest cuts from Ewan McVicar, Blackhaine, Louis The Child &amp; Aluna, piri &amp; Tommy, and more.
 
-145 songs - 8 hr 47 min - not published yet
+145 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

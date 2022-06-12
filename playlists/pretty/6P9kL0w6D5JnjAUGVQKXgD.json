@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, MK, Galantis, Kx5, deadmau5, Kaskade, Hayla",
-  "num_followers": 48487,
+  "num_followers": 48485,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTI3OSw3MDBjYmZlYzE2YzZlZjA5YWQ2MzM5MjRhYTJjM2Y5MDZiYzA3OWYw",
+  "snapshot_id": "MTI4MCw1MjU0NmI1OTM5ODhiZGJlMWQzNDhiNTE0YTE5NjRmNWZhYTAyOTBi",
   "tracks": [
     {
       "added_at": "2021-01-28 23:01:05",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP"
     },
     {
-      "added_at": "2022-05-15 15:41:03",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 185522,
-      "name": "I Love U",
-      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
-    },
-    {
       "added_at": "2020-09-21 08:05:04",
       "album": {
         "name": "Do It!",
@@ -971,6 +955,22 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2022-05-15 15:41:03",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "added_at": "2022-05-10 15:41:03",

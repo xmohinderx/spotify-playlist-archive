@@ -4,7 +4,7 @@
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-50 songs - 3 hr 20 min - not published yet
+50 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/05hs7oe3MCft9a4unoawXC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

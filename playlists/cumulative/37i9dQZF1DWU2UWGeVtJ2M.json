@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 207781,
       "name": "1000 Scars",
       "url": "https://open.spotify.com/track/0Sf4rStnY3H87N9kD1jFaD"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 173686,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 149678,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1ZD9gnpU4yex0ZLSpcG1Ub"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 240387,
       "name": "Dear Matias",
       "url": "https://open.spotify.com/track/7jmh1eUz5xIkTlrctNUDra"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 178635,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/4dxtD1otvF1JdycGwCK9ns"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 203482,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4Ee6U7RE2UlASqfb2s4MDv"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 202876,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 155454,
       "name": "Just a Phone Call Away",
       "url": "https://open.spotify.com/track/7gqq9KB1fvORR9dEWJ1y2F"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 115119,
       "name": "Late (Again)",
       "url": "https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 182115,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
@@ -1416,6 +1416,32 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/0cJ68DbXfMr2upEU8JP0UZ"
+      },
+      "artists": [
+        {
+          "name": "MAJULAH WEEKENDER",
+          "url": "https://open.spotify.com/artist/5QLgkIgeQXD67BvBMYXyDU"
+        },
+        {
+          "name": "Fauxe",
+          "url": "https://open.spotify.com/artist/6dvcG23IN4NjyLZ3nbKd6p"
+        },
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "More",
+      "url": "https://open.spotify.com/track/6tsmt6CZClKqODnIhhl9Rb"
+    },
+    {
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/3aHINg5eCfOPl6GMDS3je8"
       },
@@ -1471,7 +1497,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 200433,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/0Zvl8iBGLBuvGGcnGYQ8SU"
@@ -1573,7 +1599,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 223160,
       "name": "Oceansize",
       "url": "https://open.spotify.com/track/3F3F2UtIm9wDUq6uPt42Jx"
@@ -1613,7 +1639,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 221425,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq"
@@ -1667,7 +1693,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 145333,
       "name": "Precious",
       "url": "https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F"
@@ -1757,7 +1783,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 241864,
       "name": "Release",
       "url": "https://open.spotify.com/track/0P1Z6G1dnunmC5yc8zhkSx"
@@ -1819,7 +1845,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
@@ -1837,7 +1863,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1ZbH2WzZhjiODZfsX2raPz"
@@ -1862,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Tatted",
+        "url": "https://open.spotify.com/album/5mcpz12xwHIsS6RGhoF5m4"
+      },
+      "artists": [
+        {
+          "name": "LATRO",
+          "url": "https://open.spotify.com/artist/26EAmIgHn2rrSVgKd3ehWD"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "Tatted",
+      "url": "https://open.spotify.com/track/4SXEPh7ese9BmZGNwXlnUD"
+    },
+    {
+      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/4L1Seg0eLOrj9fOhmyhEkc"
       },
@@ -1881,6 +1925,24 @@
       "duration_ms": 197227,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB"
+    },
+    {
+      "album": {
+        "name": "The Angels",
+        "url": "https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV"
+      },
+      "artists": [
+        {
+          "name": "JordanXL",
+          "url": "https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "The Angels",
+      "url": "https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu"
     },
     {
       "album": {
@@ -2041,7 +2103,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 198624,
       "name": "Traumatized",
       "url": "https://open.spotify.com/track/2BEiZgGUo7qGqWjEUwiOn7"
@@ -2197,7 +2259,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6"
@@ -2237,6 +2299,50 @@
       "duration_ms": 226113,
       "name": "Wrong Place, Wrong Time",
       "url": "https://open.spotify.com/track/4aMcU2HPB7pBQxdBCMReSt"
+    },
+    {
+      "album": {
+        "name": "yellow",
+        "url": "https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72741,
+      "name": "yellow",
+      "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6BJP3SCmD1oLYni9OJFKac"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "WEI",
+          "url": "https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw"
+        },
+        {
+          "name": "Annie Lux",
+          "url": "https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/5Q2GxbKxY3tTdTg6T3yVJB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU2UWGeVtJ2M"

@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-48 songs - 3 hr 26 min - not published yet
+48 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/18xQyljVwNU2b7SK2Z9Yg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

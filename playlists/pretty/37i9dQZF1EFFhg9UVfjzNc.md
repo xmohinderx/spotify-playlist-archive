@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 44 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 44 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 43 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 44 | [Deus Faz Além \- Playback](https://open.spotify.com/track/54KdjaTtv2MF091f6o4twN) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Faz Além \(Playback\)](https://open.spotify.com/album/6Ai8QVw92ZWcxPwmXTl4OK) | 4:58 |
 
-Snapshot ID: `Mjc1ODE4MjAsMDAwMDAwMDBlODE1OTYxZmExMTIyN2I2NzUxZDIyNTRjZDNiMjlmNg==`
+Snapshot ID: `Mjc1ODMyNjAsMDAwMDAwMDAyY2U0YzQyMDhkNDVlZjc3ODFiOTAyMTE4NDdlMmE0MA==`

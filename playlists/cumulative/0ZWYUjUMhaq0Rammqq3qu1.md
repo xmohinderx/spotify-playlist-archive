@@ -4,7 +4,7 @@
 
 > Get the good times started with this party playlist with jams from Zedd, Justin Bieber and more!
 
-65 songs - 3 hr 28 min - not published yet
+65 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

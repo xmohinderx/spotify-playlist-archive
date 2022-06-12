@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Delicatoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,444 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,451 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 37 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 |
 | 38 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 |
 | 39 | [Grido \(Di Notte\)](https://open.spotify.com/track/2Ly5ZoBeOeUaNGaXk3UKIR) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0), [Loris Gentile](https://open.spotify.com/artist/5N9gXQEL7vPr8hTQOAMmqY) | [Grido \(Di Notte\)](https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw) | 3:51 |
-| 40 | [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 |
+| 40 | [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 |
 | 41 | [LACRIME D'ORO](https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [LACRIME D'ORO](https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw) | 2:40 |
 | 42 | [Sparring Partner](https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Sparring Partner](https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir) | 3:04 |
 | 43 | [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 |

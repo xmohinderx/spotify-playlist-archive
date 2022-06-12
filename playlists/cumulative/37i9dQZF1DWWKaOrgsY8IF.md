@@ -4,7 +4,7 @@
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-60 songs - 3 hr 13 min - not published yet
+60 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6oNWuGyfGKegYHcwL7cuh4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

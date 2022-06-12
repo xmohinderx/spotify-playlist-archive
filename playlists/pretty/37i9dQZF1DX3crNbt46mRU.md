@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nico Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,793 likes - 93 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,810 likes - 93 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 56 | [Wieder unterwegs](https://open.spotify.com/track/1chJi1GaMftwvlQizZbJ1y) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Wieder unterwegs](https://open.spotify.com/album/0PrSaPmAElrnCcNyt6oMae) | 2:21 |
 | 57 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 |
 | 58 | [Corner](https://open.spotify.com/track/5vTFQTK0zbYrN0M1h7HL19) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Corner](https://open.spotify.com/album/2pmr53QENbQPhy3t8ZNLMG) | 2:49 |
-| 59 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
+| 59 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 60 | [Glauben](https://open.spotify.com/track/0sGxdHIZbbJCHY05hAixUe) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Tiefenrausch](https://open.spotify.com/album/2eWvHL7rU6RcDFaPV1A1Y6) | 2:54 |
 | 61 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 62 | [FAHR LOS](https://open.spotify.com/track/7BJM8v5MvZ87VqSQpdvUV1) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [SØVA](https://open.spotify.com/artist/3V5iryRlzOXbE4w0VAeWGS) | [FAHR LOS](https://open.spotify.com/album/59GjoTNdcYgYP2rxHJOXBJ) | 3:00 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 69 | [All The Good Boys Are Gay](https://open.spotify.com/track/2qQS9AJM4APDXtcdwdO1GM) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [All The Good Boys Are Gay](https://open.spotify.com/album/5Ct4daLQe3EQu1j3vlKEkb) | 3:01 |
 | 70 | [Hollywood](https://open.spotify.com/track/7vOCttYWfEY1IqJtixenwD) | [Soba](https://open.spotify.com/artist/5jbUYA6DCfNWLSHvTHUk2o) | [Hollywood](https://open.spotify.com/album/6nHdeH6QjIi8pBdldBY5jP) | 2:36 |
 | 71 | [All My Love](https://open.spotify.com/track/1wzr0ySutkUli37tg4zGqf) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Chris Alain](https://open.spotify.com/artist/0gimZxKypioQa1fHoGFoUU) | [All My Love](https://open.spotify.com/album/22JRMahve9pKMqVsvRPrDZ) | 2:30 |
-| 72 | [Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY) | [Chefket](https://open.spotify.com/artist/5cfZNNUl6K82ZIWoWYSbcw), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Highway](https://open.spotify.com/album/6MMRcy1FsI10yetlcovgNS) | 3:36 |
+| 72 | [Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Chefket](https://open.spotify.com/artist/5cfZNNUl6K82ZIWoWYSbcw) | [Highway](https://open.spotify.com/album/6MMRcy1FsI10yetlcovgNS) | 3:36 |
 | 73 | [Bye Bye](https://open.spotify.com/track/1XI9BceH82K1BDd51BS4IK) | [Gaddafi Gals](https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l) | [Bye Bye](https://open.spotify.com/album/6ATAWUFAUglaow0sqcdSuj) | 3:43 |
 | 74 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
 | 75 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 |

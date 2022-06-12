@@ -4,7 +4,7 @@
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-88 songs - 12 hr 39 min - not published yet
+88 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/5e8I6m78FUYBSQVolBG5lN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,28 +1,60 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 261234,
+  "num_followers": 261736,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDkwOTc5NCwwMDAwMDAwMGNiNzRhZDYxM2I3MWU2ODYxOTFjZmJlYWUxY2M1MmU4",
+  "snapshot_id": "MTY1NDk5NjUyNywwMDAwMDAwMGEzZGEzMjAzMDhlNTg5NjA4ZDJjNmUyYzYwZGE5OGMx",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "50 Best Trance Hits Ever",
-        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
+        "name": "The Best Of Chicane 1996 - 2009",
+        "url": "https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf"
       },
       "artists": [
         {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Moya Brennan",
+          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
         }
       ],
-      "duration_ms": 231706,
-      "name": "For An Angel - Radio Edit",
-      "url": "https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q"
+      "duration_ms": 202533,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        }
+      ],
+      "duration_ms": 518221,
+      "name": "Insomnia - Monster Mix",
+      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -67,50 +99,38 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+        "name": "50 Best Trance Hits Ever",
+        "url": "https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Rollo Armstrong",
-          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
-        },
-        {
-          "name": "Sister Bliss",
-          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
-        },
-        {
-          "name": "Goetz",
-          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
         }
       ],
-      "duration_ms": 518221,
-      "name": "Insomnia - Monster Mix",
-      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
+      "duration_ms": 231706,
+      "name": "For An Angel - Radio Edit",
+      "url": "https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "The Best Of Chicane 1996 - 2009",
-        "url": "https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf"
+        "name": "The Silmarillia Remixes",
+        "url": "https://open.spotify.com/album/2YBYrISVU6Zw19oIjpO2PK"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Carlos",
+          "url": "https://open.spotify.com/artist/5YYbSUNzTPWjvBoKWxLfKc"
         },
         {
-          "name": "Moya Brennan",
-          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
         }
       ],
-      "duration_ms": 202533,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4"
+      "duration_ms": 201306,
+      "name": "The Silmarillia - 4 Strings Radio Edit",
+      "url": "https://open.spotify.com/track/0MS2xQnpsUZtY2PuYYzuNj"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -155,38 +175,34 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Symsonic",
-        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
       "artists": [
         {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
         }
       ],
-      "duration_ms": 175106,
-      "name": "Awakening - Radio Edit",
-      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
+      "duration_ms": 234773,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "C'est Musique (Armin van Buuren Mix)",
-        "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
+        "name": "Produced & Remixed",
+        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
       },
       "artists": [
         {
-          "name": "Shane",
-          "url": "https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
         }
       ],
-      "duration_ms": 669685,
-      "name": "C'est Musique - Armin van Buuren Mix",
-      "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
+      "duration_ms": 515173,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -207,42 +223,6 @@
       "duration_ms": 215480,
       "name": "Happiness Happening - Lange Remix",
       "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "The Silmarillia Remixes",
-        "url": "https://open.spotify.com/album/2YBYrISVU6Zw19oIjpO2PK"
-      },
-      "artists": [
-        {
-          "name": "Carlos",
-          "url": "https://open.spotify.com/artist/5YYbSUNzTPWjvBoKWxLfKc"
-        },
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "The Silmarillia - 4 Strings Radio Edit",
-      "url": "https://open.spotify.com/track/0MS2xQnpsUZtY2PuYYzuNj"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Hudson Street",
-        "url": "https://open.spotify.com/album/4rrJaNjSH961yFQD0DvfbU"
-      },
-      "artists": [
-        {
-          "name": "Agnelli & Nelson",
-          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
-        }
-      ],
-      "duration_ms": 417306,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/0wnBedwQDPcyXzitB8Yvkr"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -271,8 +251,24 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "A Decade of Trance - 2001 (Part 1)",
-        "url": "https://open.spotify.com/album/3ALvbvXMmXn1t1IGLonWb1"
+        "name": "Symsonic",
+        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Awakening - Radio Edit",
+      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
       },
       "artists": [
         {
@@ -280,73 +276,41 @@
           "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 536866,
-      "name": "The Legacy - Club Mix",
-      "url": "https://open.spotify.com/track/2RpGTuM5XINRHqRiXMLOn5"
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+        "name": "Dance Floor Anthems",
+        "url": "https://open.spotify.com/album/7yhnBLWv6EZ5BRY8oYLdYC"
       },
       "artists": [
         {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
+      "duration_ms": 212920,
+      "name": "God Is a DJ - Radio Mix",
+      "url": "https://open.spotify.com/track/4dFDiYvdK5aPfAa0D90gJ8"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
-        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
         }
       ],
-      "duration_ms": 205053,
-      "name": "Adagio For Strings - Radio Edit",
-      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Bits N Pianos",
-        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
-      },
-      "artists": [
-        {
-          "name": "SDC",
-          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
-        }
-      ],
-      "duration_ms": 329337,
-      "name": "Bits N Pianos",
-      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
+      "duration_ms": 259200,
+      "name": "Feel the Beat",
+      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -375,34 +339,34 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Out Of The Blue (Ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
       },
       "artists": [
         {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Dance Floor Anthems",
-        "url": "https://open.spotify.com/album/7yhnBLWv6EZ5BRY8oYLdYC"
+        "name": "Hudson Street",
+        "url": "https://open.spotify.com/album/4rrJaNjSH961yFQD0DvfbU"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
         }
       ],
-      "duration_ms": 212920,
-      "name": "God Is a DJ - Radio Mix",
-      "url": "https://open.spotify.com/track/4dFDiYvdK5aPfAa0D90gJ8"
+      "duration_ms": 417306,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0wnBedwQDPcyXzitB8Yvkr"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -423,54 +387,50 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Produced & Remixed",
-        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
       },
       "artists": [
         {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
         }
       ],
-      "duration_ms": 515173,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+        "name": "Out Of The Blue (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
       },
       "artists": [
         {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
+      "duration_ms": 233160,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "100% Clubland Trance",
-        "url": "https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb"
+        "name": "A Decade of Trance - 2001 (Part 1)",
+        "url": "https://open.spotify.com/album/3ALvbvXMmXn1t1IGLonWb1"
       },
       "artists": [
         {
-          "name": "Lange",
-          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
-        },
-        {
-          "name": "The Morrighan",
-          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 223237,
-      "name": "Follow Me - Radio Edit",
-      "url": "https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U"
+      "duration_ms": 536866,
+      "name": "The Legacy - Club Mix",
+      "url": "https://open.spotify.com/track/2RpGTuM5XINRHqRiXMLOn5"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -499,6 +459,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -519,6 +495,22 @@
       "duration_ms": 197160,
       "name": "On The Beach - Mauro Picotto's CRW Remix",
       "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "If I Could Fly",
+        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
+      },
+      "artists": [
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        }
+      ],
+      "duration_ms": 361893,
+      "name": "Not Over Yet",
+      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -547,82 +539,42 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+        "name": "Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered]",
+        "url": "https://open.spotify.com/album/5A24W7ufM7GIQ4QVDuGhuX"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "iio",
+          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
         }
       ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+      "duration_ms": 189700,
+      "name": "Rapture (Armin Van Burren Remix Remastered - Made Radio Edit) [feat. Nadia Ali]",
+      "url": "https://open.spotify.com/track/4RQGig0Vhr4GXmqfklCCyK"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Not Over Yet (Remixes)",
-        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
+        "name": "100% Clubland Trance",
+        "url": "https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb"
       },
       "artists": [
         {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Not over Yet - Perfecto Edit",
-      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
-      },
-      "artists": [
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+        },
         {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+          "name": "The Morrighan",
+          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "A State Of Trance Classics, Vol. 7",
-        "url": "https://open.spotify.com/album/7fV9Ip8u5o1BRMPPrpZhNF"
-      },
-      "artists": [
-        {
-          "name": "Bossanova",
-          "url": "https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Stonecold - Radio Edit",
-      "url": "https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Encore - Live and Direct",
-        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
+      "duration_ms": 223237,
+      "name": "Follow Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -647,44 +599,8 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Electric Love",
-        "url": "https://open.spotify.com/album/7ug3lXDnZVKFVlJfUiTIPr"
-      },
-      "artists": [
-        {
-          "name": "U.K.W.",
-          "url": "https://open.spotify.com/artist/5It8yuAnbd32rG1gA46nhs"
-        }
-      ],
-      "duration_ms": 424200,
-      "name": "Hypnotic (Binary Finary 2000 Remix)",
-      "url": "https://open.spotify.com/track/1KHNbJJBG6fUV9vCFP9BcR"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Madagascar (Remixes)",
-        "url": "https://open.spotify.com/album/2cWcu5iCXuCzw7cuZD34Ky"
-      },
-      "artists": [
-        {
-          "name": "Art Of Trance",
-          "url": "https://open.spotify.com/artist/42edDgjfmvA5cRKsF1KH5a"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 361133,
-      "name": "Madagascar - Ferry Corsten Remix",
-      "url": "https://open.spotify.com/track/0wiloryIyGu6IJay76redv"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "If I Could Fly",
-        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
+        "name": "Not Over Yet (Remixes)",
+        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
       },
       "artists": [
         {
@@ -692,9 +608,25 @@
           "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
         }
       ],
-      "duration_ms": 361893,
-      "name": "Not Over Yet",
-      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
+      "duration_ms": 261733,
+      "name": "Not over Yet - Perfecto Edit",
+      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Encore - Live and Direct",
+        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -715,54 +647,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Beachball",
-        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
+        "name": "C'est Musique (Armin van Buuren Mix)",
+        "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
       },
       "artists": [
         {
-          "name": "Nalin & Kane",
-          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Beachball - Vocal Radio Edit",
-      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Trance Top 1000 - Ibiza Classics",
-        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        }
-      ],
-      "duration_ms": 171231,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Castles In The Sky",
-        "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
-      },
-      "artists": [
-        {
-          "name": "Ian van Dahl",
-          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+          "name": "Shane",
+          "url": "https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR"
         },
         {
-          "name": "Marsha",
-          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 227133,
-      "name": "Castles In The Sky - Radio Mix",
-      "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+      "duration_ms": 669685,
+      "name": "C'est Musique - Armin van Buuren Mix",
+      "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -799,38 +699,58 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered]",
-        "url": "https://open.spotify.com/album/5A24W7ufM7GIQ4QVDuGhuX"
+        "name": "Southern Sun / Ready Steady Go",
+        "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
       "artists": [
         {
-          "name": "iio",
-          "url": "https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "Carla Werner",
+          "url": "https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 189700,
-      "name": "Rapture (Armin Van Burren Remix Remastered - Made Radio Edit) [feat. Nadia Ali]",
-      "url": "https://open.spotify.com/track/4RQGig0Vhr4GXmqfklCCyK"
+      "duration_ms": 584585,
+      "name": "Southern Sun - DJ Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "A State Of Trance Classics, Vol. 6 (Bonus Best Ever Edition)",
-        "url": "https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg"
+        "name": "Bits N Pianos",
+        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
       },
       "artists": [
         {
-          "name": "Riva",
-          "url": "https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP"
+          "name": "SDC",
+          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
         }
       ],
-      "duration_ms": 475271,
-      "name": "Time Is The Healer - Armin van Buuren Remix",
-      "url": "https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO"
+      "duration_ms": 329337,
+      "name": "Bits N Pianos",
+      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Beachball",
+        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
+      },
+      "artists": [
+        {
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Beachball - Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -855,6 +775,22 @@
       "duration_ms": 273577,
       "name": "Luvstruck - Marco V & Benjamin Rmx",
       "url": "https://open.spotify.com/track/5lBfxQnalQqjDbOHe6voet"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "A State Of Trance Classics, Vol. 7",
+        "url": "https://open.spotify.com/album/7fV9Ip8u5o1BRMPPrpZhNF"
+      },
+      "artists": [
+        {
+          "name": "Bossanova",
+          "url": "https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Stonecold - Radio Edit",
+      "url": "https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -891,46 +827,106 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Worldwide Trance Sounds, Vol. 6",
-        "url": "https://open.spotify.com/album/3FjwQeCMWDGDxxtVEDdD9p"
+        "name": "Skydivin'",
+        "url": "https://open.spotify.com/album/28jvpDCVwZ8AJ472ZNLrtq"
       },
       "artists": [
         {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
-        },
-        {
-          "name": "Scott Mac",
-          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
         }
       ],
-      "duration_ms": 480523,
-      "name": "Coming On Strong - Extended Mix",
-      "url": "https://open.spotify.com/track/6skndzzfHsQkitrXf4JdTM"
+      "duration_ms": 202266,
+      "name": "Your Shining",
+      "url": "https://open.spotify.com/track/2JLAWfYGzKRfG0DJFnOZ8j"
     },
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Southern Sun / Ready Steady Go",
-        "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
+        "name": "Castles In The Sky",
+        "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
+      },
+      "artists": [
+        {
+          "name": "Ian van Dahl",
+          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+        },
+        {
+          "name": "Marsha",
+          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "Castles In The Sky - Radio Mix",
+      "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "The World Of Trance (40 Biggest Trance Hits Ever) - Armada Music",
+        "url": "https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Fire Wire",
+      "url": "https://open.spotify.com/track/15Fpa2wUSK48RBT2eqBka8"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/43baGAToTn6j7MMy7YU0yT"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Trance Top 1000 - Ibiza Classics",
+        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
       },
       "artists": [
         {
           "name": "Paul Oakenfold",
           "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Carla Werner",
-          "url": "https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 584585,
-      "name": "Southern Sun - DJ Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC"
+      "duration_ms": 171231,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Madagascar (Remixes)",
+        "url": "https://open.spotify.com/album/2cWcu5iCXuCzw7cuZD34Ky"
+      },
+      "artists": [
+        {
+          "name": "Art Of Trance",
+          "url": "https://open.spotify.com/artist/42edDgjfmvA5cRKsF1KH5a"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 361133,
+      "name": "Madagascar - Ferry Corsten Remix",
+      "url": "https://open.spotify.com/track/0wiloryIyGu6IJay76redv"
     }
   ],
   "unique_name": "Trance Classics",

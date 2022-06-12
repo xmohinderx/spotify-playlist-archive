@@ -1,6 +1,6 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Delaney Bailey",
-  "num_followers": 1235292,
+  "num_followers": 1235758,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
@@ -672,12 +672,12 @@
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
           "name": "Hannes",
           "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
       "duration_ms": 161396,

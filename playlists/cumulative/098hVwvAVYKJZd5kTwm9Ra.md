@@ -4,7 +4,7 @@
 
 > Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from Travis Tritt, Hall &amp; Oates, Luke Combs, Bruce Springsteen, and more!
 
-101 songs - 6 hr 28 min - not published yet
+101 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0cq3sTXAjtJTNgFy5uy13j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

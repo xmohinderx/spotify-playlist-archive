@@ -4,7 +4,7 @@
 
 > Get the Party started with these instant floofillers.
 
-76 songs - 4 hr 23 min - not published yet
+76 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/7w6mlIi4CNgTR9iJ8AGl4f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

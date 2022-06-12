@@ -4,7 +4,7 @@
 
 > Himnos de estadio para acompañar una tarde de deportes.
 
-120 songs - 8 hr 6 min - not published yet
+120 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/6nGPiIqbwjflRmLuBR8YY3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Fyeqoodgurl
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,525 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,609 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 6 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
 | 7 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 |
 | 8 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
-| 9 | [ต่อให้เธอจะไปรักใคร \- Even If](https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g) | [Wine](https://open.spotify.com/artist/4fg1JZtagmtm75bxYcZBr1) | [ต่อให้เธอจะไปรักใคร \(Even If\)](https://open.spotify.com/album/6gNdGROAbKCQhZQC73SudF) | 3:30 |
+| 9 | [ต่อให้เธอจะไปรักใคร \- Even If](https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g) | [Wine](https://open.spotify.com/artist/3LuQ3nUOUPjoCsrIBT14vs) | [ต่อให้เธอจะไปรักใคร \(Even If\)](https://open.spotify.com/album/6gNdGROAbKCQhZQC73SudF) | 3:30 |
 | 10 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 |
 | 11 | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/track/7uACNnshGf5tGOj9i42irz) | [เอก Season Five](https://open.spotify.com/artist/1wM1e379Yyvtq6964zzL3G) | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY) | 3:47 |
 | 12 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 |

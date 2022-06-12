@@ -4,7 +4,7 @@
 
 > This pop playlist will make your 10 hour drive feel like 5\. Road Trip with OneRepublic, Imagine Dragons, Smash Mouth and more!
 
-53 songs - 3 hr 17 min - not published yet
+53 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/7wE4KWEfCjsHjIxhHAMbXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

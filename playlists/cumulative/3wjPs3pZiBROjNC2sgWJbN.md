@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; Ari Lennox\. Updated weekly! Cover: Jon Batiste
 
-50 songs - 2 hr 59 min - not published yet
+50 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

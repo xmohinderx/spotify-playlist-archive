@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from “Teasing Master Takagi\-san”! 劇場版公開記念『からかい上手の高木さん』プレイリスト！　©S.Y,S/TKGM 2022
 
-43 songs - 2 hr 29 min - not published yet
+43 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/4Z1Mu7UqKoVkx9pVfH1vVA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

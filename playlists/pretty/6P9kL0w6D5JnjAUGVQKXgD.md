@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, MK, Galantis, Kx5, deadmau5, Kaskade, Hayla
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,487 likes - 100 songs - 4 hr 56 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,485 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 44 | [Human Sound](https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6) | 5:26 |
 | 45 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 46 | [Young Again](https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO) | [Young Again](https://open.spotify.com/album/34aj8Ikdp6H30mUjgxUtng) | 2:29 |
-| 47 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 |
-| 48 | [Do It! \- Dimitri Vegas Radio Edit](https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Do It!](https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2) | 2:37 |
+| 47 | [Do It! \- Dimitri Vegas Radio Edit](https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Do It!](https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2) | 2:37 |
+| 48 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 |
 | 49 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 |
 | 50 | [The Calling](https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Calling](https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY) | 3:17 |
 | 51 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP) | 3:18 |
 | 100 | [Call Me](https://open.spotify.com/track/7BaIHlsLTV5LFuijCYEPj0) | [Jay Dixie](https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr), [Amy Grace](https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io) | [Call Me](https://open.spotify.com/album/3xmt4RrW7Bv4Pp5bhvlieg) | 2:47 |
 
-Snapshot ID: `MTI3OSw3MDBjYmZlYzE2YzZlZjA5YWQ2MzM5MjRhYTJjM2Y5MDZiYzA3OWYw`
+Snapshot ID: `MTI4MCw1MjU0NmI1OTM5ODhiZGJlMWQzNDhiNTE0YTE5NjRmNWZhYTAyOTBi`

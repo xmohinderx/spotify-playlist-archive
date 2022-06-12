@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Katy Nichole and Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,675 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,822 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [The Mighty Chorus](https://open.spotify.com/track/1duSxsNsp98n26UHeSVZ8U) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [The Mighty Chorus](https://open.spotify.com/album/3ZXon8g3AFAKyVl3YevMNy) | 4:51 |
 | 21 | [If The Lord Builds The House](https://open.spotify.com/track/1gHEMTscQ1XBevcJsmcMNV) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/3DnbvxLXCsgPs4nUl2mxs9) | 3:55 |
 | 22 | [Justified](https://open.spotify.com/track/4GZJHlMpDxNQ2kEbAct4Oz) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Justified](https://open.spotify.com/album/2LWxqnG9lt2ULB04nabvoi) | 4:14 |
-| 23 | [Before Me](https://open.spotify.com/track/5JHO71ExLKxo4huieckul6) | [Anthem Worship](https://open.spotify.com/artist/06ZQZhFfmZjzETzPJO39lt), [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Before Me](https://open.spotify.com/album/4swFHhM98D7Cp9zOv9lWVQ) | 6:52 |
+| 23 | [Before Me](https://open.spotify.com/track/5JHO71ExLKxo4huieckul6) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Before Me](https://open.spotify.com/album/4swFHhM98D7Cp9zOv9lWVQ) | 6:52 |
 | 24 | [We Will Never Stop \- Live](https://open.spotify.com/track/0SMa0uYsewFCcA81trDfUs) | [Bayside Worship](https://open.spotify.com/artist/2GRCJ5E9CeDrSHeEWWqxSC) | [We Will Never Stop \(Live\)](https://open.spotify.com/album/0z7PAJ6BXSzcMOsLOs4xfG) | 5:22 |
 | 25 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 26 | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G) | 5:23 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 56 | [MAD!](https://open.spotify.com/track/3KCT5hx4fqEOXJPWVcbqLg) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [MAD!](https://open.spotify.com/album/1l4M1A4mqlcxdvKTnWve6L) | 2:53 |
 | 57 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
 | 58 | [youth of the young \- b\-side](https://open.spotify.com/track/3ah0tMHtlfGpfa2aaAERl4) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [youth of the young](https://open.spotify.com/album/00K68RpyXOGuNEIT50sw33) | 4:09 |
-| 59 | [As High As I Can Hold It](https://open.spotify.com/track/57cBw6UZK2QXS2tJdBXm7m) | [Zeal Worship](https://open.spotify.com/artist/0k9BtEfyoQLoOjarJpeOoB) | [As High As I Can Hold It](https://open.spotify.com/album/7EtNL6xpnniwz5YNhQQJPx) | 4:44 |
+| 59 | [As High As I Can Hold It](https://open.spotify.com/track/57cBw6UZK2QXS2tJdBXm7m) | [Zeal Worship](https://open.spotify.com/artist/4v89S2CafvdxMgDzkovxZi) | [As High As I Can Hold It](https://open.spotify.com/album/7EtNL6xpnniwz5YNhQQJPx) | 4:44 |
 | 60 | [62 \(Spoken\)](https://open.spotify.com/track/1axFZcDs6Jmn1pvfa6bm3C) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [62 \(Spoken\)](https://open.spotify.com/album/5KBF7YAHnMP4CIzuhFCG67) | 3:18 |
 | 61 | [The Rider](https://open.spotify.com/track/1OE0764bobkkWJCo6Bzae3) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Voyage](https://open.spotify.com/album/3MgJRcNBue9ZytLzJzOJcW) | 5:05 |
 | 62 | [Lifeline \- Live Tapes](https://open.spotify.com/track/4x0HBKbI9WGhz9DfDjEbej) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Lifeline \(Live Tapes\)](https://open.spotify.com/album/21NBJmf18LB7mcWh1Z1X34) | 4:01 |
-| 63 | [Same Side](https://open.spotify.com/track/2RHIwFkcfho6r5RJGOsG0H) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Same Side](https://open.spotify.com/album/4EohwKdnlRIkUz9za1LdWI) | 3:25 |
+| 63 | [Same Side](https://open.spotify.com/track/2RHIwFkcfho6r5RJGOsG0H) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Same Side](https://open.spotify.com/album/4EohwKdnlRIkUz9za1LdWI) | 3:25 |
 | 64 | [Greater is the Blood](https://open.spotify.com/track/4xUZrneYGiwwBEzFWhZiB9) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Greater is the Blood](https://open.spotify.com/album/0671ivK4q1hfduVDwEpSRs) | 3:51 |
 | 65 | [Out of the Woods](https://open.spotify.com/track/3SeOt7GWWl2Bb3LTc7vf6z) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [The Halls](https://open.spotify.com/artist/1T4cDm2SLyfTuFNZVrR1uj) | [Out of the Woods](https://open.spotify.com/album/7LSodqwLwetALVszqP7Ixg) | 5:29 |
 | 66 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 |

@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 173333,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
@@ -4329,6 +4329,24 @@
       "duration_ms": 101635,
       "name": "I Look Good",
       "url": "https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
     },
     {
       "album": {

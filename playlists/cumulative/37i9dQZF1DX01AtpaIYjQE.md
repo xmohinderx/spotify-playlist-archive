@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-80 songs - 5 hr 39 min - not published yet
+80 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
