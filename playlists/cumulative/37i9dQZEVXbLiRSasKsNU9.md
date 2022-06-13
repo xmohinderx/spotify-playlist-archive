@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-533 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+534 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Fade to black](https://open.spotify.com/track/7aX4w6c7gSqbTBoU8g2lnm) | [Nadir Rustamli](https://open.spotify.com/artist/7dFX4qcHIofGy7IronPXrO) | [Fade to black](https://open.spotify.com/album/5R1xdmueRaQUorUYmDK7Ga) | 2:57 | 2022-05-16 | 2022-05-29 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-27 | 2022-01-01 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-03-01 | 2022-03-09 |
-| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 |  |
+| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-13 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-04-12 | 2022-04-25 |
 | [Feragât](https://open.spotify.com/track/72EjrX3xp4Ea2nhQRY6LMI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Feragât](https://open.spotify.com/album/57ctZof0xcxNyNPKyvER2Q) | 2:32 | 2022-04-26 | 2022-05-03 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-04-23 | 2022-05-11 |
@@ -278,6 +278,7 @@
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2021-12-27 | 2022-01-04 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-15 | 2022-02-22 |
 | [Lights Off \- ESC Version](https://open.spotify.com/track/0tOKpglJb9cza4WdTtxsv7) | [We Are Domi](https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S) | [Lights Off \(ESC Version\)](https://open.spotify.com/album/2KdNg6kVcSruJSCG1JU9Mz) | 2:59 | 2022-05-17 | 2022-05-22 |
+| [Like Wooh Wooh](https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42) | 3:16 | 2022-06-12 |  |
 | [Llámame](https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Llámame](https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs) | 3:04 | 2022-05-16 | 2022-05-29 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-03 | 2022-05-15 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-12-30 | 2022-02-16 |

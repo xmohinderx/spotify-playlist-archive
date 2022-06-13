@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "La Vida En Un Trago",
+        "url": "https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Olvidarte No Es Lo M\u00edo",
+      "url": "https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4"
+    },
+    {
+      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3"
       },
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 199226,
       "name": "Pudo",
       "url": "https://open.spotify.com/track/27OwGODgs27hBiAYviv7eQ"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 197280,
       "name": "Si Te Vas A Ir",
       "url": "https://open.spotify.com/track/6JlL91QIVoO3MnCBVjBIpG"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 227946,
       "name": "Y S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay"

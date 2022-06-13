@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -841,6 +859,36 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "album": {
+        "name": "Blitzkrieg 2022 - Drammen",
+        "url": "https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf"
+      },
+      "artists": [
+        {
+          "name": "Kris Winther",
+          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
+        },
+        {
+          "name": "SuperJonny",
+          "url": "https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc"
+        },
+        {
+          "name": "Rapposaurus Rex",
+          "url": "https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT"
+        },
+        {
+          "name": "LamboLaz",
+          "url": "https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Blitzkrieg 2022 - Drammen",
+      "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
     },
     {
       "album": {
@@ -1867,6 +1915,32 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "album": {
+        "name": "MAKSPULS 2022",
+        "url": "https://open.spotify.com/album/60vBmPhKAoM7t9KzTmNRyb"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f8bbman",
+          "url": "https://open.spotify.com/artist/3Lt8cH3Be1yVNhATBA2Epx"
+        },
+        {
+          "name": "Feedb\u00e6ck",
+          "url": "https://open.spotify.com/artist/6Vo0Gc0pFtb8ThZuJ7l8pB"
+        },
+        {
+          "name": "Fl\u00f6ber",
+          "url": "https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116220,
+      "name": "DUNK DUNK DUNK",
+      "url": "https://open.spotify.com/track/5rEaYtInGYL1g7nfIqPYE0"
     },
     {
       "album": {
@@ -5446,6 +5520,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
       },
@@ -7859,7 +7951,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 235586,
       "name": "Woo",
       "url": "https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF"

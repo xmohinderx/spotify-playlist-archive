@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1UlNZOsBRA68xckzhZFqmq)
+51 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/1UlNZOsBRA68xckzhZFqmq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Door](https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:34 | 2022-06-09 |  |
 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 | 2022-06-09 |  |
 | [elbadaernU](https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 4:10 | 2022-06-09 |  |
+| [Extra terrestrial Biological Entities](https://open.spotify.com/track/3Ok4zuAk4GgMC15VYQNmJt) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:39 | 2022-06-12 |  |
 | [Fallen](https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/5DUPsFaK2t1wcaYc7khsAP) | 4:29 | 2022-06-09 |  |
 | [Fallen \-Instrumental\-](https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:30 | 2022-06-09 |  |
 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 | 2022-06-09 |  |
@@ -57,6 +58,6 @@
 | [絶体絶命](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [絶体絶命](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 | 2022-06-09 |  |
 | [英雄 運命の詩 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:42 | 2022-06-09 |  |
 | [英雄 運命の詩 \-Instrumental\-](https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:43 | 2022-06-09 |  |
-| [雨、キミを連れて](https://open.spotify.com/track/5NdITLzyhOFoVZAkMs9zoL) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:14 | 2022-06-09 |  |
+| [雨、キミを連れて](https://open.spotify.com/track/5NdITLzyhOFoVZAkMs9zoL) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:14 | 2022-06-09 | 2022-06-13 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

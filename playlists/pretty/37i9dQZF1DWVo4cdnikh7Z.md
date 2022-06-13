@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,658 likes - 64 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,622 likes - 64 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

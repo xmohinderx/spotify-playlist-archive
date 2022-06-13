@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 196288,
       "name": "Broken Armour",
       "url": "https://open.spotify.com/track/008AopHIv4BkKGOXjy94IL"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 202623,
       "name": "can't hate you yet",
       "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc"
+      },
+      "artists": [
+        {
+          "name": "Hayley Warner",
+          "url": "https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240857,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw"
+    },
+    {
+      "album": {
         "name": "Stop All The World Now",
         "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 185213,
       "name": "guy friends",
       "url": "https://open.spotify.com/track/65ADzGXf5dSdiH5s1uy7RZ"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 220850,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/1N7YeVU0ZwAFbOhwM61ef6"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 193446,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 286250,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 196346,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7u5YIl9C1ijghg46PVVdh9"
@@ -4699,7 +4717,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 241288,
       "name": "Space",
       "url": "https://open.spotify.com/track/46FOIntFjFivFUKtdfCtW4"
@@ -4825,7 +4843,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 204205,
       "name": "Summer's Gone",
       "url": "https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy"
@@ -5189,7 +5207,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 232520,
       "name": "The One",
       "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
@@ -5413,7 +5431,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 168920,
       "name": "Trainwreck",
       "url": "https://open.spotify.com/track/4UJgNlHQYutGJsYKF9CbLN"
@@ -5775,7 +5793,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 240493,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/4kxND2rbPDrdb7Sgoo1Fbh"
@@ -5793,7 +5811,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 184739,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/5EKm2REw8HdwoadlQKffFJ"

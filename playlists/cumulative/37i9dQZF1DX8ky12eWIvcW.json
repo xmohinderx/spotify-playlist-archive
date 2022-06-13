@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 245373,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4YA7nxDtAVE2R1Eryx7uRu"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 222240,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/0Zh5U48tZNeAzzLTV1CVBE"
@@ -805,10 +805,36 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 265866,
       "name": "Ghetto Supastar (That Is What You Are)",
       "url": "https://open.spotify.com/track/3ZI94oaQBva1OK6DmpIGG7"
+    },
+    {
+      "album": {
+        "name": "Ghetto Supastar",
+        "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
+      },
+      "artists": [
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
+      "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
     },
     {
       "album": {
@@ -1149,7 +1175,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 274333,
       "name": "Into You (feat. Ashanti)",
       "url": "https://open.spotify.com/track/4b5aJdOgxps6z0dPe6wCHF"
@@ -1189,7 +1215,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 227546,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0OaunKfsxkgBvPv68jBbmm"
@@ -1825,7 +1851,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
@@ -1847,7 +1873,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/3SwlakM6VX47IwG0Wll5ek"
@@ -1981,7 +2007,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 296586,
       "name": "Rollout (My Business)",
       "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
@@ -1999,7 +2025,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 324373,
       "name": "Rosa Parks",
       "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
@@ -2017,7 +2043,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
@@ -2079,7 +2105,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
@@ -2627,7 +2653,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"

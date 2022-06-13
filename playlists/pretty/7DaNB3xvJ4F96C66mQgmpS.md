@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Work out to these bops and bangers from Nicki Minaj, DJ Snake, and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 87,134 likes - 52 songs - 2 hr 48 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 87,163 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

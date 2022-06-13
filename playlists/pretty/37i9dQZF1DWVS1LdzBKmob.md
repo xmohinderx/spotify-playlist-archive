@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,775 likes - 85 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,911 likes - 85 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 19 | [Crystal Rainbow](https://open.spotify.com/track/3sydV8eodOZbqlyvZSGTzE) | [Jay Schwed](https://open.spotify.com/artist/0qlpbaphCK93r5rzXyb0UC) | [Crystal Singing Bowls Collections of Crystal Tones, Vol\. 2](https://open.spotify.com/album/4pxKkOPcGAJ3qKL1gOwzpM) | 5:41 |
 | 20 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 |
 | 21 | [Quiet Mind](https://open.spotify.com/track/3USCLwxLGH2K4RF38kM45T) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Meditation Garden](https://open.spotify.com/album/2wPPp4GFGmChOqDFe2RUDT) | 2:09 |
-| 22 | [Optimistic Outlook \(Sound Bath\)](https://open.spotify.com/track/0UK7EvfHhwPH5nboxoH9BO) | [JLM](https://open.spotify.com/artist/4N9vPS8yrBg4LjuJQ63HnV) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 3:04 |
+| 22 | [Optimistic Outlook \(Sound Bath\)](https://open.spotify.com/track/0UK7EvfHhwPH5nboxoH9BO) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 3:04 |
 | 23 | [Delta](https://open.spotify.com/track/60F0k85iy85pjlPEhj5AQN) | [Noah Proctor Meditations](https://open.spotify.com/artist/6ttLZmuxBwwIq7Nu7iJbNE) | [Sound Bath](https://open.spotify.com/album/3H5ridvpAuOeAfoHpu8Zpr) | 3:47 |
 | 24 | [Abundance](https://open.spotify.com/track/0rhg4Ev9NAA9P6NNbD7f62) | [Sun Vibrations](https://open.spotify.com/artist/0Km084nANAUaHxyoThFDH6) | [Soundbath](https://open.spotify.com/album/3utL06Yt0D8eedA3BF7ERo) | 11:40 |
 | 25 | [Light Mind](https://open.spotify.com/track/2O10XkNg3GV98VMqe3EbCb) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 3:08 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 41 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 |
 | 42 | [Muladhara: Root \(Live\)](https://open.spotify.com/track/6qwYSWuBQa6sKMoJyaQBiq) | [Sukhmandir & Friends](https://open.spotify.com/artist/0MHhA2kXFGWTZlVYcCI9FT) | [Healing Gong Baths \(Live\)](https://open.spotify.com/album/3tu17NcM3MqKO22cqccpFU) | 10:13 |
 | 43 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 |
-| 44 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/4N9vPS8yrBg4LjuJQ63HnV) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 |
+| 44 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 |
 | 45 | [Dish Trio](https://open.spotify.com/track/1nEolovxEnWDhnt29aGh5a) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 4:25 |
 | 46 | [Deep Ocean](https://open.spotify.com/track/5wy11frXjQ2Pkkz623MCup) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 7:05 |
 | 47 | [Rainbow Song](https://open.spotify.com/track/2ZgPnavu6o3yajZ9GGruxX) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 2:58 |

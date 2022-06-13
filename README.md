@@ -4352,6 +4352,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [香港散步](/playlists/pretty/37i9dQZF1DX3lmnsqvYpgD.md)
 - [龍が如く \-Yakuza: Like a Dragon\-](/playlists/pretty/37i9dQZF1DX40xbLWvaxZD.md)
 - [괜히 센치해](/playlists/pretty/37i9dQZF1DX5a7mln8z0Su.md)
+- [국내 R&B 메가 히트](/playlists/pretty/37i9dQZF1DXe4qmDjDW0Ug.md)
 - [나 혼자 좋아해](/playlists/pretty/37i9dQZF1DX4zvnN9RL36v.md)
 - [나의 우울은,](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md)
 - [뉴트로 댄스 뮤\-직](/playlists/pretty/37i9dQZF1DX0C07QWzaEB5.md)

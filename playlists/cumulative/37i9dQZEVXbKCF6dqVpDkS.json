@@ -4275,7 +4275,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 187131,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab"
@@ -6747,7 +6747,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 160000,
       "name": "Klokken En Stenen",
       "url": "https://open.spotify.com/track/3yTAnIv3fmOOZXdJ5vh9mA"
@@ -12216,6 +12216,28 @@
     },
     {
       "album": {
+        "name": "Veppie vroom",
+        "url": "https://open.spotify.com/album/0RXEbmksA3QO5cpBueLeZ5"
+      },
+      "artists": [
+        {
+          "name": "QuatroByVeks",
+          "url": "https://open.spotify.com/artist/6Thwvyg74Tn4VCSkpsMu65"
+        },
+        {
+          "name": "CJaye",
+          "url": "https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123167,
+      "name": "Veppie vroom",
+      "url": "https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9"
+    },
+    {
+      "album": {
         "name": "Vijfzes",
         "url": "https://open.spotify.com/album/1M0pzYENRnlrAlxyzuVRed"
       },
@@ -13203,7 +13225,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Zij Wil Mij",
       "url": "https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT"

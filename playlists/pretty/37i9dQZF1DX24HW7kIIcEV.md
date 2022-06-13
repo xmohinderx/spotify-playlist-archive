@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,944 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,358 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 70 | [When I Look At You](https://open.spotify.com/track/6ZfXA2xakAvphXOSOJ3u1W) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 4:08 |
 | 71 | [Our Lips Are Sealed](https://open.spotify.com/track/6kv77w8Y9HC4OVLyAqAFpQ) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h), [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 2:39 |
 | 72 | [Hit The Lights](https://open.spotify.com/track/6ciLLh4TkPYDUfNxn2Z0KO) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:14 |
-| 73 | [Can't Help Falling In Love \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
+| 73 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
 | 74 | [So Far So Great \- Theme Song To "Sonny With A Chance"](https://open.spotify.com/track/1gsxPWM5xMX76pSfkeScjh) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again](https://open.spotify.com/album/7dxnFVX8oWY2oIOPsBZKMZ) | 2:14 |
 | 75 | [When You Look Me in the Eyes](https://open.spotify.com/track/6YnauKvhKMFOX63RwmiCwH) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 4:09 |
 | 76 | [Hero](https://open.spotify.com/track/6gsyzNWOSOWSiRgSOuKLgp) | [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK), [Stubby](https://open.spotify.com/artist/0HsUBJ2C2wSkazmGH7cTvq) | [Starstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KE7DaTs2cRWQk6BnRLAD1) | 3:17 |

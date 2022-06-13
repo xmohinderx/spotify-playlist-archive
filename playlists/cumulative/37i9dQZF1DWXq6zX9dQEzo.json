@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 146242,
       "name": "All Things New - Remix",
       "url": "https://open.spotify.com/track/0p65BDGoLDUCoD62bN54re"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 164000,
       "name": "Battle Cry (Neon Feather Remix)",
       "url": "https://open.spotify.com/track/4ixBGmCf95xWJNNHYdfhdp"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 139500,
       "name": "Bom Tempo (Good Time)",
       "url": "https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k"
@@ -872,6 +872,28 @@
     },
     {
       "album": {
+        "name": "Cafeteria",
+        "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Lite Pole",
+          "url": "https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Cafeteria",
+      "url": "https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT"
+    },
+    {
+      "album": {
         "name": "Came For It All",
         "url": "https://open.spotify.com/album/2nYf6yyUwlPmdSLyYe5Gzi"
       },
@@ -891,7 +913,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Came For It All",
       "url": "https://open.spotify.com/track/1VBEsSJhh3HGkz7XNt85OK"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 190427,
       "name": "Creyendo",
       "url": "https://open.spotify.com/track/6l9QdiDUTZakMMe8co4ztr"
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 232615,
       "name": "FYE FYE",
       "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 208152,
       "name": "Get Out My Way",
       "url": "https://open.spotify.com/track/51DaW6U334rZ19HB0oduYe"
@@ -2169,7 +2191,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 149538,
       "name": "Help Me - Josh Ellis Remix",
       "url": "https://open.spotify.com/track/2KxYKAqHF02Tzi3ky7afRV"
@@ -2497,7 +2519,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 269353,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
@@ -2773,7 +2795,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8"
@@ -2909,7 +2931,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 195918,
       "name": "KING of 'kings\"",
       "url": "https://open.spotify.com/track/1LRjbSailfqUFnYUGZIinm"
@@ -3521,7 +3543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 222651,
       "name": "No Chains",
       "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
@@ -3557,7 +3579,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 161777,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/2NGpagbXNJ8PbDtyALd1bF"
@@ -3637,7 +3659,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
@@ -4101,7 +4123,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 238000,
       "name": "Push Thru",
       "url": "https://open.spotify.com/track/5bF0y9fkeEmf2ilhO3CCvr"
@@ -4395,7 +4417,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 144000,
       "name": "Season",
       "url": "https://open.spotify.com/track/6eaicDoH7Icxf9J4HdPfVk"
@@ -4457,7 +4479,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 205605,
       "name": "Siempre Me Encuentras (You Find Me)",
       "url": "https://open.spotify.com/track/6dpAWWgS2AzgAIkOtLH38k"
@@ -4527,7 +4549,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 162153,
       "name": "Sin Pausa",
       "url": "https://open.spotify.com/track/0pGz2PpI6ijh1DHufWkkyI"
@@ -4647,7 +4669,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 162694,
       "name": "Stop",
       "url": "https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS"
@@ -4793,7 +4815,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 208564,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
@@ -5187,7 +5209,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 221435,
       "name": "Unstoppable (feat. Lecrae)",
       "url": "https://open.spotify.com/track/1Ak89vujl3AqjxDMvKmJRQ"
@@ -5549,7 +5571,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 206840,
       "name": "Wide Open (feat. Matthew West)",
       "url": "https://open.spotify.com/track/72rlXntnDmDiqIXGHHWAXV"
@@ -5677,7 +5699,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 171694,
       "name": "Wodie",
       "url": "https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM"
@@ -5893,7 +5915,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 237709,
       "name": "Your Love (HGHTS Remix)",
       "url": "https://open.spotify.com/track/7tOL3KPed2xaNyDIYBo45p"

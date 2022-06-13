@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Reneé Rapp, Stephen Sanchez, and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 115,187 likes - 57 songs - 3 hr 16 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,185 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

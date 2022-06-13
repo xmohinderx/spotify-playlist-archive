@@ -4,7 +4,7 @@
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
+53 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Tenía Que Ser Así](https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:11 | 2022-06-01 |  |
 | [Todo Cambio \(En Vivo\)](https://open.spotify.com/track/3seNEk7YiBY7y4GBpcX8hA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Todo Cambio \(En Vivo\)](https://open.spotify.com/album/694JNI13itntLDegX7cvYn) | 3:51 | 2022-06-01 |  |
 | [Tu Cancion Favorita](https://open.spotify.com/track/2ohcwucy8qnoj7aR6hd5Ze) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:55 | 2022-06-01 |  |
+| [Tu No Tienes La Culpa](https://open.spotify.com/track/5gPMFeXN11KgZBtY5YShxx) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:31 | 2022-06-12 |  |
 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 | 2022-06-01 |  |
-| [Ya Lo Supere](https://open.spotify.com/track/2ypcd1xLqUzpgW70Ap4c24) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:49 | 2022-06-01 |  |
+| [Ya Lo Supere](https://open.spotify.com/track/2ypcd1xLqUzpgW70Ap4c24) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:49 | 2022-06-01 | 2022-06-13 |
 | [¿Por Que Me Enamoré?](https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:25 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

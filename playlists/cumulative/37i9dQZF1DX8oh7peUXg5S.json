@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "25 a\u00f1os",
       "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 213909,
       "name": "Aves Enjauladas",
       "url": "https://open.spotify.com/track/7vi5ATzi8QEwPb2flP5V2J"
@@ -407,6 +407,24 @@
       "duration_ms": 279266,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "album": {
+        "name": "Pa'fuera y Pa'dentro",
+        "url": "https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200416,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4pesB5Dew0MP6mwvyfj4sX"
     },
     {
       "album": {
@@ -555,6 +573,24 @@
       "duration_ms": 219960,
       "name": "Desenga\u00f1o",
       "url": "https://open.spotify.com/track/4lPrY70fkKQy1aQRZEKsSE"
+    },
+    {
+      "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "album": {
@@ -714,6 +750,24 @@
     },
     {
       "album": {
+        "name": "El Viejo Boxeador",
+        "url": "https://open.spotify.com/album/3dnu9wWUA6vWHkIoZthBUY"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249783,
+      "name": "El Viejo Boxeador",
+      "url": "https://open.spotify.com/track/5qtiXXENZBTM5UKlByOj1n"
+    },
+    {
+      "album": {
         "name": "El \u00faltimo hombre en la tierra",
         "url": "https://open.spotify.com/album/0fmNaVHkRtCWpOgNDtfoRX"
       },
@@ -725,7 +779,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 233651,
       "name": "El \u00faltimo hombre en la tierra",
       "url": "https://open.spotify.com/track/3WoTzTDj5HMfH1LJweA4SZ"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 285289,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
@@ -883,7 +937,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
@@ -905,7 +959,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 229165,
       "name": "Honrar la Vida",
       "url": "https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6"
@@ -1107,7 +1161,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -1129,7 +1183,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7vgvrrqPEJdmy6SPPfVU6t"
@@ -1169,6 +1223,24 @@
       "duration_ms": 248413,
       "name": "Me quedo contigo - Radio Edit",
       "url": "https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20"
+    },
+    {
+      "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "album": {
@@ -1277,7 +1349,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 268733,
       "name": "Nieve - En Directo",
       "url": "https://open.spotify.com/track/4KRNPEyIFRp7MH7ZSxP9k6"
@@ -1295,7 +1367,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 212880,
       "name": "No Dudaria",
       "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
@@ -1378,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "album": {
         "name": "La Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
@@ -1393,7 +1483,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 228173,
       "name": "No S\u00e9 por Qu\u00e9 Te Quiero (with Victor Manuel)",
       "url": "https://open.spotify.com/track/5iG5xQWP5aFCsXGbbkGtTE"
@@ -1593,7 +1683,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 174159,
       "name": "Por qu\u00e9 te vas",
       "url": "https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH"
@@ -1752,6 +1842,24 @@
     },
     {
       "album": {
+        "name": "Lo Mal Que Estoy y Lo Poco Que Me Quejo",
+        "url": "https://open.spotify.com/album/7auuEfoSwTUYponi3cKCuG"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Qu\u00e9 Bello Es Vivir",
+      "url": "https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1871,7 +1979,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 242000,
       "name": "Siete Vidas",
       "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
@@ -1911,7 +2019,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
@@ -1947,7 +2055,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 254373,
       "name": "Soldadito marinero",
       "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
@@ -2013,7 +2121,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
@@ -2165,7 +2273,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 228000,
       "name": "Tristeza de amor",
       "url": "https://open.spotify.com/track/4wCFuKKGHErY1mZIZEPaw9"
@@ -2187,7 +2295,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 220139,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1WwPYCEpRgcvWikz2vSbai"

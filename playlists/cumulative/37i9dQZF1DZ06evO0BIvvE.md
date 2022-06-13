@@ -4,7 +4,7 @@
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
+62 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2022-05-25 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/4jJ2YMKm2FqIvn7p85pSJY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 4:29 | 2022-05-25 |  |
 | [My Head's On Straight](https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:11 | 2022-05-25 |  |
-| [On A Clear Day \(You Can See Forever\)](https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 4:36 | 2022-05-27 |  |
+| [On A Clear Day \(You Can See Forever\)](https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 4:36 | 2022-05-27 | 2022-06-13 |
 | [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 | 2022-05-30 | 2022-06-01 |
 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2022-05-25 |  |
 | [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 | 2022-05-29 |
@@ -65,6 +65,7 @@
 | [War of the Gods](https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 10:05 | 2022-05-25 |  |
 | [We All Got A Mission](https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 3:20 | 2022-05-26 |  |
 | [When Love Is New](https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:29 | 2022-05-25 |  |
+| [When Will I See You Again / Love Train \- Live Medley](https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 8:01 | 2022-06-12 |  |
 | [Windy](https://open.spotify.com/track/56SmXWXB6wIJRlDxdiRZ2T) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 2:49 | 2022-05-29 | 2022-06-12 |
 | [Without You](https://open.spotify.com/track/67YNqbykfHQb8ZyMfnHE2J) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 3:16 | 2022-05-25 |  |
 | [Word Sure Gets Around](https://open.spotify.com/track/5yFXcyvl8iJXkEyOsYBj1P) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 4:22 | 2022-05-25 | 2022-06-08 |

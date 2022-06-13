@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-824 songs - 1 day 21 hr 30 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
+825 songs - 1 day 21 hr 35 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-21 | 2021-06-02 |
 | [Af hverju er enginn hérna reiður nema ég?](https://open.spotify.com/track/2hvtHjHv1zwA0bxLdfulMG) | [kef LAVÍK](https://open.spotify.com/artist/6Z8ft9FEbj1ECFHEWfR9Ku), [Big Hamka](https://open.spotify.com/artist/5CizCtfww3srtVFOMPlZGS) | [Eilífur snjór í augunum](https://open.spotify.com/album/4q5wDVKZaUHsgWMFutpQOL) | 2:41 | 2021-08-29 | 2021-08-30 |
 | [Afgan](https://open.spotify.com/track/3T7Dil6DmABypEgSrKrLnv) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Fingraför](https://open.spotify.com/album/7p8toyIHleb6ZiLRaxE0aB) | 5:24 | 2021-03-29 | 2022-04-21 |
+| [Afgan](https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Fingraför](https://open.spotify.com/album/2TftIxOv1RfrNXZ8xBWm2p) | 5:24 | 2022-06-12 |  |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-08-05 | 2021-08-24 |
 | [Aldrei fór ég suður](https://open.spotify.com/track/2qQQMaa0fgUzWwGo8q4EOm) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Dögun](https://open.spotify.com/album/4RrY2Blh3hjl0vOvbtqx0F) | 5:08 | 2021-04-03 | 2022-04-21 |
 | [Aldrei Toppað](https://open.spotify.com/track/7teFuwH2migyw406oQEEWW) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Aldrei Toppað](https://open.spotify.com/album/2jxwaybAMPXj0NNQxyhGlS) | 2:49 | 2022-04-30 |  |
@@ -400,7 +401,7 @@
 | [Komið Að Því](https://open.spotify.com/track/1dpR3nENYUnY9g9CZTd3Is) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Sverrir Bergmann](https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp), [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [Komið Að Því](https://open.spotify.com/album/0fU8OHsj7srKSbhEWmXZ8B) | 2:41 | 2021-06-27 | 2021-10-17 |
 | [Kviksyndi](https://open.spotify.com/track/6VQGFOVwopnIyZxszV2mEL) | [Sturla Atlas](https://open.spotify.com/artist/7yuLFZmY5CuPf81al33Ot2), [Þjóðleikhúsið](https://open.spotify.com/artist/2gfpXS8sdFGXOjePp0m6HA) | [Kviksyndi](https://open.spotify.com/album/7dgmPnQnhzCCRDBmkCUQ09) | 2:51 | 2021-10-03 | 2021-10-04 |
 | [Kósíheit par exelans](https://open.spotify.com/track/1HszLka7c5hVaxtubhOub0) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD) | [Jól og blíða](https://open.spotify.com/album/1BTLwyCFeToXsnqeQB1Lcq) | 4:13 | 2021-12-06 | 2021-12-29 |
-| [Kúreki \(feat\. Daniil & Joey Christ\)](https://open.spotify.com/track/3Y8roJVQA2uH573jNSTR0z) | [Bassi Maraj](https://open.spotify.com/artist/2ot1BrqrtRXWOgvlv4PxLl), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Kúreki \(feat\. Daniil & Joey Christ\)](https://open.spotify.com/album/2m3t477BofP7dq2qdmkD4g) | 3:40 | 2022-06-11 |  |
+| [Kúreki \(feat\. Daniil & Joey Christ\)](https://open.spotify.com/track/3Y8roJVQA2uH573jNSTR0z) | [Bassi Maraj](https://open.spotify.com/artist/2ot1BrqrtRXWOgvlv4PxLl), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Kúreki \(feat\. Daniil & Joey Christ\)](https://open.spotify.com/album/2m3t477BofP7dq2qdmkD4g) | 3:40 | 2022-06-11 | 2022-06-13 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-18 |
 | [LaLa 2](https://open.spotify.com/track/2WBeB3T9y3kzcZGNLiQ9vc) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Flottur Skrákur 2](https://open.spotify.com/album/3fhZVuHw3gbUOBJpzX8bxf) | 2:16 | 2021-09-02 | 2021-09-06 |
 | [LaLíf](https://open.spotify.com/track/6NI1jGEu4dRI1g9f6u7hB0) | [Kjartan Ólafsson](https://open.spotify.com/artist/1FnB4v8w7m3AJfoc1UQfeD) | [Lalíf 1985\-1987](https://open.spotify.com/album/0PoT6wAUqC9SztPVUCO79b) | 3:17 | 2022-02-13 | 2022-02-17 |

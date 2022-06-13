@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Snarky Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,632 likes - 85 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,857 likes - 85 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

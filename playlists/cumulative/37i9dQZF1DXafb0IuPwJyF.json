@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: YOASOBI",
+  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Novelbright",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246612,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
+    },
+    {
+      "album": {
         "name": "Betrayal Game",
         "url": "https://open.spotify.com/album/3Pznh6OQ1iCcFfTFmsnOu9"
       },
@@ -255,6 +273,28 @@
       "duration_ms": 225266,
       "name": "Betrayal Game",
       "url": "https://open.spotify.com/track/2VKwa5aHsNu0ZGQg77kdBd"
+    },
+    {
+      "album": {
+        "name": "Big Dreams",
+        "url": "https://open.spotify.com/album/1S3vzGhD9aV8SzYfx92dqH"
+      },
+      "artists": [
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        },
+        {
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188523,
+      "name": "Big Dreams",
+      "url": "https://open.spotify.com/track/08ZA4Yeh77vYfgkzXiwhBc"
     },
     {
       "album": {
@@ -433,6 +473,24 @@
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "album": {
+        "name": "crash",
+        "url": "https://open.spotify.com/album/56TSISxm1MrlCkokyAD7UT"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "crash",
+      "url": "https://open.spotify.com/track/4e5kKctP1oVPUvST4Dto1o"
     },
     {
       "album": {
@@ -1075,7 +1133,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 173288,
       "name": "ISOGA\u2661PEACH",
       "url": "https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs"
@@ -1151,7 +1209,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 210633,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/18epNr7w87GhCVoJTQxOKD"
@@ -1332,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "melt bitter",
+        "url": "https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI"
+      },
+      "artists": [
+        {
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309840,
+      "name": "melt bitter",
+      "url": "https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi"
+    },
+    {
+      "album": {
         "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI"
       },
@@ -1441,7 +1517,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 192713,
       "name": "No Time to Cast Anchor",
       "url": "https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF"
@@ -1525,7 +1601,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 209866,
       "name": "One Way feat. YONCE",
       "url": "https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy"
@@ -2797,7 +2873,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 211746,
       "name": "\u305f\u3076\u3093Maybe\u660e\u6cbb feat. \u3042\u3001\u305f\u304e\u308c\u3093\u305f\u308d\u3046",
       "url": "https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc"
@@ -4240,6 +4316,28 @@
     },
     {
       "album": {
+        "name": "VVARP",
+        "url": "https://open.spotify.com/album/6bO46oE7GTo0UobYI15jEq"
+      },
+      "artists": [
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY"
+        },
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "\u5922\u306e\u307e\u305f\u5922 feat. tofubeats",
+      "url": "https://open.spotify.com/track/2qzV8U4qIdaRjlq68eC8dt"
+    },
+    {
+      "album": {
         "name": "\u5927\u4eba\u306b\u306a\u3063\u3066",
         "url": "https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA"
       },
@@ -4413,7 +4511,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 241989,
       "name": "\u5fc3\u97f3",
       "url": "https://open.spotify.com/track/3wxYirejZ1NWKp2uy3Ir5N"
@@ -4471,6 +4569,24 @@
       "duration_ms": 227679,
       "name": "\u60aa\u9b54\u306e\u5b50",
       "url": "https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp"
+    },
+    {
+      "album": {
+        "name": "\u60d1\u3046\u7cf8",
+        "url": "https://open.spotify.com/album/4HUzZrrySRzQKmHw6eca8C"
+      },
+      "artists": [
+        {
+          "name": "Masaki Suda",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273613,
+      "name": "\u60d1\u3046\u7cf8",
+      "url": "https://open.spotify.com/track/340zG7IKPHFjEFgzq9MFYx"
     },
     {
       "album": {
@@ -4659,6 +4775,24 @@
       "duration_ms": 218400,
       "name": "\u65b0\u547c\u5438",
       "url": "https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     },
     {
       "album": {
@@ -5401,7 +5535,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"

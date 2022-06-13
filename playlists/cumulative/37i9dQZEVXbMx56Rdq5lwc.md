@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-737 songs - 1 day 16 hr 8 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+738 songs - 1 day 16 hr 11 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Mėlyna Mėlyna](https://open.spotify.com/track/6n8I3K81Zfb54V7M96qwzm) | [Sisters On Wire](https://open.spotify.com/artist/5qrcz3CEizRZbHHqWomu9O) | [Mėlyna Mėlyna](https://open.spotify.com/album/07OPIoWoI81qxMvQcuJYi9) | 4:45 | 2021-03-27\* | 2021-09-29 |
 | [N 2 Deep](https://open.spotify.com/track/34D6FJysnQioVingDKufuf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:33 | 2021-09-05 | 2021-09-07 |
-| [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-07 |  |
+| [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-07 | 2022-06-13 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-08 |
 | [Nauji metai](https://open.spotify.com/track/6apK1b6zaXIJGCBgQuGTCV) | [Antis](https://open.spotify.com/artist/7mCLESNi2TWfJcmHA6z0we), [Leon Somov](https://open.spotify.com/artist/5tqSjP3EGoOTriKogeTNO2), [Jazzu](https://open.spotify.com/artist/025drJNxnbUe33TXcai4Z4) | [Geriausios dainos II](https://open.spotify.com/album/7J0qiLq9FvvpZpNbkVcqyz) | 3:41 | 2022-01-01 | 2022-01-03 |
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-01 | 2021-08-22 |
@@ -597,6 +597,7 @@
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-12 | 2022-05-28 |
 | [Split Split](https://open.spotify.com/track/0gSIUHUYTWAKiDWYPGsM8c) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO!](https://open.spotify.com/album/4VsOrX8Fg32ZQENEhUFTI5) | 2:34 | 2021-09-18 | 2021-09-20 |
 | [Stabiliau](https://open.spotify.com/track/17bZxSmRjn2HF3EX4jHcob) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Stabiliau](https://open.spotify.com/album/3GN2Q6CgVYMel7VeNk3VTn) | 2:38 | 2021-04-04 | 2021-05-13 |
+| [Stadionai](https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n) | 3:14 | 2022-06-12 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-04-05 | 2022-04-18 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2022-01-09 | 2022-01-13 |

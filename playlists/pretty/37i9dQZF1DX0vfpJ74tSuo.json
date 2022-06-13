@@ -1,29 +1,13 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 30476,
+  "num_followers": 30533,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDk5NjA4NCwwMDAwMDAwMDg2MDY1ZmFiYTMyNDE2MDM4MTIyYTZlMDczZTJiMTQ4",
+  "snapshot_id": "MTY1NTA4MjQ5NSwwMDAwMDAwMGFlZjlkY2YyNTM2MDkyYmI1NTkzZmQyYjZiYTkzNTA0",
   "tracks": [
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "Dire Straits (Remastered)",
-        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Six Blade Knife",
-      "url": "https://open.spotify.com/track/7n13S0lBOEXLx6duwghCUM"
-    },
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 241000,
       "name": "My Home Is In the Delta",
       "url": "https://open.spotify.com/track/5Qg734lkKdaPeE8ZYA6EwA"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Elementary Doctor Watson",
+        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+      },
+      "artists": [
+        {
+          "name": "Doc & Merle Watson",
+          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Elementary Doctor Watson",
-        "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
+        "name": "Dire Straits (Remastered)",
+        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
       },
       "artists": [
         {
-          "name": "Doc & Merle Watson",
-          "url": "https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 207387,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
+      "duration_ms": 252693,
+      "name": "Six Blade Knife",
+      "url": "https://open.spotify.com/track/7n13S0lBOEXLx6duwghCUM"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
       "artists": [
         {
@@ -216,25 +216,25 @@
           "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+      "duration_ms": 423560,
+      "name": "Done Changed My Way of Living",
+      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     },
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Rory Gallagher",
-        "url": "https://open.spotify.com/album/6Afgrco77rEXSXTE68wqON"
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         }
       ],
-      "duration_ms": 304973,
-      "name": "For The Last Time - Alternate Take 1",
-      "url": "https://open.spotify.com/track/6gjYKA3mrFZZJvZdgXbLgK"
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/1dP4dfdYnGaYTt1gYWqOSA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 202066,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/5JOWR8OXp4FcpDcsxL8lZr"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -303,24 +303,24 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 233695,
-      "name": "Jim Lee Blues Pt. 1",
-      "url": "https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6"
+      "duration_ms": 162040,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
     },
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
       "artists": [
         {
@@ -328,9 +328,25 @@
           "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 423560,
-      "name": "Done Changed My Way of Living",
-      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Doc Watson",
+        "url": "https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r"
+      },
+      "artists": [
+        {
+          "name": "Doc Watson",
+          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Sittin On Top Of The World",
+      "url": "https://open.spotify.com/track/3GgvAt2Cyp7GRhYy9Luus1"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -355,38 +371,18 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+        "name": "Boomer's Story",
+        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
       },
       "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "I'm Satisfied",
-      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "Talking Timbuktu",
-        "url": "https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
         {
           "name": "Ry Cooder",
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 429973,
-      "name": "Ai Du",
-      "url": "https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE"
+      "duration_ms": 253066,
+      "name": "Cherry Ball Blues",
+      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -423,54 +419,6 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Best of the Blues Guitar King 1951-1966",
-        "url": "https://open.spotify.com/album/1vI1KwsnWokzvNeXoNtlYZ"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/68joAgewDdtHYPwIyOFhIX"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "Alabama Blues!",
-        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Alabama Blues",
-      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
         "name": "The Complete Prestige/Bluesville Recordings",
         "url": "https://open.spotify.com/album/57Xzt2jSuJErOnEEmyE0Mr"
       },
@@ -483,6 +431,22 @@
       "duration_ms": 271240,
       "name": "Automobile Blues",
       "url": "https://open.spotify.com/track/2zs9TAPSIj3UY6TDN5Ic0u"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "I'm Satisfied",
+      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -503,6 +467,22 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
+        "name": "Hook 'Em - Best of John Lee Hooker",
+        "url": "https://open.spotify.com/album/7ppgYbEN4BblWFbiy0b3HG"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "I'm In the Mood",
+      "url": "https://open.spotify.com/track/5PheG3ZH6bMxxHic2PWPUT"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
         "name": "Lone Star Blues",
         "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
       },
@@ -519,6 +499,22 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Best of the Blues Guitar King 1951-1966",
+        "url": "https://open.spotify.com/album/1vI1KwsnWokzvNeXoNtlYZ"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 179962,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/68joAgewDdtHYPwIyOFhIX"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -547,18 +543,18 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 188813,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -583,66 +579,106 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Boomer's Story",
-        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
       "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Been Worryin'",
+        "url": "https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        },
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 182761,
+      "name": "Been Worryin'",
+      "url": "https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
         {
           "name": "Ry Cooder",
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Cherry Ball Blues",
-      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
+      "duration_ms": 429973,
+      "name": "Ai Du",
+      "url": "https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE"
     },
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Doc Watson",
-        "url": "https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r"
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY"
       },
       "artists": [
         {
-          "name": "Doc Watson",
-          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Sittin On Top Of The World",
-      "url": "https://open.spotify.com/track/3GgvAt2Cyp7GRhYy9Luus1"
+      "duration_ms": 233695,
+      "name": "Jim Lee Blues Pt. 1",
+      "url": "https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6"
     },
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+        "name": "Booker\u2019s Guitar",
+        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
       },
       "artists": [
         {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -663,18 +699,18 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
+        "name": "Rory Gallagher",
+        "url": "https://open.spotify.com/album/6Afgrco77rEXSXTE68wqON"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 336280,
-      "name": "Forever On My Mind",
-      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
+      "duration_ms": 304973,
+      "name": "For The Last Time - Alternate Take 1",
+      "url": "https://open.spotify.com/track/6gjYKA3mrFZZJvZdgXbLgK"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -695,6 +731,22 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
+        "name": "Ball And Chain",
+        "url": "https://open.spotify.com/album/2AOVcou4z2NUEEJ8p36eje"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/5OKOMO49kNKx3QfJEgNEnF"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -711,22 +763,6 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Ride Your Pony",
-        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
-      },
-      "artists": [
-        {
-          "name": "Lee Dorsey",
-          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Get out of My Life Woman",
-      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -739,54 +775,6 @@
       "duration_ms": 152076,
       "name": "Jumper Hanging Out On the Line",
       "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/5lc2xbWv8d8jLBUnjuwfH5"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/27gKtPpGT849HU3g2J6omx"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2022-05-27 00:10:00",
-      "album": {
-        "name": "Global Griot",
-        "url": "https://open.spotify.com/album/0L18iocdaWnNU9lnz3lbDg"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 151403,
-      "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/6damla4FYTiLV6ljZPsaZw"
     },
     {
       "added_at": "2022-05-27 00:10:00",
@@ -823,18 +811,34 @@
     {
       "added_at": "2022-05-27 00:10:00",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+        "name": "Ride Your Pony",
+        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Lee Dorsey",
+          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+      "duration_ms": 146266,
+      "name": "Get out of My Life Woman",
+      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
+    },
+    {
+      "added_at": "2022-05-27 00:10:00",
+      "album": {
+        "name": "From Dusk Till Dawn - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI"
     }
   ],
   "unique_name": "Morning Blues",

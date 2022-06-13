@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Da LAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,998 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,052 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-683 songs - 1 day 13 hr 38 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+685 songs - 1 day 13 hr 44 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-09-14 | 2021-10-04 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-10 | 2022-01-29 |
 | [ACDC](https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [ACDC](https://open.spotify.com/album/3hLs2CpWBgcjnK8r2JJKHS) | 4:00 | 2022-03-18 | 2022-05-08 |
-| [Adams](https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:54 | 2022-05-07 |  |
+| [Adams](https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:54 | 2022-05-07 | 2022-06-13 |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2021-03-27\* | 2021-03-29 |
@@ -191,7 +191,7 @@
 | [Dope](https://open.spotify.com/track/32gvR8ySw32FThelwi9yWQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 4:02 | 2022-03-12 | 2022-03-15 |
 | [Drakula](https://open.spotify.com/track/0n7PAKyFVip3Zq9a8tkgHF) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:08 | 2021-05-08 | 2021-05-31 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-04-03 | 2021-11-23 |
-| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 |  |
+| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 | 2022-06-13 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-01-08 |
 | [ElGRANDE TOTO Leo](https://open.spotify.com/track/5PZ6LUihzGRfztkLib7K91) | [Anass Marbouh](https://open.spotify.com/artist/1rNCHLdAWPEmXSVAghhslN) | [ElGRANDE TOTO Leo](https://open.spotify.com/album/5WLbRmbbRcusSZljU55u8V) | 2:58 | 2021-08-07 | 2021-08-09 |
@@ -303,6 +303,7 @@
 | [Jalebi Baby](https://open.spotify.com/track/40R5dXDbS3mLG9ng7COXtt) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/6ZVhO5wnf5PfUfREZylP2u) | 3:09 | 2021-03-27\* | 2021-04-10 |
 | [Jamais Vu](https://open.spotify.com/track/7cgWWkpUaS94xoWI8lMGiI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:47 | 2022-02-23 | 2022-02-25 |
 | [Jay\-Ji \- Freestyle](https://open.spotify.com/track/2NDeDdTOJAyQPwrLB4Iojx) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [DJ Sim\-H](https://open.spotify.com/artist/4vhOcnMfCqZAOoLTpiDxXF) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 2:00 | 2021-04-13 | 2021-04-14 |
+| [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-06-12 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 | 2022-04-16 |
 | [Jesus](https://open.spotify.com/track/5PrzmfGWybLKwZtS9aCmyl) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [ChefNaykei](https://open.spotify.com/artist/50Khctx31ju0uJ9kTBkvYf) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 2:46 | 2022-01-29 | 2022-01-31 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-02 |
@@ -422,6 +423,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
 | [Mood](https://open.spotify.com/track/2KnZ3KmkarHJM6F1t6vdk2) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:53 | 2021-12-05 | 2021-12-06 |
 | [Moon](https://open.spotify.com/track/1kBDdMMhlNZtfa1CkAvKae) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:28 | 2021-12-04 | 2021-12-05 |
+| [Moon](https://open.spotify.com/track/4gc0S7q3fVfBXutIkxuMJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Moon](https://open.spotify.com/album/3pZHQ0StXItIOwZyQ23JdB) | 3:10 | 2022-06-12 |  |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-09-02 |
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2021-05-07 | 2021-06-23 |
 | [Moral](https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:04 | 2021-03-27\* | 2022-03-01 |

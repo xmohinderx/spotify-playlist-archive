@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,392 likes - 72 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,398 likes - 72 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

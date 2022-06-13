@@ -2,7 +2,7 @@
 
 ### [Pride Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: sedguy
+> Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Dawid Grzelak
 
 74 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 

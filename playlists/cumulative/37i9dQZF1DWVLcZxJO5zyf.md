@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça os hits do momento do pop BR! Foto: IZA
+> Ouça os hits do momento do pop BR! Foto: Baco Exu do Blues, Luísa Sonza
 
-100 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+102 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-01-14 | 2022-01-30 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-01-14 |  |
 | [Bilhete Premiado](https://open.spotify.com/track/7Ark5JFItgqWf9DlizoxuV) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Bilhete Premiado](https://open.spotify.com/album/33rTS3jmRpkV29g8q6YA38) | 2:09 | 2022-01-14 | 2022-02-05 |
+| [Bom Partido](https://open.spotify.com/track/1e0LqNTaqZvubsEJVNtsa8) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Guêrin](https://open.spotify.com/artist/61K0zrlTUrH4rSPDfImph8) | [Bom Partido](https://open.spotify.com/album/7DhFFsKXAReF0OEZ1KcEDc) | 2:34 | 2022-06-13 |  |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-01-14 |  |
 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 | 2022-04-06 |  |
 | [Bossa Nossa](https://open.spotify.com/track/1ZnnHI1HpCLhuYapDCnZUv) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [GRACINHA](https://open.spotify.com/album/0Nf3vjP7Uxtnyxt3GTibrS) | 3:42 | 2022-01-14 | 2022-01-27 |
@@ -36,7 +37,7 @@
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-01-14 |  |
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2022-01-14 | 2022-04-13 |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2022-01-14 | 2022-01-30 |
-| [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 |  |
+| [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-06-13 |
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Hodari](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-01-14 | 2022-02-05 |
 | [Fake Amor 2](https://open.spotify.com/track/78J51AcYXlVFK0J5xHOjs1) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Fake Amor 2](https://open.spotify.com/album/2MYnqMrNTUNGwvkrl5Ktqd) | 2:39 | 2022-02-04 | 2022-04-07 |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-01-14 | 2022-04-13 |
@@ -50,8 +51,9 @@
 | [Garota Infernal](https://open.spotify.com/track/1v7claHAuCV40i4Z6BkVdq) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Garota Infernal](https://open.spotify.com/album/4Q7onjpfABjrDQMbuGeTTg) | 2:29 | 2022-01-29 | 2022-03-12 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-13 |  |
 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 | 2022-01-14 |  |
+| [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 | 2022-06-13 |  |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-01-14 |  |
-| [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 | 2022-01-14 |  |
+| [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 | 2022-01-14 | 2022-06-13 |
 | [Kikada do Ano](https://open.spotify.com/track/5fqfsptWtZVpULWIEm48ly) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Kikada do Ano](https://open.spotify.com/album/52ZcNrpr94CVDlyeGJVnj0) | 2:32 | 2022-03-18 |  |
 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 | 2022-01-14 | 2022-02-05 |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2022-01-14 |  |

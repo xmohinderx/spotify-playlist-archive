@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,222 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,399 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 65 | [Rafiki's Fireflies](https://open.spotify.com/track/2GamicW8mLY9RxSLfPrN9L) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 1:52 |
 | 66 | [A Golden Childhood](https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:56 |
 | 67 | [Enchanted Suite \- From "Enchanted"/Score](https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 4:32 |
-| 68 | [You Can Never Belong \- From "Lilo & Stitch"/Score](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 |
+| 68 | [You Can Never Belong](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 |
 | 69 | [Rhapsody In Blue](https://open.spotify.com/track/1s1RlSnTe70UVao58Nx7SN) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Fantasia 2000](https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp) | 12:35 |
 | 70 | [Boo's Going Home](https://open.spotify.com/track/5H2HoE7EQjHaBbRK05Ezy8) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:33 |
 | 71 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 90 | [The Sorcerer's Apprentice](https://open.spotify.com/track/2OHnoGjn6X6kDwzO7Rw0Y9) | [Paul Dukas](https://open.spotify.com/artist/3KpcdlqCaWWruPfmM2rWy1), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Fantasia 2000](https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp) | 9:37 |
 | 91 | [La Valse de L'Amour](https://open.spotify.com/track/0BNQdhKugKzoezQVkHB1TA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:34 |
 | 92 | [Will He Shoemaker?](https://open.spotify.com/track/57oVp2b8qARYTp8XbVkDaZ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 3:17 |
-| 93 | [I'm Lost \- From "Lilo & Stitch"/Score](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 |
+| 93 | [I'm Lost](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 |
 | 94 | [A Bug's Life Suite](https://open.spotify.com/track/020fkOdcrpPe7do3KbXHVB) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [A Bug's Life](https://open.spotify.com/album/5yc00SZnc1RwQQ7jquyGZM) | 5:13 |
 | 95 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 |
 | 96 | [The Cleaner](https://open.spotify.com/track/1fcYjTqB3hpvz0ZMdsrA4V) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2 Original Soundtrack](https://open.spotify.com/album/23jso9783rnqoWnyuYysJ1) | 1:50 |

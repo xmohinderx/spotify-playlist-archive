@@ -1,13 +1,37 @@
 {
   "description": "Best Bollywood dance songs from last 10 years. Cover- Kartik Aaryan ",
-  "num_followers": 337451,
+  "num_followers": 337662,
   "original_name": "Bollywood Dance Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzg4MTA4NiwwMDAwMDA3YzAwMDAwMTgxMTJmZWExMDIwMDAwMDE4MTEyZmUzMjlk",
+  "snapshot_id": "MTY1NTAxMTgwMCwwMDAwMDA3ZDAwMDAwMTgxNTY2M2Y0YWIwMDAwMDE4MTEyZmUzMjlk",
   "tracks": [
+    {
+      "added_at": "2022-06-12 05:30:00",
+      "album": {
+        "name": "Duppata (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5Mm9tcpSfvdnXdyeLNNCoZ"
+      },
+      "artists": [
+        {
+          "name": "Diesby",
+          "url": "https://open.spotify.com/artist/44NMZks2mBwJdeE0vw7xbb"
+        },
+        {
+          "name": "Chapter6",
+          "url": "https://open.spotify.com/artist/2t4KEbCND2NDdeDQwf1QeY"
+        },
+        {
+          "name": "Shreya Sharma",
+          "url": "https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5"
+        }
+      ],
+      "duration_ms": 220078,
+      "name": "Duppata (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/21lXuRmGGu3Dmh8MN77cXM"
+    },
     {
       "added_at": "2022-05-30 03:24:46",
       "album": {

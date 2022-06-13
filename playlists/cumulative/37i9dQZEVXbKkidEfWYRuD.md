@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-726 songs - 1 day 10 hr 12 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+727 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-18 | 2021-09-18 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-07-04 | 2021-07-25 |
 | [XXX \(feat\. J\. ROUH\)](https://open.spotify.com/track/4B35L6jk3VHtVM6bC28fgN) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH), [104](https://open.spotify.com/artist/3Th60WEZwIWceINQVE4Ipx), [J\. ROUH](https://open.spotify.com/artist/6g87QXCVhSIvOMfOrG5vfL) | [XXX \(feat\. J\. ROUH\)](https://open.spotify.com/album/3bpg3G0tfP7wPlmzpHVrDg) | 4:02 | 2021-04-18 | 2021-04-19 |
-| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 |  |
+| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-06-13 |
 | [Yeyo!](https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB) | [Шайни](https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae) | [Yeyo!](https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI) | 1:51 | 2022-02-12 |  |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-11 |
 | [Young haze](https://open.spotify.com/track/1UJw8etddPmfRrjsATFsev) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 3:54 | 2021-12-18 | 2021-12-23 |
@@ -630,6 +630,7 @@
 | [Сердце для шалав](https://open.spotify.com/track/5XlBwrzkl4FQQZlgjhlAXR) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Сердце для шалав](https://open.spotify.com/album/6SGjoR9ezsVvgrtIKMTieC) | 2:31 | 2021-08-13 | 2021-08-15 |
 | [Сердце для шалав](https://open.spotify.com/track/5q5LkoyUzpD5270U7eYhee) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:31 | 2021-08-15 | 2021-08-27 |
 | [сети](https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [сети](https://open.spotify.com/album/6oBf10h9vqPnaA3GXuxgrZ) | 2:11 | 2021-12-18 | 2022-03-03 |
+| [Сидативи](https://open.spotify.com/track/42p94sdDTSKGCoLUssuJme) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Сидативи](https://open.spotify.com/album/0844YtTkuCfhPwzUe8yq1I) | 2:24 | 2022-06-12 |  |
 | [Синий Lamborghini](https://open.spotify.com/track/6PAPPKv7XPCqPEG95UaOFa) | [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [Синий Lamborghini](https://open.spotify.com/album/2Yg1IIpyfCO2YCX0l5Kv6U) | 2:22 | 2021-03-27\* | 2021-04-21 |
 | [СКИТ ОТ @VSBATTLEVIDEO](https://open.spotify.com/track/1RxiRx3WgDZPBh6Dc64vsR) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 0:46 | 2021-05-30 | 2021-06-01 |
 | [СКИТ ОТ СЛАВЫ](https://open.spotify.com/track/17ioy7ivzs9sZkqnaGrlmc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:03 | 2021-05-22 | 2021-05-25 |

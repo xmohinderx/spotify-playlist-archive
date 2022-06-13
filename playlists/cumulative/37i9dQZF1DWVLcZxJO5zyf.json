@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: IZA",
+  "description": "Ou\u00e7a os hits do momento do pop BR! Foto: Baco Exu do Blues, Lu\u00edsa Sonza",
   "name": "Pop Brasil",
   "published_playlist_ids": [
     "2iwi9LnnLi5RXjdilr4cmw"
@@ -177,6 +177,28 @@
       "duration_ms": 129322,
       "name": "Bilhete Premiado",
       "url": "https://open.spotify.com/track/7Ark5JFItgqWf9DlizoxuV"
+    },
+    {
+      "album": {
+        "name": "Bom Partido",
+        "url": "https://open.spotify.com/album/7DhFFsKXAReF0OEZ1KcEDc"
+      },
+      "artists": [
+        {
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "Gu\u00earin",
+          "url": "https://open.spotify.com/artist/61K0zrlTUrH4rSPDfImph8"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Bom Partido",
+      "url": "https://open.spotify.com/track/1e0LqNTaqZvubsEJVNtsa8"
     },
     {
       "album": {
@@ -619,7 +641,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 172818,
       "name": "Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn"
@@ -892,6 +914,28 @@
     },
     {
       "album": {
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
+    },
+    {
+      "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
       },
@@ -921,7 +965,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 130446,
       "name": "INTERE$$EIRA",
       "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"

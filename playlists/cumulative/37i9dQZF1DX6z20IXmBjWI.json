@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 199925,
       "name": "Already Miss You (Acoustic)",
       "url": "https://open.spotify.com/track/1f30s7FJbAMtNvpMIeV6ci"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/6KbnuJlqf7xp0QUClw8ben"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 230520,
       "name": "Even The Darkness Has Arms",
       "url": "https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 263133,
       "name": "Hold Me - Alternate Version",
       "url": "https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 234194,
       "name": "Human",
       "url": "https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 157174,
       "name": "I'll Keep You",
       "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
@@ -2304,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "The Ghost and the Wall (Acoustic)",
+        "url": "https://open.spotify.com/album/0WmP9xbIqLm5vXFZXgLXSv"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Next to Me - Acoustic",
+      "url": "https://open.spotify.com/track/5bSxRjgi1YMopg5HMUL2gU"
+    },
+    {
+      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -2903,7 +2921,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -3231,7 +3249,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 222133,
       "name": "Silver Dagger - Solstice Version",
       "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
@@ -3451,7 +3469,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/69cm7J1zKMbS9z4oYObomm"
@@ -3581,7 +3599,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
@@ -3657,7 +3675,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
@@ -3816,6 +3834,24 @@
     },
     {
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "album": {
         "name": "All Remains",
         "url": "https://open.spotify.com/album/0mtPmQa6OjJ7BXOJYIX8cD"
       },
@@ -3863,7 +3899,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 185093,
       "name": "Torch",
       "url": "https://open.spotify.com/track/0q7yko1W5meYBjnXUv8nqz"
@@ -3881,7 +3917,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
@@ -3935,7 +3971,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 227152,
       "name": "Tugboats",
       "url": "https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY"
@@ -4101,7 +4137,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 237866,
       "name": "Waterbound (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6hm3iR9TjDa5FCfPhXrnXY"
@@ -4119,7 +4155,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 212706,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ"
@@ -4137,7 +4173,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
@@ -4357,7 +4393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5"

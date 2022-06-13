@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 234313,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 326314,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 240706,
       "name": "Better Than Gold - Live",
       "url": "https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 221093,
       "name": "Big Bad Good",
       "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 199840,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 163942,
       "name": "Demo of a One Night Stand - Live",
       "url": "https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6EWRRqhOPsm1eAtnDwx4fu"
@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "How Can I Know",
+        "url": "https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx"
+      },
+      "artists": [
+        {
+          "name": "Unnveig Aas",
+          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "How Can I Know",
+      "url": "https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5"
+    },
+    {
+      "album": {
         "name": "Sumie",
         "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 218070,
       "name": "I Wanna Be Sedated (feat. Mirel Wagner)",
       "url": "https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 278095,
       "name": "Right as Rain",
       "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 258720,
       "name": "River - Live",
       "url": "https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 293640,
       "name": "Solfager og Ormekongen",
       "url": "https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 403911,
       "name": "Vega",
       "url": "https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 177333,
       "name": "Why Fall Asleep, When You Can Fall in Love?",
       "url": "https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 259267,
       "name": "Your Everything",
       "url": "https://open.spotify.com/track/5D6DZqg15pfpCgtVoYEfLT"

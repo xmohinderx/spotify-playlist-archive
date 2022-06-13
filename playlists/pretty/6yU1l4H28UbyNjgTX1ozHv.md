@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,945 likes - 114 songs - 6 hr 22 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,946 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 38 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 |
 | 39 | [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 |
 | 40 | [Stuck In A Moment You Can't Get Out Of \- Acoustic Version / Remastered 2020](https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind](https://open.spotify.com/album/42zp9yVG4N0SpcejLPoko5) | 3:44 |
-| 41 | [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 |
+| 41 | [Careless Whisper \- Acoustic](https://open.spotify.com/track/56cdkBJabIgi2gynwG8XHL) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Careless Whisper \(Acoustic\)](https://open.spotify.com/album/3kXTkygRasSbX7ckz534Ei) | 3:24 |
 | 42 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |
 | 43 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 |
 | 44 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 113 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 114 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
-Snapshot ID: `NzUxLDYyOGM1ZjE2NjFhMmVmYjFlYmNlYjhjNzg4ZDA0YmNmYTcwYTcwNTQ=`
+Snapshot ID: `NzUzLGVhZGFkMmQ0YjY1MjRlN2FiNzU4Mzc3MDVjM2EzMDQ0NDUzNzBjNzQ=`

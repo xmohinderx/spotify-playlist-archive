@@ -1,15 +1,371 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: kidsai; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 12126,
+  "num_followers": 12164,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDc5NDAwMCwwMDAwMDMwMDAwMDAwMTgxNDk2ODk3MjMwMDAwMDE4MTI4NDJjNGU0",
+  "snapshot_id": "MTY1NTAyNTgyOCwwMDAwMDMwMTAwMDAwMTgxNTczYTAwZjMwMDAwMDE4MTI4NDJjNGU0",
   "tracks": [
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "GIAYPHUT",
+        "url": "https://open.spotify.com/album/12Xpa5Vp0FbiKzx1EU7TCy"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "GIAYPHUT",
+      "url": "https://open.spotify.com/track/4fxb18lZap3bW72cRvTH5i"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "L\u1ea1c V\u00e0o Trong M\u01a1",
+        "url": "https://open.spotify.com/album/0hmMXG6kAHqOJBuYD5indJ"
+      },
+      "artists": [
+        {
+          "name": "SimonC",
+          "url": "https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ"
+        },
+        {
+          "name": "WUY",
+          "url": "https://open.spotify.com/artist/3IGxoxQrju6h4nvh9ZHz4T"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "L\u1ea1c V\u00e0o Trong M\u01a1",
+      "url": "https://open.spotify.com/track/7baBkATX7B3MCUYDyjlXPs"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ng\u01b0\u1eddi Y\u00eau Kh\u00f4ng \u0110\u00e1",
+        "url": "https://open.spotify.com/album/0GKExeMJ8HywYEXtVW70dU"
+      },
+      "artists": [
+        {
+          "name": "CHOCO",
+          "url": "https://open.spotify.com/artist/5G3xTFJKwRceJK9SBNCk2f"
+        },
+        {
+          "name": "The Fillin",
+          "url": "https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW"
+        }
+      ],
+      "duration_ms": 188947,
+      "name": "Ng\u01b0\u1eddi Y\u00eau Kh\u00f4ng \u0110\u00e1",
+      "url": "https://open.spotify.com/track/4wYju2Z68SMqpBeJOkdS8a"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Say \u0110\u1eafm Trong L\u1ea7n \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/5ZrPgAvdWhTCjEDOonp098"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Say \u0110\u1eafm Trong L\u1ea7n \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/079Fpq9a18TX4ir9znmv84"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Y\u00eau \u0110\u01a1n Ph\u01b0\u01a1ng L\u00e0 G\u00ec",
+        "url": "https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo"
+      },
+      "artists": [
+        {
+          "name": "h0n",
+          "url": "https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Y\u00eau \u0110\u01a1n Ph\u01b0\u01a1ng L\u00e0 G\u00ec?",
+      "url": "https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "D\u1ea1i Kh\u1edd",
+        "url": "https://open.spotify.com/album/1bAA7rEfrf0Z31RKYzURIf"
+      },
+      "artists": [
+        {
+          "name": "D'CEE",
+          "url": "https://open.spotify.com/artist/0oRmS4Q2x8CZdvwbdLRLuM"
+        },
+        {
+          "name": "Anh Th\u01b0",
+          "url": "https://open.spotify.com/artist/1PCAC92BfXeeypNz5vFEiB"
+        },
+        {
+          "name": "CM1X",
+          "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "D\u1ea1i Kh\u1edd",
+      "url": "https://open.spotify.com/track/66s8eWGquPuiyuSdtrZ9tV"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ph\u1ecfng L\u00e0i Em",
+        "url": "https://open.spotify.com/album/6mCDV9l81oZiNhqbGFZT70"
+      },
+      "artists": [
+        {
+          "name": "Daduc",
+          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
+        },
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/7KdcPj1wOw7zf4ijzUjajW"
+        }
+      ],
+      "duration_ms": 201422,
+      "name": "Ph\u1ecfng L\u00e0i Em",
+      "url": "https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Tell Ur Mom II (Clean)",
+        "url": "https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "Heily",
+          "url": "https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk"
+        }
+      ],
+      "duration_ms": 219264,
+      "name": "Tell Ur Mom II",
+      "url": "https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Forget Me Now",
+        "url": "https://open.spotify.com/album/3EYIqs33aRHNmaOPB79ito"
+      },
+      "artists": [
+        {
+          "name": "Fishy",
+          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
+        },
+        {
+          "name": "Tr\u00ed D\u0169ng",
+          "url": "https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Forget Me Now",
+      "url": "https://open.spotify.com/track/1H3YufOafybrq0l9U77aNn"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Gi\u1ea5c M\u01a1 R\u1ea5t Th\u01a1",
+        "url": "https://open.spotify.com/album/3emRWovxjpnUNKVYbDTctY"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "thaison!",
+          "url": "https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz"
+        }
+      ],
+      "duration_ms": 172992,
+      "name": "Gi\u1ea5c M\u01a1 R\u1ea5t Th\u01a1",
+      "url": "https://open.spotify.com/track/546ce8vBSyZFwiEfOZ3fx1"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Mai v\u1ec1",
+        "url": "https://open.spotify.com/album/6e7wNcPs79xv9punGq5XTV"
+      },
+      "artists": [
+        {
+          "name": "Dfoxie37",
+          "url": "https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG"
+        },
+        {
+          "name": "Myhai",
+          "url": "https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Mai v\u1ec1",
+      "url": "https://open.spotify.com/track/76eYOvkCQ1b7E7tpJ2usvN"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Lying to myself",
+        "url": "https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N"
+      },
+      "artists": [
+        {
+          "name": "Dab",
+          "url": "https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV"
+        },
+        {
+          "name": "sy",
+          "url": "https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU"
+        }
+      ],
+      "duration_ms": 176935,
+      "name": "Lying to myself",
+      "url": "https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh S\u1ebd \u0110\u00f3n Em (Cukak Remix)",
+        "url": "https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u00ean",
+          "url": "https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw"
+        },
+        {
+          "name": "TRANG",
+          "url": "https://open.spotify.com/artist/2qfqUJvy3vika8WG6kOJ71"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Anh S\u1ebd \u0110\u00f3n Em - Cukak Remix",
+      "url": "https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Em Kh\u00f4ng Kh\u00f3c (feat. V\u0169 Ph\u1ee5ng Ti\u00ean)",
+        "url": "https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU"
+      },
+      "artists": [
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        },
+        {
+          "name": "V\u0169 Ph\u1ee5ng Ti\u00ean",
+          "url": "https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj"
+        }
+      ],
+      "duration_ms": 269624,
+      "name": "Em Kh\u00f4ng Kh\u00f3c (feat. V\u0169 Ph\u1ee5ng Ti\u00ean)",
+      "url": "https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Kh\u00f4ng B\u1eb1ng",
+        "url": "https://open.spotify.com/album/7voNog9Gq6TLIyrtmn8Ydu"
+      },
+      "artists": [
+        {
+          "name": "Na",
+          "url": "https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Kh\u00f4ng B\u1eb1ng",
+      "url": "https://open.spotify.com/track/0wAKESJRnGVOqX2UvpEPRA"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ng\u1ecdt Ng\u00e0o \u0110\u1ebfn M\u1ea5y C\u0169ng Tan Th\u00e0nh Drill",
+        "url": "https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2"
+        }
+      ],
+      "duration_ms": 160806,
+      "name": "Ng\u1ecdt Ng\u00e0o \u0110\u1ebfn M\u1ea5y C\u0169ng Tan Th\u00e0nh Drill",
+      "url": "https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
+        "url": "https://open.spotify.com/album/1XQsi4edMX7xF9gbdoKI0s"
+      },
+      "artists": [
+        {
+          "name": "Kidz",
+          "url": "https://open.spotify.com/artist/6wZ01tGqWDyJ6vykbeaIFA"
+        }
+      ],
+      "duration_ms": 96966,
+      "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
+      "url": "https://open.spotify.com/track/2N8RSAhMMQgNUd5XcPYTC9"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Tin Nh\u1eafn",
+        "url": "https://open.spotify.com/album/5WsHjrHPCgYmEMv3WnBR8V"
+      },
+      "artists": [
+        {
+          "name": "CM1X",
+          "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
+        },
+        {
+          "name": "Ch\u00fac H\u1ef7",
+          "url": "https://open.spotify.com/artist/4fGDn2HaeUAbHyZLrrlbBa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Tin Nh\u1eafn",
+      "url": "https://open.spotify.com/track/0uFBHFPF9un8AQBK7av3Ih"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "H\u1ea1nh Ph\u00fac M\u1edbi",
+        "url": "https://open.spotify.com/album/7cYIOwJ9AovD0X05zL2ayq"
+      },
+      "artists": [
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY"
+        }
+      ],
+      "duration_ms": 294960,
+      "name": "H\u1ea1nh Ph\u00fac M\u1edbi",
+      "url": "https://open.spotify.com/track/5UJWKVl4jHM0Yxig7RI6dC"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
       "album": {
         "name": "\u0110\u00e2u Ai D\u00e1m H\u1ee9a",
         "url": "https://open.spotify.com/album/3r8Skpiwqj8DlWPmtKF5XH"
@@ -25,139 +381,951 @@
       "url": "https://open.spotify.com/track/0lPAHloMDJcbdp9m7Xyjr1"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "L\u1ea1c Trong M\u00e0n \u0110\u00eam T\u1ed1i",
-        "url": "https://open.spotify.com/album/1BfQ3AFWRu0hA1aZVNYAEm"
+        "name": "M\u1eadp M\u1edd",
+        "url": "https://open.spotify.com/album/0z5dVJCOFUXKtf9rvUaMUK"
       },
       "artists": [
         {
-          "name": "Ph\u1ea1m K\u1ef3",
-          "url": "https://open.spotify.com/artist/3yCPgp6ckDEqBUQnybWeTm"
+          "name": "Naggie",
+          "url": "https://open.spotify.com/artist/2rAxHfpCAAkq2ZU2yfA1wi"
         }
       ],
-      "duration_ms": 177777,
-      "name": "L\u1ea1c Trong M\u00e0n \u0110\u00eam T\u1ed1i",
-      "url": "https://open.spotify.com/track/0FFPa8y09Of623N3I0yxCh"
+      "duration_ms": 192564,
+      "name": "M\u1eadp M\u1edd",
+      "url": "https://open.spotify.com/track/011Ks90zes4U8WLfcY6YrS"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "My Life My Style",
-        "url": "https://open.spotify.com/album/1HZQr1QTc7Ql2d0MX9xx9O"
+        "name": "Overdouse",
+        "url": "https://open.spotify.com/album/4qs9OpKXsCDWtAG7GRWUmc"
       },
       "artists": [
         {
-          "name": "IIMV",
-          "url": "https://open.spotify.com/artist/1DUxbWXOGypH1hre0rNtLa"
+          "name": "Weedie",
+          "url": "https://open.spotify.com/artist/1Lmfz5Yccktfwedhkpi1ny"
+        },
+        {
+          "name": "Nicc & Vlien",
+          "url": "https://open.spotify.com/artist/6GHzq6On17TtnskvO3lTeW"
         }
       ],
-      "duration_ms": 169800,
-      "name": "My Life My Style",
-      "url": "https://open.spotify.com/track/5gSk8DFl0cCRn3J3CGknXy"
+      "duration_ms": 125696,
+      "name": "Overdouse",
+      "url": "https://open.spotify.com/track/5K7L3cBziHUOLjZLi19aco"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "02/04",
-        "url": "https://open.spotify.com/album/6YMgewrFiE4nx7RXY8STWt"
+        "name": "Nh\u1eefng Ng\u00e0y Th\u00e1ng \u1ea4y",
+        "url": "https://open.spotify.com/album/55rBw6jsY1HNU6qRvdUkIo"
       },
       "artists": [
         {
-          "name": "Nho Khoa",
-          "url": "https://open.spotify.com/artist/2lGxfgGlxrWh7X76fWUyod"
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+        },
+        {
+          "name": "sinist/a",
+          "url": "https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM"
         }
       ],
-      "duration_ms": 208629,
-      "name": "02/04",
-      "url": "https://open.spotify.com/track/2Ep3gCKRgCXkpRvg6Pgxlt"
+      "duration_ms": 213064,
+      "name": "Nh\u1eefng Ng\u00e0y Th\u00e1ng \u1ea4y",
+      "url": "https://open.spotify.com/track/2I2Zhvpi5D17cNkl7mUzXc"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "G\u1eedi Ch\u00fang Ta C\u1ee7a Th\u1eddi Gian \u1ea4y",
-        "url": "https://open.spotify.com/album/77fWGqh3T6nci4j3zcnZL6"
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/57O7NrRAuWlOsQB7SrZuh8"
       },
       "artists": [
         {
-          "name": "Nh\u00e2m Nh\u1ef1t V\u00e2n",
-          "url": "https://open.spotify.com/artist/4srmDZhTFeLBiyE4coHJRi"
+          "name": "1DEE",
+          "url": "https://open.spotify.com/artist/1b9USL8WQoqdSDSrdMNk8g"
+        },
+        {
+          "name": "B\u1ea3o Uy\u00ean",
+          "url": "https://open.spotify.com/artist/7AjrzSwNXDH9bZjjCKR8kA"
         }
       ],
-      "duration_ms": 263000,
-      "name": "G\u1eedi Ch\u00fang Ta C\u1ee7a Th\u1eddi Gian \u1ea4y",
-      "url": "https://open.spotify.com/track/4zBwI3oID39SfX1Lf1bSO4"
+      "duration_ms": 178823,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/6hOc2I5wfbNRl9tzDKDSE9"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR"
+        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0",
+        "url": "https://open.spotify.com/album/3Tmn5CMUeHgOex2d246w0M"
       },
       "artists": [
         {
-          "name": "No Plan",
-          "url": "https://open.spotify.com/artist/6D9IldP8aT38RwBsX2jvkg"
+          "name": "NNat",
+          "url": "https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw"
+        },
+        {
+          "name": "Linh Dinh",
+          "url": "https://open.spotify.com/artist/70T16aW1mbYTvjAyd9mejM"
         }
       ],
-      "duration_ms": 213416,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED"
+      "duration_ms": 178327,
+      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0",
+      "url": "https://open.spotify.com/track/44E3rYotYgSi7UX859TKoH"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "L\u01a0 T\u01a0 M\u01a0",
-        "url": "https://open.spotify.com/album/21wvuxP4EzUiP9E7VO4ZtA"
+        "name": "B\u00e0i Ca Em V\u00e0 Gi\u00f3",
+        "url": "https://open.spotify.com/album/4WHJ7KjzpQPMZYAU31OZ1F"
       },
       "artists": [
         {
-          "name": "T-Flow",
-          "url": "https://open.spotify.com/artist/1DYI3msscTX74ZIejaQpf0"
+          "name": "Koon",
+          "url": "https://open.spotify.com/artist/2Ta6zLy9cyPXXKsUMnVMaK"
+        },
+        {
+          "name": "dwongg",
+          "url": "https://open.spotify.com/artist/2jAZBISXczJL1MNyWBtgZg"
         }
       ],
-      "duration_ms": 290091,
-      "name": "L\u01a0 T\u01a0 M\u01a0",
-      "url": "https://open.spotify.com/track/7fVKYun2Vzvy9OWvL6l8Y9"
+      "duration_ms": 192168,
+      "name": "B\u00e0i Ca Em V\u00e0 Gi\u00f3",
+      "url": "https://open.spotify.com/track/5Vll8jIV0qST8ccXFJRWaK"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Worthless",
-        "url": "https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn"
+        "name": "Tinh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
+        "url": "https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6"
       },
       "artists": [
         {
-          "name": "Haukong",
-          "url": "https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB"
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT"
+        }
+      ],
+      "duration_ms": 152981,
+      "name": "Tinh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
+      "url": "https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "B\u00f3ng T\u1ed1i L\u00e0 \u00c1nh N\u1ebfn C\u1ee7a Anh",
+        "url": "https://open.spotify.com/album/0c8d0ZPZ1JmWKurJ3YzNeR"
+      },
+      "artists": [
+        {
+          "name": "Killic",
+          "url": "https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu"
+        },
+        {
+          "name": "Buford",
+          "url": "https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf"
+        }
+      ],
+      "duration_ms": 177671,
+      "name": "B\u00f3ng T\u1ed1i L\u00e0 \u00c1nh N\u1ebfn C\u1ee7a Anh",
+      "url": "https://open.spotify.com/track/6burQf4069mXMBz6H7Iehn"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "\u0110\u1ea7u To",
+        "url": "https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS"
+      },
+      "artists": [
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        },
+        {
+          "name": "A.C Xu\u00e2n T\u00e0i",
+          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "\u0110\u1ea7u To",
+      "url": "https://open.spotify.com/track/31HwayLskRLAbNRISnylKt"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "girl hai huoc nhung tim day vet xuoc",
+        "url": "https://open.spotify.com/album/2rlxhUVYeGtcxxUVjd0TUo"
+      },
+      "artists": [
+        {
+          "name": "Saabirose",
+          "url": "https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5"
+        }
+      ],
+      "duration_ms": 192258,
+      "name": "girl hai huoc nhung tim day vet xuoc",
+      "url": "https://open.spotify.com/track/1yhdiXXiBDHj4M4W1qzXgE"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j"
+      },
+      "artists": [
+        {
+          "name": "Cristian",
+          "url": "https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "H\u00ecnh Nh\u01b0",
+        "url": "https://open.spotify.com/album/4VAkf7hl69kMbpJv2sZVo8"
+      },
+      "artists": [
+        {
+          "name": "GUA",
+          "url": "https://open.spotify.com/artist/5Q5ZsD33P3z5ZiVmOC5WMx"
+        },
+        {
+          "name": "Tranc",
+          "url": "https://open.spotify.com/artist/61xZPq6m9D1pmKc68G1YPR"
+        }
+      ],
+      "duration_ms": 181634,
+      "name": "H\u00ecnh Nh\u01b0",
+      "url": "https://open.spotify.com/track/62hVXugrWHfIUoTyqbGddp"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/28erSfGHTySvJRP3J1LTlm"
+      },
+      "artists": [
+        {
+          "name": "NNat",
+          "url": "https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw"
+        }
+      ],
+      "duration_ms": 214132,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4qceKimAyiRmYpI9VUsuUI"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Chuy\u1ec7n Ng\u00e0y X\u01b0a Ng\u00e0y Nay",
+        "url": "https://open.spotify.com/album/6LRWJ3dl8ri67eX4Yxlo9M"
+      },
+      "artists": [
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        }
+      ],
+      "duration_ms": 175322,
+      "name": "Chuy\u1ec7n Ng\u00e0y X\u01b0a Ng\u00e0y Nay",
+      "url": "https://open.spotify.com/track/1fRtrm0edJ6wWxnyEXTO9D"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Y\u00eau M\u1ed7i Em",
+        "url": "https://open.spotify.com/album/1LV63vZb1VkJ9ngbCnCIKt"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3c N\u00e2u",
+          "url": "https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo"
+        },
+        {
+          "name": "Freaky",
+          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
+        }
+      ],
+      "duration_ms": 192258,
+      "name": "Y\u00eau M\u1ed7i Em (feat. Freaky)",
+      "url": "https://open.spotify.com/track/6aYqImJRj7acWqmiMv4iAn"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/02k5ksGgSAFFNikcdzD8AX"
+      },
+      "artists": [
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh"
+        },
+        {
+          "name": "Minh Trang",
+          "url": "https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/1BEucHuiAAvdCgjrvITZTA"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Em Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/46kEShcbu4qgfYoZ01pvCa"
+      },
+      "artists": [
+        {
+          "name": "chillingo",
+          "url": "https://open.spotify.com/artist/23ZFLCv47cdgbFptnYUb0J"
+        },
+        {
+          "name": "Gavin G",
+          "url": "https://open.spotify.com/artist/34DOSaoM6W94zcR27G7YNe"
+        },
+        {
+          "name": "GoAllDay",
+          "url": "https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg"
+        }
+      ],
+      "duration_ms": 172590,
+      "name": "Em Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/6679kGAhJ83sFhJArAj9Na"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh Ch\u1ec9 C\u1ea7n N\u00f3i Love",
+        "url": "https://open.spotify.com/album/4asfY592cNAEuNNF0d8IZm"
+      },
+      "artists": [
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "duration_ms": 143215,
+      "name": "Anh Ch\u1ec9 C\u1ea7n N\u00f3i Love",
+      "url": "https://open.spotify.com/track/1Lykz5OjNoA1bfNa9FBLZ5"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "letmeloveyou",
+        "url": "https://open.spotify.com/album/0SsM6eWLkCnwOXpgYbj0QQ"
+      },
+      "artists": [
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "letmeloveyou",
+      "url": "https://open.spotify.com/track/7JQPDchdfMw7z80fhTXfnt"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh Dau",
+        "url": "https://open.spotify.com/album/2vGt13zTh4TBEnHX7FMTQd"
+      },
+      "artists": [
+        {
+          "name": "younghao",
+          "url": "https://open.spotify.com/artist/6frv7MElqCBhpktzJvGoxs"
         },
         {
           "name": "VCC Left Hand",
           "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
         }
       ],
-      "duration_ms": 216939,
-      "name": "Worthless",
-      "url": "https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz"
+      "duration_ms": 205920,
+      "name": "Anh Dau",
+      "url": "https://open.spotify.com/track/4cBAsuUvc3eE4aZRBzW5h9"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "\u0110\u01b0\u1eddng V\u1eabn C\u00f2n D\u00e0i",
-        "url": "https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH"
+        "name": "Ng\u1ee1 Nh\u01b0 Ng\u00e0y \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/70KXsoqVgS08ULTRsySR40"
       },
       "artists": [
         {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg"
+          "name": "Cris",
+          "url": "https://open.spotify.com/artist/2fa1aZaz9x7sIFWBHxb0vV"
         }
       ],
-      "duration_ms": 216561,
-      "name": "\u0110\u01b0\u1eddng V\u1eabn C\u00f2n D\u00e0i",
-      "url": "https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6"
+      "duration_ms": 246000,
+      "name": "Ng\u1ee1 Nh\u01b0 Ng\u00e0y \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/1LKbehfFezJPYTLI5kElCy"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "M\u1ed9t Ng\u00e0y Trong Xanh (feat. D.Kh\u00e1nh)",
+        "url": "https://open.spotify.com/album/5uwjucwwvl490yStrDhHfx"
+      },
+      "artists": [
+        {
+          "name": "Marr D",
+          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
+        },
+        {
+          "name": "d.kh\u00e1nh",
+          "url": "https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "M\u1ed9t Ng\u00e0y Trong Xanh (feat. D.Kh\u00e1nh)",
+      "url": "https://open.spotify.com/track/6DoPkM8BDPEicZOz1yqwgX"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "N\u00f3i Ra C\u00e2u T\u1ecf T\u00ecnh",
+        "url": "https://open.spotify.com/album/7xaWpTeZac3HwWwk5VvMup"
+      },
+      "artists": [
+        {
+          "name": "Daduc",
+          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
+        },
+        {
+          "name": "DAGIAM",
+          "url": "https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "N\u00f3i Ra C\u00e2u T\u1ecf T\u00ecnh",
+      "url": "https://open.spotify.com/track/5gfBqIg8SasGpSqjENPuAo"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Em L\u00e0 \u00c1ng M\u00e2y",
+        "url": "https://open.spotify.com/album/6VXrfGpTFsidV7FhLorC7J"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea V\u0169",
+          "url": "https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ"
+        },
+        {
+          "name": "Karrot",
+          "url": "https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Em L\u00e0 \u00c1ng M\u00e2y",
+      "url": "https://open.spotify.com/track/1ckK3cShdFpW4RxvFdAiSI"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "M\u00e1y Bay Nh\u00e0",
+        "url": "https://open.spotify.com/album/1HYbj9aoShuZoDsuoCRFcF"
+      },
+      "artists": [
+        {
+          "name": "SouLH",
+          "url": "https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "M\u00e1y Bay Nh\u00e0",
+      "url": "https://open.spotify.com/track/0gE9MkqsUbw86RhSdPFsbe"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "T\u1ef1a \u0110\u1ea7u V\u00e0o Vibe",
+        "url": "https://open.spotify.com/album/3BU2ybxIb9b80gIe7MjMyh"
+      },
+      "artists": [
+        {
+          "name": "Freaky",
+          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "T\u1ef1a \u0110\u1ea7u V\u00e0o Vibe",
+      "url": "https://open.spotify.com/track/7cq2OXx6RLe1gI1YIaj9vn"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Cuopnhabang",
+        "url": "https://open.spotify.com/album/4MlBx3WcrVXI8ZXoABqfMK"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea1n C\u00f3 T\u00e0i M\u00e0",
+          "url": "https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7"
+        },
+        {
+          "name": "Dick",
+          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
+        },
+        {
+          "name": "Anh Kh\u01a1 Me",
+          "url": "https://open.spotify.com/artist/29ViXw9QKSCmO9lLkNWVnL"
+        },
+        {
+          "name": "Key",
+          "url": "https://open.spotify.com/artist/2EkVb80vJNSvw96kEy2GeF"
+        },
+        {
+          "name": "X\u00e1m",
+          "url": "https://open.spotify.com/artist/0RidbITP912tB7Nm85bebv"
+        },
+        {
+          "name": "MegaShock",
+          "url": "https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/7k7UnidybNpIJX5TIQ0TS0"
+        }
+      ],
+      "duration_ms": 409127,
+      "name": "Cuopnhabang",
+      "url": "https://open.spotify.com/track/5haJ12Z9jxCI9NMqsOkANR"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anniverse",
+        "url": "https://open.spotify.com/album/16E5aldZmJZYnCej4uf8kU"
+      },
+      "artists": [
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Anniverse",
+      "url": "https://open.spotify.com/track/44pwrSHblfKSqwh6Ar2UEf"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Em Th\u00edch",
+        "url": "https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx"
+      },
+      "artists": [
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        },
+        {
+          "name": "L\u1eeda",
+          "url": "https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq"
+        }
+      ],
+      "duration_ms": 176150,
+      "name": "Em Th\u00edch",
+      "url": "https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/0uFk3n2lg0ks9Dwjpvr6Kx"
+      },
+      "artists": [
+        {
+          "name": "My M\u01a1",
+          "url": "https://open.spotify.com/artist/5BjHJXPxwRKh7Qz7cKOPAH"
+        }
+      ],
+      "duration_ms": 287759,
+      "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "\u0110\u1eebng Bu\u00f4ng Tay",
+        "url": "https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ"
+      },
+      "artists": [
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo"
+        }
+      ],
+      "duration_ms": 250145,
+      "name": "\u0110\u1eebng Bu\u00f4ng Tay",
+      "url": "https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Sau Ng\u00e0y Chia Tay",
+        "url": "https://open.spotify.com/album/2OJ8s6PgfqQMraoZxd59ZK"
+      },
+      "artists": [
+        {
+          "name": "Luke D",
+          "url": "https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ"
+        }
+      ],
+      "duration_ms": 241136,
+      "name": "Sau Ng\u00e0y Chia Tay",
+      "url": "https://open.spotify.com/track/235Tyllxkn3Uqawvo8O7hj"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Bring Me Back Into My Zone",
+        "url": "https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU"
+      },
+      "artists": [
+        {
+          "name": "Zang",
+          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
+        }
+      ],
+      "duration_ms": 185152,
+      "name": "Bring Me Back Into My Zone",
+      "url": "https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4KJS7398UnyCgWTcssGRMn"
+      },
+      "artists": [
+        {
+          "name": "RichK",
+          "url": "https://open.spotify.com/artist/4uFdC5voSRbOnwYYJqsZrg"
+        },
+        {
+          "name": "Zang",
+          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
+        },
+        {
+          "name": "Rowan",
+          "url": "https://open.spotify.com/artist/760bRYUb9hju4aDgu1e2Wu"
+        }
+      ],
+      "duration_ms": 230057,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/3DonzTW969v1Mn5a0Vy6CR"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "S\u0103n M\u1ed3i",
+        "url": "https://open.spotify.com/album/0XmOi37QSFOi5iWWZgp1d7"
+      },
+      "artists": [
+        {
+          "name": "Anzz",
+          "url": "https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO"
+        },
+        {
+          "name": "sinist/a",
+          "url": "https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "S\u0103n M\u1ed3i",
+      "url": "https://open.spotify.com/track/6vvqufho5vyqVInqstNVwJ"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ch\u1ec9 Mu\u1ed1n B\u00ean Em Th\u1eadt G\u1ea7n",
+        "url": "https://open.spotify.com/album/06jkVYMP7A3NWptpY6PGzW"
+      },
+      "artists": [
+        {
+          "name": "YLing",
+          "url": "https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ"
+        },
+        {
+          "name": "Star Online",
+          "url": "https://open.spotify.com/artist/1lMI4zXuNgD2J4GWFkSv5Z"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Ch\u1ec9 Mu\u1ed1n B\u00ean Em Th\u1eadt G\u1ea7n - Remix",
+      "url": "https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Tri K\u1ef7",
+        "url": "https://open.spotify.com/album/45p5URyPipuzapUUXpD5rP"
+      },
+      "artists": [
+        {
+          "name": "LT Midside",
+          "url": "https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Tri K\u1ef7",
+      "url": "https://open.spotify.com/track/4RxqA5YDopOIuBfk6426n9"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "M\u00f9a \u0110\u00f4ng C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/32CQporH0IpIWdLnFI1H6q"
+      },
+      "artists": [
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        },
+        {
+          "name": "C\u00f4ng Ph\u00fac",
+          "url": "https://open.spotify.com/artist/2RTxk7k09aitr15vkJ5kwL"
+        }
+      ],
+      "duration_ms": 272432,
+      "name": "M\u00f9a \u0110\u00f4ng C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/1se2ZknYwSDiGYYyD4KFdU"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "BABI CHO ANH M\u1ed8NG MER",
+        "url": "https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim"
+      },
+      "artists": [
+        {
+          "name": "Daduc",
+          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
+        },
+        {
+          "name": "DAGIAM",
+          "url": "https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg"
+        }
+      ],
+      "duration_ms": 203081,
+      "name": "BABI CHO ANH M\u1ed8NG MER",
+      "url": "https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO"
+      },
+      "artists": [
+        {
+          "name": "Qu\u1ed1c Anh",
+          "url": "https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Theo \u00c1nh M\u1eb7t Tr\u1eddi",
+        "url": "https://open.spotify.com/album/1mNaUnDCQ7pp6DdU5sFMFy"
+      },
+      "artists": [
+        {
+          "name": "kis",
+          "url": "https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9"
+        }
+      ],
+      "duration_ms": 197312,
+      "name": "Theo \u00c1nh M\u1eb7t Tr\u1eddi",
+      "url": "https://open.spotify.com/track/0wP2FxciFpzd5BlMqNAOr1"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Shoot me",
+        "url": "https://open.spotify.com/album/4iUIwF6GlIVcZDNYgvgAJe"
+      },
+      "artists": [
+        {
+          "name": "DKid",
+          "url": "https://open.spotify.com/artist/2G10onVIMw3d6jx92Tl4v8"
+        },
+        {
+          "name": "RPT LAKE",
+          "url": "https://open.spotify.com/artist/1v5kr0aM1qKIAFGciqpZZd"
+        }
+      ],
+      "duration_ms": 246004,
+      "name": "Shoot me",
+      "url": "https://open.spotify.com/track/1FdGrIf3VYXgh2BHeaLvlq"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "\u0110\u1ec3 L\u00e0m Ng\u01b0\u1eddi Y\u00eau Em",
+        "url": "https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a"
+      },
+      "artists": [
+        {
+          "name": "Chuy Blue",
+          "url": "https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd"
+        }
+      ],
+      "duration_ms": 206788,
+      "name": "\u0110\u1ec3 L\u00e0m Ng\u01b0\u1eddi Y\u00eau Em",
+      "url": "https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Cam Bay",
+        "url": "https://open.spotify.com/album/3QipyHVUimESzSK7IAMQxD"
+      },
+      "artists": [
+        {
+          "name": "16 Rehtona",
+          "url": "https://open.spotify.com/artist/6yZuJmKsA5bGl5z1UKsnyq"
+        },
+        {
+          "name": "16 BrT",
+          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "Cam Bay",
+      "url": "https://open.spotify.com/track/7MCJAFwyYvECyR4eJ73lH0"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh \u00c0 Anh \u01a0i",
+        "url": "https://open.spotify.com/album/7rolDH18E0i7qftuw9BHMM"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u00e0o K\u1ef3 Anh",
+          "url": "https://open.spotify.com/artist/5leHEqwoxM8Tmlg1wlRi5o"
+        },
+        {
+          "name": "Gusty",
+          "url": "https://open.spotify.com/artist/1Ay86222RVMUbcdDZoOWTt"
+        }
+      ],
+      "duration_ms": 191829,
+      "name": "Anh \u00c0 Anh \u01a0i",
+      "url": "https://open.spotify.com/track/4q6OAICS9WuSaiXhusr6Q5"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "YOUNGBO5ONFIRE",
+        "url": "https://open.spotify.com/album/4FWO7Mumq67VP2gQbO2Lu4"
+      },
+      "artists": [
+        {
+          "name": "Young Bo5",
+          "url": "https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o"
+        },
+        {
+          "name": "Ozee Kxng",
+          "url": "https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A"
+        }
+      ],
+      "duration_ms": 161032,
+      "name": "YOUNGBO5ONFIRE",
+      "url": "https://open.spotify.com/track/7puePLMUBQqXGdelL3iwU4"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ng\u1ea1i ng\u00f9ng g\u00ec m\u00e0 kh\u00f4ng y\u00eau",
+        "url": "https://open.spotify.com/album/0W6rGWiZytu4GuajJt9ehe"
+      },
+      "artists": [
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        },
+        {
+          "name": "Duckie",
+          "url": "https://open.spotify.com/artist/51BshXLs4BqwWyZfOIhkuq"
+        }
+      ],
+      "duration_ms": 173265,
+      "name": "Ng\u1ea1i ng\u00f9ng g\u00ec m\u00e0 kh\u00f4ng y\u00eau",
+      "url": "https://open.spotify.com/track/3g14MRSmbFmmJOzUKMV1Se"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "\"Five\"phai",
+        "url": "https://open.spotify.com/album/43FgRjrsoCaHyf54mWdw8D"
+      },
+      "artists": [
+        {
+          "name": "GoAllDay",
+          "url": "https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg"
+        },
+        {
+          "name": "Brian",
+          "url": "https://open.spotify.com/artist/4orucfjxTRPilhj4aAKHtj"
+        }
+      ],
+      "duration_ms": 180970,
+      "name": "\"Five\"phai",
+      "url": "https://open.spotify.com/track/0skT4MhavOa58Gtcz6mS2S"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ch\u1ea7m Ch\u1eadm C\u00f9ng Anh",
+        "url": "https://open.spotify.com/album/42RAxVQ8JRew5R8biFaIpW"
+      },
+      "artists": [
+        {
+          "name": "A.C Xu\u00e2n T\u00e0i",
+          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
+        }
+      ],
+      "duration_ms": 232043,
+      "name": "Ch\u1ea7m Ch\u1eadm C\u00f9ng Anh",
+      "url": "https://open.spotify.com/track/13Cl4lQMQZXoUTFFYGvcmD"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Ng\u1ee7 s\u1edbm \u0111i, ch\u01a1i ch\u00e1n, r\u1ed3i v\u1ec1",
+        "url": "https://open.spotify.com/album/0htufoXIdJVo3GUVwv1cvy"
+      },
+      "artists": [
+        {
+          "name": "N.",
+          "url": "https://open.spotify.com/artist/6fqboJPoYIHBKU7pcm4yw5"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Ng\u1ee7 s\u1edbm \u0111i, ch\u01a1i ch\u00e1n, r\u1ed3i v\u1ec1",
+      "url": "https://open.spotify.com/track/7nDBhBQEUGSluQwVs178LG"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
       "album": {
         "name": "C\u00f2n Nhi\u1ec1u \u0110i\u1ec1u Ch\u01b0a N\u00f3i",
         "url": "https://open.spotify.com/album/0yHR1va1APaBk1CHK4hmP4"
@@ -185,10 +1353,278 @@
       "url": "https://open.spotify.com/track/1DjjnmJNHyAeGgBLgOkQNm"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Ng\u1ee7 s\u1edbm \u0111i, ch\u01a1i ch\u00e1n, r\u1ed3i v\u1ec1",
-        "url": "https://open.spotify.com/album/0htufoXIdJVo3GUVwv1cvy"
+        "name": "Worthless",
+        "url": "https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn"
+      },
+      "artists": [
+        {
+          "name": "Haukong",
+          "url": "https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+        }
+      ],
+      "duration_ms": 216939,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "L\u01a0 T\u01a0 M\u01a0",
+        "url": "https://open.spotify.com/album/21wvuxP4EzUiP9E7VO4ZtA"
+      },
+      "artists": [
+        {
+          "name": "T-Flow",
+          "url": "https://open.spotify.com/artist/1DYI3msscTX74ZIejaQpf0"
+        }
+      ],
+      "duration_ms": 290091,
+      "name": "L\u01a0 T\u01a0 M\u01a0",
+      "url": "https://open.spotify.com/track/7fVKYun2Vzvy9OWvL6l8Y9"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "G\u1eedi Ch\u00fang Ta C\u1ee7a Th\u1eddi Gian \u1ea4y",
+        "url": "https://open.spotify.com/album/77fWGqh3T6nci4j3zcnZL6"
+      },
+      "artists": [
+        {
+          "name": "Nh\u00e2m Nh\u1ef1t V\u00e2n",
+          "url": "https://open.spotify.com/artist/4srmDZhTFeLBiyE4coHJRi"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "G\u1eedi Ch\u00fang Ta C\u1ee7a Th\u1eddi Gian \u1ea4y",
+      "url": "https://open.spotify.com/track/4zBwI3oID39SfX1Lf1bSO4"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "02/04",
+        "url": "https://open.spotify.com/album/6YMgewrFiE4nx7RXY8STWt"
+      },
+      "artists": [
+        {
+          "name": "Nho Khoa",
+          "url": "https://open.spotify.com/artist/2lGxfgGlxrWh7X76fWUyod"
+        }
+      ],
+      "duration_ms": 208629,
+      "name": "02/04",
+      "url": "https://open.spotify.com/track/2Ep3gCKRgCXkpRvg6Pgxlt"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "L\u1ea1c Trong M\u00e0n \u0110\u00eam T\u1ed1i",
+        "url": "https://open.spotify.com/album/1BfQ3AFWRu0hA1aZVNYAEm"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m K\u1ef3",
+          "url": "https://open.spotify.com/artist/3yCPgp6ckDEqBUQnybWeTm"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "L\u1ea1c Trong M\u00e0n \u0110\u00eam T\u1ed1i",
+      "url": "https://open.spotify.com/track/0FFPa8y09Of623N3I0yxCh"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "N\u1ee5 C\u01b0\u1eddi Em",
+        "url": "https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00fa Qu\u00ed",
+          "url": "https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "N\u1ee5 C\u01b0\u1eddi Em",
+      "url": "https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
+        "url": "https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme"
+      },
+      "artists": [
+        {
+          "name": "FSRio",
+          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
+        },
+        {
+          "name": "LuckyC",
+          "url": "https://open.spotify.com/artist/21N9GQDW47Q5e8VStA0fR8"
+        }
+      ],
+      "duration_ms": 160526,
+      "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
+      "url": "https://open.spotify.com/track/4CAuX9oAmgeBodrz0tK5VL"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Anh Kh\u00f4ng Th\u1ec3 Qu\u00ean",
+        "url": "https://open.spotify.com/album/5QDYvPxdaO4GPOCudimmCA"
+      },
+      "artists": [
+        {
+          "name": "Marr D",
+          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
+        },
+        {
+          "name": "d.kh\u00e1nh",
+          "url": "https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2"
+        }
+      ],
+      "duration_ms": 284684,
+      "name": "Anh Kh\u00f4ng Th\u1ec3 Qu\u00ean",
+      "url": "https://open.spotify.com/track/1WZtkuEYAUjE4VAOEAdqH5"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "V\u00f4 T\u01b0 N\u01a1i B\u00ecnh Y\u00ean",
+        "url": "https://open.spotify.com/album/7p8AvS0irZE5xrdxqaw5J3"
+      },
+      "artists": [
+        {
+          "name": "Green",
+          "url": "https://open.spotify.com/artist/6nCWlQAjygvM0xKg7rP0B0"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "V\u00f4 T\u01b0 N\u01a1i B\u00ecnh Y\u00ean",
+      "url": "https://open.spotify.com/track/0cg5elFMTSNfTl5jONnTEq"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "I can't sing, I just miss you",
+        "url": "https://open.spotify.com/album/7xOVUFmg9oTFql0ouDzz7d"
+      },
+      "artists": [
+        {
+          "name": "Mias",
+          "url": "https://open.spotify.com/artist/0OUo4odW5aRAYMhJYWNyEQ"
+        }
+      ],
+      "duration_ms": 197159,
+      "name": "V\u00e9 Ca Nh\u1ea1c T\u1eb7ng Em",
+      "url": "https://open.spotify.com/track/6vSBQZBHCS6XIDSVchwOOF"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "H\u1ecd \u0110\u00e2u Bi\u1ebft",
+        "url": "https://open.spotify.com/album/60q7uPOE7JvovLLXQM6g3o"
+      },
+      "artists": [
+        {
+          "name": "Linh Sung",
+          "url": "https://open.spotify.com/artist/0NisVmbblZYFHjuV3xu0oj"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "H\u1ecd \u0110\u00e2u Bi\u1ebft",
+      "url": "https://open.spotify.com/track/1ipeO6Cqe8N2wKeEXPITFQ"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Con Nh\u00e0 Qu\u00ea",
+        "url": "https://open.spotify.com/album/41jPwYbEBe96KXJKtJx1X5"
+      },
+      "artists": [
+        {
+          "name": "Pjnboys",
+          "url": "https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1"
+        },
+        {
+          "name": "Big T",
+          "url": "https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS"
+        }
+      ],
+      "duration_ms": 229583,
+      "name": "Con Nh\u00e0 Qu\u00ea",
+      "url": "https://open.spotify.com/track/4FxXY067gF2AdcVdyNUzTF"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Hai Ng\u01b0\u1eddi Ch\u01b0a T\u1eebng Quen",
+        "url": "https://open.spotify.com/album/6v3HDBqZyoRB0s1q36gwrn"
+      },
+      "artists": [
+        {
+          "name": "Tu\u1ea5n Hii",
+          "url": "https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE"
+        },
+        {
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC"
+        }
+      ],
+      "duration_ms": 149771,
+      "name": "Hai Ng\u01b0\u1eddi Ch\u01b0a T\u1eebng Quen",
+      "url": "https://open.spotify.com/track/5uLITd8MGIMJRFR6fyaDVI"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "M\u1ed9t B\u00e0i H\u00e1t Cho Anh",
+        "url": "https://open.spotify.com/album/2bIGQ7vO4tqkvLJlEwHGxf"
+      },
+      "artists": [
+        {
+          "name": "Tr\u01b0\u1eddng Anh",
+          "url": "https://open.spotify.com/artist/43EaFqebBqXuX8XBScWVkg"
+        },
+        {
+          "name": "Mia Tran",
+          "url": "https://open.spotify.com/artist/7Me0lNSh4B58YMJB966W06"
+        }
+      ],
+      "duration_ms": 285394,
+      "name": "M\u1ed9t B\u00e0i H\u00e1t Cho Anh",
+      "url": "https://open.spotify.com/track/4w3RO9wrlL7xGqZCoAt4Oh"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Th\u01b0\u01a1ng Th\u1ea7m",
+        "url": "https://open.spotify.com/album/5GLpR4W2Harmx27lpvutCp"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "Ngcyenn",
+          "url": "https://open.spotify.com/artist/6j8zQ4XLvwPWZSXlhpDViP"
+        }
+      ],
+      "duration_ms": 212830,
+      "name": "Th\u01b0\u01a1ng Th\u1ea7m",
+      "url": "https://open.spotify.com/track/0uRgZhn1nkFg3Ee2LWrNeL"
+    },
+    {
+      "added_at": "2022-06-12 09:23:48",
+      "album": {
+        "name": "Mu\u00f4n \u0110\u1eddi V\u00e0 Mai Sau",
+        "url": "https://open.spotify.com/album/4gaiCsL5MmMEYYEYZNFcJX"
       },
       "artists": [
         {
@@ -196,252 +1632,48 @@
           "url": "https://open.spotify.com/artist/6fqboJPoYIHBKU7pcm4yw5"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Ng\u1ee7 s\u1edbm \u0111i, ch\u01a1i ch\u00e1n, r\u1ed3i v\u1ec1",
-      "url": "https://open.spotify.com/track/7nDBhBQEUGSluQwVs178LG"
+      "duration_ms": 219806,
+      "name": "Mu\u00f4n \u0110\u1eddi V\u00e0 Mai Sau",
+      "url": "https://open.spotify.com/track/4worp1hiu3vUTESXpcOSI0"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Ch\u1ea7m Ch\u1eadm C\u00f9ng Anh",
-        "url": "https://open.spotify.com/album/42RAxVQ8JRew5R8biFaIpW"
+        "name": "Bird of Paradise",
+        "url": "https://open.spotify.com/album/5qClTakyBDhVvEoOIR2gR2"
       },
       "artists": [
         {
-          "name": "A.C Xu\u00e2n T\u00e0i",
-          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo"
         }
       ],
-      "duration_ms": 232043,
-      "name": "Ch\u1ea7m Ch\u1eadm C\u00f9ng Anh",
-      "url": "https://open.spotify.com/track/13Cl4lQMQZXoUTFFYGvcmD"
+      "duration_ms": 278554,
+      "name": "Bird of Paradise",
+      "url": "https://open.spotify.com/track/6BPiVcsHx8yyq4pNYyA5ak"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "\"Five\"phai",
-        "url": "https://open.spotify.com/album/43FgRjrsoCaHyf54mWdw8D"
+        "name": "S\u1ebd \u0110\u1ebfn L\u00fac",
+        "url": "https://open.spotify.com/album/1KTjXZ4g4AmULecsObtiDW"
       },
       "artists": [
         {
-          "name": "GoAllDay",
-          "url": "https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg"
+          "name": "dot.Band",
+          "url": "https://open.spotify.com/artist/7zdIyqYJd2ZnSZUUc4qYAh"
         },
         {
-          "name": "Brian",
-          "url": "https://open.spotify.com/artist/4orucfjxTRPilhj4aAKHtj"
+          "name": "\u00c2u",
+          "url": "https://open.spotify.com/artist/357FAD9ULn7AljEFoFGYYb"
         }
       ],
-      "duration_ms": 180970,
-      "name": "\"Five\"phai",
-      "url": "https://open.spotify.com/track/0skT4MhavOa58Gtcz6mS2S"
+      "duration_ms": 282000,
+      "name": "S\u1ebd \u0110\u1ebfn L\u00fac",
+      "url": "https://open.spotify.com/track/2O9FYCgBynly0lShGwPmrP"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Nh\u1ecd v\u00e0 Lem",
-        "url": "https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa"
-      },
-      "artists": [
-        {
-          "name": "Ler",
-          "url": "https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex"
-        },
-        {
-          "name": "DreAw",
-          "url": "https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Nh\u1ecd v\u00e0 Lem",
-      "url": "https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Du Ca Kh\u00fac",
-        "url": "https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP"
-      },
-      "artists": [
-        {
-          "name": "Mer",
-          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
-        },
-        {
-          "name": "Lazii",
-          "url": "https://open.spotify.com/artist/03NrWxeUbmZA6Aj2Z8ARHx"
-        }
-      ],
-      "duration_ms": 118757,
-      "name": "Du Ca Kh\u00fac",
-      "url": "https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "T\u1ed1i Nay C\u00f3 \u0110i\u1ec1u G\u00ec Anh Mu\u1ed1n N\u00f3i?",
-        "url": "https://open.spotify.com/album/7g7z9tp7TCvDPVENW7ELBR"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e0 Long",
-          "url": "https://open.spotify.com/artist/1QiNDiufzd27juQkJzOTkU"
-        }
-      ],
-      "duration_ms": 172959,
-      "name": "T\u1ed1i Nay C\u00f3 \u0110i\u1ec1u G\u00ec Anh Mu\u1ed1n N\u00f3i?",
-      "url": "https://open.spotify.com/track/7G7mOUcVzEQQG761dW1hlr"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ng\u1ea1i ng\u00f9ng g\u00ec m\u00e0 kh\u00f4ng y\u00eau",
-        "url": "https://open.spotify.com/album/0W6rGWiZytu4GuajJt9ehe"
-      },
-      "artists": [
-        {
-          "name": "Pay",
-          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
-        },
-        {
-          "name": "Lazii",
-          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
-        },
-        {
-          "name": "Duckie",
-          "url": "https://open.spotify.com/artist/51BshXLs4BqwWyZfOIhkuq"
-        }
-      ],
-      "duration_ms": 173265,
-      "name": "Ng\u1ea1i ng\u00f9ng g\u00ec m\u00e0 kh\u00f4ng y\u00eau",
-      "url": "https://open.spotify.com/track/3g14MRSmbFmmJOzUKMV1Se"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "HIPPU",
-        "url": "https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL"
-      },
-      "artists": [
-        {
-          "name": "Bennn",
-          "url": "https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS"
-        }
-      ],
-      "duration_ms": 130975,
-      "name": "HIPPU",
-      "url": "https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "C\u00f3 Ph\u1ea3i Em S\u1ee3 Y\u00eau",
-        "url": "https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3c N\u00e2u",
-          "url": "https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo"
-        }
-      ],
-      "duration_ms": 250894,
-      "name": "C\u00f3 Ph\u1ea3i Em S\u1ee3 Y\u00eau",
-      "url": "https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/6Pi3uhiWCWwbq6DqOsxHiF"
-      },
-      "artists": [
-        {
-          "name": "CM1X",
-          "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
-        },
-        {
-          "name": "Johnny",
-          "url": "https://open.spotify.com/artist/7v0O7Di18gEfuPTalCs6mE"
-        },
-        {
-          "name": "Lamar",
-          "url": "https://open.spotify.com/artist/3CNvwpeYlbVoVQ2WW14T34"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "She Knows",
-      "url": "https://open.spotify.com/track/5133H9CRyMQR3H9TBdzPtm"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u00e3 C\u00f3 Nh\u1eefng Ng\u00e0y",
-        "url": "https://open.spotify.com/album/3WtmS2nBqdCbLJ3QZsSbpb"
-      },
-      "artists": [
-        {
-          "name": "JIREN K",
-          "url": "https://open.spotify.com/artist/6KjFHxl9UHvethAWtA50eN"
-        },
-        {
-          "name": "Bofie",
-          "url": "https://open.spotify.com/artist/4F6mzXMYrR6onj0qCe3oYe"
-        },
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/2fSNBw79q5Z6G2v1eQ5mTA"
-        },
-        {
-          "name": "SAD B",
-          "url": "https://open.spotify.com/artist/7lGYrbakx4nG7kj6QPn1LM"
-        }
-      ],
-      "duration_ms": 337999,
-      "name": "\u0110\u00e3 C\u00f3 Nh\u1eefng Ng\u00e0y",
-      "url": "https://open.spotify.com/track/3pyyEklm1b3VifyLXTnqL6"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "YOUNGBO5ONFIRE",
-        "url": "https://open.spotify.com/album/4FWO7Mumq67VP2gQbO2Lu4"
-      },
-      "artists": [
-        {
-          "name": "Young Bo5",
-          "url": "https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o"
-        },
-        {
-          "name": "Ozee Kxng",
-          "url": "https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A"
-        }
-      ],
-      "duration_ms": 161032,
-      "name": "YOUNGBO5ONFIRE",
-      "url": "https://open.spotify.com/track/7puePLMUBQqXGdelL3iwU4"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh \u00c0 Anh \u01a0i",
-        "url": "https://open.spotify.com/album/7rolDH18E0i7qftuw9BHMM"
-      },
-      "artists": [
-        {
-          "name": "\u0110\u00e0o K\u1ef3 Anh",
-          "url": "https://open.spotify.com/artist/5leHEqwoxM8Tmlg1wlRi5o"
-        },
-        {
-          "name": "Gusty",
-          "url": "https://open.spotify.com/artist/1Ay86222RVMUbcdDZoOWTt"
-        }
-      ],
-      "duration_ms": 191829,
-      "name": "Anh \u00c0 Anh \u01a0i",
-      "url": "https://open.spotify.com/track/4q6OAICS9WuSaiXhusr6Q5"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/2b9n8QBMInabU5qDV0Hhdp"
@@ -469,426 +1701,38 @@
       "url": "https://open.spotify.com/track/2Iaqq3XmyaR6PmUDVoISFy"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Cam Bay",
-        "url": "https://open.spotify.com/album/3QipyHVUimESzSK7IAMQxD"
+        "name": "\u0110\u00e3 C\u00f3 Nh\u1eefng Ng\u00e0y",
+        "url": "https://open.spotify.com/album/3WtmS2nBqdCbLJ3QZsSbpb"
       },
       "artists": [
         {
-          "name": "16 Rehtona",
-          "url": "https://open.spotify.com/artist/6yZuJmKsA5bGl5z1UKsnyq"
+          "name": "JIREN K",
+          "url": "https://open.spotify.com/artist/6KjFHxl9UHvethAWtA50eN"
         },
         {
-          "name": "16 BrT",
-          "url": "https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "Cam Bay",
-      "url": "https://open.spotify.com/track/7MCJAFwyYvECyR4eJ73lH0"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u1ec3 L\u00e0m Ng\u01b0\u1eddi Y\u00eau Em",
-        "url": "https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a"
-      },
-      "artists": [
-        {
-          "name": "Chuy Blue",
-          "url": "https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd"
-        }
-      ],
-      "duration_ms": 206788,
-      "name": "\u0110\u1ec3 L\u00e0m Ng\u01b0\u1eddi Y\u00eau Em",
-      "url": "https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Em Kh\u00f4ng Kh\u00f3c (feat. V\u0169 Ph\u1ee5ng Ti\u00ean)",
-        "url": "https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU"
-      },
-      "artists": [
-        {
-          "name": "buitruonglinh",
-          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+          "name": "Bofie",
+          "url": "https://open.spotify.com/artist/4F6mzXMYrR6onj0qCe3oYe"
         },
         {
-          "name": "V\u0169 Ph\u1ee5ng Ti\u00ean",
-          "url": "https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj"
-        }
-      ],
-      "duration_ms": 269624,
-      "name": "Em Kh\u00f4ng Kh\u00f3c (feat. V\u0169 Ph\u1ee5ng Ti\u00ean)",
-      "url": "https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Shoot me",
-        "url": "https://open.spotify.com/album/4iUIwF6GlIVcZDNYgvgAJe"
-      },
-      "artists": [
-        {
-          "name": "DKid",
-          "url": "https://open.spotify.com/artist/2G10onVIMw3d6jx92Tl4v8"
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/2fSNBw79q5Z6G2v1eQ5mTA"
         },
         {
-          "name": "RPT LAKE",
-          "url": "https://open.spotify.com/artist/1v5kr0aM1qKIAFGciqpZZd"
+          "name": "SAD B",
+          "url": "https://open.spotify.com/artist/7lGYrbakx4nG7kj6QPn1LM"
         }
       ],
-      "duration_ms": 246004,
-      "name": "Shoot me",
-      "url": "https://open.spotify.com/track/1FdGrIf3VYXgh2BHeaLvlq"
+      "duration_ms": 337999,
+      "name": "\u0110\u00e3 C\u00f3 Nh\u1eefng Ng\u00e0y",
+      "url": "https://open.spotify.com/track/3pyyEklm1b3VifyLXTnqL6"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Theo \u00c1nh M\u1eb7t Tr\u1eddi",
-        "url": "https://open.spotify.com/album/1mNaUnDCQ7pp6DdU5sFMFy"
-      },
-      "artists": [
-        {
-          "name": "kis",
-          "url": "https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9"
-        }
-      ],
-      "duration_ms": 197312,
-      "name": "Theo \u00c1nh M\u1eb7t Tr\u1eddi",
-      "url": "https://open.spotify.com/track/0wP2FxciFpzd5BlMqNAOr1"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO"
-      },
-      "artists": [
-        {
-          "name": "Qu\u1ed1c Anh",
-          "url": "https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "BABI CHO ANH M\u1ed8NG MER",
-        "url": "https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim"
-      },
-      "artists": [
-        {
-          "name": "Daduc",
-          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
-        },
-        {
-          "name": "DAGIAM",
-          "url": "https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg"
-        }
-      ],
-      "duration_ms": 203081,
-      "name": "BABI CHO ANH M\u1ed8NG MER",
-      "url": "https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "S\u1ebd \u0110\u1ebfn L\u00fac",
-        "url": "https://open.spotify.com/album/1KTjXZ4g4AmULecsObtiDW"
-      },
-      "artists": [
-        {
-          "name": "dot.Band",
-          "url": "https://open.spotify.com/artist/7zdIyqYJd2ZnSZUUc4qYAh"
-        },
-        {
-          "name": "\u00c2u",
-          "url": "https://open.spotify.com/artist/357FAD9ULn7AljEFoFGYYb"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "S\u1ebd \u0110\u1ebfn L\u00fac",
-      "url": "https://open.spotify.com/track/2O9FYCgBynly0lShGwPmrP"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "M\u00f9a \u0110\u00f4ng C\u00f4 \u0110\u01a1n",
-        "url": "https://open.spotify.com/album/32CQporH0IpIWdLnFI1H6q"
-      },
-      "artists": [
-        {
-          "name": "Sean",
-          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
-        },
-        {
-          "name": "C\u00f4ng Ph\u00fac",
-          "url": "https://open.spotify.com/artist/2RTxk7k09aitr15vkJ5kwL"
-        }
-      ],
-      "duration_ms": 272432,
-      "name": "M\u00f9a \u0110\u00f4ng C\u00f4 \u0110\u01a1n",
-      "url": "https://open.spotify.com/track/1se2ZknYwSDiGYYyD4KFdU"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Bird of Paradise",
-        "url": "https://open.spotify.com/album/5qClTakyBDhVvEoOIR2gR2"
-      },
-      "artists": [
-        {
-          "name": "LOV",
-          "url": "https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo"
-        }
-      ],
-      "duration_ms": 278554,
-      "name": "Bird of Paradise",
-      "url": "https://open.spotify.com/track/6BPiVcsHx8yyq4pNYyA5ak"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Mu\u00f4n \u0110\u1eddi V\u00e0 Mai Sau",
-        "url": "https://open.spotify.com/album/4gaiCsL5MmMEYYEYZNFcJX"
-      },
-      "artists": [
-        {
-          "name": "N.",
-          "url": "https://open.spotify.com/artist/6fqboJPoYIHBKU7pcm4yw5"
-        }
-      ],
-      "duration_ms": 219806,
-      "name": "Mu\u00f4n \u0110\u1eddi V\u00e0 Mai Sau",
-      "url": "https://open.spotify.com/track/4worp1hiu3vUTESXpcOSI0"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Tri K\u1ef7",
-        "url": "https://open.spotify.com/album/45p5URyPipuzapUUXpD5rP"
-      },
-      "artists": [
-        {
-          "name": "LT Midside",
-          "url": "https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Tri K\u1ef7",
-      "url": "https://open.spotify.com/track/4RxqA5YDopOIuBfk6426n9"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ch\u1ec9 Mu\u1ed1n B\u00ean Em Th\u1eadt G\u1ea7n",
-        "url": "https://open.spotify.com/album/06jkVYMP7A3NWptpY6PGzW"
-      },
-      "artists": [
-        {
-          "name": "YLing",
-          "url": "https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ"
-        },
-        {
-          "name": "Star Online",
-          "url": "https://open.spotify.com/artist/1lMI4zXuNgD2J4GWFkSv5Z"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "Ch\u1ec9 Mu\u1ed1n B\u00ean Em Th\u1eadt G\u1ea7n - Remix",
-      "url": "https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "S\u0103n M\u1ed3i",
-        "url": "https://open.spotify.com/album/0XmOi37QSFOi5iWWZgp1d7"
-      },
-      "artists": [
-        {
-          "name": "Anzz",
-          "url": "https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO"
-        },
-        {
-          "name": "sinist/a",
-          "url": "https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "S\u0103n M\u1ed3i",
-      "url": "https://open.spotify.com/track/6vvqufho5vyqVInqstNVwJ"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4KJS7398UnyCgWTcssGRMn"
-      },
-      "artists": [
-        {
-          "name": "RichK",
-          "url": "https://open.spotify.com/artist/4uFdC5voSRbOnwYYJqsZrg"
-        },
-        {
-          "name": "Zang",
-          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
-        },
-        {
-          "name": "Rowan",
-          "url": "https://open.spotify.com/artist/760bRYUb9hju4aDgu1e2Wu"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Vintage",
-      "url": "https://open.spotify.com/track/3DonzTW969v1Mn5a0Vy6CR"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Bring Me Back Into My Zone",
-        "url": "https://open.spotify.com/album/4TrlAzAIk9BgyBPCPCOcPU"
-      },
-      "artists": [
-        {
-          "name": "Zang",
-          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
-        }
-      ],
-      "duration_ms": 185152,
-      "name": "Bring Me Back Into My Zone",
-      "url": "https://open.spotify.com/track/0riysjEEB9kqxtiuu30HW5"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Sau Ng\u00e0y Chia Tay",
-        "url": "https://open.spotify.com/album/2OJ8s6PgfqQMraoZxd59ZK"
-      },
-      "artists": [
-        {
-          "name": "Luke D",
-          "url": "https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ"
-        }
-      ],
-      "duration_ms": 241136,
-      "name": "Sau Ng\u00e0y Chia Tay",
-      "url": "https://open.spotify.com/track/235Tyllxkn3Uqawvo8O7hj"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u1eebng Bu\u00f4ng Tay",
-        "url": "https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ"
-      },
-      "artists": [
-        {
-          "name": "LOV",
-          "url": "https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo"
-        }
-      ],
-      "duration_ms": 250145,
-      "name": "\u0110\u1eebng Bu\u00f4ng Tay",
-      "url": "https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
-        "url": "https://open.spotify.com/album/0uFk3n2lg0ks9Dwjpvr6Kx"
-      },
-      "artists": [
-        {
-          "name": "My M\u01a1",
-          "url": "https://open.spotify.com/artist/5BjHJXPxwRKh7Qz7cKOPAH"
-        }
-      ],
-      "duration_ms": 287759,
-      "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
-      "url": "https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Em Th\u00edch",
-        "url": "https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx"
-      },
-      "artists": [
-        {
-          "name": "Sean",
-          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
-        },
-        {
-          "name": "L\u1eeda",
-          "url": "https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq"
-        }
-      ],
-      "duration_ms": 176150,
-      "name": "Em Th\u00edch",
-      "url": "https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anniverse",
-        "url": "https://open.spotify.com/album/16E5aldZmJZYnCej4uf8kU"
-      },
-      "artists": [
-        {
-          "name": "Linh Th\u1ed9n",
-          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Anniverse",
-      "url": "https://open.spotify.com/track/44pwrSHblfKSqwh6Ar2UEf"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "H\u1ea1nh Ph\u00fac M\u1edbi",
-        "url": "https://open.spotify.com/album/7cYIOwJ9AovD0X05zL2ayq"
-      },
-      "artists": [
-        {
-          "name": "Erin",
-          "url": "https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY"
-        }
-      ],
-      "duration_ms": 294960,
-      "name": "H\u1ea1nh Ph\u00fac M\u1edbi",
-      "url": "https://open.spotify.com/track/5UJWKVl4jHM0Yxig7RI6dC"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Th\u01b0\u01a1ng Th\u1ea7m",
-        "url": "https://open.spotify.com/album/5GLpR4W2Harmx27lpvutCp"
-      },
-      "artists": [
-        {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
-        },
-        {
-          "name": "Ngcyenn",
-          "url": "https://open.spotify.com/artist/6j8zQ4XLvwPWZSXlhpDViP"
-        }
-      ],
-      "duration_ms": 212830,
-      "name": "Th\u01b0\u01a1ng Th\u1ea7m",
-      "url": "https://open.spotify.com/track/0uRgZhn1nkFg3Ee2LWrNeL"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Tin Nh\u1eafn",
-        "url": "https://open.spotify.com/album/5WsHjrHPCgYmEMv3WnBR8V"
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/6Pi3uhiWCWwbq6DqOsxHiF"
       },
       "artists": [
         {
@@ -896,779 +1740,71 @@
           "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
         },
         {
-          "name": "Ch\u00fac H\u1ef7",
-          "url": "https://open.spotify.com/artist/4fGDn2HaeUAbHyZLrrlbBa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Tin Nh\u1eafn",
-      "url": "https://open.spotify.com/track/0uFBHFPF9un8AQBK7av3Ih"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "T\u1ef1a \u0110\u1ea7u V\u00e0o Vibe",
-        "url": "https://open.spotify.com/album/3BU2ybxIb9b80gIe7MjMyh"
-      },
-      "artists": [
-        {
-          "name": "Freaky",
-          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "T\u1ef1a \u0110\u1ea7u V\u00e0o Vibe",
-      "url": "https://open.spotify.com/track/7cq2OXx6RLe1gI1YIaj9vn"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "M\u00e1y Bay Nh\u00e0",
-        "url": "https://open.spotify.com/album/1HYbj9aoShuZoDsuoCRFcF"
-      },
-      "artists": [
-        {
-          "name": "SouLH",
-          "url": "https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "M\u00e1y Bay Nh\u00e0",
-      "url": "https://open.spotify.com/track/0gE9MkqsUbw86RhSdPFsbe"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Em L\u00e0 \u00c1ng M\u00e2y",
-        "url": "https://open.spotify.com/album/6VXrfGpTFsidV7FhLorC7J"
-      },
-      "artists": [
-        {
-          "name": "L\u00ea V\u0169",
-          "url": "https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ"
+          "name": "Johnny",
+          "url": "https://open.spotify.com/artist/7v0O7Di18gEfuPTalCs6mE"
         },
         {
-          "name": "Karrot",
-          "url": "https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST"
+          "name": "Lamar",
+          "url": "https://open.spotify.com/artist/3CNvwpeYlbVoVQ2WW14T34"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Em L\u00e0 \u00c1ng M\u00e2y",
-      "url": "https://open.spotify.com/track/1ckK3cShdFpW4RxvFdAiSI"
+      "duration_ms": 192989,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/5133H9CRyMQR3H9TBdzPtm"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "N\u00f3i Ra C\u00e2u T\u1ecf T\u00ecnh",
-        "url": "https://open.spotify.com/album/7xaWpTeZac3HwWwk5VvMup"
-      },
-      "artists": [
-        {
-          "name": "Daduc",
-          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
-        },
-        {
-          "name": "DAGIAM",
-          "url": "https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "N\u00f3i Ra C\u00e2u T\u1ecf T\u00ecnh",
-      "url": "https://open.spotify.com/track/5gfBqIg8SasGpSqjENPuAo"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "M\u1ed9t Ng\u00e0y Trong Xanh (feat. D.Kh\u00e1nh)",
-        "url": "https://open.spotify.com/album/5uwjucwwvl490yStrDhHfx"
-      },
-      "artists": [
-        {
-          "name": "Marr D",
-          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
-        },
-        {
-          "name": "d.kh\u00e1nh",
-          "url": "https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "M\u1ed9t Ng\u00e0y Trong Xanh (feat. D.Kh\u00e1nh)",
-      "url": "https://open.spotify.com/track/6DoPkM8BDPEicZOz1yqwgX"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ng\u1ee1 Nh\u01b0 Ng\u00e0y \u0110\u1ea7u",
-        "url": "https://open.spotify.com/album/70KXsoqVgS08ULTRsySR40"
-      },
-      "artists": [
-        {
-          "name": "Cris",
-          "url": "https://open.spotify.com/artist/2fa1aZaz9x7sIFWBHxb0vV"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Ng\u1ee1 Nh\u01b0 Ng\u00e0y \u0110\u1ea7u",
-      "url": "https://open.spotify.com/track/1LKbehfFezJPYTLI5kElCy"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh Dau",
-        "url": "https://open.spotify.com/album/2vGt13zTh4TBEnHX7FMTQd"
-      },
-      "artists": [
-        {
-          "name": "younghao",
-          "url": "https://open.spotify.com/artist/6frv7MElqCBhpktzJvGoxs"
-        },
-        {
-          "name": "VCC Left Hand",
-          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Anh Dau",
-      "url": "https://open.spotify.com/track/4cBAsuUvc3eE4aZRBzW5h9"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
-        "url": "https://open.spotify.com/album/1XQsi4edMX7xF9gbdoKI0s"
-      },
-      "artists": [
-        {
-          "name": "Kidz",
-          "url": "https://open.spotify.com/artist/6wZ01tGqWDyJ6vykbeaIFA"
-        }
-      ],
-      "duration_ms": 96966,
-      "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
-      "url": "https://open.spotify.com/track/2N8RSAhMMQgNUd5XcPYTC9"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "letmeloveyou",
-        "url": "https://open.spotify.com/album/0SsM6eWLkCnwOXpgYbj0QQ"
-      },
-      "artists": [
-        {
-          "name": "Pay",
-          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "letmeloveyou",
-      "url": "https://open.spotify.com/track/7JQPDchdfMw7z80fhTXfnt"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh Ch\u1ec9 C\u1ea7n N\u00f3i Love",
-        "url": "https://open.spotify.com/album/4asfY592cNAEuNNF0d8IZm"
-      },
-      "artists": [
-        {
-          "name": "UMIE",
-          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
-        }
-      ],
-      "duration_ms": 143215,
-      "name": "Anh Ch\u1ec9 C\u1ea7n N\u00f3i Love",
-      "url": "https://open.spotify.com/track/1Lykz5OjNoA1bfNa9FBLZ5"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "M\u1ed9t B\u00e0i H\u00e1t Cho Anh",
-        "url": "https://open.spotify.com/album/2bIGQ7vO4tqkvLJlEwHGxf"
-      },
-      "artists": [
-        {
-          "name": "Tr\u01b0\u1eddng Anh",
-          "url": "https://open.spotify.com/artist/43EaFqebBqXuX8XBScWVkg"
-        },
-        {
-          "name": "Mia Tran",
-          "url": "https://open.spotify.com/artist/7Me0lNSh4B58YMJB966W06"
-        }
-      ],
-      "duration_ms": 285394,
-      "name": "M\u1ed9t B\u00e0i H\u00e1t Cho Anh",
-      "url": "https://open.spotify.com/track/4w3RO9wrlL7xGqZCoAt4Oh"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh S\u1ebd \u0110\u00f3n Em (Cukak Remix)",
-        "url": "https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz"
-      },
-      "artists": [
-        {
-          "name": "Nguy\u00ean",
-          "url": "https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw"
-        },
-        {
-          "name": "TRANG",
-          "url": "https://open.spotify.com/artist/2qfqUJvy3vika8WG6kOJ71"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Anh S\u1ebd \u0110\u00f3n Em - Cukak Remix",
-      "url": "https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Em Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/46kEShcbu4qgfYoZ01pvCa"
-      },
-      "artists": [
-        {
-          "name": "chillingo",
-          "url": "https://open.spotify.com/artist/23ZFLCv47cdgbFptnYUb0J"
-        },
-        {
-          "name": "Gavin G",
-          "url": "https://open.spotify.com/artist/34DOSaoM6W94zcR27G7YNe"
-        },
-        {
-          "name": "GoAllDay",
-          "url": "https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg"
-        }
-      ],
-      "duration_ms": 172590,
-      "name": "Em Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/6679kGAhJ83sFhJArAj9Na"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Hai Ng\u01b0\u1eddi Ch\u01b0a T\u1eebng Quen",
-        "url": "https://open.spotify.com/album/6v3HDBqZyoRB0s1q36gwrn"
-      },
-      "artists": [
-        {
-          "name": "Tu\u1ea5n Hii",
-          "url": "https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE"
-        },
-        {
-          "name": "NVM",
-          "url": "https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC"
-        }
-      ],
-      "duration_ms": 149771,
-      "name": "Hai Ng\u01b0\u1eddi Ch\u01b0a T\u1eebng Quen",
-      "url": "https://open.spotify.com/track/5uLITd8MGIMJRFR6fyaDVI"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/02k5ksGgSAFFNikcdzD8AX"
-      },
-      "artists": [
-        {
-          "name": "Hades",
-          "url": "https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh"
-        },
-        {
-          "name": "Minh Trang",
-          "url": "https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/1BEucHuiAAvdCgjrvITZTA"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Y\u00eau M\u1ed7i Em",
-        "url": "https://open.spotify.com/album/1LV63vZb1VkJ9ngbCnCIKt"
+        "name": "C\u00f3 Ph\u1ea3i Em S\u1ee3 Y\u00eau",
+        "url": "https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6"
       },
       "artists": [
         {
           "name": "S\u00f3c N\u00e2u",
           "url": "https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo"
-        },
-        {
-          "name": "Freaky",
-          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
         }
       ],
-      "duration_ms": 192258,
-      "name": "Y\u00eau M\u1ed7i Em (feat. Freaky)",
-      "url": "https://open.spotify.com/track/6aYqImJRj7acWqmiMv4iAn"
+      "duration_ms": 250894,
+      "name": "C\u00f3 Ph\u1ea3i Em S\u1ee3 Y\u00eau",
+      "url": "https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Chuy\u1ec7n Ng\u00e0y X\u01b0a Ng\u00e0y Nay",
-        "url": "https://open.spotify.com/album/6LRWJ3dl8ri67eX4Yxlo9M"
+        "name": "HIPPU",
+        "url": "https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL"
       },
       "artists": [
         {
-          "name": "Sean",
-          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+          "name": "Bennn",
+          "url": "https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS"
         }
       ],
-      "duration_ms": 175322,
-      "name": "Chuy\u1ec7n Ng\u00e0y X\u01b0a Ng\u00e0y Nay",
-      "url": "https://open.spotify.com/track/1fRtrm0edJ6wWxnyEXTO9D"
+      "duration_ms": 130975,
+      "name": "HIPPU",
+      "url": "https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Ng\u1ecdt Ng\u00e0o \u0110\u1ebfn M\u1ea5y C\u0169ng Tan Th\u00e0nh Drill",
-        "url": "https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI"
+        "name": "T\u1ed1i Nay C\u00f3 \u0110i\u1ec1u G\u00ec Anh Mu\u1ed1n N\u00f3i?",
+        "url": "https://open.spotify.com/album/7g7z9tp7TCvDPVENW7ELBR"
       },
       "artists": [
         {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2"
+          "name": "Tr\u00e0 Long",
+          "url": "https://open.spotify.com/artist/1QiNDiufzd27juQkJzOTkU"
         }
       ],
-      "duration_ms": 160806,
-      "name": "Ng\u1ecdt Ng\u00e0o \u0110\u1ebfn M\u1ea5y C\u0169ng Tan Th\u00e0nh Drill",
-      "url": "https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN"
+      "duration_ms": 172959,
+      "name": "T\u1ed1i Nay C\u00f3 \u0110i\u1ec1u G\u00ec Anh Mu\u1ed1n N\u00f3i?",
+      "url": "https://open.spotify.com/track/7G7mOUcVzEQQG761dW1hlr"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/28erSfGHTySvJRP3J1LTlm"
-      },
-      "artists": [
-        {
-          "name": "NNat",
-          "url": "https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw"
-        }
-      ],
-      "duration_ms": 214132,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/4qceKimAyiRmYpI9VUsuUI"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "H\u00ecnh Nh\u01b0",
-        "url": "https://open.spotify.com/album/4VAkf7hl69kMbpJv2sZVo8"
-      },
-      "artists": [
-        {
-          "name": "GUA",
-          "url": "https://open.spotify.com/artist/5Q5ZsD33P3z5ZiVmOC5WMx"
-        },
-        {
-          "name": "Tranc",
-          "url": "https://open.spotify.com/artist/61xZPq6m9D1pmKc68G1YPR"
-        }
-      ],
-      "duration_ms": 181634,
-      "name": "H\u00ecnh Nh\u01b0",
-      "url": "https://open.spotify.com/track/62hVXugrWHfIUoTyqbGddp"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ch\u1ec9 Rung \u0110\u1ed9ng M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/7dwjIIiyFcnKU2Xv076ZXp"
-      },
-      "artists": [
-        {
-          "name": "ImD",
-          "url": "https://open.spotify.com/artist/4kZKhAiaD155vll9hoEycu"
-        }
-      ],
-      "duration_ms": 193860,
-      "name": "Ch\u1ec9 Rung \u0110\u1ed9ng M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/5xbJjMtTDNXBChodtK2kOe"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j"
-      },
-      "artists": [
-        {
-          "name": "Cristian",
-          "url": "https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "girl hai huoc nhung tim day vet xuoc",
-        "url": "https://open.spotify.com/album/2rlxhUVYeGtcxxUVjd0TUo"
-      },
-      "artists": [
-        {
-          "name": "Saabirose",
-          "url": "https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5"
-        }
-      ],
-      "duration_ms": 192258,
-      "name": "girl hai huoc nhung tim day vet xuoc",
-      "url": "https://open.spotify.com/track/1yhdiXXiBDHj4M4W1qzXgE"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Kh\u00f4ng B\u1eb1ng",
-        "url": "https://open.spotify.com/album/7voNog9Gq6TLIyrtmn8Ydu"
-      },
-      "artists": [
-        {
-          "name": "Na",
-          "url": "https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj"
-        }
-      ],
-      "duration_ms": 253090,
-      "name": "Kh\u00f4ng B\u1eb1ng",
-      "url": "https://open.spotify.com/track/0wAKESJRnGVOqX2UvpEPRA"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u1ea7u To",
-        "url": "https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS"
-      },
-      "artists": [
-        {
-          "name": "Linh Th\u1ed9n",
-          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
-        },
-        {
-          "name": "A.C Xu\u00e2n T\u00e0i",
-          "url": "https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "\u0110\u1ea7u To",
-      "url": "https://open.spotify.com/track/31HwayLskRLAbNRISnylKt"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Forget Me Now",
-        "url": "https://open.spotify.com/album/3EYIqs33aRHNmaOPB79ito"
-      },
-      "artists": [
-        {
-          "name": "Fishy",
-          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
-        },
-        {
-          "name": "Tr\u00ed D\u0169ng",
-          "url": "https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Forget Me Now",
-      "url": "https://open.spotify.com/track/1H3YufOafybrq0l9U77aNn"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "B\u00f3ng T\u1ed1i L\u00e0 \u00c1nh N\u1ebfn C\u1ee7a Anh",
-        "url": "https://open.spotify.com/album/0c8d0ZPZ1JmWKurJ3YzNeR"
-      },
-      "artists": [
-        {
-          "name": "Killic",
-          "url": "https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu"
-        },
-        {
-          "name": "Buford",
-          "url": "https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf"
-        }
-      ],
-      "duration_ms": 177671,
-      "name": "B\u00f3ng T\u1ed1i L\u00e0 \u00c1nh N\u1ebfn C\u1ee7a Anh",
-      "url": "https://open.spotify.com/track/6burQf4069mXMBz6H7Iehn"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Tell Ur Mom II (Clean)",
-        "url": "https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Heily",
-          "url": "https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk"
-        }
-      ],
-      "duration_ms": 219264,
-      "name": "Tell Ur Mom II",
-      "url": "https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Ph\u1ecfng L\u00e0i Em",
-        "url": "https://open.spotify.com/album/6mCDV9l81oZiNhqbGFZT70"
-      },
-      "artists": [
-        {
-          "name": "Daduc",
-          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
-        },
-        {
-          "name": "Dipper",
-          "url": "https://open.spotify.com/artist/7KdcPj1wOw7zf4ijzUjajW"
-        }
-      ],
-      "duration_ms": 201422,
-      "name": "Ph\u1ecfng L\u00e0i Em",
-      "url": "https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Say \u0110\u1eafm Trong L\u1ea7n \u0110\u1ea7u",
-        "url": "https://open.spotify.com/album/5ZrPgAvdWhTCjEDOonp098"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Say \u0110\u1eafm Trong L\u1ea7n \u0110\u1ea7u",
-      "url": "https://open.spotify.com/track/079Fpq9a18TX4ir9znmv84"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "D\u1ea1i Kh\u1edd",
-        "url": "https://open.spotify.com/album/1bAA7rEfrf0Z31RKYzURIf"
-      },
-      "artists": [
-        {
-          "name": "D'CEE",
-          "url": "https://open.spotify.com/artist/0oRmS4Q2x8CZdvwbdLRLuM"
-        },
-        {
-          "name": "Anh Th\u01b0",
-          "url": "https://open.spotify.com/artist/1PCAC92BfXeeypNz5vFEiB"
-        },
-        {
-          "name": "CM1X",
-          "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "D\u1ea1i Kh\u1edd",
-      "url": "https://open.spotify.com/track/66s8eWGquPuiyuSdtrZ9tV"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Lying to myself",
-        "url": "https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N"
-      },
-      "artists": [
-        {
-          "name": "Dab",
-          "url": "https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV"
-        },
-        {
-          "name": "sy",
-          "url": "https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU"
-        }
-      ],
-      "duration_ms": 176935,
-      "name": "Lying to myself",
-      "url": "https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0",
-        "url": "https://open.spotify.com/album/3Tmn5CMUeHgOex2d246w0M"
-      },
-      "artists": [
-        {
-          "name": "NNat",
-          "url": "https://open.spotify.com/artist/78T3xHpKkxuDjzoy2Puziw"
-        },
-        {
-          "name": "Linh Dinh",
-          "url": "https://open.spotify.com/artist/70T16aW1mbYTvjAyd9mejM"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0",
-      "url": "https://open.spotify.com/track/44E3rYotYgSi7UX859TKoH"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Mai v\u1ec1",
-        "url": "https://open.spotify.com/album/6e7wNcPs79xv9punGq5XTV"
-      },
-      "artists": [
-        {
-          "name": "Dfoxie37",
-          "url": "https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG"
-        },
-        {
-          "name": "Myhai",
-          "url": "https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Mai v\u1ec1",
-      "url": "https://open.spotify.com/track/76eYOvkCQ1b7E7tpJ2usvN"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Con Nh\u00e0 Qu\u00ea",
-        "url": "https://open.spotify.com/album/41jPwYbEBe96KXJKtJx1X5"
-      },
-      "artists": [
-        {
-          "name": "Pjnboys",
-          "url": "https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1"
-        },
-        {
-          "name": "Big T",
-          "url": "https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS"
-        }
-      ],
-      "duration_ms": 229583,
-      "name": "Con Nh\u00e0 Qu\u00ea",
-      "url": "https://open.spotify.com/track/4FxXY067gF2AdcVdyNUzTF"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Nh\u1eefng Ng\u00e0y Th\u00e1ng \u1ea4y",
-        "url": "https://open.spotify.com/album/55rBw6jsY1HNU6qRvdUkIo"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
-        },
-        {
-          "name": "sinist/a",
-          "url": "https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM"
-        }
-      ],
-      "duration_ms": 213064,
-      "name": "Nh\u1eefng Ng\u00e0y Th\u00e1ng \u1ea4y",
-      "url": "https://open.spotify.com/track/2I2Zhvpi5D17cNkl7mUzXc"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Overdouse",
-        "url": "https://open.spotify.com/album/4qs9OpKXsCDWtAG7GRWUmc"
-      },
-      "artists": [
-        {
-          "name": "Weedie",
-          "url": "https://open.spotify.com/artist/1Lmfz5Yccktfwedhkpi1ny"
-        },
-        {
-          "name": "Nicc & Vlien",
-          "url": "https://open.spotify.com/artist/6GHzq6On17TtnskvO3lTeW"
-        }
-      ],
-      "duration_ms": 125696,
-      "name": "Overdouse",
-      "url": "https://open.spotify.com/track/5K7L3cBziHUOLjZLi19aco"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "H\u1ecd \u0110\u00e2u Bi\u1ebft",
-        "url": "https://open.spotify.com/album/60q7uPOE7JvovLLXQM6g3o"
-      },
-      "artists": [
-        {
-          "name": "Linh Sung",
-          "url": "https://open.spotify.com/artist/0NisVmbblZYFHjuV3xu0oj"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "H\u1ecd \u0110\u00e2u Bi\u1ebft",
-      "url": "https://open.spotify.com/track/1ipeO6Cqe8N2wKeEXPITFQ"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "L\u1ea1c V\u00e0o Trong M\u01a1",
-        "url": "https://open.spotify.com/album/0hmMXG6kAHqOJBuYD5indJ"
-      },
-      "artists": [
-        {
-          "name": "SimonC",
-          "url": "https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ"
-        },
-        {
-          "name": "WUY",
-          "url": "https://open.spotify.com/artist/3IGxoxQrju6h4nvh9ZHz4T"
-        }
-      ],
-      "duration_ms": 172774,
-      "name": "L\u1ea1c V\u00e0o Trong M\u01a1",
-      "url": "https://open.spotify.com/track/7baBkATX7B3MCUYDyjlXPs"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "I can't sing, I just miss you",
-        "url": "https://open.spotify.com/album/7xOVUFmg9oTFql0ouDzz7d"
-      },
-      "artists": [
-        {
-          "name": "Mias",
-          "url": "https://open.spotify.com/artist/0OUo4odW5aRAYMhJYWNyEQ"
-        }
-      ],
-      "duration_ms": 197159,
-      "name": "V\u00e9 Ca Nh\u1ea1c T\u1eb7ng Em",
-      "url": "https://open.spotify.com/track/6vSBQZBHCS6XIDSVchwOOF"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "GIAYPHUT",
-        "url": "https://open.spotify.com/album/12Xpa5Vp0FbiKzx1EU7TCy"
-      },
-      "artists": [
-        {
-          "name": "kidsai",
-          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "GIAYPHUT",
-      "url": "https://open.spotify.com/track/4fxb18lZap3bW72cRvTH5i"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Gi\u1ea5c M\u01a1 R\u1ea5t Th\u01a1",
-        "url": "https://open.spotify.com/album/3emRWovxjpnUNKVYbDTctY"
+        "name": "Du Ca Kh\u00fac",
+        "url": "https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP"
       },
       "artists": [
         {
@@ -1676,141 +1812,81 @@
           "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
         },
         {
-          "name": "thaison!",
-          "url": "https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz"
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/03NrWxeUbmZA6Aj2Z8ARHx"
         }
       ],
-      "duration_ms": 172992,
-      "name": "Gi\u1ea5c M\u01a1 R\u1ea5t Th\u01a1",
-      "url": "https://open.spotify.com/track/546ce8vBSyZFwiEfOZ3fx1"
+      "duration_ms": 118757,
+      "name": "Du Ca Kh\u00fac",
+      "url": "https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "Y\u00eau \u0110\u01a1n Ph\u01b0\u01a1ng L\u00e0 G\u00ec",
-        "url": "https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo"
+        "name": "Nh\u1ecd v\u00e0 Lem",
+        "url": "https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa"
       },
       "artists": [
         {
-          "name": "h0n",
-          "url": "https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Y\u00eau \u0110\u01a1n Ph\u01b0\u01a1ng L\u00e0 G\u00ec?",
-      "url": "https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "V\u00f4 T\u01b0 N\u01a1i B\u00ecnh Y\u00ean",
-        "url": "https://open.spotify.com/album/7p8AvS0irZE5xrdxqaw5J3"
-      },
-      "artists": [
-        {
-          "name": "Green",
-          "url": "https://open.spotify.com/artist/6nCWlQAjygvM0xKg7rP0B0"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "V\u00f4 T\u01b0 N\u01a1i B\u00ecnh Y\u00ean",
-      "url": "https://open.spotify.com/track/0cg5elFMTSNfTl5jONnTEq"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "Anh Kh\u00f4ng Th\u1ec3 Qu\u00ean",
-        "url": "https://open.spotify.com/album/5QDYvPxdaO4GPOCudimmCA"
-      },
-      "artists": [
-        {
-          "name": "Marr D",
-          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
+          "name": "Ler",
+          "url": "https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex"
         },
         {
-          "name": "d.kh\u00e1nh",
-          "url": "https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2"
+          "name": "DreAw",
+          "url": "https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp"
         }
       ],
-      "duration_ms": 284684,
-      "name": "Anh Kh\u00f4ng Th\u1ec3 Qu\u00ean",
-      "url": "https://open.spotify.com/track/1WZtkuEYAUjE4VAOEAdqH5"
+      "duration_ms": 204000,
+      "name": "Nh\u1ecd v\u00e0 Lem",
+      "url": "https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
-        "url": "https://open.spotify.com/album/0rdAiM0HLJY1Pzih36Yqme"
+        "name": "\u0110\u01b0\u1eddng V\u1eabn C\u00f2n D\u00e0i",
+        "url": "https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH"
       },
       "artists": [
         {
-          "name": "FSRio",
-          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
-        },
-        {
-          "name": "LuckyC",
-          "url": "https://open.spotify.com/artist/21N9GQDW47Q5e8VStA0fR8"
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg"
         }
       ],
-      "duration_ms": 160526,
-      "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
-      "url": "https://open.spotify.com/track/4CAuX9oAmgeBodrz0tK5VL"
+      "duration_ms": 216561,
+      "name": "\u0110\u01b0\u1eddng V\u1eabn C\u00f2n D\u00e0i",
+      "url": "https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "M\u1eadp M\u1edd",
-        "url": "https://open.spotify.com/album/0z5dVJCOFUXKtf9rvUaMUK"
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR"
       },
       "artists": [
         {
-          "name": "Naggie",
-          "url": "https://open.spotify.com/artist/2rAxHfpCAAkq2ZU2yfA1wi"
+          "name": "No Plan",
+          "url": "https://open.spotify.com/artist/6D9IldP8aT38RwBsX2jvkg"
         }
       ],
-      "duration_ms": 192564,
-      "name": "M\u1eadp M\u1edd",
-      "url": "https://open.spotify.com/track/011Ks90zes4U8WLfcY6YrS"
+      "duration_ms": 213416,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED"
     },
     {
-      "added_at": "2022-06-09 17:00:00",
+      "added_at": "2022-06-12 09:23:48",
       "album": {
-        "name": "GenZ Love",
-        "url": "https://open.spotify.com/album/3fhlRcMwtGZ0hr35pCJQ9C"
+        "name": "My Life My Style",
+        "url": "https://open.spotify.com/album/1HZQr1QTc7Ql2d0MX9xx9O"
       },
       "artists": [
         {
-          "name": "Droppy",
-          "url": "https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT"
-        },
-        {
-          "name": "H\u1ed5",
-          "url": "https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ"
-        },
-        {
-          "name": "UMIE",
-          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+          "name": "IIMV",
+          "url": "https://open.spotify.com/artist/1DUxbWXOGypH1hre0rNtLa"
         }
       ],
-      "duration_ms": 173972,
-      "name": "C\u1edfi B\u1ecf H\u1ebft",
-      "url": "https://open.spotify.com/track/2dKJvd2tQHI5KkJnrgDehQ"
-    },
-    {
-      "added_at": "2022-06-09 17:00:00",
-      "album": {
-        "name": "N\u1ee5 C\u01b0\u1eddi Em",
-        "url": "https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b"
-      },
-      "artists": [
-        {
-          "name": "Ph\u00fa Qu\u00ed",
-          "url": "https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "N\u1ee5 C\u01b0\u1eddi Em",
-      "url": "https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d"
+      "duration_ms": 169800,
+      "name": "My Life My Style",
+      "url": "https://open.spotify.com/track/5gSk8DFl0cCRn3J3CGknXy"
     }
   ],
   "unique_name": "Fresh Finds Vietnam",

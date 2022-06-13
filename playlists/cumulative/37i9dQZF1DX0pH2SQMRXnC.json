@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Only the biggest Hardstyle!",
+  "description": "Get ready for Defqon.1 with this takeover by the festival!",
   "name": "Hardstyle Bangers",
   "published_playlist_ids": [
     "40ibOn4vxhSEyiHRK9rUTk"
@@ -45,6 +45,28 @@
       "duration_ms": 228099,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/0Z9J2O5kjOoZi53ZB8krgJ"
+    },
+    {
+      "album": {
+        "name": "Above Heaven",
+        "url": "https://open.spotify.com/album/75tfVG2HRiW7ztY7LhIBw2"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259600,
+      "name": "Above Heaven",
+      "url": "https://open.spotify.com/track/6n7uPRWtnrKCpkXd6NzqQG"
     },
     {
       "album": {
@@ -303,7 +325,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
@@ -532,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Be Alive",
+        "url": "https://open.spotify.com/album/4AfUCWse9cLKDf2ponHvJS"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150402,
+      "name": "Be Alive",
+      "url": "https://open.spotify.com/track/5zfKM5dXUfXLyekDkBUfyM"
+    },
+    {
+      "album": {
         "name": "Beat Of The Drum",
         "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
       },
@@ -605,10 +645,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 161049,
       "name": "Bergen - Frontliner Remix",
       "url": "https://open.spotify.com/track/3H9KW14Jjw8erGMiRpdBXx"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4Bm0Ks7xotQtRymSCHM8SO"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1SUnipJp9KrH96akpJJy39"
     },
     {
       "album": {
@@ -675,10 +733,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 267870,
       "name": "Bolivia - G4H Blood Brothers Remix",
       "url": "https://open.spotify.com/track/3RUcYG9JQIF4YNYZWPsqeG"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7fb89VYTdbaymChs5cJ0FI"
+      },
+      "artists": [
+        {
+          "name": "Stormerz",
+          "url": "https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6o7ILkCgjzoQQd9lBiC0Cw"
     },
     {
       "album": {
@@ -722,6 +798,28 @@
     },
     {
       "album": {
+        "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "ATILAX",
+          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/2cfVz6gqpKDmHVBfLlzgmB"
       },
@@ -737,7 +835,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 216816,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/6gzoKKvtqZvZ3rNSsBT2cb"
@@ -929,7 +1027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
@@ -1108,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/4bN61KgB2gz5X3re39tTWV"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326955,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/30xpBHCKlX7TPGuCAqqs07"
+    },
+    {
+      "album": {
         "name": "Coming Alive",
         "url": "https://open.spotify.com/album/2n3kVRxgTd1EXZUwIPsWCy"
       },
@@ -1185,7 +1305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -1233,7 +1353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -1311,6 +1431,32 @@
       "duration_ms": 233600,
       "name": "Das Boot",
       "url": "https://open.spotify.com/track/3b7voqOsxGV1gMcHVSri8N"
+    },
+    {
+      "album": {
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/4akEyaFtn3nhD1AH8IHira"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Chrono",
+          "url": "https://open.spotify.com/artist/1TpWd2shGijXDcCqFnzwOs"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/3dVVJDkYN8snyIICAvUbB0"
     },
     {
       "album": {
@@ -1457,7 +1603,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Different",
       "url": "https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm"
@@ -1479,7 +1625,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 232506,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe"
@@ -1698,6 +1844,28 @@
     },
     {
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/377OkXqXNCNsUNiArXIVq7"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190665,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/0CPePM7Vm5XUp2n66otp8s"
+    },
+    {
+      "album": {
         "name": "DYSYLM",
         "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
       },
@@ -1783,6 +1951,24 @@
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/5qjlbSkdxUr0uJDXZcVZ4Z"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252770,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/2wEHxzHkn4wSO7dWNUeQjF"
     },
     {
       "album": {
@@ -2250,6 +2436,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/6oqHa4g8L3BQdDLQ7sZXOQ"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249329,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/34ODPTM2TT6AqYE496EvBG"
+    },
+    {
+      "album": {
         "name": "Fire And Ice (Radio Edit)",
         "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
       },
@@ -2291,6 +2499,28 @@
       "duration_ms": 190450,
       "name": "Fired Up - Hard Mix",
       "url": "https://open.spotify.com/track/2EwvXqwkfU6c0mxJYRL9iA"
+    },
+    {
+      "album": {
+        "name": "Fitness Move (Warrior Workout OST)",
+        "url": "https://open.spotify.com/album/0wSt9ElPEr8rHVUP8nYAEp"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185844,
+      "name": "Fitness Move (Warrior Workout OST)",
+      "url": "https://open.spotify.com/track/2gwd44pmXiECtQM7EOKRQd"
     },
     {
       "album": {
@@ -2433,7 +2663,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 236812,
       "name": "For You",
       "url": "https://open.spotify.com/track/3DoOHv1HM9Arrw5PofaF2S"
@@ -2565,7 +2795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 195066,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl"
@@ -2831,7 +3061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 150419,
       "name": "Hardcore Girl - Earsquaker Remix Edit",
       "url": "https://open.spotify.com/track/1qnljcdGqfl8YV9S0cETgm"
@@ -3011,7 +3241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 179500,
       "name": "High From It (Coone & Sephyx Remix)",
       "url": "https://open.spotify.com/track/3XussQ7yygu3uoAPEDlwhi"
@@ -3221,7 +3451,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 224903,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/36KGP1dk6Pq4Vaalswving"
@@ -3305,7 +3535,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
@@ -3581,7 +3811,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 170295,
       "name": "Jaipur - Radio Edit",
       "url": "https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0"
@@ -3779,7 +4009,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 192297,
       "name": "Left Of Us - Darren Styles Remix",
       "url": "https://open.spotify.com/track/5GBgpkLwGddjBhufgazZSH"
@@ -3884,6 +4114,32 @@
     },
     {
       "album": {
+        "name": "Life Or Death",
+        "url": "https://open.spotify.com/album/4tvpFDfpRSeEkEHPY4XMMa"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/0pDkimjmYwN7lQSFNjo6Bx"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185431,
+      "name": "Life Or Death",
+      "url": "https://open.spotify.com/track/4u0By1vOq2HfsSPUGLfkcq"
+    },
+    {
+      "album": {
         "name": "Light The Fire",
         "url": "https://open.spotify.com/album/4yFakFnDvDQHpw8RqQlagy"
       },
@@ -3917,7 +4173,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 240822,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/228GIuoRODM4m1K2vcucvN"
@@ -3961,6 +4217,28 @@
       "duration_ms": 208000,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v"
+    },
+    {
+      "album": {
+        "name": "DEDIQATED - 20 Years Of Q-dance",
+        "url": "https://open.spotify.com/album/5Z1gtJYamym9mqFEuhgMVq"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182079,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5ZHdiROs72t0QpMHggDSNW"
     },
     {
       "album": {
@@ -4121,7 +4399,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
@@ -4271,7 +4549,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 244731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/7EhFWQemhhLJERMg8mPmeF"
@@ -4355,7 +4633,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 249600,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/2fKWVB8rWh4GwtvScLWNFt"
@@ -4373,7 +4651,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 222336,
       "name": "New Era",
       "url": "https://open.spotify.com/track/7aQZhgOzo982eeQciRymh6"
@@ -4421,6 +4699,32 @@
     {
       "album": {
         "name": "No Fear",
+        "url": "https://open.spotify.com/album/5L42QZz6StD9tZDsTC2vJU"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Phrantic",
+          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226009,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/1h2ZpjNE4OKn9ZPEm5Nmye"
+    },
+    {
+      "album": {
+        "name": "No Fear",
         "url": "https://open.spotify.com/album/4uJiacCvxkp0tKRyR4r7HI"
       },
       "artists": [
@@ -4443,6 +4747,28 @@
       "duration_ms": 190451,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/6AgG8WZqYsJZWb1yZjULE8"
+    },
+    {
+      "album": {
+        "name": "No Guts No Glory (Defqon.1 Anthem 2015)",
+        "url": "https://open.spotify.com/album/7qCywPCmgkThjMMuvJXWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Skits Vicious",
+          "url": "https://open.spotify.com/artist/6wagDejDLL6ujxepmXcj9m"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358535,
+      "name": "No Guts No Glory (Defqon.1 Anthem 2015) - Edit Version",
+      "url": "https://open.spotify.com/track/5niWktDYrgqE6FbStUkeDS"
     },
     {
       "album": {
@@ -4577,7 +4903,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 216000,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3RxUBny41YbvA2zus4vWYA"
@@ -4599,10 +4925,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 234844,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/1M0OzVgrF1lKmteWYmDP7g"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230709,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/2xw66v4Dh3IDfSNwVHeDDq"
     },
     {
       "album": {
@@ -4621,7 +4965,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5SdosZFiok1BS9LkWexfFQ"
@@ -4683,10 +5027,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/3fZIBSibgTdC4gaqoXmk8G"
+    },
+    {
+      "album": {
+        "name": "Orange Heart (feat. Sian Evans)",
+        "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230321,
+      "name": "Orange Heart",
+      "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
     },
     {
       "album": {
@@ -4723,7 +5089,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 268800,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/6jzqY97VGs6UqEhAVOuGRz"
@@ -4745,7 +5111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 179758,
       "name": "Our World",
       "url": "https://open.spotify.com/track/6AQf6CoUwKxtKjmLBxOSwU"
@@ -4767,7 +5133,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 164000,
       "name": "Over & Done - Averro Remix",
       "url": "https://open.spotify.com/track/0zR9PEs0Udoc2f81t8DRJx"
@@ -4966,6 +5332,32 @@
     },
     {
       "album": {
+        "name": "Power Hour",
+        "url": "https://open.spotify.com/album/3Hjo3TI3WHUEsmwKHx56vl"
+      },
+      "artists": [
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219061,
+      "name": "Power Hour - Radio Edit",
+      "url": "https://open.spotify.com/track/7jZR3qtgRMB79lzSmZHKS7"
+    },
+    {
+      "album": {
         "name": "Powers",
         "url": "https://open.spotify.com/album/7rArvj48qUVY0SgMgGTONP"
       },
@@ -5003,7 +5395,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 316800,
       "name": "Primal Energy (Defqon.1 2020 Anthem)",
       "url": "https://open.spotify.com/track/3ppJijBGMSBnz45elmwh5V"
@@ -5029,6 +5421,24 @@
       "duration_ms": 350077,
       "name": "Primal Energy (Haunted Grounds)",
       "url": "https://open.spotify.com/track/1AL97In5wDss9kvY8wRHH4"
+    },
+    {
+      "album": {
+        "name": "Primal Energy (Defqon.1 2020 Anthem)",
+        "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Primal Energy - Defqon.1 2020 Anthem",
+      "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
     },
     {
       "album": {
@@ -5227,7 +5637,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 201864,
       "name": "Ready to Rave (Bass Modulators Remix)",
       "url": "https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ"
@@ -5377,7 +5787,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 162557,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7i2mcD6FwfHFPRLvfAHbau"
@@ -5469,7 +5879,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Run With The Restless",
       "url": "https://open.spotify.com/track/1YKY6j5fyaUx7dCsz1D4Vf"
@@ -5520,6 +5930,24 @@
     },
     {
       "album": {
+        "name": "Set Myself Free",
+        "url": "https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "Set Myself Free",
+      "url": "https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz"
+    },
+    {
+      "album": {
         "name": "Shabaka",
         "url": "https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL"
       },
@@ -5557,7 +5985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 194520,
       "name": "Shady People",
       "url": "https://open.spotify.com/track/21WeEP1WFMO0wIzQRVzVd8"
@@ -5579,7 +6007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 213200,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
@@ -5649,7 +6077,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 220903,
       "name": "Show It",
       "url": "https://open.spotify.com/track/349WqcWdoFn8SpuPqabADv"
@@ -6177,7 +6605,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 161129,
       "name": "Summer Rave",
       "url": "https://open.spotify.com/track/0FVUfX7nw1bNQGBLTpTwX5"
@@ -6441,7 +6869,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -6511,7 +6939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -6806,6 +7234,32 @@
     },
     {
       "album": {
+        "name": "This Is Who We Are (Power Hour Gospel Edit)",
+        "url": "https://open.spotify.com/album/73FTNQIyNRhHnWn7xaCDJ7"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        },
+        {
+          "name": "Slim Shore",
+          "url": "https://open.spotify.com/artist/0g6xDSNn61xcJRSycDRuKk"
+        },
+        {
+          "name": "Sam Lemay",
+          "url": "https://open.spotify.com/artist/11ooXjcX0LXtpDs9FnwF4C"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149364,
+      "name": "This Is Who We Are - Power Hour Gospel Edit",
+      "url": "https://open.spotify.com/track/1Hj41iiI6wWprRr2Dl9uem"
+    },
+    {
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/0d7O4cUXaXRjniHSX96mMD"
       },
@@ -7040,6 +7494,28 @@
     },
     {
       "album": {
+        "name": "TOO COLD",
+        "url": "https://open.spotify.com/album/6lYV9yczGNYZg8EpGpw488"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186410,
+      "name": "TOO COLD",
+      "url": "https://open.spotify.com/track/0vBOyqICis94fkSwJbfUeF"
+    },
+    {
+      "album": {
         "name": "Toss A Coin To Your Witcher",
         "url": "https://open.spotify.com/album/1m6AmnKzpPf6oQl7uGL3Qv"
       },
@@ -7147,7 +7623,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 192000,
       "name": "Twilight Zone - Edit",
       "url": "https://open.spotify.com/track/09BxJMIz6CkunwqTPgpEWV"
@@ -7639,7 +8115,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 165379,
       "name": "We Are Xtra",
       "url": "https://open.spotify.com/track/519wD9zbe3OZI6LYKq1zXS"
@@ -7763,6 +8239,24 @@
       "duration_ms": 190739,
       "name": "White Lines",
       "url": "https://open.spotify.com/track/1PVnSZcmBg0ObTk3x0Z8Me"
+    },
+    {
+      "album": {
+        "name": "Why Always Me",
+        "url": "https://open.spotify.com/album/6MFKHYW5RHQ5ZjoCRXmv7j"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180060,
+      "name": "Why Always Me",
+      "url": "https://open.spotify.com/track/1PjUjputBegeHFHfIAtKRg"
     },
     {
       "album": {

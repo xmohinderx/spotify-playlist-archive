@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 159693,
       "name": "Calendar Girl",
       "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 126959,
       "name": "Got the Water Boiling",
       "url": "https://open.spotify.com/track/23CBE0comPIg8EHgCXZxrW"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 117111,
       "name": "Hey Baby Doll",
       "url": "https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 153391,
       "name": "Red Hot - Original",
       "url": "https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s"
@@ -2705,7 +2705,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 148053,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
@@ -2777,7 +2777,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 108774,
       "name": "Rock And Roll Party",
       "url": "https://open.spotify.com/track/7M6JdbqOGGVyD2arSIRwPl"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 174003,
       "name": "Shoobie Oobie",
       "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
@@ -3105,7 +3105,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
@@ -3393,7 +3393,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 188673,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
@@ -3451,6 +3451,24 @@
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "album": {
+        "name": "He's Got It",
+        "url": "https://open.spotify.com/album/2giO8azVQfw4ZuELVsmOI1"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145840,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/1xjYJJy5TFFVD9tStu2hfw"
     },
     {
       "album": {

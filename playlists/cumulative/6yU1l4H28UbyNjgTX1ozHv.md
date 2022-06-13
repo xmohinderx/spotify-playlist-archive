@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-114 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+115 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Call Me \- Acoustic](https://open.spotify.com/track/4ItkAxuNvjuWvN8t93SYNE) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Call Me \(Acoustic\)](https://open.spotify.com/album/5zDhAJF7zb9MeY80oWJ1Br) | 2:46 | 2020-07-17 |  |
 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/4PgcZ3foDPLLruyBjVlfo3) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Call Me Maybe \(Acoustic\)](https://open.spotify.com/album/1JKTeC7myW3DLEeP9H4WTz) | 2:45 | 2020-08-28 |  |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2019-10-13 |  |
+| [Careless Whisper \- Acoustic](https://open.spotify.com/track/56cdkBJabIgi2gynwG8XHL) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Careless Whisper \(Acoustic\)](https://open.spotify.com/album/3kXTkygRasSbX7ckz534Ei) | 3:24 | 2022-06-12 |  |
 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 | 2019-10-13 |  |
 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 | 2019-10-13 |  |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
@@ -29,7 +30,7 @@
 | [Don’t Look Back In Anger \- Acoustic](https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Don’t Look Back In Anger \(Acoustic\)](https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c) | 3:29 | 2020-02-21 |  |
 | [Easy \- Acoustic](https://open.spotify.com/track/3p2HCeGDR7XmSp2yl7UOI4) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Easy \(Acoustic\)](https://open.spotify.com/album/2sjrCsghv6PcqrHG8gcksc) | 3:03 | 2022-04-22 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2019-10-13 |  |
-| [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 | 2021-09-24 |  |
+| [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 | 2021-09-24 | 2022-06-13 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |

@@ -1,28 +1,28 @@
 {
   "description": "just songs & artists we think you'll love. ",
-  "num_followers": 919031,
+  "num_followers": 919143,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDM4ZjAwMDAwMTgxNGJjNGQ2ZTcwMDAwMDE4MTJhMmJmZTNh",
+  "snapshot_id": "MTY1NTA1MTA5OCwwMDAwMDM5MDAwMDAwMTgxNThiYjk5MDEwMDAwMDE4MTJhMmJmZTNh",
   "tracks": [
     {
-      "added_at": "2022-06-03 04:00:00",
+      "added_at": "2022-06-09 14:58:29",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB"
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
       "artists": [
         {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
+      "duration_ms": 165867,
+      "name": "Jodie",
+      "url": "https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -43,18 +43,50 @@
     {
       "added_at": "2022-06-09 14:58:29",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 165867,
-      "name": "Jodie",
-      "url": "https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET"
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2022-06-09 14:58:29",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -89,22 +121,6 @@
       "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
     },
     {
-      "added_at": "2022-06-09 14:58:29",
-      "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "STILL IN LOVE",
@@ -123,18 +139,18 @@
     {
       "added_at": "2022-06-09 14:58:29",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
+      "duration_ms": 224000,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -211,22 +227,6 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2022-06-09 14:58:29",
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
       "added_at": "2022-06-03 04:00:00",

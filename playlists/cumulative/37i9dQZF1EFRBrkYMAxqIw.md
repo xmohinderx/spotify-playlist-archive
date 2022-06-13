@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-64 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 | 2022-05-25 |  |
 | [A LITTLE LONGER](https://open.spotify.com/track/4pBJPDDnP8OIlxpNOkJrJK) | [raLf.mp3](https://open.spotify.com/artist/0HJPhLLVDLqQsK80UeWyh7) | [2MNY 2B NoTICED](https://open.spotify.com/album/788LcoNQqE019iOEG2HX3P) | 3:19 | 2022-05-25 |  |
 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 | 2022-05-25 |  |
+| [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-06-12 |  |
 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 | 2022-05-25 |  |
 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 | 2022-05-25 |  |
 | [Back To Summer](https://open.spotify.com/track/1ecT8HKw4RnjgGoC63jHXI) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Back To Summer](https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5) | 3:01 | 2022-05-25 |  |

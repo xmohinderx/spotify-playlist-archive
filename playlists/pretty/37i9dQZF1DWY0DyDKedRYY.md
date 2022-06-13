@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Ethel Cain is our new RADAR Artist to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,060 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,050 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 |
 | 50 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 |
 
-Snapshot ID: `MTY1NDk5NTk2MSwwMDAwMDAwMDAzYTFmODczYjZmMmQ3OWFmODFiNzMyMjA1NGIyZTNj`
+Snapshot ID: `MTY1NTA4MjM3NiwwMDAwMDAwMDAzYTFmODczYjZmMmQ3OWFmODFiNzMyMjA1NGIyZTNj`

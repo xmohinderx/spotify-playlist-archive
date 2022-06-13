@@ -1322,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3E7Jc69njH25d5gjuzp9kX"
+      },
+      "artists": [
+        {
+          "name": "8 Graves",
+          "url": "https://open.spotify.com/artist/1YznSk5tLLp9BnzuNgghrZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184734,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2UxRRYXnRMuxZl0Y7sCHcA"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
       },
@@ -3529,7 +3547,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"

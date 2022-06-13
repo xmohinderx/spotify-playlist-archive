@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Bizarrap, Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,020 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,136 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 13 | [Perro Mujeriego](https://open.spotify.com/track/15OhHg83LlzFVzJjzKqI6y) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Perro Mujeriego](https://open.spotify.com/album/6U4odtZ8h1Hdlku9bXNOe0) | 2:54 |
 | 14 | [Discoteca \(Benny Benassi Remix\)](https://open.spotify.com/track/1HnTCmmIiojQIiW0tfvRcP) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Discoteca \(Benny Benassi Remix\)](https://open.spotify.com/album/5PPZwoCuUHoQxlhJzKDmHy) | 4:06 |
 | 15 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 |
-| 16 | [Bonitillo \(feat\. Mark B.\)](https://open.spotify.com/track/693Qg1SyLWqeozXte6PDCW) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Bonitillo \(feat\. Mark B.\)](https://open.spotify.com/album/5OcBxYR8cmUQ2AAGTeM5K6) | 2:36 |
+| 16 | [Bonitillo](https://open.spotify.com/track/693Qg1SyLWqeozXte6PDCW) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Bonitillo](https://open.spotify.com/album/5OcBxYR8cmUQ2AAGTeM5K6) | 2:36 |
 | 17 | [Falda Corta](https://open.spotify.com/track/6G6JNDt2VkYP8nvzAjMNpz) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Falda Corta](https://open.spotify.com/album/3eeKALjpnE9sj3kdgOHf7F) | 3:10 |
 | 18 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
 | 19 | [Te Lo Pido por Favor](https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 2:50 |

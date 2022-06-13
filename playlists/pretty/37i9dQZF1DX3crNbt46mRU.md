@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nico Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,810 likes - 93 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,752 likes - 93 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 31 | [Niemand wie du](https://open.spotify.com/track/5f8UN7dBB031Vw0qktrENr) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Niemand wie du](https://open.spotify.com/album/6Aemt1DIgRjyFHwlfq0cF8) | 2:31 |
 | 32 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 |
 | 33 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 |
-| 34 | [Super Soaker \(feat\. Joshi Mizu\)](https://open.spotify.com/track/31KExRv5Wk7kBGhBJ9Kaxb) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [Super Soaker \(feat\. Joshi Mizu\)](https://open.spotify.com/album/4rewu82WK6OEgB62dVrzdc) | 2:30 |
+| 34 | [Super Soaker \(feat\. BOUNTY & COCOA\)](https://open.spotify.com/track/31KExRv5Wk7kBGhBJ9Kaxb) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb), [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Super Soaker \(feat\. BOUNTY & COCOA\)](https://open.spotify.com/album/4rewu82WK6OEgB62dVrzdc) | 2:30 |
 | 35 | [Rockstar](https://open.spotify.com/track/6BI48d99Y8hv4UfSAtPTI4) | [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Rockstar](https://open.spotify.com/album/481AScBL1Uuh199rfdq0iu) | 2:44 |
 | 36 | [Bless](https://open.spotify.com/track/5gVp376TarK4t9X8waYWpE) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU) | [Bless](https://open.spotify.com/album/1rc62t0FTCMlfpda01Ms3y) | 3:22 |
 | 37 | [Someone to Blame](https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [a letter to me](https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE) | 3:20 |

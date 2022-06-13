@@ -4,7 +4,7 @@
 
 > Crank it up to full volume and enjoy the best rock music \- all day, everyday.
 
-128 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/1pa0sHEQDAKYr86mUmiLj5)
+129 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/1pa0sHEQDAKYr86mUmiLj5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beautiful Way](https://open.spotify.com/track/2xhpnTyhinktiHD3JFdZOC) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Beautiful Way](https://open.spotify.com/album/0NCb40mlxY4bJgGHNIJyFm) | 3:45 | 2021-10-15 |  |
 | [Bed Head](https://open.spotify.com/track/7oeyJeknYRMuD9ufVzyglS) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head](https://open.spotify.com/album/42QbNH8viX1cvVHEFcazRS) | 4:04 | 2021-10-15 |  |
 | [Betterman](https://open.spotify.com/track/1OJX5Rkvu0NfzIywy4Re9U) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:59 | 2021-10-15 | 2022-06-09 |
-| [Beyond Belief](https://open.spotify.com/track/0cybyJF2c9OaJCY4ahBIuD) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Beyond Belief](https://open.spotify.com/album/7dpYUx0kXo9q7clAB1H2OU) | 4:16 | 2021-10-15 |  |
+| [Beyond Belief](https://open.spotify.com/track/0cybyJF2c9OaJCY4ahBIuD) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Beyond Belief](https://open.spotify.com/album/7dpYUx0kXo9q7clAB1H2OU) | 4:16 | 2021-10-15 | 2022-06-13 |
 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 | 2021-10-15 |  |
 | [Black Magic](https://open.spotify.com/track/243b3t0P416vtdmxRllHEV) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [The Amazons \(Deluxe\)](https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo) | 4:31 | 2021-10-15 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
@@ -58,7 +58,8 @@
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-10-15 |  |
 | [Futureproof](https://open.spotify.com/track/68G22FmZ30XgaRh00pKIeV) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Futureproof](https://open.spotify.com/album/3WPv587cMDBKsIDpgrZeEX) | 3:27 | 2021-11-30 |  |
 | [Glass Spiders](https://open.spotify.com/track/4BCfr5vZpZDqHG9oNJo2Qx) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Glass Spiders](https://open.spotify.com/album/7Ik4t3YvfmHrmLA8DTK8Ob) | 3:34 | 2021-10-15 |  |
-| [Go With The Flow](https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:07 | 2021-10-15 | 2022-06-11 |
+| [Go With The Flow](https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:07 | 2021-10-15 |  |
+| [god save me, but don't drown me out](https://open.spotify.com/track/0iVSLUaLzYPi1vDFTkjZhb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:37 | 2021-10-15 |  |
 | [GOOD GRIEF](https://open.spotify.com/track/7j6m9Mc7z7igvOS5sgsUZt) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [Good Grief](https://open.spotify.com/album/35M5vJPCUQNrFiybWiGQXR) | 3:00 | 2021-10-15 |  |
 | [He's So Good](https://open.spotify.com/track/7enfaPLtX5sDkToQch7Qzo) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [He's So Good](https://open.spotify.com/album/2oT1rOIQQ8GDcQLA0Hh7Vl) | 3:46 | 2021-10-15 |  |
 | [Headphones Baby](https://open.spotify.com/track/1lD48THcebkuZPKIgoxADP) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Headphones Baby](https://open.spotify.com/album/43slz2Iv1l6poOSthffyVz) | 3:18 | 2021-10-15 |  |
@@ -77,7 +78,7 @@
 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 | 2021-10-15 | 2022-05-31 |
 | [Last December](https://open.spotify.com/track/0M3WxzvPruZ2i5dvOOGAOC) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Last December](https://open.spotify.com/album/4ApHDufPmgrypVKB6Yzxa5) | 3:09 | 2021-10-15 |  |
 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 | 2021-10-15 | 2022-06-12 |
-| [Lightning Field](https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:23 | 2021-10-15 |  |
+| [Lightning Field](https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:23 | 2021-10-15 | 2022-06-13 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2021-10-15 |  |
 | [Lonely](https://open.spotify.com/track/4w6K8eMuWck8OSJ1fdvU9e) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lonely](https://open.spotify.com/album/3JNyfxEwdH17ld60mPDks7) | 3:06 | 2021-10-15 |  |
 | [Looking Tragic](https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Looking Tragic / Begging For Trouble](https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74) | 2:37 | 2021-10-15 |  |

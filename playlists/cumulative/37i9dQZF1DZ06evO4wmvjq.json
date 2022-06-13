@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 373118,
       "name": "Archangels; I. Queen of Black Waters",
       "url": "https://open.spotify.com/track/3pWajFn8NBkwDYuuQtgbNo"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 696007,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/5G6iNArq3GslJKMnrdp9eH"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 1441491,
       "name": "Keyboard Study 2 - Remastered 2021",
       "url": "https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 352973,
       "name": "Lazy Afternoon Among the Crocodiles",
       "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 344840,
       "name": "Music for the Gift: Part 1",
       "url": "https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -1205,6 +1205,28 @@
       },
       "artists": [
         {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "The Protege",
+      "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
+    },
+    {
+      "album": {
+        "name": "Church of Anthrax",
+        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
+      },
+      "artists": [
+        {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         },
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-13",
       "duration_ms": 1230506,
       "name": "You're Nogood",
       "url": "https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw"
