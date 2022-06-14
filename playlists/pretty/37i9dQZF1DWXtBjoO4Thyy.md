@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Poppy Ackroyd continues The Classical Takeover with her all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,856 likes - 30 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,917 likes - 30 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

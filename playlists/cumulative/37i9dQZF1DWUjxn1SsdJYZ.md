@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: MLBRN
 
-163 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+164 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Beamin](https://open.spotify.com/track/1MIk9aJwcmNA2frRANiERW) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P) | [Beamin](https://open.spotify.com/album/6T3rJt2hAhK5lb1UJM3xFW) | 2:03 | 2022-06-09 |  |
 | [Ben Simmons](https://open.spotify.com/track/7cd9mHLZpfVdJeEPJzyKSD) | [Kavelli](https://open.spotify.com/artist/5R1toqsQtqx4tcNpItZuEU), [Horizon](https://open.spotify.com/artist/1FU9J5piutFKQmLEsy2d4q) | [Ben Simmons](https://open.spotify.com/album/3gryXuLZ9zuYm1FkmQ7hoP) | 2:24 | 2022-03-21 | 2022-05-27 |
 | [BIG BOP](https://open.spotify.com/track/47BDGmZwPcI77hvIq0YquL) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [BIG BOP](https://open.spotify.com/album/7zD5a8hZ03r6cRSN3bVymJ) | 2:16 | 2022-03-21 |  |
-| [Bold Man](https://open.spotify.com/track/71XmiyHa1Ix2OYKlSDFLeu) | [F.T.G](https://open.spotify.com/artist/01E7J3OcxFmYiWYEkWVKul), [Matt O'shae](https://open.spotify.com/artist/1erhhWH52S61nub1NB8SHE), [Bigg Pete](https://open.spotify.com/artist/7p7QzkHJQgOG1kXUAATDhu) | [Bold Man](https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA) | 4:00 | 2022-03-31 |  |
+| [Bold Man](https://open.spotify.com/track/71XmiyHa1Ix2OYKlSDFLeu) | [F.T.G](https://open.spotify.com/artist/01E7J3OcxFmYiWYEkWVKul), [Matt O'shae](https://open.spotify.com/artist/1erhhWH52S61nub1NB8SHE), [Bigg Pete](https://open.spotify.com/artist/7p7QzkHJQgOG1kXUAATDhu) | [Bold Man](https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA) | 4:00 | 2022-03-31 | 2022-06-14 |
 | [Bonnie & Clyde](https://open.spotify.com/track/5nFTc0k6AdZ4gEJvlNq8Dc) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [Bonnie & Clyde](https://open.spotify.com/album/0kqpdDv0IVgOhlBGIcmocb) | 2:21 | 2022-03-21 | 2022-05-13 |
 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Redback](https://open.spotify.com/artist/0cm54lBGuzyjIjJyGiTqY4), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 | 2022-03-31 |  |
 | [Boss'd Up](https://open.spotify.com/track/6uTGIbXT34fcVPG7jXe3gh) | [Masei](https://open.spotify.com/artist/43Au01yCyTw5Q6vtG88vVV) | [Boss'd Up](https://open.spotify.com/album/60nEwfrLekVL0HSO3qohvK) | 3:07 | 2022-04-28 |  |
@@ -130,6 +130,7 @@
 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 | 2022-04-07 |  |
 | [Riding](https://open.spotify.com/track/4ybxvjfoI326eAGZJE13oe) | [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Riding](https://open.spotify.com/album/6iB7lGpfYILPXEWAG1RtzV) | 2:45 | 2022-03-24 |  |
 | [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 | 2022-03-31 |  |
+| [Roll Up](https://open.spotify.com/track/6kAEQBj634Jjk6fHexnQor) | [Jamel](https://open.spotify.com/artist/39N2nBQbJoSC9cRt6jCCaG) | [Roll Up](https://open.spotify.com/album/1qNAoQrShYhTS7iQO9Mlpq) | 3:19 | 2022-06-13 |  |
 | [Rowdy](https://open.spotify.com/track/7JmsAPYCojMYyFL8lGGyuc) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Rowdy](https://open.spotify.com/album/5fyKJGwK7SL5s4LLu35z0x) | 4:05 | 2022-03-21 | 2022-05-13 |
 | [Rude](https://open.spotify.com/track/4tLcwWpyDUkEIY0f5DfFQ7) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [RB](https://open.spotify.com/artist/4glVw8jh5BBgerU9ARDYn4) | [Rude](https://open.spotify.com/album/4J9GlXS82hwkZN7CBEFeVl) | 2:31 | 2022-03-21 | 2022-03-25 |
 | [RUNNIN](https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy) | [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [RUNNIN](https://open.spotify.com/album/244s3bNXlkDgFigRPeoX0m) | 2:53 | 2022-03-21 |  |

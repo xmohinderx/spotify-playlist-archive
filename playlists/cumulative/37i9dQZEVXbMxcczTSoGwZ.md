@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-884 songs - 2 day 1 hr 14 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+885 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-25 |
 | [Ne voi liittyy \(feat\. BIZI\)](https://open.spotify.com/track/4bl6zNDAlr67sl6LJf1CnI) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Ne voi liittyy \(feat\. BIZI\)](https://open.spotify.com/album/3cDaN1b9B1SyG6oumi2RML) | 3:32 | 2021-05-16 | 2021-06-06 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-03 | 2021-09-26 |
+| [Neiti Kesäheinä](https://open.spotify.com/track/1pJbvYH5FiR8FVY8Hpx9XX) | [Intiaanikesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Neiti Kesäheinä](https://open.spotify.com/album/5E1CngsAtiJY1owp82aisc) | 3:37 | 2022-06-13 |  |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-11-04 | 2022-03-13 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-03-09 | 2022-05-15 |
 | [Niin Siin Vaan Kävi](https://open.spotify.com/track/7I61JoM3TyzP8kWpeKK94A) | [SMC Lähiörotat](https://open.spotify.com/artist/2Aqq0gyr7lRZ8vmPlW4MhB), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Niin Siin Vaan Kävi](https://open.spotify.com/album/4ynfM4RYJfMMOzGFxL9skL) | 5:13 | 2022-04-02 | 2022-04-30 |
@@ -556,7 +557,7 @@
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-04 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Olen suomalainen \- L'Italiano](https://open.spotify.com/track/3PRxxRLDBI7Uhj4czaTqf3) | [Kari Tapio](https://open.spotify.com/artist/01qfekYoPTQtu4vq8veHE6) | [Laulaja 1945 \- 2010](https://open.spotify.com/album/3uFhcznsXnCQgeebgr52qz) | 3:57 | 2021-12-08 | 2021-12-09 |
-| [Omaa lomaa \(feat\. Portion Boys\)](https://open.spotify.com/track/31Uejc1IcBfwXy7f5IepM3) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Omaa lomaa \(feat\. Portion Boys\)](https://open.spotify.com/album/0BroFzeuwggRwOYtO4DLGY) | 3:17 | 2022-05-28 |  |
+| [Omaa lomaa \(feat\. Portion Boys\)](https://open.spotify.com/track/31Uejc1IcBfwXy7f5IepM3) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Omaa lomaa \(feat\. Portion Boys\)](https://open.spotify.com/album/0BroFzeuwggRwOYtO4DLGY) | 3:17 | 2022-05-28 | 2022-06-14 |
 | [Omilla jaloilla](https://open.spotify.com/track/6B3sKlcuQgDzm1LEOmr36C) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [Omilla jaloilla](https://open.spotify.com/album/0CwBuCMCxdmgKQrdJEpMZe) | 3:19 | 2022-06-11 | 2022-06-13 |
 | [On The Dark Waters](https://open.spotify.com/track/7Hk4MtVVcVskqCAd1ZfCwf) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Halo](https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A) | 4:47 | 2022-02-12 | 2022-02-15 |
 | [One Night in Tokyo](https://open.spotify.com/track/4ug7b6iy2tYn3OryBRrGkH) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [One Night in Tokyo](https://open.spotify.com/album/0N6GRmCIEbki82Eitec7e0) | 3:07 | 2021-10-03 | 2021-10-04 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-828 songs - 1 day 20 hr 42 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+829 songs - 1 day 20 hr 45 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [La faux le fer](https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:26 | 2022-02-05 | 2022-02-19 |
 | [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2021-04-04 |  |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2021-03-27\* | 2021-04-04 |
-| [La loi du plus fort](https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:43 | 2022-06-11 |  |
+| [La loi du plus fort](https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:43 | 2022-06-11 | 2022-06-14 |
 | [La maison que je voulais](https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:41 | 2021-12-05 | 2022-01-08 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-19 | 2022-05-29 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2021-12-12 |  |
@@ -471,6 +471,7 @@
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-11 | 2022-03-06 |
 | [M3lo](https://open.spotify.com/track/0wlaxCNEyKtftA8MLwfSQm) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [M3lo](https://open.spotify.com/album/6RxOieLN6NJcNObl0uK0cZ) | 2:18 | 2022-04-23 | 2022-04-30 |
 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 | 2022-05-28 | 2022-06-05 |
+| [Ma bébé \(Mi amor\)](https://open.spotify.com/track/58wSjVjdGxi1gi2RFTMObE) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [Ma bébé \(Mi amor\)](https://open.spotify.com/album/780AMjLxjKVN0C1s41u13i) | 2:29 | 2022-06-13 |  |
 | [Ma Casio](https://open.spotify.com/track/3wbXE7fO8DQkKCGjRcV6az) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ma Casio](https://open.spotify.com/album/3Z7AXQHiAlCHBa1HFf9yW9) | 3:25 | 2021-12-02 | 2021-12-05 |
 | [Ma drogue](https://open.spotify.com/track/2AFT8fANFNiYV2ua5hkrS2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:48 | 2022-06-04 | 2022-06-13 |
 | [Ma p'tite étoile](https://open.spotify.com/track/4MQgqO4HollqhSs1Cu9xRR) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Vague à l'âme](https://open.spotify.com/album/4CXUvRIWCqZo7en5oeBaIK) | 3:54 | 2021-10-06 | 2021-11-04 |
@@ -568,7 +569,7 @@
 | [One Shot](https://open.spotify.com/track/6BDSvCRulPkbZoDIawWTq4) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:13 | 2021-10-17 | 2021-10-22 |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2021-08-05 | 2021-08-08 |
 | [Onizuka](https://open.spotify.com/track/4GCIYE1x1TWJCChPkpy9by) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Dans la légende](https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE) | 4:12 | 2022-05-06 | 2022-06-12 |
-| [Ouais Boy](https://open.spotify.com/track/5RMphWDtZtcHHt6AW0ggol) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:39 | 2022-06-11 |  |
+| [Ouais Boy](https://open.spotify.com/track/5RMphWDtZtcHHt6AW0ggol) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:39 | 2022-06-11 | 2022-06-14 |
 | [Ouais Ouais \(feat\. Hamza\)](https://open.spotify.com/track/1pGALYFcP57BOFtaqRDG7a) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:24 | 2021-09-19 | 2021-09-26 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Outro](https://open.spotify.com/track/0rLLENEBErAJjcTFTnQxhq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2022-01-14 |
@@ -735,7 +736,7 @@
 | [Tchyco](https://open.spotify.com/track/415gr71n4klw9goyOZgQGS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:32 | 2021-06-27 | 2021-07-01 |
 | [TDB](https://open.spotify.com/track/27Z3UdqvdAhtJlWBMoDjBD) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [TDB](https://open.spotify.com/album/0kdOCmgb1ZikkxZvVmiED3) | 2:34 | 2021-07-06 | 2021-09-12 |
 | [TDB](https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:34 | 2021-09-12 | 2022-06-05 |
-| [Tee](https://open.spotify.com/track/7lipUxEvDX7gvpVLOoqiau) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Tee](https://open.spotify.com/album/33WzuSWcCF9RWYodM9c9aG) | 3:22 | 2022-06-04 | 2022-06-13 |
+| [Tee](https://open.spotify.com/track/7lipUxEvDX7gvpVLOoqiau) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Tee](https://open.spotify.com/album/33WzuSWcCF9RWYodM9c9aG) | 3:22 | 2022-06-04 |  |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-05 | 2022-03-07 |
 | [Tempête](https://open.spotify.com/track/5qI1ToAUusnSsq1I9NLJqy) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:40 | 2021-12-05 | 2021-12-06 |
 | [Tereza](https://open.spotify.com/track/5jonseK9nWkH0Vl3mLZTvl) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:05 | 2021-06-27 | 2021-07-04 |

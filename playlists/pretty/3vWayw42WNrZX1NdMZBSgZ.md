@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Maluma &amp; Chencho Corleone
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,806 likes - 220 songs - 12 hr 8 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,802 likes - 220 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

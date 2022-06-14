@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,478 likes - 118 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,614 likes - 118 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 117 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 |
 | 118 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
 
-Snapshot ID: `MTY1NDY4ODc4MCwwMDAwMDA1NjAwMDAwMTgxNDMyMzEwZDUwMDAwMDE3MGM0YzllZDU1`
+Snapshot ID: `MTY1NTEzMjEwNiwwMDAwMDA1NzAwMDAwMTgxNWQ4ZmFmNmYwMDAwMDE4MTVkOGY2MWNm`

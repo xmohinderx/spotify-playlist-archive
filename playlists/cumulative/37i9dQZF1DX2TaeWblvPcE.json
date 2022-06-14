@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 332197,
       "name": "Bboom Bboom - Piano Version",
       "url": "https://open.spotify.com/track/3kqu5ntamghnvQLizZ4bVm"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 217680,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/0uQtxnTu1qUJwBIRejTxqx"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 241992,
       "name": "Blood Sweat & Tears",
       "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 318360,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 227904,
       "name": "Can't You See Me?",
       "url": "https://open.spotify.com/track/4VpRot0lXWRwRyOAt5CpNL"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 464504,
       "name": "CANDY POP - Piano Version",
       "url": "https://open.spotify.com/track/1Z3d3LRmpKmcRCYf3MvWQO"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 219794,
       "name": "Cheer Up",
       "url": "https://open.spotify.com/track/16pNLEsd5ntwEiXcK3qOwK"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 176495,
       "name": "Eight",
       "url": "https://open.spotify.com/track/5DdFfttrCKUeOqsooKfQss"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 418375,
       "name": "EYES , NOSE ,LIPS - Piano Version",
       "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
@@ -855,6 +855,24 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249215,
+      "name": "Hatey (Likey Sad Ver.)",
+      "url": "https://open.spotify.com/track/45evQto2Bg84KJLBdEQgyj"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
       "date_removed": "2022-06-13",
       "duration_ms": 265344,
       "name": "Heart Breaker (Heart Shaker Sad Ver.)",
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 187584,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/2uJx9k7vR1q7np8kJ8ZVCw"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 223560,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/7IUUzxDFb7LzcpLoEBp4PC"
@@ -1223,10 +1241,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 194015,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/4X5uFZA1iJ7THSX0Cgi1Yv"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224731,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/1UrDNoOyzmHOD3irT82Bvz"
     },
     {
       "album": {
@@ -1313,7 +1349,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 236495,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/4A63WkIqSbhpZtDY9WeNf0"
@@ -1331,7 +1367,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 311855,
       "name": "Lights",
       "url": "https://open.spotify.com/track/2bLGmRo9SF1CRPLIRymoJy"
@@ -1367,7 +1403,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 230328,
       "name": "Likey",
       "url": "https://open.spotify.com/track/7thIPd8m5M1Dkur164SN8v"
@@ -1457,7 +1493,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 211824,
       "name": "Love Scenario",
       "url": "https://open.spotify.com/track/6Mv7VUKArYqMuepAnUsjLe"
@@ -1475,7 +1511,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 314345,
       "name": "LOVE SCENARIO - Piano Version",
       "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
@@ -1713,7 +1749,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 194184,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/4wDc2HHuGQvzmCV0CKC46S"
@@ -1825,7 +1861,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 299483,
       "name": "PALETTE - Piano Version",
       "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
@@ -1861,7 +1897,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 213264,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/1Ib3YkPqewulQ1sm4MxsI4"
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 228504,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/158FX7wtb9csvgHshvHkR8"
@@ -2229,7 +2265,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 333098,
       "name": "SHORT HAIR/DAN BAL MEO RI - Piano Version",
       "url": "https://open.spotify.com/track/0p9W0tkizI6eaEMXdeMFE1"
@@ -2283,7 +2319,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 368452,
       "name": "SORRY SORRY - Piano Version",
       "url": "https://open.spotify.com/track/6NyG7zyGc6zfPz5Lq7pLVE"
@@ -2337,7 +2373,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 241200,
       "name": "Stay",
       "url": "https://open.spotify.com/track/13iPImxjPpebfDtJXEMON7"
@@ -2355,7 +2391,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 268274,
       "name": "STAY - Piano Version",
       "url": "https://open.spotify.com/track/4X1wN4rp7VznPTH2aFu8qB"
@@ -2373,7 +2409,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 266495,
       "name": "Stay Gold",
       "url": "https://open.spotify.com/track/4WRJzi3ExPiibZCPpqlG6C"
@@ -2499,7 +2535,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 230160,
       "name": "TT",
       "url": "https://open.spotify.com/track/79iiAZS06LhdkwZYDQgYKe"
@@ -2643,7 +2679,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 245952,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/0K0gAibng8wSMjWrgrjVqh"

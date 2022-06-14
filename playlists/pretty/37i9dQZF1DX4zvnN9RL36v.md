@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,627 likes - 73 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,637 likes - 73 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 54 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
 | 55 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
 | 56 | [Till The End of Time](https://open.spotify.com/track/03YtYSkpHqqY3EBmHJkTjP) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Another Miss Oh \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/7MoXcGUrx7gzm95iSLAIHV) | 4:29 |
-| 57 | [Three of Us](https://open.spotify.com/track/5n8eET5G6CBCvGSc8SQLxI) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:45 |
+| 57 | [Three of Us](https://open.spotify.com/track/5n8eET5G6CBCvGSc8SQLxI) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:45 |
 | 58 | [선을 그어 주던가](https://open.spotify.com/track/3DO8WRX72c1Z5hduVL1Nd5) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/3Ucc9SxHC26eAcEUkeV7ks) | 2:40 |
 | 59 | [Hard To Love 나만 안되는 연애](https://open.spotify.com/track/2uaC8QIz0OocPl8bFcNFt0) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo) | 3:39 |
 | 60 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
 | 61 | [Toy](https://open.spotify.com/track/0yD2ihr9ZseEZQXQcz6y61) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/1eTUNDuzCMs5n39C6eWAEA) | 3:26 |
-| 62 | [She Said](https://open.spotify.com/track/2wiZairqLO6i9xPhHHqT5z) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Kwon Jin A](https://open.spotify.com/artist/78CxDSTXIZxyzFsn9GyDit) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:27 |
+| 62 | [She Said](https://open.spotify.com/track/2wiZairqLO6i9xPhHHqT5z) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Kwon Jin A](https://open.spotify.com/artist/78CxDSTXIZxyzFsn9GyDit) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:27 |
 | 63 | [니 얘기 About you](https://open.spotify.com/track/73GHp8ZN40i564AfSV3Nv1) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [탓 Blame \(Feat\. Changmo\)](https://open.spotify.com/album/1Q2teksS6QJgo804KZNw03) | 3:24 |
 | 64 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 65 | [Alone](https://open.spotify.com/track/7ntK0Uv0nawyHqhmuHEtQv) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate,Pt.8\(Original Television Soundtrack\)](https://open.spotify.com/album/0jPbVk0V32lFwjft2sO4FB) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,880 likes - 114 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,367 likes - 114 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 113 | [bad 4 me](https://open.spotify.com/track/1xWgYu1fzEWa377Drhfc8X) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [Hearteyes](https://open.spotify.com/artist/1YCiY4ncBoIUPTpeKTCuzu) | [donatachi.com](https://open.spotify.com/album/6el22aECvoCeHsv4oTDk9B) | 3:02 |
 | 114 | [Okeanos](https://open.spotify.com/track/155TifjB3ls4nJiCab7sM8) | [Anthea](https://open.spotify.com/artist/0Igu5usy7riLV2UQ3iybn5) | [Okeanos](https://open.spotify.com/album/7BUVDCXziQh7zSKAlc0mg4) | 3:57 |
 
-Snapshot ID: `MTY1NDg3MzMyNSwwMDAwMDE2ZTAwMDAwMTgxNGUyMmZmYjAwMDAwMDE4MTI1ZjZmZWM0`
+Snapshot ID: `MTY1NTEzMTc4NCwwMDAwMDE2ZjAwMDAwMTgxNWQ4YWM2ZDQwMDAwMDE4MTI1ZjZmZWM0`

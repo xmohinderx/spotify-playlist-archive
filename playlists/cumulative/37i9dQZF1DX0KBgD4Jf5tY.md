@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Ginevra Nervi
 
-251 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+252 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amore o veleno](https://open.spotify.com/track/4XGpFE3aFdpMx0RxjrWHNm) | [FLAMINIA](https://open.spotify.com/artist/5SHeDn87rQaynVVBCZrMG5) | [Amore o veleno](https://open.spotify.com/album/5rLzwhJHsTBPuCwHuk4zrR) | 2:56 | 2022-01-06 | 2022-02-18 |
 | [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-04-19 | 2022-05-06 |
 | [Anche Se Non Mi Vedi](https://open.spotify.com/track/11tUOgUE2OzSISNhxz3b3U) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [Anche Se Non Mi Vedi](https://open.spotify.com/album/7K7TraHLkwEGW1IqzOxXAH) | 1:00 | 2022-01-06 | 2022-02-18 |
+| [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 | 2022-06-13 |  |
 | [ANIMA](https://open.spotify.com/track/1x14T3fXUhQxF7TKI0Dvgy) | [Commodo](https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo), [Cuzna](https://open.spotify.com/artist/1RIT0T7ORlcbyIIFdAwHU2), [Boisié](https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti) | [DA FIRENZE CON AMORE](https://open.spotify.com/album/2K2tS5FCPcBFPzI4mhxWdp) | 2:37 | 2022-03-24 | 2022-05-06 |
 | [Anima Gemella \(1926\)](https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU), [rrageless](https://open.spotify.com/artist/0pjFf3X1jg3UVCVvreDJ3F) | [3x3+2](https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK) | 2:39 | 2022-04-08 | 2022-05-20 |
 | [Anomalia](https://open.spotify.com/track/5zpncVhGWNvIhNUzaNaj3D) | [s7n](https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ), [loui2](https://open.spotify.com/artist/4lbyABe5GN4GHeUmga1fjZ), [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE) | [Echoes of Innocence](https://open.spotify.com/album/0ykw61BFto2DGHs8c5zRmy) | 2:15 | 2022-01-06 | 2022-02-18 |
@@ -221,7 +222,7 @@
 | [Spero di Star Male](https://open.spotify.com/track/2QRuIq2NGKUCyLAizWcMrj) | [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [Spero di Star Male](https://open.spotify.com/album/16bT7x95aKRXsjyrQ8iFBB) | 3:39 | 2022-02-17 | 2022-03-04 |
 | [Spunta Blu](https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc) | [Il Conte Biagio](https://open.spotify.com/artist/375HNJaEHOTNzJiTY3yrNB) | [Spunta Blu](https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq) | 2:25 | 2022-02-24 | 2022-03-18 |
 | [Stanza](https://open.spotify.com/track/4QVuyHk02vOLADPMWCmqKc) | [EMME](https://open.spotify.com/artist/1O3MByunqVra9RkDSGNANK) | [Stanza](https://open.spotify.com/album/2isYssXNb6aXtIkNbZsCCb) | 3:22 | 2022-01-06 | 2022-02-18 |
-| [stanza](https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 5:25 | 2022-05-05 |  |
+| [stanza](https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 5:25 | 2022-05-05 | 2022-06-14 |
 | [STARS ALIGN](https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STARS ALIGN](https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6) | 2:33 | 2022-03-17 | 2022-03-25 |
 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 | 2022-05-06 |
 | [Sui sedili della metro](https://open.spotify.com/track/0KlAZX612EFzgAfojYvN3L) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Sui sedili della metro](https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors) | 2:55 | 2022-06-02 |  |

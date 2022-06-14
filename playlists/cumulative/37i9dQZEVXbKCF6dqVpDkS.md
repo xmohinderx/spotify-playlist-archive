@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-655 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+656 songs - 1 day 10 hr 16 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2021-12-28 | 2022-03-09 |
 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2021-05-19 | 2022-03-27 |
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2021-03-27\* | 2021-05-23 |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-13 |  |
 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 | 2021-08-01 | 2021-08-02 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-12-04 |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2022-01-01 | 2022-01-04 |
@@ -653,7 +654,7 @@
 | [Zie Ginds Komt De Stoomboot](https://open.spotify.com/track/2wC30lLCl3n4QERyZd0pWW) | [Noord\-Hollands Kinderkoor](https://open.spotify.com/artist/7yOobv5U0tQXYJaow5MN9P) | [Oerhollandse Sinterklaasliedjes](https://open.spotify.com/album/7Is5aN4rrDSKimGlZWzAkv) | 1:29 | 2021-12-07 | 2021-12-08 |
 | [Zie Ginds Komt De Stoomboot \(feat\. Sinterklaasliedjes\)](https://open.spotify.com/track/3TKZ1WIvUj4A6wxhTRM7YF) | [Kinderliedjes](https://open.spotify.com/artist/5NIQNYb3j3WtX4ZKnLNajy), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC) | [Sinterklaasliedjes](https://open.spotify.com/album/7l4uTpA6SDnW0Qq47sNxqF) | 0:57 | 2021-12-07 | 2021-12-08 |
 | [Zij aan zij](https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Zij aan zij](https://open.spotify.com/album/0VVyLi8EL6qVWRh7JsSQTu) | 3:07 | 2021-04-26 | 2021-04-30 |
-| [Zij Wil Mij](https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/463bjptI7QogsQjWLw566S) | 2:36 | 2022-01-08 |  |
+| [Zij Wil Mij](https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/463bjptI7QogsQjWLw566S) | 2:36 | 2022-01-08 | 2022-06-14 |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2022-01-03 | 2022-01-08 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-24 | 2021-07-26 |
 | [Zo Ben Jij](https://open.spotify.com/track/1P4dmXqi9GzQTxEe51INvM) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sterre](https://open.spotify.com/artist/4ZLmieiEnIF2soZHECSOl9) | [Zo Ben Jij](https://open.spotify.com/album/6zzKKI19L6kJxrkua0FzjS) | 2:04 | 2021-10-03 | 2021-10-04 |

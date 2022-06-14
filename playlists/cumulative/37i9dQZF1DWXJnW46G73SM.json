@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u062d\u0645\u062f \u0643\u0627\u0645\u0644",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 258528,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/6rEHVrBJ7tNTd7Acb2x544"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 203052,
       "name": "El Nas El Ghalyeen",
       "url": "https://open.spotify.com/track/7rIJTP8YSOetYFz8vSGaUT"
@@ -1803,6 +1803,24 @@
       "duration_ms": 255295,
       "name": "Maqbalsh Aayesh",
       "url": "https://open.spotify.com/track/02NfyEEdo2gLpGg7VVRdtC"
+    },
+    {
+      "album": {
+        "name": "Maraseel",
+        "url": "https://open.spotify.com/album/4gyLlBFiTxl1lYUtmnQN7T"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Kamel",
+          "url": "https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211674,
+      "name": "Maraseel",
+      "url": "https://open.spotify.com/track/0u9aJyzc9Cxx7NRY8YFLwZ"
     },
     {
       "album": {

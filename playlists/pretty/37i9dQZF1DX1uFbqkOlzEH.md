@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,126 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,156 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 70 | [NO SENSE \(Feat\. Crush\)](https://open.spotify.com/track/39EXwHjKDUVjvBu6Pv5SiH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 3:39 |
 | 71 | [In The Air](https://open.spotify.com/track/5bFC14jb6kByq9TvbMbXUc) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:33 |
 | 72 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
-| 73 | [Life is Beautiful](https://open.spotify.com/track/5ECfpZMZiM2DMJag83DQuo) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:22 |
+| 73 | [Life is Beautiful](https://open.spotify.com/track/5ECfpZMZiM2DMJag83DQuo) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:22 |
 | 74 | [Blue Hawaii \(Prod\. by 0channel\)](https://open.spotify.com/track/1UHBO2hljyZzjaGeGGJrKF) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 4:01 |
 | 75 | [VANESSA](https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:18 |
 | 76 | [woo ah](https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:41 |

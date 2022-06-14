@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 119023,
+  "num_followers": 119101,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTA4MjY4OCwwMDAwMDAwMDMwYzhmMzVlYzY4ODg4MDAwMWVlNWYyN2EzODZlZDkw",
+  "snapshot_id": "MTY1NTE2OTYwMSwwMDAwMDAwMGRmYmQ0NTk0ZmQ4ZWY1MjliNzg2YjBiZjE3YmVmYWE2",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -59,6 +59,22 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/5xXnT1iBWmcFZv9f46FvYq"
+      },
+      "artists": [
+        {
+          "name": "The Only Ones",
+          "url": "https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Another Girl, Another Planet - 2008 re-mastered version",
+      "url": "https://open.spotify.com/track/5TmQl8urbTlfZb8xKisSl0"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
         "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 241040,
       "name": "Lola",
       "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -107,82 +107,18 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Shake Some Action",
-        "url": "https://open.spotify.com/album/2loCCINymjZGU1Q80ik7hP"
+        "name": "Argybargy",
+        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
       },
       "artists": [
         {
-          "name": "Flamin' Groovies",
-          "url": "https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd"
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Shake Some Action",
-      "url": "https://open.spotify.com/track/0Afai8u1STCaDyTTm1gEZf"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/5xXnT1iBWmcFZv9f46FvYq"
-      },
-      "artists": [
-        {
-          "name": "The Only Ones",
-          "url": "https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Another Girl, Another Planet - 2008 re-mastered version",
-      "url": "https://open.spotify.com/track/5TmQl8urbTlfZb8xKisSl0"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "I'm The Man",
-        "url": "https://open.spotify.com/album/4lHIeu4qr5nSmgaZrZEDtB"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "It's Different For Girls",
-      "url": "https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "The Essential Bangles",
-        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "Hazy Shade of Winter",
-      "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
+      "duration_ms": 238133,
+      "name": "Pulling Mussels (From The Shell)",
+      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -203,130 +139,34 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Random Noise",
-        "url": "https://open.spotify.com/album/6ju0T4frATMN2SeZMutywF"
+        "name": "#1 Record/Radio City",
+        "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
       },
       "artists": [
         {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+          "name": "Big Star",
+          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
         }
       ],
-      "duration_ms": 195400,
-      "name": "Alex Chilton",
-      "url": "https://open.spotify.com/track/3RsKDyykKDIZ4PVzsO4nno"
+      "duration_ms": 168066,
+      "name": "September Gurls",
+      "url": "https://open.spotify.com/track/731zWsKI2KvdBPO5MWdjSy"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "My Aim Is True",
-        "url": "https://open.spotify.com/album/3d3I3Ppu529si8Oja9DB3A"
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
       "artists": [
         {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Watching The Detectives",
-      "url": "https://open.spotify.com/track/1r453bo3yToA356T5H0LoP"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Argybargy",
-        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
-      },
-      "artists": [
-        {
-          "name": "Squeeze",
-          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Pulling Mussels (From The Shell)",
-      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Pretenders",
-        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Brass in Pocket - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Chips From The Chocolate Fireball",
-        "url": "https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Stratosphear",
-          "url": "https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Vanishing Girl - 2001 Mix",
-      "url": "https://open.spotify.com/track/2y4B2qgihN59rMsJKKbdP2"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Green (Remastered)",
-        "url": "https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Pop Song 89 - Remastered",
-      "url": "https://open.spotify.com/track/0pxpo14jvnN33Ej7xHV8TK"
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -347,98 +187,18 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+        "name": "High Land, Hard Rain",
+        "url": "https://open.spotify.com/album/3ec3kHDBkBtRFGM7QDmo1t"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Aztec Camera",
+          "url": "https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J"
         }
       ],
-      "duration_ms": 248360,
-      "name": "Jet - Remastered 2010",
-      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Automatic (Expanded Version)",
-        "url": "https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Head On",
-      "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "East Side Story",
-        "url": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy"
-      },
-      "artists": [
-        {
-          "name": "Squeeze",
-          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Tempted",
-      "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Marshall Crenshaw (Deluxe)",
-        "url": "https://open.spotify.com/album/50xdDU6Fw8VC8JRfoMefmB"
-      },
-      "artists": [
-        {
-          "name": "Marshall Crenshaw",
-          "url": "https://open.spotify.com/artist/73YLmyaazO66GncUVHP0KV"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Someday, Someway - Remastered",
-      "url": "https://open.spotify.com/track/01wZPk1D0Ar9AnUtAY01yl"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "#1 Record/Radio City",
-        "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
-      },
-      "artists": [
-        {
-          "name": "Big Star",
-          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "September Gurls",
-      "url": "https://open.spotify.com/track/731zWsKI2KvdBPO5MWdjSy"
+      "duration_ms": 192173,
+      "name": "Oblivious",
+      "url": "https://open.spotify.com/track/1YOoJsPbK0oAmF2wnnkqx2"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -459,18 +219,274 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Oliver's Army",
-      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
+      "duration_ms": 248360,
+      "name": "Jet - Remastered 2010",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Squeezing Out Sparks + Live Sparks",
+        "url": "https://open.spotify.com/album/4ZImzDF35hQWiN5FdAqQbN"
+      },
+      "artists": [
+        {
+          "name": "Graham Parker",
+          "url": "https://open.spotify.com/artist/6c8INA1EQQe9TkukfEdiCA"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Local Girls - Digitally Remastered 1996",
+      "url": "https://open.spotify.com/track/63lZR6NrvsosUAFwXSE63E"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Quiet Please: The New Best Of Nick Lowe",
+        "url": "https://open.spotify.com/album/6yUu2T8MqNSFclBGx6H0Cz"
+      },
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Cruel To Be Kind",
+      "url": "https://open.spotify.com/track/4SZ7iPaYqIqFg0EhThhQTU"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Marshall Crenshaw (Deluxe)",
+        "url": "https://open.spotify.com/album/50xdDU6Fw8VC8JRfoMefmB"
+      },
+      "artists": [
+        {
+          "name": "Marshall Crenshaw",
+          "url": "https://open.spotify.com/artist/73YLmyaazO66GncUVHP0KV"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Someday, Someway - Remastered",
+      "url": "https://open.spotify.com/track/01wZPk1D0Ar9AnUtAY01yl"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Shake Some Action",
+        "url": "https://open.spotify.com/album/2loCCINymjZGU1Q80ik7hP"
+      },
+      "artists": [
+        {
+          "name": "Flamin' Groovies",
+          "url": "https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Shake Some Action",
+      "url": "https://open.spotify.com/track/0Afai8u1STCaDyTTm1gEZf"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "I'm The Man",
+        "url": "https://open.spotify.com/album/4lHIeu4qr5nSmgaZrZEDtB"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "It's Different For Girls",
+      "url": "https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Chips From The Chocolate Fireball",
+        "url": "https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Stratosphear",
+          "url": "https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Vanishing Girl - 2001 Mix",
+      "url": "https://open.spotify.com/track/2y4B2qgihN59rMsJKKbdP2"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Pretenders",
+        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Brass in Pocket - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Seconds Of Pleasure (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0dkVeZHLACjaN92aUHwu02"
+      },
+      "artists": [
+        {
+          "name": "Rockpile",
+          "url": "https://open.spotify.com/artist/4eBRIkqBA2GyYKzLvXD9a4"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Teacher Teacher",
+      "url": "https://open.spotify.com/track/4Vb8fzZfCOI351qz1g0ExT"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Look Sharp!",
+      "url": "https://open.spotify.com/track/1PXshYSkA3gGYOrInU3lRE"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "East Side Story",
+        "url": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -487,38 +503,6 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Bandwagonesque",
-        "url": "https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ"
-      },
-      "artists": [
-        {
-          "name": "Teenage Fanclub",
-          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
-        }
-      ],
-      "duration_ms": 367026,
-      "name": "The Concept",
-      "url": "https://open.spotify.com/track/702Gf3Gh3NsC1KbCFrlrpe"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -543,24 +527,40 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Quiet Please: The New Best Of Nick Lowe",
-        "url": "https://open.spotify.com/album/6yUu2T8MqNSFclBGx6H0Cz"
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
       "artists": [
         {
-          "name": "Nick Lowe",
-          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Cruel To Be Kind",
-      "url": "https://open.spotify.com/track/4SZ7iPaYqIqFg0EhThhQTU"
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "My Aim Is True",
+        "url": "https://open.spotify.com/album/3d3I3Ppu529si8Oja9DB3A"
       },
       "artists": [
         {
@@ -568,73 +568,9 @@
           "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "High Land, Hard Rain",
-        "url": "https://open.spotify.com/album/3ec3kHDBkBtRFGM7QDmo1t"
-      },
-      "artists": [
-        {
-          "name": "Aztec Camera",
-          "url": "https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Oblivious",
-      "url": "https://open.spotify.com/track/1YOoJsPbK0oAmF2wnnkqx2"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Squeezing Out Sparks + Live Sparks",
-        "url": "https://open.spotify.com/album/4ZImzDF35hQWiN5FdAqQbN"
-      },
-      "artists": [
-        {
-          "name": "Graham Parker",
-          "url": "https://open.spotify.com/artist/6c8INA1EQQe9TkukfEdiCA"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Local Girls - Digitally Remastered 1996",
-      "url": "https://open.spotify.com/track/63lZR6NrvsosUAFwXSE63E"
+      "duration_ms": 226040,
+      "name": "Watching The Detectives",
+      "url": "https://open.spotify.com/track/1r453bo3yToA356T5H0LoP"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -655,18 +591,66 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
         }
       ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Random Noise",
+        "url": "https://open.spotify.com/album/6ju0T4frATMN2SeZMutywF"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Alex Chilton",
+      "url": "https://open.spotify.com/track/3RsKDyykKDIZ4PVzsO4nno"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Green (Remastered)",
+        "url": "https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "Pop Song 89 - Remastered",
+      "url": "https://open.spotify.com/track/0pxpo14jvnN33Ej7xHV8TK"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -687,130 +671,146 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Setting Sons (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
+        "name": "March",
+        "url": "https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Michael Penn",
+          "url": "https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Going Underground",
-      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+      "duration_ms": 249160,
+      "name": "No Myth",
+      "url": "https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "#1 Record/Radio City",
-        "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
+        "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
       },
       "artists": [
         {
-          "name": "Big Star",
-          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
+          "name": "Badfinger",
+          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
         }
       ],
-      "duration_ms": 154480,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb"
+      "duration_ms": 191053,
+      "name": "Day After Day - Remastered 2010",
+      "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Driving You Insane",
-        "url": "https://open.spotify.com/album/0ET9XafTL8sU2m9wYwckRE"
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
       "artists": [
         {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
         }
       ],
-      "duration_ms": 184853,
-      "name": "Ever Fallen In Love With Someone (You Shouldn't Have Fallen In Love With)",
-      "url": "https://open.spotify.com/track/7IDkNUudFjemSrQKfYHVfQ"
+      "duration_ms": 181706,
+      "name": "Timeless Melody",
+      "url": "https://open.spotify.com/track/2LD0laiqGwpsN822SodbZp"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Squeezing Out Sparks + Live Sparks",
-        "url": "https://open.spotify.com/album/4ZImzDF35hQWiN5FdAqQbN"
+        "name": "Girlfriend (Legacy Edition)",
+        "url": "https://open.spotify.com/album/0SZjTgnyODlELJWopuCt8w"
       },
       "artists": [
         {
-          "name": "Graham Parker",
-          "url": "https://open.spotify.com/artist/6c8INA1EQQe9TkukfEdiCA"
+          "name": "Matthew Sweet",
+          "url": "https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Discovering Japan - Digitally Remastered 1996",
-      "url": "https://open.spotify.com/track/5u4PfSB7eo3nIuOHOnPQ6f"
+      "duration_ms": 220000,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "After the Snow",
-        "url": "https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ"
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
       "artists": [
         {
-          "name": "Modern English",
-          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 251573,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ"
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Spilt Milk",
+        "url": "https://open.spotify.com/album/2xWIi4fDWJZT2Mw3ydTIO7"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Jellyfish",
+          "url": "https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL"
         }
       ],
-      "duration_ms": 208466,
-      "name": "One Way Or Another",
-      "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
+      "duration_ms": 242826,
+      "name": "New Mistake",
+      "url": "https://open.spotify.com/track/7a7y3aPXd5STF9BvCG6slI"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Weezer (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/33CmI2lR8PnQwz6133Mc7l"
+        "name": "Bandwagonesque",
+        "url": "https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Teenage Fanclub",
+          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
         }
       ],
-      "duration_ms": 159586,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/7GptbanebPZYkLPvjNfd6m"
+      "duration_ms": 367026,
+      "name": "The Concept",
+      "url": "https://open.spotify.com/track/702Gf3Gh3NsC1KbCFrlrpe"
     },
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "What I Like About You (And Other Romantic Hits)",
+        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Can't Stand Losing You",
-      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+      "duration_ms": 175400,
+      "name": "What I Like About You",
+      "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Third Eye",
+        "url": "https://open.spotify.com/album/6ASYFb1w2jqiJtxeSwJG65"
+      },
+      "artists": [
+        {
+          "name": "Redd Kross",
+          "url": "https://open.spotify.com/artist/1USc9u5yL4tUaQKhGWNuvj"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Annie's Gone - Remastered Version",
+      "url": "https://open.spotify.com/track/0MAM2oW5WSw0bFXtpr7efI"
     }
   ],
   "unique_name": "Power Pop",

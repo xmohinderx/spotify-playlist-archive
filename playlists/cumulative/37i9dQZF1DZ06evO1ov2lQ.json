@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 259706,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 424089,
       "name": "Gravity Assist",
       "url": "https://open.spotify.com/track/464ZqN4UqyJTbibnQfsBeG"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 513650,
       "name": "Infinium",
       "url": "https://open.spotify.com/track/21UIeael82ah6ep6ED7Nd7"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "Proem",
+      "url": "https://open.spotify.com/track/6NyKhutbpB1QVNF56cJ1Wh"
+    },
+    {
+      "album": {
         "name": "N-Plants",
         "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
       },
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 474186,
       "name": "Shika-1",
       "url": "https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 308160,
       "name": "The Petrified Forest",
       "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 534430,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5dmviv6oMhKDHSUiI2AX0a"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
@@ -1353,6 +1371,24 @@
       "duration_ms": 297120,
       "name": "Warp/Warpable",
       "url": "https://open.spotify.com/track/6qImwuFi8EzQFm4I7FLcH5"
+    },
+    {
+      "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/2lL1nUryXdhuT1A4E0Uwtb"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328585,
+      "name": "Whole Forests Of Them Appearing",
+      "url": "https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ"

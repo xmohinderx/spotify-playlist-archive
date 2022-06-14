@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 211017,
       "name": "Esta Tristeza Mia",
       "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 144680,
       "name": "Mi Motivo",
       "url": "https://open.spotify.com/track/2WNGl9oCqUNyQb791qIJgy"
@@ -733,6 +733,24 @@
       "duration_ms": 194429,
       "name": "No Volvere",
       "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
+    },
+    {
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178494,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/4wq5fJyiELwSnRnufoLrIz"
     },
     {
       "album": {

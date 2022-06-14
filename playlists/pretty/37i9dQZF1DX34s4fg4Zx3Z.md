@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: kidsai; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,164 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,228 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Before I Go](https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED) | [No Plan](https://open.spotify.com/artist/6D9IldP8aT38RwBsX2jvkg) | [Before I Go](https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR) | 3:33 |
 | 100 | [My Life My Style](https://open.spotify.com/track/5gSk8DFl0cCRn3J3CGknXy) | [IIMV](https://open.spotify.com/artist/1DUxbWXOGypH1hre0rNtLa) | [My Life My Style](https://open.spotify.com/album/1HZQr1QTc7Ql2d0MX9xx9O) | 2:49 |
 
-Snapshot ID: `MTY1NTAyNTgyOCwwMDAwMDMwMTAwMDAwMTgxNTczYTAwZjMwMDAwMDE4MTI4NDJjNGU0`
+Snapshot ID: `MTY1NTE2ODI4OSwwMDAwMDMwMzAwMDAwMTgxNWZiN2M5ZjMwMDAwMDE4MTVmYjZlOWRl`

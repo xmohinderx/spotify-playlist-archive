@@ -4,13 +4,13 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Yunk Vino, Vulgo FK, Kyan
 
-91 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
+92 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Cordões](https://open.spotify.com/track/5LCqgzxRZc73VXObHCddwe) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [2 Cordões](https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW) | 3:19 | 2022-06-10 |  |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-03-18 |  |
-| [A Braba](https://open.spotify.com/track/3iIFYPAQSx4NuSwJ7xFbeu) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [A Braba](https://open.spotify.com/album/3RIAKTzSmDdX1qkbl9BVNN) | 2:49 | 2022-03-18 |  |
+| [A Braba](https://open.spotify.com/track/3iIFYPAQSx4NuSwJ7xFbeu) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [A Braba](https://open.spotify.com/album/3RIAKTzSmDdX1qkbl9BVNN) | 2:49 | 2022-03-18 | 2022-06-14 |
 | [Abusadão](https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Abusadão](https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6) | 2:56 | 2022-03-18 |  |
 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 | 2022-03-18 |  |
 | [Anota Placa](https://open.spotify.com/track/3QUriWUE8WnWLpWxHA52k4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [DJ PurpleRain.REC](https://open.spotify.com/artist/2Do8w43Dk5YRoTcgStCltQ) | [Anota Placa](https://open.spotify.com/album/6gULuwQi7WcmsvWTgspz17) | 3:55 | 2022-03-18 | 2022-04-02 |
@@ -97,6 +97,7 @@
 | [Versace](https://open.spotify.com/track/5rryOlcxbh700EuOa59waG) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lobo](https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj) | 3:27 | 2022-03-18 |  |
 | [Vestido da Fendi](https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vestido da Fendi](https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y) | 2:44 | 2022-03-18 |  |
 | [VISÃO DA GRANA](https://open.spotify.com/track/4aA9kIJBGeu1SuBtGLA3vW) | [Pack Music](https://open.spotify.com/artist/65m9BcegfjKhWK84AP8RqZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [K2R](https://open.spotify.com/artist/0MJk6Hhne3m9Dd35WuHBxi) | [VISÃO DA GRANA](https://open.spotify.com/album/1N3Jq2n1vRKkQbI8nsi4yA) | 3:47 | 2022-05-06 |  |
+| [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 | 2022-06-13 |  |
 | [Ópera](https://open.spotify.com/track/0EZElfTGRs71pvssBOtYpd) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ópera](https://open.spotify.com/album/6e0uBH47OSftxZsLXk3Zb7) | 2:46 | 2022-04-08 | 2022-04-13 |
 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-13 | 2022-06-04 |
 

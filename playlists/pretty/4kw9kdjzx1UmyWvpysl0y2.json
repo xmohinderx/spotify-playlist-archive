@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128425,
+  "num_followers": 128433,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ2MSxhMjI1MmQ3ODEwZGYyNjc0Y2ZiOGM1ZjE2ZTFhZTEyOTEzYmY3MGQ3",
+  "snapshot_id": "MzQ2MixkYWMzYTJmZTNiY2RiMTkyZjQ1NDc3ZDVkZTM0NDQzZjJlNWRmN2M4",
   "tracks": [
+    {
+      "added_at": "2022-06-13 15:23:44",
+      "album": {
+        "name": "Subliminal (Even the Ghosts are Laughing)",
+        "url": "https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        },
+        {
+          "name": "AFTERMYFALL",
+          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
+        }
+      ],
+      "duration_ms": 318428,
+      "name": "Subliminal (Even the Ghosts are Laughing)",
+      "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
+    },
     {
       "added_at": "2022-06-10 16:21:06",
       "album": {

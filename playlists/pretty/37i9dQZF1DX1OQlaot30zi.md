@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Jake La Furia, Rhove, thasup e Salmo, Sfera e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,698 likes - 78 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,760 likes - 78 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

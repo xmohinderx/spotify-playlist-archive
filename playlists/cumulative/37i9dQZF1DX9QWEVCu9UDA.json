@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "1010 Saratoga Ave",
       "url": "https://open.spotify.com/track/4XJT2D8TLC1Eqx7rTUZEdc"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 156164,
       "name": "BOOSMOBIL",
       "url": "https://open.spotify.com/track/0HS5ztOkdJmUMHvJ3SudYL"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 206549,
       "name": "Children",
       "url": "https://open.spotify.com/track/0r5PcrvphHGO1LijkU4K4u"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 121904,
       "name": "Fetti",
       "url": "https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 137330,
       "name": "Fever",
       "url": "https://open.spotify.com/track/5fzu8tMA04ZuKCMMfcEuhf"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 203714,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1D4KfeQhueV9UlLwSX5ifm"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 153335,
       "name": "Fvck Dat",
       "url": "https://open.spotify.com/track/1NkdoERbj6QzO7XUr4RMPk"
@@ -1320,6 +1320,28 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0R5YYoxJjETddic34PvPIh"
+      },
+      "artists": [
+        {
+          "name": "K. Roosevelt",
+          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
+        },
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/70Jb3Cr2AA0llCrRBYXrId"
+    },
+    {
+      "album": {
         "name": "Horror Show",
         "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
@@ -1371,7 +1393,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 127400,
       "name": "GLIMPSE",
       "url": "https://open.spotify.com/track/6G7ZccpTWOv3vykTT5QuJc"
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 172800,
       "name": "HEY U (feat. seeyousoon)",
       "url": "https://open.spotify.com/track/4N30wVHoXk7IeL1JOWr38y"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/63e35wfL6GMUp0boIvNBhw"
@@ -1653,7 +1675,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 168311,
       "name": "KEEP ME ON",
       "url": "https://open.spotify.com/track/2tfFCQLa6UvsYURo4TdrOo"
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 148494,
       "name": "longwayhome",
       "url": "https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 186000,
       "name": "Lullabies",
       "url": "https://open.spotify.com/track/7fvAIIqAH1TzC5ohdv0w2m"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 197357,
       "name": "Made Me Everything",
       "url": "https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 148498,
       "name": "Middle School",
       "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 254144,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/7eXqO8kYOQZTvl0TlVD7fJ"
@@ -2167,7 +2189,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 156143,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/51Z0ANmJ0SYyNSLhUUC6PU"
@@ -2359,7 +2381,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 126857,
       "name": "Pay Yuh Debt",
       "url": "https://open.spotify.com/track/0biLtDDdVduvQjLSbvzGUk"
@@ -2417,7 +2439,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 116749,
       "name": "Places",
       "url": "https://open.spotify.com/track/43nnMCrR4KRGHgvKbEkIPx"
@@ -2613,7 +2635,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 177616,
       "name": "ROCKY",
       "url": "https://open.spotify.com/track/4JILKVT5WHJ5b66QO41rcV"
@@ -2675,7 +2697,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 147341,
       "name": "Salute",
       "url": "https://open.spotify.com/track/7uQwKvOdo8YkG70wv6p8st"
@@ -2693,7 +2715,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 153134,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/0OjHk6D6eZEEumdOr8HSp3"
@@ -2715,7 +2737,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 168000,
       "name": "Shade of",
       "url": "https://open.spotify.com/track/4naqpH43qsh70sJRs4l7fd"
@@ -2751,7 +2773,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 181522,
       "name": "Show Stop",
       "url": "https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP"
@@ -2985,7 +3007,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 220600,
       "name": "Thank Me Later",
       "url": "https://open.spotify.com/track/28TOqrJ0tUztEu5iwl6cCH"
@@ -3341,7 +3363,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 224580,
       "name": "We Outside!",
       "url": "https://open.spotify.com/track/7Lqk3yFLKafglbxYtizuK8"
@@ -3359,7 +3381,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 86582,
       "name": "Weird",
       "url": "https://open.spotify.com/track/7fPL4TiTLgjUZU0UKFR21Q"
@@ -3479,7 +3501,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "Wristbands",
       "url": "https://open.spotify.com/track/0nCX0RRS63xo9jWbG3ShwC"

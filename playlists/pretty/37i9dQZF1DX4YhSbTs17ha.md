@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Escucha las canciones de pop más exitosas en México\. Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,357 likes - 92 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,573 likes - 92 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

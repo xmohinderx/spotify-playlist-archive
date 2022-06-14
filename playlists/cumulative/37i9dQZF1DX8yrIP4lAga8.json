@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "2AM (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 212950,
       "name": "Be with U",
       "url": "https://open.spotify.com/track/0x8F1joRXmVV0SC6FgYJnr"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 157008,
       "name": "Blame",
       "url": "https://open.spotify.com/track/4PHVoU01DAPWqGC9Cr0M4H"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 185806,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4fzxNsK0wKUkLr6V0uYoEq"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 147321,
       "name": "Coffee & A Coke (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/2bxcXhgCo0PYgZ7ukoGLb5"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 146190,
       "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
       "url": "https://open.spotify.com/track/6DUWBZ6K8A0pmn0h719BI3"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 161048,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 167748,
       "name": "Every Single Time",
       "url": "https://open.spotify.com/track/4sG8YjTZls5UCDH8OgRBt9"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 212877,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 160530,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/5ESwtS1CI7JSGrEM5u8zdW"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 176854,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2m6dVdEbPD5d499FnsrnTG"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 217046,
       "name": "I Feel It - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/5rXnLer20fKRTYOOF092Gb"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 182054,
       "name": "I Need Someone (feat. Nathan Ball & Caleb Femi) - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/72GCwHMBUsw7cVOG6fGW4z"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 180487,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/3vBcSrmipiMkWaDvkhh2HJ"
@@ -1318,6 +1318,28 @@
     },
     {
       "album": {
+        "name": "Let Me Work On You",
+        "url": "https://open.spotify.com/album/3tYOv5wfGRP9MWvmxoRNie"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Norman Doray",
+          "url": "https://open.spotify.com/artist/1UmLUPNgy8HS6oI05zdGjD"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Let Me Work On You",
+      "url": "https://open.spotify.com/track/64u8Q5yr6hrztc9PUovbWo"
+    },
+    {
+      "album": {
         "name": "Nervous Records 30 Years",
         "url": "https://open.spotify.com/album/5zU0v0RiNqfbqyVUBKz0KH"
       },
@@ -1373,7 +1395,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 176551,
       "name": "Love You Again (feat. Akua)",
       "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
@@ -1611,7 +1633,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/2MeuHyZvctH7HuZJmpvuSu"
@@ -1699,7 +1721,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0"
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 205292,
       "name": "My Time",
       "url": "https://open.spotify.com/track/20AxPRguXfSIunBkDoY8Dc"
@@ -1937,7 +1959,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 143242,
       "name": "On Top Of Mine (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/4YwOxXdhqzvgglya1LBExq"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 168292,
       "name": "Rhythm Of The Night (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/2ueblaOZyxEOH4N0s30zDB"
@@ -2157,7 +2179,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 208647,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/08sfbGBXxJM7MIquO1lmAq"
@@ -2201,7 +2223,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 218152,
       "name": "Set You Free - Secondcity Terrace 91 Remix",
       "url": "https://open.spotify.com/track/105u0Fvp88RztRoMU6ljrH"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 219715,
       "name": "Simple Hit",
       "url": "https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex"
@@ -2431,7 +2453,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 183662,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7cktBtFnyH6ItWJ3ISNTrW"
@@ -2449,7 +2471,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 149280,
       "name": "Summer 91",
       "url": "https://open.spotify.com/track/10nZJEqCavUmrAw03MH2Tc"
@@ -2551,7 +2573,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 176190,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/0ZPowohOc41cvQQ29ibOSU"
@@ -2731,7 +2753,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 146569,
       "name": "Wanna Show You",
       "url": "https://open.spotify.com/track/31Lors0F9PKAW3t61X5Dio"
@@ -3009,7 +3031,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 152419,
       "name": "You Were There (feat. Hayley May)",
       "url": "https://open.spotify.com/track/0MO2fTiSkv0ndvwVoXznU6"
@@ -3027,7 +3049,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 176097,
       "name": "You're Sunshine",
       "url": "https://open.spotify.com/track/4gdjZS54vHNBk467zeAqkq"

@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "After The Tone",
+        "url": "https://open.spotify.com/album/7HwIUiOremortAibAsFUPM"
+      },
+      "artists": [
+        {
+          "name": "Justin Adijanto",
+          "url": "https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl"
+        },
+        {
+          "name": "SAWA",
+          "url": "https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275229,
+      "name": "After The Tone",
+      "url": "https://open.spotify.com/track/3XwSVHvobJ4Z4SfvF9fTNz"
+    },
+    {
+      "album": {
         "name": "ain't leavin' without you",
         "url": "https://open.spotify.com/album/6UshO89K1Or0hwvl7r05MO"
       },
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 198610,
       "name": "All That",
       "url": "https://open.spotify.com/track/4gtOXb4PIqd2ojM8JLSmKX"
@@ -327,7 +349,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 208848,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5nCQkqU2liez8HEf3uTHZQ"
@@ -567,7 +589,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 136058,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
@@ -603,7 +625,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 197522,
       "name": "I Should've Told You",
       "url": "https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2"
@@ -1089,7 +1111,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/37Gq279gcbTuEndcpQhr24"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 170014,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/2stihimvRIhZHr5m7McSku"
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 204049,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7n99sQC9Y4OyCGMjXPRe0r"

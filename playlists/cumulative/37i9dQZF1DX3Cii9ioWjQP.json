@@ -436,6 +436,24 @@
     },
     {
       "album": {
+        "name": "First time ... ing",
+        "url": "https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax"
+      },
+      "artists": [
+        {
+          "name": "Love recipe",
+          "url": "https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230610,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Soft and moody jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,408 likes - 124 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,588 likes - 124 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 123 | [Crazy She Calls Me](https://open.spotify.com/track/6Iy5h7PVP0a5tKbNPBosq6) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool + Tranquillity](https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ) | 7:26 |
 | 124 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 |
 
-Snapshot ID: `MTY1NDY4MTUyMCwwMDAwMDA3NTAwMDAwMTgxNDJiNDRhOTkwMDAwMDE3OWY2MGRjYjE4`
+Snapshot ID: `MTY1NTEzMDM2NiwwMDAwMDA3NjAwMDAwMTgxNWQ3NTIyZDMwMDAwMDE4MTVkNzRmNDUx`

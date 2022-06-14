@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: niina
 
-299 songs - 22 hr 32 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+300 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-02-04 | 2022-05-28 |
 | [MAGO](https://open.spotify.com/track/4a5neFyYOmgSBf45g8IN77) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [HENSA](https://open.spotify.com/album/0JLfxcUisEG6hdkKfCO7zC) | 5:24 | 2022-05-25 |  |
 | [Make It](https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ), [Soundboy Cookie](https://open.spotify.com/artist/7AoaVHsHCDToJEzx9t6YlX) | [Make It](https://open.spotify.com/album/5DwqXlTbsC2ld3bUrx59y2) | 4:56 | 2021-11-24\* | 2022-03-26 |
+| [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 | 2022-06-13 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 |  |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-04 | 2022-05-06 |
 | [Mandé](https://open.spotify.com/track/3ydhof4E7ANkc33BdTIkLZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Dopa La Vita / Mandé](https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu) | 6:03 | 2022-01-14 | 2022-05-20 |

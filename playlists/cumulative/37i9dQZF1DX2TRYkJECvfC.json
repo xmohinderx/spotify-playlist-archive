@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 286271,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 266300,
       "name": "Dilla 4 Life",
       "url": "https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 363680,
       "name": "Fade - Fatima & Jerome Interpretation",
       "url": "https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 254015,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/30sWK9of3ll8689n12qV0b"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 351428,
       "name": "Fig Spread",
       "url": "https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 331465,
       "name": "Hazy House Vol. 2",
       "url": "https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 147457,
       "name": "Letzter",
       "url": "https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 333442,
       "name": "Magnetic Generation",
       "url": "https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM"
@@ -2369,7 +2369,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 420495,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 466451,
       "name": "Mas",
       "url": "https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW"
@@ -3211,7 +3211,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 372480,
       "name": "Ravenergy",
       "url": "https://open.spotify.com/track/1ONkONkuulUSfiUcBdFrlc"
@@ -3255,6 +3255,24 @@
       "duration_ms": 360494,
       "name": "Reflections - il:lo Remix",
       "url": "https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox"
+    },
+    {
+      "album": {
+        "name": "8-track",
+        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325573,
+      "name": "Remains of the Day",
+      "url": "https://open.spotify.com/track/1bih91Y06qt9xHgEDK9Euj"
     },
     {
       "album": {
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 479000,
       "name": "Robots With Soul Part 1 - Original Mix",
       "url": "https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6"
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 500000,
       "name": "Robots With Soul Part 3 - Original Mix",
       "url": "https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 344537,
       "name": "Shine - Original Mix",
       "url": "https://open.spotify.com/track/3VJaqeaWFRZYoGeDKJbkqu"
@@ -4319,7 +4337,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 512696,
       "name": "The Rapture Pt.II",
       "url": "https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms"
@@ -4355,7 +4373,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 328678,
       "name": "The Sound of Neptune",
       "url": "https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr"
@@ -4503,7 +4521,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 408027,
       "name": "Transit of Venus",
       "url": "https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac"
@@ -4615,7 +4633,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 418500,
       "name": "Viking",
       "url": "https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp"
@@ -4637,7 +4655,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 430374,
       "name": "Vince Montana Tribute - LV & Rick Wilhite ReWork",
       "url": "https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF"
@@ -4841,7 +4859,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 225000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw"
@@ -4949,7 +4967,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 178928,
       "name": "Why So Blue? - Radio Edit",
       "url": "https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq"
@@ -4993,7 +5011,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 471473,
       "name": "Yini - Serge Devant Remix",
       "url": "https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp"
@@ -5087,7 +5105,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 466608,
       "name": "Zikaron",
       "url": "https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d"

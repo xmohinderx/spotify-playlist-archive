@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema
 
-149 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+150 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-12 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-04-14 | 2022-05-20 |
 | [La clé](https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La clé](https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA) | 2:55 | 2021-12-27 | 2022-05-20 |
+| [La fête](https://open.spotify.com/track/0tActYLdtWXpnfceH1UAD3) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Megaski](https://open.spotify.com/artist/4YWaklpWrE7GOkmXuMKI6i), [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT) | [Black House](https://open.spotify.com/album/1XtqI8rLPm3g0Os6VPcrlY) | 3:20 | 2022-06-13 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-12-27 | 2022-02-04 |

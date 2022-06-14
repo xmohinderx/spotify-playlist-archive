@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Ants From Up There (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 804133,
+      "name": "Basketball Shoes - Live from the Queen Elizabeth Hall",
+      "url": "https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu"
+    },
+    {
+      "album": {
         "name": "Behind The Sun",
         "url": "https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob"
       },
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 553213,
       "name": "Snow Globes",
       "url": "https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy"

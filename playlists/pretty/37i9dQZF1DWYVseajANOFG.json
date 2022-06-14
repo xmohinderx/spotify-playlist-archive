@@ -1,101 +1,13 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BCA, Jorkan",
-  "num_followers": 57722,
+  "num_followers": 57777,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIyODg2MCwwMDAwMDAzYjAwMDAwMTgxMjdiOTNjZDIwMDAwMDE4MTAxZjA2YjZi",
+  "snapshot_id": "MTY1NTEzMzkzOCwwMDAwMDAzYzAwMDAwMTgxNWRhYmExZjgwMDAwMDE4MTAxZjA2YjZi",
   "tracks": [
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Lambo",
-        "url": "https://open.spotify.com/album/0xUjYM3Z2efK5Z5PPoIGZF"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        }
-      ],
-      "duration_ms": 182219,
-      "name": "Lambo",
-      "url": "https://open.spotify.com/track/0Oh26zAfZKlOYCRVYaH8WD"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Bucle",
-        "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 213078,
-      "name": "San Andr\u00e9s",
-      "url": "https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Noche de Teteo",
-        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Noche de Teteo",
-      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1cdOlSvJDZJdVvXyiSWb8H"
-      },
-      "artists": [
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs"
-    },
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
@@ -131,6 +43,38 @@
       "duration_ms": 200306,
       "name": "Nos Miran (feat. Eiby, Verzatyl & Italian Somali)",
       "url": "https://open.spotify.com/track/3hF4uVG0Ne4sqYd3gmreQq"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Noche de Teteo",
+        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Noche de Teteo",
+      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Bucle",
+        "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 213078,
+      "name": "San Andr\u00e9s",
+      "url": "https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -187,6 +131,26 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
+        "name": "Jamaica",
+        "url": "https://open.spotify.com/album/5R64qUMmWl4LeKOAq6tDbg"
+      },
+      "artists": [
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Jamaica",
+      "url": "https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
         "name": "Ninus: Nothing Is New Under Sun",
         "url": "https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5"
       },
@@ -211,22 +175,38 @@
     {
       "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Jamaica",
-        "url": "https://open.spotify.com/album/5R64qUMmWl4LeKOAq6tDbg"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1cdOlSvJDZJdVvXyiSWb8H"
       },
       "artists": [
         {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         },
         {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Jamaica",
-      "url": "https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7"
+      "duration_ms": 243680,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -347,6 +327,26 @@
       "duration_ms": 271394,
       "name": "Fans",
       "url": "https://open.spotify.com/track/48TUgKEWfLrFzgNlFY7r7P"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Lambo",
+        "url": "https://open.spotify.com/album/0xUjYM3Z2efK5Z5PPoIGZF"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/0Oh26zAfZKlOYCRVYaH8WD"
     },
     {
       "added_at": "2022-06-03 04:01:00",

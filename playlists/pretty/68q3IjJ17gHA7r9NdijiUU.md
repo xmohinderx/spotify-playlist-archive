@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 ### [Road Trip Sing\-Along Songs](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
 
-> This pop playlist will make your 10 hour drive feel like 5\. Road Trip with OneRepublic, Imagine Dragons, Smash Mouth and more!
+> Songs to sing along to on your next roadtrip, featuring classics and new favorites alike\. Roll down your windows, your new favorite roadtrip playlist is here.
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 322,400 likes - 53 songs - 3 hr 17 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 322,384 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 52 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
 | 53 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/76DaYoN2BXdu1dZFdw61qj) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Motown 1970s Vol\. 1](https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et) | 3:38 |
 
-Snapshot ID: `MTU1MCxkOTU2ZDE0ZWVhZDMyZTg5NjEzODM0NzY4MjE4ODc4NDg3NWY0MGVh`
+Snapshot ID: `MTU1NSxiYjFjM2U2NDRmODQyOWQ0NDE5ZDkwMWVjYzZlYTkyMWViZmI3ZDNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Satria The Monster\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,609 likes - 62 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,608 likes - 62 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

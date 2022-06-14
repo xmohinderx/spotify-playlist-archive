@@ -1,79 +1,31 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 4305,
+  "num_followers": 4348,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTA4Mjg3OCwwMDAwMDAwMDg3OWFhMDhhZjhhMGE2YTAwNTJmZTljYWM3MTI1ZTAy",
+  "snapshot_id": "MTY1NTE2OTgzNiwwMDAwMDAwMDBlZGVhMTIyNmM5OTFmNWM0MjZlYjIyMzRlMTcyMmQ1",
   "tracks": [
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+      "duration_ms": 260607,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "\ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/154jyE6Wg5PPbqYhpvFVTw"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256104,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
@@ -101,55 +53,7 @@
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "BROWN EYED SOUL 4th Regular Album \u2018SOUL COOKE\u2019",
-        "url": "https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 283640,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 260607,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/6pDvQuoG0AhHTdy7yWyvMG"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
@@ -165,299 +69,23 @@
       "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Travel to You",
-        "url": "https://open.spotify.com/album/2oQ2e7MKbpAYLhPukVO0Qq"
+        "name": "LOVE PLAYLIST 4 Part.1",
+        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Travel to You",
-      "url": "https://open.spotify.com/track/0dOlBqrhkY7mrfpctthrt3"
+      "duration_ms": 215120,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 2 Original Television Soundtrack",
-        "url": "https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI"
-      },
-      "artists": [
-        {
-          "name": "Henry",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 231642,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Start Dating (Original Drama Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/1gfWVvUygdDQt9IbL9MrRl"
-      },
-      "artists": [
-        {
-          "name": "OH HAYOUNG",
-          "url": "https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "Couple",
-      "url": "https://open.spotify.com/track/2dBCLpxf1QKzFUsZqtC3E1"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Like a dream",
-      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "I Always Love You",
-        "url": "https://open.spotify.com/album/3w9XoUYhJaQSxMt9Wf0KPh"
-      },
-      "artists": [
-        {
-          "name": "Gu seul i",
-          "url": "https://open.spotify.com/artist/58wCBXOmVPsbvDjpjYjl47"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "I Always Love You",
-      "url": "https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "If I hug you",
-      "url": "https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "What about you \uae30\uc801",
-        "url": "https://open.spotify.com/album/1AnF7AYM6J4rYIrd3OU6GU"
-      },
-      "artists": [
-        {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "What about you \uae30\uc801",
-      "url": "https://open.spotify.com/track/0hrdSd1bwRoNEe6KP5Q2g5"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/0jnUqXkSxqe8hLkPVfzIjz"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3F7ONltjlWoXuvpzK01YSK"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Trust in Me (Piano by Cho Youngsoo)",
-        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Trust in Me (Piano by Cho Youngsoo)",
-      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 227583,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Ten Reasons I Love You(2021)",
-        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Ten Reasons I Love You(2021)",
-      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
-      },
-      "artists": [
-        {
-          "name": "Unchan",
-          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "ONF:MY NAME",
-        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Thermometer - ON Team Version",
-      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 221081,
-      "name": "best song",
-      "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
@@ -473,62 +101,90 @@
       "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
       "artists": [
         {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 220186,
-      "name": "You Move Me (feat. SUNG SI KYUNG)",
-      "url": "https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R"
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Speechless",
-        "url": "https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m"
+      "duration_ms": 197813,
+      "name": "Like a dream",
+      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "INTERVIEW",
+        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "BROWN EYED SOUL 4th Regular Album \u2018SOUL COOKE\u2019",
+        "url": "https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo"
       },
       "artists": [
         {
@@ -536,12 +192,12 @@
           "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 293680,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
+      "duration_ms": 283640,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
@@ -557,7 +213,7 @@
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
@@ -573,59 +229,119 @@
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "To you, dear",
-        "url": "https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ"
+        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 2 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/6R2B8rmhp25wFHIGZPmYYI"
       },
       "artists": [
         {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         }
       ],
-      "duration_ms": 205733,
-      "name": "To you, dear",
-      "url": "https://open.spotify.com/track/4T64VKmcDdr6a6idK97103"
+      "duration_ms": 231642,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3hm4axDodp2jFEDohQfXxV"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "I only see you in my eyes (Feat. Dearming)",
-        "url": "https://open.spotify.com/album/71nlsWdYk92IePIZcKF7M3"
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
       "artists": [
         {
-          "name": "Espresso",
-          "url": "https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ"
-        },
-        {
-          "name": "Dearming",
-          "url": "https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 181625,
-      "name": "I only see you in my eyes (Feat. Dearming)",
-      "url": "https://open.spotify.com/track/4hKo4JNEFy9jdhTkICIoM7"
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB"
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8"
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Dawn Defibrillation, Vol. 3",
+        "url": "https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/0jnUqXkSxqe8hLkPVfzIjz"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
@@ -645,7 +361,271 @@
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Ten Reasons I Love You(2021)",
+        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Ten Reasons I Love You(2021)",
+      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Dear.",
+        "url": "https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Dear.",
+      "url": "https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 231870,
+      "name": "But it's Destiny",
+      "url": "https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Ocean like me (Original Web Drama Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM"
+      },
+      "artists": [
+        {
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "\ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/154jyE6Wg5PPbqYhpvFVTw"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256104,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 293680,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 227583,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Someone's playlist #6",
+        "url": "https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW"
+      },
+      "artists": [
+        {
+          "name": "MIND U",
+          "url": "https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Sweet dream",
+      "url": "https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 229359,
+      "name": "D (Half Moon)",
+      "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Deep in the night, you and me",
+        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Deep in the night, you and me",
+      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "Right",
         "url": "https://open.spotify.com/album/3MmSYZityjpYQXOfCYiJrS"
@@ -665,27 +645,39 @@
       "url": "https://open.spotify.com/track/4rqkl7cIZMZL6kBWox0D6B"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Seoul Vibes, Citrus",
-        "url": "https://open.spotify.com/album/60dcKy2qDpx5EIv9r9erkh"
+        "name": "The Package \ub354 \ud328\ud0a4\uc9c0 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/16W5lDfcQgrvqqeMsoRvcc"
       },
       "artists": [
         {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "bluedsgn",
-          "url": "https://open.spotify.com/artist/0EVYsbjoC8pHrgBM9P9M4Y"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 205310,
-      "name": "Before You Sleep (feat. bluedsgn)",
-      "url": "https://open.spotify.com/track/4gfAh0lDT7Ob10fySFlQxe"
+      "duration_ms": 230293,
+      "name": "Fateful Love \uc6b4\uba85\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/1Sk4nG0ao54jfaU6ASVzTr"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+      },
+      "artists": [
+        {
+          "name": "Unchan",
+          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "The Call Project No.4",
         "url": "https://open.spotify.com/album/2NfttZi8jQYZLN5s6VxZnk"
@@ -717,123 +709,231 @@
       "url": "https://open.spotify.com/track/05vZ5qJgAyMhqIjV4ZWf9q"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Love Has a Limit",
-        "url": "https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d"
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 227054,
+      "name": "Tale \ub3d9\ud654",
+      "url": "https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
+      },
+      "artists": [
+        {
+          "name": "INYU",
+          "url": "https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t"
         },
         {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         }
       ],
-      "duration_ms": 161392,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI"
+      "duration_ms": 181680,
+      "name": "OH NONONO",
+      "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "No Make Up",
-        "url": "https://open.spotify.com/album/6I102GJy7jhQjDVH3I51gq"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 189154,
-      "name": "No Make Up",
-      "url": "https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd"
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Private Language",
-        "url": "https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Pil Kyo",
-          "url": "https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 251441,
-      "name": "Private Language",
-      "url": "https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T"
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "The Package \ub354 \ud328\ud0a4\uc9c0 (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/16W5lDfcQgrvqqeMsoRvcc"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 230293,
-      "name": "Fateful Love \uc6b4\uba85\ucc98\ub7fc",
-      "url": "https://open.spotify.com/track/1Sk4nG0ao54jfaU6ASVzTr"
+      "duration_ms": 221081,
+      "name": "best song",
+      "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "blooming",
-        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },
       "artists": [
         {
-          "name": "Kim Marie",
-          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 239880,
-      "name": "blooming",
-      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
+      "duration_ms": 220186,
+      "name": "You Move Me (feat. SUNG SI KYUNG)",
+      "url": "https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Deep in the night, you and me",
-        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Deep in the night, you and me",
-      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "MY OCEAN",
-        "url": "https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV"
+        "name": "What about you \uae30\uc801",
+        "url": "https://open.spotify.com/album/1AnF7AYM6J4rYIrd3OU6GU"
       },
       "artists": [
         {
-          "name": "Jeong Young Eun",
-          "url": "https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
-      "duration_ms": 229613,
-      "name": "MY OCEAN",
-      "url": "https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor"
+      "duration_ms": 254306,
+      "name": "What about you \uae30\uc801",
+      "url": "https://open.spotify.com/track/0hrdSd1bwRoNEe6KP5Q2g5"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "FLAVONO",
+        "url": "https://open.spotify.com/album/0YLOzSD8x1vqN3UahvhJRn"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HYUNG",
+          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
+        }
+      ],
+      "duration_ms": 240162,
+      "name": "FLAVONO",
+      "url": "https://open.spotify.com/track/1KeXQ2tuWBgEkF1sAKQ3sA"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "Seoul Vibes, Citrus",
+        "url": "https://open.spotify.com/album/60dcKy2qDpx5EIv9r9erkh"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "bluedsgn",
+          "url": "https://open.spotify.com/artist/0EVYsbjoC8pHrgBM9P9M4Y"
+        }
+      ],
+      "duration_ms": 205310,
+      "name": "Before You Sleep (feat. bluedsgn)",
+      "url": "https://open.spotify.com/track/4gfAh0lDT7Ob10fySFlQxe"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "U Hoo",
+        "url": "https://open.spotify.com/album/2dNczNbMhBdSM1cldYekhX"
+      },
+      "artists": [
+        {
+          "name": "Shimgaeul",
+          "url": "https://open.spotify.com/artist/7k6MvThCgQovANUKxMgtx4"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "U Hoo",
+      "url": "https://open.spotify.com/track/5ld03oA3vIf6fPzPRHg5Gv"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
+      "album": {
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "If I hug you",
+      "url": "https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ"
+    },
+    {
+      "added_at": "2022-06-13 13:16:05",
       "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
@@ -849,188 +949,88 @@
       "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+        "name": "No Make Up",
+        "url": "https://open.spotify.com/album/6I102GJy7jhQjDVH3I51gq"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 248078,
-      "name": "Our Love is Great",
-      "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
+      "duration_ms": 189154,
+      "name": "No Make Up",
+      "url": "https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 231870,
-      "name": "But it's Destiny",
-      "url": "https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk"
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "INTERVIEW",
-        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/5uWlrUNRHSGf0vZC3ZM2d7"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "BROWN EYED SOUL 4th Regular Album \u2018SOUL COOKE\u2019",
-        "url": "https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 318653,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/55H1e6ITKdYJAh23znaxXF"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "D_iary page.2",
-        "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "Jxxn",
+          "url": "https://open.spotify.com/artist/0yg3ZswlGCiIij5a6bpPQE"
         },
         {
-          "name": "Ko Youngbae",
-          "url": "https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS"
+          "name": "Kinn",
+          "url": "https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo"
         }
       ],
-      "duration_ms": 246653,
-      "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
-      "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
+      "duration_ms": 170060,
+      "name": "All Day (feat. Kinn)",
+      "url": "https://open.spotify.com/track/41FN5URQhScXWknQkUs9et"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "HJZM : The Butterfly Phantasy",
-        "url": "https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo"
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
       "artists": [
         {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 261253,
-      "name": "Stand by you",
-      "url": "https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8"
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
-      "added_at": "2022-06-09 17:01:20",
+      "added_at": "2022-06-13 13:16:05",
       "album": {
-        "name": "LOVE PLAYLIST 4 Part.1",
-        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
+        "name": "Shall we dance tonight",
+        "url": "https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv"
       },
       "artists": [
         {
-          "name": "EXO-CBX",
-          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+          "name": "\uc774\uc815\uad8c",
+          "url": "https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9"
         }
       ],
-      "duration_ms": 215120,
-      "name": "Be My Love",
-      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "It's ok not to be ok",
-        "url": "https://open.spotify.com/album/7f42NHLfbFQzbCvRKJ3QT0"
-      },
-      "artists": [
-        {
-          "name": "As One",
-          "url": "https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT"
-        },
-        {
-          "name": "LEE DAE HWI",
-          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
-        }
-      ],
-      "duration_ms": 205470,
-      "name": "It's ok not to be ok (feat. LEE DAE HWI )",
-      "url": "https://open.spotify.com/track/20PPqPcpr1r54Yy0ooUpme"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "Dear.",
-        "url": "https://open.spotify.com/album/6k8MPTcvl25jtS2GKu6GpA"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Dear.",
-      "url": "https://open.spotify.com/track/5Hwo3p2oT7RaHXlY0Ks1ZV"
-    },
-    {
-      "added_at": "2022-06-09 17:01:20",
-      "album": {
-        "name": "PUZZLE",
-        "url": "https://open.spotify.com/album/3E8XbM9gn0N2V5bkRaDDHA"
-      },
-      "artists": [
-        {
-          "name": "Sugarbowl",
-          "url": "https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "PUZZLE",
-      "url": "https://open.spotify.com/track/1l3qnaenScIWpAyJRbjLmP"
+      "duration_ms": 205587,
+      "name": "Shall we dance tonight",
+      "url": "https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

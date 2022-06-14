@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Ai mu\u1ed1n nghe kh\u00f4ng",
+        "url": "https://open.spotify.com/album/5xw006buOXTau3BQPzvjHZ"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Ai mu\u1ed1n nghe kh\u00f4ng",
+      "url": "https://open.spotify.com/track/1WCAkmmTM06in2ojuQ9CK5"
+    },
+    {
+      "album": {
         "name": "Ai \u0110\u01b0a Em V\u1ec1",
         "url": "https://open.spotify.com/album/3g4UhKs9pmkiJiLytUv9nB"
       },
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-14",
       "duration_ms": 257000,
       "name": "T\u1ef1 S\u1ef1 - Original Soundtrack from \"Qua B\u1ec3n L\u00e0m Chi\"",
       "url": "https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N"

@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Canada Gedi",
+        "url": "https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239593,
+      "name": "Canada Gedi",
+      "url": "https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ"
+    },
+    {
+      "album": {
         "name": "Chabbi",
         "url": "https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY"
       },

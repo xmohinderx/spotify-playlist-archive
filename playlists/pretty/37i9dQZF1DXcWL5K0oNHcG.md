@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: PAJAUMI Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,116 likes - 85 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,202 likes - 85 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

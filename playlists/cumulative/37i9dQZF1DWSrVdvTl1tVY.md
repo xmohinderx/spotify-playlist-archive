@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Annie Mac and Melle Brown
 
-228 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+230 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Move Your Body \- Edit](https://open.spotify.com/track/6EhZYH9MsQvX3IXoRF4Ler) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Move Your Body](https://open.spotify.com/album/1RzqLXi302wkKMtAk94euI) | 3:00 | 2021-12-17 | 2022-03-04 |
 | [Movin](https://open.spotify.com/track/00iUcyIQ1EkAmk0QTrCSy5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Movin](https://open.spotify.com/album/6L1s0fu9jyF7aSCpvGoarm) | 4:00 | 2021-12-17 | 2022-04-08 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2021-12-17 | 2022-03-19 |
+| [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 | 2022-06-13 |  |
 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 | 2022-04-29 |  |
 | [My Shadow](https://open.spotify.com/track/6bUC7jA13apX8WIGeUcQYG) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Shadow](https://open.spotify.com/album/5jptlvy4kuQ9EQ99cQyDJE) | 3:27 | 2022-03-18 |  |
 | [Need You Now](https://open.spotify.com/track/5e81fxQBpGAutsfrfUp9Dm) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Push It](https://open.spotify.com/album/3SKIfKsWm7GYkN1CZ2WGPJ) | 3:17 | 2021-12-17 | 2022-02-18 |
@@ -211,6 +212,7 @@
 | [The Sequel](https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [The Sequel](https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST) | 3:09 | 2022-03-08 | 2022-03-10 |
 | [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-06-02 |  |
 | [This Feeling](https://open.spotify.com/track/6lQw8YVh9sXbzcOBzyQPmK) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [This Feeling](https://open.spotify.com/album/48tb5NDXMlVci0v01LyRus) | 3:14 | 2022-01-28 | 2022-03-25 |
+| [Thr33 6ix 5ive](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Thr33 6ix 5ive](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-06-13 |  |
 | [Tighter \(feat\. Jalja\) \- CamelPhat Remix](https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Tighter \(feat\. Jalja\) \[CamelPhat Remix\]](https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI) | 3:54 | 2021-12-17 | 2022-01-07 |
 | [To Be Heard \- Edit](https://open.spotify.com/track/1VKJM0sZThLrMoBcbqnPy1) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [To Be Heard \(Edit\)](https://open.spotify.com/album/2Yb8bZElygyed6glkg58vD) | 3:49 | 2022-05-27 |  |
 | [Tricky \(feat\. Autumn Rowe\)](https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Tricky \(feat\. Autumn Rowe\)](https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3) | 2:47 | 2022-01-07 | 2022-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,124 likes - 110 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,151 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 109 | [Old Folks](https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Old Folks](https://open.spotify.com/album/3JCK1yX5Znu54wJTl2lbs0) | 4:20 |
 | 110 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY1NDc2NjMzNiwwMDAwMDA3ZTAwMDAwMTgxNDdjMjdhZGQwMDAwMDE4MDFkZWMyNWZj`
+Snapshot ID: `MTY1NTEzMDEyNywwMDAwMDA3ZjAwMDAwMTgxNWQ3MTdjNTQwMDAwMDE4MTVkNzE0NDFm`
