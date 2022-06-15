@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,207 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,206 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 73 | [Guh Inna It](https://open.spotify.com/track/4QnYRy4zkSm1GLVCdsYNcB) | [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Red Cups Riddim](https://open.spotify.com/album/1ZF9P5zOIjbqbNnavusacG) | 2:35 |
 | 74 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 |
 | 75 | [Like Nobody's Home](https://open.spotify.com/track/6FH9mGvNIbZaJ8FZfdgRpC) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Like Nobody's Home](https://open.spotify.com/album/3QOJkxCcZ4t7KJV0zwZ7nj) | 3:13 |
-| 76 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:09 |
+| 76 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 77 | [Better Off \(feat\. Terrell Morris & DillanPonders\)](https://open.spotify.com/track/0ZsOpAPq7leEv7Jez9eNOW) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Better Off \(feat\. Terrell Morris & DillanPonders\)](https://open.spotify.com/album/2qGDr0N6M9n9GbRfDF9XQ5) | 3:26 |
 | 78 | [To Be Real](https://open.spotify.com/track/50xQF3XPkeiI0MUdpJw6Sl) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [To Be Real](https://open.spotify.com/album/5qjXkUJnwNmPORD2g2ZNFk) | 3:00 |
 | 79 | [Elvis](https://open.spotify.com/track/5vFGLkcPG8JdYAuAVVczGR) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Elvis](https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy) | 3:37 |

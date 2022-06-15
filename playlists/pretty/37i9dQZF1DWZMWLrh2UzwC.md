@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,807 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,809 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 40 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
 | 41 | [Someone to Blame](https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [a letter to me](https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE) | 3:20 |
 | 42 | [DIVINE](https://open.spotify.com/track/78jpa4kOOgObeaCxvLSUEv) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [DIVINE](https://open.spotify.com/album/71abCXubO4hiuo1AX9RBM7) | 2:34 |
-| 43 | [WHO YOU](https://open.spotify.com/track/0XAGzsOMJpmDUrXJbCf88z) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHO YOU](https://open.spotify.com/album/2k2m5HWtzANiCZkc39texk) | 3:36 |
+| 43 | [WHO YOU](https://open.spotify.com/track/0XAGzsOMJpmDUrXJbCf88z) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Akid Amir](https://open.spotify.com/artist/4noTvjygmQ0SANNCGrkLSG) | [WHO YOU](https://open.spotify.com/album/2k2m5HWtzANiCZkc39texk) | 3:36 |
 | 44 | [Landline](https://open.spotify.com/track/5yg9pMaIXNTNaAXdgICszk) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Landline](https://open.spotify.com/album/2o9pKLVQbsMlABhGOlx2I4) | 2:57 |
 | 45 | [Too Bad](https://open.spotify.com/track/6mwUNrszsJxayPeqS0OPU2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Too Bad / Cursed](https://open.spotify.com/album/2HAEQ3pBzY5bgBBsYqrLt4) | 2:53 |
 | 46 | [Survived Suffering](https://open.spotify.com/track/2GWByDDwmO0bhBlXfcHLGX) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Survived Suffering](https://open.spotify.com/album/3vVo5zWIwoMUjcn9uwUG39) | 2:57 |

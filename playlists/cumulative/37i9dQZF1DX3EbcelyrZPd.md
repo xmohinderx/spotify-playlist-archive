@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-114 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+115 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Mama](https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mama](https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj) | 2:54 | 2022-05-05 |  |
 | [Mama](https://open.spotify.com/track/0pUlYfkpF0uUP3vu7tSe3B) | [Lulu Diva](https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr) | [Mama](https://open.spotify.com/album/2cLFk3vyXGbEsg20dDXcZF) | 3:08 | 2022-01-06 | 2022-04-15 |
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-18 |  |
+| [Manzese](https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Manzese](https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo) | 3:20 | 2022-06-02 |  |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2021-06-25 | 2022-01-21 |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-10 |  |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-01-06 |  |

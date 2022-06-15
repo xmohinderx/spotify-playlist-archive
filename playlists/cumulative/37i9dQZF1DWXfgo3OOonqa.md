@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-402 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+403 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [SooYs](https://open.spotify.com/track/4ubIs1XE6iHqi8UbI5Xz7g) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [SooYs](https://open.spotify.com/album/6RrhFZOEy4qD3K9WtSP8Wy) | 2:34 | 2022-03-24 | 2022-05-06 |
 | [Soul Hurts](https://open.spotify.com/track/6MdwEY5zW81WABHSVoF2ru) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [CHASE THE BABY](https://open.spotify.com/album/5RLd6S0wRY2YDNuLtdIR99) | 2:32 | 2021-12-16 | 2022-01-28 |
 | [SPACEKIDZ](https://open.spotify.com/track/7dWo7PUXrKnvcFBZ5unJof) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SPACEKIDZ](https://open.spotify.com/album/22yiSZUDXuL8WHxgUOLfcm) | 3:18 | 2022-03-17 | 2022-04-22 |
+| [SPECIAL ONE](https://open.spotify.com/track/1jCWjKtICzrHLDpZGuw7VP) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [SPECIAL ONE](https://open.spotify.com/album/5VNxBrD1An7QPjPsEdGxAS) | 3:14 | 2022-06-14 |  |
 | [SPRIT & KNARK](https://open.spotify.com/track/4gWZK1DGIxSwo1gzRXyq5v) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [ETT GÄNG GETTER](https://open.spotify.com/album/4VdRZIKvnFCPcGlGHXHIIv) | 2:31 | 2022-03-04 | 2022-03-25 |
 | [Stainless \(Intro\)](https://open.spotify.com/track/1rTGRxwEo5WWbtYhFBUSCW) | [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS) | [From mars to venus](https://open.spotify.com/album/2r8jb34FwsryNJ2Med7Vfn) | 2:32 | 2021-12-16 | 2022-01-26 |
 | [Stefflon & Burna](https://open.spotify.com/track/2YLANvLF3wNHYr3FwlZz1p) | [Leyla Dahab](https://open.spotify.com/artist/7kKJ9Ow2GI3qvINsToclQj) | [Stefflon & Burna](https://open.spotify.com/album/6iUE3OkGZZegEy7dW2cCgi) | 3:03 | 2022-01-06 | 2022-01-28 |
@@ -355,7 +356,7 @@
 | [Take Me High](https://open.spotify.com/track/6jPl7GZeCsfatf2tQZC8hv) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Take Me High](https://open.spotify.com/album/5KTcN31IHSQvIudWXK4z9T) | 2:04 | 2022-02-17 | 2022-03-25 |
 | [Talk My Shit](https://open.spotify.com/track/0xcMGWAdU3Z7hIn3867I3c) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Talk My Shit](https://open.spotify.com/album/1cxHIXUXv5mlfMbQ8mTvsM) | 2:40 | 2022-02-25 | 2022-03-25 |
 | [TALLRIKAR](https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:41 | 2022-02-03 | 2022-04-08 |
-| [Tango](https://open.spotify.com/track/2coiFuLjx1xGoKOvJoOibn) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Kid Canady](https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN) | [Tango](https://open.spotify.com/album/1hvgN5Mo40Xfu3ZYYgmM4J) | 2:22 | 2022-05-26 |  |
+| [Tango](https://open.spotify.com/track/2coiFuLjx1xGoKOvJoOibn) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Kid Canady](https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN) | [Tango](https://open.spotify.com/album/1hvgN5Mo40Xfu3ZYYgmM4J) | 2:22 | 2022-05-26 | 2022-06-15 |
 | [TANKAR](https://open.spotify.com/track/6v4p9AaVYr1TSosk4XuEX4) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [TANKAR](https://open.spotify.com/album/2aMwW3DkqmhrdkyK5wQTp6) | 2:51 | 2021-12-16 | 2022-01-07 |
 | [TAPPAT DET HELT \(feat\. Slowface & Ivory\)](https://open.spotify.com/track/5quIDiJrEwFsdHfuEt06Sy) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Slowface](https://open.spotify.com/artist/061CokvjfVqrXQcurI244R) | [TAPPAT DET HELT \(feat\. Slowface & Ivory\)](https://open.spotify.com/album/4lsqiNHIxGQyLfwnp1crla) | 2:40 | 2022-01-27 | 2022-02-16 |
 | [TBX](https://open.spotify.com/track/56pC18AuAtMsZ9v9Zvlawk) | [B.M.A](https://open.spotify.com/artist/7u4EK4hD90g4KfyVWzU6R3) | [TBX](https://open.spotify.com/album/5He2p8riLLP9baO38RqzFB) | 2:15 | 2022-03-10 | 2022-03-25 |

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "There's Always Glimmer",
+        "url": "https://open.spotify.com/album/4sUjZTEhcxSgilbaFohZKJ"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/6ixPqy7A6dHuVcYDPlpno7"
+    },
+    {
+      "album": {
         "name": "Bad Habits (Acoustic Version)",
         "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/59EFjPF4IB7BJAi1FGzdtY"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 156482,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 263226,
       "name": "Cursed II",
       "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 210480,
       "name": "droplets (feat. Gabrielle Aplin)",
       "url": "https://open.spotify.com/track/3vIIzUU52AKFA19yHA8TCz"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 210013,
       "name": "Everything I Am Is Yours",
       "url": "https://open.spotify.com/track/6Kh2MA4vSjszWYiiWS1zZj"
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 173240,
       "name": "Grace",
       "url": "https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 218651,
       "name": "Home",
       "url": "https://open.spotify.com/track/3UyrU0pqcd2bOSe4nSOiAG"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "I'll Follow You into the Dark",
       "url": "https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 197168,
       "name": "More",
       "url": "https://open.spotify.com/track/0RjJ3YHeqcfAF3gSNEaKKD"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 207514,
       "name": "Never Never",
       "url": "https://open.spotify.com/track/0oAtzDxq3bjQZz9QSWR0R1"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 229267,
       "name": "Paradise (with Olivia Holt) - Acoustic",
       "url": "https://open.spotify.com/track/1azIfG185DTR8QqLdYHcfY"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 194094,
       "name": "Sending Light (For Lucas)",
       "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"

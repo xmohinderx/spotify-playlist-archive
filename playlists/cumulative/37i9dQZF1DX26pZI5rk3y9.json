@@ -614,6 +614,28 @@
     },
     {
       "album": {
+        "name": "I See a Man Downstairs",
+        "url": "https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        },
+        {
+          "name": "Brian Auger & The Trinity",
+          "url": "https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "I See a Man Downstairs",
+      "url": "https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx"
+    },
+    {
+      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -1025,6 +1047,24 @@
       "duration_ms": 163666,
       "name": "The Sun Is Shining",
       "url": "https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx"
+    },
+    {
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "These Kind of Blues",
+      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
     },
     {
       "album": {

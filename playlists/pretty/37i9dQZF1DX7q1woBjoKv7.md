@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover, Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,906 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 9 | [Co\-Star](https://open.spotify.com/track/72tqKU19PBKIUkeFQIthQI) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Towards The Sun](https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH) | 3:32 |
 | 10 | [Soccer Dad](https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Soccer Dad](https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS) | 3:13 |
 | 11 | [Rockero](https://open.spotify.com/track/71J1e62QS3NrgXiHGy9tR6) | [Raka Rich](https://open.spotify.com/artist/1fG9KDXYSu1BHq76gjINpD), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Voltime](https://open.spotify.com/artist/2x4oaMLr5I9Yx8vUzWSgqS) | [Rockero](https://open.spotify.com/album/1DRFSiB69fGaV4qltjIse4) | 2:22 |
-| 12 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:09 |
+| 12 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 13 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 |
 | 14 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 |
 | 15 | [LEMONADE](https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:59 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 22 | [Signal \(feat\. Phabo\)](https://open.spotify.com/track/1kpOlCmfwDyzx49HQrBMqP) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3), [Phabo](https://open.spotify.com/artist/65GP7Mpo1n39lDTXbVM0mJ) | [After Hours, Pt\. 1](https://open.spotify.com/album/41pREvOvSEtZC39rFF1jTG) | 3:00 |
 | 23 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
 | 24 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 |
-| 25 | [All The Smoce \(feat\. GoodJoon\)](https://open.spotify.com/track/64jesN53g8eO3vsIRCxTsz) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [GoodJoon](https://open.spotify.com/artist/5HImoZZT9CxEGBHgUu7azo) | [All The Smoce \(feat\. GoodJoon\)](https://open.spotify.com/album/5qzhG1dfk8CYG3n4GyNgDC) | 2:34 |
+| 25 | [All The SMOCE \(feat\. GoodJoon\)](https://open.spotify.com/track/64jesN53g8eO3vsIRCxTsz) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [GoodJoon](https://open.spotify.com/artist/5HImoZZT9CxEGBHgUu7azo) | [All The SMOCE \(feat\. GoodJoon\)](https://open.spotify.com/album/5qzhG1dfk8CYG3n4GyNgDC) | 2:34 |
 | 26 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
 | 27 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 | 28 | [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/album/0UwgiL1GXSJKtdlmpcw8Gj) | 2:15 |

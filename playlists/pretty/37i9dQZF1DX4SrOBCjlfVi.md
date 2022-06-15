@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pharrell, XXXTENTACION, Nardo Wick and more\. Cover: Rae Sremmurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,873 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,000 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/album/3MhO1OnqbkMyXascwTDKs5) | 2:02 |
 | 36 | [Spring, Summer](https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Spring, Summer](https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF) | 2:46 |
 | 37 | [1, 2, 3](https://open.spotify.com/track/56E8mH7zuZYS07DbqfeTvT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [1, 2, 3](https://open.spotify.com/album/0wPE7s12vVWFVuwScFUDtb) | 2:15 |
-| 38 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:09 |
+| 38 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 39 | [That's My Dawg](https://open.spotify.com/track/6B82nEUsmDZgjh0agenqn6) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [That's My Dawg](https://open.spotify.com/album/711yj1V6Irxb9bedEqPqRY) | 2:47 |
 | 40 | [Hoppin Out](https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Hoppin Out](https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf) | 2:41 |
 | 41 | [Options](https://open.spotify.com/track/2EZmUkEwxxrQ5cXBYeNoaL) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Options](https://open.spotify.com/album/6msBd1l8MOq8MFDs3Zor4w) | 2:48 |

@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 26621,
+  "num_followers": 26625,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzAzMyw0MGJiNmU1ODQyNWQ4NWYzNGFjODVhOTVkOTdkMDA2YjhkYjJhNTUz",
+  "snapshot_id": "MzAzNixjMmY2NWZjNTI3ZGI5YTM2ZTJmNjZkYTVlNTk3ZTAzMDQwZGIxZmU2",
   "tracks": [
+    {
+      "added_at": "2022-06-14 18:01:48",
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+    },
     {
       "added_at": "2022-06-08 16:03:26",
       "album": {
@@ -679,26 +699,6 @@
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp"
-    },
-    {
-      "added_at": "2021-10-04 14:22:40",
-      "album": {
-        "name": "Power (Floorplan Remix)",
-        "url": "https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 365856,
-      "name": "Power - Floorplan Remix - Extended",
-      "url": "https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2"
     },
     {
       "added_at": "2021-09-10 23:46:02",

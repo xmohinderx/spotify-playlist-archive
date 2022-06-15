@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 220086,
       "name": "BLUEMOON",
       "url": "https://open.spotify.com/track/37kvXE6pY1XzSW74q7yWdT"
@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Day In Day Out",
+        "url": "https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5"
+      },
+      "artists": [
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Day In Day Out",
+      "url": "https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB"
+    },
+    {
+      "album": {
         "name": "Draw Me (feat. VivaOla)",
         "url": "https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 231933,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/217wGZ7qxq9Id0JjlZhw2V"
@@ -858,6 +876,24 @@
     },
     {
       "album": {
+        "name": "GAMA",
+        "url": "https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV"
+      },
+      "artists": [
+        {
+          "name": "Yurufuwa Gang",
+          "url": "https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ"
+    },
+    {
+      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -913,7 +949,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 249033,
       "name": "T",
       "url": "https://open.spotify.com/track/4RQ6cTPYksga7oaaENY2ZV"
@@ -989,6 +1025,24 @@
       "duration_ms": 286506,
       "name": "TiDE",
       "url": "https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS"
+    },
+    {
+      "album": {
+        "name": "Tokio Stranger",
+        "url": "https://open.spotify.com/album/2aSqoUSoIjfjm15UE0ftxu"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Tokio Stranger",
+      "url": "https://open.spotify.com/track/6cbnodOh6qNTmsmQuisJ2h"
     },
     {
       "album": {
@@ -1101,7 +1155,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 216792,
       "name": "Void Time",
       "url": "https://open.spotify.com/track/5RaIXJmfqymo3v1IMKFs7W"
@@ -1189,6 +1243,32 @@
       "duration_ms": 218901,
       "name": "Your Next",
       "url": "https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE'S HIGH",
+        "url": "https://open.spotify.com/album/6rEM6ma5RsuWJdtgXbrjZs"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        },
+        {
+          "name": "\u9ad8\u6728\u7965\u592a",
+          "url": "https://open.spotify.com/artist/43hUML7jUeCalYFED25lga"
+        },
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213684,
+      "name": "ZOMBIE'S HIGH",
+      "url": "https://open.spotify.com/track/76lHomIgluXSSV3B3OoyNb"
     },
     {
       "album": {
@@ -1623,7 +1703,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 241600,
       "name": "\u751f\u304d\u308b",
       "url": "https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw"
@@ -1689,6 +1769,24 @@
       "duration_ms": 222303,
       "name": "\u9154\u3072\u3082\u305b\u3059",
       "url": "https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1"
+    },
+    {
+      "album": {
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267575,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"
     },
     {
       "album": {

@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Bis die Sonne rauskommt",
       "url": "https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 317977,
       "name": "Dies das",
       "url": "https://open.spotify.com/track/0tb1OZ9wBO6bjy2DgTanNa"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Eines Tages",
       "url": "https://open.spotify.com/track/3PFjIAljdzO7uV1VDtedbU"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 219466,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/2FaXYdEZ1hMvZt27KKvnwp"
@@ -491,6 +491,24 @@
       "duration_ms": 288946,
       "name": "Fremd im eigenen Land",
       "url": "https://open.spotify.com/track/4NUg69AakDv124Kc0RKLsv"
+    },
+    {
+      "album": {
+        "name": "Ich & meine Maske - Trilogy",
+        "url": "https://open.spotify.com/album/0JefPAUJSKQyTTs67mtm4q"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227573,
+      "name": "Fuffies im Club",
+      "url": "https://open.spotify.com/track/65trjE7JXGj7NpjROLS6A0"
     },
     {
       "album": {
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 250680,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "Mittelfinger hoch",
       "url": "https://open.spotify.com/track/0t0x6vNJk3cY2YgOSOZlwM"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
@@ -1420,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Deluxe Soundsystem",
+        "url": "https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Deluxe",
+          "url": "https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180920,
+      "name": "Wie jetzt",
+      "url": "https://open.spotify.com/track/5ZZR3IitTL7OKJUukCXKZN"
+    },
+    {
+      "album": {
         "name": "Blauer Samt",
         "url": "https://open.spotify.com/album/6YVuIEebYytSbOwjC200or"
       },
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 280775,
       "name": "Wir waren mal Stars",
       "url": "https://open.spotify.com/track/1rXEEicSA43RvVGm4yc4ai"

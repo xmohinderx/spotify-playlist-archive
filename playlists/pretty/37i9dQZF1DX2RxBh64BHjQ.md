@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: Lil Eazzyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,643,621 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643,859 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 38 | [1, 2, 3](https://open.spotify.com/track/56E8mH7zuZYS07DbqfeTvT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [1, 2, 3](https://open.spotify.com/album/0wPE7s12vVWFVuwScFUDtb) | 2:15 |
 | 39 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 |
 | 40 | [SOON \(feat\. Arabian\)](https://open.spotify.com/track/312YwRTzTE526nmuCaONji) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Arabian](https://open.spotify.com/artist/3CVIomosotXKy9Zrc7S6YB) | [SOON \(feat\. Arabian\)](https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw) | 2:39 |
-| 41 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:09 |
+| 41 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 42 | [Van Hayden](https://open.spotify.com/track/3UfpqCUS9euaswAOot4irW) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Van Hayden](https://open.spotify.com/album/1hy7VNroMZgy8StQT5qNCB) | 2:50 |
 | 43 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 |
 | 44 | [No Panties](https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [No Panties](https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28) | 2:22 |

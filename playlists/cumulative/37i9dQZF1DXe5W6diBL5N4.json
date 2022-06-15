@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: BTS(\ubc29\ud0c4\uc18c\ub144\ub2e8) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: WONHO(\uc6d0\ud638)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "published_playlist_ids": [
     "69AzhPM798n6fuDC8uUxaB"
@@ -981,6 +981,28 @@
       "duration_ms": 204405,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6MY5Fg2ST4H30UziyT4mw8"
+    },
+    {
+      "album": {
+        "name": "Alone At Night",
+        "url": "https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE"
+      },
+      "artists": [
+        {
+          "name": "SIM2",
+          "url": "https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR"
+        },
+        {
+          "name": "ByulHa",
+          "url": "https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Alone At Night (feat. ByulHa)",
+      "url": "https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx"
     },
     {
       "album": {
@@ -3234,6 +3256,32 @@
     },
     {
       "album": {
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Peakboy (\ud53d\ubcf4\uc774)",
+          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
+      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1PrSACOhKQmFbVdQjfTA1K"
       },
@@ -3693,6 +3741,24 @@
       "duration_ms": 166153,
       "name": "Come Upright (Prod. Viann)",
       "url": "https://open.spotify.com/track/6yRe9dHqGcqlSnZhKY26aD"
+    },
+    {
+      "album": {
+        "name": "Coming soon (2022)",
+        "url": "https://open.spotify.com/album/2Ms5TCgJUCoo2j16cd6axm"
+      },
+      "artists": [
+        {
+          "name": "\uc564\uc528\uc544",
+          "url": "https://open.spotify.com/artist/3QHluHKvtDhfSImi2mHmUC"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Coming soon (2022)",
+      "url": "https://open.spotify.com/track/2nEcKkNTNDGsyCOeCZoYKs"
     },
     {
       "album": {
@@ -4223,6 +4289,28 @@
       "duration_ms": 156000,
       "name": "Deadfool",
       "url": "https://open.spotify.com/track/4erOqM1NtgNBkLuuJOJrg1"
+    },
+    {
+      "album": {
+        "name": "The Legacy 08",
+        "url": "https://open.spotify.com/album/0J9BcfUwJc47iNde0dCIBN"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Lee Tae Kwon",
+          "url": "https://open.spotify.com/artist/0HYkV9ugwyR5INWE6BiCB3"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Dear H (feat. Lee Tae Kwon)",
+      "url": "https://open.spotify.com/track/4CwAfMWDfwe3MrhyHg4EAS"
     },
     {
       "album": {
@@ -7041,6 +7129,28 @@
       "duration_ms": 188480,
       "name": "Go Go",
       "url": "https://open.spotify.com/track/1CfsZr942JbbsiCJNPONU7"
+    },
+    {
+      "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "Eelittlee",
+          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "GO! (feat. Eelittlee)",
+      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
     },
     {
       "album": {
@@ -12466,6 +12576,28 @@
     },
     {
       "album": {
+        "name": "LOVE&LOVE",
+        "url": "https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        },
+        {
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "MY LOVE (feat. RAVI)",
+      "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
+    },
+    {
+      "album": {
         "name": "My Nostalgia",
         "url": "https://open.spotify.com/album/3qHdl0VelqylJuSpNMRJxU"
       },
@@ -13401,6 +13533,24 @@
       "duration_ms": 201773,
       "name": "One minute later (23:59)",
       "url": "https://open.spotify.com/track/7GFQQOqyP8lcH553RaR7da"
+    },
+    {
+      "album": {
+        "name": "Star - EP",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244505,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
     },
     {
       "album": {
@@ -14741,6 +14891,24 @@
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
+    },
+    {
+      "album": {
+        "name": "Remind",
+        "url": "https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Remind",
+      "url": "https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9"
     },
     {
       "album": {
@@ -16700,6 +16868,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2wQSS9wBUj62VWsVgahFxt"
+      },
+      "artists": [
+        {
+          "name": "Evy",
+          "url": "https://open.spotify.com/artist/44OgeGpGaQMX5KtmK4kTbN"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "Stay (Prod. DAUL)",
+      "url": "https://open.spotify.com/track/3yK9Ogqib9SUDUhFLH79Wm"
+    },
+    {
+      "album": {
         "name": "4:04AM",
         "url": "https://open.spotify.com/album/2isxqvNnQwwtaqdDCkCBqz"
       },
@@ -17231,6 +17417,28 @@
       "duration_ms": 142530,
       "name": "Tallgrass",
       "url": "https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm"
+    },
+    {
+      "album": {
+        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
+        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+      },
+      "artists": [
+        {
+          "name": "Yang Yoseob",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
     },
     {
       "album": {
@@ -17913,6 +18121,24 @@
       "duration_ms": 212666,
       "name": "Thunders (feat. The Beach Voice)",
       "url": "https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4"
+    },
+    {
+      "album": {
+        "name": "Family Sitcom",
+        "url": "https://open.spotify.com/album/62BUY2uTamG4A0bP8fdoSG"
+      },
+      "artists": [
+        {
+          "name": "Legit Goons",
+          "url": "https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "Thursday Brown",
+      "url": "https://open.spotify.com/track/6z8xmqi3uPfzo1qCuEbTII"
     },
     {
       "album": {
@@ -19962,6 +20188,28 @@
     },
     {
       "album": {
+        "name": "with you (feat. Sailboat)",
+        "url": "https://open.spotify.com/album/6sZD3EYUZZrkOfRuGwXUSO"
+      },
+      "artists": [
+        {
+          "name": "THE PIECES",
+          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
+        },
+        {
+          "name": "SailBoat",
+          "url": "https://open.spotify.com/artist/0TRulTnLyUeo5Mchf5K5a2"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194410,
+      "name": "with you (feat. Sailboat)",
+      "url": "https://open.spotify.com/track/5EkTVhxDRG2B6pC5KuQ6Rm"
+    },
+    {
+      "album": {
         "name": "Famous Singers - Battle Again Pt.5",
         "url": "https://open.spotify.com/album/5rDHSQoO8Vj1Oeor41HztJ"
       },
@@ -20427,6 +20675,24 @@
       "duration_ms": 253893,
       "name": "Your regards2",
       "url": "https://open.spotify.com/track/5Y0tbeNY81QUAs5QW2BdYq"
+    },
+    {
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288933,
+      "name": "Your River In Me",
+      "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
     },
     {
       "album": {

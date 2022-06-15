@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: The Party Is Over \| Playlista odświeżana w każdy wtorek.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sabina Szewczyk \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,182 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,217 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Jetlag](https://open.spotify.com/track/1u14K7vqsnjyaVAcaBhjnw) | [Raw Plastic](https://open.spotify.com/artist/4cpZXeXj6fmynd3E5LeDD8) | [Stuck on Spring](https://open.spotify.com/album/03lqiJUgxAhW6anJ9jlRlq) | 2:25 |
 | 100 | [Czerwone twarze](https://open.spotify.com/track/05aX1zbGgqjUPjhg8vEmAO) | [Julia Mika](https://open.spotify.com/artist/51LB3MfQvjuroeIIIzclWu), [Andrzej Granat](https://open.spotify.com/artist/1xdD1yEPkxzJB6tWnBvFyd) | [Czerwone twarze](https://open.spotify.com/album/5PjkahKTA8iIROy4LCbjBn) | 3:08 |
 
-Snapshot ID: `MTY1NTE1NzYwMCwwMDAwMDAxNjAwMDAwMTgxNWYxNGIwMDIwMDAwMDE4MTNhZWFiMzRj`
+Snapshot ID: `MTY1NTE5NzAxOSwwMDAwMDAxNzAwMDAwMTgxNjE2ZTJlYzMwMDAwMDE4MTYxNmUwMWQx`

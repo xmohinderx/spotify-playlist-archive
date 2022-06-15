@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-452 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+453 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,9 +91,9 @@
 | [Bikinisinde Astronomi \(Bonus Trek\)](https://open.spotify.com/track/2Nw7SJPxBMbkQdTVPatSgR) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/0xf8Fop940B7lQoODf6Ccv) | 3:01 | 2022-02-10 | 2022-02-16 |
 | [Bikinisinde Astronomi \- Bonus Trek](https://open.spotify.com/track/1R6rAl2uzy8vdTBQ0qElO6) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/6IkJXO4FvWJDwlYZ0gnQWJ) | 3:01 | 2022-03-05 | 2022-03-10 |
 | [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 | 2022-03-06 |
-| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 |  |
+| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 | 2022-06-15 |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
-| [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 | 2022-06-12 |
+| [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 |  |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
@@ -228,9 +228,10 @@
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
-| [İmdat](https://open.spotify.com/track/0SCtkG26IEKCKxJ7UmWZWa) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 2:16 | 2022-05-14 |  |
+| [İmdat](https://open.spotify.com/track/0SCtkG26IEKCKxJ7UmWZWa) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 2:16 | 2022-05-14 | 2022-06-15 |
 | [İmdat](https://open.spotify.com/track/123hB20IVD2yw1NMIgrqb3) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [İmdat](https://open.spotify.com/album/5Gr7JLJXzZx0BlQHUCRSzl) | 2:16 | 2022-04-17 | 2022-05-15 |
 | [İMDAT](https://open.spotify.com/track/5Rqz2Jz07P73uEH9nBpWPr) | [Lucerina](https://open.spotify.com/artist/5dM81P7RcVcTvQhWKBhGa7), [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [İMDAT](https://open.spotify.com/album/5p4hOjhukXZUS9hs9SLwsx) | 2:23 | 2022-04-14 | 2022-04-16 |
+| [İmdat](https://open.spotify.com/track/54DcXR5S2DISY5lQiIGOlg) | [RaiderXD](https://open.spotify.com/artist/5yO9Fbc34OQ5SjxTzjeUEJ), [Lanceas](https://open.spotify.com/artist/2pVVQpwsN9hJn6ey9Xk15M) | [Context](https://open.spotify.com/album/3XxqxEfMA0CsQEuvLliM4M) | 2:16 | 2022-06-14 |  |
 | [İnsan Dertli Olunca](https://open.spotify.com/track/7oPVCLLZYpU52IUKQ3hRc1) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 4:34 | 2022-03-09 | 2022-03-30 |
 | [İntihaşk](https://open.spotify.com/track/5bqNvDn1PB16vswbUN5ppx) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [İntihaşk](https://open.spotify.com/album/3Zty9nxrogxLMtMTiLxlCO) | 3:12 | 2021-11-14 | 2021-11-14 |
 | [İSTANBUL](https://open.spotify.com/track/2qmdgQun2BbLmIRsQsedER) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 3:41 | 2021-03-27\* | 2021-04-11 |

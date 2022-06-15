@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g?si=7s3dlLVgRt6kgbcD9SpdMw">Txc</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,620 likes - 80 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,964 likes - 80 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

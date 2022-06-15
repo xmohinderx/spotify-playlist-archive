@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 232043,
       "name": "Ch\u1ea7m Ch\u1eadm C\u00f9ng Anh",
       "url": "https://open.spotify.com/track/13Cl4lQMQZXoUTFFYGvcmD"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 223129,
       "name": "Ch\u1ec9 Mu\u1ed1n B\u00ean Em Th\u1eadt G\u1ea7n - Remix",
       "url": "https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi"
@@ -2777,6 +2777,24 @@
       "duration_ms": 271633,
       "name": "H\u00e0ng Gh\u1ebf \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/0OnBxawP1ziLfMG0bANZgF"
+    },
+    {
+      "album": {
+        "name": "H\u00e0ng X\u00f3m L\u00e1ng Gi\u1ec1ng",
+        "url": "https://open.spotify.com/album/1HNi3c9JZK0r8ctRmqyRB2"
+      },
+      "artists": [
+        {
+          "name": "King Kudo",
+          "url": "https://open.spotify.com/artist/6nDlluvvIHATNoY3S40dTx"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "H\u00e0ng X\u00f3m L\u00e1ng Gi\u1ec1ng",
+      "url": "https://open.spotify.com/track/2S7H7c9mQjEx3pUmM68UTU"
     },
     {
       "album": {
@@ -6232,24 +6250,6 @@
     },
     {
       "album": {
-        "name": "Tinh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
-        "url": "https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6"
-      },
-      "artists": [
-        {
-          "name": "Lena",
-          "url": "https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT"
-        }
-      ],
-      "date_added": "2022-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152981,
-      "name": "Tinh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
-      "url": "https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO"
-    },
-    {
-      "album": {
         "name": "TOURIST",
         "url": "https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy"
       },
@@ -6461,6 +6461,24 @@
       "duration_ms": 187200,
       "name": "T\u00ecnh Y\u00eau H\u00e0ng Real",
       "url": "https://open.spotify.com/track/3Gaqyhb7yxtfv8RyNhQ9Ql"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
+        "url": "https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152981,
+      "name": "T\u00ecnh Y\u00eau L\u00e0 C\u00e1i Qu\u00e1i G\u00ec",
+      "url": "https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO"
     },
     {
       "album": {
@@ -6927,6 +6945,32 @@
       "duration_ms": 195592,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/7tseuw1e7EiGHM6YHVz17w"
+    },
+    {
+      "album": {
+        "name": "Welcome to Saigon",
+        "url": "https://open.spotify.com/album/3ad7j8Am3VEGOMSbxF1CXZ"
+      },
+      "artists": [
+        {
+          "name": "Phaos",
+          "url": "https://open.spotify.com/artist/19f20EhuHJJ3YJ03TxDiuM"
+        },
+        {
+          "name": "Andy V\u0169",
+          "url": "https://open.spotify.com/artist/03UysjOtanYHmkx6pRiPWr"
+        },
+        {
+          "name": "Big T",
+          "url": "https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218649,
+      "name": "Welcome to Saigon",
+      "url": "https://open.spotify.com/track/7eUaysrEDnuxzlDucvJfoa"
     },
     {
       "album": {

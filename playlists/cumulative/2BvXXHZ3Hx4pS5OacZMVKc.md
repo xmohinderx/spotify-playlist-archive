@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-143 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+144 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Odyssey](https://open.spotify.com/track/2wAfNfNYVBoDuu1xu91X8U) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Spyker](https://open.spotify.com/artist/4iw0IpAocxcswvLRUXW0so), [TOBSIK](https://open.spotify.com/artist/6o4gbkV01oZG2q8cmFg20U) | [Odyssey](https://open.spotify.com/album/3ArMz7eGrmAICPVDailT12) | 2:20 | 2022-02-11 |  |
 | [Omen](https://open.spotify.com/track/4b6ejU98mDOdncgAOJ5jjv) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Omen](https://open.spotify.com/album/3SdCgq3bm73UosrR0Cgq5r) | 2:57 | 2022-02-03 |  |
 | [On & On \- Cartoon x HAVSUN x WAYOUT Remix](https://open.spotify.com/track/45NiEAUHkIpPV4jrMCX9dh) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [HAVSUN](https://open.spotify.com/artist/6lvQ8A4F80Hn5t56isuxWr), [WAYOUT](https://open.spotify.com/artist/59ZPzvzdirTAjIP8beAkGx), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On \(Cartoon x HAVSUN x WAYOUT Remix\)](https://open.spotify.com/album/6xNEQsOdpxWEPWXjGsA7Ax) | 3:58 | 2022-02-03 |  |
+| [One more try](https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [One more try](https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C) | 3:17 | 2022-06-14 |  |
 | [Only You](https://open.spotify.com/track/1QhmeQwwiGX55Xd19oyFSN) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Only You](https://open.spotify.com/album/7AWCSwQp6Elc1JZKOsnpFU) | 3:00 | 2022-02-03 |  |
 | [Out of the Grave](https://open.spotify.com/track/7mIdc2W6SEItPWdH7TZUkb) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Out of the Grave](https://open.spotify.com/album/5b3VlJP5MTbZSPRkTaNkTO) | 3:23 | 2022-02-03 |  |
 | [Outside](https://open.spotify.com/track/6ReQvM99SijDWMYN1Kx6uX) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Shimmer EP](https://open.spotify.com/album/0oiJtNGOQBR4hnhdMmffTM) | 2:51 | 2022-02-03 |  |

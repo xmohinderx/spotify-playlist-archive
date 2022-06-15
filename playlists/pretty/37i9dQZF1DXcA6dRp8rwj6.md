@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: XXXTENTACION\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,708 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,896 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 5 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 |
 | 6 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 |
 | 7 | [JOYFUL INTERLUDE](https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [PRONOIA 2.0](https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt) | 2:41 |
-| 8 | [WHO YOU](https://open.spotify.com/track/0XAGzsOMJpmDUrXJbCf88z) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHO YOU](https://open.spotify.com/album/2k2m5HWtzANiCZkc39texk) | 3:36 |
+| 8 | [WHO YOU](https://open.spotify.com/track/0XAGzsOMJpmDUrXJbCf88z) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Akid Amir](https://open.spotify.com/artist/4noTvjygmQ0SANNCGrkLSG) | [WHO YOU](https://open.spotify.com/album/2k2m5HWtzANiCZkc39texk) | 3:36 |
 | 9 | [Body Line](https://open.spotify.com/track/1P1S58iBlvNWiViEyQUdzP) | [Kalassy Nikoff](https://open.spotify.com/artist/579taDZp4hQH1eYPIlZyCz), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [Body Line](https://open.spotify.com/album/3ect8uFffq3fExwb8W51Xz) | 3:14 |
 | 10 | [Survived Suffering](https://open.spotify.com/track/2GWByDDwmO0bhBlXfcHLGX) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Survived Suffering](https://open.spotify.com/album/3vVo5zWIwoMUjcn9uwUG39) | 2:57 |
 | 11 | [Bridge](https://open.spotify.com/track/30J6nzaBD9yZsfuv9DFd7f) | [Tre Capital](https://open.spotify.com/artist/6IrPXagDuE6hxorH635Rtz), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T) | [Bridge](https://open.spotify.com/album/1BFbz8NFz39SlMBjgVlbEN) | 2:57 |

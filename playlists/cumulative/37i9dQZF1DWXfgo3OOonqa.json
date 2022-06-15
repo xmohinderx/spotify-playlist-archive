@@ -6644,6 +6644,24 @@
     },
     {
       "album": {
+        "name": "SPECIAL ONE",
+        "url": "https://open.spotify.com/album/5VNxBrD1An7QPjPsEdGxAS"
+      },
+      "artists": [
+        {
+          "name": "JB",
+          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "SPECIAL ONE",
+      "url": "https://open.spotify.com/track/1jCWjKtICzrHLDpZGuw7VP"
+    },
+    {
+      "album": {
         "name": "ETT G\u00c4NG GETTER",
         "url": "https://open.spotify.com/album/4VdRZIKvnFCPcGlGHXHIIv"
       },
@@ -7037,7 +7055,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 142222,
       "name": "Tango",
       "url": "https://open.spotify.com/track/2coiFuLjx1xGoKOvJoOibn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Maluma y Chencho Corleone; Sebastián Yatra; Marshmello y Khalid; Paty Cantú; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,209 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,264 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

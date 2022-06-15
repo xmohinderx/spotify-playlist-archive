@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 136150,
       "name": "Al Norte Del Corazon",
       "url": "https://open.spotify.com/track/7FdyzCwVG4uE4p142ymqUw"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 234626,
       "name": "Alborada",
       "url": "https://open.spotify.com/track/55hPn6csQY88zOOb8f2MgV"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Amantes Prohibidos",
       "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "Corona De L\u00e1grimas",
       "url": "https://open.spotify.com/track/0eRW73GA34w6Pwz2qS2vY6"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 153024,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/679CNoT386QI0GJJ8O8XdP"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 212066,
       "name": "Esto Es Lo Que Soy",
       "url": "https://open.spotify.com/track/1CKuenidvmGFUuakoN67YZ"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 176960,
       "name": "Falsas Esperanzas",
       "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 213853,
       "name": "Gata Salvaje",
       "url": "https://open.spotify.com/track/630KGVH3Bg00CV5TxRyiNe"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 182720,
       "name": "Mi Coraz\u00f3n Es Tuyo",
       "url": "https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 209108,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 221453,
       "name": "M\u00e1rcame la piel",
       "url": "https://open.spotify.com/track/50WsLCQWvrsJAvAbL09MBt"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 263173,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/6HWeLCWaSBw8T10VbhgqFj"
@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Ciego de Amor",
+        "url": "https://open.spotify.com/album/1PKKzSKQPg2wlD39kuLVel"
+      },
+      "artists": [
+        {
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/6V0IvYLTidZj0gzTxtnYQv"
+    },
+    {
+      "album": {
         "name": "El Amor Manda",
         "url": "https://open.spotify.com/album/4cfFnMGzeZIqSHLn8D8fy9"
       },
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/0LAFTdzYlNfn19SybYHTZt"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 226946,
       "name": "Quiero Volver a Empezar",
       "url": "https://open.spotify.com/track/3Y8oHOk88bvcmmjfdP6wRO"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 303680,
       "name": "S\u00f3lo Importas T\u00fa",
       "url": "https://open.spotify.com/track/7tnbQYbISl8N09KNWldchn"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 206120,
       "name": "Un Poco De Tu Amor",
       "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 335818,
       "name": "\u00c1mame como Soy - En Vivo",
       "url": "https://open.spotify.com/track/7vjaL5zDV29qOcrIVpvukK"

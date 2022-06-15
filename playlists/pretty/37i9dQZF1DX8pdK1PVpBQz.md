@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Caroline & Claude\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,798 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,791 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 17 | [From Your Past Love](https://open.spotify.com/track/4Ain4Hssln4SoCzfJDaMt6) | [Audition Tape](https://open.spotify.com/artist/5RkNnygxaxAM01O4ms8lC9) | [From Your Past Love](https://open.spotify.com/album/4md6jlXL5bZ66AMj7t0liN) | 4:07 |
 | 18 | [Pull The Trigger](https://open.spotify.com/track/4xh9dYMkCtwaBLMMGNRHqN) | [Mickey Kojak](https://open.spotify.com/artist/5poMDCBflvu2tgtA0CRF17) | [Pull The Trigger](https://open.spotify.com/album/4UYNEy7KcqoQZJeQpo4GtS) | 4:20 |
 | 19 | [Bite the Bullet](https://open.spotify.com/track/6hLEl7Q4eO8sGuS9nfzbkB) | [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs), [Xing Xang Dog](https://open.spotify.com/artist/3gt6r7AyW5qxKbJCciRG4R) | [Bite the Bullet](https://open.spotify.com/album/4so3FPQBjFWxsAjDvBZy7z) | 3:21 |
-| 20 | [Attic](https://open.spotify.com/track/1qgkomqfEcEKfTGvGG2jjp) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Eileen](https://open.spotify.com/artist/0qCEvDTgdOkc8s3QQrk4OO) | [Attic](https://open.spotify.com/album/1HPhz8Vf4wNUI9k8qz6Fgd) | 2:06 |
+| 20 | [Attic](https://open.spotify.com/track/1qgkomqfEcEKfTGvGG2jjp) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Eileen](https://open.spotify.com/artist/0twcXK8RVcSgMQCG4zHFVV) | [Attic](https://open.spotify.com/album/1HPhz8Vf4wNUI9k8qz6Fgd) | 2:06 |
 | 21 | [Mansion](https://open.spotify.com/track/6bLT0vnDc1C0WQN5mfJMpk) | [Tilly Tjala Thomas](https://open.spotify.com/artist/4peChOdEfEy8OHRzBUt4HG) | [Mansion](https://open.spotify.com/album/4TyZ0FQajkIJrhzfWhQndk) | 3:28 |
 | 22 | [Gone!](https://open.spotify.com/track/2OYSobJ68Y1S1Qf7Yy0o6V) | [I.E.](https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK) | [Gone!](https://open.spotify.com/album/0YrX3XsiYYcA1b6SOf6BBK) | 3:07 |
 | 23 | [Boogie On Mars](https://open.spotify.com/track/76IqrOPl9yTySOoO5bMIFP) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Speed Racing](https://open.spotify.com/album/5T2WVHUjmEDmJIQxsKTE0g) | 6:41 |

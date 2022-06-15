@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Katy Nichole and Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,079 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,199 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [If You Say So \- Live](https://open.spotify.com/track/251zzXhK0mcBomiD20fqDR) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [IYSS](https://open.spotify.com/album/0Ovww8SRadlZkb1SmMZVJ8) | 4:04 |
 | 16 | [Send Me \- Live](https://open.spotify.com/track/6NPcafx19ITpIYAsvgruAL) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Faith in Our Time \(Live\)](https://open.spotify.com/album/0LCI9071sGnTwL9wtHtRbI) | 5:49 |
 | 17 | [Jesus The Healer \- Live](https://open.spotify.com/track/0s05p6SP1Y3M1xUo51qmaS) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Jesus The Healer \(Live\)](https://open.spotify.com/album/6naImSgwqgJuqxmpi9uUU3) | 11:25 |
-| 18 | [God Really Loves Us \- Austin City Limits Live](https://open.spotify.com/track/3BEUVya6R5IEnDtM3FaF8B) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Milk And Honey Tour \- Austin City Limits Live](https://open.spotify.com/album/6HzZ93nn9IYdKIZ3fkyfuQ) | 4:38 |
+| 18 | [God Really Loves Us \- Austin City Limits Live](https://open.spotify.com/track/3BEUVya6R5IEnDtM3FaF8B) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Milk & Honey Tour \- Austin City Limits Live](https://open.spotify.com/album/6HzZ93nn9IYdKIZ3fkyfuQ) | 4:38 |
 | 19 | [Awaken Us](https://open.spotify.com/track/3sideyX6QtKxrgxl8TTy4R) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Bernie Ditima](https://open.spotify.com/artist/0ywWxJHXaBX2YxHSHEgI8P) | [Awaken Us](https://open.spotify.com/album/56OhgPuq0nVX1QPKZZfKYK) | 3:32 |
 | 20 | [The Mighty Chorus](https://open.spotify.com/track/1duSxsNsp98n26UHeSVZ8U) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [The Mighty Chorus](https://open.spotify.com/album/3ZXon8g3AFAKyVl3YevMNy) | 4:51 |
 | 21 | [If The Lord Builds The House](https://open.spotify.com/track/1gHEMTscQ1XBevcJsmcMNV) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/3DnbvxLXCsgPs4nUl2mxs9) | 3:55 |

@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 210706,
       "name": "Gotta Get Back to Love",
       "url": "https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE"
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG"
+      },
+      "artists": [
+        {
+          "name": "Pages",
+          "url": "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "If I Saw You Again",
+      "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
+    },
+    {
+      "album": {
         "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
       },
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 326613,
       "name": "Lazy Nina",
       "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 199253,
       "name": "Nothin' But a Heartache",
       "url": "https://open.spotify.com/track/0AkhjjsrpxfKToGjTTYB5A"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 317240,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/0gZipIAthUggJMMJZAH5tv"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 295160,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Trouble in Paradise",
       "url": "https://open.spotify.com/track/3b9SxtCRgPFPtIGpv1qQ1t"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"

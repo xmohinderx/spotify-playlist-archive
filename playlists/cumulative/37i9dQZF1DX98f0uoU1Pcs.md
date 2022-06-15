@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Amyl & the Sniffers
 
-211 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+212 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Fake Friends](https://open.spotify.com/track/5K8gMQd5drKhBK2nLr9DqZ) | [Tom Lumley & the Brave Liaison](https://open.spotify.com/artist/5t6sNqReVYRyKIL0M1VqzT) | [Fake Friends](https://open.spotify.com/album/5BxxFfPozthI7c79nna6Hx) | 3:22 | 2021-10-07 |  |
 | [Fantasising](https://open.spotify.com/track/61ZogLQgpqUfG9eZEUryhA) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Fantasising](https://open.spotify.com/album/3JdeO7RHFiBjqXc0men3W6) | 3:26 | 2021-10-07 | 2022-01-08 |
 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 | 2022-01-07 |  |
+| [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 | 2022-06-14 |  |
 | [four days](https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po) | [Brandon Jack & The Artifacts](https://open.spotify.com/artist/4e7XSqMThH4O5gW0QTEV5r) | [four days](https://open.spotify.com/album/7y4oX1oppmiZjaNT16MLBb) | 2:10 | 2021-10-07 | 2022-04-29 |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-10-07 | 2022-03-12 |
 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 | 2022-01-07 |  |
@@ -128,7 +129,7 @@
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2021-10-29 | 2022-01-08 |
 | [Mad About You](https://open.spotify.com/track/0g8BCsHFlRty3KnX4GEyJZ) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:26 | 2022-04-01 |  |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 |  |
-| [Matilda](https://open.spotify.com/track/0Zkmfw2BDhqY5n2dP8hZAI) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Matilda](https://open.spotify.com/album/21e01B6u3KVo6l2LOFnZxC) | 3:51 | 2022-03-11 |  |
+| [Matilda](https://open.spotify.com/track/0Zkmfw2BDhqY5n2dP8hZAI) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Matilda](https://open.spotify.com/album/21e01B6u3KVo6l2LOFnZxC) | 3:51 | 2022-03-11 | 2022-06-15 |
 | [Matilda](https://open.spotify.com/track/2OH3Yc4xqr76ld5Xnjzd3v) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:51 | 2022-04-01 |  |
 | [Medicine](https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 4:14 | 2022-01-18 | 2022-04-29 |
 | [Metaphor](https://open.spotify.com/track/1PK5qU40CnH8RKrudFyo6t) | [Mt\. Eddy](https://open.spotify.com/artist/5gtaNT5WUXaEQsD0wyCKiq) | [Metaphor](https://open.spotify.com/album/78JxJZ9mOOUKyWPeXhGDE3) | 3:31 | 2021-10-07 | 2022-02-12 |

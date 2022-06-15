@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,900 likes - 83 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,953 likes - 83 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 23 | [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 |
 | 24 | [Zindagi](https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Zindagi](https://open.spotify.com/album/2I1WtJkNisBQFcWWNrGRLN) | 2:35 |
 | 25 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 |
-| 26 | [Mere Peera](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Mere Peera](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 |
+| 26 | [Mere Peera \- From "Kokka"](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Sandeep Saxena](https://open.spotify.com/artist/6wFgebKzhtHkquXd3DAInj) | [Mere Peera \(From "Kokka"\)](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 |
 | 27 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 |
 | 28 | [Heer Wargiye \- From: "Mahi Mera Nikka Jeha"](https://open.spotify.com/track/2z8jSGOE1jJnIMCwfZokIQ) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Heer Wargiye \(From: "Mahi Mera Nikka Jeha"\)](https://open.spotify.com/album/0PAOlllD67WewZcD27JmBg) | 3:25 |
 | 29 | [DARDA DI DOSE](https://open.spotify.com/track/77PCdb5SjE2CEHP9JKWuP6) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [DARDA DI DOSE](https://open.spotify.com/album/5EsDaLxmdFpzywBC1Ka8h1) | 2:35 |

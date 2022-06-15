@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "Lipe",
+        "url": "https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN"
+      },
+      "artists": [
+        {
+          "name": "Lipe",
+          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161784,
+      "name": "A\u00e7a\u00ed",
+      "url": "https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS"
+    },
+    {
+      "album": {
         "name": "Brigas",
         "url": "https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH"
       },
@@ -367,6 +385,24 @@
       "duration_ms": 201857,
       "name": "Casal 171",
       "url": "https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO"
+    },
+    {
+      "album": {
+        "name": "Casal Maior",
+        "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
+      },
+      "artists": [
+        {
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Casal Maior",
+      "url": "https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH"
     },
     {
       "album": {
@@ -641,7 +677,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 194086,
       "name": "Ela Partiu",
       "url": "https://open.spotify.com/track/4eVzIeyi9HMmUfW6ZhJpPj"
@@ -748,6 +784,28 @@
     },
     {
       "album": {
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
+    },
+    {
+      "album": {
         "name": "Falando Dela 2",
         "url": "https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF"
       },
@@ -789,7 +847,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 142996,
       "name": "Fora da Lei",
       "url": "https://open.spotify.com/track/0TzcOzVP177f5DTz2eRxvV"
@@ -1631,7 +1689,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 192000,
       "name": "Quanta Riqueza",
       "url": "https://open.spotify.com/track/5ducepktoljPO994NZQDGJ"

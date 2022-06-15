@@ -9432,7 +9432,7 @@
     },
     {
       "album": {
-        "name": "Mediterranean",
+        "name": "MEDITERRANEAN",
         "url": "https://open.spotify.com/album/6zKMZiFmgQC6GKiLMFtuyY"
       },
       "artists": [
@@ -10607,7 +10607,7 @@
       ],
       "date_added": "2021-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 196271,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7"
@@ -11853,7 +11853,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 233007,
       "name": "Pes Tou - Remix",
       "url": "https://open.spotify.com/track/3yYiWonAKTa1W0cYlEPjRj"
@@ -12563,7 +12563,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 182033,
       "name": "Pyrkagia",
       "url": "https://open.spotify.com/track/5rHMm3EnBfYhenxew4FzEn"
@@ -14577,6 +14577,24 @@
       "duration_ms": 194165,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/0wsiImL75CS0bai0deZufP"
+    },
+    {
+      "album": {
+        "name": "Tetradima",
+        "url": "https://open.spotify.com/album/3vPtMgOKM7c7FbjoMESHvc"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tetradima",
+      "url": "https://open.spotify.com/track/1Jj52gWq2sZ5tnqZwFCFId"
     },
     {
       "album": {

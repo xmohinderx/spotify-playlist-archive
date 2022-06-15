@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Tyler Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,844 likes - 149 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,029 likes - 149 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

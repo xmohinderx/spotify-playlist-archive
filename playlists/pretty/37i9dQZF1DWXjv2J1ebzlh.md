@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,071 likes - 760 songs - 2 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,116 likes - 760 songs - 2 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -317,7 +317,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 307 | [Hotline Bling](https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN) | 3:23 |
 | 308 | [Dou Coula](https://open.spotify.com/track/5ofN2feIdOF6D7bMb9fP07) | [Arat Kilo](https://open.spotify.com/artist/0QgLLqX1bVlbkMxHKCy47t), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Mike Ladd](https://open.spotify.com/artist/19rdse7ewbuvNcCSb4hg0n) | [Visions of Selam](https://open.spotify.com/album/0NxvwurJBHWEItB8lOScqf) | 4:43 |
 | 309 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
-| 310 | [Xangô](https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f) | [Magalhães e sua Guitarra](https://open.spotify.com/artist/0gbErAnyXCDqoXk9B6VQGH) | [Jambú \- e os míticos sons da amazônia](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:23 |
+| 310 | [Xangô](https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f) | [Magalhães e sua Guitarra](https://open.spotify.com/artist/0gbErAnyXCDqoXk9B6VQGH) | [Jambú \- e os míticos sons da amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:23 |
 | 311 | [Zühtü](https://open.spotify.com/track/2CJ4PxGqDZEeKtR5EPviTQ) | [Esin Afşar](https://open.spotify.com/artist/4ATXCu84e0P0q5QLzkMsaT) | [Odeon Yılları](https://open.spotify.com/album/6f4LoW8m5NkVOKVWVC4AqC) | 3:33 |
 | 312 | [Gladys](https://open.spotify.com/track/3prb4Gpdj8lQ8Q3MvxuO2N) | [Raul Ruiz y Su Orquesta](https://open.spotify.com/artist/41KO0ATVvKhjYeynEQDq2V) | [Cumbias y Gaitas](https://open.spotify.com/album/29iM1vUqWhstRxwlwYkrZF) | 2:17 |
 | 313 | [Djal Bai Si Camin](https://open.spotify.com/track/68mOFQIOQhT0Lq8p6GyiOX) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | ["Space Echo" \- The mystery behind the "Cosmic Sound” of Cabo Verde finally revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt) | 7:20 |
@@ -718,7 +718,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 708 | [Only You](https://open.spotify.com/track/69ZGaXg5BV9HRxOgexbu6N) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2HrTsqwGyIXPvEAfZAwSYE) | 6:21 |
 | 709 | [Mentira \(Chega de Mentira\) \- 1997 \- Remaster](https://open.spotify.com/track/77HzIXW2zNcvUorS2mjD4F) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4ImxGG8xS02v2blikjdFVU) | 3:43 |
 | 710 | [Falador Passa Mal](https://open.spotify.com/track/0KoRO4U0s4JosuakEbnGkx) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Mr Bongo Presents Ginga: The Sound of Brazilian Football \(Special Edition\)](https://open.spotify.com/album/0qt8FbLg9Cp5Mech8080d0) | 3:09 |
-| 711 | [Vamos Farrear](https://open.spotify.com/track/3p948LSz78BhUQx6SWoCwO) | [Pinduca](https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN) | [Jambú \- e os míticos sons da amazônia](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:07 |
+| 711 | [Vamos Farrear](https://open.spotify.com/track/3p948LSz78BhUQx6SWoCwO) | [Pinduca](https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN) | [Jambú \- e os míticos sons da amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:07 |
 | 712 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/79UEK0XYemip32SdLdAegB) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping us Now & Chapter Three](https://open.spotify.com/album/4JDARvfHaSYTE5mUBxDIgH) | 6:11 |
 | 713 | [Homenaje a Justino](https://open.spotify.com/track/2TsPMpSWoqT5sfOaDAyqI2) | [Grupo Socavon](https://open.spotify.com/artist/68Xy7E0iR0xRCq2uAk6UyG) | [Pacifico Colombiano](https://open.spotify.com/album/6z5RhaZNJQfUgdKj0JOCH7) | 5:31 |
 | 714 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 |

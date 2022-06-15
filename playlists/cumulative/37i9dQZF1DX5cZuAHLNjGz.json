@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 212593,
       "name": "Jhanjra",
       "url": "https://open.spotify.com/track/17YnD2vTglJNglWvHq9S3E"
@@ -1539,6 +1539,28 @@
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280464,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf"
     },
     {
       "album": {

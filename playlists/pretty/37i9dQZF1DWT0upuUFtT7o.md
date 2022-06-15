@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Ray Laurél Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,238 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,308 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 36 | [d e e p e r](https://open.spotify.com/track/2nG3GpzBnzwIjd7ahxatje) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [d e e p e r](https://open.spotify.com/album/5QuYd1kH5AZPIFOxXiv2G2) | 2:10 |
 | 37 | [Hysterical](https://open.spotify.com/track/7sm3rjniGkoRTKzLlIakj6) | [Pet Owner](https://open.spotify.com/artist/2MAWOCGirMzh0HfAuhDESM) | [Hysterical](https://open.spotify.com/album/0ZF5rf7yA51sHwW4OhenYB) | 3:31 |
 | 38 | [Waste My Time](https://open.spotify.com/track/0TcRSTkWvD32LHSjB0Jomh) | [Young Robin](https://open.spotify.com/artist/4BnkPeqmiggfIeutldNqSC) | [Waste My Time](https://open.spotify.com/album/3MstlI0rdss4LIx4yACWFw) | 3:23 |
-| 39 | [Attic](https://open.spotify.com/track/1qgkomqfEcEKfTGvGG2jjp) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Eileen](https://open.spotify.com/artist/0qCEvDTgdOkc8s3QQrk4OO) | [Attic](https://open.spotify.com/album/1HPhz8Vf4wNUI9k8qz6Fgd) | 2:06 |
+| 39 | [Attic](https://open.spotify.com/track/1qgkomqfEcEKfTGvGG2jjp) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Eileen](https://open.spotify.com/artist/0twcXK8RVcSgMQCG4zHFVV) | [Attic](https://open.spotify.com/album/1HPhz8Vf4wNUI9k8qz6Fgd) | 2:06 |
 | 40 | [I can't remember](https://open.spotify.com/track/1q1C5tH1Q4vUG2k9bxcnHI) | [Surely Tempo](https://open.spotify.com/artist/70zssbn2dycY2RzSGLbWGQ) | [I can't remember](https://open.spotify.com/album/26Bn50yU2TnMVyTGca1lqs) | 3:21 |
 | 41 | [FUNNYBONE](https://open.spotify.com/track/2rCRLB1BTnCXxQ7swcBI77) | [Jonmarco](https://open.spotify.com/artist/2uuT5yM6u298Or1PtkA352) | [FUNNYBONE](https://open.spotify.com/album/4pOCcYZPnd3pR9khuUpz5I) | 1:53 |
 | 42 | [Young](https://open.spotify.com/track/5z9FlgXd2x7NmA1GaY8pRO) | [Zane Christopher](https://open.spotify.com/artist/5t7X0KKC2n77pVDojNqmOr) | [Young](https://open.spotify.com/album/34LZLqNywLhqtNrquY9wLL) | 3:09 |

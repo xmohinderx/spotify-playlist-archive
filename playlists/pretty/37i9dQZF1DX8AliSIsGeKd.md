@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,087 likes - 75 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,484 likes - 75 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 36 | [Rave The Planet](https://open.spotify.com/track/3w5ugWaYMy17jjyUXNA7yq) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Rave the Planet: Supporter Series, Vol\. 009](https://open.spotify.com/album/6grK3BlB8R5rUPQ4027YH8) | 6:47 |
 | 37 | [In Between](https://open.spotify.com/track/0dbs5ekoC9Ajn4kCnj6N8p) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP), [FiveP](https://open.spotify.com/artist/4coqV2wMpLpeacmVtNcn9d) | [In Between](https://open.spotify.com/album/6nXScUVx9vvWzNxwBfkiNM) | 7:22 |
 | 38 | [Black Gravity](https://open.spotify.com/track/4b1fewh792yrZz0SvwE8Zq) | [Marcus Meinhardt](https://open.spotify.com/artist/4yVEkQ8vCUQtJFRioN4Zhj) | [Black Gravity](https://open.spotify.com/album/51IS35faOEcOaL70NJ4Yh8) | 6:56 |
-| 39 | [Can't Get Enough \- Adana Twins Remix](https://open.spotify.com/track/29VipegmQnhct0sTsOlt0z) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Can't Get Enough \(Adana Twins Remix\)](https://open.spotify.com/album/3zdJMqtLlJ2vcUEcH0debe) | 7:17 |
+| 39 | [Can't Get Enough \- Adana Twins Remix](https://open.spotify.com/track/29VipegmQnhct0sTsOlt0z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Can't Get Enough \(Adana Twins Remix\)](https://open.spotify.com/album/3zdJMqtLlJ2vcUEcH0debe) | 7:17 |
 | 40 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 |
 | 41 | [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 |
 | 42 | [Cascada](https://open.spotify.com/track/5M5Lwtcha7fE8UQwSzIhjS) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Cascada](https://open.spotify.com/album/3pp75bcu0VJzigYnGfqcZd) | 4:38 |

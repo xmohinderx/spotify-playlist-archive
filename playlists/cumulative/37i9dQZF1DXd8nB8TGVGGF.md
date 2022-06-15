@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-112 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+113 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Drifting Cloud](https://open.spotify.com/track/6MdE6X7xZAXXoXT9zY2eq1) | [Drifting Charles](https://open.spotify.com/artist/4kSYeEinu0WrEnL76FFzm3) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:54 | 2022-05-25 |  |
 | [Drivin' Blues \- Remastered](https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Frijid Pink \(Digitially Remastered\)](https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI) | 3:48 | 2022-05-25 |  |
 | [Early One Morning](https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 | 2022-05-25 |  |
+| [Feeli' Good](https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Abc of the Blues, Vol\. 36](https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg) | 2:58 | 2022-06-14 |  |
 | [First Time I Met The Blues \- Single Version](https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 2:18 | 2022-05-25 |  |
 | [Frosty \- Single Version](https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 3:05 | 2022-05-25 |  |
 | [Get Your Game Up Tight](https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:39 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Mz Worthy, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,160 likes - 96 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,182 likes - 96 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

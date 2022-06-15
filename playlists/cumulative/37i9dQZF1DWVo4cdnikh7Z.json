@@ -1550,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "Saanjikkava (From \"Kaari\")",
+        "url": "https://open.spotify.com/album/4OCpQzSXbW1G754tPR6Qd3"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245785,
+      "name": "Saanjikkava (From \"Kaari\")",
+      "url": "https://open.spotify.com/track/2jWyHwbUrcQ3UPf5CP9jlU"
+    },
+    {
+      "album": {
         "name": "Hey Sinamika (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/795CsjbaThg7WtquBawr8H"
       },
@@ -1671,7 +1693,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 226584,
       "name": "Summa Surrunu",
       "url": "https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz"
@@ -1931,6 +1953,28 @@
       "duration_ms": 258437,
       "name": "Vaadi Vaasal - From \"The Legend\"",
       "url": "https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt"
+    },
+    {
+      "album": {
+        "name": "Vaanam Yaavum (From \"O2\")",
+        "url": "https://open.spotify.com/album/2XsZDaYTkcWTNtTfd84dl2"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249109,
+      "name": "Vaanam Yaavum - From \"O2\"",
+      "url": "https://open.spotify.com/track/40o6wn39Qx2jD933WT1RAg"
     },
     {
       "album": {

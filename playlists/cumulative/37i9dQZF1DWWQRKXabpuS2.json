@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "3Ashan Tkoon Belsorah",
+        "url": "https://open.spotify.com/album/4giImzhcoUvVtzddBsBIUD"
+      },
+      "artists": [
+        {
+          "name": "Essam Kamal",
+          "url": "https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314050,
+      "name": "3Ashan Tkoon Belsorah",
+      "url": "https://open.spotify.com/track/4V0m0Mm58oDkPLBghkAD7F"
+    },
+    {
+      "album": {
         "name": "6air Elma7abba",
         "url": "https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 259191,
       "name": "Al Sourah",
       "url": "https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 198882,
       "name": "lo Hobek",
       "url": "https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 195483,
       "name": "Sanhat Al Batal",
       "url": "https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s"

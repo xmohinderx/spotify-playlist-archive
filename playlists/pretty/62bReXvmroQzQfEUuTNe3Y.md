@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 877,697 likes - 100 songs - 5 hr 24 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 879,948 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 6 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 7 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 | 8 | [Howling](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Howling](https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG) | 3:07 |
-| 9 | [Stare into Your Eyes](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [Stare into Your Eyes](https://open.spotify.com/album/2JLeW8AI1qRmPqOOGUwVli) | 2:21 |
+| 9 | [Stare Into Your Eyes](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [Stare Into Your Eyes](https://open.spotify.com/album/2JLeW8AI1qRmPqOOGUwVli) | 2:21 |
 | 10 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 |
 | 11 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 |
 | 12 | [Tell Me](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [Tell Me](https://open.spotify.com/album/1fvT2czFpSKSeEYl99ImF9) | 3:36 |

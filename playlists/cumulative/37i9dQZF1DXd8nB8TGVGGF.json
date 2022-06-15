@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Abc of the Blues, Vol. 36",
+        "url": "https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178755,
+      "name": "Feeli' Good",
+      "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
+    },
+    {
+      "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },

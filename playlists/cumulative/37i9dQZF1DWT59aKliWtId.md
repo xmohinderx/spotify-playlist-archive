@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Jack White
 
-328 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+329 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2022-05-20 |  |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-22 | 2022-05-20 |
 | [Fever \- Edit](https://open.spotify.com/track/0raqMVW55oQnMJyVcHcrzh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Fever](https://open.spotify.com/album/2gZMfuQFFyt9OIzCRzzHEr) | 3:36 | 2022-03-11 | 2022-04-16 |
+| [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-14 |  |
 | [Flowers](https://open.spotify.com/track/4hv63SoULMZVYynykK6Wv0) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Flowers](https://open.spotify.com/album/1rjZKkFIFk1CsDKBeB0764) | 3:38 | 2022-06-10 |  |
 | [Forever in Sunset](https://open.spotify.com/track/12BRuJGvSrjoVDfeBIpO1M) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Forever in Sunset](https://open.spotify.com/album/0MRtuttU8Z8Pk7W0apeKP2) | 4:22 | 2022-05-13 |  |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2022-02-25 |  |

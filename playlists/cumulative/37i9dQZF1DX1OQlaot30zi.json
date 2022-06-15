@@ -2651,10 +2651,6 @@
           "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
         },
         {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
           "name": "Lazza",
           "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
@@ -2831,6 +2827,28 @@
       "duration_ms": 137782,
       "name": "L'ORGIA DI M.G. (feat. Dargen D'Amico)",
       "url": "https://open.spotify.com/track/19wovENEcugutVlegaHHfc"
+    },
+    {
+      "album": {
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "album": {
@@ -5451,7 +5469,7 @@
       },
       "artists": [
         {
-          "name": "Kaos!",
+          "name": "Kaos",
           "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
         }
       ],

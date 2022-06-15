@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-885 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+886 songs - 2 day 1 hr 21 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-04-30 | 2022-05-06 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-15 | 2022-05-22 |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-03 |
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 | 2021-04-18 | 2021-04-19 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-01-08 |
@@ -829,7 +830,7 @@
 | [Vettä kaivoon \(feat\. Keko Salata\)](https://open.spotify.com/track/1K0n5SZABSl7kdTPxZh8Gj) | [Aurora](https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0), [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Vettä kaivoon \(feat\. Keko Salata\)](https://open.spotify.com/album/5hSCHKSYM2IAesgi1Y8cpj) | 3:21 | 2021-04-26 | 2021-05-25 |
 | [Vihaton](https://open.spotify.com/track/2LkKksK60ofXNd0hIDuQa3) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Vihaton](https://open.spotify.com/album/48fyJ6Cm5ZYXNXy8JWE4R9) | 3:34 | 2022-05-07 | 2022-05-13 |
 | [Vihje](https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW) | [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Vihje](https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS) | 3:30 | 2022-01-01 | 2022-02-15 |
-| [Viikonloppu](https://open.spotify.com/track/2uK2ecojfgD1HjSveRgie4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Amatimies / Viikonloppu](https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS) | 2:13 | 2022-04-30 |  |
+| [Viikonloppu](https://open.spotify.com/track/2uK2ecojfgD1HjSveRgie4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Amatimies / Viikonloppu](https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS) | 2:13 | 2022-04-30 | 2022-06-15 |
 | [Viimeinen elämä](https://open.spotify.com/track/58jzypdgOigf2kXXDzsen0) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Viimeinen elämä](https://open.spotify.com/album/2gZxt8ftyAU9MJz4AZjdfg) | 3:20 | 2021-03-27\* | 2021-04-02 |
 | [Viimeiset romantikot](https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:16 | 2021-09-26 | 2021-09-27 |
 | [Viimeistä kertaa](https://open.spotify.com/track/6j7ntlEnyTEiO5p3NgKcXy) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Parisuhdehautausmaa](https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE) | 3:31 | 2022-03-12 | 2022-04-17 |

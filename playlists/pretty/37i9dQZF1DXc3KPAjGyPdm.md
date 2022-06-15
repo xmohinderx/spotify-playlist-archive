@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,781 likes - 182 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,481 likes - 182 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 15 | [Tarzan Boy](https://open.spotify.com/track/2FIzb9lZDUo2PWX4U4TSWZ) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:49 |
 | 16 | [Dream a Little Dream of Me](https://open.spotify.com/track/1LqHJtbJ7TLxer59vF25Hc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:06 |
 | 17 | [In Transit to Bermuda](https://open.spotify.com/track/21NipBIcS2PhxHwBPauGCw) | [Dorian Zero](https://open.spotify.com/artist/0ObztW0DmBT3xKrctHY3N3) | [In Transit to Bermuda](https://open.spotify.com/album/3mxDsZ0mT8filFQoadnkRQ) | 3:22 |
-| 18 | [Into Hell](https://open.spotify.com/track/6aLzFJ47h8xvOONE6xcX47) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Brigador \(Volume II\)](https://open.spotify.com/album/7bPwLkab9rKFDfDxl1GcMT) | 6:48 |
+| 18 | [Sentinels](https://open.spotify.com/track/3E4XQO8bKIToXTejc8LFGb) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Sentinels](https://open.spotify.com/album/32ywMGWzAyULcYnvYkfmkC) | 5:21 |
 | 19 | [Got Your Number](https://open.spotify.com/track/5PD49jBpJNs9lGk9Bn9zll) | [The Lloyd Langton Group](https://open.spotify.com/artist/1TmoiS0yjPl2CLrQjzSYj2) | [Night Air](https://open.spotify.com/album/4WSzQR3Z2ulVnaEsCEG6YU) | 3:34 |
 | 20 | [Fever](https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 4:19 |
 | 21 | [Diamonds and Emeralds](https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M) | [The Interior Castle](https://open.spotify.com/artist/2m66QeGFylLKqDKSFFqqWA) | [Diamonds and Emeralds](https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS) | 2:53 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 181 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 182 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MTY1NTE2OTkyNSwwMDAwMDAwMDE3MzY4MWM2YzI3MTQzZjA2YWMyMWM4OWQ0NjQxNGRk`
+Snapshot ID: `MTY1NTI1NTk0MSwwMDAwMDAwMDBmNDFlYTc1NThkNDA4YThlZTg3ZDMwOTM5MjRkNDRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Halsey, BTS, SZA, Lizzo, Pharrell, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,914,280 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,914,366 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 57 | [JUGG](https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [JUGG](https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA) | 2:47 |
 | 58 | [Riot](https://open.spotify.com/track/1cnhCYf4m2moDg9SnABIOs) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Riot](https://open.spotify.com/album/7glR8qsTx6uTCheooEyubi) | 1:48 |
-| 59 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:09 |
+| 59 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 60 | [Let's Live](https://open.spotify.com/track/2zFRk9qTiYjc5ZVJ1dBC9j) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Let's Live](https://open.spotify.com/album/7HrIp1Z5u17ZT2m3q1JW82) | 3:38 |
 | 61 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 |
 | 62 | [Drive](https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Drive](https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa) | 2:25 |

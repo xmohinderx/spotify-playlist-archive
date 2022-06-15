@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tierry, L7NNON, Teto e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,045 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,222 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 34 | [Always Will](https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Always Will](https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq) | 3:27 |
 | 35 | [Close To Me](https://open.spotify.com/track/1HwbMf4EI01RVOqa8URjjQ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Close To Me](https://open.spotify.com/album/2AsNzZXd7lz4VFkKWxfbyJ) | 2:27 |
 | 36 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 |
-| 37 | [D O W N](https://open.spotify.com/track/4aH0d22dEDKl1gtMw8hD87) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [HUB](https://open.spotify.com/artist/4ZlMbiL989f5OQUcneIRik) | [D O W N](https://open.spotify.com/album/21lQ6MDu8yBSiMZ7JhVVnU) | 2:59 |
+| 37 | [D O W N](https://open.spotify.com/track/4aH0d22dEDKl1gtMw8hD87) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [HUB](https://open.spotify.com/artist/7H9dGLuPyrM6jHaI4KDLjZ) | [D O W N](https://open.spotify.com/album/21lQ6MDu8yBSiMZ7JhVVnU) | 2:59 |
 | 38 | [2 Cordões](https://open.spotify.com/track/5LCqgzxRZc73VXObHCddwe) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [2 Cordões](https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW) | 3:19 |
 | 39 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 |
 | 40 | [O Plano \- Ao Vivo](https://open.spotify.com/track/0kM5EgXYfMir2pXHwnlfiV) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [O Plano \(Ao Vivo\)](https://open.spotify.com/album/7HyLMHbqJ2ahhh2q10ED5g) | 2:02 |

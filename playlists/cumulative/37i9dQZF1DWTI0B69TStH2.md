@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: The Party Is Over \| Playlista odświeżana w każdy wtorek.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sabina Szewczyk \| Playlista odświeżana w każdy wtorek.
 
 153 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
 

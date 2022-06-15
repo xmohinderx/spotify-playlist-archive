@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 173095,
       "name": "Demoni",
       "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 200347,
       "name": "Forse Dio",
       "url": "https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n"
@@ -797,6 +797,24 @@
       "duration_ms": 185142,
       "name": "HAPPILY EVER AFTER",
       "url": "https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm"
+    },
+    {
+      "album": {
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "album": {
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 161870,
       "name": "minuti che vivi",
       "url": "https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 149600,
       "name": "OPPOSTI",
       "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Orgia",
       "url": "https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 163392,
       "name": "Punti di vista",
       "url": "https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 161142,
       "name": "SadBoy",
       "url": "https://open.spotify.com/track/2DmvxboSu3mTzH3EAuH4Qb"

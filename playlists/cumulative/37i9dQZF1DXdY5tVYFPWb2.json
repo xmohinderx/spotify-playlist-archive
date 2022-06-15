@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 257276,
       "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 272233,
       "name": "A. me too",
       "url": "https://open.spotify.com/track/29LFzfre93VpcGjj3BGvu3"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 264466,
       "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm"
@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "The Reverb 2022 OMEGA TRIBE -VAP Edition-",
+        "url": "https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY"
+      },
+      "artists": [
+        {
+          "name": "1986 Omega Tribe",
+          "url": "https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252293,
+      "name": "Cosmic Love (2021 Remix)",
+      "url": "https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU"
+    },
+    {
+      "album": {
         "name": "Cry Now feat. Chiaki Sato",
         "url": "https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4"
       },
@@ -305,10 +323,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 252662,
       "name": "Cry Now feat. Chiaki Sato",
       "url": "https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r"
+    },
+    {
+      "album": {
+        "name": "Day In Day Out",
+        "url": "https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5"
+      },
+      "artists": [
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Day In Day Out",
+      "url": "https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB"
     },
     {
       "album": {
@@ -341,7 +377,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
@@ -443,7 +479,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 203538,
       "name": "FLACTAL",
       "url": "https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5"
@@ -461,7 +497,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 227215,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2EiA587apVmlS9wbch4vti"
@@ -595,7 +631,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 241668,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/2Vkk9kZOqdbHlA6bIXBQzV"
@@ -781,7 +817,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 235700,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -941,7 +977,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
@@ -1006,6 +1042,28 @@
     },
     {
       "album": {
+        "name": "TWILIGHT TIME",
+        "url": "https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu"
+      },
+      "artists": [
+        {
+          "name": "monolog",
+          "url": "https://open.spotify.com/artist/5WUI6RK8fhiAr4uglNc4mT"
+        },
+        {
+          "name": "AI ICHIKAWA",
+          "url": "https://open.spotify.com/artist/3yp4pLgo4tSDtD6pbJSPa1"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "PAPER DOLL",
+      "url": "https://open.spotify.com/track/56k3tbMWCkxVIA71a7ozF2"
+    },
+    {
+      "album": {
         "name": "Tokyo State Of Mind",
         "url": "https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ"
       },
@@ -1021,7 +1079,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 189773,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi"
@@ -1039,7 +1097,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 187606,
       "name": "Playback",
       "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
@@ -1057,7 +1115,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -1133,7 +1191,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 287569,
       "name": "SANDIE",
       "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
@@ -1169,7 +1227,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 269103,
       "name": "Smoking Time",
       "url": "https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6"
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/18AY2i3WVZFIHGl6JG4xKa"
@@ -1375,7 +1433,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 243000,
       "name": "Time",
       "url": "https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu"
@@ -1459,7 +1517,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -1499,7 +1557,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 303673,
       "name": "\u3044\u3064\u304b - SOMEDAY (feat. tonun) - 45s Edit",
       "url": "https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag"
@@ -1623,6 +1681,42 @@
       "duration_ms": 205478,
       "name": "\u308f\u305f\u3057\u306eLife",
       "url": "https://open.spotify.com/track/3aFQiQbnIL9upNOOKc54tN"
+    },
+    {
+      "album": {
+        "name": "TWILIGHT TIME",
+        "url": "https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u5341\u4e09\u5341\u4e00",
+          "url": "https://open.spotify.com/artist/5ptoBKPrq0IyqJIwGIqeoj"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "\u30a2\u30af\u30a2\u30de\u30ea\u30f3\u306e\u307e\u307e\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/2focTz9H7oUP8oV9aCdJbE"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30c1\u30b0\u30e9\u30e0",
+        "url": "https://open.spotify.com/album/1dRegPKacLDyOBiVJqCT0r"
+      },
+      "artists": [
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271938,
+      "name": "\u30a4\u30c1\u30b0\u30e9\u30e0",
+      "url": "https://open.spotify.com/track/1j5tPvuwXJ9hPVlJNiBBxS"
     },
     {
       "album": {
@@ -1811,7 +1905,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 204237,
       "name": "\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx"
@@ -1945,7 +2039,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 251741,
       "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
       "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
@@ -1963,7 +2057,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"
@@ -2003,10 +2097,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
+    },
+    {
+      "album": {
+        "name": "TWILIGHT TIME",
+        "url": "https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328226,
+      "name": "\u604b\u306f\u6d41\u661f Part \u2161",
+      "url": "https://open.spotify.com/track/7ENEQQY8yvG7zseEkiS9Rg"
     },
     {
       "album": {
@@ -2181,7 +2293,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 300428,
       "name": "\u6f6e\u9a12(feat. \u5800\u8fbc\u6cf0\u884c)",
       "url": "https://open.spotify.com/track/2IG4w90GCE7P5w5Bu4kyY7"
@@ -2337,7 +2449,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 277598,
       "name": "\u90fd\u4f1a\u306e\u68ee",
       "url": "https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3"
@@ -2366,6 +2478,24 @@
     },
     {
       "album": {
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267575,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"
+    },
+    {
+      "album": {
         "name": "\u9808\u81fe\u306e\u5cf6 feat. \u3077\u306b\u3077\u306b\u96fb\u6a5f",
         "url": "https://open.spotify.com/album/4171BuBCD86VDuavepuczQ"
       },
@@ -2381,7 +2511,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 302666,
       "name": "\u9808\u81fe\u306e\u5cf6 feat. \u3077\u306b\u3077\u306b\u96fb\u6a5f",
       "url": "https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj"

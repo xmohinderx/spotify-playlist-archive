@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with some cozy and romantic jazz.
 
-126 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+128 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,14 @@
 | [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 | 2022-04-07 |  |
 | [Asleep in Your Arms](https://open.spotify.com/track/5bEppYZOTIQJdaMzlj22oD) | [Nicole Liszt](https://open.spotify.com/artist/0QVlsTqltexiZ9srOHCPpy) | [Asleep in Your Arms](https://open.spotify.com/album/46MSWf8DryzZIMsAYHPD4h) | 3:51 | 2021-12-14 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-10 |  |
+| [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2021-12-14 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2021-12-14 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2H2rKP4bEBgT5Y7LMuIF3w) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:58 | 2021-12-14 |  |
 | [Blame It On The Sun](https://open.spotify.com/track/1PlFtAjJ0ZZIOPcIPNqkOh) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 6:46 | 2021-12-14 |  |
 | [Blue Moon](https://open.spotify.com/track/5qfEAELRtcWyKjaheHHWQb) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name, Vol\. 2](https://open.spotify.com/album/0PXtSUifcfNg45o3FOEg31) | 2:33 | 2022-02-10 |  |
 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2QmcrQHGk9WBGqw2kcKAmG) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/5A3mN3qTENiQkh0t0L2Rv4) | 3:12 | 2022-02-10 |  |
+| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 |  |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-12-14 |  |
 | [Cocktails for Two \- Remastered](https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Avant\-Garde Jazz \(Remastered\)](https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N) | 3:17 | 2022-01-26 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/4FRemWPuKnnEfy0sTEb1LQ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Embraceable You](https://open.spotify.com/album/2SGvc5XNCMqomh6WmLFuvW) | 2:09 | 2022-02-10 |  |
@@ -119,7 +121,7 @@
 | [This Is Always](https://open.spotify.com/track/3fBmnCqZDjKoPXRDv8Mm0P) | [Champian Fulton](https://open.spotify.com/artist/5urGxtsVyaytt3raSxNumC), [Fukushi Tainaka](https://open.spotify.com/artist/4kecaU5QMmXvaPqkyu016c), [Hide Tanaka](https://open.spotify.com/artist/3TPnfYtGbR7EEEQySaPOpU), [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Birdsong](https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q) | 5:32 | 2022-04-07 |  |
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-26 | 2022-06-01 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2021-12-14 |  |
-| [Toys In The Attic](https://open.spotify.com/track/3M0FjXzPd3fhxinI1SGgaG) | [Shirley Scott Trio](https://open.spotify.com/artist/66K4gRPXBnUincPVW35oUs) | [For Members Only](https://open.spotify.com/album/2opVsysbZxgeubko0KVpBZ) | 2:50 | 2022-01-26 |  |
+| [Toys In The Attic](https://open.spotify.com/track/3M0FjXzPd3fhxinI1SGgaG) | [Shirley Scott Trio](https://open.spotify.com/artist/66K4gRPXBnUincPVW35oUs) | [For Members Only](https://open.spotify.com/album/2opVsysbZxgeubko0KVpBZ) | 2:50 | 2022-01-26 | 2022-06-15 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2022-04-07 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2021-12-14 |  |

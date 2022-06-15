@@ -1938,6 +1938,32 @@
     },
     {
       "album": {
+        "name": "One more try",
+        "url": "https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197491,
+      "name": "One more try",
+      "url": "https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7AWCSwQp6Elc1JZKOsnpFU"
       },
