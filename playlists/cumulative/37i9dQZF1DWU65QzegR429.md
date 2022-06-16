@@ -2,7 +2,7 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Chicocurlyhead
+> Latin music making waves\. Cover: Jenn Morel
 
 107 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
 
@@ -46,7 +46,7 @@
 | [Experimento](https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Experimento](https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv) | 3:42 | 2022-02-18 | 2022-06-03 |
 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 | 2022-06-02 |  |
 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 | 2022-06-02 |  |
-| [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-06-02 | 2022-06-14 |
+| [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-06-02 |  |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-06-02 |  |
 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 | 2022-06-02 |  |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-06-02 |  |

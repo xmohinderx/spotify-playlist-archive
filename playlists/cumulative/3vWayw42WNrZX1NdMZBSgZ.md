@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Maluma &amp; Chencho Corleone
 
-220 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+221 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 | 2022-02-02 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-03-23 |  |
 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 | 2022-02-02 |  |
+| [Ride](https://open.spotify.com/track/1JWSvbotktLh1cftm1SyRc) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Ride](https://open.spotify.com/album/36yqcY0wmk7Z3RSPo7k452) | 4:03 | 2022-06-15 |  |
 | [Risueña](https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Risueña](https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx) | 3:31 | 2022-03-10 |  |
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-02-02 |  |
 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 | 2022-03-24 |  |

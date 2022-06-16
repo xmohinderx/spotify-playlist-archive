@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 183750,
       "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 204285,
       "name": "Complicated (feat. Ryan Caraveo)",
       "url": "https://open.spotify.com/track/7kFptinr4hVUFLETdKde8D"
@@ -4361,7 +4361,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 140624,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ZqWFsHj4g8eulvPaoWwk8"
@@ -5579,7 +5579,7 @@
       ],
       "date_added": "2021-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 126511,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
@@ -7973,7 +7973,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 137704,
       "name": "Sing It Back Again",
       "url": "https://open.spotify.com/track/3Q67uLNNnP3B2uYMe1uV5x"
@@ -8547,7 +8547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 158728,
       "name": "Stupid Feelings - Jonasu Remix",
       "url": "https://open.spotify.com/track/0agrpW5vGvWNziZwzPHwQ7"
@@ -8753,7 +8753,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 135874,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/0z6AYlkxOeV39NsttefSm0"
@@ -9503,7 +9503,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 238627,
       "name": "Unbreakable (feat. Clarence Coffee Jr.)",
       "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
@@ -10216,6 +10216,32 @@
     },
     {
       "album": {
+        "name": "Who's Holding You",
+        "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Dario Rodriguez",
+          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161478,
+      "name": "Who's Holding You",
+      "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
+    },
+    {
+      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/0zWvc1aeC3hsKjKYzP2m13"
       },
@@ -10297,7 +10323,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 210434,
       "name": "Winners Anthem",
       "url": "https://open.spotify.com/track/2kQvw0jH3JKKWVBccDPK9Y"

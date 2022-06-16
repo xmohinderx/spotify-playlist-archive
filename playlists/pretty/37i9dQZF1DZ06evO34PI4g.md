@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,160 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,480 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 22 | [Question!](https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:20 |
 | 23 | [Kill Rock 'n Roll](https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:27 |
 | 24 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 |
-| 25 | [Fuck the System](https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:12 |
+| 25 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 |
 | 26 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 27 | [Holy Mountains](https://open.spotify.com/track/4mj2UMyJTBTaO7pffAK29j) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 5:28 |
 | 28 | [Suggestions](https://open.spotify.com/track/7phMc88qiwpKzOAIiR3xIU) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:43 |
-| 29 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 |
+| 29 | [Fuck the System](https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:12 |
 | 30 | [Attack](https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 3:06 |
 | 31 | [Know](https://open.spotify.com/track/1ByE7lUw6wWMTbCb3woHdK) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:56 |
 | 32 | [Mr\. Jack](https://open.spotify.com/track/4TYI2YExAWaIOpGP4y7AbI) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 4:09 |
 
-Snapshot ID: `Mjc1ODcwMTQsMDAwMDAwMDAwZTQxZmQ4N2YzNTJjYzk2NGMxYzM3MmE1MmMwMDE0ZQ==`
+Snapshot ID: `Mjc1ODg0MjUsMDAwMDAwMDAyMGEyYTgyNjU2MGEyNjU3MDgyNDBlZmMxNWI0MmQ4OQ==`

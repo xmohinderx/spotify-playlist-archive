@@ -5580,6 +5580,24 @@
     },
     {
       "album": {
+        "name": "You Might Not Like Her",
+        "url": "https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "You Might Not Like Her",
+      "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"
+    },
+    {
+      "album": {
         "name": "You Ruined Nirvana",
         "url": "https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT"
       },

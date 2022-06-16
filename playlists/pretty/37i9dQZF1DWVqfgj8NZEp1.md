@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,382,455 likes - 151 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,632 likes - 151 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 150 | [For Wee Folks](https://open.spotify.com/track/0Uu93Y0BiC2h01Al6QpvWY) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4TaOCrT1cWbvKXq46fIMll) | 6:28 |
 | 151 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY1NTE5MzYyNSwwMDAwMDA5NzAwMDAwMTgxNjEzYTY1NDYwMDAwMDE2ZDAwY2EyYTc2`
+Snapshot ID: `MTY1NTI5NzMyNSwwMDAwMDA5ODAwMDAwMTgxNjc2OGJiYWMwMDAwMDE4MTY3Njg2Zjcy`

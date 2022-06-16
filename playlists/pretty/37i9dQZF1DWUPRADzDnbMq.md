@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,590 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,678 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

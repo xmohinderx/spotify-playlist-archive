@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Maybe it's punk, maybe it's not. Cover: Bob Vylan",
+  "description": "Maybe it's punk, maybe it's not. Cover: SLOE JACK",
   "name": "Punk Unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Finger My Heart",
+        "url": "https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Finger My Heart",
+      "url": "https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX"
+    },
+    {
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD"
       },
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 240710,
       "name": "GIRLKIND - Edit",
       "url": "https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5"
@@ -1206,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q"
+      },
+      "artists": [
+        {
+          "name": "Sinead O Brien",
+          "url": "https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275323,
+      "name": "Multitudes",
+      "url": "https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S"
+    },
+    {
+      "album": {
         "name": "My Mother Wants Me Dead",
         "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
       },
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 186146,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3"
@@ -1481,6 +1517,24 @@
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121724,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz"
     },
     {
       "album": {

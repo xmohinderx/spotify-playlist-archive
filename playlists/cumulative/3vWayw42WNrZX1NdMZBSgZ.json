@@ -3608,6 +3608,28 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/36yqcY0wmk7Z3RSPo7k452"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jean",
+          "url": "https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243021,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/1JWSvbotktLh1cftm1SyRc"
+    },
+    {
+      "album": {
         "name": "Risue\u00f1a",
         "url": "https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-495 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
+496 songs - 1 day 4 hr 47 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/album/7HRCvQbIY5cRkgCkSM0vO3) | 3:27 | 2021-12-28 | 2022-01-01 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-01 | 2021-08-23 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-24 | 2021-12-29 |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-06-15 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-08 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2022-01-20 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-13 | 2021-12-30 |
@@ -409,7 +410,7 @@
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-03-30 | 2021-07-11 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-14 | 2021-10-23 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-23 |
-| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 |  |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 | 2022-06-16 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-09 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-06-12 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-25 | 2021-12-27 |

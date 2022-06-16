@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: LF SYSTEM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,158 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,412 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
-| 2 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
+| 2 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 3 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 |
 | 4 | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU) | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53) | 2:13 |
 | 5 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |

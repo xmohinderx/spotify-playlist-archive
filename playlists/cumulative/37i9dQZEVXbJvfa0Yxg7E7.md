@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-692 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+693 songs - 1 day 12 hr 37 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-17 | 2021-08-31 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-04 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2021-11-21 |
-| [31 Etasje](https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [31 Etasje](https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy) | 2:37 | 2022-04-01 |  |
+| [31 Etasje](https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [31 Etasje](https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy) | 2:37 | 2022-04-01 | 2022-06-16 |
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 | 2022-05-07 | 2022-05-13 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-23 |
@@ -300,6 +300,7 @@
 | [Hæljetur](https://open.spotify.com/track/3TeeRufXk2BpyOxF5TmkY3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2lgD71SRyfJmX44XD7byQ9) | 2:25 | 2021-06-27 | 2021-08-25 |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-21 |  |
 | [Høyt over havet](https://open.spotify.com/track/6uD9bwAyCMeKmf5xr2WDRa) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Høyt over havet](https://open.spotify.com/album/4AsokQz7DYj1OZQYxdFTlg) | 2:55 | 2022-01-22 | 2022-02-27 |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-15 |  |
 | [I DID IT \(feat\. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby\)](https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 | 2021-05-03 | 2021-05-11 |
 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 | 2021-08-01 | 2021-08-06 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-28 |

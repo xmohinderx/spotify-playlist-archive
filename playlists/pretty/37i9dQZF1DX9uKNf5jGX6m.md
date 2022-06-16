@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,466 likes - 234 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,629 likes - 234 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

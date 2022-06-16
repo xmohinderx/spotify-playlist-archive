@@ -4,12 +4,13 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Fabio Asher
 
-51 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+52 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ajarkan Aku...](https://open.spotify.com/track/0oFODP50WO9IhPfZHZ99hs) | [Arvian Dwi](https://open.spotify.com/artist/0tB33cNAVw1H2enMHpgFiP) | [Ajarkan Aku...](https://open.spotify.com/album/171KeLh9GmyfZ2e5SToEZU) | 4:39 | 2022-05-25 |  |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Aku Bukan Jodohnya](https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5) | 4:04 | 2022-05-25 |  |
+| [Aku Hati Dan Perasaan](https://open.spotify.com/track/5ykBidUrVd66YcgAlssUrm) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Aku Hati Dan Perasaan](https://open.spotify.com/album/29k2VAQtaI7nVUey9Mz4PK) | 4:01 | 2022-06-15 |  |
 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 | 2022-05-25 |  |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-05-25 |  |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-05-25 |  |
@@ -25,7 +26,7 @@
 | [Harum Sundal Malam](https://open.spotify.com/track/5Y5A2d8zVU62bONx0pck5o) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Harum Sundal Malam](https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5) | 3:33 | 2022-05-25 |  |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 |  |
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-05-25 |  |
-| [Jangan Menangis Cinta](https://open.spotify.com/track/3k5nHyv6EjnH7eeIZQfuYL) | [Idayu](https://open.spotify.com/artist/0hhy1Konr63k6Xymi9FzfN) | [Jangan Menangis Cinta](https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll) | 4:21 | 2022-05-25 |  |
+| [Jangan Menangis Cinta](https://open.spotify.com/track/3k5nHyv6EjnH7eeIZQfuYL) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM) | [Jangan Menangis Cinta](https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll) | 4:21 | 2022-05-25 |  |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2022-05-25 |  |
 | [Kan](https://open.spotify.com/track/4VzJN0sd8jrJ4P2N6S17Dx) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Kan](https://open.spotify.com/album/5j2TvYkvy5BA6KGXJuQajF) | 3:17 | 2022-05-25 |  |
 | [Kaulah Syurga](https://open.spotify.com/track/5Mg6WjcJyOCoz03mHBXhqd) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Lia Aziz](https://open.spotify.com/artist/4Dxs6WepdnXGJWAC4vgmPp) | [Kaulah Syurga](https://open.spotify.com/album/674KAJHIrjzZx0ZpUPJyxp) | 3:49 | 2022-05-25 |  |

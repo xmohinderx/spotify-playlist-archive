@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 205760,
       "name": "Be There",
       "url": "https://open.spotify.com/track/54HhEX0mo3qzeZ6p5eVAuR"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 211999,
       "name": "Can't Go",
       "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 221093,
       "name": "Dreaming About You",
       "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 252144,
       "name": "Empty words",
       "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 187999,
       "name": "Excuse",
       "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 227530,
       "name": "Falling Flower (Dajung Ver.)",
       "url": "https://open.spotify.com/track/4VqXGpj0uRNhN1xu4T4ZJu"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 192430,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 341104,
       "name": "Hee Jae",
       "url": "https://open.spotify.com/track/6NPwyiOIJMTSVGspkOKiX7"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 261850,
       "name": "How about you",
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 224280,
       "name": "How Can I Live Without You",
       "url": "https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px"
@@ -1152,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "I'm Fine (Feat. Sojeong)",
+        "url": "https://open.spotify.com/album/1lQJYD1rF0SmWum2bhUsG1"
+      },
+      "artists": [
+        {
+          "name": "GODAK",
+          "url": "https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn"
+        },
+        {
+          "name": "Sojeong",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "I'm Fine (Feat. Sojeong)",
+      "url": "https://open.spotify.com/track/0O1Pk7MyYe3eREk1MLw4Z3"
+    },
+    {
+      "album": {
         "name": "I'm Not Okay",
         "url": "https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2"
       },
@@ -1163,7 +1185,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 223400,
       "name": "I'm Not Okay",
       "url": "https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J"
@@ -1235,7 +1257,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 269775,
       "name": "Instant Lover",
       "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
@@ -1253,7 +1275,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/2aBMGd6oEI08yAgMn6wOEM"
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
@@ -1405,7 +1427,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 246301,
       "name": "Letter",
       "url": "https://open.spotify.com/track/2EfLLopFkhKx31PqzrtWWt"
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/2fujIDkywop19a4IZ2zfQK"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 189773,
       "name": "Lonely Flower",
       "url": "https://open.spotify.com/track/1TtiJUMGRTMLIFzaMirRKS"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 248360,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq"
@@ -2022,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "Something Like That",
+        "url": "https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg"
+      },
+      "artists": [
+        {
+          "name": "BANHANA",
+          "url": "https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259344,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX"
       },
@@ -2135,7 +2175,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 253985,
       "name": "Thank you for Goodbye",
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
@@ -2255,7 +2295,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 266266,
       "name": "The night I drew you",
       "url": "https://open.spotify.com/track/27eU3lE6mbGK0GKqhypHH0"
@@ -2313,7 +2353,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
@@ -2403,7 +2443,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
@@ -2583,7 +2623,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 272501,
       "name": "\uc0ac\ub791\uc774 \uac8c\uc73c\ub984\uc73c\ub85c \uc794\ub729 \uc313\uc5ec\uc838 \uac08 \ub54c",
       "url": "https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj"
@@ -2655,7 +2695,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 209624,
       "name": "\uc870\uc2ec\uc2a4\ub7ec\uc6b4 \uc774\uc720",
       "url": "https://open.spotify.com/track/1HQwtOiqL5rFku9ELPp8Bp"

@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-83 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
+84 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,14 @@
 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 | 2022-04-18 |  |
 | [Bestia](https://open.spotify.com/track/3cKV87i0a26fITE8Ku1Zwi) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia \(Edición Especial\)](https://open.spotify.com/album/6wyouLOKkr2SjTcuYF7wXm) | 4:11 | 2022-04-18 |  |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-04-18 |  |
+| [Blowback](https://open.spotify.com/track/7aZ1Grktl7RBHLwxem7DE7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 3:59 | 2022-05-16 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-04-18 |  |
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2022-04-18 |  |
 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 | 2022-04-18 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-04-18 | 2022-05-17 |
 | [Ciclones](https://open.spotify.com/track/6Dt4xgUvH2sLJcgiOR8nd8) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Ciclones](https://open.spotify.com/album/587EecZrWaag04EdZVrHBU) | 4:00 | 2022-05-10 |  |
 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 | 2022-04-18 |  |
-| [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 | 2022-04-18 |  |
+| [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 | 2022-04-18 | 2022-06-16 |
 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 | 2022-04-18 |  |
 | [Delorean](https://open.spotify.com/track/5n8noNlQbeXUR2ZMrceHC2) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Delorean](https://open.spotify.com/album/1SukerUlqQUU0iA1sNIWnz) | 3:41 | 2022-04-18 |  |
 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 | 2022-04-18 |  |
@@ -45,7 +46,7 @@
 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 | 2022-05-10 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-04-18 |  |
 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 | 2022-04-18 |  |
-| [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 | 2022-04-18 | 2022-06-15 |
+| [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 | 2022-04-18 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-04-18 | 2022-05-17 |
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2022-04-18 |  |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2022-04-18 |  |
@@ -67,7 +68,7 @@
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-04-18 |  |
 | [Safe And Sound](https://open.spotify.com/track/2Oj5BXOY01EDuJhVYNlEoq) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Safe And Sound](https://open.spotify.com/album/5iXfZywYLQWeUjoLr3Oy5J) | 3:12 | 2022-04-18 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-04-18 |  |
-| [Shiver](https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 5:04 | 2022-04-18 |  |
+| [Shiver](https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 5:04 | 2022-04-18 | 2022-06-16 |
 | [Siento Que...](https://open.spotify.com/track/0w0tp9WIlwUWQeKnaGa2EA) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant Revisitado](https://open.spotify.com/album/2pzNABURPzUxACrqiGeN94) | 3:31 | 2022-04-18 |  |
 | [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-04-18 |  |
 | [Sismo](https://open.spotify.com/track/74RbuwSLTpIKA0RqOo5msR) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 3:48 | 2022-04-18 |  |

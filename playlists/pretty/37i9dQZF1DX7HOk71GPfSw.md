@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,818 likes - 114 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,325 likes - 114 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

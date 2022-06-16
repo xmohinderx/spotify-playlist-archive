@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 180021,
       "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/4fTHdMTq0Znl3djLI1Typn"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180565,
       "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 212640,
       "name": "Five More Hours - Deorro x Chris Brown",
       "url": "https://open.spotify.com/track/6f1QFKG6GSBKdh7zfbj9rc"
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 235213,
       "name": "Hey Ya! - Radio Mix / Club Mix",
       "url": "https://open.spotify.com/track/5WQ1hIc5d2EVbRQ8qsj8Uh"
@@ -2607,7 +2607,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 228440,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
@@ -2925,7 +2925,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/3fsghmcEnT7K9f30ohHDRn"
@@ -3295,7 +3295,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
@@ -3397,7 +3397,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 264893,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
@@ -5073,7 +5073,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 199480,
       "name": "Sexy And I Know It",
       "url": "https://open.spotify.com/track/70Vdd1gx5tn84jkAU31ASv"
@@ -5301,7 +5301,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA"
@@ -5819,7 +5819,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177685,
       "name": "Talk Dirty (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/5l3CML2OnzfNs5RfVgbcLt"
@@ -6428,6 +6428,28 @@
     },
     {
       "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
         "name": "Uptown Funk (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI"
       },
@@ -6443,7 +6465,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 270626,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D"
@@ -6707,7 +6729,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 207546,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/6nRwc5GgNvBMkKaynhQzrm"

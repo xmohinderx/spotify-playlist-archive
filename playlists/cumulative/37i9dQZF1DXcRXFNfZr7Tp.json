@@ -3898,6 +3898,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
       },

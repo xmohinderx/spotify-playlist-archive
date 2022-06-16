@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,898 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,901 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 37 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 |
 | 38 | [Asshole](https://open.spotify.com/track/0ouT4V1cOedPROYundaOYn) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Asshole](https://open.spotify.com/album/699WRHnIcweNQrp2ifIX3I) | 2:50 |
 | 39 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 |
-| 40 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Albul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 |
+| 40 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 |
 | 41 | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe) | 2:16 |
 | 42 | [OMG](https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [OMG](https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf) | 2:48 |
 | 43 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > It's 2007, you're the bartender and the DJ\. Only on \#SpotifyTBT Cover: T\-Pain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075,565 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075,546 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

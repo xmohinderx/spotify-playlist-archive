@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Ally Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,680 likes - 58 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,410 likes - 58 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 27 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 | 28 | [Bed \(with KSHMR\)](https://open.spotify.com/track/0pSXNXGW3vgPEaNFgpqV4m) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bed \(with KSHMR\)](https://open.spotify.com/album/2EXPBbrWHILHbqVSZzzO9N) | 2:43 |
 | 29 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
-| 30 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
+| 30 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 31 | [If You're Serious](https://open.spotify.com/track/6pRI86HJJg7bsCDWn2dt1N) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:44 |
 | 32 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
 | 33 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 |

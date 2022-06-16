@@ -5828,6 +5828,36 @@
     },
     {
       "album": {
+        "name": "Supercl\u00e1sico",
+        "url": "https://open.spotify.com/album/5e52rhDeaWTjW8VYE7vgeV"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185135,
+      "name": "Supercl\u00e1sico",
+      "url": "https://open.spotify.com/track/1uaeUpiNMxfsuhVebgk7TX"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -5857,7 +5887,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 189333,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"

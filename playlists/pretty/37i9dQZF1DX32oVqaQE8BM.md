@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,679 likes - 226 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,710 likes - 226 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

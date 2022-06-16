@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 424930,
       "name": "Agave Harvest",
       "url": "https://open.spotify.com/track/7aFR1dQQaCvQpPjj8EoVgA"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 391680,
       "name": "Beautiful Jazz",
       "url": "https://open.spotify.com/track/6IuRBqO3QnCFQl5GsorGCD"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 348259,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/4NerBgDZ7vrX8qhvT1MfZJ"
@@ -149,6 +149,24 @@
       "duration_ms": 348518,
       "name": "Bluff Dance",
       "url": "https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9"
+    },
+    {
+      "album": {
+        "name": "Shake Edits 1",
+        "url": "https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk"
+      },
+      "artists": [
+        {
+          "name": "Dan Shake",
+          "url": "https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496615,
+      "name": "Buy Yourself friends",
+      "url": "https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX"
     },
     {
       "album": {
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 306893,
       "name": "Dreaming Of Better Days",
       "url": "https://open.spotify.com/track/4goILMtibwRJrkzmNbt4Ns"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 371034,
       "name": "Everybody Clap",
       "url": "https://open.spotify.com/track/5wzyVW90nwZIYGMArXOjQQ"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 164565,
       "name": "Feel the Vibe",
       "url": "https://open.spotify.com/track/5h8JTWS1vTNcTlEkKLR554"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/5kKGJym6i9cQJhUiELMfqI"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 303880,
       "name": "I Heard the Voice of Music Say",
       "url": "https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 223796,
       "name": "Industry (Green Light/Fun Night Breaks Mix) - Edit",
       "url": "https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 550622,
       "name": "Jerky Rhythm",
       "url": "https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 666971,
       "name": "Manhattan Skyline - JN Spirit of '77 Extended Mix",
       "url": "https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 412257,
       "name": "Mars 500",
       "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 356013,
       "name": "Music Trance",
       "url": "https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 595667,
       "name": "New York Style",
       "url": "https://open.spotify.com/track/5u8ap37n0VTRbh76ap11HA"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 306906,
       "name": "Peaches & Prunes",
       "url": "https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 401612,
       "name": "Pretty Face - 12\" Version",
       "url": "https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 235906,
       "name": "Prix Choc - Radio Edit - High Mix",
       "url": "https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 311496,
       "name": "The Look of Accessibility",
       "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 332837,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/2Ny9IkHyAJzSaJBEYweXyp"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 519224,
       "name": "What Am I Here For? (NDATL Vocal) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/6uzaR1z9FDKRPY8lF24RB7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring SIDEPIECE & Lee Foss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,906 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,031 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 59 | [Vale](https://open.spotify.com/track/155IiTveewoEfE7ISxjM8Y) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Tim Aroa](https://open.spotify.com/artist/3oqcNg6aegE3fUbfn6cTun), [Devan](https://open.spotify.com/artist/2hE6W430BpJRCFBNgZE3jB) | [Vale](https://open.spotify.com/album/0wpYb0HPKekYcETe7gV02O) | 2:43 |
 | 60 | [Once Again](https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Once Again](https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab) | 2:38 |
 | 61 | [Pink Shoes](https://open.spotify.com/track/6dSJ3T3dMTGMvMdAkvEBxl) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Pink Shoes](https://open.spotify.com/album/4NEHGFE8a44yBMA4Dy5qwK) | 3:51 |
-| 62 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
+| 62 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 63 | [Sideline](https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sideline](https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T) | 3:20 |
 | 64 | [Push It](https://open.spotify.com/track/1WSqdinidUBLI5Eh5gQ5xD) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Push It](https://open.spotify.com/album/5U9Y2k94WQVKhQS7M7Bc6g) | 2:36 |
 | 65 | [Di Da Di](https://open.spotify.com/track/6gXGso6sUgXkDTYb13zlz0) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Di Da Di](https://open.spotify.com/album/1wsSqrIvLM48vY7ru0QUFY) | 2:46 |

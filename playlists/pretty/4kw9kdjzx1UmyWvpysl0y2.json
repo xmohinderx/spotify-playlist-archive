@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128443,
+  "num_followers": 128442,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ2NSw2YmZjYmZmZTY2YjlkYWEyMWI0Zjc3OTI4MGMxOTVhM2IzMTA0OWYw",
+  "snapshot_id": "MzQ2Niw4NmY0NTAzMTAzNGYwZGU2NzMyNjVmZGU0YWNkMmYyNTg3M2FjMmRk",
   "tracks": [
+    {
+      "added_at": "2022-06-15 15:44:50",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX"
+      },
+      "artists": [
+        {
+          "name": "Skua",
+          "url": "https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM"
+        },
+        {
+          "name": "Cosmaks",
+          "url": "https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5"
+    },
     {
       "added_at": "2022-06-14 15:44:18",
       "album": {

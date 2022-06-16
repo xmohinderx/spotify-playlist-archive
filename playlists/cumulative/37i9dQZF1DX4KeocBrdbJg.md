@@ -4,7 +4,7 @@
 
 > te fe\-li\-ci\-to qué bien actúas, de eso no me cabe duda 🙄
 
-131 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+132 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-31 |  |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-11 |  |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-25 | 2022-06-09 |
-| [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 | 2021-12-15 |  |
+| [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 | 2021-12-15 | 2022-06-16 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-15 |  |
 | [Howl's Moving Castle \- Merry Go Round of Life](https://open.spotify.com/track/1SH0BnKkEtLh8IcZnci79y) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [The World of Studio Ghibli](https://open.spotify.com/album/49lcv6t0GsJVxcoD8hjgPp) | 3:05 | 2022-02-23 | 2022-06-15 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-06-06 |  |
@@ -107,6 +107,7 @@
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-14 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-12-15 |  |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-04-14 |  |
+| [Rockstar](https://open.spotify.com/track/5yUNJjYSI4nbsoFCm0NL1I) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Rockstar](https://open.spotify.com/album/67YG6gMqvT5qURJbWEvMWZ) | 3:52 | 2022-06-15 |  |
 | [Runnin'](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) | [David Dallas](https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP) | [Falling Into Place](https://open.spotify.com/album/6ZRmt0u5nhOO6olLbbOwj4) | 3:46 | 2022-06-14 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-31 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-03-28 |  |

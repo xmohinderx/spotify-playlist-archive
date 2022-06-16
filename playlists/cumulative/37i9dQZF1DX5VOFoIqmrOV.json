@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "The finest set of Telugu music from the past 5 years. \nCover : Sarkaru Vaari Paata",
+  "description": "The finest set of Telugu music from the past 5 years. \nCover : Pushpa",
   "name": "Tollywood Pearls",
   "published_playlist_ids": [
     "715jXIfJUzT2AiTQl5FY7n"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 208474,
       "name": "Amrutha",
       "url": "https://open.spotify.com/track/4aRL9e0DzH0qGAQMe9MhdK"
@@ -294,6 +294,32 @@
     },
     {
       "album": {
+        "name": "The Warriorr",
+        "url": "https://open.spotify.com/album/424KdwSKagxxopiqLlbasW"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237263,
+      "name": "Bullet Song",
+      "url": "https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa"
+    },
+    {
+      "album": {
         "name": "Ala Vaikunthapurramuloo",
         "url": "https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2"
       },
@@ -327,7 +353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 218477,
       "name": "Chandamame",
       "url": "https://open.spotify.com/track/5YrYRkIsZ4teFHveHYxeoT"
@@ -415,7 +441,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 209961,
       "name": "Crazy Feeling",
       "url": "https://open.spotify.com/track/6CtrkXMad3ZtmYiOtKfI0t"
@@ -795,7 +821,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Idhe Kadha Nee Katha",
       "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
@@ -1183,7 +1209,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 238230,
       "name": "Mass Biriyani",
       "url": "https://open.spotify.com/track/0WoXNjPmNxccicpCj1LPtu"
@@ -1571,7 +1597,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 166293,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
@@ -1703,7 +1729,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 219818,
       "name": "Samajavaragamana",
       "url": "https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy"
@@ -1831,7 +1857,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 186657,
       "name": "Sittharala Sirapadu",
       "url": "https://open.spotify.com/track/2yIU71Z6VgPOEaLp0VwFpN"
@@ -1871,7 +1897,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 252286,
       "name": "Telisiney Na Nuvvey",
       "url": "https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a"

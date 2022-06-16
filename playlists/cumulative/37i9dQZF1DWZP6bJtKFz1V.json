@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 176830,
       "name": "100sadsongs",
       "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 165067,
       "name": "Another Man's Jeans",
       "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 200303,
       "name": "Company",
       "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 165676,
       "name": "Demon",
       "url": "https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 215573,
       "name": "Diary Entry",
       "url": "https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 228711,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 147183,
       "name": "Don\u2019t Trip (with GAYLE)",
       "url": "https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G"
@@ -1888,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Headsweat",
+        "url": "https://open.spotify.com/album/19KlvLIGg73WDRstbHCrf0"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Headsweat",
+      "url": "https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz"
+    },
+    {
+      "album": {
         "name": "Heal My Head",
         "url": "https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R"
       },
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 150770,
       "name": "La La La",
       "url": "https://open.spotify.com/track/6WivhoU5qLcUtbYg2fo9Ay"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 131959,
       "name": "lily's backyard",
       "url": "https://open.spotify.com/track/65doEMocPQeWN2dhCcrec5"
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 174620,
       "name": "Mr Regular (feat. Oliver Tree & Killer Mike)",
       "url": "https://open.spotify.com/track/5GGeui401dCbJLVno3gYgM"
@@ -4511,7 +4529,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 145750,
       "name": "The One",
       "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"

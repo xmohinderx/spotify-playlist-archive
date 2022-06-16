@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-662 songs - 1 day 14 hr 33 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
+663 songs - 1 day 14 hr 35 min - [published](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [I Still Have Faith In You](https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 5:10 | 2021-09-05 | 2021-09-08 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-27 | 2021-09-19 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2022-01-01 | 2022-01-03 |
+| [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-15 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2021-10-31 | 2022-03-18 |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 | 2021-11-30 | 2021-12-29 |
 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 | 2022-01-22 | 2022-01-25 |
@@ -440,7 +441,7 @@
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-05-23 | 2021-07-25 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-14 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-08-15 | 2022-04-12 |
-| [Outnumbered](https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:05 | 2021-09-21 |  |
+| [Outnumbered](https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:05 | 2021-09-21 | 2022-06-16 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2022-05-15 |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2021-12-30 | 2022-03-27 |
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-08 |

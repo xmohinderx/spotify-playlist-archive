@@ -1,13 +1,149 @@
 {
   "description": "just songs & artists we think you'll love. ",
-  "num_followers": 919413,
+  "num_followers": 919553,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTA1MTA5OCwwMDAwMDM5MDAwMDAwMTgxNThiYjk5MDEwMDAwMDE4MTJhMmJmZTNh",
+  "snapshot_id": "MTY1NTMyMjYxNSwwMDAwMDM5MjAwMDAwMTgxNjhlYTljZjIwMDAwMDE4MTJhMmJmZTNh",
   "tracks": [
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "Tell Me That It\u2019s Over",
+        "url": "https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Hard to Believe",
+      "url": "https://open.spotify.com/track/0KOUhmRuztZUFOl6QCogLE"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/49WtdTU6lEjZvOLJBWAX9r"
+      },
+      "artists": [
+        {
+          "name": "Lance Redeker",
+          "url": "https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M"
+        },
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        },
+        {
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/4a7elbXtven2VcT1MSCtFC"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "more",
+        "url": "https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "more",
+      "url": "https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd"
+    },
+    {
+      "added_at": "2022-06-09 14:58:29",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "AFTER DINNER WE TALK DREAMS: THE SIDE DISHES",
+        "url": "https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 137865,
+      "name": "FOOL 4 U",
+      "url": "https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
     {
       "added_at": "2022-06-09 14:58:29",
       "album": {
@@ -23,22 +159,6 @@
       "duration_ms": 165867,
       "name": "Jodie",
       "url": "https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -59,18 +179,38 @@
     {
       "added_at": "2022-06-09 14:58:29",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
+      "duration_ms": 224000,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 194871,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -91,18 +231,18 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 205386,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -137,46 +277,6 @@
       "url": "https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo"
     },
     {
-      "added_at": "2022-06-09 14:58:29",
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/49WtdTU6lEjZvOLJBWAX9r"
-      },
-      "artists": [
-        {
-          "name": "Lance Redeker",
-          "url": "https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M"
-        },
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/4a7elbXtven2VcT1MSCtFC"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Thinking Bout You",
@@ -197,20 +297,28 @@
       "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
     },
     {
-      "added_at": "2022-06-02 15:01:34",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
       "added_at": "2022-05-24 18:50:39",
@@ -227,6 +335,22 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "added_at": "2022-06-02 15:01:34",
+      "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -261,6 +385,42 @@
       "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
+      "added_at": "2022-05-20 20:15:49",
+      "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2022-06-15 18:13:56",
+      "album": {
+        "name": "why do i do that",
+        "url": "https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        },
+        {
+          "name": "Chaos Canine",
+          "url": "https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR"
+        }
+      ],
+      "duration_ms": 144419,
+      "name": "why do i do that",
+      "url": "https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "whatever u like",
@@ -275,46 +435,6 @@
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
-    },
-    {
-      "added_at": "2022-06-02 15:01:34",
-      "album": {
-        "name": "THE INSIDE OUTTAKES",
-        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
-      },
-      "artists": [
-        {
-          "name": "Bo Burnham",
-          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
-        }
-      ],
-      "duration_ms": 54317,
-      "name": "WTFIGO",
-      "url": "https://open.spotify.com/track/7jVJppRaym9PQUARLdCsej"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -337,20 +457,20 @@
       "url": "https://open.spotify.com/track/4QtxcMUw9nylIOqNvoDdz7"
     },
     {
-      "added_at": "2022-06-03 16:11:54",
+      "added_at": "2022-04-21 04:00:00",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "American Teenager",
+        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
     },
     {
       "added_at": "2022-06-02 15:01:34",
@@ -441,20 +561,20 @@
       "url": "https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE"
     },
     {
-      "added_at": "2022-04-21 04:00:00",
+      "added_at": "2022-06-03 16:11:54",
       "album": {
-        "name": "American Teenager",
-        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -495,38 +615,6 @@
       "duration_ms": 265505,
       "name": "405 - Metronomy x Biig Piig",
       "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
-    },
-    {
-      "added_at": "2022-05-31 17:12:29",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -627,38 +715,6 @@
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
-    },
-    {
-      "added_at": "2022-05-31 14:30:45",
-      "album": {
-        "name": "Both",
-        "url": "https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Dance Like U",
-      "url": "https://open.spotify.com/track/1xCwzlJ0pXrAQfh5B09eZ3"
-    },
-    {
-      "added_at": "2022-05-20 20:15:49",
-      "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1245,22 +1301,6 @@
       "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
     },
     {
-      "added_at": "2022-05-20 15:58:41",
-      "album": {
-        "name": "unoriginal",
-        "url": "https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P"
-      },
-      "artists": [
-        {
-          "name": "splendi",
-          "url": "https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3"
-        }
-      ],
-      "duration_ms": 203540,
-      "name": "unoriginal",
-      "url": "https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA"
-    },
-    {
       "added_at": "2022-05-12 23:43:11",
       "album": {
         "name": "Meteorite",
@@ -1341,22 +1381,6 @@
       "url": "https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe"
     },
     {
-      "added_at": "2022-05-12 16:20:12",
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 185172,
-      "name": "21",
-      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
-    },
-    {
       "added_at": "2022-04-15 13:01:15",
       "album": {
         "name": "90s American Superstar",
@@ -1373,22 +1397,6 @@
       "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
-    },
-    {
       "added_at": "2022-04-08 16:15:50",
       "album": {
         "name": "BIRDSONGS, Vol. 3",
@@ -1403,22 +1411,6 @@
       "duration_ms": 176666,
       "name": "Lightning Of July",
       "url": "https://open.spotify.com/track/1gqhKpica2xrkDE9E3nNTv"
-    },
-    {
-      "added_at": "2022-05-12 23:43:11",
-      "album": {
-        "name": "Easygoing",
-        "url": "https://open.spotify.com/album/0W36AtzYHeIxacZmJi4Ruc"
-      },
-      "artists": [
-        {
-          "name": "JDM Global",
-          "url": "https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Easygoing",
-      "url": "https://open.spotify.com/track/4r2D6XlI6RrUwV90bt6uBr"
     },
     {
       "added_at": "2022-05-12 16:20:12",
@@ -1549,22 +1541,6 @@
       "url": "https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4"
     },
     {
-      "added_at": "2022-04-22 15:52:52",
-      "album": {
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/6fjgfwIVFrvn4P7KlgOeyG"
-      },
-      "artists": [
-        {
-          "name": "Kristiane",
-          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
-        }
-      ],
-      "duration_ms": 145063,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/6EhLEIwLKrqjf6VTx9eGOd"
-    },
-    {
       "added_at": "2022-02-11 00:18:07",
       "album": {
         "name": "Invincible (feat. Daniel Caesar)",
@@ -1669,22 +1645,6 @@
       "url": "https://open.spotify.com/track/0vx0HNWpitK8Y5L53ZY1C1"
     },
     {
-      "added_at": "2022-04-08 14:03:34",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 191584,
-      "name": "Tek It",
-      "url": "https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR"
-    },
-    {
       "added_at": "2022-03-25 14:04:46",
       "album": {
         "name": "I Don't Want to Talk",
@@ -1699,22 +1659,6 @@
       "duration_ms": 223533,
       "name": "I Don't Want to Talk",
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
-    },
-    {
-      "added_at": "2022-03-18 18:53:05",
-      "album": {
-        "name": "Who Am I But Someone",
-        "url": "https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "Who Am I But Someone",
-      "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"
     },
     {
       "added_at": "2021-12-11 17:18:23",

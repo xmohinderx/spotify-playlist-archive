@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 172233,
       "name": "200 os\u00f3b w kawalerce",
       "url": "https://open.spotify.com/track/0WwTcMK4Qj9vKHVV2Me1l8"
@@ -4780,6 +4780,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "Glosy w Glowie",
         "url": "https://open.spotify.com/album/27coS4uDe1cfwKASHa2yox"
       },
@@ -9299,7 +9317,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 129949,
       "name": "Od \u015arody Do Wtorku",
       "url": "https://open.spotify.com/track/1IhxoOfcNAAWLQ1pz2UXf7"
@@ -9721,6 +9739,28 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
+    },
+    {
+      "album": {
+        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
     },
     {
       "album": {
@@ -12627,7 +12667,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 161086,
       "name": "Stado Hart\u00f3w",
       "url": "https://open.spotify.com/track/3acxoGTeBiGxYLKR4ODaws"
@@ -15007,28 +15047,6 @@
       "duration_ms": 204033,
       "name": "Zapomnij O Mnie",
       "url": "https://open.spotify.com/track/3My2uITQy5Fbfe0mgoB7sO"
-    },
-    {
-      "album": {
-        "name": "Zata\u0144czysz ze mn\u0105",
-        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
-      },
-      "artists": [
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "Kuba\u0144czyk",
-          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
-        }
-      ],
-      "date_added": "2022-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183750,
-      "name": "Zata\u0144czysz ze mn\u0105",
-      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
     },
     {
       "album": {

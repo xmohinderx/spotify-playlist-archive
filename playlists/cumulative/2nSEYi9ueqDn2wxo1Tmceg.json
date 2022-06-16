@@ -248,6 +248,28 @@
     },
     {
       "album": {
+        "name": "Deep In The Glowing Heart (Night Version)",
+        "url": "https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420923,
+      "name": "Deep In The Glowing Heart - Night Version",
+      "url": "https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m"
+    },
+    {
+      "album": {
         "name": "Kumoyo Island",
         "url": "https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC"
       },

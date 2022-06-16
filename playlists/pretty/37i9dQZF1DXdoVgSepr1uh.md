@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: MYA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,789 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,816 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

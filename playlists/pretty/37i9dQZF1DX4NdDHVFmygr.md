@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,477 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,582 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

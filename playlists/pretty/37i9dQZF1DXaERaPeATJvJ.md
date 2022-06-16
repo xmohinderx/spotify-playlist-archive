@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Blossom Diary
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,325 likes - 81 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,337 likes - 81 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

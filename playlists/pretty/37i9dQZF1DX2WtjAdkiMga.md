@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849 likes - 72 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,872 likes - 72 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 4 | [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:12 |
 | 5 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
 | 6 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 |
-| 7 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
-| 8 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
-| 9 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 |
-| 10 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
+| 7 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
+| 8 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 |
+| 9 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
+| 10 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
 | 11 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 |
 | 12 | [Sometimes When You Sleep](https://open.spotify.com/track/15LAuh3deuRHFf07mxhObf) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's All for Love](https://open.spotify.com/album/1R050Wd5VCHL7n3avYpgkz) | 3:06 |
 | 13 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 71 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 |
 | 72 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY1NDg2ODQxMywwMDAwMDAxNzAwMDAwMTgxNGRkODBhOGEwMDAwMDE4MTRkZDcxYTIy`
+Snapshot ID: `MTY1NTI3NzA0NiwwMDAwMDAxODAwMDAwMTgxNjYzMzRjYjcwMDAwMDE4MTRkZDcxYTIy`

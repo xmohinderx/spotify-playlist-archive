@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -2237,7 +2237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 163977,
       "name": "Clic clic pan pan",
       "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 110222,
       "name": "DAN\u00c7ARINA",
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 210958,
       "name": "D\u00e9gaine (feat. Damso)",
       "url": "https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN"
@@ -3695,7 +3695,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -3979,7 +3979,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -4771,7 +4771,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -4833,6 +4833,24 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -4909,7 +4927,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -5255,7 +5273,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -10337,7 +10355,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"

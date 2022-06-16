@@ -1752,6 +1752,32 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX"
+      },
+      "artists": [
+        {
+          "name": "Skua",
+          "url": "https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM"
+        },
+        {
+          "name": "Cosmaks",
+          "url": "https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5"
+    },
+    {
+      "album": {
         "name": "Light of Mine",
         "url": "https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc"
       },

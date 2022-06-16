@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Akanksha Sethi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Nina & Malika, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 181033,
       "name": "Bachpan",
       "url": "https://open.spotify.com/track/2UcP8r8o1cNvkhAWK8NVZH"
@@ -1166,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "Break the Ice",
+        "url": "https://open.spotify.com/album/2yhkpbcLEWZPPhTQCTTwid"
+      },
+      "artists": [
+        {
+          "name": "Doctor Lincoln",
+          "url": "https://open.spotify.com/artist/3AwxLEzkJsenSNbDJF7vKh"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268652,
+      "name": "Break the Ice",
+      "url": "https://open.spotify.com/track/0CBGmrigIz5hhAXYegVkSb"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/3Dp3dR9ef69dr9IVmUPJTY"
       },
@@ -1217,6 +1235,28 @@
       "duration_ms": 214770,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/5XjIaxOYxo1clgzCwsntfK"
+    },
+    {
+      "album": {
+        "name": "Chaand Ke Paas",
+        "url": "https://open.spotify.com/album/578X3v1ZgzpYzIxl3lQqro"
+      },
+      "artists": [
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        },
+        {
+          "name": "Reet Shah",
+          "url": "https://open.spotify.com/artist/44LRD7T4QOeovoZ4LckqxX"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Chaand Ke Paas",
+      "url": "https://open.spotify.com/track/1z34GEKntc94MfzRqLqba7"
     },
     {
       "album": {
@@ -1449,6 +1489,24 @@
       "duration_ms": 338213,
       "name": "Deedar E Khuda",
       "url": "https://open.spotify.com/track/69tialKK7peEbfsvO5yGuF"
+    },
+    {
+      "album": {
+        "name": "Deewani Mastani",
+        "url": "https://open.spotify.com/album/1PhO0sVxlWDZ2yPXctuEL3"
+      },
+      "artists": [
+        {
+          "name": "Anurag Sahu",
+          "url": "https://open.spotify.com/artist/0Z5kYwJk2YLVgwuE8TdGZZ"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Deewani Mastani",
+      "url": "https://open.spotify.com/track/1iqEEy8D4PCpMn0IGKqeSQ"
     },
     {
       "album": {
@@ -1731,7 +1789,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 197500,
       "name": "Eliza's Cure",
       "url": "https://open.spotify.com/track/5yphikWSqIChQvxVn1NVZc"
@@ -3077,7 +3135,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 191250,
       "name": "Jab Tak Zinda Hain",
       "url": "https://open.spotify.com/track/7bW7RA29gea2orgmueoROS"
@@ -3285,6 +3343,24 @@
       "duration_ms": 130000,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/07c3HSf9XlD6AywWK0orbY"
+    },
+    {
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2lKJmsDAjIQyx32wbQlx6a"
+      },
+      "artists": [
+        {
+          "name": "Sidharth Bendi",
+          "url": "https://open.spotify.com/artist/4qZt4u2tjGR95JC1QRfeYh"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "June",
+      "url": "https://open.spotify.com/track/7d6f9zD2juTcmHvStiYQ1T"
     },
     {
       "album": {
@@ -3553,7 +3629,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 279146,
       "name": "Kaise Kaati Raatein",
       "url": "https://open.spotify.com/track/6Fa5PPv5bBT9OBYtKhNfbM"
@@ -4041,7 +4117,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 275599,
       "name": "Lat Uljhi",
       "url": "https://open.spotify.com/track/2JFVLdhDjoGi1Ys3UI2LsR"
@@ -4477,7 +4553,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 226025,
       "name": "Man Of The Hour",
       "url": "https://open.spotify.com/track/2MIlDMYnibzt1eYXg21EJ2"
@@ -5194,6 +5270,28 @@
     },
     {
       "album": {
+        "name": "Nishaani",
+        "url": "https://open.spotify.com/album/6QjsvM7dpohwGofretSi86"
+      },
+      "artists": [
+        {
+          "name": "Ajayank Singh",
+          "url": "https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM"
+        },
+        {
+          "name": "Ana Khan",
+          "url": "https://open.spotify.com/artist/1EfmBdg7wFjLKOQFMROdlX"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Nishaani",
+      "url": "https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3"
+    },
+    {
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4"
       },
@@ -5374,6 +5472,28 @@
     },
     {
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/5ClJWsPzUAbj6A1SWGTPoe"
+      },
+      "artists": [
+        {
+          "name": "Nina & Malika",
+          "url": "https://open.spotify.com/artist/4PJCaRYDmLzu4kxHUeUAbq"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/4rmNgY48hFQKS08YLUk7sc"
+    },
+    {
+      "album": {
         "name": "Owl's Eye",
         "url": "https://open.spotify.com/album/7w3IDu25zo3c6yZihyeUa9"
       },
@@ -5505,7 +5625,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 224457,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/0fa50OwXhMHdKRpbYlmwYl"
@@ -5849,6 +5969,24 @@
       "duration_ms": 222610,
       "name": "Piya Bin",
       "url": "https://open.spotify.com/track/4YywWFs8sY6RTmrG6LtLbS"
+    },
+    {
+      "album": {
+        "name": "Qisse",
+        "url": "https://open.spotify.com/album/0yrjEtCZnaSU4XwrERreSu"
+      },
+      "artists": [
+        {
+          "name": "Gaya",
+          "url": "https://open.spotify.com/artist/3mP82vJNOQmr2EZNxxajl3"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Qisse",
+      "url": "https://open.spotify.com/track/6OIhBTJqavscdACHx7rJ0R"
     },
     {
       "album": {
@@ -6449,7 +6587,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 234545,
       "name": "Safar",
       "url": "https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0"
@@ -6727,6 +6865,24 @@
       "duration_ms": 157996,
       "name": "Shmoyo",
       "url": "https://open.spotify.com/track/1WQP1or3glFCXXndPi3EbW"
+    },
+    {
+      "album": {
+        "name": "Sitting on my bed",
+        "url": "https://open.spotify.com/album/7CNQjjsORk9bf2sRSxpfzp"
+      },
+      "artists": [
+        {
+          "name": "Raghav Mangrulkar",
+          "url": "https://open.spotify.com/artist/1R2ObkMaIAIVcTXAkrfdBH"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Sitting on my bed",
+      "url": "https://open.spotify.com/track/018VqIUlNVC00Cf7F8M4qY"
     },
     {
       "album": {
@@ -7308,6 +7464,24 @@
     },
     {
       "album": {
+        "name": "Tera Zikr",
+        "url": "https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq"
+      },
+      "artists": [
+        {
+          "name": "Manav",
+          "url": "https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237081,
+      "name": "Tera Zikr",
+      "url": "https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D"
+    },
+    {
+      "album": {
         "name": "Tere Bin",
         "url": "https://open.spotify.com/album/6FX7yO89yse50JYRHawQW9"
       },
@@ -7739,6 +7913,24 @@
       "duration_ms": 191494,
       "name": "Tum Ho Meri Jaan",
       "url": "https://open.spotify.com/track/1ep3GANsKxGfv3cnBtQH2e"
+    },
+    {
+      "album": {
+        "name": "Tum Ho Meri Jaan",
+        "url": "https://open.spotify.com/album/3tywdYNa5HVTmdw0ROfBI0"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191494,
+      "name": "Tum Ho Meri Jaan",
+      "url": "https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj"
     },
     {
       "album": {

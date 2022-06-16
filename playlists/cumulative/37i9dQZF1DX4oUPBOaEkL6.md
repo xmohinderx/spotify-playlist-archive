@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Karol G
+> The hottest Latin hits in the US! Cover: Rauw Alejandro, Shakira
 
 116 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/5twlBAlAWZLOSaOy4NqQKe)
 

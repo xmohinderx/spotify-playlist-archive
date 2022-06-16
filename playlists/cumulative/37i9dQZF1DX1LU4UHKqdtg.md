@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BTS
 
-224 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+225 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-05-31 |  |
 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 | 2021-12-23 | 2022-03-22 |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-04-08 |
+| [ZERO](https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 2nd Single Album \[Villain : ZERO\]](https://open.spotify.com/album/0hqxfMNfdoP3b4vQY0nUNq) | 3:38 | 2022-06-14 |  |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-12-23 | 2022-01-07 |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-23 | 2022-01-26 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 |  |

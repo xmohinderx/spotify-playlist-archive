@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 137374,
       "name": "Gingerbread",
       "url": "https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 217218,
       "name": "Sheer Elegance",
       "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 177426,
       "name": "Soul Organ Impromptu",
       "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
@@ -1311,6 +1311,32 @@
       "duration_ms": 62880,
       "name": "The Feminine Scene",
       "url": "https://open.spotify.com/track/4T5WDDivphEVKFz2NmVmxn"
+    },
+    {
+      "album": {
+        "name": "Vintage Remix Boutique - Skeewiff vs Kpm",
+        "url": "https://open.spotify.com/album/0omBhh34SdDB0XYUwWRG7S"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Alessandro Rizzo",
+          "url": "https://open.spotify.com/artist/6E3g7aS7Tngha3AtNeuc44"
+        },
+        {
+          "name": "Elliot Ireland",
+          "url": "https://open.spotify.com/artist/3mDHOImVK3BjoclJQM8RXb"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "The Hawk Shuffle",
+      "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"
     },
     {
       "album": {

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Aku Hati Dan Perasaan",
+        "url": "https://open.spotify.com/album/29k2VAQtaI7nVUey9Mz4PK"
+      },
+      "artists": [
+        {
+          "name": "Haqiem Rusli",
+          "url": "https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241139,
+      "name": "Aku Hati Dan Perasaan",
+      "url": "https://open.spotify.com/track/5ykBidUrVd66YcgAlssUrm"
+    },
+    {
+      "album": {
         "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
         "url": "https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo"
       },
@@ -328,7 +346,7 @@
       "artists": [
         {
           "name": "Idayu",
-          "url": "https://open.spotify.com/artist/0hhy1Konr63k6Xymi9FzfN"
+          "url": "https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM"
         }
       ],
       "date_added": "2022-05-25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,610 likes - 482 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,963 likes - 482 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

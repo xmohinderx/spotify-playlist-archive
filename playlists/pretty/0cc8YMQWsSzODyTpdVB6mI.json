@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42031,
+  "num_followers": 42045,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjgzOCwyZDg1OGU2ODRiOTViYzMwZjM3N2IyYThhZjBiYjFiMjlkZmEyMjBk",
+  "snapshot_id": "Mjg0MSwwYmRlMWQ4ODZjOWY5ZmI5ZWRhNTk2ODJmMGMwYzBlNzA2NjUzNjk3",
   "tracks": [
+    {
+      "added_at": "2022-06-15 08:15:51",
+      "album": {
+        "name": "Leather Free Seats",
+        "url": "https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl"
+      },
+      "artists": [
+        {
+          "name": "Lil Seyi",
+          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
+        }
+      ],
+      "duration_ms": 213300,
+      "name": "Leather Free Seats",
+      "url": "https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf"
+    },
     {
       "added_at": "2022-06-13 08:26:36",
       "album": {
@@ -407,22 +423,6 @@
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb"
-    },
-    {
-      "added_at": "2022-04-06 08:32:15",
-      "album": {
-        "name": "Red Flashing Lights",
-        "url": "https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO"
-      },
-      "artists": [
-        {
-          "name": "Luke Gomm",
-          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Red Flashing Lights",
-      "url": "https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S"
     },
     {
       "added_at": "2021-11-05 15:47:43",

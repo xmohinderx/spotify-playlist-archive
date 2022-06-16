@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Doechii is our new RADAR Artist to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,085 likes - 46 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,102 likes - 46 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 41 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 | 42 | [Feel Something](https://open.spotify.com/track/51hgEzWzOfWl43dDmD7XBU) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 3:00 |
 | 43 | [Give Up](https://open.spotify.com/track/4JPRGPlrVo6AgLkZTWPVJg) | [Dachelle](https://open.spotify.com/artist/4PRJTfLzvOCcq26dgs9dcJ) | [Give Up](https://open.spotify.com/album/7zWiRSdJGANP09OFVb8syh) | 3:20 |
-| 44 | [LIVE FAST DIE SLOW \(ft\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(ft\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 |
+| 44 | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 |
 | 45 | [The Old Story](https://open.spotify.com/track/19FmFC3iSNnFJn4SaTH5fr) | [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [WELOVE Instant Live Hymnology II](https://open.spotify.com/album/6dluNTPUZBn0yn1AC7PffT) | 4:06 |
 | 46 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 |
 
-Snapshot ID: `MTY1NTI1NTIxOCwwMDAwMDAwMDJjNWQ2ZTk2Mjc1OWMxMDkxZjU2M2UwNTJhMzkxMjVm`
+Snapshot ID: `MTY1NTM0MTU3MCwwMDAwMDAwMDJjNWQ2ZTk2Mjc1OWMxMDkxZjU2M2UwNTJhMzkxMjVm`

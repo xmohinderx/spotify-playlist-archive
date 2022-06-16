@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ecologyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,586 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,612 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [Espelho Meu](https://open.spotify.com/track/5i0ngsSwZMnYAZ9dLSg69f) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Espelho Meu](https://open.spotify.com/album/1mjgSHNATnRWSqO7YJ7P9k) | 2:12 |
 | 14 | [TATTOO NA CARA](https://open.spotify.com/track/4ke9xQw26WuGhrypXm5R7C) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [TATTOO NA CARA](https://open.spotify.com/album/5OaLYkm6vsgpxwkYbHLIRz) | 2:18 |
 | 15 | [Mente Rica](https://open.spotify.com/track/4qRB1QH2SeJty99mmVIXuA) | [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX), [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Mente Rica](https://open.spotify.com/album/20RXkBNObNEQcOgyFusjPz) | 3:40 |
-| 16 | [Mario Kart](https://open.spotify.com/track/4e4aIydHhBdQmfDMkqfsv3) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Lil Kid](https://open.spotify.com/artist/45bWNzIRRHvj3INpM5MpYW) | [Mario Kart](https://open.spotify.com/album/16Ntdd9rlMOzHi8CybCONz) | 2:24 |
+| 16 | [Mario Kart](https://open.spotify.com/track/4e4aIydHhBdQmfDMkqfsv3) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Mario Kart](https://open.spotify.com/album/16Ntdd9rlMOzHi8CybCONz) | 2:24 |
 | 17 | [Paris Freestyle](https://open.spotify.com/track/4EXFwEHrLu96jUv7DU3QpB) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Paris Freestyle](https://open.spotify.com/album/7gt8VhApO0EWExp2kEGIVE) | 2:33 |
 | 18 | [Tentando Sair do Gueto](https://open.spotify.com/track/7LrfFu83W7yP0EzY1ct9Jf) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Yung Lince](https://open.spotify.com/artist/0rD7ftcckBSkfRyJWvyhuT) | [Tentando Sair do Gueto](https://open.spotify.com/album/5QG1ynxFfgPjdx69zByIJB) | 1:49 |
 | 19 | [B.O](https://open.spotify.com/track/3P5LT1wpHz8jAC9MDkRJei) | [A2](https://open.spotify.com/artist/39frOJcRmHQYo8QXgVbOG9), [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [B.O](https://open.spotify.com/album/4VWuoQ8w7QS9E2enXbx7px) | 3:12 |

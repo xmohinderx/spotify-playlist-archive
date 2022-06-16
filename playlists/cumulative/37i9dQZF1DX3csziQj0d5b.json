@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 256688,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 203909,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1gqo6zPxu0dEjLv7WLYN8I"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 202536,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 218826,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 156798,
       "name": "hate to be lame (feat. FINNEAS)",
       "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
@@ -2365,6 +2365,28 @@
       "duration_ms": 203569,
       "name": "idontwannabeyouanymore",
       "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "album": {
+        "name": "If the World Was Ending (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208687,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
     },
     {
       "album": {
@@ -2903,7 +2925,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
@@ -3349,7 +3371,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1"
@@ -3371,7 +3393,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
@@ -3473,7 +3495,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 215813,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/6wQSrFnJYm3evLsavFeCVT"
@@ -3491,7 +3513,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6"
@@ -5005,7 +5027,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 232600,
       "name": "This Town",
       "url": "https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7"
@@ -5023,7 +5045,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
@@ -5143,7 +5165,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
@@ -5407,7 +5429,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA"

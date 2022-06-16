@@ -356,6 +356,24 @@
     },
     {
       "album": {
+        "name": "JGS",
+        "url": "https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280903,
+      "name": "JGS",
+      "url": "https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv"
+    },
+    {
+      "album": {
         "name": "All Hours",
         "url": "https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN"
       },

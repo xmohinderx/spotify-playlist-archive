@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 2 | [501](https://open.spotify.com/track/2pAH3VEtFved36wEMIn51X) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:07 |
 | 3 | [Vreemde Voor Mij](https://open.spotify.com/track/2wCZt5PKfSE81iXdRlRhaU) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Vreemde Voor Mij](https://open.spotify.com/album/53kdqVn3CpeE1YCjuHpq2e) | 2:55 |
 | 4 | [Sunshine](https://open.spotify.com/track/4JaziO9SplhqLt31vWXcX4) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Lente](https://open.spotify.com/album/5NxPIBU1e2Ns6npLSNOKJ8) | 2:56 |
-| 5 | [Ik Laat Je Los](https://open.spotify.com/track/4uQbpGV07Epf8AkCmanh0j) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:29 |
-| 6 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 |
+| 5 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 |
+| 6 | [Ik Laat Je Los](https://open.spotify.com/track/4uQbpGV07Epf8AkCmanh0j) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:29 |
 | 7 | [100 SMSjes](https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [100 SMSjes](https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG) | 2:31 |
 | 8 | [1%](https://open.spotify.com/track/3U1sLMV37PoS7i5aApZXIx) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:41 |
 | 9 | [Wat Jij Ook Zegt](https://open.spotify.com/track/2NJiiDb6ztLlPYChbQeNZF) | [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Wat Jij Ook Zegt](https://open.spotify.com/album/3D1AJgS2JftiRpPGUF304Y) | 2:34 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 29 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 | 30 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
 
-Snapshot ID: `Mjc1ODc1NDIsMDAwMDAwMDA4M2E3MmUyNGM2ZTcyZDJiN2VlMmQ5Y2VkNzY2ZTM3Mw==`
+Snapshot ID: `Mjc1ODg5ODIsMDAwMDAwMDAwNTE1ZGU2N2JmY2EwMzdjY2MxMWVjMDhjNDRkOTc1Zg==`

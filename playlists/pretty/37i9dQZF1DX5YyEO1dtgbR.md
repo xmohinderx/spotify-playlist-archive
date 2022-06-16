@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,355 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,375 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

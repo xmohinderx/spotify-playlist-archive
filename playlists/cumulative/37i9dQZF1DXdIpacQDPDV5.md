@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Return Of The Jaded
 
-324 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+325 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 |  |
 | [No Reason](https://open.spotify.com/track/4Eg3GyadlKhfqYCz22kfwf) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [No Reason](https://open.spotify.com/album/5RECCbe1kLEXDxXTRfy24x) | 3:16 | 2022-06-03 |  |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-11 | 2022-06-04 |
+| [Now or Never](https://open.spotify.com/track/5bRGtuu90GEH5Abl3pHX32) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Now or Never](https://open.spotify.com/album/2bgpoJ0PCzrt9YtIEzSjHG) | 2:59 | 2022-06-15 |  |
 | [Nuclear Lethargy](https://open.spotify.com/track/1OibEvLxYUIkQyFekXqC5N) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Nuclear Lethargy](https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c) | 5:44 | 2021-12-31 | 2022-01-22 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2021-12-31 | 2022-02-05 |
 | [Offshore](https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6) | 3:19 | 2022-05-13 |  |
@@ -242,7 +243,7 @@
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2021-12-31 | 2022-02-19 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-04-08 | 2022-05-14 |
 | [Sillo](https://open.spotify.com/track/41nCgrlaeqVkMCcAEPuu6O) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Sillo](https://open.spotify.com/album/5cMRL9Nv0wLvuArkp3qC9h) | 4:38 | 2022-02-04 | 2022-03-26 |
-| [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 |  |
+| [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-06-16 |
 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 | 2021-12-31 | 2022-03-26 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-04-01 | 2022-04-29 |
 | [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-02-18 | 2022-04-29 |

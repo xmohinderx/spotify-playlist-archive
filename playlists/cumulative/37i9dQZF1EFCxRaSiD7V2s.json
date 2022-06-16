@@ -1426,6 +1426,32 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Hrishikesh Hirway",
+          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
+        },
+        {
+          "name": "Ty Demo",
+          "url": "https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS"
+    },
+    {
+      "album": {
         "name": "Songs from Season Three",
         "url": "https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK"
       },

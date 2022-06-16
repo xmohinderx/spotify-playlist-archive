@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-185 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+186 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 |  |
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 |  |
+| [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 |  |
 | [Lights Out](https://open.spotify.com/track/75QDpUx2auLj2WBmq4D4DO) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Lights Out](https://open.spotify.com/album/1O3Pne76S6foaWI0eLw3BJ) | 2:55 | 2022-04-04 | 2022-06-15 |

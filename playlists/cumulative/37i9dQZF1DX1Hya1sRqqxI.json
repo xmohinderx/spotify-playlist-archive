@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "A Glass Of Champagne",
       "url": "https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/2buRmJYRPpGeSjDeHLAMjS"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 170000,
       "name": "Da Doo Ron Ron",
       "url": "https://open.spotify.com/track/0BTjoeNHz0mSjXCZO4hzad"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/4Q0ML89z8cVzfuR04Sq8Md"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 315013,
       "name": "Disco Stomp",
       "url": "https://open.spotify.com/track/3mUkLWIadGyGfhMx4MRfB6"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 435160,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/0bFGteEuBXbVd0fbV2XpD3"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 163093,
       "name": "Down By The Lazy River",
       "url": "https://open.spotify.com/track/49ZAeWd40u4py51DpjEY8p"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 182933,
       "name": "Down on the Beach Tonight",
       "url": "https://open.spotify.com/track/4KDpLCemsZDAa8lsEaY8AW"
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Gimme Dat Ding!",
+        "url": "https://open.spotify.com/album/6Oo7W243iYDwjnWzQJaCx9"
+      },
+      "artists": [
+        {
+          "name": "The Pipkins",
+          "url": "https://open.spotify.com/artist/7b8blpDsdFfs5DMMMLBuX0"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134106,
+      "name": "Gimme Dat Ding",
+      "url": "https://open.spotify.com/track/0SolModrdnbWok9RG9JlEK"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180280,
       "name": "I Saw the Light - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 347666,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/59mUgn4E4DWcB2lh5oRG2I"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 227733,
       "name": "Knock on Wood - 7\" Edit",
       "url": "https://open.spotify.com/track/7vMRj40Rw8PPgZiDcbyUdj"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
@@ -2711,7 +2729,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 189582,
       "name": "Makin' It - Rerecorded",
       "url": "https://open.spotify.com/track/3AMfeZyUiBoZvQ6XgP3dV2"
@@ -2751,7 +2769,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 254240,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/74UWXHeikO5C3ScEREk42E"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 165789,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 288426,
       "name": "No More Tears (Enough Is Enough)",
       "url": "https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 259373,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/7GqOrtlqGjt5kFlPK63ErE"
@@ -3054,6 +3072,24 @@
     },
     {
       "album": {
+        "name": "I Wrote A Simple Song",
+        "url": "https://open.spotify.com/album/02xgi7oFRl22FFr9GU8t1c"
+      },
+      "artists": [
+        {
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "Outa-Space",
+      "url": "https://open.spotify.com/track/17KFO56mkVEKR0v8qOPlkU"
+    },
+    {
+      "album": {
         "name": "Aja",
         "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
@@ -3083,7 +3119,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 234586,
       "name": "Pick up the Pieces",
       "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
@@ -3231,7 +3267,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
@@ -3375,7 +3411,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 182139,
       "name": "Save Your Kisses For Me",
       "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
@@ -3649,7 +3685,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 207480,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/4areksgU8Nn6bf0kIAY8q0"
@@ -3685,7 +3721,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 187677,
       "name": "Son Of My Father",
       "url": "https://open.spotify.com/track/3Jwalo4hQy4AHqtnyGUoMk"
@@ -3797,7 +3833,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 209893,
       "name": "Sugar Baby Love",
       "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
@@ -3903,7 +3939,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 255826,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5B7S7GjR1tuyeDLSRNiTMO"
@@ -4119,7 +4155,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
@@ -4137,7 +4173,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "The Candy Man",
       "url": "https://open.spotify.com/track/5yjuIx3UvOKHwLsCuM3DMM"
@@ -4191,7 +4227,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 258159,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/0VfChJZ7U09p5ipsktXQiO"
@@ -4325,7 +4361,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 192386,
       "name": "Under the Moon of Love",
       "url": "https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1"
@@ -4379,7 +4415,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 309173,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
@@ -4523,7 +4559,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 215893,
       "name": "Whodunit",
       "url": "https://open.spotify.com/track/0BBbu8hIArB01X4VdpFT5f"
@@ -4559,7 +4595,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 268200,
       "name": "Will It Go Round In Circles",
       "url": "https://open.spotify.com/track/294jxC0FoNIhB2pryRLvJ3"
@@ -4631,7 +4667,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 183413,
       "name": "You Got What It Takes",
       "url": "https://open.spotify.com/track/5auFbexb2joXt2KNS91L8s"

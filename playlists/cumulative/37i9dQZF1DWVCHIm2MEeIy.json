@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 384444,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 416281,
       "name": "Athena",
       "url": "https://open.spotify.com/track/1RexdlwR5kbbzyQf4F3P5Y"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 377200,
       "name": "Breathe - Digitalism Remix",
       "url": "https://open.spotify.com/track/1ngkdVl6BEQ8xiEUu6UKP5"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 459879,
       "name": "Chiron",
       "url": "https://open.spotify.com/track/0877TW41INgRxwCBIhLwGm"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 222451,
       "name": "Come Back Around - Maya Jane Coles Remix",
       "url": "https://open.spotify.com/track/4n2gEtt5HWKGERlbGDj3Dz"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 250171,
       "name": "Creature",
       "url": "https://open.spotify.com/track/3qtb4QrRXds6ub4k1Dp4CS"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 408188,
       "name": "Esp\u00edritu de la Tierra",
       "url": "https://open.spotify.com/track/2Wrsk3l6kA2LBjs2V7krgx"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 248709,
       "name": "Fall to the Call",
       "url": "https://open.spotify.com/track/4diYc4BmafdpQiixJ6zVBI"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 361039,
       "name": "Friends - Alfred Heinrichs Remix",
       "url": "https://open.spotify.com/track/1Pmk0jbis41ji8kl1sjMnF"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 208000,
       "name": "Gazer",
       "url": "https://open.spotify.com/track/7xGIyQpk0Xkr2f7QsvqEcN"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 238080,
       "name": "Haute Definition",
       "url": "https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 241790,
       "name": "HOME",
       "url": "https://open.spotify.com/track/5PMHTWprDQND43PU27PN9F"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
@@ -1548,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Mutations IV: If They Like It",
+        "url": "https://open.spotify.com/album/4ypi3MtYDmd6y7bnDc56zP"
+      },
+      "artists": [
+        {
+          "name": "Enzo Elia",
+          "url": "https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315903,
+      "name": "If They Like It",
+      "url": "https://open.spotify.com/track/4Vh0Z6aKB5lpScMJ3z2kqb"
+    },
+    {
+      "album": {
         "name": "The Selador Showcase - The Phenomenal Fifteenth",
         "url": "https://open.spotify.com/album/0IdBHTWEw5scv60okmQpFE"
       },
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 228196,
       "name": "Irani - Joris Delacroix Remix",
       "url": "https://open.spotify.com/track/0RAKYllv4sHLI5GzDXIOqd"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 386506,
       "name": "Libertas",
       "url": "https://open.spotify.com/track/4hiKwWocPmJe06qhGHemgI"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 216149,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/757JuM40p8TmQhT41WVLsS"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 384761,
       "name": "Magic Nights - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/4ff0BdLgicfCTBRpIt3jd4"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "Makarska - Vanita Remix",
       "url": "https://open.spotify.com/track/3JJxoW8289IEbnJvRm3HfO"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 166440,
       "name": "Paper Aeroplane (feat. Leo Stannard)",
       "url": "https://open.spotify.com/track/0KaVFd0jKjEjX0Xc5gmHc7"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 313809,
       "name": "Pont de la Caille",
       "url": "https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 300967,
       "name": "Raaaw",
       "url": "https://open.spotify.com/track/3rURdGhiVS3rcRQM4NPoz4"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 429910,
       "name": "Radio, Radio",
       "url": "https://open.spotify.com/track/0cXWPlmItEo1ZeCruguXir"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 408866,
       "name": "Radix",
       "url": "https://open.spotify.com/track/500IbSzCDw1kwSCQJTI1HO"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 345273,
       "name": "Rejection - Martin Waslewski Remix",
       "url": "https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 340815,
       "name": "Sahara - Mollono.Bass Remix",
       "url": "https://open.spotify.com/track/1a7In4lqS3IWpl5BC9W4lZ"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 441898,
       "name": "Silence & Secrets - Adriatique Remix",
       "url": "https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 292968,
       "name": "Sleeper in Metropolis - Robin Hirte Remix",
       "url": "https://open.spotify.com/track/4UTbzsggBcjfr6VDuBWLCv"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 211106,
       "name": "Survival Mode",
       "url": "https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 372876,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1wHryy89PY492h8PH0Bezo"
@@ -2917,7 +2935,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 296114,
       "name": "Tears of Bliss",
       "url": "https://open.spotify.com/track/2GH24tjaDXuxjJ21vDzU8k"
@@ -2935,7 +2953,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 428814,
       "name": "That Breeze",
       "url": "https://open.spotify.com/track/1OjIjbnrxj6D3HQFnIMZdh"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 414335,
       "name": "The Sky Is Red",
       "url": "https://open.spotify.com/track/2CYsjZ2oxUK9KhKqEAMTsL"
@@ -3101,7 +3119,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 416502,
       "name": "The World Beyond",
       "url": "https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6"
@@ -3241,7 +3259,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 357120,
       "name": "Trust the Process",
       "url": "https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 439680,
       "name": "Vodka & Orange",
       "url": "https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC"
@@ -3409,7 +3427,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 449615,
       "name": "We Are",
       "url": "https://open.spotify.com/track/04xK8T8fqpJbUZgNgcpszu"

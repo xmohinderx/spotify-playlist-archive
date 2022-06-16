@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-52 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+53 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 |  |
+| [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 |  |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 |  |
@@ -44,7 +45,7 @@
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 |  |
 | [R A B O N A](https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [R A B O N A](https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs) | 2:50 | 2022-06-08 |  |
 | [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 |  |
-| [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2022-04-06 |  |
+| [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2022-04-06 | 2022-06-16 |
 | [Reflection](https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i), [CHERITON](https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB) | [Reflection](https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5) | 4:15 | 2022-05-11 |  |
 | [Roses](https://open.spotify.com/track/379cChcS43x1BGboAC6QUI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6fCFZtSy5xJs3t87nPriYZ) | 2:52 | 2021-11-05 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 |  |

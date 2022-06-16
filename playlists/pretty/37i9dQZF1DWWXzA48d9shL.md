@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,839 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,259 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 32 | [BLOOD RACE](https://open.spotify.com/track/0D3SaRvnoMohXOEJ75GieD) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLOOD RACE](https://open.spotify.com/album/0Z2rXTvzrwiyWAtsMFrqg5) | 1:49 |
 | 33 | [Benchmade Infidel](https://open.spotify.com/track/72v5b2l8MRF1DobVRCQTiO) | [Redneck Zombie$](https://open.spotify.com/artist/2Iq3buoFzm7HMWVXN0V6XT), [Bill $Aber](https://open.spotify.com/artist/1JG8nsd3YNDOMUAv7EHXvK) | [Benchmade Infidel](https://open.spotify.com/album/6PV83UpHaLuglJFjkYnuF1) | 2:22 |
 | 34 | [Break Shit](https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:35 |
-| 35 | [LIVE FAST DIE SLOW \(ft\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(ft\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 |
+| 35 | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 |
 | 36 | [Goosebumps!](https://open.spotify.com/track/3KBM4E7O7CHf4nJBYAXKSZ) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Goosebumps!](https://open.spotify.com/album/34jEJ49vmY9S2xu2VOktWX) | 2:08 |
 | 37 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 |
 | 38 | [Alone](https://open.spotify.com/track/7CwPDvjGUUyPSJK8HudIlO) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Alone](https://open.spotify.com/album/2maX4LyB1EfbKvUp6SXYRP) | 2:10 |

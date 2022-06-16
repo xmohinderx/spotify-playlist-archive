@@ -205,7 +205,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 487666,
       "name": "Be Still - Live",
       "url": "https://open.spotify.com/track/6OIzniRIlDqO4DQ6Way8P3"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 413960,
       "name": "Breathe Out Your Praise (Spontaneous)",
       "url": "https://open.spotify.com/track/2HvX1XCJrpckOrYmoCRrUG"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 359706,
       "name": "Come Alive - Live",
       "url": "https://open.spotify.com/track/21GC6My9aNV67ZOAi38Tjf"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 42373,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 334890,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/01hjcNc0g0XEEnrzlOKEtY"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 326612,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/7bQNc5PaDgv08uz6KX0Cp1"
@@ -919,6 +919,28 @@
       "duration_ms": 218438,
       "name": "GOD SAID LIVE! (Live)",
       "url": "https://open.spotify.com/track/6mE9CJoyF1BOMLwHhE2eae"
+    },
+    {
+      "album": {
+        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        },
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315946,
+      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
     },
     {
       "album": {
@@ -1047,7 +1069,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
@@ -1101,7 +1123,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 282293,
       "name": "Heart Wide Open",
       "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
@@ -1337,7 +1359,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 473346,
       "name": "I Am Loved + Do It Again - Live",
       "url": "https://open.spotify.com/track/1pTHZMoy439I2QHN5YwSFZ"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 326706,
       "name": "Mention of Your Name",
       "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
@@ -1825,7 +1847,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 328542,
       "name": "Never Lost",
       "url": "https://open.spotify.com/track/5xsmcEahwFah2bIIhXhSd0"
@@ -2051,7 +2073,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 293986,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1tk77A21RXGJK1JaT3QkU2"
@@ -2229,7 +2251,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 339266,
       "name": "Praise Will Be My Song",
       "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
@@ -2349,7 +2371,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 732553,
       "name": "Refiner",
       "url": "https://open.spotify.com/track/0bHcGi6iafYk4TUrqvDYya"
@@ -2425,7 +2447,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "Safe",
       "url": "https://open.spotify.com/track/0zHIVxQLtHQFUrtySFKK5V"
@@ -2487,7 +2509,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 247786,
       "name": "See The Light - Studio",
       "url": "https://open.spotify.com/track/0Gk81MXzgB79Dk5jgcxfXV"
@@ -2635,7 +2657,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 459413,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7x4esPGTxWGz67QyrEauLo"
@@ -2879,7 +2901,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 339520,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/45LRF6yJJO6RNcFhkNt569"
@@ -2922,6 +2944,24 @@
     },
     {
       "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347893,
+      "name": "There Is a Cloud",
+      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/36eJUFJcPxaUpCiKt9R7b5"
       },
@@ -2933,7 +2973,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 551026,
       "name": "There Is A Name (Live)",
       "url": "https://open.spotify.com/track/4kRES17Rch8ZEr4dJU7zRX"
@@ -3377,7 +3417,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 362746,
       "name": "You Deserve It All",
       "url": "https://open.spotify.com/track/7yqDyoAzXsz3YYLnwR3ilc"
@@ -3417,7 +3457,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 277733,
       "name": "You Never Let Go",
       "url": "https://open.spotify.com/track/1b5863Da4fmbWu9EPZa5WS"
@@ -3439,7 +3479,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 296400,
       "name": "You Satisfy (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
@@ -3475,7 +3515,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 383560,
       "name": "You're Making Something Beautiful - Spontaneous/Live",
       "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"

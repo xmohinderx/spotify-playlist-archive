@@ -323,7 +323,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 223459,
       "name": "Every Good Thing",
       "url": "https://open.spotify.com/track/6zhK6WjjKUdNjP4LZ402Dg"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 296343,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 223946,
       "name": "I just need U.",
       "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 266434,
       "name": "I Still Believe (Faithful Always)",
       "url": "https://open.spotify.com/track/5D7VjqVm0gE29TUWBz7Dv6"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 237198,
       "name": "Live Like That",
       "url": "https://open.spotify.com/track/57AkqsgHz0IAOco81sAIgx"
@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Eye On It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214665,
+      "name": "Me Without You",
+      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
+    },
+    {
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/11UPUq8hVQ8xAP4sDVVaVw"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 236000,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/1R1TTzq1Z8fP12zgTT1j0V"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 227266,
       "name": "Remind Me Who I Am",
       "url": "https://open.spotify.com/track/5eqz8gTDU13s7x2DZKiQA9"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 183197,
       "name": "Strength Of My Heart",
       "url": "https://open.spotify.com/track/7aaNiUh38R0cKOp67sKMcJ"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 261880,
       "name": "The Only Name [Yours Will Be]",
       "url": "https://open.spotify.com/track/3jSYHMLEH3MHhSRYy9ywRV"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 183706,
       "name": "This Is The Stuff",
       "url": "https://open.spotify.com/track/747mWSVOmyTQ2siMjLn0v9"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 212600,
       "name": "Unfinished",
       "url": "https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"

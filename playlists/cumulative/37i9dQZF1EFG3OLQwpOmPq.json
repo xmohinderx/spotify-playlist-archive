@@ -472,6 +472,32 @@
     },
     {
       "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179843,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y"
+    },
+    {
+      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5"
       },
@@ -508,6 +534,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Be Me",
+        "url": "https://open.spotify.com/album/4LCZyfna7fJpsMstdTjbVX"
+      },
+      "artists": [
+        {
+          "name": "Alex Aiono",
+          "url": "https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191847,
+      "name": "I Can\u2019t Be Me",
+      "url": "https://open.spotify.com/track/6zu3Rz7BgVmeE7QD4DcWzN"
+    },
+    {
+      "album": {
         "name": "i'm glad that you found someone",
         "url": "https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6"
       },
@@ -541,10 +585,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 123840,
       "name": "ibtc",
       "url": "https://open.spotify.com/track/6QtBzhRBv5nrIDYIAiS2gh"
+    },
+    {
+      "album": {
+        "name": "crydancing",
+        "url": "https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "ibtc - remix",
+      "url": "https://open.spotify.com/track/6ypSVHZWCXAk3siHdJOspd"
     },
     {
       "album": {
@@ -653,6 +719,28 @@
       "duration_ms": 198139,
       "name": "love notes and hate mail",
       "url": "https://open.spotify.com/track/2UbMXiSOvDNT9YTQVb2fZV"
+    },
+    {
+      "album": {
+        "name": "joke's on you",
+        "url": "https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF"
+      },
+      "artists": [
+        {
+          "name": "guccihighwaters",
+          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
+        },
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163957,
+      "name": "lovesick (feat. ellise)",
+      "url": "https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh"
     },
     {
       "album": {
@@ -765,6 +853,28 @@
       "duration_ms": 194615,
       "name": "new heartbreak",
       "url": "https://open.spotify.com/track/7as2G7f005jH4jNMI4UX8A"
+    },
+    {
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "No Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2XcefXbBEpVDyPrPXDBhpc"
     },
     {
       "album": {

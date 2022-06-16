@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nico Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,754 likes - 93 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,758 likes - 93 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

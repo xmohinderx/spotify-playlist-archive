@@ -74,6 +74,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 221428,
       "name": "F\u00fatbol & Rumba (feat. Enrique Iglesias)",
       "url": "https://open.spotify.com/track/2hDe0Ls5mVqs1XJqv7sbcM"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 192745,
       "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
       "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n"
@@ -2156,6 +2174,28 @@
     },
     {
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/6aaV7ZSqieuAVIhaFlkBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247506,
+      "name": "Sentido",
+      "url": "https://open.spotify.com/track/5omDX9Ne3KCDCSOMFJJkpB"
+    },
+    {
+      "album": {
         "name": "Somos Nada",
         "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
       },
@@ -2189,7 +2229,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
@@ -2273,6 +2313,28 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "album": {
@@ -2563,7 +2625,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

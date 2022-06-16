@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,968,080 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,969,504 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
-| 2 | [The Spins](https://open.spotify.com/track/7qfZ0ViYLmV3MKeZ0Z7htT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/5pL6fzBD4sLs9hyau2CeUi) | 3:15 |
-| 3 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
-| 4 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
-| 5 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 |
+| 1 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 |
+| 2 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
+| 3 | [The Spins](https://open.spotify.com/track/7qfZ0ViYLmV3MKeZ0Z7htT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/5pL6fzBD4sLs9hyau2CeUi) | 3:15 |
+| 4 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
+| 5 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 6 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
 | 7 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 8 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 89 | [Beat of My Drum](https://open.spotify.com/track/7hVsdXC9zRDiWFfhdmkYC8) | [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Beat of My Drum](https://open.spotify.com/album/7DfCqhb5eVIsX8oeM1iklZ) | 3:25 |
 | 90 | [For a Minute](https://open.spotify.com/track/4W1hy390P7IYBFbdvwzZBw) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For a Minute](https://open.spotify.com/album/5GRYCbywEXtS7c1vMGnURb) | 1:48 |
 
-Snapshot ID: `MTY1NTIyOTY5MCwwMDAwMDBlYjAwMDAwMTgxNjM2MGIzZmUwMDAwMDE3ODZhM2IzNzNh`
+Snapshot ID: `MTY1NTMyMDIwNiwwMDAwMDBlYzAwMDAwMTgxNjhjNWRlMDEwMDAwMDE3ODZhM2IzNzNh`

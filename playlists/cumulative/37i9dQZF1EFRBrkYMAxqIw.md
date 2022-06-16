@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+66 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,5 +73,6 @@
 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 | 2022-05-25 |  |
 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 | 2022-05-25 |  |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2022-05-25 |  |
+| [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 | 2022-06-15 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

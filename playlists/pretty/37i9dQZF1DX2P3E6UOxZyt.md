@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 吳霏 \(FEI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,479 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,495 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [偷走青春的歲月](https://open.spotify.com/track/4NEt76oRzbOeJeGFmmG4nn) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [偷走青春的歲月](https://open.spotify.com/album/2tJ659pRFGkbC9ibRswD8D) | 4:19 |
 | 60 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 |
 
-Snapshot ID: `MTY1NTI1NTQ0NywwMDAwMDAwMGY1YmVmMDY4NDk1ODRkMDZiMmI3YTdjZTQxZWI0OTE0`
+Snapshot ID: `MTY1NTM0MTgwMSwwMDAwMDAwMGY1YmVmMDY4NDk1ODRkMDZiMmI3YTdjZTQxZWI0OTE0`

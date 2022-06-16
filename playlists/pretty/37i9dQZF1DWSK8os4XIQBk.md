@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,326 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,367 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Learn From It](https://open.spotify.com/track/4mWmGRifrQqHwZkaZyjs68) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Didn't Go Too Far](https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj) | 2:59 |
 | 100 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
 
-Snapshot ID: `MTY1NTI1NDkzMCwwMDAwMDAwMGRmNzM0MmMzMzg1NTk5ZTE5NWI2YTUwNDgwMTU5YWM4`
+Snapshot ID: `MTY1NTM0MTI3NywwMDAwMDAwMGRmNzM0MmMzMzg1NTk5ZTE5NWI2YTUwNDgwMTU5YWM4`

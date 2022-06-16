@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "Esta Noche No Parece Igual (En Vivo en Mr. Jones)",
+        "url": "https://open.spotify.com/album/3ruPgicuSbKH3JFcDMr4P6"
+      },
+      "artists": [
+        {
+          "name": "Willy Quiroga",
+          "url": "https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE"
+        },
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "A Nadie Le Interesa Si Qued\u00e1s Atr\u00e1s - En Vivo en Mr. Jones",
+      "url": "https://open.spotify.com/track/2ySORtlOGpMRX0EJ6NDDwd"
+    },
+    {
+      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 222226,
       "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
       "url": "https://open.spotify.com/track/7h5HLYcfviLPgldQzM0MnA"
@@ -207,7 +229,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
@@ -305,7 +327,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 369590,
       "name": "Antes y Despu\u00e9s (En Vivo en River 2018)",
       "url": "https://open.spotify.com/track/3O3RCDvoRRDKKcxdz43mKt"
@@ -323,7 +345,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
@@ -341,7 +363,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 280530,
       "name": "Astros (En Vivo en River 2018)",
       "url": "https://open.spotify.com/track/2XLbqpwSsnURbn6uVPIgcK"
@@ -359,7 +381,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 544986,
       "name": "Astros - En Vivo en River 2018",
       "url": "https://open.spotify.com/track/0dLhI6DsfJfGvB1Pa3jPZ4"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 291139,
       "name": "Banda de Garage (En Vivo en River 2018)",
       "url": "https://open.spotify.com/track/17GPcNBS27j8QSD6zqcSID"
@@ -489,7 +511,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 243253,
       "name": "Barek - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
@@ -543,7 +565,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 186253,
       "name": "Brujer\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/015RsJDM2y6Wl4zKr5NjDM"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 294623,
       "name": "Cancion de Elogio",
       "url": "https://open.spotify.com/track/6fXi6UCEGRb2cboL2YVZRL"
@@ -633,7 +655,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 237259,
       "name": "Canci\u00f3n Cantaro",
       "url": "https://open.spotify.com/track/0ZZhMqIdbVtYbq5Pykn4VF"
@@ -705,7 +727,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 195400,
       "name": "Carol (En Vivo en el Hip\u00f3dromo)",
       "url": "https://open.spotify.com/track/5MUErlwfsEmFAVVKRVDzvF"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 205080,
       "name": "Carol - Vivo",
       "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 236802,
       "name": "Chino",
       "url": "https://open.spotify.com/track/2itM9PP3LGo6DgyJpBY4JX"
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 236680,
       "name": "Desde Lejos No Se Ve - En Vivo",
       "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 250204,
       "name": "Desde Lejos No Se Ve - En Vivo en River 2018",
       "url": "https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT"
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 282306,
       "name": "Donde Vamos",
       "url": "https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up"
@@ -1287,7 +1309,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "El Viejo (En Vivo)",
       "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
@@ -1341,7 +1363,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 289804,
       "name": "Ella Vendr\u00e1",
       "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 244071,
       "name": "Envuelto en Llamas (Live)",
       "url": "https://open.spotify.com/track/1zf4a8hddJfZgxV7hjmyFx"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 212413,
       "name": "Fuera De Control (En Vivo)",
       "url": "https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH"
@@ -1837,7 +1859,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 381826,
       "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
       "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
@@ -1855,7 +1877,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
@@ -2007,7 +2029,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 283960,
       "name": "Lo Fr\u00e1gil De La Locura - Live",
       "url": "https://open.spotify.com/track/1FxvFXAutp76HSgRv3E9NV"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 229266,
       "name": "Loco un Poco - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/6sFlPg9uvTFUbZiPQuINTE"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 299176,
       "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
       "url": "https://open.spotify.com/track/4TnUhIbX7053TiZLNLLgV8"
@@ -2119,7 +2141,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
@@ -2155,7 +2177,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 414120,
       "name": "Marad\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
@@ -2263,7 +2285,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 249813,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O"
@@ -2299,7 +2321,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 182192,
       "name": "Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/6vQRSyzbD9UjBLD5os49n6"
@@ -2339,7 +2361,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 271066,
       "name": "Mirada Speed - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/5TGoGRyAsi2mbL3WTgIORw"
@@ -2357,7 +2379,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 345226,
       "name": "Morella - En Vivo",
       "url": "https://open.spotify.com/track/45IxlTNzM9Sn4ionmmFMxi"
@@ -2411,7 +2433,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 334258,
       "name": "Mujer Amante - En Vivo",
       "url": "https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ"
@@ -2429,7 +2451,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 200096,
       "name": "M\u00e1s All\u00e1 o M\u00e1s Ac\u00e1 - En Vivo",
       "url": "https://open.spotify.com/track/6GWr98MylDihLmEuGrRHXf"
@@ -2747,7 +2769,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 258816,
       "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
       "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
@@ -2853,7 +2875,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 309720,
       "name": "Pistolas - En Vivo",
       "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
@@ -2871,7 +2893,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 262654,
       "name": "Prometeo - En Vivo en River 2018",
       "url": "https://open.spotify.com/track/1FkeIFQQkaSBp9YT6Ua54I"
@@ -2907,7 +2929,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 150240,
       "name": "Puto - En Vivo Desde Rusia/2010",
       "url": "https://open.spotify.com/track/4gWx880c6YdT5L25NjxmIM"
@@ -3113,7 +3135,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
@@ -3279,7 +3301,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 198373,
       "name": "Sola En Los Bares",
       "url": "https://open.spotify.com/track/6x22cPAEzDYmbYEZoFsTUD"
@@ -3297,7 +3319,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 232035,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5FpCjtZiQ1fEBcsJFdOrtU"
@@ -3315,7 +3337,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 262866,
       "name": "Solo Voy - En Vivo",
       "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
@@ -3403,7 +3425,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 261680,
       "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
       "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
@@ -3439,7 +3461,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 271617,
       "name": "Tan Blanca, Tan Azul(En Vivo Estadio Malvinas Argentinas) - En vivo",
       "url": "https://open.spotify.com/track/4X8qu2irPHD4ImLI5OfNfp"
@@ -3721,7 +3743,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 273665,
       "name": "Todos a los Botes! - En Vivo",
       "url": "https://open.spotify.com/track/2drEdi7YZo7Y4SuV6jsjDt"
@@ -3793,7 +3815,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 143769,
       "name": "T\u00e9 para Tres",
       "url": "https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY"
@@ -3833,7 +3855,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 241145,
       "name": "Ultraviolento",
       "url": "https://open.spotify.com/track/5grGsiKhTxKtfOsAUkdziR"
@@ -3923,7 +3945,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 323240,
       "name": "Vida de Topos (En Vivo)",
       "url": "https://open.spotify.com/track/7f6xk2AqKnSgSzrC279AS2"
@@ -4025,7 +4047,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 226186,
       "name": "Yo Tomo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
@@ -4043,7 +4065,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 487597,
       "name": "\u00bfQu\u00e9 Tal? (En Vivo)",
       "url": "https://open.spotify.com/track/5L4FkYBqBBcGBhD72rebEh"

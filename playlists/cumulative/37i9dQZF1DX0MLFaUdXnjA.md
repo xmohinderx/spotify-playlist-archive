@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Sanchez
 
-966 songs - 2 day 3 hr 7 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+967 songs - 2 day 3 hr 10 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,7 +875,7 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2021-06-12 |
 | [Till It Hurts](https://open.spotify.com/track/1du95sy36LOvI8FtkHUWT8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Till It Hurts](https://open.spotify.com/album/67vGDzcLTJomTxDt3BImZe) | 3:20 | 2021-07-31 | 2021-10-30 |
 | [Time After Time \- From The McDonald’s Christmas Advert 2021](https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Time After Time \(From The McDonald’s Christmas Advert 2021\)](https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm) | 2:43 | 2021-11-13 | 2022-01-22 |
-| [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-05-27 |  |
+| [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-05-27 | 2022-06-16 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2020-04-26\* | 2020-07-31 |
 | [To Do:](https://open.spotify.com/track/3qPsDY5dVRd3l7gBy9lRGu) | [LAOISE](https://open.spotify.com/artist/23an6pADJ65QGp0XlnkYkI) | [Healthy](https://open.spotify.com/album/2AQCfSl49naMZVEewJdL6k) | 3:00 | 2021-02-26 | 2021-04-03 |
 | [to get over you](https://open.spotify.com/track/5npVmfprLWcxg2ORsuvQhn) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [to get over you](https://open.spotify.com/album/0GDyTUzgG4CaMnprl6sAa4) | 2:50 | 2021-07-10 | 2021-09-11 |
@@ -940,6 +940,7 @@
 | [When The World Falls](https://open.spotify.com/track/7kSpV3Ib556knJyYz1Him2) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [When The World Falls](https://open.spotify.com/album/5RHWsO0Ib1r9SGmdIA78sF) | 2:43 | 2021-08-07 | 2021-08-28 |
 | [When U Saw Love \(ft\. Babygirl\)](https://open.spotify.com/track/2DGdgztVbE3pFmqoF1rHzp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 3:26 | 2021-05-15 | 2021-07-04 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 | 2021-07-04 |
+| [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-06-15 |  |
 | [Where Am I At](https://open.spotify.com/track/6QMgSasUZYyVzaAvc7BYLZ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Where Am I At](https://open.spotify.com/album/0oiUtTyxDcpLzvLqBykjY8) | 3:28 | 2020-04-26\* | 2020-05-16 |
 | [Where You Are](https://open.spotify.com/track/6GJoFuKS9JRNmNgGJzCDmW) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP) | 3:31 | 2020-10-09 | 2021-01-15 |
 | [While I'm Alive](https://open.spotify.com/track/0ajbF8tQsSRxswoY9ZFtOg) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 3:30 | 2021-07-28 | 2021-08-14 |

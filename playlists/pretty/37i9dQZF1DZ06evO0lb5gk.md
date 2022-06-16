@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,676 likes - 42 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,737 likes - 41 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 12 | [Oroborus](https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:21 |
 | 13 | [Sphinx](https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:00 |
 | 14 | [Born in Winter](https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 3:51 |
-| 15 | [The Cell](https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:17 |
+| 15 | [The Shooting Star](https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 5:42 |
 | 16 | [Vacuity](https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 4:51 |
 | 17 | [Another World](https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:24 |
 | 18 | [From The Sky](https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:48 |
-| 19 | [The Shooting Star](https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 5:42 |
+| 19 | [The Cell](https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 3:17 |
 | 20 | [Esoteric surgery](https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:44 |
 | 21 | [Born For One Thing](https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:20 |
 | 22 | [Ocean Planet](https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:32 |
@@ -35,20 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 25 | [New Found](https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 6:36 |
 | 26 | [Where Dragons Dwell](https://open.spotify.com/track/2dBTnT6T47pNHeXngkr2Vj) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 6:54 |
 | 27 | [Wolf down the earth](https://open.spotify.com/track/368sgQMnEzwo5mpShvPFJm) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 6:25 |
-| 28 | [Embrace the world](https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 4:39 |
+| 28 | [Death of me](https://open.spotify.com/track/1xgChyPxsSp3jgY61zmJyc) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:47 |
 | 29 | [Into The Storm](https://open.spotify.com/track/6TCxtJhcwImUhRzdPXRURA) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:02 |
 | 30 | [Blow Me Away You \- Niverse](https://open.spotify.com/track/3FfsRhBRDE7yxQbRZuSzBM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:09 |
-| 31 | [The Fall](https://open.spotify.com/track/6WwjzD7ZnIgzWHKyOvGqG1) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 5:25 |
-| 32 | [Remembrance](https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 4:35 |
-| 33 | [Clone](https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:57 |
-| 34 | [Liquid Fire](https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 |
-| 35 | [Death of me](https://open.spotify.com/track/1xgChyPxsSp3jgY61zmJyc) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:47 |
-| 36 | [Love](https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:19 |
+| 31 | [Liquid Fire](https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 |
+| 32 | [Embrace the world](https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 4:39 |
+| 33 | [Love](https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:19 |
+| 34 | [The Fall](https://open.spotify.com/track/6WwjzD7ZnIgzWHKyOvGqG1) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 5:25 |
+| 35 | [Remembrance](https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 4:35 |
+| 36 | [Lizard Skin](https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:30 |
 | 37 | [Indians](https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 3:58 |
-| 38 | [Lizard Skin](https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:30 |
+| 38 | [Space Time](https://open.spotify.com/track/2vPtc8B4NQhGY3eXghFn6X) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:20 |
 | 39 | [The link](https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:00 |
-| 40 | [Satan Is a Lawyer](https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:23 |
-| 41 | [Wisdom comes](https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 2:25 |
-| 42 | [Space Time](https://open.spotify.com/track/2vPtc8B4NQhGY3eXghFn6X) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 5:20 |
+| 40 | [Clone](https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:57 |
+| 41 | [Satan Is a Lawyer](https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:23 |
 
-Snapshot ID: `Mjc1ODcwMTQsMDAwMDAwMDBiZjA0ZGMwZGExODc2MzQxNzVhZWE1YTY2ODhmMmY4OA==`
+Snapshot ID: `Mjc1ODg0MjUsMDAwMDAwMDBkMDczOWM1MjBkMmZlNWIwMDhlNGY0OWJlNGI2ZDAxNg==`

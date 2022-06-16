@@ -4,13 +4,14 @@
 
 > Relax and unwind with gentle guitar covers.
 
-85 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
+92 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/5yP7t22KYynhr1sDloEb7P) | [Martin Tallstrom](https://open.spotify.com/artist/3oefnUOV5aATC6Nlfm34w5) | [Acoustics](https://open.spotify.com/album/1Xw78nkG80UrAndJn2jWrE) | 4:24 | 2022-05-20 |  |
 | [All of Me](https://open.spotify.com/track/7zASRqnZYlkU7hSTFGoACA) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 4:14 | 2022-05-20 |  |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-20 |  |
+| [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-15 |  |
 | [At Last](https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [At Last](https://open.spotify.com/album/0oBRuyGG8rJJAcZ3xQjkqH) | 2:57 | 2022-05-20 |  |
 | [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 | 2022-05-20 |  |
 | [Black Hole Sun](https://open.spotify.com/track/3bFxHisnzoCtIc2MdZ91dl) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Black Hole Sun](https://open.spotify.com/album/2bUV5PssdRehLXjYNhFuOo) | 3:28 | 2022-05-20 |  |
@@ -49,6 +50,8 @@
 | [I Can't Make You Love Me](https://open.spotify.com/track/0Th2vVrmdqvmfOfLsgbKXs) | [Christian Brock](https://open.spotify.com/artist/6xMVXba934pnedrlPFuoin) | [Waiting Waves](https://open.spotify.com/album/7r3F09Ae7QE2hCXVPrZRo8) | 4:58 | 2022-05-20 |  |
 | [I Just Called To Say I Love You](https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM) | [Ronald Simel](https://open.spotify.com/artist/3WAGPIS1MuIRLDN32soc71) | [Willow](https://open.spotify.com/album/3pnS4OYR8fWJkp5UUTWSB2) | 4:16 | 2022-05-20 |  |
 | [I Want to Break Free](https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/687NJvdn5hgkC5XCyILJ0u) | 1:56 | 2022-05-20 |  |
+| [I Won't Give Up](https://open.spotify.com/track/1IQJZKb4ETmWoLYBd2fevT) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [You Are My Sunshine](https://open.spotify.com/album/5HEMAReCb6wci79hLp5NEZ) | 4:01 | 2022-06-15 |  |
+| [If You Leave Me Now](https://open.spotify.com/track/0YCqrDZxu92UqtkqCLLFvl) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If You Leave Me Now](https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu) | 3:48 | 2022-06-15 |  |
 | [In Your Eyes](https://open.spotify.com/track/1AWyRQZP793viJUUU95omo) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:06 | 2022-05-20 |  |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2022-05-20 |  |
 | [Iris](https://open.spotify.com/track/32710csZDUuG7Q65jUmyHF) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Iris](https://open.spotify.com/album/3UIw5d1XM2kD9azjb7jiWp) | 3:43 | 2022-05-20 |  |
@@ -57,6 +60,7 @@
 | [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 |  |
 | [Let Her Go](https://open.spotify.com/track/2g1Dmw32Vmnnj9yy0GLj3m) | [James Bartholomew](https://open.spotify.com/artist/1Vyppo6e0BeS9y2MDF2h4g) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/0QfTHR4KvqlWXQAnpaSpqA) | 4:13 | 2022-05-20 |  |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-05-20 |  |
+| [Light Switch](https://open.spotify.com/track/0gpE9hyrd3hjERocbNwW5A) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Light Switch](https://open.spotify.com/album/1UEfAxnaJrTiTWej5d1ihK) | 3:25 | 2022-06-15 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 | 2022-05-20 |  |
 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 | 2022-05-20 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/4fYnPn3bHaT5X2MQ2S1OpC) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Make You Feel My Love](https://open.spotify.com/album/7zic0sRHlU4yHJI08sIYn5) | 3:19 | 2022-05-20 |  |
@@ -71,6 +75,7 @@
 | [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-20 |  |
 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-20 |  |
+| [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 |  |
 | [Stuck with you](https://open.spotify.com/track/3DxwjhRknMbHmPcS46zKrC) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 3:46 | 2022-05-20 |  |
 | [Summertime](https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Summertime](https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A) | 3:47 | 2022-05-20 |  |
@@ -87,11 +92,13 @@
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-05-20 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-05-20 |  |
 | [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 | 2022-05-20 |  |
+| [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 | 2022-06-15 |  |
 | [White Flag](https://open.spotify.com/track/1fyx6PWVYYTSMj6jlf7POt) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [White Flag](https://open.spotify.com/album/37SIYm8FCSnvgP1m0a3TLG) | 3:11 | 2022-05-20 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/41mxRygR9Via1XiQwNCZbh) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 2:13 | 2022-05-20 |  |
 | [You Are the Reason \(Acoustic Instrumental\)](https://open.spotify.com/track/2HZ1SeXEhfOpBkus7KGP47) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ) | [You Are the Reason \(Acoustic Instrumental\)](https://open.spotify.com/album/2IQfeMZm0Z4KeBWs5EXuVu) | 3:17 | 2022-05-20 |  |
 | [You Raise Me Up](https://open.spotify.com/track/6cz0daFvBVqHFhcUDN7Mli) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Jazz Instrumentals on Acoustic & Electric Guitar](https://open.spotify.com/album/46b4fyIPoOYtHRPuGnP2WQ) | 2:43 | 2022-05-20 |  |
 | [You're Still the One](https://open.spotify.com/track/4jjYXGmKpL2izx6VJzJ0Ma) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [You're Still the One](https://open.spotify.com/album/7xpZhCNYl9FXZjTNvzeRda) | 3:28 | 2022-05-20 |  |
+| [You've Got A Friend](https://open.spotify.com/track/3Y9IYPXXKPwVx4j6SEWdgt) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [You've Got a Friend](https://open.spotify.com/album/0alPhr1uNBkVeDL3YWSAaR) | 4:20 | 2022-06-15 |  |
 | [Your Song](https://open.spotify.com/track/0ZSFjbcjmMccbJbWouNRxR) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Your Song](https://open.spotify.com/album/6sXEv9gm3KucaAjT8FIvif) | 3:54 | 2022-05-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

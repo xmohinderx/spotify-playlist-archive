@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 7 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
 | 8 | [Younger](https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Younger](https://open.spotify.com/album/4rTW2Lgkp1nwYw0jNIK2sI) | 3:42 |
 | 9 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 |
-| 10 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
-| 11 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 10 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 11 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
 | 12 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 13 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 |
 | 14 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 20 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 21 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 |
 | 22 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
-| 23 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
-| 24 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
+| 23 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
+| 24 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 25 | [Paradise](https://open.spotify.com/track/6fOOKqQWcSy33ApU1wqkkW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:53 |
 | 26 | [Lonely](https://open.spotify.com/track/3zxLNqZoSbSr8V5emGDIU4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 4:41 |
 | 27 | [Exit Sign](https://open.spotify.com/track/4c2cdWv3GLKoP12tY0OzZl) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [The Great Expanse](https://open.spotify.com/album/4ROQFvVOISvh3ypktsynm1) | 3:43 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 111 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 112 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc1ODc1OTQsMDAwMDAwMDAwN2MyN2FhODhkNjhhZmEzMzk1ZjRjZmM5Y2JjNDYxNw==`
+Snapshot ID: `Mjc1ODkwMzQsMDAwMDAwMDBjZWFjZjRkM2M2YzI5ZjI0YTNkNWE3Y2M4ZDE0YzFjYg==`

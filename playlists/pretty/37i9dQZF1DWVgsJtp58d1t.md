@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Saucy Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,647 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Bad For Me](https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad For Me](https://open.spotify.com/album/76P0Wtel19KTU0nrKiecim) | 2:24 |
 | 100 | [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 |
 
-Snapshot ID: `MTY1NTI1NTA5OSwwMDAwMDAwMDM0MDM1OTRhZWViZTQ4ODMwMGQ2NDIyYjU0MzE3MTlm`
+Snapshot ID: `MTY1NTM0MTQ1MCwwMDAwMDAwMDM0MDM1OTRhZWViZTQ4ODMwMGQ2NDIyYjU0MzE3MTlm`

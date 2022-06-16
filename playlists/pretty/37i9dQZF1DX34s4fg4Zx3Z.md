@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,359 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,479 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 93 | [Có Phải Em Sợ Yêu](https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Có Phải Em Sợ Yêu](https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6) | 4:10 |
 | 94 | [HIPPU](https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS) | [HIPPU](https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL) | 2:10 |
 | 95 | [Tối Nay Có Điều Gì Anh Muốn Nói?](https://open.spotify.com/track/7G7mOUcVzEQQG761dW1hlr) | [Trà Long](https://open.spotify.com/artist/1QiNDiufzd27juQkJzOTkU) | [Tối Nay Có Điều Gì Anh Muốn Nói?](https://open.spotify.com/album/7g7z9tp7TCvDPVENW7ELBR) | 2:52 |
-| 96 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/03NrWxeUbmZA6Aj2Z8ARHx) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
+| 96 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
 | 97 | [Nhọ và Lem](https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa) | 3:24 |
 | 98 | [Đường Vẫn Còn Dài](https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg) | [Đường Vẫn Còn Dài](https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH) | 3:36 |
 | 99 | [Before I Go](https://open.spotify.com/track/1qu2QsJSf8l09OuPuL8NED) | [No Plan](https://open.spotify.com/artist/6D9IldP8aT38RwBsX2jvkg) | [Before I Go](https://open.spotify.com/album/7BILtEtbZLFtNedMmYDmVR) | 3:33 |

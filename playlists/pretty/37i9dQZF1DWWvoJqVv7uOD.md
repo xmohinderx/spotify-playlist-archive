@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: George Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,918 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,273 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK17xtyYDId.md) - [plain]
 
 > SuperM is the Super One!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,060 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,104 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

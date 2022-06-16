@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,941 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,019 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

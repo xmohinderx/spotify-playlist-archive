@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 158826,
       "name": "26",
       "url": "https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8"
@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
+    },
+    {
+      "album": {
         "name": "Bang!",
         "url": "https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3"
       },
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 194680,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj"
@@ -598,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Blow Out My Candle",
+        "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179326,
+      "name": "Blow Out My Candle",
+      "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+    },
+    {
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi"
       },
@@ -667,7 +703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 210384,
       "name": "Can I Get It",
       "url": "https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
@@ -963,7 +999,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 138306,
       "name": "Damn It Feels Good To Be Me",
       "url": "https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 191983,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
@@ -1893,7 +1929,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
@@ -2031,6 +2067,28 @@
       "duration_ms": 158083,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "album": {
@@ -2391,7 +2449,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
@@ -2761,7 +2819,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 187003,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm"
@@ -3161,7 +3219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
@@ -3357,6 +3415,24 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "album": {
@@ -4031,7 +4107,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
@@ -4238,6 +4314,24 @@
     },
     {
       "album": {
+        "name": "Banish The Banshee",
+        "url": "https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170226,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -4267,7 +4361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 181881,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu"
@@ -4325,7 +4419,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
@@ -4651,7 +4745,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 206580,
       "name": "Viva Las Vengeance",
       "url": "https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min"

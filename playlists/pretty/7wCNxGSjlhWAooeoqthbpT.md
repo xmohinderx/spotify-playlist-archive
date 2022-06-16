@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records.
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,752 likes - 60 songs - 3 hr 1 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,751 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 | 9 | [Only You](https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Only You](https://open.spotify.com/album/38mvnqi7nhoyC9UXaOwrJQ) | 2:44 |
 | 10 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 |
 | 11 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 |
-| 12 | [Kevin](https://open.spotify.com/track/5VojgowVZsVrqNHW2kBn0Z) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj) | 3:15 |
+| 12 | [Kevin](https://open.spotify.com/track/5VojgowVZsVrqNHW2kBn0Z) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj) | 3:09 |
 | 13 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 |
 | 14 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 15 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 |

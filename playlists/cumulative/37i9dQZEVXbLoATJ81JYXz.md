@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-871 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+872 songs - 1 day 22 hr 26 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [DAG HAMMARSKJÖLD](https://open.spotify.com/track/5MwNk30sG4xRpsDdUgUwC2) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [FLAWLESS](https://open.spotify.com/album/5Qz9TU4FciO9CjhZFBGBbJ) | 3:01 | 2021-10-23 | 2021-10-31 |
 | [Dagar i regn](https://open.spotify.com/track/1oURoSnXjvFqm2o4U8eKgQ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Dagar i regn](https://open.spotify.com/album/6uqLNWTSB6p3vO6v5qFRxH) | 2:46 | 2021-11-07 | 2021-11-14 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-26 | 2022-03-07 |
-| [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-11 |  |
+| [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-11 | 2022-06-16 |
 | [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2022-01-01 | 2022-01-03 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-09-05 | 2021-09-14 |
 | [Dandi dansa](https://open.spotify.com/track/41iZhFesLQ6JLjyPxI4LLL) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Dandi dansa](https://open.spotify.com/album/4b4LGue9EPEclYIXoLdC8m) | 2:59 | 2021-03-27\* | 2021-04-17 |
@@ -287,6 +287,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-26 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-15 | 2022-05-29 |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-04-05 | 2022-04-24 |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |
 | [Gläns över sjö och strand](https://open.spotify.com/track/4pdnPqZ6NOnofNfOOEO0iz) | [Sofia Källgren](https://open.spotify.com/artist/09OnYkvpmVXXKqr2yHAIuL) | [Julen är kommen](https://open.spotify.com/album/0Rv9QsXd057rk6ZDtq3O7o) | 3:02 | 2021-12-15 | 2021-12-16 |
 | [Go PRO](https://open.spotify.com/track/2xWjwGfjevKxgB36wkMzZb) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [O Dawg](https://open.spotify.com/artist/1XLfrNXY6mop59F8cQOMQ4) | [Go PRO](https://open.spotify.com/album/4dLwG4DLoJ49fN0fD6aybt) | 2:34 | 2021-08-29 | 2021-10-03 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-04 |

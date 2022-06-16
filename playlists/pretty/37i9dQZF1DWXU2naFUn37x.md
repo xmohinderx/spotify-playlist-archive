@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La nuova casa dello street rap italiano\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,595 likes - 45 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,744 likes - 45 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

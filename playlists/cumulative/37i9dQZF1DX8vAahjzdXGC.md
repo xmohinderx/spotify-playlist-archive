@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BTS
 
-11,760 songs - 28 day 4 hr 15 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+11,761 songs - 28 day 4 hr 18 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7008,6 +7008,7 @@
 | [New Beginnings](https://open.spotify.com/track/1umyI924GDJ9cMAIQrJ0uS) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [New Beginnings](https://open.spotify.com/album/0cXJu9sBWbivPKpPYBupnu) | 2:21 | 2020-04-10 | 2020-04-16 |
 | [New Beginnings](https://open.spotify.com/track/2oigOUHDkh5tPDZgt5qdgg) | [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [New Beginnings](https://open.spotify.com/album/1OIQFW4AlWwryBQaNnKbdW) | 2:48 | 2021-12-16 | 2021-12-24 |
 | [New Blood \(with Boy Matthews\)](https://open.spotify.com/track/6Q72a8Q03iDpiCCUDKh691) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [New Blood \(with Boy Matthews\)](https://open.spotify.com/album/614TDtOY7wGmci1uWVKfd2) | 3:50 | 2021-08-06 | 2021-08-13 |
+| [New Dawn](https://open.spotify.com/track/0LSYBazYTYInWDCsJKVm5c) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [New Dawn](https://open.spotify.com/album/4fmEvtc9W3pmIHgGj0mQ7c) | 3:02 | 2022-06-10 |  |
 | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/track/1Ga3nLN6OuWfYlVotVhBAy) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/album/2Q2A0i59Uk99vBKRjLvvKx) | 3:44 | 2020-12-04 | 2020-12-11 |
 | [New Highs](https://open.spotify.com/track/2AmeKeojf6IhgPSdMwbUHd) | [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [New Highs](https://open.spotify.com/album/7McKh6efly4TflW0IU4sl0) | 2:57 | 2022-03-31 | 2022-04-08 |
 | [New Kid In Town \(Get Up Again\)](https://open.spotify.com/track/3b98AGNmAlf36MOfcEXT9G) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6) | [New Kid In Town](https://open.spotify.com/album/5zi0d0xvenLNvEQJMca3ox) | 3:47 | 2020-07-24 | 2020-07-31 |

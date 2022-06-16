@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1756669,
+  "num_followers": 1756771,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA4NTMyMTI1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA4NjE3MzE5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Tak Ingin Usai",
         "url": "https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Jiggle Jiggle",
         "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
@@ -97,39 +97,7 @@
       "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Olmazlara \u0130nat",
-        "url": "https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg"
-      },
-      "artists": [
-        {
-          "name": "Berkay Altunyay",
-          "url": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
-        }
-      ],
-      "duration_ms": 169419,
-      "name": "Olmazlara \u0130nat",
-      "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
@@ -145,7 +113,39 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Olmazlara \u0130nat",
+        "url": "https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg"
+      },
+      "artists": [
+        {
+          "name": "Berkay Altunyay",
+          "url": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
+        }
+      ],
+      "duration_ms": 169419,
+      "name": "Olmazlara \u0130nat",
+      "url": "https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Like Wooh Wooh",
         "url": "https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
@@ -197,23 +197,7 @@
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Hell's Comin' with Me",
-        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
-      },
-      "artists": [
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 212996,
-      "name": "Hell's Comin' with Me",
-      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "BTBT (feat. DeVita)",
         "url": "https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
+      },
+      "artists": [
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Porselen Kalbim",
         "url": "https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD"
@@ -253,23 +253,7 @@
       "url": "https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Jhoom",
-        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Jhoom - R&B Mix",
-      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Muli",
         "url": "https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Bi' Tek Ben Anlar\u0131m",
         "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
@@ -301,7 +285,23 @@
       "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Ohne Benzin",
         "url": "https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0"
@@ -317,23 +317,7 @@
       "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "NVMD",
-        "url": "https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "NVMD",
-      "url": "https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
@@ -349,23 +333,23 @@
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+        "name": "NVMD",
+        "url": "https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
         }
       ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+      "duration_ms": 181224,
+      "name": "NVMD",
+      "url": "https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -385,7 +369,23 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "A\u015fk Sadece Anlayana",
         "url": "https://open.spotify.com/album/77Mq4lxs2TAQi4goqZgEaK"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/62nygHWpn3wLwnZmJ8keVs"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Acorda, Pedrinho",
         "url": "https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj"
@@ -437,23 +437,7 @@
       "url": "https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Moosetape",
-        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
-      },
-      "artists": [
-        {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "295",
-      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
@@ -469,7 +453,7 @@
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Serana",
         "url": "https://open.spotify.com/album/0OHmkBsSYP513ZQdbMrYOi"
@@ -485,7 +469,23 @@
       "url": "https://open.spotify.com/track/4N6YcqNkrAxelsd33JoFWQ"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "295",
+      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
@@ -501,43 +501,7 @@
       "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Akhiyaan",
-        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "Akhiyaan",
-      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Joga Essa Rabeta",
         "url": "https://open.spotify.com/album/3ZM2MFfKHGJsgHFop9Lo0A"
@@ -557,7 +521,43 @@
       "url": "https://open.spotify.com/track/2UXbsA8Q2tg90kjEn2gV7j"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
@@ -573,71 +573,7 @@
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Ohne Benzin (1,1x Speed Version)",
-        "url": "https://open.spotify.com/album/6v0s7zj6xxVdotp0Buxx88"
-      },
-      "artists": [
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 139818,
-      "name": "Ohne Benzin - 1,1x Speed Version",
-      "url": "https://open.spotify.com/track/2MrKx1k7CSLryCP1sf3cwl"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Rumah Singgah",
-        "url": "https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        }
-      ],
-      "duration_ms": 246730,
-      "name": "Rumah Singgah",
-      "url": "https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -653,43 +589,71 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
-        "name": "Take It Or Squeeze It",
-        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
       "artists": [
         {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Se Acabo (feat. Method Man) - Remix",
-      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
-        "name": "Jhoom",
-        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
       "artists": [
         {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         }
       ],
-      "duration_ms": 389213,
-      "name": "Jhoom",
-      "url": "https://open.spotify.com/track/2VR1z4g6haFyMoghNj46KB"
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Ohne Benzin (1,1x Speed Version)",
+        "url": "https://open.spotify.com/album/6v0s7zj6xxVdotp0Buxx88"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 139818,
+      "name": "Ohne Benzin - 1,1x Speed Version",
+      "url": "https://open.spotify.com/track/2MrKx1k7CSLryCP1sf3cwl"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Rumah Singgah",
+        "url": "https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "duration_ms": 246730,
+      "name": "Rumah Singgah",
+      "url": "https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
@@ -709,7 +673,27 @@
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Take It Or Squeeze It",
+        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
+      },
+      "artists": [
+        {
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Se Acabo (feat. Method Man) - Remix",
+      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Konum Gizli (feat. Murda)",
         "url": "https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8"
@@ -729,7 +713,23 @@
       "url": "https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 389213,
+      "name": "Jhoom",
+      "url": "https://open.spotify.com/track/2VR1z4g6haFyMoghNj46KB"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Ektarfa",
         "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
@@ -745,23 +745,7 @@
       "url": "https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "NO LOVE",
         "url": "https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT"
@@ -777,7 +761,23 @@
       "url": "https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -813,23 +813,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
         "name": "Punk Tactics",
         "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
@@ -849,20 +833,36 @@
       "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
     },
     {
-      "added_at": "2022-06-14 14:28:45",
+      "added_at": "2022-06-15 14:08:39",
       "album": {
-        "name": "The Last Ride",
-        "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
       },
       "artists": [
         {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 262247,
-      "name": "The Last Ride",
-      "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
+    },
+    {
+      "added_at": "2022-06-15 14:08:39",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     }
   ],
   "unique_name": "Viral 50 - Global",

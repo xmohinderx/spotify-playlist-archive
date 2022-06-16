@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 281594,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2kUECVQY40DQoXymT323jg"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 217875,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 325975,
       "name": "An Ordinary Life",
       "url": "https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/12c2O5BH4zpARL07gHggLf"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 156333,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1MrElax7day41jzoztYk2k"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 233239,
       "name": "cold water",
       "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180026,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 266826,
       "name": "Follow",
       "url": "https://open.spotify.com/track/461I2ITjo0XHrl8EqlJdW2"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 218840,
       "name": "Good Lord (you\u2019ve Come so Far)",
       "url": "https://open.spotify.com/track/2dK9XKB0cdGUKYwqy0riR5"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 386346,
       "name": "Harmonia's Dream",
       "url": "https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 249493,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/6IKuSOJhP26cbh9Ke1G22l"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3qGXA1STZ4yUVIJjxAT6we"
@@ -1806,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Mecca",
+        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "album": {
         "name": "Hussy",
         "url": "https://open.spotify.com/album/19oTVM7p7W8JA53RL6p8gL"
       },
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 198250,
       "name": "Pink Pools",
       "url": "https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 204109,
       "name": "Powerlines",
       "url": "https://open.spotify.com/track/7MKHEwNOziXwWCtmd4QVRO"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/6u5MwASLtlNlt9f7qUz4c3"
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 272933,
       "name": "Roccastrada",
       "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 198160,
       "name": "Something Holy",
       "url": "https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 186746,
       "name": "The Ballad Of Joyce Vincent",
       "url": "https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd"
@@ -2943,7 +2961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 134014,
       "name": "The Mersey Line",
       "url": "https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV"

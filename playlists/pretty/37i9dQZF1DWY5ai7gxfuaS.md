@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Mimi Barks
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,338 likes - 81 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,466 likes - 81 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 61 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 62 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 |
 | 63 | [With You](https://open.spotify.com/track/1mpUlIqABFdXDs5wpbA2WM) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [With You](https://open.spotify.com/album/0OmSev6i6IqnaEs2dP2e29) | 3:06 |
-| 64 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/7I2oLeXWq1VylME9zoFA6b) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
+| 64 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
 | 65 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
 | 66 | [A Lament](https://open.spotify.com/track/2f4DGYqmBDbfxyPGmPAGoV) | [The Body](https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3) | [A Lament](https://open.spotify.com/album/1WLtMJBOiWB6yQyEAfFsJA) | 5:54 |
 | 67 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |

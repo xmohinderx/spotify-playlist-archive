@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: SNAILS, Escape the Fate
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,021 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,184 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 26 | [Bang Harder](https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4) | 2:44 |
 | 27 | [Burnin'](https://open.spotify.com/track/7hlKyOcn8npRpIl1SGsgOG) | [Marzetti](https://open.spotify.com/artist/2nB7Ws9EvumfMMm6E6YbGA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Burnin'](https://open.spotify.com/album/36MXx1SbuFEpfGR6C9XVgH) | 4:05 |
 | 28 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 |
-| 29 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
+| 29 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 30 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 |
 | 31 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 |
 | 32 | [RIP](https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [RIP](https://open.spotify.com/album/6vpLOIEk5TgMGHIk3OEfC5) | 3:42 |

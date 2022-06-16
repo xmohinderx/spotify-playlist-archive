@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 458539,
       "name": "A Hero",
       "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 457986,
       "name": "Ajna",
       "url": "https://open.spotify.com/track/47LoiZrIMuYU7j7WSb0FPM"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 252037,
       "name": "Breathe Out",
       "url": "https://open.spotify.com/track/6gbXz7CfuQTGo6srGkrA5d"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 215645,
       "name": "Garden",
       "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
@@ -995,10 +995,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 205628,
       "name": "Manaya",
       "url": "https://open.spotify.com/track/4acEjzjiCG8CFaQSw7BZ1J"
+    },
+    {
+      "album": {
+        "name": "Masina",
+        "url": "https://open.spotify.com/album/7km063WgmtcvuzwrguShQy"
+      },
+      "artists": [
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        },
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240243,
+      "name": "Masina",
+      "url": "https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY"
     },
     {
       "album": {
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
@@ -1163,7 +1185,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 183750,
       "name": "Poison (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 220437,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3pBKCrXi2C5T1hBZCHz3Bl"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 398139,
       "name": "Subjection",
       "url": "https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/0gj0wF76HZQeWIWmzBUh2U"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 503414,
       "name": "Yahyel",
       "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 253662,
       "name": "Zeit & Raum",
       "url": "https://open.spotify.com/track/6DlKrqaIuQijmu3TjXn0Ic"

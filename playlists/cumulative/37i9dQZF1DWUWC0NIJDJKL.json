@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 153697,
       "name": "2AM",
       "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 268466,
       "name": "Beach Comber",
       "url": "https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Composure",
       "url": "https://open.spotify.com/track/3Qfj2BgymJSXY4zDrBCo3g"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 171000,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 181257,
       "name": "Marie",
       "url": "https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 170000,
       "name": "nothing else i could do",
       "url": "https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW"
@@ -1781,7 +1781,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 206509,
       "name": "Salted Caramel",
       "url": "https://open.spotify.com/track/2HS3rFy98oTpEWLVrwEXdk"
@@ -1843,6 +1843,24 @@
       "duration_ms": 188500,
       "name": "Sexy Villain",
       "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
+    },
+    {
+      "album": {
+        "name": "Shit Show",
+        "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G"
     },
     {
       "album": {
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 196720,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 267111,
       "name": "The Joke - Bayonne Remix",
       "url": "https://open.spotify.com/track/51BzuUGYPrKP9j1kG64OQ3"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/46VD9EYQ2lIZcJUTptvuNF"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 178080,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/7Cb9fYGYtFaANCaqYEOCDC"

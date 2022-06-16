@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 178666,
       "name": "3 Para Las 10",
       "url": "https://open.spotify.com/track/1r9O3HYKcIzmGOWoajgtXX"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 168750,
       "name": "9",
       "url": "https://open.spotify.com/track/4h5qg9rzMExNuOl3XgNvDW"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 167474,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 183926,
       "name": "ANTES QUE SALGA EL SOL",
       "url": "https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 191223,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 219000,
       "name": "Como Estrellas",
       "url": "https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT"
@@ -760,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Desde Cero",
+        "url": "https://open.spotify.com/album/3LqDWGeFSGibKZy2JmxEF8"
+      },
+      "artists": [
+        {
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+        },
+        {
+          "name": "Martinez",
+          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205911,
+      "name": "Desde Cero",
+      "url": "https://open.spotify.com/track/4j4r7EtW07tmgpcFST2pvZ"
+    },
+    {
+      "album": {
         "name": "Despi\u00e9rtate",
         "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
       },
@@ -869,7 +891,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 190973,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
@@ -943,7 +965,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 183985,
       "name": "EL ED\u00c9N (feat. Irepelusa) - Remix",
       "url": "https://open.spotify.com/track/7mZQB0HhEEh8hpGTNbnBZz"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 209941,
       "name": "La Ducha",
       "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
@@ -1677,7 +1699,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180566,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/0Z3QLtcUxG0XcTHNOuOOad"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180173,
       "name": "Man\u0303anero",
       "url": "https://open.spotify.com/track/21U0Wbps9UZrPrjZDxPtYq"
@@ -1863,7 +1885,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Menta",
       "url": "https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja"
@@ -2093,7 +2115,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 162421,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
@@ -2115,6 +2137,24 @@
       "duration_ms": 136062,
       "name": "No Sabe Igual",
       "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "album": {
+        "name": "No Soy Para Ti",
+        "url": "https://open.spotify.com/album/4do5kdrxqJkqEsLFX0I4bE"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "No Soy Para Ti",
+      "url": "https://open.spotify.com/track/4OhA5zmTkT49m0dOBqDOap"
     },
     {
       "album": {
@@ -2181,7 +2221,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 187885,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw"
@@ -2203,7 +2243,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
@@ -2283,7 +2323,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 186952,
       "name": "Perreito Under",
       "url": "https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y"
@@ -2363,7 +2403,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 208760,
       "name": "POR ELLA",
       "url": "https://open.spotify.com/track/2fjfJqLTtNPEAUJUYuUxzZ"
@@ -2483,7 +2523,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 168804,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
@@ -2581,7 +2621,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
@@ -2599,7 +2639,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
@@ -2647,7 +2687,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 172314,
       "name": "Sabaneta",
       "url": "https://open.spotify.com/track/0KRgPFcbGovOB8cXZ88Eee"

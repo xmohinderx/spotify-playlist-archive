@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-377 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+378 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-07-26 | 2021-12-04 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-09-13 | 2021-09-14 |
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2021-10-07 | 2021-10-08 |
+| [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2022-06-15 |  |
 | [Magic Carpet Ride](https://open.spotify.com/track/6F2wRUS8oe71Hs9O58dMKb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:38 | 2021-09-19 | 2021-09-20 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-25 | 2022-03-27 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2021-03-27\* | 2022-02-05 |
@@ -382,7 +383,7 @@
 | [ไม่ปล่อยมือ \(Coming of Age\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/1GqTNluKyUd0DFpNOPlScU) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ไม่ปล่อยมือ \(Coming of Age\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/4mdSMfsm3A6iWq1sAYjOq4) | 4:25 | 2021-08-03 | 2021-09-26 |
 | [ไม่ปล่อยมือ \- From "แปลรักฉันด้วยใจเธอ, Pt\. 2"](https://open.spotify.com/track/5y63Qnr10DFAqC6ZMzOkF4) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ไม่ปล่อยมือ \(From "แปลรักฉันด้วยใจเธอ, Pt\. 2"\)](https://open.spotify.com/album/06sRGA6ESgbs588zHHzc0Y) | 4:25 | 2021-06-26 | 2021-08-03 |
 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-03-04 | 2022-04-29 |
-| [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2021-07-23 |  |
+| [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2021-07-23 | 2022-06-16 |
 | [ไม่อยากฟัง](https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่อยากฟัง](https://open.spotify.com/album/3q1bjaW7no3BHSRS2QOajV) | 4:38 | 2021-03-27\* | 2021-06-21 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2021-03-27\* | 2021-09-18 |
 

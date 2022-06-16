@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Let's turn ON the movement! Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,954,369 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,956,821 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 50 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 |
 
-Snapshot ID: `MTY1NTI1NTgzMSwwMDAwMDAwMGViMDcyNWQwNDQ2M2QyZDAzZmFjOTE2YmM3Y2MzZmY5`
+Snapshot ID: `MTY1NTM0MjE4NSwwMDAwMDAwMGViMDcyNWQwNDQ2M2QyZDAzZmFjOTE2YmM3Y2MzZmY5`

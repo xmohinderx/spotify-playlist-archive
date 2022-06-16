@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-428 songs - 1 day 1 hr 53 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+429 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2021-04-09 | 2021-04-11 |
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2022-05-19 |  |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-07-28 | 2021-07-30 |
-| [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 |  |
+| [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2022-06-16 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [My Universe \- Instrumental](https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-27 |
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2021-04-09 |  |
@@ -326,6 +326,7 @@
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/21SralRv4ucDT3i1rYrr85) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:44 | 2021-11-14 | 2021-11-14 |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 | 2021-11-14 | 2021-11-17 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Je](https://open.spotify.com/artist/1NIQyQhhLxI07lSrY00HVB) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2021-04-17 | 2021-07-01 |
+| [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 | 2022-06-15 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-18 | 2021-12-31 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-10-07 | 2021-10-23 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-04-26 |

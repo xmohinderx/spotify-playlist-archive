@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from DJ Charlie B ft\. Smiley, Pharrell Williams, and Rae Sremmurd is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,257 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,312 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

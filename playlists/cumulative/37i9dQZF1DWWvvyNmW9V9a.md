@@ -4,7 +4,7 @@
 
 > all the songs you wanna hear rn featuring Tate McRae
 
-299 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
+300 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Yeh I Fuckin' Did It \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/0JlBceojDDiHGAKtMEhGm9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:11 | 2022-02-04 | 2022-02-08 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-05-28 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 |  |
+| [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-15 |  |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-06-04 |
 | [Your Sister Was Right](https://open.spotify.com/track/5BNAzE37hmpyCx0hyrgDqJ) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your City Gave Me Asthma](https://open.spotify.com/album/1ZSC5ULnqANluf9QT32hJW) | 2:32 | 2022-03-25 | 2022-04-02 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tierry, L7NNON, Teto e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,222 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,406 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 26 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
 | 27 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 |
 | 28 | [Degradê](https://open.spotify.com/track/5M4a6fcSk12Sy8ylHoaOPI) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/3QMNbZzZcpkPgm68PnKfHt) | 2:48 |
-| 29 | [Maré](https://open.spotify.com/track/7Fo3T7znsPctMO4LV7f7li) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Felipe Puperi](https://open.spotify.com/artist/2bb5zDaF4XeweYuUtIPNZI), [Tiago Bazani Abrahão](https://open.spotify.com/artist/2GR2xUTst8ZM6qQmGreEQk) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 3:24 |
+| 29 | [Maré](https://open.spotify.com/track/7Fo3T7znsPctMO4LV7f7li) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 3:24 |
 | 30 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 |
 | 31 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 |
 | 32 | [Tenta Ser Quem Fui \(Ao Vivo\)](https://open.spotify.com/track/5LhwI9xg9XUJZtETlqsCbi) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Bloco 2 \- Funk On The Beach \(Ao Vivo\)](https://open.spotify.com/album/60ZJclrEL6GAXAobZttLAV) | 4:27 |

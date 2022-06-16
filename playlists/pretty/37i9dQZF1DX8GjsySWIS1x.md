@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,446 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,537 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Albul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 |
+| 1 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 |
 | 2 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [DPR CLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 | 3 | [life waster](https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [life waster](https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q) | 2:21 |
 | 4 | [MEGALOVANIA](https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:36 |

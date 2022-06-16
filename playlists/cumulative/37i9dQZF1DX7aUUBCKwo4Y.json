@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country's Top 50 most played songs\u2014in the world. Updated weekly. Cover: Dan + Shay",
+  "description": "Country's Top 50 most played songs\u2014in the world. Updated weekly. Cover: Zach Bryan",
   "name": "Country Worldwide Hot 50",
   "published_playlist_ids": [
     "4jlP9JLoDqL2UcXAwJMvrX"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
@@ -735,10 +735,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 190780,
       "name": "Heavy Eyes",
       "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
+    },
+    {
+      "album": {
+        "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
+      },
+      "artists": [
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
     },
     {
       "album": {
@@ -807,7 +825,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
@@ -1100,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 216764,
       "name": "Slow Down Summer",
       "url": "https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU"
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
@@ -1577,7 +1613,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB"
@@ -1667,7 +1703,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Trouble With A Heartbreak",
       "url": "https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq"
@@ -1887,7 +1923,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"

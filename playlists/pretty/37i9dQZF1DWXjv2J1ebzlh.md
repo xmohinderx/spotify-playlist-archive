@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,116 likes - 760 songs - 2 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,157 likes - 760 songs - 2 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 108 | [Muchacha de Mi Pueblo](https://open.spotify.com/track/4yg042ZdlfDkXWLvnA4HHW) | [Martín Chacón](https://open.spotify.com/artist/38YFhbYJxR60Qok2uIoMKB) | [Canciones Zapotecas del Istmo \- Cantarle a la Vida](https://open.spotify.com/album/3JvVLgzKWXaCq5WXflmUVL) | 2:55 |
 | 109 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 |
 | 110 | [Lamento Cubano](https://open.spotify.com/track/7H9M3FS0aQ6sV7fNG5jOA5) | [Amara Touré](https://open.spotify.com/artist/5RGtAYEsGnRFhqcZeWIyOd), [L'Orchestre Massako](https://open.spotify.com/artist/160LTtu0W4KJMruVLFSBbN) | [Amara Touré '1973 \- 1980' \(Analog Africa No\. 18\)](https://open.spotify.com/album/0vqVDVxuGOgb7ktuYX8mHC) | 5:45 |
-| 111 | [La Tuctuructia](https://open.spotify.com/track/3LutkHCkkDkqBqRS7WkHzb) | [Ranil](https://open.spotify.com/artist/0apEQnBZNfvpFRL6FRYdef) | [Ranil y su conjunto tropical](https://open.spotify.com/album/6NrS9IvBIGEd7r8rihHChG) | 3:23 |
+| 111 | [La Tuctuructia](https://open.spotify.com/track/3LutkHCkkDkqBqRS7WkHzb) | [Ranil](https://open.spotify.com/artist/0apEQnBZNfvpFRL6FRYdef) | [Ranil y su Conjunto Tropical \(Analog Africa Dance Edition No\. 11\)](https://open.spotify.com/album/6NrS9IvBIGEd7r8rihHChG) | 3:23 |
 | 112 | [Raspberry Jam](https://open.spotify.com/track/2CGfUFjgJCsDIfaBe73NsT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/46Zpt8JaprjXhAfcnLvR0Y) | 3:48 |
 | 113 | [Mi Swing Es Tropical](https://open.spotify.com/track/4EehpGBxUO8tOSvttzTucd) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo & The Candela Allstars](https://open.spotify.com/artist/2dThrZVH7JUouCveeAf3su) | [Mi Swing Es Tropical](https://open.spotify.com/album/1aIcyVPbApuoGm65WbqHYP) | 3:53 |
 | 114 | [La Danza Del Petrolero](https://open.spotify.com/track/4bViHO6pdrioBQnHxc7jhL) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [La Danza del Petrolero](https://open.spotify.com/album/44vmtLaH2kxNXmxrnPp6Oa) | 2:48 |
@@ -608,7 +608,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 598 | [Simple Song](https://open.spotify.com/track/1TSL5m2IBYQU9lyVyiHCw6) | [Zebra](https://open.spotify.com/artist/5pZz2HoA0qpucy3anZGCJH) | [Simple Song](https://open.spotify.com/album/36MfLU1IGYxyzvIOcNGO4Z) | 3:14 |
 | 599 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 600 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 5:12 |
-| 601 | [Dalkavuk \- Baris K Edit](https://open.spotify.com/track/1F0k6Lfr9jp9g6H43YFYIc) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN), [Baris K](https://open.spotify.com/artist/1vZ0i0UDGHWLpGRBiQTSrA) | [Istanbul 70: Psych, Disco, Folk Edits by Baris K \- Vol\. II](https://open.spotify.com/album/6J1mfLqgykLUhctF6yVUg0) | 5:27 |
+| 601 | [Dalkavuk \- Baris K Edit](https://open.spotify.com/track/1F0k6Lfr9jp9g6H43YFYIc) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Istanbul 70: Psych, Disco, Folk Edits by Baris K \- Vol\. II](https://open.spotify.com/album/6J1mfLqgykLUhctF6yVUg0) | 5:27 |
 | 602 | [Ecology](https://open.spotify.com/track/0xilsk1U8P0bEgoYKfI43H) | [Anubis](https://open.spotify.com/artist/4fhyQnc4W80p5HEIxD6InR) | [Ecology](https://open.spotify.com/album/4PSuRfE6I4iCoH1qD5GABM) | 3:58 |
 | 603 | [I Know You Rider](https://open.spotify.com/track/3v85BrHUuCDd7Xwp04vMzB) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [My Kind of Folk Songs](https://open.spotify.com/album/6oOUyNNmvvz3jwp7QRGbrt) | 2:23 |
 | 604 | [Dia Ja Manche](https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo \(Analog Africa No\. 20\)](https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz) | 4:36 |

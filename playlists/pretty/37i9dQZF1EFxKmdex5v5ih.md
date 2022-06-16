@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347 likes - 157 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348 likes - 157 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 44 | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sidnie Tipton](https://open.spotify.com/artist/1q4zUzqEWKe8YvpI9OxKqL) | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/album/35VgpLWPMuKuPnklBgpK1N) | 3:09 |
 | 45 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
 | 46 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
-| 47 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 |
-| 48 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 47 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 48 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 |
 | 49 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
 | 50 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
 | 51 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 55 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
 | 56 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 |
 | 57 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 |
-| 58 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
-| 59 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
+| 58 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
+| 59 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
 | 60 | [Bracelet](https://open.spotify.com/track/5WAD7GRAHPQUy9Il1hM7wL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 4:22 |
 | 61 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 |
 | 62 | [Paranoid](https://open.spotify.com/track/2wCVpdNSHjqIn2en8jAnF0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:12 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 125 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
 | 126 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 |
 | 127 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
-| 128 | [12 Steps](https://open.spotify.com/track/4ekceoPLIy8EEMKBnjn1S8) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [12 Steps](https://open.spotify.com/album/2yZRspUdm5jezVoUwYkZY8) | 2:41 |
-| 129 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 |
+| 128 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 |
+| 129 | [12 Steps](https://open.spotify.com/track/4ekceoPLIy8EEMKBnjn1S8) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [12 Steps](https://open.spotify.com/album/2yZRspUdm5jezVoUwYkZY8) | 2:41 |
 | 130 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
 | 131 | [Up With It](https://open.spotify.com/track/2oPS0YX8XtxtPy3VRgkP1t) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:29 |
 | 132 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 156 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 | 157 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 
-Snapshot ID: `Mjc1ODc1ODksMDAwMDAwMDA2MTMwNTRkYTgzNTExYjgyMDYxOGNkYThkYWFkOGZlOQ==`
+Snapshot ID: `Mjc1ODkwMjksMDAwMDAwMDBiZmQ3YmI3NjliNjhkZjliMTlkMTY1ZTViNjQ3YzA5MQ==`

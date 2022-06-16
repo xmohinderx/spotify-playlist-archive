@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-231 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+232 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 | 2021-12-27 |  |
 | [Get Some](https://open.spotify.com/track/3HvsMKDeOrKVjOzhvLBjes) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 3:30 | 2021-12-27 |  |
 | [ghost](https://open.spotify.com/track/6v4qTiWdbVtcmyvuEj7Pjr) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [ghost](https://open.spotify.com/album/21dohvigVSO4quwWu1nOrL) | 3:10 | 2021-12-27 |  |
+| [Ghosts](https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [Ghosts](https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO) | 3:26 | 2022-06-15 |  |
 | [Gingerbread](https://open.spotify.com/track/1q4tITdOKrFl8EtnPhlyk2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:13 | 2021-12-27 |  |
 | [Go Fish](https://open.spotify.com/track/5nZmYOGW0gqeudxIO0jWn2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:44 | 2021-12-27 |  |
 | [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 | 2021-12-27 |  |

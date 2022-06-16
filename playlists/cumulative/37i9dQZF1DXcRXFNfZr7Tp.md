@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Harry Styles
 
-594 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+595 songs - 1 day 7 hr 0 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-01-15 | 2021-06-09 |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-18 | 2022-04-01 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 | 2021-05-17 |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |
 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 | 2020-12-18 | 2021-01-15 |
 | [Go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-02-25 | 2022-03-26 |
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 | 2021-04-17 | 2021-07-04 |

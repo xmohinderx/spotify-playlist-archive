@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/66qrbgFxBQIYZjL76PLDsW)
+50 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/66qrbgFxBQIYZjL76PLDsW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Gone Away](https://open.spotify.com/track/57nTFMsSiVATCDPZm9JF4S) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:35 | 2022-05-30 |  |
 | [Got Your Six](https://open.spotify.com/track/6h6RvArm9RlU16rz1nFMnE) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 2:58 | 2022-05-30 |  |
 | [Hard To See](https://open.spotify.com/track/6X13xZ3XOF2ThTvvLAODHc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:29 | 2022-05-30 |  |
-| [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 | 2022-05-30 |  |
+| [Hell To Pay](https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:07 | 2022-06-15 |  |
+| [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 | 2022-05-30 | 2022-06-16 |
 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 | 2022-05-30 |  |
 | [I Apologize](https://open.spotify.com/track/11uYLvX94pLqGXyiBqv4vI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 4:02 | 2022-05-30 |  |
 | [I Refuse](https://open.spotify.com/track/7H3wZikaMxA1D3ipMy8evb) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:38 | 2022-05-30 |  |

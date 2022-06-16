@@ -1838,7 +1838,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [K\-Club Party](/playlists/pretty/37i9dQZF1DX4RDXswvP6Mj.md)
 - [K\-Hip\-Hop +82](/playlists/pretty/37i9dQZF1DWW46Vfs1oltB.md)
 - [K\-Pop Acoustic](/playlists/pretty/37i9dQZF1DX1wdZM1FEz79.md)
-- [K\-Pop Ballad Hits](/playlists/pretty/37i9dQZF1DX5LEXW9eXA0n.md)
+- [K\-Pop Ballad Hits \(발라드, 려요\)](/playlists/pretty/37i9dQZF1DX5LEXW9eXA0n.md)
 - [K\-Pop Daebak Presents: Best K\-Pop Songs of 2O2O](/playlists/pretty/37i9dQZF1DWVHNixKGCLqw.md)
 - [K\-Pop Duets](/playlists/pretty/37i9dQZF1DWZYjbSZYSpu6.md)
 - [K\-Pop Fresh](/playlists/pretty/37i9dQZF1DX1LU4UHKqdtg.md)

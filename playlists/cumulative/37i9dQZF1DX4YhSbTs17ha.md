@@ -4,7 +4,7 @@
 
 > Escucha las canciones de pop más exitosas en México\. Julieta Venegas en portada.
 
-158 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
+161 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [No Puede Ser \- with Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(with Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-02-04 | 2022-02-12 |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-03-25 |  |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2022-02-04 |  |
+| [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-06-15 |  |
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-02-04 |  |
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-04 |  |
 | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 | 2022-02-04 | 2022-02-19 |
@@ -131,6 +132,8 @@
 | [Si pudiera](https://open.spotify.com/track/0PEbhZvom6GqoQwUNDxwRF) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Si pudiera](https://open.spotify.com/album/7oszfSxoX7J3Zl3IYZeltL) | 4:16 | 2022-05-27 |  |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2022-02-04 | 2022-03-12 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-02-04 | 2022-05-20 |
+| [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 | 2022-06-15 |  |
+| [Supermercado](https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:34 | 2022-06-15 |  |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/4gRg5DpOcwXmXXzuGmMC10) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Supongo Que Lo Sabes](https://open.spotify.com/album/4wS8f8NJ6sWR7CmHEUDRZ4) | 3:46 | 2022-05-20 |  |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-03-11 |  |
 | [Sálvame](https://open.spotify.com/track/02oZFeiGtksRb37c7XsL6y) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Sálvame](https://open.spotify.com/album/1fsxHgbsE7L2AeYSZps2wG) | 3:44 | 2022-05-27 |  |

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 176731,
       "name": "A Life Remembered",
       "url": "https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 250704,
       "name": "Ask Me Again",
       "url": "https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 205542,
       "name": "Black Monday",
       "url": "https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 254676,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg"
@@ -1267,10 +1267,28 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 742560,
       "name": "Free",
       "url": "https://open.spotify.com/track/6wYs5HI0HGlKnt6bJTu5ZA"
+    },
+    {
+      "album": {
+        "name": "From This Moment On",
+        "url": "https://open.spotify.com/album/2VT0gVnwet0udySQKwTjyV"
+      },
+      "artists": [
+        {
+          "name": "Keanan Field Group",
+          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244817,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/0nKuLOun4rfWPa1dF0eRAD"
     },
     {
       "album": {
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 248281,
       "name": "Going Our Separate Ways",
       "url": "https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 288162,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh"
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 138727,
       "name": "je vivrai sans toi",
       "url": "https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf"
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 203619,
       "name": "Lady D",
       "url": "https://open.spotify.com/track/1YEGJGKECYxGoRDE1TLjJC"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 247269,
       "name": "Lady in the Blue Dress",
       "url": "https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj"
@@ -2776,6 +2794,42 @@
     },
     {
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242399,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
+    },
+    {
+      "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "May Dance",
+      "url": "https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap"
+    },
+    {
+      "album": {
         "name": "Midnight Lines",
         "url": "https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX"
       },
@@ -2787,7 +2841,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 283728,
       "name": "Midnight Lines",
       "url": "https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV"
@@ -3245,7 +3299,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 190168,
       "name": "Perception Through A Crystal Orb",
       "url": "https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK"
@@ -3317,7 +3371,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 325131,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI"
@@ -3371,7 +3425,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 294933,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/5110P5yc85WSckGmf47eA9"
@@ -3389,7 +3443,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 207663,
       "name": "Sails",
       "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
@@ -3519,7 +3573,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
@@ -4193,7 +4247,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 157733,
       "name": "The Mood Is Mellow",
       "url": "https://open.spotify.com/track/59JE8arSWmuUexU2x22oiH"
@@ -4499,7 +4553,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 203671,
       "name": "Turn Out the Stars",
       "url": "https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf"
@@ -4517,7 +4571,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 238426,
       "name": "Under the same roof",
       "url": "https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ"
@@ -4607,7 +4661,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 275718,
       "name": "When All Was Said and Done",
       "url": "https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU"
@@ -4877,7 +4931,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 144855,
       "name": "You Left With My Heart Still Yours",
       "url": "https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP"
@@ -4895,7 +4949,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 194245,
       "name": "You're Good to Me",
       "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 64 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 31 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
 | 32 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 33 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 |
-| 34 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
-| 35 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 |
+| 34 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 |
+| 35 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
 | 36 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
 | 37 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 |
 | 38 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 62 | [State of Love](https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/6NW8p8IBDzSJzQdcoiH5T6) | [State of Love](https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA) | 3:23 |
 | 63 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 64 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 65 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
 
-Snapshot ID: `Mjc1ODc1NDIsMDAwMDAwMDA3M2ViOGQ2NTJlNTFiMjk3YjgyYzk0MTgyN2MyMWI2OQ==`
+Snapshot ID: `Mjc1ODg5ODIsMDAwMDAwMDAyYjcxZmVhOTUxNWI5YzQ1MDlmOTQyNjFhMWQwYTdhNw==`

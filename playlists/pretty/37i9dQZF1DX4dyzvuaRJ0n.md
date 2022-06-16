@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Oliver Heldens, Tchami & Anabel Englund, Sonny Fodera, The Chainsmokers & Ship Wrek and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919,957 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,920,211 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 80 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 |
 | 81 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 82 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 |
-| 83 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
+| 83 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 84 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 |
 | 85 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 |
 | 86 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |

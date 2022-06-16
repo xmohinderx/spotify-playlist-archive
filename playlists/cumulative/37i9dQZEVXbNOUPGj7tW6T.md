@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-259 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
+260 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ameaça](https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Ameaça](https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w) | 3:08 | 2021-12-07 | 2022-06-01 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-07 |  |
 | [Antes](https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:26 | 2021-03-27\* | 2021-03-31 |
+| [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-15 |  |
 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 | 2021-11-06 | 2021-11-24 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 | 2022-05-08 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
@@ -102,7 +103,7 @@
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-10-17 | 2022-02-01 |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-03-27\* | 2021-10-17 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2021-06-18 | 2021-12-07 |
-| [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 |  |
+| [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-16 |
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2021-07-16 | 2021-09-05 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-22 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sabina Szewczyk \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,217 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,224 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 36 | [Od wschodu do zachodu](https://open.spotify.com/track/3nXK7R1FWQuX37Q5zErMcT) | [JET PACK](https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW) | [Od wschodu do zachodu](https://open.spotify.com/album/0OhWM7MH86qI9Y51THob4G) | 2:56 |
 | 37 | [Człowiek i zdrowie](https://open.spotify.com/track/0FP22xaphDMnSdphuzpNz1) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Alicja Dziurdziak](https://open.spotify.com/artist/5sGZTLhUGR6wHR6e6gr9nf) | [Człowiek i zdrowie](https://open.spotify.com/album/5wVfM2PIFXPsU6xyCDepyt) | 2:30 |
 | 38 | [Kwiatów staw](https://open.spotify.com/track/0HbEv3DGawL5azPUpFhnj9) | [KRM](https://open.spotify.com/artist/4g1uT59bJ7eyUUv3WBt5vw), [Akio](https://open.spotify.com/artist/50qQ2L1YLO0xNJlEru1EoD) | [Kwiatów staw](https://open.spotify.com/album/38BcEwLM9gFBDmCYxr22AU) | 2:12 |
-| 39 | [Nie lubię się kłaść / w nocy](https://open.spotify.com/track/4UwEQE7khjmmRdzCK46uab) | [OUTPOST](https://open.spotify.com/artist/7cS6COG2pifHvvQR2VUNJl), [Biały Falochron](https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul), [Kopi](https://open.spotify.com/artist/3vQToitmV1wt8ZMPFAZFEG) | [Nie lubię się kłaść / w nocy](https://open.spotify.com/album/13lERACDVnjplqyhzQGlLM) | 3:25 |
+| 39 | [Nie lubię się kłaść / w nocy](https://open.spotify.com/track/4UwEQE7khjmmRdzCK46uab) | [OUTPOST](https://open.spotify.com/artist/7cS6COG2pifHvvQR2VUNJl), [Biały Falochron](https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul), [Kopi](https://open.spotify.com/artist/2e6k9WGb5uxuKceZPrhFcY) | [Nie lubię się kłaść / w nocy](https://open.spotify.com/album/13lERACDVnjplqyhzQGlLM) | 3:25 |
 | 40 | [Połączenia](https://open.spotify.com/track/03RSChvZPul8kav1LlgS9D) | [Ala\|Zastary](https://open.spotify.com/artist/3QmNltluzWxV1Pi1foWdqw) | [Połączenia](https://open.spotify.com/album/0od7GVo1EEAtaLRgwwOlRS) | 2:05 |
 | 41 | [Jednocześnie](https://open.spotify.com/track/23HT44mkpgwsg18scrwgtM) | [Jaśmin](https://open.spotify.com/artist/1bSK6IBlQyE2wLOHonkr80) | [Jednocześnie](https://open.spotify.com/album/5HpCRFIiUWPAYGdHHdgzvr) | 3:16 |
 | 42 | [Wiem że Ty nigdy](https://open.spotify.com/track/4AMq1ugO3r332nqYA8kAvI) | [sallypocalujko](https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A) | [Wiem że Ty nigdy](https://open.spotify.com/album/4NMcY5ZPq4kdIO7TJ2xGAe) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,484 likes - 253 songs - 13 hr 40 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,487 likes - 253 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 3 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 |
 | 4 | [My Name](https://open.spotify.com/track/3rofV13MLdIYj3Hj2gigLe) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Conversations](https://open.spotify.com/album/2jRDlNeTYCcHl9qguqSlYy) | 3:26 |
 | 5 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
-| 6 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 |
-| 7 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [Drella](https://open.spotify.com/artist/1AvKoWxP0BAiCA0f1dfdvG) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 |
-| 8 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
-| 9 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
-| 10 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 6 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 7 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 |
+| 8 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [Drella](https://open.spotify.com/artist/1AvKoWxP0BAiCA0f1dfdvG) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 |
+| 9 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
+| 10 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
 | 11 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 |
 | 12 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 13 | [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/track/6Aj8TG8jFUan8u3465iWh8) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [10,000 Hours \(feat\. Mason Dane\)](https://open.spotify.com/album/6wQrsLW7ccSKjvTCPFSxk7) | 2:16 |
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 252 | [Said&Done](https://open.spotify.com/track/5lU7ncUEARvpKJ0jGAgaqO) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Said&Done](https://open.spotify.com/album/3bHF1i9CFWmYU8ZsL6HgFB) | 2:40 |
 | 253 | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/track/2Eph6fuQSCCihTTvhptxfC) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/album/0clsV6sGN7Qrwt4wbv95xx) | 3:14 |
 
-Snapshot ID: `MTQyOSw3MzY3MGIyNmU2MGY3YjBmNjFiM2YzNTk5ZTM2MDRjYjNlMjg2MzAx`
+Snapshot ID: `MTQzMCxmMjhiYzIwNmJhOTljYThhYTlkMzZmOTI3NzFhMGZmYWZlOTkzNDUx`

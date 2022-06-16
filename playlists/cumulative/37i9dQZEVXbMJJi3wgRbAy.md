@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-330 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
+331 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,8 +274,9 @@
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-07-29 | 2022-03-27 |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SOLO POR VOS](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2021-07-18 | 2021-08-15 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-11 | 2021-10-17 |
+| [Superclásico](https://open.spotify.com/track/1uaeUpiNMxfsuhVebgk7TX) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Superclásico](https://open.spotify.com/album/5e52rhDeaWTjW8VYE7vgeV) | 3:05 | 2022-06-15 |  |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2021-11-30 | 2022-01-30 |
-| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 |  |
+| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 | 2022-06-16 |
 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 | 2022-01-16 | 2022-06-08 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-23 |  |

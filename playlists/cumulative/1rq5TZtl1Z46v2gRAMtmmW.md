@@ -4,7 +4,7 @@
 
 > 
 
-42 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+43 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 |  |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 |  |
 | [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 |  |
+| [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 |  |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 |  |

@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 205416,
       "name": "Bad Reputation (feat. Joe Janiak)",
       "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 205860,
       "name": "Breakfast In America",
       "url": "https://open.spotify.com/track/04c6EIZdGm0BYsw1lUUJcb"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 178480,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 195121,
       "name": "Don't Know How",
       "url": "https://open.spotify.com/track/1FHqE8ythlH0NbgBM7cy2i"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 189103,
       "name": "Got Me Like That",
       "url": "https://open.spotify.com/track/11yRVW3pbV4MXw3LbACIWr"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 211362,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 163250,
       "name": "Hide & Seek (feat. Joe Housley)",
       "url": "https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar"
@@ -1398,6 +1398,28 @@
     },
     {
       "album": {
+        "name": "I Don't Know What's Cool Anymore (Remixes)",
+        "url": "https://open.spotify.com/album/1PJenoWlAyw2bbTtVeJzUF"
+      },
+      "artists": [
+        {
+          "name": "Alphabeat",
+          "url": "https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165287,
+      "name": "I Don't Know What's Cool Anymore - Faustix Remix",
+      "url": "https://open.spotify.com/track/40ngJ4rus3M0lbMcRJ1zJn"
+    },
+    {
+      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
       },
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 190800,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
@@ -1751,7 +1773,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 142181,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/0Hp5z9xTdUESj3YcxDoDBN"
@@ -1905,7 +1927,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 191760,
       "name": "Punching in the Dark",
       "url": "https://open.spotify.com/track/3zysdGd91RB2oMEkSQVYno"
@@ -1989,7 +2011,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 231750,
       "name": "Roll Over",
       "url": "https://open.spotify.com/track/1WuAtf0xtvHqAh4e2m7AXI"
@@ -2069,7 +2091,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 194226,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/43KLa2butXjsupKiuxD1pO"
@@ -2219,7 +2241,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 174933,
       "name": "Solo Dance",
       "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
@@ -2285,7 +2307,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
@@ -2581,7 +2603,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 191248,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV"
@@ -2749,7 +2771,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 184081,
       "name": "Whisper so Loud",
       "url": "https://open.spotify.com/track/7Gdf6wkt8V3fjN2MNxLBru"
@@ -2847,7 +2869,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Words",
       "url": "https://open.spotify.com/track/7rXItunV3hiEujnGmMyibA"

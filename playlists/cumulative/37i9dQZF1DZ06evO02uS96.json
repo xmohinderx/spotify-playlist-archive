@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 230200,
       "name": "cold rain",
       "url": "https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 287186,
       "name": "tone (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
@@ -672,6 +672,28 @@
     },
     {
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315800,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
       },
@@ -741,6 +763,28 @@
       "duration_ms": 350933,
       "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
       "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u5100",
+        "url": "https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "\u5730\u7403\u5100",
+      "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
     },
     {
       "album": {

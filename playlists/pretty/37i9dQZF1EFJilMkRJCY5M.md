@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 61 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 61 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 11 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 |
 | 12 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 |
 | 13 | [What If We Did \(feat\. Carly Pearce\)](https://open.spotify.com/track/6KXEK2OoDMAwcLQaBjwJ77) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 3:11 |
-| 14 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
-| 15 | [Pattern](https://open.spotify.com/track/3tEMXXRquvE9gwBV6qiHfQ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:12 |
+| 14 | [Pattern](https://open.spotify.com/track/3tEMXXRquvE9gwBV6qiHfQ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:12 |
+| 15 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
 | 16 | [Could've Been Us](https://open.spotify.com/track/7v8PjAWXMS2ODBAoKwVUIE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Could've Been Us](https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA) | 3:19 |
 | 17 | [I Love You Now Change](https://open.spotify.com/track/5L1aDYN5u5OBOUCGhrK3pU) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0d1akoTwbEMgNi9gGuG0ZI) | 3:25 |
 | 18 | [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 36 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
 | 37 | [Homesick](https://open.spotify.com/track/1xLJqyCa4Soe31BJ5TCReE) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:55 |
 | 38 | [We Can’t Be Friends](https://open.spotify.com/track/07N4DMXTlLjoGnaNdr75z9) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL) | [We Can’t Be Friends](https://open.spotify.com/album/49Vai1B7rDNOgmKoWvqirN) | 3:34 |
-| 39 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
-| 40 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
+| 39 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
+| 40 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
 | 41 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 |
-| 42 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
-| 43 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
+| 42 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
+| 43 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 44 | [Unbreakup](https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ) | 3:44 |
 | 45 | [Break It](https://open.spotify.com/track/0eNjytL6q0F5N6S2OV23pj) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Break It](https://open.spotify.com/album/5Y8IvesNHyIUGuPzPy6St8) | 3:05 |
 | 46 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 60 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 61 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc1ODc1NDQsMDAwMDAwMDBmNDE1NmU3NTNkZDRkZDgyM2M2NTM2OTQxZjY4M2U1Yg==`
+Snapshot ID: `Mjc1ODg5ODQsMDAwMDAwMDBjYzliMjA3MjhmOThjYWE3OTk1ZWVmMmU4MWUyNmQ1Yg==`

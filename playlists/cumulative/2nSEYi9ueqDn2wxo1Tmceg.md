@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-50 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+51 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2022-06-08 |  |
 | [Creative Source \- ABSOLUTE\. Neon Energy Remix Edit](https://open.spotify.com/track/1Z371Q3L6nYMO112Xt5Ib0) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Creative Source \(ABSOLUTE\. Neon Energy Remix\)](https://open.spotify.com/album/0ChR2w00RrCd7pCGnHqDGx) | 3:29 | 2022-06-08 |  |
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 |  |
+| [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-06-15 |  |
 | [Effe](https://open.spotify.com/track/7pfBNYKSPD54GeKveA7XyS) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 3:22 | 2022-06-08 |  |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2022-06-08 |  |
 | [Feel Another Day](https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Feel Another Day](https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA) | 4:01 | 2022-06-08 |  |

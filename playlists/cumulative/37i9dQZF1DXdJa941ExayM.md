@@ -2,9 +2,9 @@
 
 ### [Punk Unleashed](https://open.spotify.com/playlist/37i9dQZF1DXdJa941ExayM)
 
-> Maybe it's punk, maybe it's not\. Cover: Bob Vylan
+> Maybe it's punk, maybe it's not\. Cover: SLOE JACK
 
-106 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+109 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Eton Mess](https://open.spotify.com/track/3G8eU7xiy5RCHGWuv1XRmI) | [BLAB](https://open.spotify.com/artist/30Ksb5y6JT8MQO36S3CnwF) | [Eton Mess](https://open.spotify.com/album/26LiIG02F99Nn6rvkazCvu) | 1:57 | 2021-12-20 |  |
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-12-20 |  |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-20 |  |
+| [Finger My Heart](https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Finger My Heart](https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt) | 3:13 | 2022-06-15 |  |
 | [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 | 2021-12-20 |  |
 | [G.A.F.F\. \- Edit](https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [G.A.F.F.](https://open.spotify.com/album/0LBGanhBP3hehp5Gy1gF9l) | 4:32 | 2021-12-20 | 2022-02-16 |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-03-18 |  |
-| [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-12-20 |  |
+| [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-12-20 | 2022-06-16 |
 | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/track/6jlelDSfxfbXHcvecHirda) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/album/20Jc5OznITldQ6pJPjxO5m) | 2:38 | 2021-12-20 |  |
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-01-21 |  |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-20 |  |
@@ -73,11 +74,12 @@
 | [Meat Market](https://open.spotify.com/track/4bQWIser8emNKjX3GlZJu3) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino \(B\-Sides\)](https://open.spotify.com/album/1JI8xZT4G7DrHF3KFAZdLW) | 3:15 | 2021-12-20 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-20 |  |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [MMMOOOAAAAAYAYA](https://open.spotify.com/album/6vLZTDbsUAVSQu5m0Xn9dJ) | 3:04 | 2021-12-20 |  |
+| [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-06-15 |  |
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2021-12-20 |  |
 | [NEW DREAM](https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu) | [V.RI](https://open.spotify.com/artist/0S4IQu9l1tbbntMQGfwDjA) | [NEW DREAM](https://open.spotify.com/album/0cRB7PNPx4kEPkq4QMGiYJ) | 3:28 | 2022-03-18 |  |
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-12-20 |  |
 | [obedient dog](https://open.spotify.com/track/3534Z4x8UqslonFDIBtqEb) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [obedient dog // what happened, Sofie?](https://open.spotify.com/album/0pIbHYat2Of99lZtJ4krdN) | 1:47 | 2022-01-21 |  |
-| [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-12-20 |  |
+| [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-12-20 | 2022-06-16 |
 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 | 2021-12-20 |  |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-15 |  |
 | [Pizza](https://open.spotify.com/track/3a1Xbl2cvJIMSpU3oMf4Vq) | [Shybaby](https://open.spotify.com/artist/6yKDvAzKT1QSl8ErqT0n0a) | [Pizza](https://open.spotify.com/album/6nVDvtVPgEqj1bqLKL8xB7) | 2:35 | 2021-12-20 | 2022-02-16 |
@@ -88,6 +90,7 @@
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2021-12-20 |  |
 | [Presidential Walk](https://open.spotify.com/track/5FxpA5miQTteOuMeIvL04r) | [KEG](https://open.spotify.com/artist/5CiQ9m8dPZ3eEV8c2DdHuq) | [Presidential Walk](https://open.spotify.com/album/7mRzMdmK2O18SWRK3vSwtZ) | 2:14 | 2021-12-20 |  |
 | [Queen Sophie for President](https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Queen Sophie for President](https://open.spotify.com/album/1E1pAERqQAcxbKWQ6ZV4g4) | 3:29 | 2021-12-20 |  |
+| [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-15 |  |
 | [Revolve](https://open.spotify.com/track/65SxZiGB2RDiTjNBhwj7qK) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Revolve](https://open.spotify.com/album/5eI3iOzlxGqcJuYSaVst48) | 2:52 | 2021-12-20 |  |
 | [Sand Fight](https://open.spotify.com/track/0krlA3U69xTFIrbEAwALak) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Sand Fight](https://open.spotify.com/album/5I4VwcRRbnDPOZC0wFt4IU) | 3:36 | 2021-12-20 |  |
 | [Satanic Slumber Party Part 2 \(Midnight In Sodom\)](https://open.spotify.com/track/1uMcy6dDlrQby1nD6xwKOw) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Satanic Slumber Party](https://open.spotify.com/album/2xRTFyydYap0kAWPfJwU2i) | 5:42 | 2022-03-18 |  |

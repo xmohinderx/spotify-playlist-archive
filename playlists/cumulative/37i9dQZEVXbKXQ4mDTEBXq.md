@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-160 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+161 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-11-17 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-05-12 |  |
 | [I Love...](https://open.spotify.com/track/4pRqq3MwcqitKqNO8rOrOb) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [I Love...](https://open.spotify.com/album/7EKSlfTmzRj012jKIstn7L) | 4:42 | 2021-03-27\* | 2021-08-20 |
-| [I LOVE...](https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:42 | 2021-08-20 |  |
+| [I LOVE...](https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:42 | 2021-08-20 | 2022-06-16 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2021-03-27\* | 2022-05-08 |
 | [Last Christmas](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:23 | 2021-12-25 | 2021-12-27 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-25 | 2021-12-29 |
@@ -124,6 +124,7 @@
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2021-07-04 | 2021-12-03 |
 | [不可幸力](https://open.spotify.com/track/18nkY3pJTub8WwEGiQAGh4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:20 | 2021-03-27\* | 2021-10-17 |
 | [不思議](https://open.spotify.com/track/6NKn02oJDkUkRa9IHbMe3n) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議](https://open.spotify.com/album/5s6klVSavspAWCCKSjDYCn) | 4:50 | 2021-04-29 | 2021-09-02 |
+| [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2022-06-15 |  |
 | [再会 \(produced by Ayase\)](https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [再会 \(produced by Ayase\)](https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf) | 4:02 | 2021-03-27\* | 2021-04-01 |
 | [創造](https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [創造](https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM) | 3:54 | 2021-03-27\* | 2021-03-30 |
 | [勿忘](https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grower](https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS) | 4:11 | 2021-03-27\* |  |

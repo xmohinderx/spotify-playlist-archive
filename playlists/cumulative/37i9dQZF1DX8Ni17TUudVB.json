@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 143040,
       "name": "50 Days",
       "url": "https://open.spotify.com/track/0bLgmoLTwCWOausnxpHfGw"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 176663,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7s914GtCjjcdeAP0TScYqB"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 123228,
       "name": "Dark",
       "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
@@ -1176,6 +1176,28 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
         "name": "Five Hours",
         "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
       },
@@ -1355,7 +1377,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 215773,
       "name": "Great Spirit",
       "url": "https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp"
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
@@ -1475,7 +1497,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 142857,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/0BCunKrAj1IMTM4A7J3TlC"
@@ -1691,7 +1713,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 176175,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/23BMl5kfWlCCBX4Jf207Sc"
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 139354,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc"
@@ -2519,7 +2541,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -2777,7 +2799,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 125552,
       "name": "Slap That",
       "url": "https://open.spotify.com/track/5l1l4Iw31lCne4j63kCJ6c"
@@ -3271,7 +3293,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 180090,
       "name": "Work!",
       "url": "https://open.spotify.com/track/5krfM2qSv73Km5MMgzfkBJ"

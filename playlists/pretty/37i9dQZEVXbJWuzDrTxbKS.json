@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "num_followers": 13730,
+  "num_followers": 13731,
   "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA4NTI4MDUzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA4NjEyMzgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
@@ -149,7 +133,39 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -169,23 +185,27 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
+        },
+        {
+          "name": "Kylok",
+          "url": "https://open.spotify.com/artist/0TNq45vbeLmc4ecvXTsTDA"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 128167,
+      "name": "KAS TAS TIKKO BIJA",
+      "url": "https://open.spotify.com/track/40QSkkNk7GEoSAeHpMML4l"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -225,39 +245,7 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
@@ -273,7 +261,23 @@
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -289,23 +293,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -321,23 +309,39 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "Stefania (Kalush Orchestra)",
-        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 179545,
-      "name": "Stefania (Kalush Orchestra)",
-      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
@@ -353,63 +357,39 @@
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "Stefania (Kalush Orchestra)",
+        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+      "duration_ms": 179545,
+      "name": "Stefania (Kalush Orchestra)",
+      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
@@ -429,39 +409,43 @@
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
       },
       "artists": [
         {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
         }
       ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+      "duration_ms": 132433,
+      "name": "OG KUSH (SMOKE DAT B)",
+      "url": "https://open.spotify.com/track/3CGSah31ViaYtTUNBXAoWj"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
@@ -481,7 +465,43 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
+      },
+      "artists": [
+        {
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
+        }
+      ],
+      "duration_ms": 125197,
+      "name": "THC",
+      "url": "https://open.spotify.com/track/5Ny2QcYBJzz6JjA3v3juPd"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -501,10 +521,10 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
       "artists": [
         {
@@ -512,28 +532,28 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
         }
       ],
-      "duration_ms": 204939,
-      "name": "Run BTS",
-      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
@@ -553,27 +573,23 @@
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -593,7 +609,207 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
+      },
+      "artists": [
+        {
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
+        }
+      ],
+      "duration_ms": 127808,
+      "name": "NEZINU",
+      "url": "https://open.spotify.com/track/5t18d6f9tT6XKkbeO0SiCf"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
+      },
+      "artists": [
+        {
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
+        },
+        {
+          "name": "Hartbreix",
+          "url": "https://open.spotify.com/artist/2Q2w1KjW7WW9nMeq5yV0hM"
+        }
+      ],
+      "duration_ms": 126439,
+      "name": "TUSINS TUSINS",
+      "url": "https://open.spotify.com/track/7c8YUfj02VqDDhX0AUm2eg"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "CRACKHOUSE",
+        "url": "https://open.spotify.com/album/6e8K8VBOtXAaWAkrKMrTPA"
+      },
+      "artists": [
+        {
+          "name": "Kastr\u0101cija",
+          "url": "https://open.spotify.com/artist/1zC1xZlDXqJ0UIKpT6MemX"
+        }
+      ],
+      "duration_ms": 111869,
+      "name": "BOTAS",
+      "url": "https://open.spotify.com/track/6jtLkBzVvETNL4jtQyXlHN"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
+      "album": {
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
@@ -617,111 +833,7 @@
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 290320,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
@@ -741,71 +853,7 @@
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 147062,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
-        "url": "https://open.spotify.com/album/5ZSMRpbTRGNmsOBxLrtE5V"
-      },
-      "artists": [
-        {
-          "name": "Max Korzh",
-          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
-      "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
@@ -821,72 +869,24 @@
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
-      "added_at": "2022-06-14 13:20:53",
+      "added_at": "2022-06-15 12:46:21",
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
-    },
-    {
-      "added_at": "2022-06-14 13:20:53",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     }
   ],
   "unique_name": "Top 50 - Latvia",
