@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 127228,
       "name": "Caribs",
       "url": "https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA"
@@ -3343,6 +3343,24 @@
       "duration_ms": 165000,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi"
+    },
+    {
+      "album": {
+        "name": "safety match",
+        "url": "https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh"
+      },
+      "artists": [
+        {
+          "name": "arithmetic underflow",
+          "url": "https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174264,
+      "name": "safety match",
+      "url": "https://open.spotify.com/track/1QNezn0xbaGoNsMiSNNJeO"
     },
     {
       "album": {

@@ -1066,6 +1066,32 @@
     },
     {
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "Trips!",
+      "url": "https://open.spotify.com/track/43P3NYzztjQHkxoai6MbB9"
+    },
+    {
+      "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
       },

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-186 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+187 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 |  |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 |  |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
-| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 |  |
+| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 | 2022-06-17 |
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 |  |
 | [Gaze](https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Gaze](https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI) | 4:34 | 2022-06-08 |  |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 |  |
@@ -93,7 +93,7 @@
 | [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 |  |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 |  |
-| [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 |  |
+| [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 | 2022-06-17 |
 | [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 |  |
@@ -138,6 +138,7 @@
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 |  |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
+| [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 |  |
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-11-19 | 2022-02-05 |

@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3"
+      },
+      "artists": [
+        {
+          "name": "Sun Of They",
+          "url": "https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk"
+    },
+    {
+      "album": {
         "name": "Morning Breeze",
         "url": "https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g"
       },
@@ -1411,6 +1429,24 @@
       "duration_ms": 166461,
       "name": "Wings",
       "url": "https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo"
+    },
+    {
+      "album": {
+        "name": "worth the wait",
+        "url": "https://open.spotify.com/album/6T4h9RYefYVY4jUocwZFfI"
+      },
+      "artists": [
+        {
+          "name": "Stories Seldom Told",
+          "url": "https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "worth the wait",
+      "url": "https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6"

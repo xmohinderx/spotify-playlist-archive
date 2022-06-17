@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-197 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+198 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-26 | 2022-05-30 |
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2022-04-15 | 2022-04-19 |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-04-15 |  |
-| [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-31 |  |
+| [Ultra Solo \- Remix](https://open.spotify.com/track/6XIxcnQAX83CmsH1N9LJCl) | [Lukini](https://open.spotify.com/artist/06a9X5kr438kASDs9THorD), [Jupa Necasek](https://open.spotify.com/artist/58JXOS3y0SA0tgyJTIJYgO) | [Ultra Solo \(Remix\)](https://open.spotify.com/album/5UJo3d41qY1QMth03N0UKF) | 2:38 | 2022-06-16 |  |
+| [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-31 | 2022-06-17 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-31 |  |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-06-01 | 2022-06-15 |
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-05-03 | 2022-05-18 |

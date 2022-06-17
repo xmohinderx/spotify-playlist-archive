@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
+      },
+      "artists": [
+        {
+          "name": "Eriao",
+          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
+    },
+    {
+      "album": {
         "name": "Awyr",
         "url": "https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9"
       },
@@ -1425,6 +1443,24 @@
       "duration_ms": 212059,
       "name": "Self Reflection",
       "url": "https://open.spotify.com/track/2VTxY7VSr3SglGky02DHvq"
+    },
+    {
+      "album": {
+        "name": "Peaceful Illusions",
+        "url": "https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177875,
+      "name": "Shapes of Solitude",
+      "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
     },
     {
       "album": {

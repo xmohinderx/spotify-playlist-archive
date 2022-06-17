@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83e\ude79 (in cover, shama 24k)",
+  "description": "\ud83e\ude79 (in cover, \u00ebgo)",
   "name": "ragazzo triste",
   "published_playlist_ids": [
     "7fBkDuj9jj7rj8liyTLX4S"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 116933,
       "name": "(SEMBRA BELLO)",
       "url": "https://open.spotify.com/track/4GrmcHXgRRnXqAaO4XJgqT"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 173095,
       "name": "Demoni",
       "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 200347,
       "name": "Forse Dio",
       "url": "https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 137155,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 149600,
       "name": "OPPOSTI",
       "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 178517,
       "name": "Solita",
       "url": "https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8"
@@ -1697,6 +1697,24 @@
       "duration_ms": 144332,
       "name": "Ti Sposo",
       "url": "https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC"
+    },
+    {
+      "album": {
+        "name": "TI VA DI FARMI A PEZZI",
+        "url": "https://open.spotify.com/album/3FF8qWE3B4B3XdLjzfgpsD"
+      },
+      "artists": [
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "TI VA DI FARMI A PEZZI",
+      "url": "https://open.spotify.com/track/4MGY99wRcj1dGIjdaleCyr"
     },
     {
       "album": {
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 150222,
       "name": "vivere solo",
       "url": "https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm"

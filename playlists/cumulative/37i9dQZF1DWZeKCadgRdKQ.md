@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-448 songs - 1 day 2 hr 14 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+449 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2020-08-07 |
 | [Any Given Place](https://open.spotify.com/track/2WltUi1jhpoiksDrlJUBlr) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:04 | 2019-05-26\* | 2020-04-13 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-05-26\* | 2020-01-03 |
+| [Apricity](https://open.spotify.com/track/6cr9XbO2yAJgTNa6XNRINF) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Apricity](https://open.spotify.com/album/1NaEmkywxX1nBWYK7Erqog) | 2:38 | 2022-06-16 |  |
 | [Archipelago Dreams](https://open.spotify.com/track/0tWJSrOeixKQQcYEws7HTF) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 2:36 | 2019-05-26\* | 2020-01-09 |
 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 2:25 | 2019-06-19\* |  |
 | [As the Lights Fade Away](https://open.spotify.com/track/6iDNiQbHvtlOQ8Z4kL46YW) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Atlantic](https://open.spotify.com/album/2n9rpKtpdYdhQtSTTrSQbP) | 1:46 | 2019-05-26\* | 2019-06-19 |

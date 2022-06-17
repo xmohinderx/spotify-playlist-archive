@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-693 songs - 1 day 12 hr 37 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+694 songs - 1 day 12 hr 40 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-14 | 2022-05-29 |
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-21 | 2021-11-22 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-16 |
-| [Holder igjen](https://open.spotify.com/track/1QrKkPNEmTyjKF2UsVuBe2) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Holder igjen](https://open.spotify.com/album/5ZIsJ54nbdRqGTOoWh4dqb) | 2:44 | 2022-05-21 |  |
+| [Holder igjen](https://open.spotify.com/track/1QrKkPNEmTyjKF2UsVuBe2) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Holder igjen](https://open.spotify.com/album/5ZIsJ54nbdRqGTOoWh4dqb) | 2:44 | 2022-05-21 | 2022-06-17 |
 | [Holiday](https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/41jQTuRYzHH58MwygrUxty) | 3:13 | 2021-07-18 | 2021-08-01 |
 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 | 2021-06-21 | 2021-07-18 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-06 | 2021-12-27 |
@@ -505,6 +505,7 @@
 | [Pause fra mæ sjøl](https://open.spotify.com/track/480JvLYE83nvigCc8TM8eS) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Pause fra mæ sjøl](https://open.spotify.com/album/2TUxdFPE1LNuTRvGXcn3He) | 3:35 | 2021-11-14 | 2021-11-21 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-28 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-18 |  |
+| [Peroni & Perignon](https://open.spotify.com/track/3nG8AgNEqt9icT5unQBl1a) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 3:00 | 2022-06-16 |  |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-28 | 2022-01-23 |
 | [Pinne for landet](https://open.spotify.com/track/0jefzmTNGgqmxVgMbNWdOa) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/1ekZkKGOkHcbZY9aHr5Xsj) | 3:17 | 2022-04-16 | 2022-04-20 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |

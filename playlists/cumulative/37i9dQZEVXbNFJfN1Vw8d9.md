@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-417 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+418 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 | 2021-12-05 | 2021-12-16 |
 | [KESI](https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 | 2021-04-14 | 2021-07-28 |
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-03-29 | 2021-06-02 |
+| [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-16 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-08-27 | 2021-11-28 |
 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/1BLWBkRUpDRTNxIjfhDlOn) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Canción Que No Quiero Cantarte](https://open.spotify.com/album/7zRCaRgmzwmtaFvI08nh4p) | 2:48 | 2022-05-11 | 2022-05-13 |
 | [La Cartita](https://open.spotify.com/track/0DG5cF1AxYfkeRgjXu9R3x) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [La Cartita](https://open.spotify.com/album/2NxNJQ5OLf9FEDlah5kBQz) | 3:05 | 2021-05-16 | 2021-07-14 |
@@ -417,7 +418,7 @@
 | [Ya no vales](https://open.spotify.com/track/276Eb7p7ofW5BwBAyhR435) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Ya no vales](https://open.spotify.com/album/0onJvpg3KvrPQShKpTHOOB) | 2:35 | 2021-09-19 | 2021-09-20 |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-09-11 |
 | [Yate](https://open.spotify.com/track/0q7psxaixBQ8FkqyVpbfky) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yate](https://open.spotify.com/album/65BZfDQ8PCkHXtRYuaCbuI) | 3:25 | 2021-08-15 | 2021-09-17 |
-| [Yatekomo](https://open.spotify.com/track/7ILwxghUppFKHnAJ5ziB8X) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Yatekomo](https://open.spotify.com/album/3zzKotWathmZrCMkiF5wha) | 3:33 | 2022-05-18 |  |
+| [Yatekomo](https://open.spotify.com/track/7ILwxghUppFKHnAJ5ziB8X) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Yatekomo](https://open.spotify.com/album/3zzKotWathmZrCMkiF5wha) | 3:33 | 2022-05-18 | 2022-06-17 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2021-11-28 | 2022-01-13 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
 | [Yo No Sé](https://open.spotify.com/track/43ic0un1f9Nak0ZCQgvKjY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Yo No Sé](https://open.spotify.com/album/4oV9eietKZl9wQBtu47jjl) | 2:48 | 2021-03-27\* | 2021-04-15 |

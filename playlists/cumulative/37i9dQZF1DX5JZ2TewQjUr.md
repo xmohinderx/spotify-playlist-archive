@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Anna hisbbuR
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: So It Goes
 
-127 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+133 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [STORM IS COMING](https://open.spotify.com/track/7oZdECdOcQPL4Un0G4ss2X) | [Shingaling](https://open.spotify.com/artist/0jNdqxqzGbd6Mbwr75FOlF) | [STORM IS COMING !!!](https://open.spotify.com/album/2GjANqBhBhgqxpqjM8ogyq) | 3:55 | 2022-05-26 |  |
 | [suburban crush](https://open.spotify.com/track/5uY9J7hSvVqzTcEejI2hiw) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [suburban crush](https://open.spotify.com/album/6Krpx8rHDfDEPfzENdVOmb) | 4:48 | 2022-05-26 |  |
 | [Summer Ride \(With No Brakes\)](https://open.spotify.com/track/0v83kmxHU1U4JI5KNWINe5) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [Summer Ride \(With No Brakes\)](https://open.spotify.com/album/3qr3Cb7hEVDfRiWmufbTda) | 5:47 | 2022-05-26 |  |
+| [Summertime](https://open.spotify.com/track/1VNpY4n21SSy45W5cr1KAY) | [lil orchid](https://open.spotify.com/artist/2bH3Mtz0p3fClnVvn3SRTQ), [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR), [Just Kane](https://open.spotify.com/artist/6zsc3yu20vjzTAStfOKCKs) | [Summertime](https://open.spotify.com/album/5HXqXJMgcn4f3cyTQ7wPOU) | 3:45 | 2022-06-16 |  |
 | [SUNSET OT](https://open.spotify.com/track/0vpgRYCvQ4z7ZzCHRXyLKL) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [SUNSET OT](https://open.spotify.com/album/0B5stl19RIi6oIeWoiSidx) | 3:26 | 2022-05-26 | 2022-06-10 |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 |  |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 |  |
@@ -93,11 +94,14 @@
 | [typing...](https://open.spotify.com/track/0BVms2AXr5qWkVvxMAtdH5) | [Mily K](https://open.spotify.com/artist/3V5ATM4EPxx31afVtMCQ8P) | [R](https://open.spotify.com/album/6OBR9LeB8NKTMELTYN3Zhn) | 3:02 | 2022-05-26 | 2022-06-10 |
 | [Unknown](https://open.spotify.com/track/1l9UUJaLMgJ0gBtSLZW1SF) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Unknown](https://open.spotify.com/album/5Jz8oeB9hH55B7tCT2zLVK) | 5:04 | 2022-05-26 |  |
 | [Unlock](https://open.spotify.com/track/3inRrpZMI0sRk8Ldef8kzu) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK), [WingYi](https://open.spotify.com/artist/53IHrm3wBJYrurtW01xGVV) | [Unlock](https://open.spotify.com/album/45qy057WtjUMopdSz1hh4p) | 3:48 | 2022-05-26 | 2022-06-10 |
+| [we'll meet again someday](https://open.spotify.com/track/2MhmZKLUVGIeR5isxJBIqF) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [NIRVANA](https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x) | 0:53 | 2022-06-16 |  |
+| [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 |  |
 | [when the lights are out](https://open.spotify.com/track/2hMK2gJTcXQA1I0101FCsz) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [slow walks to the movies](https://open.spotify.com/album/4C1WlzyM8JttiUJt537bxI) | 3:02 | 2022-05-26 |  |
 | [Whenever I See You \- Live](https://open.spotify.com/track/5fVD9x5lBXSjMqiR5s2Efc) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Whenever I See You \(Live\)](https://open.spotify.com/album/44D6tch9k4I8EbE8jXyPpm) | 3:35 | 2022-05-26 | 2022-06-10 |
 | [WHITELIES](https://open.spotify.com/track/1ZCni5M2ETDB01M2TqLvgA) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [WHITELIES](https://open.spotify.com/album/2c2NXy8ZwXA22gCAIMIB4Z) | 4:11 | 2022-06-09 |  |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
 | [一圈](https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [一圈](https://open.spotify.com/album/04v5MzEvR5kcChMMClQHkY) | 3:58 | 2022-05-26 | 2022-06-10 |
+| [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 |  |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |
 | [人](https://open.spotify.com/track/0S0kOIu1c594H7nV6B2ttS) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [人](https://open.spotify.com/album/1K3lYhwpjsjnbDplT3euXy) | 4:00 | 2022-05-26 |  |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 |  |
@@ -106,6 +110,7 @@
 | [其實咩關係唔緊](https://open.spotify.com/track/0dCROcDt5hH5snFfdrwQQ0) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [其實咩關係唔緊](https://open.spotify.com/album/1NqxwlCp0NIuNa5w3OsIoD) | 2:52 | 2022-05-26 | 2022-06-10 |
 | [剃光頭](https://open.spotify.com/track/4Go5fO2eGto0kzaWICw1Ov) | [Ryan's Bucket List](https://open.spotify.com/artist/4eBKRt82Hdn471MeTmOFFt) | [剃光頭](https://open.spotify.com/album/62cZNWXmxBjJcZjZImiQLX) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 |  |
+| [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 |  |
 | [囉囉攣](https://open.spotify.com/track/0u1mnT0MlUXVFcuqtYvknx) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx) | [囉囉攣](https://open.spotify.com/album/6CIkXpfWJuJJ408YCC6oOf) | 2:40 | 2022-05-26 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-05-26 |  |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 |  |
@@ -113,6 +118,7 @@
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 |  |
 | [慢慢滲](https://open.spotify.com/track/2QIFXAEdrsftSCwM9AyV7k) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [慢慢滲](https://open.spotify.com/album/3obTF7CHZr21LVcClNhHIC) | 2:19 | 2022-06-09 |  |
 | [換我](https://open.spotify.com/track/7IQiDM8vp4qPIMLtCgBO6U) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [換我](https://open.spotify.com/album/0XLXFnADRmgz6ZiyAX6ou1) | 4:24 | 2022-05-26 |  |
+| [更新作業最後限期](https://open.spotify.com/track/5LvlHUuFtItkQgiLbjJJim) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [更新作業最後限期](https://open.spotify.com/album/5vdZEydKnQ34QuS3OMlrZE) | 4:04 | 2022-06-16 |  |
 | [月後](https://open.spotify.com/track/2XVmxvFfD4DukqOE4yNCN7) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt) | [月後](https://open.spotify.com/album/7glic7027atzTWpfkT48ue) | 4:07 | 2022-05-26 | 2022-06-10 |
 | [有啲嘢唔講得](https://open.spotify.com/track/3B7HiByTGUFZucAnzgUxIw) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA) | [有啲嘢唔講得](https://open.spotify.com/album/6bjo2tylboKAk7YFUfnva1) | 3:03 | 2022-05-26 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 |  |

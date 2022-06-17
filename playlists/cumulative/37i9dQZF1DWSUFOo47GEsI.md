@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-260 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+265 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2021-11-10 |  |
 | [Eenzame stilte](https://open.spotify.com/track/1e6nwN0hH6Ui144FkjL53z) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Eenzame stilte \(Ambient version\)](https://open.spotify.com/album/0tPYMZZWlYoevwpJUX79be) | 2:33 | 2021-11-10 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-11-10 |  |
+| [Elixir](https://open.spotify.com/track/5axCXjWT2onmHspsd1OfBT) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Elixir](https://open.spotify.com/album/02OAmhoiEOOuc0ezoC6kOv) | 2:20 | 2022-06-16 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-11-10 |  |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2021-11-10 |  |
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2021-11-10 | 2022-02-03 |
@@ -160,6 +161,7 @@
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2021-11-10 |  |
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2021-11-10 |  |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2021-11-10 |  |
+| [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-03-08 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2021-11-10 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-11-10 |  |
@@ -182,6 +184,7 @@
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2021-11-10 |  |
 | [Pause](https://open.spotify.com/track/2IrOsuqSttz8KBastkZCzy) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Pause](https://open.spotify.com/album/5BXX9xYJVjUczw1gsM51Yx) | 2:43 | 2021-11-10 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2021-11-10 |  |
+| [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 | 2022-06-16 |  |
 | [Profundo Gozo](https://open.spotify.com/track/4nQYz3auP1cTpuvmTrVGkf) | [Hot Hot Springs](https://open.spotify.com/artist/7Mr7UHW0sdgRNuXYpb030K) | [Profundo Amor](https://open.spotify.com/album/4NzOAAKljBEm8GOyZBWYgw) | 2:09 | 2021-11-10 |  |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2021-11-10 |  |
 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2021-11-10 | 2022-02-03 |
@@ -196,6 +199,7 @@
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-11-10 |  |
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2021-11-10 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-11-10 |  |
+| [Retrieved Moments](https://open.spotify.com/track/0VD4MkKGJcWdDsIOZSUyO0) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Retrieved Moments](https://open.spotify.com/album/0rtav09pOyz3h5xNWo3EAW) | 3:04 | 2022-06-16 |  |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2021-11-10 |  |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2021-11-10 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2021-11-10 |  |
@@ -247,6 +251,7 @@
 | [Traumlandschaft](https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Traumlandschaft](https://open.spotify.com/album/1iT68T2iKzYilM8pEhy0uP) | 3:19 | 2021-11-10 |  |
 | [True Nature](https://open.spotify.com/track/0BlqzRjRBPENOWus0io6Pt) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Meaning](https://open.spotify.com/album/2pmu77y9s1ou2j6iLPCim5) | 2:41 | 2021-11-10 | 2022-02-03 |
 | [Turndown Service](https://open.spotify.com/track/56y8h73SZXnIzR0fGSQlca) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Turndown Service](https://open.spotify.com/album/1b9QKWx1CGfZ610vf6GHnj) | 1:55 | 2021-11-10 |  |
+| [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 | 2022-06-16 |  |
 | [Underview](https://open.spotify.com/track/5xcgi9ta3wVzBFktltBLMo) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Underview](https://open.spotify.com/album/5CxKbJBV7cYw5ayhZWMQrN) | 1:50 | 2022-03-08 |  |
 | [Up Above](https://open.spotify.com/track/3lyvwZ5DUyj7qlnb49DyRg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Up Above](https://open.spotify.com/album/1sheGcDitJ34SQSTHCPGrv) | 3:04 | 2021-11-10 |  |
 | [Us](https://open.spotify.com/track/3A97MxM8H57n3bRRq0XYgf) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Other](https://open.spotify.com/album/6FBEfKK9pxJ8Nm6BW5ozXp) | 2:28 | 2021-11-10 | 2022-02-03 |

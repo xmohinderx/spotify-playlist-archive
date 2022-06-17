@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Chapo102\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Nina Chuba\n",
   "name": "me right now",
   "published_playlist_ids": [
     "4wMgKXJWsULbe4I9HZDGUL"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
     {
       "album": {
         "name": "21",
@@ -85,6 +103,24 @@
       "duration_ms": 121949,
       "name": "ALL GIRLS ARE THE SAME",
       "url": "https://open.spotify.com/track/4xhWfr0tyA7BGL7eXo8KnV"
+    },
+    {
+      "album": {
+        "name": "Am I Wrong (Drill Remix)",
+        "url": "https://open.spotify.com/album/5WTnzokVAK3mDSHCd9JWEy"
+      },
+      "artists": [
+        {
+          "name": "RedHead Beats",
+          "url": "https://open.spotify.com/artist/2zmIsdUFVh0cwvAiEZIMgO"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218805,
+      "name": "Am I Wrong - Drill Remix",
+      "url": "https://open.spotify.com/track/3eAMVkEZHK3rGBJqL4trvQ"
     },
     {
       "album": {
@@ -240,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Chabos wissen wer der Babo ist",
+        "url": "https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139908,
+      "name": "Chabos wissen wer der Babo ist",
+      "url": "https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t"
+    },
+    {
+      "album": {
         "name": "Chanel Bag",
         "url": "https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ"
       },
@@ -251,7 +305,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 158667,
       "name": "Chanel Bag",
       "url": "https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69"
@@ -392,6 +446,28 @@
     },
     {
       "album": {
+        "name": "Dunkelblau",
+        "url": "https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf"
+      },
+      "artists": [
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227892,
+      "name": "Dunkelblau",
+      "url": "https://open.spotify.com/track/018xarXmBSWkxODkNHf78I"
+    },
+    {
+      "album": {
         "name": "You Want Some of This?",
         "url": "https://open.spotify.com/album/2l6mZS1RQM7PQAEeaCR3Um"
       },
@@ -469,7 +545,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 143390,
       "name": "Feind",
       "url": "https://open.spotify.com/track/4oaCEvyJllosCnvjI6T3ev"
@@ -641,6 +717,28 @@
       "duration_ms": 187194,
       "name": "happy end",
       "url": "https://open.spotify.com/track/6kxfeWb2WDi0XivpkRm6nU"
+    },
+    {
+      "album": {
+        "name": "HIGH (feat. Claudia Valentina)",
+        "url": "https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168093,
+      "name": "HIGH (feat. Claudia Valentina)",
+      "url": "https://open.spotify.com/track/72H4lwbSuX8xjyJseUC5Ux"
     },
     {
       "album": {
@@ -932,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Pass dich nie an, Pass auf dich auf",
+        "url": "https://open.spotify.com/album/0O0Ex2MfhZxODJo26RIP30"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145013,
+      "name": "Leben ist zu kurz um Angst zu haben",
+      "url": "https://open.spotify.com/track/2Rh89ij1q0U3r1qJUaWUHz"
+    },
+    {
+      "album": {
         "name": "Living Life, In The Night",
         "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
       },
@@ -951,6 +1067,24 @@
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
+    },
+    {
+      "album": {
+        "name": "LOS",
+        "url": "https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "LOS",
+      "url": "https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH"
     },
     {
       "album": {
@@ -1183,7 +1317,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 220013,
       "name": "Pacify Her",
       "url": "https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6"
@@ -1564,6 +1698,28 @@
     },
     {
       "album": {
+        "name": "teufel tr\u00e4gt prada",
+        "url": "https://open.spotify.com/album/5sJrdCnVkjS7Xh7KpTO77D"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        },
+        {
+          "name": "Edo Saiya",
+          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178008,
+      "name": "teufel tr\u00e4gt prada",
+      "url": "https://open.spotify.com/track/197lWjWh0y232Ye131s1kO"
+    },
+    {
+      "album": {
         "name": "The One-T ODC",
         "url": "https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn"
       },
@@ -1618,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Tracksuit Velours",
+        "url": "https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150599,
+      "name": "Tracksuit Velours",
+      "url": "https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -1637,6 +1811,24 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "album": {
+        "name": "KIDS AUS DEM VERSTECK",
+        "url": "https://open.spotify.com/album/6K89xzwlZfp0yVgBng67Cl"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146465,
+      "name": "TR\u00c4UME GRO\u00df",
+      "url": "https://open.spotify.com/track/1qcA4s7RNMcmWOtgKDikwJ"
     },
     {
       "album": {
@@ -1801,7 +1993,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 167441,
       "name": "why am i here, i feel so alone",
       "url": "https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM"

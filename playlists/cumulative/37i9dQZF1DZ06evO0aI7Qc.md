@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
+53 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 | 2022-06-01 |  |
 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 | 2022-06-12 | 2022-06-14 |
 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 | 2022-06-01 |  |
+| [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 | 2022-06-16 |  |
 | [En Phoenix Ruleteamos](https://open.spotify.com/track/4u5OPcN6zuLd9hJGB1PPjM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Phoenix Ruleteamos](https://open.spotify.com/album/2Kjrnq2AqljOmHQPTzwT4t) | 3:55 | 2022-06-01 |  |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-06-01 |  |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-06-01 |  |
@@ -55,7 +56,7 @@
 | [Por Clave El Doble R](https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 4:05 | 2022-06-01 |  |
 | [Por Clave El Fresa](https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:24 | 2022-06-01 |  |
 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 | 2022-06-01 |  |
-| [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/track/67ooe4ll0LOFRzvfTeJHCQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/album/0IFlKx4CBD5vRGKNkjZ2oU) | 3:07 | 2022-06-01 |  |
+| [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/track/67ooe4ll0LOFRzvfTeJHCQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/album/0IFlKx4CBD5vRGKNkjZ2oU) | 3:07 | 2022-06-01 | 2022-06-17 |
 | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 | 2022-06-01 |  |
 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 | 2022-06-01 |  |
 | [Sin Apodo \(En Vivo\)](https://open.spotify.com/track/0Up3NfbU2p9keQHqcPZYQO) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sin Apodo \(En Vivo\)](https://open.spotify.com/album/2jDt8iQGBpf0kHtlKm7ZdM) | 3:21 | 2022-06-01 |  |

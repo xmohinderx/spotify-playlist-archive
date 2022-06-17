@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Each Day",
+        "url": "https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3"
+      },
+      "artists": [
+        {
+          "name": "oakwhisper",
+          "url": "https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143294,
+      "name": "Each Day",
+      "url": "https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n"
+    },
+    {
+      "album": {
         "name": "Waitwall Mountain",
         "url": "https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX"
       },
@@ -2117,6 +2135,24 @@
       "duration_ms": 142000,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7f7P35fclxpRqu19lDCMRi"
+    },
+    {
+      "album": {
+        "name": "Hometown Glory",
+        "url": "https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184980,
+      "name": "Rivers of My Mind",
+      "url": "https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M"
     },
     {
       "album": {

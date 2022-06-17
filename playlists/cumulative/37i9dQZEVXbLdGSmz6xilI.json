@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -5425,7 +5425,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8270,6 +8270,24 @@
     },
     {
       "album": {
+        "name": "T\u1ec7 Th\u1eadt, Anh Nh\u1edb Em",
+        "url": "https://open.spotify.com/album/4kQw3hVJN1dNorjie6wObf"
+      },
+      "artists": [
+        {
+          "name": "Thanh H\u01b0ng",
+          "url": "https://open.spotify.com/artist/14W31zJumZnGDgZuPXclTJ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344357,
+      "name": "T\u1ec7 Th\u1eadt, Anh Nh\u1edb Em",
+      "url": "https://open.spotify.com/track/5ACySwUCY89mWH3u38WD9m"
+    },
+    {
+      "album": {
         "name": "t\u00e2m tr\u1ea1ng tan h\u01a1i ch\u1eadm m\u1ed9t ch\u00fat",
         "url": "https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU"
       },
@@ -8499,7 +8517,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

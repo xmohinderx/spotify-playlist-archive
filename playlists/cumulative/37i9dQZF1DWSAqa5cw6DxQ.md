@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-85 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+86 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |
 | [Nightsky](https://open.spotify.com/track/6zmG3oMYGljGbfCNxrYBSZ) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Nightsky](https://open.spotify.com/album/4u9zBt4isiVIeJfVXYsxAn) | 2:32 | 2022-04-21 |  |
 | [Northern Light](https://open.spotify.com/track/0Ph9pISD17s2DLfboy0rZI) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Skies](https://open.spotify.com/album/7nWdcWGFSk37JKHLTh9G7W) | 2:46 | 2022-02-28 |  |
+| [Nothing But Now](https://open.spotify.com/track/7b6rxgdX4vxUxE7nVVImh5) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Nothing But Now](https://open.spotify.com/album/0e06o5DjhB0wI8KYIZfRFM) | 4:13 | 2022-06-16 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
 | [Pattern Codes](https://open.spotify.com/track/46gBeZePyObJo4UWxrbRye) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Pattern Codes](https://open.spotify.com/album/5Lj8RfNJtk92vlnrG87k0x) | 2:57 | 2022-02-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Skillibeng, Fivio Foreign, French Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,838 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 67 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 |
 | 68 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 69 | [Tic It & Tac It](https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI) | [Bobo](https://open.spotify.com/artist/4rOtaKOGHla5WoXOmfYasI) | [Tic It & Tac It](https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG) | 2:04 |
-| 70 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God’s Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
+| 70 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 |
 | 71 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
 | 72 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
 | 73 | [Hold You](https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [LÖV](https://open.spotify.com/album/0xATpwMQQqS5Gb7gS16MIa) | 5:37 |

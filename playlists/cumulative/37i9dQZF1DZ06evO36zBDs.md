@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/32ULFsVKbCsfzD3V68Z4iN)
+61 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/32ULFsVKbCsfzD3V68Z4iN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,11 @@
 | [Gravity](https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:12 | 2022-06-09 |  |
 | [irony](https://open.spotify.com/track/3qLPnTQYkTObObPgncJQyS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:18 | 2022-06-09 |  |
 | [irony \-season 02\-](https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 | 2022-06-09 |  |
-| [Last Squall](https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:43 | 2022-06-12 | 2022-06-16 |
+| [Last Squall](https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:43 | 2022-06-12 |  |
 | [Mermaid](https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:10 | 2022-06-09 |  |
 | [missing you](https://open.spotify.com/track/40AUDiMUMRhyx0IzQWY7MD) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:55 | 2022-06-11 | 2022-06-13 |
 | [nexus](https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:51 | 2022-06-09 |  |
-| [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 | 2022-06-11 |  |
+| [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 | 2022-06-11 | 2022-06-17 |
 | [PRECIOUS](https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:27 | 2022-06-09 |  |
 | [PRIMALove](https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:15 | 2022-06-09 |  |
 | [reunion](https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:50 | 2022-06-09 |  |
@@ -34,7 +34,7 @@
 | [SHIORI](https://open.spotify.com/track/3OBGuiLR37GJP0H8csaE3n) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:08 | 2022-06-09 |  |
 | [STEP](https://open.spotify.com/track/5DvdcadbAkXdpITIKLycqx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:15 | 2022-06-09 |  |
 | [STEP \-season 02\-](https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:16 | 2022-06-09 |  |
-| [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 | 2022-06-11 |  |
+| [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 | 2022-06-11 | 2022-06-17 |
 | [Surely](https://open.spotify.com/track/4NF9qpz2QP5IRdwZLdtsWC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [カラフル](https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN) | 4:21 | 2022-06-09 |  |
 | [treasure](https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:20 | 2022-06-09 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 | 2022-06-09 |  |
@@ -42,6 +42,7 @@
 | [with you](https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 3:54 | 2022-06-12 | 2022-06-14 |
 | [ひらひら ひらら](https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 5:13 | 2022-06-09 |  |
 | [もういちど ルミナス](https://open.spotify.com/track/2nMVkKOSXWlx39bDb6O3Ac) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [丸山彩 from Pastel\*Palettes](https://open.spotify.com/artist/0N8XbKOOPtJqiSZcjKPfCI) | [もういちど ルミナス](https://open.spotify.com/album/3iAPqnmOiEYK1Il7Ngydj5) | 4:21 | 2022-06-09 |  |
+| [アイデンティティ](https://open.spotify.com/track/1rSTT91gK0K4CbLOrGtaxu) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:51 | 2022-06-16 |  |
 | [アイヲウタエ](https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 4:03 | 2022-06-09 |  |
 | [アネモネ](https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:32 | 2022-06-09 |  |
 | [アリシア](https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:51 | 2022-06-09 |  |
@@ -57,16 +58,16 @@
 | [ヒトリゴト](https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:52 | 2022-06-09 |  |
 | [プロミス](https://open.spotify.com/track/6Eia9LTMWgMP7VELAES28o) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:57 | 2022-06-09 | 2022-06-12 |
 | [メモリー](https://open.spotify.com/track/0lW1O9gkoDoqKuhCn8Gx2T) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:29 | 2022-06-15 |  |
-| [ユニゾン](https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア/シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:29 | 2022-06-11 |  |
+| [ユニゾン](https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア/シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:29 | 2022-06-11 | 2022-06-17 |
 | [ルミナス](https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:11 | 2022-06-09 |  |
-| [ルミナス \-2017\-](https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:10 | 2022-06-09 | 2022-06-16 |
+| [ルミナス \-2017\-](https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:10 | 2022-06-09 |  |
 | [冬空花火](https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PRIMALove](https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX) | 4:29 | 2022-06-11 |  |
 | [君の知らない物語](https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 5:41 | 2022-06-09 |  |
 | [恋のバカンス](https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS \-夏のうた\-](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 2:39 | 2022-06-09 |  |
-| [新世界ビーナス](https://open.spotify.com/track/2Ndh9WN97G5Bw4fWrYxk9V) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:46 | 2022-06-09 | 2022-06-12 |
+| [新世界ビーナス](https://open.spotify.com/track/2Ndh9WN97G5Bw4fWrYxk9V) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:46 | 2022-06-09 |  |
 | [明日、春が来たら](https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SPRING TRACKS \-春のうた\-](https://open.spotify.com/album/75iexQXsMr2LPouyL45o8U) | 4:44 | 2022-06-09 |  |
 | [桜咲く](https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [STEP](https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx) | 4:42 | 2022-06-09 |  |
 | [泣かないよ \- Clara solo ver.](https://open.spotify.com/track/0Eqe56YVUzl6gFKVLXHK4l) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:28 | 2022-06-09 |  |
-| [陽だまり](https://open.spotify.com/track/092Ify2XiyScCNOpZlhDc9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:14 | 2022-06-11 |  |
+| [陽だまり](https://open.spotify.com/track/092Ify2XiyScCNOpZlhDc9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:14 | 2022-06-11 | 2022-06-17 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

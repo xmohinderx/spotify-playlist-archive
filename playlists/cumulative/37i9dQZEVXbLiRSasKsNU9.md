@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-542 songs - 1 day 5 hr 40 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+543 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-03-08 | 2022-03-23 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-12 | 2022-04-20 |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2021-12-31 | 2022-02-03 |
-| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-14 |  |
+| [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-14 | 2022-06-17 |
 | [Maytag \(Tax Free\)](https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:45 | 2022-02-05 | 2022-03-12 |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-04-26 | 2022-05-04 |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-05 | 2022-06-15 |
@@ -415,6 +415,7 @@
 | [Sebiksy](https://open.spotify.com/track/1zwuT3oMcSs6Bo1uBQMRtq) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Kryzys Wieku Wczesnego](https://open.spotify.com/album/7FFyqG9TyQBQw08sYM9zjj) | 3:05 | 2022-01-10 | 2022-01-13 |
 | [Sehnsucht](https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6) | 2:32 | 2022-03-29 | 2022-03-31 |
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-08 | 2022-03-30 |
+| [Seni Kırmışlar](https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Sen Böyle Değildin](https://open.spotify.com/album/14KTTy0gQAGWcOLTGkw9hy) | 2:53 | 2022-06-16 |  |
 | [Sensizlik Yarim](https://open.spotify.com/track/7C4azcFK7GaKT75dhHYgVM) | [Taylan Kaya](https://open.spotify.com/artist/10icwsz4H9wgQsw0PLklWh), [Vave](https://open.spotify.com/artist/5mQAYhwuI0mAnzxldEWw8s), [Nurhana Demet](https://open.spotify.com/artist/2tTCO6DA6HRqBimHuERCw2), [ETC Production](https://open.spotify.com/artist/0LkIrU2zt7jVVPibxEeS25) | [Sensizlik Yarim](https://open.spotify.com/album/2tyHjCmlw1LGloepW3umim) | 3:29 | 2022-01-08 | 2022-01-24 |
 | [Senta Com Amor](https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP) | [Furacão Hit](https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF) | [Se Liga no Beat](https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ) | 3:06 | 2022-03-01 | 2022-03-09 |
 | [Sentadona \(Ai Calica\)](https://open.spotify.com/track/71efUiJwL11CRkI5aMplsi) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Sentadona \(Ai Calica\)](https://open.spotify.com/album/3oTXQfxac47CE54U58mEdG) | 2:46 | 2022-03-01 | 2022-03-30 |

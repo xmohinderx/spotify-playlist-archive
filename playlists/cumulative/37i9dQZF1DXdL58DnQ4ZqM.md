@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-233 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+234 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 | 2022-03-16 |  |
 | [Jellyfish](https://open.spotify.com/track/7vYcLw0KYqkmOSbf2ZJjIQ) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Jellyfish](https://open.spotify.com/album/2iNZBRvSIHxPVCsgdv8CYS) | 3:33 | 2022-03-16 |  |
 | [Jenny's Song](https://open.spotify.com/track/3ilIWRIvIgFJR90O7oqoL1) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Electric Love Chill](https://open.spotify.com/album/0KusiX6m9geP5PGvoFxlIc) | 3:06 | 2022-01-12 | 2022-01-24 |
+| [Kakau](https://open.spotify.com/track/5arMNfAdDTkzRVNiAS7BIm) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Kakau](https://open.spotify.com/album/1NUrfXS7FNW2vC90xs3IhT) | 2:31 | 2022-06-17 |  |
 | [Keep On Shining, Keep On Moving \- Ambient Mix](https://open.spotify.com/track/3Tvu1UD14uCvRwBkEnubdl) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Keep On Shining, Keep On Moving](https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl) | 2:59 | 2021-08-10 | 2022-03-17 |
 | [Kingdom 8](https://open.spotify.com/track/0xbt52iPJMXdiCIb1lut4M) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kingdom 8](https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w) | 1:30 | 2022-03-16 | 2022-05-19 |
 | [La Lumière](https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej) | 3:42 | 2021-08-10 | 2022-03-17 |

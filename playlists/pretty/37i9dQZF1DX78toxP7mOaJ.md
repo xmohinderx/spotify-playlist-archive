@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock from independent artists every Wednesday\. Cover: Berlue \| Artwork: Jim Klok
+> Fresh rock from independent artists every Wednesday\. Cover: Mint Green \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,690 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,736 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,31 +12,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 2 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
 | 3 | [going nowhere](https://open.spotify.com/track/7wfVtvR2dGrHgBE5eOsTkE) | [Berlue](https://open.spotify.com/artist/23AyLrq18LhJG61d8EjSRY) | [going nowhere](https://open.spotify.com/album/7CmqBe0Ox1yRHKMckWkXeA) | 2:41 |
 | 4 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 |
-| 5 | [My Honesty](https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [My Honesty](https://open.spotify.com/album/3LArpsuTipgbv0RQvdcxUF) | 3:55 |
-| 6 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 |
-| 7 | [Holiday in My Head](https://open.spotify.com/track/7GrCfI8A87IekzGb37lGOX) | [The Velvet Hands](https://open.spotify.com/artist/3apmyVOBGwhnh7AwyRaF81) | [Holiday in My Head](https://open.spotify.com/album/7sNosmIEcn33uMiLOkVXEZ) | 2:23 |
-| 8 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 |
-| 9 | [Olivia](https://open.spotify.com/track/1bqdC1OsaDLHgPVxcfIxtL) | [Oakrest](https://open.spotify.com/artist/1JFb5zWctQkKtWEdPmht8q) | [Olivia](https://open.spotify.com/album/3Dq3wU4pnlW1efq0ol7KtO) | 3:04 |
-| 10 | [Fuzz My Life](https://open.spotify.com/track/0TwczaRIUoioEZEBkgMLN3) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Fuzz My Life](https://open.spotify.com/album/0wjWfdSJrlcwq6XO8eN8Nm) | 2:38 |
-| 11 | [I Hope You're Right](https://open.spotify.com/track/6kUnI31iLbSXrWqBsdsiee) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [I Hope You're Right](https://open.spotify.com/album/0ljGgLzgTmc3az1clvp2aB) | 3:18 |
-| 12 | [See](https://open.spotify.com/track/1QmAPsQAOwgnbMgadQHkwn) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [See](https://open.spotify.com/album/4VrHjYS30FygMu7azuzmKV) | 4:25 |
-| 13 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 |
-| 14 | [Potluck Lunch for Cannibals](https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/0kzeKP6WbJJQIqmhOrCviw) | 2:55 |
-| 15 | [Need Me Now](https://open.spotify.com/track/2qugKsA1E3bm2jJBwiUiED) | [The Motive](https://open.spotify.com/artist/1hjYk9Jjab1cav3I4pLrVW) | [Need Me Now](https://open.spotify.com/album/2IyFtxSh4hiVZDaK9xQ3JO) | 3:16 |
-| 16 | [The Truth](https://open.spotify.com/track/1H9NFOK9igDd0aOJKQN55d) | [Candid](https://open.spotify.com/artist/2eSdPS2sIENi2M3IO0mpwa) | [The Truth](https://open.spotify.com/album/4Lljy0BcRHBZ7OMkx1pYiD) | 2:46 |
-| 17 | [The Lonely One](https://open.spotify.com/track/5BCiue66Xv2k6bISCuPtv6) | [The Tullamarines](https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5) | [The Lonely One](https://open.spotify.com/album/52RF3uchaEb0sp2Y35hke9) | 3:34 |
-| 18 | [Happy](https://open.spotify.com/track/241QEcB5ULB0H8xuLm7h0u) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Happy](https://open.spotify.com/album/0OPIRXWG3fBTFHadWCqCWq) | 2:44 |
-| 19 | [Summertime](https://open.spotify.com/track/6EjFXTrsdHX11foIwZrPsn) | [The Medinas](https://open.spotify.com/artist/5HVcy5IwKFMjr3kfwyfVQC) | [Summertime](https://open.spotify.com/album/1E7TW4GGbAD5SvZHAGY7Ok) | 2:59 |
-| 20 | [Scared To Lose](https://open.spotify.com/track/7i1eif8nLw1fc64MILgd6U) | [glimmers](https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy) | [Scared To Lose](https://open.spotify.com/album/2f2bHS0aJMFIR08a6TMePD) | 3:27 |
-| 21 | [Rosey](https://open.spotify.com/track/4Ep0nSZT79o5sT4v0sssH4) | [New Junk City](https://open.spotify.com/artist/4kcvkXddIYZxnvLue1uPOM) | [Rosey](https://open.spotify.com/album/2e3aAKfMRB6QaO27Nuzg2A) | 3:15 |
-| 22 | [Strawberries](https://open.spotify.com/track/7ma8O2AhYJCjktw6CHyT7b) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Strawberries](https://open.spotify.com/album/5HEWG1W9fe4SBz0XnSlNHi) | 2:49 |
-| 23 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 |
-| 24 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
-| 25 | [Smooth Jazz](https://open.spotify.com/track/0Kk1sgKZ2NowooTbXM4SLV) | [GUPPY](https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z) | [Big Man Says Slappydoo](https://open.spotify.com/album/1sHKGZ18UY0wvV7aRJThVN) | 3:04 |
-| 26 | [Kick Like A Girl](https://open.spotify.com/track/4YKur03p6QQaPhXAjBhGzb) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Kick Like A Girl](https://open.spotify.com/album/3xVZOwOtBakTmN9AQ8OPf0) | 2:28 |
-| 27 | [Love Me the Same](https://open.spotify.com/track/1ewhR1tVZWR2uLPIVQHJOC) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Love Me the Same](https://open.spotify.com/album/6AENN0Eg39ANxemAuunaoD) | 3:49 |
-| 28 | [Monocle](https://open.spotify.com/track/08xIAaOt3AogeSQZd9wzJh) | [Headshrinkers](https://open.spotify.com/artist/4m073FqMiZ81NIcsfvrDLt) | [Monocle](https://open.spotify.com/album/4jOIaqnzOodgojpPl4INWn) | 3:23 |
-| 29 | [Whatever Happens](https://open.spotify.com/track/5c30SpdkrHQJA491SMbdQn) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 2:53 |
+| 5 | [Whatever Happens](https://open.spotify.com/track/5c30SpdkrHQJA491SMbdQn) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 2:53 |
+| 6 | [My Honesty](https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [My Honesty](https://open.spotify.com/album/3LArpsuTipgbv0RQvdcxUF) | 3:55 |
+| 7 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 |
+| 8 | [Holiday in My Head](https://open.spotify.com/track/7GrCfI8A87IekzGb37lGOX) | [The Velvet Hands](https://open.spotify.com/artist/3apmyVOBGwhnh7AwyRaF81) | [Holiday in My Head](https://open.spotify.com/album/7sNosmIEcn33uMiLOkVXEZ) | 2:23 |
+| 9 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 |
+| 10 | [Olivia](https://open.spotify.com/track/1bqdC1OsaDLHgPVxcfIxtL) | [Oakrest](https://open.spotify.com/artist/1JFb5zWctQkKtWEdPmht8q) | [Olivia](https://open.spotify.com/album/3Dq3wU4pnlW1efq0ol7KtO) | 3:04 |
+| 11 | [Fuzz My Life](https://open.spotify.com/track/0TwczaRIUoioEZEBkgMLN3) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Fuzz My Life](https://open.spotify.com/album/0wjWfdSJrlcwq6XO8eN8Nm) | 2:38 |
+| 12 | [I Hope You're Right](https://open.spotify.com/track/6kUnI31iLbSXrWqBsdsiee) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [I Hope You're Right](https://open.spotify.com/album/0ljGgLzgTmc3az1clvp2aB) | 3:18 |
+| 13 | [See](https://open.spotify.com/track/1QmAPsQAOwgnbMgadQHkwn) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [See](https://open.spotify.com/album/4VrHjYS30FygMu7azuzmKV) | 4:25 |
+| 14 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 |
+| 15 | [Potluck Lunch for Cannibals](https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Potluck Lunch for Cannibals](https://open.spotify.com/album/0kzeKP6WbJJQIqmhOrCviw) | 2:55 |
+| 16 | [Need Me Now](https://open.spotify.com/track/2qugKsA1E3bm2jJBwiUiED) | [The Motive](https://open.spotify.com/artist/1hjYk9Jjab1cav3I4pLrVW) | [Need Me Now](https://open.spotify.com/album/2IyFtxSh4hiVZDaK9xQ3JO) | 3:16 |
+| 17 | [The Truth](https://open.spotify.com/track/1H9NFOK9igDd0aOJKQN55d) | [Candid](https://open.spotify.com/artist/2eSdPS2sIENi2M3IO0mpwa) | [The Truth](https://open.spotify.com/album/4Lljy0BcRHBZ7OMkx1pYiD) | 2:46 |
+| 18 | [The Lonely One](https://open.spotify.com/track/5BCiue66Xv2k6bISCuPtv6) | [The Tullamarines](https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5) | [The Lonely One](https://open.spotify.com/album/52RF3uchaEb0sp2Y35hke9) | 3:34 |
+| 19 | [Happy](https://open.spotify.com/track/241QEcB5ULB0H8xuLm7h0u) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Happy](https://open.spotify.com/album/0OPIRXWG3fBTFHadWCqCWq) | 2:44 |
+| 20 | [Summertime](https://open.spotify.com/track/6EjFXTrsdHX11foIwZrPsn) | [The Medinas](https://open.spotify.com/artist/5HVcy5IwKFMjr3kfwyfVQC) | [Summertime](https://open.spotify.com/album/1E7TW4GGbAD5SvZHAGY7Ok) | 2:59 |
+| 21 | [Scared To Lose](https://open.spotify.com/track/7i1eif8nLw1fc64MILgd6U) | [glimmers](https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy) | [Scared To Lose](https://open.spotify.com/album/2f2bHS0aJMFIR08a6TMePD) | 3:27 |
+| 22 | [Rosey](https://open.spotify.com/track/4Ep0nSZT79o5sT4v0sssH4) | [New Junk City](https://open.spotify.com/artist/4kcvkXddIYZxnvLue1uPOM) | [Rosey](https://open.spotify.com/album/2e3aAKfMRB6QaO27Nuzg2A) | 3:15 |
+| 23 | [Strawberries](https://open.spotify.com/track/7ma8O2AhYJCjktw6CHyT7b) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Strawberries](https://open.spotify.com/album/5HEWG1W9fe4SBz0XnSlNHi) | 2:49 |
+| 24 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 |
+| 25 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
+| 26 | [Smooth Jazz](https://open.spotify.com/track/0Kk1sgKZ2NowooTbXM4SLV) | [GUPPY](https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z) | [Big Man Says Slappydoo](https://open.spotify.com/album/1sHKGZ18UY0wvV7aRJThVN) | 3:04 |
+| 27 | [Kick Like A Girl](https://open.spotify.com/track/4YKur03p6QQaPhXAjBhGzb) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Kick Like A Girl](https://open.spotify.com/album/3xVZOwOtBakTmN9AQ8OPf0) | 2:28 |
+| 28 | [Love Me the Same](https://open.spotify.com/track/1ewhR1tVZWR2uLPIVQHJOC) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Love Me the Same](https://open.spotify.com/album/6AENN0Eg39ANxemAuunaoD) | 3:49 |
+| 29 | [Monocle](https://open.spotify.com/track/08xIAaOt3AogeSQZd9wzJh) | [Headshrinkers](https://open.spotify.com/artist/4m073FqMiZ81NIcsfvrDLt) | [Monocle](https://open.spotify.com/album/4jOIaqnzOodgojpPl4INWn) | 3:23 |
 | 30 | [Illuminate](https://open.spotify.com/track/5nTNWlma3KlbMIlGTpiZA0) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Illuminate](https://open.spotify.com/album/6jNVRtjOmHGNUD380HJtJZ) | 4:16 |
 | 31 | [IN LOVE WITH THE SOUND](https://open.spotify.com/track/7sj38dLblyPETO5fAPqSah) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP) | [IN LOVE WITH THE SOUND](https://open.spotify.com/album/1tZF4sUF5vIGUUWUXmdfbp) | 3:09 |
 | 32 | [Find The Light](https://open.spotify.com/track/1oy5dRgm9gp4K2hdt1JHdr) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/21CSKaWFOpMMXb17S0Cbk3) | 2:50 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [IN\_OUT](https://open.spotify.com/track/2CEdhAK9EMQ7iT7WF9KPRV) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Whenever Forever](https://open.spotify.com/album/72DKZmhbZIYzIIOMtMMR2D) | 4:41 |
 | 110 | [Buoyancy](https://open.spotify.com/track/5n3d4y83PCQV0miGK8WlsX) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Buoyancy](https://open.spotify.com/album/7pAnOaw2zL4jBBADGe5eWK) | 3:09 |
 
-Snapshot ID: `MTY1NTMwODgwMCwwMDAwMDY5ODAwMDAwMTgxNjgxN2QwYzYwMDAwMDE4MTQ0OTAyNzU0`
+Snapshot ID: `MTY1NTQwMDU2MSwwMDAwMDY5OTAwMDAwMTgxNmQ4ZmZhMDIwMDAwMDE4MTZkOGYwZGZm`

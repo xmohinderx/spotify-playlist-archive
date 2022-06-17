@@ -171,7 +171,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Baby Please Don't Go",
       "url": "https://open.spotify.com/track/6ukrO2umOpIDKLOWkJAG4h"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 349426,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 154933,
       "name": "In Love",
       "url": "https://open.spotify.com/track/05wbM83ASfyAmpnyhM783g"
@@ -956,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Early Classics",
+        "url": "https://open.spotify.com/album/1RuEpq5TO4utTSxWDCHp0k"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "It's The Same Old Song",
+      "url": "https://open.spotify.com/track/2pvs2oJTb7BPAUXPy5M794"
+    },
+    {
+      "album": {
         "name": "It's Your Thing: The Story Of The Isley Brothers",
         "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 166506,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 297613,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/4ppxp8rJB8eOhM9TFm6dK2"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 142693,
       "name": "Sliced Tomatoes",
       "url": "https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 167426,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/4Lv1bzAvoAeroCGiUUGZ9w"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 209946,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI"
@@ -1893,6 +1911,24 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/5bQduNI1lNfkNbDCKhBNX6"
+    },
+    {
+      "album": {
+        "name": "Children of the Ghetto: The Pye Anthology",
+        "url": "https://open.spotify.com/album/4YMGASMu3PZaKwq6vJoVTc"
+      },
+      "artists": [
+        {
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWvhKV4FBciw"

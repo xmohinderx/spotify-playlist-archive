@@ -4,7 +4,7 @@
 
 > Take the afternoon off.
 
-85 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/64LGzR07zq6CmmON7Z6yjH)
+86 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/64LGzR07zq6CmmON7Z6yjH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:51 | 2022-05-17 | 2022-06-04 |
 | [Come on over Baby \(All I Want Is You\) \- Radio Version](https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:23 | 2022-05-17 |  |
 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 | 2022-05-17 |  |
+| [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 | 2022-05-17 |  |
 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 | 2022-05-17 |  |
 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 | 2022-05-17 | 2022-06-09 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-05-17 |  |
@@ -80,7 +81,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-05-17 |  |
 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 | 2022-05-17 |  |
 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 | 2022-05-17 |  |
-| [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 | 2022-05-17 |  |
+| [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 | 2022-05-17 | 2022-06-17 |
 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 | 2022-05-17 |  |
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2022-05-17 |  |
 | [Velvet Elvis](https://open.spotify.com/track/65krgqLiZqW12PZAUQ9l2x) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 2:34 | 2022-05-17 |  |

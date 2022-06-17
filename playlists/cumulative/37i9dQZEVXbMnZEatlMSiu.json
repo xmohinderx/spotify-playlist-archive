@@ -2206,6 +2206,28 @@
     },
     {
       "album": {
+        "name": "jagi (feat. KIRE)",
+        "url": "https://open.spotify.com/album/2yeqUCHCnv0IKsN5KXuGA6"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220014,
+      "name": "jagi (feat. KIRE)",
+      "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
@@ -2443,7 +2465,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -2993,7 +3015,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
@@ -6801,7 +6823,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 203200,
       "name": "\u7576\u4f60",
       "url": "https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL"

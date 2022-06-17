@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/1NaEmkywxX1nBWYK7Erqog"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Apricity",
+      "url": "https://open.spotify.com/track/6cr9XbO2yAJgTNa6XNRINF"
+    },
+    {
+      "album": {
         "name": "Waves Of Hope",
         "url": "https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO"
       },

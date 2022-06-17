@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girl\_irl
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins
 
-225 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+229 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-09 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2021-12-27 | 2022-02-18 |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2021-12-27 | 2022-01-19 |
+| [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-16 |  |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-12-27 | 2022-01-19 |
 | [BLOODMONEY](https://open.spotify.com/track/4X863RO196BJ5bUBbhMral) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:02 | 2021-12-27 | 2022-02-04 |
 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 | 2022-03-11 |  |
@@ -38,6 +39,7 @@
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-19 | 2022-04-29 |
 | [CHAOS](https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [CHAOS](https://open.spotify.com/album/7vNoEhF5nw6OltQxoeIgtE) | 2:56 | 2022-03-31 |  |
+| [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-06-16 |  |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 |  |
 | [Colour of Moonlight \(Antiochus\)](https://open.spotify.com/track/6d9nQK2zdlQtsV0pnjq7k9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Doldrums](https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 3:59 | 2022-02-21 | 2022-03-04 |
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-18 |  |
@@ -147,6 +149,7 @@
 | [my pointy teeth](https://open.spotify.com/track/27kaLzrGddRuVAEVaJUidv) | [plastic dagger](https://open.spotify.com/artist/2HTx7d0LmFQtmzj7pdBivS) | [ambrosia](https://open.spotify.com/album/6ddwnogzbyQjvjPEe7auo4) | 2:22 | 2022-04-19 | 2022-04-29 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2022-04-01 |
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-02-11 | 2022-05-20 |
+| [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-16 |  |
 | [NIGHTMARES](https://open.spotify.com/track/7mSlQDf71bBDU3vRMJCSol) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [NIGHTMARES](https://open.spotify.com/album/5S8FMiG1oz3ynTO2yYRwO8) | 2:12 | 2021-12-27 | 2022-02-13 |
 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 | 2022-02-04 | 2022-04-20 |
 | [No admission](https://open.spotify.com/track/1TikgJdf5aC3oaaYuC5eo2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:33 | 2022-05-19 |  |
@@ -179,6 +182,7 @@
 | [RAD](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [RAD](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 | 2022-02-18 | 2022-05-20 |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2022-01-05 | 2022-01-19 |
 | [REJECT](https://open.spotify.com/track/3eAvQAhMnpQBggJm8GM7hc) | [KILLRIDDLE](https://open.spotify.com/artist/4cQuNt43NmrpbYknhSZH5D) | [REJECT](https://open.spotify.com/album/1n4TcO2kFYP2iQY5nYmAVe) | 2:14 | 2021-12-27 | 2022-01-06 |
+| [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-16 |  |
 | [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 | 2022-04-28 |  |
 | [revenant](https://open.spotify.com/track/2pm8U6asi671SteGMdoODm) | [sendflowrs](https://open.spotify.com/artist/1q9nag0IOu2TVLlHkwsWpY) | [revenant](https://open.spotify.com/album/25WnPXxjljgQEwcRaHRVfT) | 1:49 | 2022-01-28 | 2022-02-18 |
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2021-12-27 | 2022-01-19 |
@@ -214,7 +218,7 @@
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 |  |
 | [UH OH!](https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [UH OH!](https://open.spotify.com/album/00dZyIEC3bXTvPqjQ6qAfP) | 1:30 | 2022-03-31 |  |
 | [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 | 2021-12-27 |  |
-| [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2021-12-27 |  |
+| [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2021-12-27 | 2022-06-17 |
 | [Vapid Prophecy](https://open.spotify.com/track/50k61EN7BjkLlWyVqqQw6t) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [Vapid Prophecy](https://open.spotify.com/album/0XVuk4uX8VNlCFbcnMUQ2P) | 2:20 | 2022-02-04 | 2022-03-04 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-31 |  |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |

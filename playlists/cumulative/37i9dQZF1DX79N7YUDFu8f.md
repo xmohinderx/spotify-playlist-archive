@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-109 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+110 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Find The River](https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova) | 3:49 | 2021-11-24 | 2022-02-04 |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2) | 3:11 | 2021-11-24 |  |
 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 | 2021-11-24 |  |
+| [Goodfoot](https://open.spotify.com/track/1IIyu0Co26sd9VmDFi3Mt1) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Goodfoot](https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg) | 3:52 | 2022-06-16 |  |
 | [Goodnight](https://open.spotify.com/track/0E0pBUCKYX5M244qWl05mp) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l) | 4:21 | 2021-11-24 |  |
 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 | 2021-11-24 |  |
 | [Grow with you](https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Grow with you](https://open.spotify.com/album/15U2ElSOsryI2XNIkxAQv9) | 3:17 | 2021-11-24 |  |
@@ -108,7 +109,7 @@
 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 | 2022-04-28 |  |
 | [Untitled](https://open.spotify.com/track/6FWX5q2d33dFBJJAXgFteV) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Lonely Day, Crowded Year](https://open.spotify.com/album/37848eEeXWk3NpVnBnvAC8) | 2:47 | 2021-11-24 |  |
 | [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 | 2021-11-24 |  |
-| [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2021-11-24 |  |
+| [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2021-11-24 | 2022-06-17 |
 | [Walk the Line](https://open.spotify.com/track/1FkdHaOhueTnCiyC5jDzVs) | [Reuben de Melo](https://open.spotify.com/artist/267x7yH33pbgo6NcO9YQEZ) | [Walk the Line](https://open.spotify.com/album/5v1xQI24LD63dspgqTU283) | 4:28 | 2021-11-24 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-11-24 |  |
 | [We Watched It All Come Down](https://open.spotify.com/track/0y9Pp4kymVGpIclcc1bKBC) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [We Watched It All Come Down](https://open.spotify.com/album/0CVNw1pe7Zry9CBQfdOls3) | 3:52 | 2021-11-24 | 2022-03-25 |

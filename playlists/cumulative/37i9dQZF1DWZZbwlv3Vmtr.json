@@ -1182,6 +1182,24 @@
     },
     {
       "album": {
+        "name": "Come With A Sparkle",
+        "url": "https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2"
+      },
+      "artists": [
+        {
+          "name": "Namaskar Blunt",
+          "url": "https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104281,
+      "name": "Come With A Sparkle",
+      "url": "https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8"
+    },
+    {
+      "album": {
         "name": "Concrete Dream",
         "url": "https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5"
       },
@@ -2888,6 +2906,24 @@
     },
     {
       "album": {
+        "name": "Follow My Sky",
+        "url": "https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ"
+      },
+      "artists": [
+        {
+          "name": "Ly Morales",
+          "url": "https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117239,
+      "name": "Jazzy Love",
+      "url": "https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq"
+    },
+    {
+      "album": {
         "name": "JEXX",
         "url": "https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y"
       },
@@ -4114,6 +4150,24 @@
     },
     {
       "album": {
+        "name": "night bumps",
+        "url": "https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr"
+      },
+      "artists": [
+        {
+          "name": "jag glum",
+          "url": "https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124654,
+      "name": "night bumps",
+      "url": "https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh"
+    },
+    {
+      "album": {
         "name": "Night Session",
         "url": "https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY"
       },
@@ -4191,6 +4245,24 @@
       "duration_ms": 187500,
       "name": "Nostalgia Midnight Blue",
       "url": "https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv"
+    },
+    {
+      "album": {
+        "name": "Oase",
+        "url": "https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa"
+      },
+      "artists": [
+        {
+          "name": "Mo Anando",
+          "url": "https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285301,
+      "name": "Oase",
+      "url": "https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU"
     },
     {
       "album": {
@@ -4443,7 +4515,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 158350,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR"
@@ -5385,7 +5457,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 160975,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H"
@@ -7059,6 +7131,28 @@
       "duration_ms": 119500,
       "name": "Twenty Five",
       "url": "https://open.spotify.com/track/7oPJZwkiW8zL14iKafLKu4"
+    },
+    {
+      "album": {
+        "name": "Twinkle of Night",
+        "url": "https://open.spotify.com/album/4bLMle8oRWghYRpwLww7dL"
+      },
+      "artists": [
+        {
+          "name": "BestPaul",
+          "url": "https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx"
+        },
+        {
+          "name": "Siesta",
+          "url": "https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Twinkle of Night",
+      "url": "https://open.spotify.com/track/33TPeixISqICO4DwD6bZIB"
     },
     {
       "album": {

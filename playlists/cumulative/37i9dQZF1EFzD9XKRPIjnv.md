@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
+118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-12-27 |  |
 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 | 2021-12-27 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/5olgfv0LjMoUtFe11djz32) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:56 | 2021-12-27 |  |
+| [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-16 |  |
 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 | 2021-12-27 |  |
 | [Stay](https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay +](https://open.spotify.com/album/5auUsyFbwRARoWkOFopQ12) | 3:30 | 2021-12-27 |  |
 | [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 | 2021-12-27 |  |

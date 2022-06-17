@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "All the new music you need to hear right now. Cover: Pharrell Williams",
+  "description": "All the new music you need to hear right now. Cover: beabadoobee",
   "name": "All New All Now",
   "published_playlist_ids": [
     "4Q4OtTCCZtc7DTYLeNoedL"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
     {
       "album": {
         "name": "1989",
@@ -121,7 +139,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -143,6 +161,24 @@
       "duration_ms": 401253,
       "name": "Age of Anxiety II (Rabbit Hole)",
       "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
+    },
+    {
+      "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "album": {
@@ -230,6 +266,42 @@
     },
     {
       "album": {
+        "name": "Who said drill\u2019s dead?",
+        "url": "https://open.spotify.com/album/2R5KHMrNkhNoFnlNvIo5AN"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148316,
+      "name": "BATTY & BENCH - Freestyle pt. II",
+      "url": "https://open.spotify.com/track/0V9pELwsLI9FrjrbZbjH9n"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213298,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
+    },
+    {
+      "album": {
         "name": "Black Beatles",
         "url": "https://open.spotify.com/album/7hjYk958TkhvAhwrKDIAuc"
       },
@@ -292,6 +364,24 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx"
+    },
+    {
+      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth"
       },
@@ -347,7 +437,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 180589,
       "name": "Cate\u2019s Brother",
       "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
@@ -390,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Choose Your Fighter",
+        "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135466,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -405,7 +513,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
@@ -456,6 +564,36 @@
     },
     {
       "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "album": {
         "name": "Diamond In The Dark",
         "url": "https://open.spotify.com/album/1AnzRzVnXgzlRqPlnyJYB4"
       },
@@ -489,7 +627,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 197738,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/5VzpAMUOFLlDnhBnx28y9X"
@@ -706,6 +844,24 @@
     },
     {
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7"
+    },
+    {
+      "album": {
         "name": "G Love (feat. Nippa)",
         "url": "https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6"
       },
@@ -873,6 +1029,24 @@
       "duration_ms": 228831,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm"
+    },
+    {
+      "album": {
+        "name": "He Goes Down",
+        "url": "https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "He Goes Down",
+      "url": "https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p"
     },
     {
       "album": {
@@ -1098,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "album": {
         "name": "IFTK",
         "url": "https://open.spotify.com/album/6UtuXgjAgX8C06C0FbdlCG"
       },
@@ -1193,6 +1385,24 @@
       "duration_ms": 196801,
       "name": "Just Coz",
       "url": "https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5"
+    },
+    {
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/15mtNJx6Cba9G1A9MXMIXp"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176876,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/6HP0AhtFLr712JsIjIH345"
     },
     {
       "album": {
@@ -1414,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/7c1vHHQCEK6e5vkwNqiVPb"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179548,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/3misJkA5entqkAdHPJ4vTP"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -1632,6 +1860,24 @@
     },
     {
       "album": {
+        "name": "We May Grow Old But We Never Grow Up",
+        "url": "https://open.spotify.com/album/0hWlyiXKg65Wm8T99Uo8OZ"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/72gTwGkP2OzBELgIVg5b4J"
+    },
+    {
+      "album": {
         "name": "Skank All Night (You Wot, You Wot)",
         "url": "https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6"
       },
@@ -1669,6 +1915,24 @@
       "duration_ms": 162516,
       "name": "SKIN OF MY TEETH",
       "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
+    },
+    {
+      "album": {
+        "name": "Lethal B vs Lethal Bizzle",
+        "url": "https://open.spotify.com/album/62j4atNAMNC2DUU2J7gm8t"
+      },
+      "artists": [
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132434,
+      "name": "Skint Gang",
+      "url": "https://open.spotify.com/track/0dDSjy24Khltc4vWfLSL1W"
     },
     {
       "album": {
@@ -1832,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Sweet Bounce",
+        "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96018,
+      "name": "Sweet Bounce",
+      "url": "https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo"
+    },
+    {
+      "album": {
         "name": "That's Where I Am",
         "url": "https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr"
       },
@@ -1868,6 +2150,28 @@
     },
     {
       "album": {
+        "name": "The King and I (feat. CeeLo Green) [From the Original Motion Picture Soundtrack ELVIS]",
+        "url": "https://open.spotify.com/album/24lMM7McdJmSBgbFhKGugA"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193754,
+      "name": "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS",
+      "url": "https://open.spotify.com/track/4QjbbBQAJ7NiGdlfDPcxag"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
       },
@@ -1883,6 +2187,24 @@
       "duration_ms": 145750,
       "name": "The One",
       "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
+    },
+    {
+      "album": {
+        "name": "Prima Facie (Original Theatre Soundtrack)",
+        "url": "https://open.spotify.com/album/6VHUXCU45lulZ2wkWhxAmU"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197428,
+      "name": "The Process",
+      "url": "https://open.spotify.com/track/5ZInXf93agOZ7972tb5rI6"
     },
     {
       "album": {
@@ -2191,7 +2513,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
@@ -2231,6 +2553,28 @@
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "album": {
+        "name": "Yorkshire",
+        "url": "https://open.spotify.com/album/28BO7wpWRVN96OUdnsOqde"
+      },
+      "artists": [
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        },
+        {
+          "name": "Mikey B",
+          "url": "https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "Yorkshire",
+      "url": "https://open.spotify.com/track/3S8G4qvzaRGbKsJNCtS2aC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT"

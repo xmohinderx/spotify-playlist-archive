@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128442,
+  "num_followers": 128438,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ2Niw4NmY0NTAzMTAzNGYwZGU2NzMyNjVmZGU0YWNkMmYyNTg3M2FjMmRk",
+  "snapshot_id": "MzQ3MixjM2MzOGFmMTU2ZDBkMzI4OWQ3NDdhZDlmZDAyY2U4ZTY5N2EyZjg2",
   "tracks": [
+    {
+      "added_at": "2022-06-16 15:20:47",
+      "album": {
+        "name": "GODSP33D",
+        "url": "https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9"
+    },
     {
       "added_at": "2022-06-15 15:44:50",
       "album": {
@@ -1083,42 +1099,6 @@
       "duration_ms": 216000,
       "name": "Shadow Settles",
       "url": "https://open.spotify.com/track/6mZ1ymTDdQSUUYkYoj8mD8"
-    },
-    {
-      "added_at": "2022-04-07 16:14:08",
-      "album": {
-        "name": "FUNNYFACE",
-        "url": "https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0"
-      },
-      "artists": [
-        {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
-        }
-      ],
-      "duration_ms": 185378,
-      "name": "FUNNYFACE",
-      "url": "https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba"
-    },
-    {
-      "added_at": "2022-04-06 16:23:12",
-      "album": {
-        "name": "Let Me Hold You",
-        "url": "https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N"
-      },
-      "artists": [
-        {
-          "name": "Blood Groove & Kikis",
-          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
-        },
-        {
-          "name": "Brandon Mignacca",
-          "url": "https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Let Me Hold You",
-      "url": "https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

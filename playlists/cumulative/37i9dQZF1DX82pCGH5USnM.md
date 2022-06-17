@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-505 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+508 songs - 1 day 6 hr 46 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Gazo Road](https://open.spotify.com/track/5cuyEb2n8OZSSA5s8wONYG) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Gazo Road](https://open.spotify.com/album/3Y7OzTyJlq3fKac9TQNygY) | 2:09 | 2020-04-03\* | 2021-03-25 |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-05-06 | 2021-09-09 |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-08 |  |
+| [Give It To U](https://open.spotify.com/track/55UOGvAkteFSxr3OiMRXWC) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Give It To U](https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH) | 2:28 | 2022-06-17 |  |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 |  |
 | [glacial groove](https://open.spotify.com/track/0mdhMQbwDjPZHMkHnYGI05) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [glacial groove](https://open.spotify.com/album/5qS4a7yssrmqkMEmwcvhWx) | 2:33 | 2022-05-27 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-02 |  |
@@ -306,6 +307,8 @@
 | [Nothin' to Compare](https://open.spotify.com/track/62tXupybKJWVLgWY9TeBxP) | [Who](https://open.spotify.com/artist/5kd3KjfO9uFcNDvuGJRXsU), [Armistice](https://open.spotify.com/artist/74NGkWc3aIUsnA958YAlE0) | [Nothin' to Compare](https://open.spotify.com/album/72N0ZiJYHZ8BxP9o6MZIn4) | 2:49 | 2020-04-03\* | 2020-12-24 |
 | [Nothing](https://open.spotify.com/track/4jMF9LHnfJ9oK7z5IuWYHL) | [Jayden Klight](https://open.spotify.com/artist/030MhP7ThfCXXOvCKmPW7B) | [Click](https://open.spotify.com/album/5cabKCM4MobKVpqzIwXuW6) | 6:12 | 2021-01-18 | 2021-08-20 |
 | [Nothing to Lose](https://open.spotify.com/track/0zez18jzrKW4DieAJBo5y8) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Nothing to Lose](https://open.spotify.com/album/0Sodq0weeDIDBZNDE27JMF) | 4:24 | 2020-04-03\* | 2020-04-29 |
+| [Notice](https://open.spotify.com/track/6jX4VeDlqDA01sGe4TP6tN) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Notice](https://open.spotify.com/album/6syC8Os5KNIPqDQpe4QzL4) | 2:23 | 2022-06-17 |  |
+| [Nox](https://open.spotify.com/track/0TPfMoZCd8IToLykBdRtfH) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Nox](https://open.spotify.com/album/75VRRBmVpGrOYMmAPhDSG7) | 3:49 | 2022-06-17 |  |
 | [Ocean Flow](https://open.spotify.com/track/0kW5OLcBxPTzi8dj7XJf1a) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:46 | 2021-01-27 | 2022-05-11 |
 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 | 2021-02-19 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2021-11-08 |  |

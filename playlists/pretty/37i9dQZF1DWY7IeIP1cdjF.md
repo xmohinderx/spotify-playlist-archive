@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Maluma, Bad Bunny, Karol G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,495,797 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,496,679 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 12 | [Instagram](https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Instagram](https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH) | 2:42 |
 | 13 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 14 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
-| 15 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
+| 15 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 16 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 |
 | 17 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
 | 18 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 |

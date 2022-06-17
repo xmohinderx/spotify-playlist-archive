@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-373 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/3e8QIH2JlRAnIaOA3btZ81)
+374 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/3e8QIH2JlRAnIaOA3btZ81)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-01-27 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 |  |
-| [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 |  |
+| [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-06-17 |
 | [El Año Viejo](https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [El Año Viejo](https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc) | 3:05 | 2022-01-02 | 2022-01-04 |
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2021-08-24 | 2022-01-26 |
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2021-03-30 | 2022-01-04 |
@@ -360,6 +360,7 @@
 | [Vete](https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:12 | 2022-01-26 | 2022-03-03 |
 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2021-03-27\* | 2021-04-26 |
 | [Viernes 13](https://open.spotify.com/track/0IJoJOVw1hSws1kLH96e7d) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más < :\-\)](https://open.spotify.com/album/7oVXimCOW8ArhedbQGY2Hm) | 3:01 | 2021-08-15 | 2021-08-16 |
+| [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-16 |  |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2021-07-11 | 2022-02-28 |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2022-01-29 | 2022-02-02 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 | 2022-05-08 |

@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-187 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+188 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Routinez](https://open.spotify.com/track/4CxrzUx445Ace7LZdqn3Ri) | [Jazzmute](https://open.spotify.com/artist/4LzHhUnugb5z8T2dfgQHGS) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:52 | 2022-04-08 | 2022-05-27 |
 | [RubbrBnd](https://open.spotify.com/track/2L1ARxcCpJkMhDVrFqdZ4o) | [Pendaya](https://open.spotify.com/artist/2NZToSR3vuKseVPL7SRmjm) | [RubbrBnd](https://open.spotify.com/album/1xZ9FDBZ3VixHqXh3gSaZ1) | 1:48 | 2022-04-08 | 2022-05-27 |
 | [Rushing](https://open.spotify.com/track/1pdKU0AICafQKlNqbPG5KO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Baies](https://open.spotify.com/album/7MWBmKFXfFEPTGnPHMNOP8) | 2:36 | 2022-04-08 | 2022-05-27 |
-| [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 | 2022-04-08 |  |
+| [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 | 2022-04-08 | 2022-06-17 |
 | [Saturn](https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 3:55 | 2022-05-26 |  |
 | [Serum](https://open.spotify.com/track/3T7QlyJOTh1VqqgGWH5T7Q) | [Moofushi](https://open.spotify.com/artist/040nbVsOxXbFZt3vlgzcNb) | [Serum](https://open.spotify.com/album/6QE03sUqVgNIQHNPFA5V9Q) | 2:27 | 2022-04-08 | 2022-05-27 |
 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 | 2022-04-08 |  |
@@ -180,6 +180,7 @@
 | [Ukkers](https://open.spotify.com/track/3tvofOS8e3AyahESsDHGyo) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Land of the Lotus](https://open.spotify.com/album/7x9evXYxD8kQjneL4fVTba) | 2:05 | 2022-04-08 | 2022-06-03 |
 | [ultraviolet blue](https://open.spotify.com/track/2x3ttVsyPRpohqMaeykLSs) | [run faster billy](https://open.spotify.com/artist/4J7qzoBzykXq6d8ZcHpN28) | [ultraviolet blue](https://open.spotify.com/album/6ryUZTJvVX0SMnCxm3gbFD) | 2:04 | 2022-04-08 | 2022-05-20 |
 | [Unbuttoned](https://open.spotify.com/track/1FU5fnmyjmf2zEPmnMqWaI) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:23 | 2022-04-08 | 2022-05-27 |
+| [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 |  |
 | [Untitled 73](https://open.spotify.com/track/2w2QF8Gw2WDsv5qgMAcRLA) | [RecDubCircuitry](https://open.spotify.com/artist/7s8aUjF0Cjhr4Tt8vwojL7) | [Untitled 73](https://open.spotify.com/album/5d2uMeSLuESzeyaxBiYZlo) | 2:31 | 2022-04-08 | 2022-05-27 |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-04-08 | 2022-05-27 |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2022-04-08 | 2022-05-27 |

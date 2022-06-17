@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لا يمكنك التوقف عن الاستماع اليها الغلاف: اليسا
 
-60 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
+61 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Leilet El Omr](https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Leilet El Omr](https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw) | 3:22 | 2022-04-13 | 2022-05-14 |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-04-13 |  |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2022-04-13 |  |
+| [Maraseel](https://open.spotify.com/track/0u9aJyzc9Cxx7NRY8YFLwZ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Maraseel](https://open.spotify.com/album/4gyLlBFiTxl1lYUtmnQN7T) | 3:31 | 2022-06-16 |  |
 | [Mareed](https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Mareed](https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om) | 3:36 | 2022-05-19 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-04-13 |  |
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-04-13 |  |
@@ -66,7 +67,7 @@
 | [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-07 |  |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-19 |  |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2022-04-13 |  |
-| [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-04-13 |  |
+| [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-04-13 | 2022-06-17 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-13 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

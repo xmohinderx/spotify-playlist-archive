@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Joji
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,602 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,629 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

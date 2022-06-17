@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Better Here",
+        "url": "https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F"
+      },
+      "artists": [
+        {
+          "name": "Equanimity Seekers",
+          "url": "https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143054,
+      "name": "Better Here",
+      "url": "https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE"
       },
@@ -2209,6 +2227,24 @@
       "duration_ms": 182642,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B"
+    },
+    {
+      "album": {
+        "name": "Hometown Glory",
+        "url": "https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184980,
+      "name": "Rivers of My Mind",
+      "url": "https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M"
     },
     {
       "album": {

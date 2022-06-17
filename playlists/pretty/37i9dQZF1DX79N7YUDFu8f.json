@@ -1,13 +1,29 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.",
-  "num_followers": 105636,
+  "num_followers": 105640,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDI1NzAzNiwwMDAwMDA2MzAwMDAwMTgxMjk2NzJkYjYwMDAwMDE3MGFmM2EyZWFi",
+  "snapshot_id": "MTY1NTM4NzMwMiwwMDAwMDA2NDAwMDAwMTgxNmNjNWE5ZWEwMDAwMDE3MGFmM2EyZWFi",
   "tracks": [
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
+        "name": "2 degrees",
+        "url": "https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Slow Love - Acoustic",
+      "url": "https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT"
+    },
     {
       "added_at": "2022-06-03 11:50:36",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 236193,
       "name": "if i wasn't made for love",
       "url": "https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr"
+    },
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
+        "name": "When Times Get Rough",
+        "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "duration_ms": 136416,
+      "name": "When Times Get Rough",
+      "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -91,6 +123,26 @@
     {
       "added_at": "2022-06-03 11:50:36",
       "album": {
+        "name": "For All You Give (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 191234,
+      "name": "For All You Give (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM"
+    },
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
         "name": "Airplanes",
         "url": "https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ"
       },
@@ -103,22 +155,6 @@
       "duration_ms": 205124,
       "name": "Sister",
       "url": "https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "2 degrees",
-        "url": "https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Slow Love - Acoustic",
-      "url": "https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -171,22 +207,6 @@
     {
       "added_at": "2022-06-03 11:50:36",
       "album": {
-        "name": "When Times Get Rough",
-        "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
-      },
-      "artists": [
-        {
-          "name": "Jana Mila",
-          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "When Times Get Rough",
-      "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
         "name": "Is It Really Over",
         "url": "https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 218800,
       "name": "Is It Really Over",
       "url": "https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "For All You Give (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 191234,
-      "name": "For All You Give (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -291,6 +291,22 @@
       "duration_ms": 197147,
       "name": "Grow with you",
       "url": "https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d"
+    },
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -437,6 +453,26 @@
       "url": "https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0"
     },
     {
+      "added_at": "2022-06-16 13:48:22",
+      "album": {
+        "name": "Goodfoot",
+        "url": "https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Goodfoot",
+      "url": "https://open.spotify.com/track/1IIyu0Co26sd9VmDFi3Mt1"
+    },
+    {
       "added_at": "2022-06-03 11:50:36",
       "album": {
         "name": "Be Around",
@@ -483,22 +519,6 @@
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -1507,6 +1527,22 @@
     {
       "added_at": "2022-06-03 11:50:36",
       "album": {
+        "name": "Mmm... Gumbo?",
+        "url": "https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3"
+      },
+      "artists": [
+        {
+          "name": "Room Eleven",
+          "url": "https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Lovely Morning",
+      "url": "https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj"
+    },
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J"
       },
@@ -1519,26 +1555,6 @@
       "duration_ms": 236165,
       "name": "Princess",
       "url": "https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "Beat Tape 2",
-        "url": "https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 229238,
-      "name": "Wake Up This Day",
-      "url": "https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -1571,6 +1587,22 @@
       "duration_ms": 202106,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT"
+    },
+    {
+      "added_at": "2022-06-03 11:50:36",
+      "album": {
+        "name": "Days of Old",
+        "url": "https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 195504,
+      "name": "Days of Old",
+      "url": "https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc"
     },
     {
       "added_at": "2022-06-03 11:50:36",
@@ -1619,38 +1651,6 @@
       "duration_ms": 201288,
       "name": "Till The Sun Comes Up",
       "url": "https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "Mmm... Gumbo?",
-        "url": "https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3"
-      },
-      "artists": [
-        {
-          "name": "Room Eleven",
-          "url": "https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Lovely Morning",
-      "url": "https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj"
-    },
-    {
-      "added_at": "2022-06-03 11:50:36",
-      "album": {
-        "name": "Days of Old",
-        "url": "https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 195504,
-      "name": "Days of Old",
-      "url": "https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc"
     }
   ],
   "unique_name": "Easy On Saturday",

@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-192 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+199 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,10 @@
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2021-11-11 |  |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-11-11 |  |
 | [Blueprint](https://open.spotify.com/track/7uNrNo3FwnPZm9aiu64oIN) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Blueprint](https://open.spotify.com/album/7guXjhFT5d6v5EIcgXlkL7) | 3:18 | 2021-11-11 | 2022-05-11 |
+| [Bogota](https://open.spotify.com/track/17mpv8NkdfBdmMrIZNVpOI) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [11 Out Of 10](https://open.spotify.com/album/5rl2ZreYI27Q69KNI77yBV) | 3:35 | 2022-06-17 |  |
 | [bottle spin](https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bottle spin](https://open.spotify.com/album/11stcaN7WgXH8ULLWmnGCF) | 2:24 | 2022-05-20 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-11 | 2022-04-06 |
+| [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 |  |
 | [Canvas](https://open.spotify.com/track/6bTiKb47ao9YoIvw4vyes2) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Canvas](https://open.spotify.com/album/409rhinBm1Zrxcv0N7G0qY) | 3:12 | 2021-11-11 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2021-11-11 |  |
@@ -54,6 +56,7 @@
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-11-11 | 2022-05-20 |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2021-11-11 |  |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-11 | 2022-05-20 |
+| [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-11 |  |
 | [Elusive Language](https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Comfortable Right Here](https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c) | 4:12 | 2021-11-11 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2021-11-11 |  |
@@ -67,6 +70,7 @@
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-11 |  |
 | [Five Points](https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Five Points](https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6) | 3:14 | 2021-11-11 | 2022-04-15 |
 | [foamy](https://open.spotify.com/track/6g3fCAc9ql4fmYAorTLuUw) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [foamy](https://open.spotify.com/album/4fYioHIsP8bXNUy0xM0SbQ) | 3:05 | 2022-06-10 |  |
+| [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-11 |  |
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-11 | 2022-01-22 |
@@ -153,6 +157,7 @@
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-11-11 |  |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2021-11-11 |  |
+| [Ses Salines](https://open.spotify.com/track/3XSFQLLzrM1nDWh13A4eci) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Ses Salines](https://open.spotify.com/album/2oGLfb0Nv0cDcyO2FRwEk8) | 2:56 | 2022-06-17 |  |
 | [Shimmer](https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Shimmer](https://open.spotify.com/album/0UPoyslKIHed6kluQUuP7M) | 2:59 | 2021-11-11 | 2022-05-20 |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-11-11 | 2022-04-15 |
 | [Something Smooth](https://open.spotify.com/track/4OzBqACAPAF6mc2kFj0JRS) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [Something Smooth](https://open.spotify.com/album/34WBzOs4NqxyrmvwNq7qnx) | 2:43 | 2021-11-11 | 2022-04-15 |
@@ -176,6 +181,7 @@
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 |  |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2021-11-11 |  |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2021-11-11 | 2022-05-20 |
+| [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
 | [Tombstone Diploma](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Solvable](https://open.spotify.com/album/3ygEnJjQY0S9mDyYy2sVcB) | 3:48 | 2021-11-11 |  |
 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 | 2021-11-11 |  |
 | [Tricolore](https://open.spotify.com/track/4snes7gkQjB5mDuCbLeJbO) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Napoli Back Alleys](https://open.spotify.com/album/7JhraTphMLQA2lSzEnWvrd) | 1:56 | 2021-11-11 | 2022-04-06 |
@@ -200,5 +206,6 @@
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 |  |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-11 |  |
 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-01-21 |  |
+| [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

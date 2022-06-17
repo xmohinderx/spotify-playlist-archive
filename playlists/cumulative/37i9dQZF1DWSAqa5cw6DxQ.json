@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Nothing But Now",
+        "url": "https://open.spotify.com/album/0e06o5DjhB0wI8KYIZfRFM"
+      },
+      "artists": [
+        {
+          "name": "Distant Waves",
+          "url": "https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253939,
+      "name": "Nothing But Now",
+      "url": "https://open.spotify.com/track/7b6rxgdX4vxUxE7nVVImh5"
+    },
+    {
+      "album": {
         "name": "On A Bed Of Peace",
         "url": "https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02"
       },

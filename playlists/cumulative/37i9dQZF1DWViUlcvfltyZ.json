@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, gli Zen Circus)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, La Superluna di Drone Kong di Nikki)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 232466,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll"
@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Parrots & The Park (Pastimes Vol. I)",
+        "url": "https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155079,
+      "name": "Cilantro Grass",
+      "url": "https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf"
+    },
+    {
+      "album": {
         "name": "Colla",
         "url": "https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj"
       },
@@ -337,7 +355,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 203920,
       "name": "Cristallo metallo",
       "url": "https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 194425,
       "name": "Cuore semplice",
       "url": "https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X"
@@ -600,6 +618,28 @@
     },
     {
       "album": {
+        "name": "Superluna Rock Music",
+        "url": "https://open.spotify.com/album/6OEAw58eyguAaHQafIE354"
+      },
+      "artists": [
+        {
+          "name": "La Superluna di Drone Kong",
+          "url": "https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt"
+        },
+        {
+          "name": "Nikki",
+          "url": "https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Grunge Morale",
+      "url": "https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7"
+    },
+    {
+      "album": {
         "name": "Secret Alliance",
         "url": "https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd"
       },
@@ -727,6 +767,46 @@
       "duration_ms": 166800,
       "name": "Identikit / PLOT TWIST",
       "url": "https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5"
+    },
+    {
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR"
+      },
+      "artists": [
+        {
+          "name": "Balvin Boys",
+          "url": "https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48"
+        },
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Il Mare e le Farfalle",
+      "url": "https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md"
     },
     {
       "album": {

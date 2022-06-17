@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "17 f\u00fcr immer",
+        "url": "https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160301,
+      "name": "17 f\u00fcr immer",
+      "url": "https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh"
+    },
+    {
+      "album": {
         "name": "2 become 1",
         "url": "https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 137672,
       "name": "Tinnitus",
       "url": "https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU"

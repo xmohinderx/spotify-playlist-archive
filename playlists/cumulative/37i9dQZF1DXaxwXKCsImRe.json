@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 183203,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3Cyp0LHyFXXpm6daHDV6oR"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 181530,
       "name": "Boss (io & te)",
       "url": "https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 230880,
       "name": "Control",
       "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 218918,
       "name": "Daiquiri",
       "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 180000,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 207954,
       "name": "half a world away",
       "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 195616,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/5ztdptHqHe9Jt0NzI3Powe"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 153454,
       "name": "No Heartbreaks",
       "url": "https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 184285,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj"
@@ -1177,6 +1177,24 @@
       "duration_ms": 164739,
       "name": "Who\u2019s Gonna Be The GOAT?",
       "url": "https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz"
+    },
+    {
+      "album": {
+        "name": "Wilde Rozen",
+        "url": "https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182876,
+      "name": "Wilde Rozen",
+      "url": "https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp"
     },
     {
       "album": {

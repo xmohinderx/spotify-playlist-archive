@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  River Valley Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,981 likes - 93 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,998 likes - 93 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

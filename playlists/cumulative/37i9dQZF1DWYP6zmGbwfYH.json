@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+    },
+    {
+      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -523,7 +545,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 209374,
       "name": "El Peor De Tus Antojos",
       "url": "https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo"
@@ -541,7 +563,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 217293,
       "name": "El Perro, el Gato y Yo",
       "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
@@ -837,7 +859,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
@@ -873,7 +895,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 189013,
       "name": "La Fuerza Del Destino",
       "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
@@ -945,7 +967,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 249768,
       "name": "La Monjita Voladora - Cumbia Sonidera",
       "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634"
@@ -1151,7 +1173,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 279508,
       "name": "Mi Cuerpo No Esta Hecho De Metal",
       "url": "https://open.spotify.com/track/05U6AHrmeuWdGKyW4Ln6Xk"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 203253,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
@@ -1545,7 +1567,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 181133,
       "name": "Quiero Saber De Ti",
       "url": "https://open.spotify.com/track/0RYPqgCwHWWK4vD8us2o8y"
@@ -1786,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "Pura Dinamita Duranguense",
+        "url": "https://open.spotify.com/album/2B66FpUbm20V2w7HuY07mk"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "Sin Tu Amor - Duranguense Version",
+      "url": "https://open.spotify.com/track/2EqHyayep2IE3cCINCxdVI"
+    },
+    {
+      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
@@ -1797,7 +1837,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 213600,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
@@ -1977,7 +2017,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
@@ -2085,7 +2125,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"

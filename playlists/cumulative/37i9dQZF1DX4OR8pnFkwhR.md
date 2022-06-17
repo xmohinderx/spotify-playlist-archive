@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: tonun
 
-229 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+230 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 | 2022-02-17 |  |
 | [単焦点](https://open.spotify.com/track/5hSPZjxHkaMOJSPoatZrIp) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [単焦点](https://open.spotify.com/album/3SJDK6D7UJXJhaATo1ql6j) | 3:01 | 2022-02-17 | 2022-04-08 |
 | [台風の目](https://open.spotify.com/track/0oq4NM319D9pP4rYkVbZhr) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [台風の目](https://open.spotify.com/album/0D7GRfPlfj25aFIyptyITl) | 4:24 | 2022-02-17 | 2022-03-09 |
+| [君の歯ブラシ](https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [君の歯ブラシ](https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5) | 3:21 | 2022-06-16 |  |
 | [君の目を見てると](https://open.spotify.com/track/3pXHJZDZ9ajO66zmtk4J4k) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [君の目を見てると](https://open.spotify.com/album/1ODKpvi3WkN8xd0zN0XKzP) | 5:16 | 2022-04-12 | 2022-05-13 |
 | [咆哮を定め](https://open.spotify.com/track/2HJp2R4i2kpIuTJs2hvSMb) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [遥か鳥は大空を征く](https://open.spotify.com/album/1LEzPz2Sc5De5BsORfz7bV) | 2:55 | 2022-05-17 |  |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-14 |  |

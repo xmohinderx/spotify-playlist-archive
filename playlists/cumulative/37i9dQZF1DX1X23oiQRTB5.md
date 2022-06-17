@@ -4,10 +4,11 @@
 
 > Tiakola au top de la première playlist de rap français !
 
-71 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+72 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 |  |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 |  |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 |  |
 | [Akimbo](https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/2JWtcWOPqE9NRXv0O6DCLU) | 2:30 | 2022-01-06 | 2022-04-29 |
@@ -66,7 +67,7 @@
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-01-27 |  |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-10 | 2022-05-20 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
-| [R.A.S.](https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [R.A.S.](https://open.spotify.com/album/5aLlyDJDyw2OD4ESHvM7D7) | 3:06 | 2022-02-24 |  |
+| [R.A.S.](https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [R.A.S.](https://open.spotify.com/album/5aLlyDJDyw2OD4ESHvM7D7) | 3:06 | 2022-02-24 | 2022-06-17 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 |  |
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 |  |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |

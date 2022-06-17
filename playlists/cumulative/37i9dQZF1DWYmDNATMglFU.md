@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> \\m/ ft\. mothica
+> \\m/ ft\. mod sun
 
-248 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+252 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2021-12-31 | 2022-01-08 |
 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 | 2021-12-31 | 2022-01-08 |
 | [Armageddon](https://open.spotify.com/track/0rvjUlPX1JmwzfiYJ4JdLY) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Armageddon](https://open.spotify.com/album/0g2QDrVJOiMVBTtPGHtR6I) | 2:32 | 2022-02-11 |  |
+| [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:33 | 2022-06-16 |  |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2021-12-31 | 2022-01-08 |
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-09 |  |
@@ -55,6 +56,7 @@
 | [CRACK MY SKULL](https://open.spotify.com/track/4hqPAxttJibCdJwg4FGRSC) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow \(Deluxe\)](https://open.spotify.com/album/0Ne9hQqlrVOEHTphkXiK9T) | 2:54 | 2022-02-11 | 2022-04-01 |
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2022-03-08 | 2022-03-09 |
 | [Crazy = Genius](https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:18 | 2022-02-04 | 2022-04-08 |
+| [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 | 2022-06-16 |  |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2022-01-07 | 2022-02-04 |
 | [DADDY ISSUES](https://open.spotify.com/track/2CuZa66yQSugnSois0olvc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [DADDY ISSUES](https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0) | 2:25 | 2022-04-28 |  |
 | [Dammit](https://open.spotify.com/track/6HvUYS1xDfTCGWoeVrv3XS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:45 | 2021-12-31 | 2022-01-08 |
@@ -78,6 +80,7 @@
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-01-07 | 2022-01-28 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 |  |
+| [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN) | 2:37 | 2022-06-16 |  |
 | [elegy](https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [elegy](https://open.spotify.com/album/1rQvm59V13d70jUeHgVTBl) | 2:20 | 2022-01-07 | 2022-02-04 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-04 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-01-07 | 2022-01-28 |
@@ -190,6 +193,7 @@
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 |  |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2021-12-31 | 2022-01-08 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-01-14 | 2022-04-01 |
+| [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-16 |  |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-01 |
 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-01-07 | 2022-01-28 |
 | [SHE'S GOTTA GO!](https://open.spotify.com/track/5UOMvxAW9elVifLPAA12jE) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [SHE'S GOTTA GO!](https://open.spotify.com/album/4oRU4PoaDmKrcipSk7Yq2B) | 2:45 | 2022-01-07 | 2022-02-04 |

@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-100 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+106 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ephemeral](https://open.spotify.com/track/3K6gdJlyZHsaYktMMHZo95) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Ephemeral](https://open.spotify.com/album/2nrjemHCDyyVFdL054h0km) | 2:56 | 2021-12-09 |  |
 | [Españoleta](https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:05 | 2021-12-09 |  |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-06-10 |  |
+| [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 | 2022-05-27 |
@@ -59,6 +60,7 @@
 | [Longe pode estar muito perto](https://open.spotify.com/track/4PuhyQFzQDXzwzNceo9HuP) | [Mats Norrefalk](https://open.spotify.com/artist/3O4YUhd1HPKacXqpXcDmQy) | [Longe pode estar muito perto](https://open.spotify.com/album/5h9gB87yOZyVJpBHxJv7Hx) | 4:00 | 2021-12-09 | 2022-05-27 |
 | [Love me again](https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Taormina](https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt) | 1:53 | 2022-06-10 |  |
 | [luce della città](https://open.spotify.com/track/1CZjaS4Gvcrrd1oH7k5C4k) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [luce della città](https://open.spotify.com/album/15JumhpSCgFxjHOw6xeKA6) | 2:41 | 2021-12-09 |  |
+| [Lullaby](https://open.spotify.com/track/5kRkm8A5dYvORg85jBjtrF) | [Frolin](https://open.spotify.com/artist/77kqbxpFKZGED3HZCYn0A8) | [Lullaby](https://open.spotify.com/album/7d0O5W3HAoeMZ7SdgDgsVB) | 2:25 | 2022-06-17 |  |
 | [Lullaby for My Love](https://open.spotify.com/track/6eixAHLUQZrcUblQ4xJ62L) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 5:52 | 2021-12-09 | 2022-05-27 |
 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 | 2022-03-29 |  |
 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 | 2021-12-09 |  |
@@ -66,6 +68,8 @@
 | [Moinhos de Vento](https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 2:44 | 2021-12-09 |  |
 | [Moments Like This](https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:33 | 2021-12-09 | 2022-05-27 |
 | [Murmur](https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Murmur](https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh) | 2:55 | 2021-12-09 |  |
+| [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 |  |
+| [Nightingale](https://open.spotify.com/track/5enfE01ai1X5i6k7M7fP23) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Nightingale](https://open.spotify.com/album/6zGVO3G11IATXpCNoe5EkD) | 3:14 | 2022-06-17 |  |
 | [Northern](https://open.spotify.com/track/5orWjiWXDD8C4a0hBmhNDC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:51 | 2021-12-09 |  |
 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 | 2021-12-09 |  |
 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 | 2021-12-09 |  |
@@ -82,6 +86,7 @@
 | [Scarlet Dreams](https://open.spotify.com/track/5bDxO7o9npXf4TzfZhvSMM) | [Van Kann](https://open.spotify.com/artist/0q9Un6IHIN7D4OkGv6KHkl) | [Scarlet Dreams](https://open.spotify.com/album/6lFon0oNp8tVMSFzQJaLMy) | 2:52 | 2021-12-09 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
+| [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |
 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 | 2021-12-09 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-02-22 |  |
 | [Spero che](https://open.spotify.com/track/0SUcBNwJKYkO3dl2srkRb0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Spero che](https://open.spotify.com/album/44uH8HctclTwCeicZJGZqT) | 2:17 | 2021-12-09 | 2022-05-27 |
@@ -90,6 +95,7 @@
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 |  |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 |  |
+| [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 | 2022-06-17 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2021-12-09 | 2022-04-22 |
 | [Tomorrow's Song \- Solo Guitar Version](https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Miniatures](https://open.spotify.com/album/5yS0hPvv2i4bVS5H6x0eNR) | 2:32 | 2021-12-09 | 2022-05-27 |
 | [Toutes Les Couleurs](https://open.spotify.com/track/3ELOuPzdNVstZgLwX3yxPN) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Toutes Les Couleurs](https://open.spotify.com/album/1k8SOrB5BaoQbOrEh8xzvb) | 2:19 | 2021-12-09 |  |

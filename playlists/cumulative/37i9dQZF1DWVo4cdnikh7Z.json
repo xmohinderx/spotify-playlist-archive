@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 219589,
       "name": "Bejara",
       "url": "https://open.spotify.com/track/4FG0f1jh1VSgJ3j23B4VbF"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 246683,
       "name": "Dhada Dhada",
       "url": "https://open.spotify.com/track/0hvh7UTvtucrG3GE7Hz2AF"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 212857,
       "name": "Evanda Enakku Custody (From \"Mahaan\")",
       "url": "https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 284823,
       "name": "Konji Konji",
       "url": "https://open.spotify.com/track/283ahrhJdL0d1QXSY6uIzr"
@@ -1211,10 +1211,36 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 332702,
       "name": "Mudhal Nee Mudivum Nee Title Track",
       "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
+    },
+    {
+      "album": {
+        "name": "Mudhala (From \"Madhil Mel Kaadhal\")",
+        "url": "https://open.spotify.com/album/6JoeZVvrTRGRXQeu2Q2OJB"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Darini Hariharan",
+          "url": "https://open.spotify.com/artist/5MYdWjprWPQD05hTPmRd8E"
+        },
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Mudhala",
+      "url": "https://open.spotify.com/track/4zywnVmS2ecmQNlmpzf8Cj"
     },
     {
       "album": {
@@ -1303,7 +1329,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 204685,
       "name": "Ninaithaale (From \"James - Tamil\")",
       "url": "https://open.spotify.com/track/5EUjuwnITSmrL0FseqQ181"
@@ -1821,7 +1847,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 51000,
       "name": "The Suzhal Roar",
       "url": "https://open.spotify.com/track/437vCqn09LFz86Pa0FxCXL"
@@ -2037,7 +2063,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 249109,
       "name": "Vaanam Yaavum - From \"O2\"",
       "url": "https://open.spotify.com/track/40o6wn39Qx2jD933WT1RAg"

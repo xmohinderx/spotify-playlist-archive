@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 181162,
       "name": "Be Different",
       "url": "https://open.spotify.com/track/3GKNAS9w1o2SANlJFy6EvE"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 144201,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/5vDmHcIT7BGoUyoxsxr0EF"
@@ -3103,7 +3103,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 178211,
       "name": "Do Everything - Original Mix",
       "url": "https://open.spotify.com/track/2U8fnZ8pU7Y9Fr1GORYVXo"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 125806,
       "name": "Do It",
       "url": "https://open.spotify.com/track/12PfYuLkeCGUv084oayr4N"
@@ -3615,7 +3615,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 147182,
       "name": "Droppin Game",
       "url": "https://open.spotify.com/track/6z5DMzjU11YQvx1bHpIHnX"
@@ -3637,7 +3637,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 180413,
       "name": "Dune",
       "url": "https://open.spotify.com/track/6e8IPaUn6hv0ncndw9MWiX"
@@ -4645,7 +4645,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 161600,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/40317hou1w1jDytB62R0fc"
@@ -4667,7 +4667,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 191034,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5Ris85F31xmSW1mrEw1O83"
@@ -5280,6 +5280,32 @@
     },
     {
       "album": {
+        "name": "Hop \u010cip",
+        "url": "https://open.spotify.com/album/5QovlY8SuQCZynDLPsm5kO"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "Pi\u0161ta Lakato\u0161",
+          "url": "https://open.spotify.com/artist/3opFasaiF4kBK4BZ60CifQ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245156,
+      "name": "Hop \u010cip",
+      "url": "https://open.spotify.com/track/4kf9uVL8ZA8kPmS9QntwFo"
+    },
+    {
+      "album": {
         "name": "Strasidelny Dom",
         "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
       },
@@ -5499,7 +5525,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 136727,
       "name": "I Dont Care",
       "url": "https://open.spotify.com/track/6Wpw4VaWvrij9X1Ka57HKN"
@@ -5565,7 +5591,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 139960,
       "name": "I Like The Way",
       "url": "https://open.spotify.com/track/7AvWvnZlqu4Mr6QNeSEkr5"
@@ -5587,7 +5613,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -5857,7 +5883,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -6517,7 +6543,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 168700,
       "name": "Karma",
       "url": "https://open.spotify.com/track/0hibkjAgE28SPcWdHHqbdB"
@@ -6965,7 +6991,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -7311,7 +7337,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
@@ -8191,7 +8217,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 178337,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/0Jkjh1DIVYmljderQnW9N3"
@@ -8685,7 +8711,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "MY",
       "url": "https://open.spotify.com/track/5MCYkfAfAk1moFtzSoZkgC"
@@ -8875,7 +8901,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 175471,
       "name": "M\u00e1m Na Tebe Chu\u0165",
       "url": "https://open.spotify.com/track/6QD94oKHf19S9lrRPbJTFk"
@@ -9003,7 +9029,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 182526,
       "name": "Nad r\u00e1nem",
       "url": "https://open.spotify.com/track/4ERjIDbLvQYSxVT3cRu2LK"
@@ -10075,7 +10101,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 159375,
       "name": "Out of Your Mind",
       "url": "https://open.spotify.com/track/5hwNWlfeTV9J6PddS5mmg2"
@@ -10399,7 +10425,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -10493,7 +10519,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 174196,
       "name": "Piato\u010dek",
       "url": "https://open.spotify.com/track/0S4R6vsr5MlIJyOutUjHd3"
@@ -10599,7 +10625,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
@@ -11911,7 +11937,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 231492,
       "name": "Sem v po\u0159\u00e1dku",
       "url": "https://open.spotify.com/track/5wpj9Z2QTXIg2OMooLQZut"
@@ -11947,7 +11973,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -12423,7 +12449,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 181384,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/4t9FYAYXUEMt1bf5qZH0Qt"
@@ -12597,7 +12623,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -12767,7 +12793,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
@@ -12873,7 +12899,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -12975,7 +13001,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 139192,
       "name": "Survivor - Future Trap Mix",
       "url": "https://open.spotify.com/track/0WjxTrV9bb2bBulI6fb4iP"
@@ -13051,7 +13077,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 174951,
       "name": "Switch",
       "url": "https://open.spotify.com/track/7rmhXy7J0TRfbaAklj4D5F"
@@ -13461,7 +13487,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -13963,7 +13989,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 171200,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/35PovWaOxnpyGnEl78lp7g"
@@ -14719,7 +14745,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 166938,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/7vUoHe1gbpMDN2yfp9sA3u"
@@ -14975,7 +15001,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
@@ -15041,7 +15067,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 135692,
       "name": "Who Is",
       "url": "https://open.spotify.com/track/2OhwOSHTjJzS4ZnrH8SBwg"
@@ -15587,7 +15613,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 184727,
       "name": "Zasvoe",
       "url": "https://open.spotify.com/track/6FbRFo9fweIUtLvglbEF0i"

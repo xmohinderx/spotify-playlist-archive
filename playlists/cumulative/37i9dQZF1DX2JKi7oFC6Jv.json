@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-15",
   "description": "The best in classic and new UK Funky. Cover: Roska",
   "name": "UK Funky",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7I0Kgq7rLWFyN1Pzlv21nE"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 163933,
       "name": "Are You Gunna Bang Doe?",
       "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
@@ -79,7 +81,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 296307,
       "name": "Badboii",
       "url": "https://open.spotify.com/track/77DHkBg5doxOWTA6M8javv"
@@ -97,7 +99,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 247402,
       "name": "Baddie Part Two",
       "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
@@ -287,7 +289,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 277795,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/62uqLwkVmuaLGdxrMdKUah"
@@ -335,7 +337,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 323760,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/264HgVS2eKtoZHdaFX0JTR"
@@ -353,7 +355,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 237307,
       "name": "De Siegalizer",
       "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
@@ -371,7 +373,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 280693,
       "name": "Devil in a Blue Dress",
       "url": "https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g"
@@ -389,7 +391,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 310080,
       "name": "Disposition",
       "url": "https://open.spotify.com/track/76OEFASnlLZEVeolDc1KjU"
@@ -488,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Afterimages",
+        "url": "https://open.spotify.com/album/5NPDdlImKnSIozcmKkqUiH"
+      },
+      "artists": [
+        {
+          "name": "Pepe.",
+          "url": "https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4"
+        },
+        {
+          "name": "Runforrest",
+          "url": "https://open.spotify.com/artist/6m4TPomVwYgFtvzRDjaaF5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313908,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/1DtvG21YzEsAazFVDtz5pE"
+    },
+    {
+      "album": {
         "name": "Sensei EP",
         "url": "https://open.spotify.com/album/1BLsAvMKtBCL5to1JPQW2M"
       },
@@ -517,10 +541,54 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 297312,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4GLclqDpYfmdP1LtMKgwEh"
+    },
+    {
+      "album": {
+        "name": "Free (SHOSH Remix)",
+        "url": "https://open.spotify.com/album/4tiFcoAfUNEzKt25pztiEp"
+      },
+      "artists": [
+        {
+          "name": "Back N Fourth",
+          "url": "https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX"
+        },
+        {
+          "name": "Disclaimr",
+          "url": "https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX"
+        },
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159402,
+      "name": "Free - SHOSH Remix",
+      "url": "https://open.spotify.com/track/6dLxFq90hMU95F0btgPNsn"
+    },
+    {
+      "album": {
+        "name": "Funky Flex vs Pulse",
+        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361791,
+      "name": "Funky Flex vs Pulse",
+      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
     },
     {
       "album": {
@@ -571,7 +639,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 419546,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/6EEL5iBZY1GecVqZrTd6Qs"
@@ -640,6 +708,46 @@
     },
     {
       "album": {
+        "name": "Goo",
+        "url": "https://open.spotify.com/album/1qyofi0544PbioP27dqY34"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Kwam",
+          "url": "https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Goo",
+      "url": "https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL"
+    },
+    {
+      "album": {
+        "name": "Prince Rorro",
+        "url": "https://open.spotify.com/album/31AzysGEKE1zTFOpuqkfDi"
+      },
+      "artists": [
+        {
+          "name": "Omaar",
+          "url": "https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305478,
+      "name": "Groovemental",
+      "url": "https://open.spotify.com/track/3na7Htf2DuoNSh47yeBczH"
+    },
+    {
+      "album": {
         "name": "Remixes 1/2",
         "url": "https://open.spotify.com/album/2lGPdro2bQMgqz5WyJATrZ"
       },
@@ -655,7 +763,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 300848,
       "name": "Hear Me - Zomby Mix",
       "url": "https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve"
@@ -735,7 +843,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 492094,
       "name": "Im Right Here (Naughty Mix)",
       "url": "https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs"
@@ -783,6 +891,28 @@
       "duration_ms": 173706,
       "name": "In The Air (feat. Katie Pearl) - Original Club Mix Radio Edit",
       "url": "https://open.spotify.com/track/7nVRzqdBTNYHnIxYRZ7jYp"
+    },
+    {
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/4gk3w0UtZOCA6ZScBhqmU2"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152125,
+      "name": "Just Vybe",
+      "url": "https://open.spotify.com/track/5u5biMCbqL0m3rDaf7GFpB"
     },
     {
       "album": {
@@ -863,7 +993,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 284506,
       "name": "Lush - Fuzzy Logik Remix",
       "url": "https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7"
@@ -965,7 +1095,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 273153,
       "name": "Moth on the Wall",
       "url": "https://open.spotify.com/track/3OKTZvftiFkx5MW4eCcHlQ"
@@ -1085,7 +1215,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 174307,
       "name": "Razzclart",
       "url": "https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx"
@@ -1103,7 +1233,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 252633,
       "name": "Red Devil",
       "url": "https://open.spotify.com/track/4mERMsGHTzOqHr1WwUPeap"
@@ -1157,7 +1287,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 268564,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/2nRb2tbygTKTWYOUBsZH63"
@@ -1175,7 +1305,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Shape Shift",
       "url": "https://open.spotify.com/track/3a17nv0HSfjORgxYLz5sDl"
@@ -1241,7 +1371,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 344036,
       "name": "Sway feat.Correigh",
       "url": "https://open.spotify.com/track/19KZKypz3HmmJQ1Jg1Zgbb"
@@ -1373,10 +1503,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Too Many Man - Club Mix",
       "url": "https://open.spotify.com/track/6NOc7HLccGFAAc4HPXTedy"
+    },
+    {
+      "album": {
+        "name": "Township Funk",
+        "url": "https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi"
+      },
+      "artists": [
+        {
+          "name": "Dj Mujava",
+          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349480,
+      "name": "Township Funk",
+      "url": "https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0"
     },
     {
       "album": {
@@ -1427,7 +1575,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 445746,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"
@@ -1471,7 +1619,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"
@@ -1507,7 +1655,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 253500,
       "name": "Wingin It",
       "url": "https://open.spotify.com/track/66vaxeL63wkY4BpUaS1VJV"

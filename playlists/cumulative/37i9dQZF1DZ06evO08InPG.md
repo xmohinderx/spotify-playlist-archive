@@ -4,7 +4,7 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/7u9fww2Kdc2yvh821ta38P)
+56 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7u9fww2Kdc2yvh821ta38P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Crashing Around You](https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:13 | 2022-05-30 |  |
 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 | 2022-05-30 |  |
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-05-30 |  |
-| [Days Turn Blue to Gray](https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:22 | 2022-05-30 |  |
+| [Days Turn Blue to Gray](https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:22 | 2022-05-30 | 2022-06-17 |
 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 | 2022-05-30 |  |
 | [Die Young \(Acoustic\)](https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Die Young \(Acoustic\)](https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu) | 4:57 | 2022-05-30 |  |
 | [Do or Die](https://open.spotify.com/track/4IFES4aTHxER2VhckmkYG8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Do or Die](https://open.spotify.com/album/2ilbCckBHnXxmWpZ63w9W1) | 3:42 | 2022-06-06 | 2022-06-08 |
@@ -43,7 +43,7 @@
 | [In Comes The Flood](https://open.spotify.com/track/4fRjDaOvF4TxU88P2bdkMx) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:22 | 2022-05-30 |  |
 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 | 2022-05-30 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:03 | 2022-05-30 |  |
-| [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 | 2022-05-30 | 2022-06-16 |
+| [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 | 2022-05-30 |  |
 | [Left Unfinished](https://open.spotify.com/track/7KtlcMi3ZTfgCXnTOXvQan) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:32 | 2022-06-12 | 2022-06-14 |
 | [Locust](https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 7:36 | 2022-05-30 |  |
 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 | 2022-05-30 |  |
@@ -53,7 +53,8 @@
 | [Now I Lay Thee Down](https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:34 | 2022-05-30 |  |
 | [Now We Die](https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:10 | 2022-05-30 |  |
 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 | 2022-05-30 |  |
-| [Sail Into The Black](https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 8:29 | 2022-06-08 |  |
+| [RØTTEN](https://open.spotify.com/track/5FSWDz91pGJWHu4F0TWJZS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ARRØWS IN WØRDS FRØM THE SKY](https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX) | 4:47 | 2022-06-16 |  |
+| [Sail Into The Black](https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 8:29 | 2022-06-08 | 2022-06-17 |
 | [Stop The Bleeding \(Feat\. Jesse Leach\)](https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 3:03 | 2022-05-30 |  |
 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 | 2022-05-30 |  |
 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 | 2022-05-30 |  |

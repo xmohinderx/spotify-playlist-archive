@@ -1,13 +1,33 @@
 {
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Da LAB",
-  "num_followers": 116209,
+  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Miu L\u00ea",
+  "num_followers": 116299,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTI2MTgxMywwMDAwMDIwYjAwMDAwMTgxNjU0YWRiNWMwMDAwMDE4MTM4N2ZlZTEy",
+  "snapshot_id": "MTY1NTM2MTM0NCwwMDAwMDIwZDAwMDAwMTgxNmIzOTkyYWYwMDAwMDE4MTZiMzkzOGM0",
   "tracks": [
+    {
+      "added_at": "2022-06-15 02:56:53",
+      "album": {
+        "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
+        "url": "https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op"
+      },
+      "artists": [
+        {
+          "name": "Miu L\u00ea",
+          "url": "https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 261999,
+      "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
+      "url": "https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC"
+    },
     {
       "added_at": "2022-06-15 02:56:53",
       "album": {
@@ -135,22 +155,6 @@
     {
       "added_at": "2022-06-15 02:56:53",
       "album": {
-        "name": "THERE'S NO ONE AT ALL",
-        "url": "https://open.spotify.com/album/1ZutY9YHq5MEPDTT0wy06u"
-      },
-      "artists": [
-        {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
-        }
-      ],
-      "duration_ms": 172250,
-      "name": "THERE'S NO ONE AT ALL",
-      "url": "https://open.spotify.com/track/7rjtRM1AgmmraeTTX8tofW"
-    },
-    {
-      "added_at": "2022-06-15 02:56:53",
-      "album": {
         "name": "hai m\u01b0\u01a1i hai (22)",
         "url": "https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v"
       },
@@ -171,26 +175,6 @@
     {
       "added_at": "2022-06-15 02:56:53",
       "album": {
-        "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
-        "url": "https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op"
-      },
-      "artists": [
-        {
-          "name": "Miu L\u00ea",
-          "url": "https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        }
-      ],
-      "duration_ms": 261999,
-      "name": "V\u00ec M\u1eb9 Anh B\u1eaft Chia Tay",
-      "url": "https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC"
-    },
-    {
-      "added_at": "2022-06-15 02:56:53",
-      "album": {
         "name": "Th\u1ee9c Gi\u1ea5c",
         "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
       },
@@ -203,50 +187,6 @@
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
-    },
-    {
-      "added_at": "2022-06-15 02:56:53",
-      "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed1 (feat. Thanh Lam & Tung Duong)",
-        "url": "https://open.spotify.com/album/3zi1RVCY8qSVwKBogN62AD"
-      },
-      "artists": [
-        {
-          "name": "Hoang Thuy Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        },
-        {
-          "name": "Thanh Lam",
-          "url": "https://open.spotify.com/artist/5kG9gxVkkdrskVLhfblCjT"
-        },
-        {
-          "name": "T\u00f9ng D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/4rBvN6UImNzcY5abMKdAuw"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "\u0110\u00e1nh \u0110\u1ed1 (feat. Thanh Lam & Tung Duong)",
-      "url": "https://open.spotify.com/track/6XSRHPboYUSCSqbKfl2Iv7"
-    },
-    {
-      "added_at": "2022-06-15 02:56:53",
-      "album": {
-        "name": "dreAMEE (acoustic)",
-        "url": "https://open.spotify.com/album/6YfaCqg9ImLOCb5sD0Q158"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Hoang Dung",
-          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
-        }
-      ],
-      "duration_ms": 204230,
-      "name": "t\u1eeb th\u00edch th\u00edch th\u00e0nh th\u01b0\u01a1ng th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/56JyO6Cav1GwtayPU7PXEx"
     },
     {
       "added_at": "2022-06-15 02:56:53",

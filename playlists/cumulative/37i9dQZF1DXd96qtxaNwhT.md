@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-407 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+408 songs - 22 hr 57 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Honey](https://open.spotify.com/track/2s1ydHPP8KlPloM67KU3Tm) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Honey](https://open.spotify.com/album/1VQ70muaN98685CmVrPWE2) | 3:55 | 2020-09-25 | 2021-07-23 |
 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 | 2021-09-14 |  |
 | [Horizon](https://open.spotify.com/track/2whls6fZqLiMd0XIP07ehw) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 4:24 | 2019-07-29\* | 2019-08-02 |
+| [Hospital Bed](https://open.spotify.com/track/0BZwSLuRna3yZuQz3GO9gW) | [Bri Clark](https://open.spotify.com/artist/5TYdUfesG0QEhROR76Hp2Y) | [Waiting](https://open.spotify.com/album/196pUs3pRTBCmfZjv9nqbi) | 4:10 | 2022-06-16 |  |
 | [HOW DO YOU HOLD WHAT HURTS](https://open.spotify.com/track/5n32lvqZjFkqUczA5zclaF) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HOW DO YOU HOLD WHAT HURTS](https://open.spotify.com/album/0sqm5pSfXgsewthKh02L8S) | 3:09 | 2021-03-06 | 2021-10-16 |
 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 | 2019-08-30 | 2020-02-17 |
 | [Hurricane](https://open.spotify.com/track/5DTCKNnlpC94Ri2zX2IyS8) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hurricane](https://open.spotify.com/album/47IfyCjNLf3dZH0bH7mkmp) | 3:21 | 2020-07-18 | 2021-07-07 |

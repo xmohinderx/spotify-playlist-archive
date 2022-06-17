@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,968 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,259 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,18 +68,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 58 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 |
 | 59 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 |
 | 60 | [Carry On](https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:38 |
-| 61 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
-| 62 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 |
-| 63 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 |
-| 64 | [This December](https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:01 |
-| 65 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
-| 66 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 |
-| 67 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
-| 68 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 |
-| 69 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
-| 70 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 |
-| 71 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 |
-| 72 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 |
+| 61 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 |
+| 62 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
+| 63 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 |
+| 64 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 |
+| 65 | [This December](https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:01 |
+| 66 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
+| 67 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 |
+| 68 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
+| 69 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 |
+| 70 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
+| 71 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 |
+| 72 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 |
 | 73 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7GsJB7Q1Tt1GD1V7v3d0iW) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 |
 | 74 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 |
 | 75 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 |
@@ -107,6 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 97 | [Infinite Jest](https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Infinite Jest](https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ) | 4:34 |
 | 98 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 |
 | 99 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 |
-| 100 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 |
 
-Snapshot ID: `MTY1NTIyNTA2MSwwMDAwMDA1NDAwMDAwMTgxNjMxYTEwMzkwMDAwMDE4MTI2MDVlZTdj`
+Snapshot ID: `MTY1NTQxMzg1MSwwMDAwMDA1NjAwMDAwMTgxNmU1YWM2ZjEwMDAwMDE4MTI2MDVlZTdj`

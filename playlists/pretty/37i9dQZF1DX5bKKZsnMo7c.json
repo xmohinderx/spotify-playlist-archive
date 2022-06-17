@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 98968,
+  "num_followers": 100259,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIyNTA2MSwwMDAwMDA1NDAwMDAwMTgxNjMxYTEwMzkwMDAwMDE4MTI2MDVlZTdj",
+  "snapshot_id": "MTY1NTQxMzg1MSwwMDAwMDA1NjAwMDAwMTgxNmU1YWM2ZjEwMDAwMDE4MTI2MDVlZTdj",
   "tracks": [
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC"
+    },
+    {
+      "added_at": "2022-06-07 00:40:43",
+      "album": {
         "name": "Good Luck Everybody",
         "url": "https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 232362,
       "name": "Smitten / vulnerable",
       "url": "https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K"
-    },
-    {
-      "added_at": "2022-06-07 00:40:43",
-      "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1663,22 +1663,6 @@
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
-    },
-    {
-      "added_at": "2022-06-07 00:40:43",
-      "album": {
-        "name": "I'm in Love With an E-Girl",
-        "url": "https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Soot",
-          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "I'm in Love With an E-Girl",
-      "url": "https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7"
     }
   ],
   "unique_name": "Limelight",

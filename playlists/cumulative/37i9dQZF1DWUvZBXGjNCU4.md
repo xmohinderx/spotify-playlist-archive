@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-174 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+176 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2022-05-13 | 2022-06-10 |
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2022-05-13 |  |
 | [Belonging to the Woods](https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Belonging to the Woods](https://open.spotify.com/album/5MXiLVQY1I0dRkCK0wCGv2) | 3:24 | 2022-05-13 |  |
+| [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
 | [Blessing](https://open.spotify.com/track/2l3DOrrIbufk8EZpXDVbJF) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Blessing](https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE) | 2:42 | 2022-05-13 |  |
 | [Blue River](https://open.spotify.com/track/4H37WSMDCFhcThyII8qadN) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Blue River](https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8) | 3:32 | 2022-05-13 |  |
 | [Broken Sky](https://open.spotify.com/track/1PeMTLRYStFk5meDRs79Nq) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Broken Sky](https://open.spotify.com/album/30j3xi44993MenSEyDXnGt) | 2:37 | 2022-05-13 | 2022-06-10 |
@@ -130,6 +131,7 @@
 | [Red Cliff](https://open.spotify.com/track/6lsYXz5zZ1DLxk1es2Z3Te) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Red Cliff](https://open.spotify.com/album/7Mri2V8TsAD6Qh2kBtaQuJ) | 2:48 | 2022-05-27 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 |  |
+| [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 |  |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 |  |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 |  |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 |  |

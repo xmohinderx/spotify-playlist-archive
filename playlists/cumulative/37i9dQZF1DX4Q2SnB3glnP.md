@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-211 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+213 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2021-12-08 |  |
 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 | 2021-12-08 |  |
 | [Awareness of the Call](https://open.spotify.com/track/6xQ26wLRgOWJDi6nrLwzNq) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 3:51 | 2021-12-08 |  |
+| [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 | 2021-12-08 |  |
 | [Binaural Emotions](https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP) | [Astro Project](https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG) | [Binaural Emotions](https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c) | 3:26 | 2021-12-08 |  |
 | [Bio\-Adoptions](https://open.spotify.com/track/0bnRIsBDDT2GyEozHCOcie) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Other World](https://open.spotify.com/album/3b6v2XgqzzKZuYCGqueCUV) | 3:24 | 2021-12-08 |  |
@@ -206,6 +207,7 @@
 | [Tomorrow Will Save Us](https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 3:06 | 2021-12-08 |  |
 | [Tranquil](https://open.spotify.com/track/5Vnav7uF10Y1lj7Rc8ZSPs) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Still](https://open.spotify.com/album/2swUDwU2w9c0As92jzfREY) | 3:12 | 2021-12-08 |  |
 | [Tranquility](https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:29 | 2021-12-08 |  |
+| [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 | 2022-06-16 |  |
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2021-12-08 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2021-12-08 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2021-12-08 |  |

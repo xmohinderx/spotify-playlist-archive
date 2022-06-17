@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-688 songs - 1 day 13 hr 56 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+689 songs - 1 day 13 hr 59 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 | 2022-05-17 |  |
 | [Hada Rai](https://open.spotify.com/track/7zQjlfWIf2v09j8JygU2mU) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:32 | 2021-05-09 | 2021-05-20 |
 | [Halla halla](https://open.spotify.com/track/31rRD6pW8qFwnlqy1dxIVz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:54 | 2021-03-27\* | 2021-04-21 |
-| [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-11 |  |
+| [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-11 | 2022-06-17 |
 | [HANGOVER](https://open.spotify.com/track/2VesYhyP75Gp0kye2PNRcM) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [VIBZ](https://open.spotify.com/album/5tQrJMLzU4BNGvhyF9ioqF) | 3:24 | 2021-07-25 | 2021-07-29 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD) | 4:26 | 2021-06-06 |  |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2021-06-13 | 2021-06-14 |
@@ -363,6 +363,7 @@
 | [Lewjah Tani](https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lewjah Tani](https://open.spotify.com/album/2iObUozOdxAw1Dag3mHssf) | 3:30 | 2021-03-27\* | 2022-01-05 |
 | [Li fate](https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Li fate](https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki) | 3:50 | 2022-02-01 | 2022-03-07 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-05-23 | 2021-11-23 |
+| [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-06-16 |  |
 | [Lights](https://open.spotify.com/track/6w3OVt4jAtVAXB4olwyfFD) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lights](https://open.spotify.com/album/1ViBskZXUYw7JotPVYsFNr) | 4:02 | 2021-12-18 | 2021-12-19 |
 | [Lili](https://open.spotify.com/track/049e2VlfYsfIRrZk1bfAqX) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Lili](https://open.spotify.com/album/2y1RmOXemgi3JpFQCtywRo) | 3:02 | 2022-02-18 | 2022-02-22 |
 | [Lili](https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Lili](https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr) | 3:03 | 2021-04-19 | 2022-02-19 |

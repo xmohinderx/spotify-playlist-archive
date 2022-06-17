@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Rema",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: 1da Banton",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
@@ -509,6 +509,28 @@
       "duration_ms": 176066,
       "name": "Bobby Shmurda",
       "url": "https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4"
+      },
+      "artists": [
+        {
+          "name": "Lexsil",
+          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
     },
     {
       "album": {
@@ -937,7 +959,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 157648,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 157931,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/4rnhC0aKXB0Kp1pSQ4duwS"
@@ -1431,6 +1453,24 @@
       "duration_ms": 213580,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
+    },
+    {
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "album": {
@@ -1823,7 +1863,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 164397,
       "name": "Like This",
       "url": "https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2"
@@ -1911,6 +1951,24 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
+    },
+    {
+      "album": {
+        "name": "Bumay\u00e9",
+        "url": "https://open.spotify.com/album/6qqGP4ZAF1iKBIIWTegfoq"
+      },
+      "artists": [
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Mb\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/2mqShWZYwYJ1i986EpATaH"
     },
     {
       "album": {
@@ -2092,7 +2150,7 @@
     },
     {
       "album": {
-        "name": "God\u2019s Timing\u2019s the Best",
+        "name": "God's Timing\u2019s the Best",
         "url": "https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7"
       },
       "artists": [
@@ -2357,7 +2415,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 205146,
       "name": "Pardonne-moi",
       "url": "https://open.spotify.com/track/0xHAkrcpP3fQySJ7IcThgv"
@@ -3159,6 +3217,58 @@
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "album": {
+        "name": "RELATIONS (SAISON 1)",
+        "url": "https://open.spotify.com/album/2wJ1gNdP3LKeRWdqgQN6VG"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "WANGANA (feat. Ya Levis)",
+      "url": "https://open.spotify.com/track/2s6NHVwzYTg7ThzIiMvsZg"
+    },
+    {
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
+        "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza) - Edit",
+      "url": "https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz"
     },
     {
       "album": {

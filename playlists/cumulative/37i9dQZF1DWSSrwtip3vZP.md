@@ -4,11 +4,12 @@
 
 > music to help you \~ focus \~
 
-94 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+95 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-04-19 |  |
+| [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 | 2022-06-15 |  |
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2022-04-19 |  |
 | [April](https://open.spotify.com/track/3izibnOkKCvSjKWYXAS2BO) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [April](https://open.spotify.com/album/7Mbs5Pd9ytp5plVaYrCANS) | 2:34 | 2022-04-19 |  |
 | [April](https://open.spotify.com/track/5c9NYoGdCrvQCa5EwjsBZv) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [April](https://open.spotify.com/album/5a6I3KFSH6MLRR1grwFqXY) | 3:16 | 2022-04-19 |  |

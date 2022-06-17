@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a urbøi\. 🌊✨
+> La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-145 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+148 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [CALLAO](https://open.spotify.com/track/61lhyMgfikV7h2NC4bcTCS) | [Ben Daval](https://open.spotify.com/artist/4bxF5XAQTgaUNG7j9iNkt8), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [CALLAO](https://open.spotify.com/album/2WT9a1kVhwTIqW3CWWB3J4) | 3:20 | 2021-12-10 | 2022-04-23 |
 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 | 2022-05-20 |  |
 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 | 2022-03-11 |  |
+| [Cicatrices](https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Cicatrices](https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84) | 3:14 | 2022-06-17 |  |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-03-25 |  |
 | [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2021-12-10 | 2022-05-07 |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 |  |
@@ -56,6 +57,7 @@
 | [Hora Loca](https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Hora Loca](https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc) | 3:30 | 2021-12-10 | 2022-02-26 |
 | [Hoy te Dejo de Soñar](https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Hoy te Dejo de Soñar](https://open.spotify.com/album/2H7dZJggkMv3MXH7ZKSzQm) | 3:11 | 2021-12-10 | 2022-03-26 |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-02-18 |  |
+| [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-17 |  |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2022-03-25 |  |
 | [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 | 2022-03-04 |  |
 | [Lento](https://open.spotify.com/track/4f07s0huRslrHqfO36G8D1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Lento](https://open.spotify.com/album/2izPga5hTYeQoST4IxzoEE) | 2:48 | 2021-12-10 | 2022-04-14 |
@@ -85,6 +87,7 @@
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-10 |  |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-01-20 |  |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-02-11 |  |
+| [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 | 2022-06-17 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 | 2022-05-20 |
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-02-04 |  |
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-03-23 |  |
@@ -124,7 +127,7 @@
 | [signos](https://open.spotify.com/track/4Yg9FM81cRqrbSZvr84k5J) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 2:52 | 2022-05-06 |  |
 | [Solo Dime Que Sí](https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dany & Dary](https://open.spotify.com/artist/7AUFlop6Gy9FC9VlQfkxTt) | [Solo Dime Que Sí](https://open.spotify.com/album/73au3D856ZW0HVfvwY3OEe) | 3:24 | 2022-02-04 |  |
 | [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-12-10 | 2022-02-26 |
-| [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-10 |  |
+| [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-10 | 2022-06-17 |
 | [Tamagotchi](https://open.spotify.com/track/0qHrI3sYAchQOnj0biIhLR) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Tamagotchi](https://open.spotify.com/album/30UuPIcZoexQdXC1BWSH5z) | 3:03 | 2021-12-10 | 2022-02-19 |
 | [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 3:37 | 2022-02-11 |  |
 | [Televisión](https://open.spotify.com/track/4JcxRWYxGWG3Miieh34Z1K) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Joheel Rodmar](https://open.spotify.com/artist/2IhzYqwXcAUGMbJ2qxz4Ik) | [Televisión](https://open.spotify.com/album/5Qmgvb2qwRvXaO9DgnSP4s) | 2:55 | 2022-03-04 | 2022-05-07 |

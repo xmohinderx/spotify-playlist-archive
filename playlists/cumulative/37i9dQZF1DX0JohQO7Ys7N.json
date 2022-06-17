@@ -232,6 +232,28 @@
     },
     {
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
+      },
+      "artists": [
+        {
+          "name": "Kuiyu",
+          "url": "https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD"
+        },
+        {
+          "name": "Wambura Mugo",
+          "url": "https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247438,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8"
+    },
+    {
+      "album": {
         "name": "Drug",
         "url": "https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF"
       },
@@ -743,7 +765,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
@@ -1214,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "Welcome 2 My Soul",
+        "url": "https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ"
+      },
+      "artists": [
+        {
+          "name": "Antoneosoul",
+          "url": "https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272926,
+      "name": "Switch It Up",
+      "url": "https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y"
+    },
+    {
+      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7"
       },
@@ -1299,7 +1339,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 274271,
       "name": "Usiende Mbali",
       "url": "https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S"

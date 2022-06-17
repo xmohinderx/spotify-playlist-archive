@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 176516,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 236800,
       "name": "Harsh",
       "url": "https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP"
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 211862,
       "name": "Lasers",
       "url": "https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO"
@@ -3289,7 +3289,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 199118,
       "name": "REDLIGHT - VIP",
       "url": "https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5"
@@ -4017,7 +4017,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 180298,
       "name": "STFU",
       "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
@@ -4206,6 +4206,28 @@
     },
     {
       "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
+    },
+    {
+      "album": {
         "name": "THE SHOOTV",
         "url": "https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ"
       },
@@ -4317,7 +4339,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 240529,
       "name": "Time",
       "url": "https://open.spotify.com/track/37hoHtZNUuIbJSHkyII0zx"
@@ -4657,7 +4679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "Wall Of Death",
       "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
@@ -4711,7 +4733,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 220000,
       "name": "Who Run Dis",
       "url": "https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP"

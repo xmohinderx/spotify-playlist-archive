@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 143 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 144 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 47 | [Luz Apaga](https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Luz Apaga](https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh) | 4:05 |
 | 48 | [La fórmula \(feat\. Chris Jedi\)](https://open.spotify.com/track/55NwAn7bAl1edTEg1azLOW) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Mi Movimiento](https://open.spotify.com/album/52E77HSrg85k7NrRkKTGT1) | 3:52 |
 | 49 | [Zum Zum](https://open.spotify.com/track/7lEhOiFtcLXY4P7cuTKuQ8) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Zum Zum](https://open.spotify.com/album/126REka6HCyui9eyfn3i9j) | 3:55 |
-| 50 | [Todo Comienza en la Disco](https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 4:28 |
-| 51 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
+| 50 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
+| 51 | [Todo Comienza en la Disco](https://open.spotify.com/track/3a2aBKuvgP1qHo3BqU3lGh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 4:28 |
 | 52 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
 | 53 | [Peligrosa](https://open.spotify.com/track/3Nkqp3NSGWMXVVO08zGpN7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:22 |
 | 54 | [Jangueo](https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:51 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 124 | [Remate](https://open.spotify.com/track/5CxiDctwwCb40MVA8Lbe17) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:26 |
 | 125 | [ENERO](https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:35 |
 | 126 | [Por Mi Culpa](https://open.spotify.com/track/2UfFPYeWLimTFRC90At4Jd) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:22 |
-| 127 | [Bebé](https://open.spotify.com/track/4JwN1v4cLawt6tI4Y8Chi2) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bebé](https://open.spotify.com/album/0uJAmPNlqIFQEhIBCQC7xi) | 3:24 |
-| 128 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 127 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
+| 128 | [Bebé](https://open.spotify.com/track/4JwN1v4cLawt6tI4Y8Chi2) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bebé](https://open.spotify.com/album/0uJAmPNlqIFQEhIBCQC7xi) | 3:24 |
 | 129 | [Quiero](https://open.spotify.com/track/0mD0bi4kxvKYJh8stjNN8G) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
 | 130 | [Frozen](https://open.spotify.com/track/6qiPrJwiT5BHKeGPF11cTO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:40 |
 | 131 | [LA MINI](https://open.spotify.com/track/0VgcHeHNVJlDN8U1BuoksG) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:09 |
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 141 | [TU SI](https://open.spotify.com/track/1hDvFgac2a9NVCKPXjKWGr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:36 |
 | 142 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
 | 143 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
+| 144 | [La Llevo Al Cielo](https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr) | [La Llevo Al Cielo](https://open.spotify.com/album/5JHA1Yu2F7h9kutIwcB1ho) | 2:50 |
 
-Snapshot ID: `Mjc1ODkwMjEsMDAwMDAwMDBkZDU0MzNiNDY3ZmMzZTVmNzIxMTAyNDEzYTNmNjI2Zg==`
+Snapshot ID: `Mjc1OTA0NjEsMDAwMDAwMDBkOWNjZGNjYzBkOGEzMmQ3YjRmZGZlNjMzM2VhMDQwOQ==`

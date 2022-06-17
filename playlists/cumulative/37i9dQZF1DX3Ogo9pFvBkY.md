@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-650 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+655 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ambiance](https://open.spotify.com/track/0DEINkn792Fev6TwyACk5v) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:18 | 2020-09-16 |  |
 | [Ambient Final](https://open.spotify.com/track/1lDuQ9qw2yfdRmao76luZy) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Ambient Final](https://open.spotify.com/album/27UlQq72dwL1DTqxH8IrBK) | 2:44 | 2020-08-08 |  |
 | [An Eternity With You](https://open.spotify.com/track/26lMzRXcIvEZZocZwGtu7e) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [An Eternity With You](https://open.spotify.com/album/4OGr79gLRl9GuZM6e0gUfL) | 2:16 | 2021-12-09 |  |
+| [An Instant](https://open.spotify.com/track/1V1lNO1kMb2QngcOHz5d3y) | [Orieta Carvahal](https://open.spotify.com/artist/71sP1BkkbvMv0IcFu706Dt) | [An Instant](https://open.spotify.com/album/7qDfAr30rO5WSnzMe7EkEh) | 3:38 | 2022-06-16 |  |
 | [Ananda](https://open.spotify.com/track/5cUE9WfhOMXemLX0stj0XT) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Ananda](https://open.spotify.com/album/7f69MPwVjlQCBj7Pv00Gu2) | 2:22 | 2020-08-08 | 2021-11-26 |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-04-28 | 2021-07-23 |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2021-10-13 |
@@ -86,6 +87,7 @@
 | [Beings](https://open.spotify.com/track/2A1JViJP0YMiMmjtqjOKAQ) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Tranquilities](https://open.spotify.com/album/62H5tNHdV0NkPkntYiHXq0) | 4:38 | 2019-05-26\* | 2020-01-09 |
 | [Beneath](https://open.spotify.com/track/1757oARz2SdORUSsihHuKo) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Beneath](https://open.spotify.com/album/20q3qgJ9BdF0Ik2XfQSjCF) | 2:32 | 2020-09-16 |  |
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2019-05-26\* | 2020-01-03 |
+| [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-06-16 |  |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2021-06-16 |  |
 | [Beyond Reach](https://open.spotify.com/track/1prR4s9mD1M0wkFf8w6OqM) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:37 | 2020-01-03 | 2020-07-11 |
 | [Beyond The Moon](https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [Beyond The Moon](https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta) | 2:30 | 2022-05-25 |  |
@@ -295,6 +297,7 @@
 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 | 2020-07-11 |  |
 | [I Know You're Here](https://open.spotify.com/track/15IzXs0Oln8qBHIJUYLSzM) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 3:25 | 2019-05-26\* | 2020-07-11 |
 | [I Will Carry You](https://open.spotify.com/track/03atDG2j0uoUFIanUel5Ae) | [Ruth Mountain](https://open.spotify.com/artist/7erlZkwZDiF5P7f1gXPxxD) | [I Will Carry You](https://open.spotify.com/album/4KTtx77JVSG8TAmLv47Mte) | 3:15 | 2021-02-18 |  |
+| [Illusionist](https://open.spotify.com/track/6wnhGsrGb5UlbPLebsCb25) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 1](https://open.spotify.com/album/7Gig1E35PHUzCtBrjJJ6xy) | 2:55 | 2022-06-16 |  |
 | [imagination](https://open.spotify.com/track/4aruMMVCx74sNI9zgHG6uO) | [Otto Wiles](https://open.spotify.com/artist/4IfqNEioStUXzicPPH5Qra) | [imagination](https://open.spotify.com/album/1RnVA30NCF6pO2uLFsexgm) | 3:08 | 2019-12-07 | 2020-05-18 |
 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 | 2019-05-26\* | 2020-01-03 |
 | [Immersed](https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:02 | 2020-09-16 | 2021-11-26 |
@@ -450,6 +453,7 @@
 | [Port of Call](https://open.spotify.com/track/3fD0a5xssaqShD258hJIUU) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 3:09 | 2020-01-03 | 2020-08-08 |
 | [Position Position \(Here\)](https://open.spotify.com/track/4Kjnj0ckdGqz2jazsNSGOH) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [When You Were Here](https://open.spotify.com/album/11cgTljXHTFtqcWfXYCLPd) | 1:40 | 2019-05-26\* | 2020-05-09 |
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2020-01-03 |  |
+| [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 | 2022-06-16 |  |
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2019-10-26 |  |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-04-02 |  |
 | [Pure And Simple](https://open.spotify.com/track/4r5bGfbWE7xqjeGT6b7JqX) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Pure And Simple](https://open.spotify.com/album/2a3C0VnpOuNkCvnMIY82mp) | 2:29 | 2022-03-25 |  |
@@ -637,6 +641,7 @@
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-09-14 |  |
 | [Warmest Embrace](https://open.spotify.com/track/0Sn8lWeOkc5crNhOus3hw9) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Warmest Embrace](https://open.spotify.com/album/7ubPYdlFJBArDcBJh1SQ5u) | 4:54 | 2019-05-26\* | 2021-10-13 |
 | [Water Colors](https://open.spotify.com/track/1HfTcqsHF0yqrzXX1O01Z2) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Water Colors](https://open.spotify.com/album/1MV9gpLxBb9V5juEZwaZPk) | 4:00 | 2019-05-26\* | 2020-01-03 |
+| [Water Poem](https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Water Poem](https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5) | 2:40 | 2022-06-16 |  |
 | [Waves](https://open.spotify.com/track/4Ua4NrNeTgqMPB3cCdtuX5) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Waves](https://open.spotify.com/album/3ZCPMLfLcFDmenpUerrAi4) | 3:22 | 2019-05-26\* | 2020-01-03 |
 | [We](https://open.spotify.com/track/3N2pGbHohZrbBnYV1lo7b2) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [We](https://open.spotify.com/album/26dfpkqvVbeuDl5jZlx5Mx) | 2:35 | 2020-08-22 |  |
 | [We Live On](https://open.spotify.com/track/7kCc21aHJb7TRh6XKy1qkg) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Sum Of All Things](https://open.spotify.com/album/5vRQKUKXutHxaOPOPK14q4) | 2:57 | 2019-05-26\* | 2020-01-03 |

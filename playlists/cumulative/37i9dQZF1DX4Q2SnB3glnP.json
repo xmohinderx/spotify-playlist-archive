@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
+      },
+      "artists": [
+        {
+          "name": "Eriao",
+          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
+    },
+    {
+      "album": {
         "name": "Before Sunrise",
         "url": "https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU"
       },
@@ -3577,6 +3595,24 @@
       "duration_ms": 149047,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX"
+    },
+    {
+      "album": {
+        "name": "Un Lugar Tranquilo",
+        "url": "https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH"
+      },
+      "artists": [
+        {
+          "name": "Micaela De Le\u00f3n",
+          "url": "https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182754,
+      "name": "Un Lugar Tranquilo",
+      "url": "https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY"
     },
     {
       "album": {

@@ -24,7 +24,7 @@
 | [Handy Work](https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Handy Work](https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL) | 6:11 | 2022-06-03 | 2022-06-11 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2022-06-03 |  |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 |  |
-| [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 | 2022-06-16 |
+| [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 |  |
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 | 2022-06-11 |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 |  |
 | [Kilombito Mal \(feat\. Antonia Montero\)](https://open.spotify.com/track/4KEyvTU5LmxxyXw08bhnJ1) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Kilombito Mal](https://open.spotify.com/album/5cuo25ITqxcBFV4VxkUcrP) | 8:19 | 2022-06-03 |  |
@@ -63,6 +63,6 @@
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 |  |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 |  |
 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 | 2022-06-03 |  |
-| [Work Out](https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj) | [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [Work Out](https://open.spotify.com/album/4ksU29xJ4PKvzQhfiBOoYz) | 7:03 | 2022-06-03 |  |
+| [Work Out](https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj) | [DeMarzo](https://open.spotify.com/artist/690s28S2ybWXTI9IdX86mO) | [Work Out](https://open.spotify.com/album/4ksU29xJ4PKvzQhfiBOoYz) | 7:03 | 2022-06-03 | 2022-06-17 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

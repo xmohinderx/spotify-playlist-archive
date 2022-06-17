@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-115 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+117 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-10 |  |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-01-06 |  |
 | [Monica](https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa) | [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k), [Modizo](https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN) | [Monica](https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx) | 2:52 | 2022-05-19 |  |
+| [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 | 2022-06-09 |  |
 | [Mwagia Ndani](https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6) | [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [The Evolution](https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI) | 2:46 | 2021-09-23 | 2022-05-20 |
 | [Mwaka Wangu](https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Mwaka Wangu](https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P) | 3:13 | 2022-02-04 |  |
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-01-27 |  |
@@ -88,6 +89,7 @@
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 |  |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2021-06-25 | 2022-01-28 |
 | [Niteke \(feat\. Blaq Diamond\)](https://open.spotify.com/track/5gSkBX3XjO6bxm4egr3ITH) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:15 | 2021-10-21 | 2022-04-29 |
+| [No Time](https://open.spotify.com/track/6KVESuAVZDmmMqGVLgPW2P) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [No Time](https://open.spotify.com/album/3zr51b8usrlLH6dLM3Gj70) | 3:10 | 2022-06-16 |  |
 | [Number One](https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One](https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X) | 3:33 | 2021-10-14 |  |
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2021-09-09 | 2022-04-08 |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |

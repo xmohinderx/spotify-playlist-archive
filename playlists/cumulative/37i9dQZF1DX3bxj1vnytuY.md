@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-97 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+99 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [How long](https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [I AM JAS](https://open.spotify.com/artist/1tWUf08fZUPQYWI5bfPMTM) | [How long](https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr) | 6:44 | 2022-04-13 |  |
 | [Hwel El Wed](https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6) | [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sunset Camel Ride](https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX) | 5:55 | 2022-04-13 |  |
 | [Imagine \- Abel Ray Remix](https://open.spotify.com/track/0mWWFK0slXWNKYdWmkMbDD) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Buddy System Remixed](https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2) | 7:02 | 2022-06-09 |  |
+| [Imagine \- Abel Ray Remix \- Mixed](https://open.spotify.com/track/7cNkTZhYHQyeR5ya1csbvT) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Sol Voyage 004 \- Night In The Medina \(DJ Mix\)](https://open.spotify.com/album/717xz0OL00IGZr2vA9mztH) | 5:42 | 2022-06-15 |  |
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
 | [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
@@ -71,6 +72,7 @@
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2022-04-13 |  |
 | [Oud Dreams \(feat\. The Spy From Cairo\) \- Pattern Drama & Kellam Remix](https://open.spotify.com/track/6ymCppoGyTwqt17DMt6xVg) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS), [Kellam](https://open.spotify.com/artist/5jlkvfhZQIQM6O8CXQTYUD), [Pattern Drama](https://open.spotify.com/artist/0NOTKMhONUvL0OVDCRVCdW) | [Lunar Dreams](https://open.spotify.com/album/2keSq7gnUL3wwjHK1aS2iG) | 8:12 | 2022-04-13 |  |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-13 |  |
+| [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 | 2022-06-15 |  |
 | [Reciprocity \- Main Mix](https://open.spotify.com/track/6ZXwOcG6Fv8o5CqClFR4kw) | [Moon Rocket](https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Reciprocity](https://open.spotify.com/album/31oNgHxGq2wuAK6GySc5xZ) | 6:43 | 2022-04-13 |  |
 | [Reshetka](https://open.spotify.com/track/5OOsTNjddctg0r1N1AtGSi) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Aciga Vurma](https://open.spotify.com/album/5M4YENiQ2zMfMtxyHWVJV7) | 7:33 | 2022-04-13 |  |
 | [Sabali](https://open.spotify.com/track/0qGPPBNHicENPAfFKBxii2) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Aura](https://open.spotify.com/album/1J9KsdksTLNcUCj8xK8MAk) | 5:18 | 2022-05-30 |  |

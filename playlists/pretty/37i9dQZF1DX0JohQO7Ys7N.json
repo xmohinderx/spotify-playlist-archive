@@ -1,12 +1,12 @@
 {
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd?si=a2EvUKURTMSmoiISq_5yyA\"> Amara Tari </a>",
-  "num_followers": 4904,
+  "num_followers": 4933,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg0NzAzOCwwMDAwMDAxODAwMDAwMTgxNGM5MWUzNDQwMDAwMDE4MTRjOTBhMDNi",
+  "snapshot_id": "MTY1NTQxMzE0MCwwMDAwMDAxOTAwMDAwMTgxNmU0ZmVhOGYwMDAwMDE4MTRjOTBhMDNi",
   "tracks": [
     {
       "added_at": "2022-06-10 07:43:58",
@@ -23,22 +23,6 @@
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
-    },
-    {
-      "added_at": "2022-05-26 20:59:00",
-      "album": {
-        "name": "MY WAY:VOLUME II",
-        "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
-      },
-      "artists": [
-        {
-          "name": "Wendy Kay",
-          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -73,6 +57,42 @@
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
+      "added_at": "2022-05-26 20:59:00",
+      "album": {
+        "name": "MY WAY:VOLUME II",
+        "url": "https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti"
+    },
+    {
+      "added_at": "2022-06-16 20:59:00",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
+      },
+      "artists": [
+        {
+          "name": "Kuiyu",
+          "url": "https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD"
+        },
+        {
+          "name": "Wambura Mugo",
+          "url": "https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96"
+        }
+      ],
+      "duration_ms": 247438,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8"
+    },
+    {
       "added_at": "2022-05-12 20:59:00",
       "album": {
         "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
@@ -91,6 +111,22 @@
       "duration_ms": 205953,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Aki Wewe",
+        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
+      },
+      "artists": [
+        {
+          "name": "Kwame R\u00edg\u00edi",
+          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Aki Wewe",
+      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
     },
     {
       "added_at": "2022-03-31 20:59:00",
@@ -143,22 +179,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Aki Wewe",
-        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
-      },
-      "artists": [
-        {
-          "name": "Kwame R\u00edg\u00edi",
-          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Aki Wewe",
-      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Loverman (Acoustic)",
         "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
       },
@@ -175,6 +195,38 @@
       "duration_ms": 174889,
       "name": "Loverman - Acoustic",
       "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Baisikeli",
+        "url": "https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1"
+      },
+      "artists": [
+        {
+          "name": "Valerie Kimani",
+          "url": "https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Nguga Ii",
+      "url": "https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP"
+    },
+    {
+      "added_at": "2022-06-16 20:59:00",
+      "album": {
+        "name": "Welcome 2 My Soul",
+        "url": "https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ"
+      },
+      "artists": [
+        {
+          "name": "Antoneosoul",
+          "url": "https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T"
+        }
+      ],
+      "duration_ms": 272926,
+      "name": "Switch It Up",
+      "url": "https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -335,18 +387,18 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Baisikeli",
-        "url": "https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
       },
       "artists": [
         {
-          "name": "Valerie Kimani",
-          "url": "https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW"
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Nguga Ii",
-      "url": "https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP"
+      "duration_ms": 208235,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
     },
     {
       "added_at": "2022-04-28 20:59:00",
@@ -527,22 +579,6 @@
       "duration_ms": 215000,
       "name": "Kama Wee",
       "url": "https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
-      },
-      "artists": [
-        {
-          "name": "Muthaka",
-          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
-        }
-      ],
-      "duration_ms": 208235,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -947,38 +983,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Usiende Mbali",
-        "url": "https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carmona",
-          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
-        },
-        {
-          "name": "Romantico",
-          "url": "https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6"
-        },
-        {
-          "name": "Samaki Mkuu",
-          "url": "https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou"
-        },
-        {
-          "name": "Jabali Afrika",
-          "url": "https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC"
-        },
-        {
-          "name": "Sanaipei Tande",
-          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
-        }
-      ],
-      "duration_ms": 274271,
-      "name": "Usiende Mbali",
-      "url": "https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Hayawi Hayawi",
         "url": "https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK"
       },
@@ -1007,22 +1011,6 @@
       "duration_ms": 228413,
       "name": "Nice Car",
       "url": "https://open.spotify.com/track/1m7tvMnLjtzNiFxj5QKBTP"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Lowkey",
-        "url": "https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 170458,
-      "name": "Lowkey",
-      "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
     },
     {
       "added_at": "2021-12-28 14:30:06",

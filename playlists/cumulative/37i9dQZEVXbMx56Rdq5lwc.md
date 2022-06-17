@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-740 songs - 1 day 16 hr 16 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+741 songs - 1 day 16 hr 18 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [MASSA](https://open.spotify.com/track/2goHCrsDJaflEwQ930ef0o) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 3:43 | 2021-06-27 | 2021-06-28 |
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-21 | 2021-06-13 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-06-09 |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-16 |  |
 | [McQueen](https://open.spotify.com/track/7d8a8GcJ9INSFv2XFvsuD4) | [JuS CODE](https://open.spotify.com/artist/5jIBxku5Gh5PyOhp5CDtXM) | [McQueen](https://open.spotify.com/album/73wcGIFqY0E4o8TO0THN7h) | 1:46 | 2021-04-14 | 2021-04-16 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-15 | 2022-01-17 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-07 | 2021-12-30 |
@@ -534,7 +535,7 @@
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-03-27\* | 2021-04-02 |
 | [Rockstarai](https://open.spotify.com/track/1HBVbK5I2u0ZenTQfR8ikY) | [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Rockstarai](https://open.spotify.com/album/3eG60ZtevSxP4suerADKDu) | 2:18 | 2022-02-04 | 2022-02-09 |
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-16 | 2022-05-22 |
-| [Rojaus Obuoliukai](https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd) | [Zoliukas](https://open.spotify.com/artist/5UMBDbfFBWCn8pNXjuJFco), [Saules Berniukas](https://open.spotify.com/artist/2BjNbf0PD04vy1UohantXO) | [Rojaus Obuoliukai](https://open.spotify.com/album/38k7fvht8IiZg8U86hZjWJ) | 3:31 | 2022-04-11 |  |
+| [Rojaus Obuoliukai](https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd) | [Zoliukas](https://open.spotify.com/artist/5UMBDbfFBWCn8pNXjuJFco), [Saules Berniukas](https://open.spotify.com/artist/2BjNbf0PD04vy1UohantXO) | [Rojaus Obuoliukai](https://open.spotify.com/album/38k7fvht8IiZg8U86hZjWJ) | 3:31 | 2022-04-11 | 2022-06-17 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-05-18 |
 | [Rugpjūtis](https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rugpjūtis](https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO) | 2:42 | 2021-07-11 |  |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-23 |

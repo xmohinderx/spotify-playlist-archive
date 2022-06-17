@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now\. Cover: SZA
 
-232 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+233 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,5 +240,6 @@
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2022-01-07 | 2022-03-19 |
 | [Wild Side \(feat\. KAYTRANADA\) \- KAYTRANADA Remix](https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Wild Side \(feat\. KAYTRANADA\) \[KAYTRANADA Remix\]](https://open.spotify.com/album/2VzKdDTQMJ8VReWnmEOiSN) | 4:24 | 2021-12-31 | 2022-01-08 |
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-20 |  |
+| [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 | 2022-06-10 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

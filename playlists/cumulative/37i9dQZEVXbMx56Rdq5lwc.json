@@ -7486,6 +7486,24 @@
     },
     {
       "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "album": {
         "name": "McQueen",
         "url": "https://open.spotify.com/album/73wcGIFqY0E4o8TO0THN7h"
       },
@@ -10359,7 +10377,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 211276,
       "name": "Rojaus Obuoliukai",
       "url": "https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd"

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1960s.
 
-132 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/5ZoqYR2lavGnY9ro4aXkn7)
+134 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/5ZoqYR2lavGnY9ro4aXkn7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 | 2021-04-07 |  |
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2021-04-07 |  |
 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 | 2021-04-07 |  |
+| [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 | 2022-06-16 |  |
 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 | 2021-04-07 |  |
 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 | 2021-04-07 |  |
 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Collections](https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o) | 2:16 | 2021-04-07 |  |
@@ -53,6 +54,7 @@
 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 | 2021-04-07 |  |
 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 | 2021-04-07 |  |
 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 | 2021-04-07 |  |
+| [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 | 2022-06-16 |  |
 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 | 2021-04-07 |  |
 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 | 2021-04-07 |  |
 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 | 2021-08-19 |  |

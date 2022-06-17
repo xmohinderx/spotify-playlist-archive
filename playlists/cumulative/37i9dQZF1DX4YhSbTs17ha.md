@@ -2,9 +2,9 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Escucha las canciones de pop más exitosas en México\. Julieta Venegas en portada.
+> Escucha las canciones de pop más exitosas en México\. Llane y Danny Ocean en portada.
 
-161 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
+162 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 | 2022-02-04 |  |
 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 | 2022-02-04 | 2022-04-19 |
 | [De Pies a Cabeza](https://open.spotify.com/track/1wTuF2qEjsKUCwTTrennmx) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [De Pies a Cabeza](https://open.spotify.com/album/1uuumfrsBCVJ8QGO8kHSL4) | 3:04 | 2022-02-04 | 2022-02-26 |
-| [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2022-05-20 |  |
+| [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2022-05-20 | 2022-06-17 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 |  |
 | [Dos Veces](https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Dos Veces](https://open.spotify.com/album/4BchCVcAvu2fNGjqiqFFJe) | 2:25 | 2022-02-04 | 2022-03-09 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-02-04 | 2022-02-12 |
@@ -53,6 +53,7 @@
 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 | 2022-02-04 | 2022-03-18 |
 | [Esa Parte De Mí](https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte De Mí](https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi) | 3:35 | 2022-04-22 |  |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-25 |  |
+| [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2022-06-17 |  |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-02-18 |  |
 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 | 2022-02-04 |  |

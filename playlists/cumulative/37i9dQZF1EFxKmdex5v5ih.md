@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+167 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 | 2021-12-27 |  |
 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 | 2021-12-27 |  |
 | [Talk You Down](https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:36 | 2021-12-27 |  |
+| [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 | 2022-06-16 |  |
 | [Tattoos Together](https://open.spotify.com/track/1Srt81FTalOhRw7t7l8Yh8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:06 | 2021-12-27 |  |
 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 | 2021-12-27 |  |
 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 | 2021-12-27 |  |

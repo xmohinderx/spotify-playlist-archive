@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Ginevra Nervi
+> La scena italiana indipendente, senza etichette di genere\. Cover: Asteria
 
-252 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+253 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [goddamn](https://open.spotify.com/track/3BLgoDnKegcilQMQvcCl1W) | [mt36](https://open.spotify.com/artist/4u8sH1UCcEeS6lke6At8Fi), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [goddamn](https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR) | 2:06 | 2022-02-17 | 2022-03-04 |
 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-19 |  |
 | [Harem](https://open.spotify.com/track/56DscQnCfTx3Mrzg0ilNYc) | [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ) | [Harem](https://open.spotify.com/album/2s69BagRedQ4zcbebXoP9s) | 2:58 | 2022-01-06 | 2022-02-18 |
-| [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 | 2022-04-08 |  |
+| [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 | 2022-04-08 | 2022-06-17 |
 | [HOUDINI](https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA) | [Franek Windy](https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [HOUDINI](https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM) | 2:32 | 2022-04-19 | 2022-06-10 |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-04-08 | 2022-06-10 |
 | [How I Became A House](https://open.spotify.com/track/0D8ehZMw3J9KO0ELNXMyyh) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [How I Became A House](https://open.spotify.com/album/4Vr4N8QUW8kCerju7BJgyh) | 2:59 | 2022-01-06 | 2022-02-18 |
@@ -231,6 +231,7 @@
 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 | 2022-02-17 | 2022-03-04 |
 | [TIK TOK](https://open.spotify.com/track/2CU6hINQcXZMSbDxqNx4e3) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ), [DADE](https://open.spotify.com/artist/4a4Z6T50vqK7J1kjrYm2Uq) | [TIK TOK](https://open.spotify.com/album/4PnRlQHLqIRIEnZ60TaxcB) | 3:28 | 2022-02-17 | 2022-03-04 |
 | [TMF](https://open.spotify.com/track/6Za2ZF3ctanRniLU1hXJ3M) | [sammy blue](https://open.spotify.com/artist/7aRm2RlNT8gBqLSnwIpucj), [hesoyam](https://open.spotify.com/artist/2EV4gXNpNuS57zFoBsfbAF), [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6) | [TMF](https://open.spotify.com/album/0S6mglSGyOPD9RhUMY5nAc) | 2:21 | 2022-01-06 | 2022-02-18 |
+| [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-06-16 |  |
 | [traccia // di me](https://open.spotify.com/track/49ncamtE5UYI9jyVUGUHxW) | [Why, the Moon](https://open.spotify.com/artist/0ealn2IOVIzlIY9G1wIUzq) | [traccia // di me](https://open.spotify.com/album/42YNxMjEKmwLfWym4wIbxc) | 3:34 | 2022-01-06 | 2022-02-18 |
 | [Trappole](https://open.spotify.com/track/2qq83QNNMoSkhvysXSzk5Z) | [CASEMURATE](https://open.spotify.com/artist/0XW9hp8oaDssenWWFn75NM) | [Trappole](https://open.spotify.com/album/4z0IbTTSBwCx7DgmaLb4Xs) | 2:46 | 2022-03-17 | 2022-04-20 |
 | [tre del mattino](https://open.spotify.com/track/5JBJweytMZUsriXUWCXb6D) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [Franky G](https://open.spotify.com/artist/74hfxBSPsCgFXVaH4gMv5L) | [tre del mattino](https://open.spotify.com/album/7lZqqQEAjinqJEfkuXZ7Ry) | 3:12 | 2022-02-22 | 2022-03-04 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-415 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+420 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Chillhop Music](https://open.spotify.com/artist/1KuJ3XnrXBVJ1q8uhyhu3O) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-04-15 |  |
 | [Cold\-Water Feels](https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:13 | 2022-06-10 |  |
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-15 |  |
+| [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 |  |
 | [Controlled Chaos](https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Controlled Chaos](https://open.spotify.com/album/2LcmG3z9Yx1KJnMnFeHpni) | 2:13 | 2022-04-15 |  |
@@ -162,6 +163,7 @@
 | [Jazzy Attitude](https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7) | [Lush Groovebox](https://open.spotify.com/artist/1XUvAB59xTBce6cacKHuNj) | [Mellow Horizon](https://open.spotify.com/album/4XF3GKpWQuTQHemR24784t) | 1:28 | 2022-04-15 |  |
 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 | 2022-04-15 |  |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-04-15 | 2022-05-20 |
+| [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2022-06-17 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-04-15 | 2022-05-14 |
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-15 |  |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2022-04-15 |  |
@@ -227,10 +229,12 @@
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-04-15 |  |
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-15 |  |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
+| [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 |  |
 | [nightdrive](https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [nightdrive](https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ) | 2:02 | 2022-04-15 | 2022-05-27 |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 |  |
 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 | 2022-06-10 |  |
+| [Oase](https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU) | [Mo Anando](https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH) | [Oase](https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa) | 4:45 | 2022-06-17 |  |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2022-04-15 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 |  |
 | [Old Station](https://open.spotify.com/track/7AkXVemlM82Kzf5UgwRllt) | [Sunday Mode](https://open.spotify.com/artist/3PSRhjSFWiUbcwtNVJDt4J) | [Old Station](https://open.spotify.com/album/6hToJyqXTZCfjtk80u4VtL) | 1:36 | 2022-04-15 |  |
@@ -244,7 +248,7 @@
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2022-04-15 |  |
 | [out there](https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [out there](https://open.spotify.com/album/4jUQoI5Gb7IpUWeIEVaBen) | 2:10 | 2022-04-15 |  |
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2022-04-15 |  |
-| [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 |  |
+| [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 | 2022-06-17 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-04-15 |  |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-04-15 | 2022-06-03 |
 | [Pastel](https://open.spotify.com/track/3yyOBSQN3E1x7DSqLiXRd8) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Pastel](https://open.spotify.com/album/2t0cZeqFg5aXpzzguHOE0w) | 3:00 | 2022-06-10 |  |
@@ -295,7 +299,7 @@
 | [Río Ocho](https://open.spotify.com/track/1cpPta2P0aGxUn6F6Up96n) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/3bdzsVb0iRXvXbjlH78Dd5) | 2:16 | 2022-04-15 |  |
 | [Sad Emoji](https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sad Emoji](https://open.spotify.com/album/6wJVzVhr5oSNfqzkTDCRez) | 2:15 | 2022-04-15 |  |
 | [Sade Ghi](https://open.spotify.com/track/5PVN3nc3S5D6ZwT85qm3fB) | [Ellie.](https://open.spotify.com/artist/3jDAiLLOPnbZb73uG56jVF) | [Favorite Smile](https://open.spotify.com/album/1mj8BnVTLloQOwl8Rcq81K) | 1:58 | 2022-04-15 |  |
-| [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 |  |
+| [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 | 2022-04-15 |  |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2022-04-15 | 2022-06-10 |
@@ -385,6 +389,7 @@
 | [tubulars](https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T) | [rob aspen](https://open.spotify.com/artist/51acBWR9xEgFguEAEj3jqV) | [tubulars](https://open.spotify.com/album/43cQfbyKgAQ6wNLs45gPcr) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [Turntable Tale](https://open.spotify.com/track/01L7KnIlkQVwAVpxbh3TKr) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Turntable Tale](https://open.spotify.com/album/4XacEvaFzX4GdDkUV6x1E9) | 2:59 | 2022-04-15 |  |
 | [Twenty Five](https://open.spotify.com/track/7oPJZwkiW8zL14iKafLKu4) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Twenty Five](https://open.spotify.com/album/1e8dg8wOw5eOfc7a3Qvixg) | 1:59 | 2022-04-15 |  |
+| [Twinkle of Night](https://open.spotify.com/track/33TPeixISqICO4DwD6bZIB) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/4bLMle8oRWghYRpwLww7dL) | 2:57 | 2022-06-17 |  |
 | [Two Margaritas Please](https://open.spotify.com/track/7yljYFhmlXd9N9JkM07ps5) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Two Margaritas Please](https://open.spotify.com/album/4mAhVAyMEcPlFdRM6yIvBF) | 2:08 | 2022-04-15 |  |
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-04-15 |  |
 | [Ubud Sun](https://open.spotify.com/track/11IDICxxV514u6S6IrOqQj) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Ubud Sun](https://open.spotify.com/album/4ZN0jzmRIm9LRnZKdBWJlW) | 3:18 | 2022-04-15 |  |

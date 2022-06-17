@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Myd
+> The best French indie tracks right now\. Cover: Adèle Castillon
 
-135 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+138 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Disco Dream](https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a) | [Toukan Toukän](https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH) | [Disco Dream](https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi) | 3:22 | 2021-12-16 | 2022-04-29 |
 | [Distant Calls](https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Distant Calls](https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN) | 2:44 | 2021-12-16 |  |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-06-09 |  |
-| [Don't Wait For Me](https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Don't Wait For Me](https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG) | 2:58 | 2022-05-12 |  |
+| [Don't Wait For Me](https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Don't Wait For Me](https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG) | 2:58 | 2022-05-12 | 2022-06-17 |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 | 2022-06-10 |
 | [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 |  |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
@@ -48,6 +48,7 @@
 | [Forever](https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever](https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY) | 3:45 | 2022-03-24 | 2022-04-08 |
 | [Get to Me](https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Leo Fifty Five](https://open.spotify.com/artist/1ytH8uFCe1l9mxfqUUnYMF) | [Get to Me](https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp) | 3:08 | 2021-12-16 | 2022-01-21 |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 | 2022-04-08 |
+| [Havana](https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Havana](https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr) | 2:42 | 2022-06-16 |  |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
 | [Holidays](https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [Pirogue](https://open.spotify.com/album/41akXmvvyrc6hd7P3zfnfn) | 3:41 | 2022-04-14 |  |
 | [Hometown](https://open.spotify.com/track/4Ixz0HGptQPRbZTXADWUfg) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Chapters](https://open.spotify.com/album/6tohQzrYlnWEqctbpz9aRy) | 3:28 | 2022-06-09 |  |
@@ -93,7 +94,7 @@
 | [Noir \- Radio Edit](https://open.spotify.com/track/3w5V2euF3wWJnZkkt0QBxq) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Noir \(Radio Edit & Remixes\)](https://open.spotify.com/album/1mAA1TuXTiymyRcdxALQ9j) | 2:41 | 2021-12-16 | 2022-02-04 |
 | [None of This Matters Now](https://open.spotify.com/track/5thKTyn54nRudRpBsZBa4t) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [None of This Matters Now](https://open.spotify.com/album/74OdkFyNbDjCKhTpc0MVCn) | 3:41 | 2021-12-16 | 2022-01-21 |
 | [Nos regards](https://open.spotify.com/track/3EpySzSXQYevKTq1glwGos) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt) | [Nos regards](https://open.spotify.com/album/294I1T2kvMnmf497xY7E64) | 3:30 | 2021-12-16 | 2022-01-14 |
-| [Nostalgique](https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Nostalgique](https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3) | 2:46 | 2022-02-03 |  |
+| [Nostalgique](https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Nostalgique](https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3) | 2:46 | 2022-02-03 | 2022-06-17 |
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2021-12-16 | 2022-02-18 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-06-03 |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-16 | 2022-01-28 |
@@ -110,7 +111,8 @@
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 |  |
-| [Sexfriend](https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Nuit louve](https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff) | 2:33 | 2022-05-19 |  |
+| [Sexfriend](https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Nuit louve](https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff) | 2:33 | 2022-05-19 | 2022-06-17 |
+| [Shaker de l'amour](https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Cocktail](https://open.spotify.com/album/454coNUsv9xHlpSzn4bsJA) | 3:57 | 2022-06-16 |  |
 | [Shining Light](https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr) | 3:37 | 2021-12-16 | 2022-05-13 |
 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 | 2022-05-12 | 2022-06-03 |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-03-31 | 2022-05-13 |
@@ -143,5 +145,6 @@
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 |  |
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 |  |
 | [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 |  |
+| [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

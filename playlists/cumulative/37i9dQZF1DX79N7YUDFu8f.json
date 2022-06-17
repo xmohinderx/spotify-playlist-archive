@@ -434,6 +434,28 @@
     },
     {
       "album": {
+        "name": "Goodfoot",
+        "url": "https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Goodfoot",
+      "url": "https://open.spotify.com/track/1IIyu0Co26sd9VmDFi3Mt1"
+    },
+    {
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4fZKOgdH3X72AKQRrrlc9l"
       },
@@ -1867,7 +1889,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 229238,
       "name": "Wake Up This Day",
       "url": "https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe"

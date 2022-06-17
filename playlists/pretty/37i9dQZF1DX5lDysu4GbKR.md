@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,536 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,609 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 2 | [I Can't Make You Love Me \- Live at the Auckland Town Hall](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I Can't Make You Love Me \(Live at the Auckland Town Hall\)](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 |
 | 3 | [Colors \- Acoustic](https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/4qCOopm0NNnTIs92GoQKnm) | 5:23 |
 | 4 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 |
-| 5 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
-| 6 | [Feet Don't Fail Me Now \- Live Acoustic Version](https://open.spotify.com/track/5h9DWBKM0eXCsKIemi0nyM) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now \(Live Acoustic Version\)](https://open.spotify.com/album/4JGBm9QfSWxAZvO5wgotj8) | 3:26 |
-| 7 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 |
-| 8 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
-| 9 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
-| 10 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 |
-| 11 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [For Real\. \(Acoustic\)](https://open.spotify.com/album/24RKf3d0OpuUoJtWj4hgmT) | 4:14 |
-| 12 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 |
-| 13 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 |
-| 14 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/19hHkHNqoDb55MoLLvpPG3) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gold \(Live at Subfrantic\)](https://open.spotify.com/album/5qlO0CJBcPPzIDLaJkI32K) | 3:30 |
-| 15 | [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 |
+| 5 | [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 |
+| 6 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
+| 7 | [Feet Don't Fail Me Now \- Live Acoustic Version](https://open.spotify.com/track/5h9DWBKM0eXCsKIemi0nyM) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now \(Live Acoustic Version\)](https://open.spotify.com/album/4JGBm9QfSWxAZvO5wgotj8) | 3:26 |
+| 8 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 |
+| 9 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
+| 10 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
+| 11 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 |
+| 12 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [For Real\. \(Acoustic\)](https://open.spotify.com/album/24RKf3d0OpuUoJtWj4hgmT) | 4:14 |
+| 13 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 |
+| 14 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 |
+| 15 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/19hHkHNqoDb55MoLLvpPG3) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gold \(Live at Subfrantic\)](https://open.spotify.com/album/5qlO0CJBcPPzIDLaJkI32K) | 3:30 |
 | 16 | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/track/325oE43qXw4fAredssR2y9) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/album/2kQBeFVxFXSA5eKhoUYFyP) | 3:30 |
 | 17 | [Stronger Than](https://open.spotify.com/track/5BhEJz8HuJttbVbKNJ3NFO) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [One](https://open.spotify.com/album/4Jf5anF31w9IHg9EUa6FSQ) | 4:26 |
 | 18 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 |
 | 100 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY1NDIwNzg0MywwMDAwMDA4ZDAwMDAwMTgxMjY3ODhiMzYwMDAwMDE3ZDEzOTQ1MDcx`
+Snapshot ID: `MTY1NTQxNjgwMCwwMDAwMDA4ZTAwMDAwMTgxNmU4N2MzYjMwMDAwMDE3ZDEzOTQ1MDcx`

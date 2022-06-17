@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "At The Hoffman's",
+        "url": "https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM"
+      },
+      "artists": [
+        {
+          "name": "C-90",
+          "url": "https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140259,
+      "name": "At The Hoffman's",
+      "url": "https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o"
+    },
+    {
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI"
       },
@@ -1420,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "drop the ball",
+        "url": "https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw"
+      },
+      "artists": [
+        {
+          "name": "You're Good",
+          "url": "https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209650,
+      "name": "drop the ball",
+      "url": "https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl"
+    },
+    {
+      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM"
       },
@@ -1492,6 +1528,50 @@
     },
     {
       "album": {
+        "name": "Knit",
+        "url": "https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz"
+      },
+      "artists": [
+        {
+          "name": "Inue",
+          "url": "https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Encapsulation",
+      "url": "https://open.spotify.com/track/6luvhGwShtZChuy2LuiWFn"
+    },
+    {
+      "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/04YdOVml7kXJN985zOOHPX"
+      },
+      "artists": [
+        {
+          "name": "Ghostnaut",
+          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        },
+        {
+          "name": "Lunath",
+          "url": "https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/1Kqx9kj7twQEexWCa4WHUZ"
+    },
+    {
+      "album": {
         "name": "Cielo Infinito",
         "url": "https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH"
       },
@@ -1561,6 +1641,46 @@
       "duration_ms": 278593,
       "name": "Everything Is Beautiful",
       "url": "https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09"
+    },
+    {
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz"
+      },
+      "artists": [
+        {
+          "name": "Lomme",
+          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
+        },
+        {
+          "name": "Elk Beats",
+          "url": "https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr"
+    },
+    {
+      "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn"
+      },
+      "artists": [
+        {
+          "name": "Technicyan",
+          "url": "https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121300,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK"
     },
     {
       "album": {
@@ -4864,6 +4984,24 @@
     },
     {
       "album": {
+        "name": "Swimma",
+        "url": "https://open.spotify.com/album/7cX31Tag9Fn9OBSrd8cLIG"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "Swimma",
+      "url": "https://open.spotify.com/track/5b5keQTPfxtm8F3OZ47ck2"
+    },
+    {
+      "album": {
         "name": "Tastes Good",
         "url": "https://open.spotify.com/album/4SsTht64ubSec67F8Z1F2G"
       },
@@ -5041,6 +5179,24 @@
       "duration_ms": 138214,
       "name": "Through The Lense",
       "url": "https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB"
+    },
+    {
+      "album": {
+        "name": "Through The Wildness",
+        "url": "https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs"
+      },
+      "artists": [
+        {
+          "name": "Inovalin Trem",
+          "url": "https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110214,
+      "name": "Through The Wildness",
+      "url": "https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi"
     },
     {
       "album": {

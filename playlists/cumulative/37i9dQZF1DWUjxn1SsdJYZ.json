@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "ANGEL EYES",
+        "url": "https://open.spotify.com/album/7tf6sADlCZxD5z1AbrgrHu"
+      },
+      "artists": [
+        {
+          "name": "Jay Zayat",
+          "url": "https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150222,
+      "name": "ANGEL EYES",
+      "url": "https://open.spotify.com/track/3US0FSC1DGuYLuRGAK95z7"
+    },
+    {
+      "album": {
         "name": "Area Baby",
         "url": "https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog"
       },
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 161201,
       "name": "Area Baby",
       "url": "https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 196363,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 206857,
       "name": "Crowd Pleaza",
       "url": "https://open.spotify.com/track/6Jmg6uqMCjRRnKCpAEvcCZ"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 132947,
       "name": "HBK",
       "url": "https://open.spotify.com/track/5BQrvs3AkPzy9bp1Jv8dDr"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 237010,
       "name": "Lockdown Party",
       "url": "https://open.spotify.com/track/1hxWMYOIP6r8mi6uBq6Kpx"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 189746,
       "name": "Pray For More feat. Lisi and Mikey Dam",
       "url": "https://open.spotify.com/track/4NVlydgjPhygEBpagUquGK"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 239750,
       "name": "Relocate",
       "url": "https://open.spotify.com/track/7vYiIVj8fMlWuzKHomyNhr"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 167428,
       "name": "Treble",
       "url": "https://open.spotify.com/track/79IieVaTMmfD79WBUODypS"

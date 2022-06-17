@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Lens",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 231555,
       "name": "Again",
       "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 187885,
       "name": "Amazing (feat. Agent Sasco)",
       "url": "https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Bad To Me (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
@@ -438,6 +438,28 @@
     },
     {
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "album": {
         "name": "Blame EP",
         "url": "https://open.spotify.com/album/272qJn5xVuSyVuGelX1Bhc"
       },
@@ -533,7 +555,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -995,7 +1017,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 319620,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP"
@@ -1298,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203071,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
+    },
+    {
+      "album": {
         "name": "Finesse Riddim",
         "url": "https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9"
       },
@@ -1383,7 +1423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 203669,
       "name": "Foreign Things - High Contrast Remix",
       "url": "https://open.spotify.com/track/7bFQIe9eSrg3iQlwjmoTcY"
@@ -1427,7 +1467,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
@@ -1715,7 +1755,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -1918,6 +1958,28 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249655,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN"
+    },
+    {
+      "album": {
         "name": "It\u2019s Time",
         "url": "https://open.spotify.com/album/1CmZoNt8b3UioFjrZo7MXe"
       },
@@ -2069,7 +2131,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 290039,
       "name": "Kiss Kiss Bang Bang - Bou Remix",
       "url": "https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT"
@@ -2197,7 +2259,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 273103,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6xPMLRHQFWxZC9ylfRmdBk"
@@ -2413,7 +2475,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 188813,
       "name": "Never Let You Down (feat. Penny Ivy)",
       "url": "https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G"
@@ -2751,7 +2813,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 257980,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/4OMtMXbSSN90pL8X33efqs"
@@ -2795,7 +2857,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 267907,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4HRVvrMFXvtSnw3J3knPV1"
@@ -2883,7 +2945,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 270697,
       "name": "Return Of Forever - Camo & Krooked & Mefjus Remix",
       "url": "https://open.spotify.com/track/5EmRq15Ay5NKkxAlLmj9Q9"
@@ -3069,7 +3131,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
@@ -3167,7 +3229,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 250660,
       "name": "Shell",
       "url": "https://open.spotify.com/track/0TaxcAN1TjZHvFmwrY5SXw"
@@ -3185,7 +3247,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 198620,
       "name": "Shut Ya Mouth",
       "url": "https://open.spotify.com/track/0FIxD96rwitigRYZaTlD2m"
@@ -3649,7 +3711,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 226895,
       "name": "Take It Away",
       "url": "https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq"
@@ -3671,7 +3733,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"
@@ -3707,7 +3769,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 237241,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7bU2BGexbMUO1eUndIbNIX"
@@ -3804,6 +3866,28 @@
     },
     {
       "album": {
+        "name": "The Swarm / Hysteria",
+        "url": "https://open.spotify.com/album/5sLkqrD0IfgkdnrIavsciN"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262921,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh"
+    },
+    {
+      "album": {
         "name": "There and Back",
         "url": "https://open.spotify.com/album/2B30tN0uqPernFHgIHV4SS"
       },
@@ -3895,7 +3979,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -4023,7 +4107,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 274364,
       "name": "VENGEANCE",
       "url": "https://open.spotify.com/track/4TWzFH0TcuQlWYjQK7D6pb"
@@ -4137,7 +4221,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 250101,
       "name": "Want U There - Logistics Remix",
       "url": "https://open.spotify.com/track/7xzfAzZ2jOf7XNOt85D4py"
@@ -4341,7 +4425,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 326750,
       "name": "Yeah Ya Kno",
       "url": "https://open.spotify.com/track/45xYxgfapnCZ1aacoxE73b"

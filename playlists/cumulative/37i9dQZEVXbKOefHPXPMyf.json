@@ -288,28 +288,6 @@
     },
     {
       "album": {
-        "name": "La Nota Cr (Live)",
-        "url": "https://open.spotify.com/album/7Lz9KxVBYgs6uZPDYIyju0"
-      },
-      "artists": [
-        {
-          "name": "La Nota Cr",
-          "url": "https://open.spotify.com/artist/1gRyaryP4dbG04go3oPrwT"
-        },
-        {
-          "name": "William Fallas",
-          "url": "https://open.spotify.com/artist/5rPtsj4oXI7osEU28D44dl"
-        }
-      ],
-      "date_added": "2022-06-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247654,
-      "name": "Ag\u00e1rrense De Las Manos",
-      "url": "https://open.spotify.com/track/1HX93DYZMF1lCPMW5z3ck2"
-    },
-    {
-      "album": {
         "name": "Ag\u00e1rrense De Las Manos",
         "url": "https://open.spotify.com/album/3hZl47xIvWjpRLqNvXqUf7"
       },
@@ -333,6 +311,28 @@
       "duration_ms": 247640,
       "name": "Ag\u00e1rrense De Las Manos",
       "url": "https://open.spotify.com/track/1OwyqP56LVRleTumTV4yUF"
+    },
+    {
+      "album": {
+        "name": "La Nota Cr",
+        "url": "https://open.spotify.com/album/7Lz9KxVBYgs6uZPDYIyju0"
+      },
+      "artists": [
+        {
+          "name": "La Nota Cr",
+          "url": "https://open.spotify.com/artist/1gRyaryP4dbG04go3oPrwT"
+        },
+        {
+          "name": "William Fallas",
+          "url": "https://open.spotify.com/artist/5rPtsj4oXI7osEU28D44dl"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247654,
+      "name": "Ag\u00e1rrense De Las Manos - La Selecci\u00f3n de F\u00fatbol de CR",
+      "url": "https://open.spotify.com/track/1HX93DYZMF1lCPMW5z3ck2"
     },
     {
       "album": {
@@ -3954,6 +3954,24 @@
     },
     {
       "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180751,
+      "name": "La MVP",
+      "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
+    },
+    {
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -4099,7 +4117,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -6229,7 +6247,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -6585,6 +6603,24 @@
       "duration_ms": 234362,
       "name": "Sea Shanty Medley",
       "url": "https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2"
+    },
+    {
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "album": {
@@ -7031,7 +7067,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 193426,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62"
@@ -9025,7 +9061,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"

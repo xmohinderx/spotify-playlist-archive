@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-103 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2022-05-25 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2022-05-25 |  |
 | [Bare Emotions](https://open.spotify.com/track/2xf1SylC7l0lRJw6FKdHQK) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Bare Emotions](https://open.spotify.com/album/1zE88uy4qJ276809FC7Nzm) | 2:33 | 2022-05-25 |  |
+| [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 | 2022-06-16 |  |
 | [Binaural Alpha Sinus 147Hz \- 161Hz](https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Calm](https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E) | 3:07 | 2022-05-25 |  |
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2022-05-25 |  |
 | [Birdsong in Rain](https://open.spotify.com/track/7wF5Bahy07QdgmC12uWLzb) | [Dominic Moreau](https://open.spotify.com/artist/3zj0FV0H02AdCcjPY9yIwF) | [Watching the World](https://open.spotify.com/album/746JxOYr9id2Ati7LwL1la) | 4:02 | 2022-05-25 |  |

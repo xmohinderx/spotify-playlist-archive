@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: KIRE x Shi Shi \(孫盛希\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,031 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,062 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

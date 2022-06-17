@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a urb\u00f8i. \ud83c\udf0a\u2728 ",
+  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "published_playlist_ids": [
     "6I4k19QivQTwxJMIU1FW10"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84"
+      },
+      "artists": [
+        {
+          "name": "Valeria Scolari",
+          "url": "https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194884,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -929,6 +947,24 @@
       "duration_ms": 174923,
       "name": "I Like 2 Be",
       "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy"
+      },
+      "artists": [
+        {
+          "name": "ALONG",
+          "url": "https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "La Del Campo De Fresas",
+      "url": "https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG"
     },
     {
       "album": {
@@ -1491,6 +1527,32 @@
       "duration_ms": 243664,
       "name": "Navegantes",
       "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
+    },
+    {
+      "album": {
+        "name": "Necesito un Break de Tanta Pendejad*",
+        "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178741,
+      "name": "Necesito un Break de Tanta Pendejad*",
+      "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
     },
     {
       "album": {
@@ -2295,7 +2357,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"

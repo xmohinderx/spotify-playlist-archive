@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-225 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+228 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,12 @@
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-04-05 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2022-04-05 |  |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-05 | 2022-05-20 |
+| [Bogota](https://open.spotify.com/track/17mpv8NkdfBdmMrIZNVpOI) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [11 Out Of 10](https://open.spotify.com/album/5rl2ZreYI27Q69KNI77yBV) | 3:35 | 2022-06-17 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-05 |  |
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2022-04-05 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2022-04-05 |  |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-06-03 |  |
+| [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 | 2022-06-17 |  |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-04-05 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-04-05 |  |
 | [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 |  |
@@ -70,6 +72,7 @@
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2022-04-05 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-05 |  |
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2022-04-05 |  |
+| [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2022-04-05 |  |
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2022-04-05 |  |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2022-04-05 |  |

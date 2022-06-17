@@ -4,12 +4,12 @@
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-118 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+119 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |
-| [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 | 2021-12-09 |  |
+| [6 MONTHS](https://open.spotify.com/track/0IBpwTpWCFwDfuBapfzwu6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [6 MONTHS](https://open.spotify.com/album/74aG8GxnhEPQYtgoq6sgbB) | 4:01 | 2021-12-09 | 2022-06-17 |
 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 | 2021-12-09 |  |
 | [Addicted \- Acoustic version](https://open.spotify.com/track/4eJYkJ8YMhx2Q6vISpzQTC) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben.](https://open.spotify.com/album/2DqIcOBa5RWU1dX9id4M4u) | 3:48 | 2021-12-09 | 2022-05-06 |
 | [Ali](https://open.spotify.com/track/6MIBYuOl9utcgCkhcnwh4K) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS) | 3:12 | 2021-12-09 |  |
@@ -81,6 +81,7 @@
 | [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 |  |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 |  |
+| [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 | 2022-06-16 |  |
 | [Next To You \- Acoustic version](https://open.spotify.com/track/5pid4PH5JuHZILuJtPBunP) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You \(Acoustic version\)](https://open.spotify.com/album/1mdBhSCSWMMvsWetFgKrnU) | 3:53 | 2021-12-09 | 2022-02-10 |
 | [No Logic \- Acoustic](https://open.spotify.com/track/4XricRvFR3WttTtQoVJW2o) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic \(Acoustic\)](https://open.spotify.com/album/3eXhZTx4SKx1JBvOfTJEgE) | 2:50 | 2021-12-09 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-09 | 2022-04-09 |

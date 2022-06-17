@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-77 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+79 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Seven States Of Bliss](https://open.spotify.com/track/1dZczT24YixYv7YpIbY5eT) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4ZVfELsVXfYfu39mpanZDh) | 4:39 | 2022-03-30 |  |
 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 | 2022-03-30 |  |
 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 |  |
+| [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 |  |
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2022-03-30 |  |
@@ -85,5 +86,6 @@
 | [When we go](https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [When we go](https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7) | 3:27 | 2022-03-30 |  |
 | [Whispers](https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A) | [The Day Before Today](https://open.spotify.com/artist/7bpOMy71Wl6uiqIWXhQGOi) | [Whispers](https://open.spotify.com/album/6AdqX0VKoWgCO4EMPlJb2p) | 2:49 | 2022-03-30 |  |
 | [Wings](https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo) | [A House on the Hill](https://open.spotify.com/artist/6guLl7XQ3MXZoxBgbZXXM3) | [Wings](https://open.spotify.com/album/2MZzFLMncLZle4ZXlzqPTZ) | 2:46 | 2022-03-30 |  |
+| [worth the wait](https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [worth the wait](https://open.spotify.com/album/6T4h9RYefYVY4jUocwZFfI) | 2:05 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

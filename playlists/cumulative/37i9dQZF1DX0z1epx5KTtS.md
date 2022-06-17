@@ -2,14 +2,14 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Kedjevara
+> African dance party music from Paris to Abidjan\. Photo : Bello Falcao
 
-62 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+64 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 |  |
-| [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 |  |
+| [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 | 2022-05-27 |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 |  |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 |  |
@@ -18,6 +18,7 @@
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
+| [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 |  |
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 |  |
 | [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 |  |
 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 | 2022-06-09 |  |
@@ -38,6 +39,7 @@
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 |  |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 |  |
+| [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 |  |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 |  |
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |
@@ -48,11 +50,11 @@
 | [Le nyama](https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Le nyama](https://open.spotify.com/album/2BAoP5i5aAg4qJAGOjH9ij) | 3:45 | 2021-12-20 |  |
 | [Mami Wata](https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Mami Wata](https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6) | 2:52 | 2022-05-26 |  |
 | [Mapouka](https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO) | [TNT Family](https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6) | [12 Raisons](https://open.spotify.com/album/50VVd86np0xlYcTpibU37n) | 3:03 | 2022-06-02 |  |
-| [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 |  |
+| [MEME](https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [MEME](https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9) | 3:20 | 2021-12-20 | 2022-06-17 |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2021-12-20 | 2022-02-19 |
 | [Mon coupé décalé](https://open.spotify.com/track/5dcWqDjwZjo9yp6bGfWY1o) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Mon coupé décalé](https://open.spotify.com/album/1ezwwP8oJFETR8e3rfRsWk) | 4:15 | 2021-12-20 | 2022-02-19 |
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
-| [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 |  |
+| [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 | 2022-06-17 |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 |  |

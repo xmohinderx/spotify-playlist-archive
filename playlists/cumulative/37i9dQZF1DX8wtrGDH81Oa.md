@@ -4,13 +4,14 @@
 
 > Instrumental house for when you need to focus!
 
-154 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+159 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-15 |  |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-15 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-04-15 |  |
+| [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 |  |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-04-15 |  |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2022-04-15 | 2022-05-11 |
@@ -37,6 +38,7 @@
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 | 2022-06-10 |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2022-04-15 |  |
+| [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 |  |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2022-04-15 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2022-04-15 | 2022-06-10 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-04-15 |  |
@@ -130,6 +132,7 @@
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2022-04-15 |  |
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2022-04-15 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 |  |
+| [Ses Salines](https://open.spotify.com/track/3XSFQLLzrM1nDWh13A4eci) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Ses Salines](https://open.spotify.com/album/2oGLfb0Nv0cDcyO2FRwEk8) | 2:56 | 2022-06-17 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 |  |
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2022-04-15 | 2022-05-11 |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 |  |
@@ -158,9 +161,11 @@
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-05-11 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-15 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2022-04-15 |  |
+| [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 |  |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-15 |  |
 | [When We Were Suns](https://open.spotify.com/track/51LgENjsl5N0jRYYBSOT0R) | [Uki Luki](https://open.spotify.com/artist/34Uphq1taQuTAZxXEOiVjp) | [When We Were Suns](https://open.spotify.com/album/5Bp6FT43h0t2qI3X0ayuT1) | 4:15 | 2022-04-15 |  |
 | [Xhosa](https://open.spotify.com/track/3Cty5cCROsp5Q2bzlKyzRH) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Xhosa](https://open.spotify.com/album/2eFzpE5r2KpHKTuZ56zKP1) | 2:03 | 2022-04-15 |  |
+| [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

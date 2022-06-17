@@ -2,9 +2,9 @@
 
 ### [Halftime Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTHhW4hDVUUi)
 
-> Check out the Official Halftime Playlist\. Watch now on Netflix.
+> Check out Jennifer Lopez's Official Halftime playlist.
 
-28 songs - 1 hr 47 min - not published yet
+30 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/19UY68OCqwq2uivXfuMGl0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,8 @@
 | [Papi \- Rosabel Radio](https://open.spotify.com/track/6nq5VKMm8jc7ocZunJmprv) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Rosabel](https://open.spotify.com/artist/04RXSUzDTSz2OIOvlAYVAv) | [Papi \(Remixes\)](https://open.spotify.com/album/5TgNttysHVjCbGudLHqV2q) | 3:24 | 2022-06-14 |  |
 | [Play \- Sack International Remix](https://open.spotify.com/track/2Bx049h1X53Ov5cPva1NZj) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 4:18 | 2022-06-14 |  |
 | [Same Girl](https://open.spotify.com/track/6oWQXurUA9x29El6ioIqju) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Same Girl](https://open.spotify.com/album/2dfxmWlkqrhGbFDTi5Fkcb) | 3:30 | 2022-06-14 |  |
+| [Same Girl \(with French Montana\) \- Halftime Remix](https://open.spotify.com/track/2Xar8bp6rKIY8bOogzQ1HZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Same Girl \(with French Montana\) \[Halftime Remix\]](https://open.spotify.com/album/6BaYeNIzZzrIpAvGSRgcoc) | 4:20 | 2022-06-16 |  |
+| [This Land Is Your Land \(feat\. United States Marine Band\) \- 2021 Inauguration](https://open.spotify.com/track/3Qi3YhHKQs7gA8BKAkuWbS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [United States Marine Band](https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM) | [This Land Is Your Land \(feat\. United States Marine Band\) \[2021 Inauguration\]](https://open.spotify.com/album/0ABSa2wDLDCz5yhINC2cOe) | 2:56 | 2022-06-16 |  |
 | [Waiting for Tonight \- Hex's Momentous Radio Mix](https://open.spotify.com/track/5WD55ZJWhumwIDGau2Q9lM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 4:32 | 2022-06-14 |  |
 
 \*This playlist was first scraped on 2022-06-15. Prior content cannot be recovered.

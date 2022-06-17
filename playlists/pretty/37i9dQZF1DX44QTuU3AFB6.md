@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,876 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,903 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Aquí Abajo](https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:23 |
-| 40 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 |
-| 41 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 |
-| 42 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/4toVgPcbyFxBrTqh7irjEZ) | 2:24 |
-| 43 | [Me Equivoqué Contigo](https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 2:54 |
-| 44 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
-| 45 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
-| 46 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 |
-| 47 | [Un Puño De Tierra](https://open.spotify.com/track/5D8n9Aqnzk3WgVeiomIlTl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Vida Ranchera](https://open.spotify.com/album/4sWHZVgyWVgnDiCbHj4Agy) | 3:08 |
-| 48 | [El Clavo](https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Top Norteño](https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ) | 2:43 |
-| 49 | [Belleza De Cantina](https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q) | 3:03 |
-| 50 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
+| 39 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
+| 40 | [El Sillón](https://open.spotify.com/track/4ORwLXI423yg5dSq8bHBH2) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Sillón](https://open.spotify.com/album/4icpOgfnYMyrJTFRGYWif0) | 3:19 |
+| 41 | [Quién Es Usted](https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:33 |
+| 42 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
+| 43 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 |
+| 44 | [Hoy Platiqué Con Mi Gallo](https://open.spotify.com/track/1DV9G0TGdgKLxrJCKUw9nw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Hoy Platique Con Mi Gallo](https://open.spotify.com/album/6PP466aN2SdljvXrO5GXvk) | 3:39 |
+| 45 | [Me Trai Loquito \- En Vivo](https://open.spotify.com/track/0zbBdYxWBg59U7qCEjiN0b) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:29 |
+| 46 | [El Golpe Avisa](https://open.spotify.com/track/40i6tTcUOZ0XlzRXS0rOyW) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Emilio Garra](https://open.spotify.com/album/7eXf8TK9XzmQHmaGDlW7pv) | 3:30 |
+| 47 | [Mi Gusto Es](https://open.spotify.com/track/4Wj4cg6ZA7JM7ZDd2C0X1Y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida](https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc) | 3:04 |
+| 48 | [Hoy Voy a Olvidarte](https://open.spotify.com/track/4fb84fFWaOn5vA14XiUDTP) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy Voy a Olvidarte](https://open.spotify.com/album/5AR4N8t3wpMmNEaIg90knJ) | 2:54 |
+| 49 | [El Venadito](https://open.spotify.com/track/1LgRHcKeJz6ATJ8SPxWF85) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 3:50 |
+| 50 | [Para Qué Lastimarme](https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:55 |
 
-Snapshot ID: `MTY1NTM0MTg4NywwMDAwMDAwMDc5NGVhODMxMTkwMDUwYTMzZDZiY2FlMzA1MzNkOTg5`
+Snapshot ID: `MTY1NTQyODA0MiwwMDAwMDAwMGE4NmZhNGYzZmZmOWJkZjUyY2M3MjU0N2RiNTg4NzMx`

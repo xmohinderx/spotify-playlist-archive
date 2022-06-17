@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-235 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+236 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-05-25 |  |
 | [Elm Lake](https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:57 | 2022-05-25 |  |
 | [Embracing \- Nothing But Love](https://open.spotify.com/track/6J7EO3pba2OeePYfO93edR) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [N D E](https://open.spotify.com/album/4K6A8N1N3xP1iu52NqzOpQ) | 4:06 | 2022-05-25 |  |
+| [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 | 2022-06-16 |  |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2022-05-25 |  |
 | [Envision](https://open.spotify.com/track/4WDiuLIXEaVph0nG3B0zJE) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:39 | 2022-05-25 |  |
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,912 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,956 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 22 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
 | 23 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 |
 | 24 | [Espacios](https://open.spotify.com/track/2mBV1l2SU4FUHYIJqMKALN) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Espacios](https://open.spotify.com/album/0w7ryRYrkIftHlvNLBQoDR) | 3:20 |
-| 25 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 |
-| 26 | [Señal](https://open.spotify.com/track/4fq8WAZCvNYr8seBcf1ONw) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Señal](https://open.spotify.com/album/5or6pcsZbmvKWcdmhnYBOK) | 2:39 |
+| 25 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 |
+| 26 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 |
 | 27 | [Faro de Luz](https://open.spotify.com/track/6G02m7plB1AyAxsDvaKadP) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Faro de Luz](https://open.spotify.com/album/6IC1Xq0b040La0dgcK71LF) | 3:12 |
 | 28 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 29 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [No la Paso Mal](https://open.spotify.com/track/1g3clLZY5J2EmPGBBssWVy) | [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [No la Paso Mal](https://open.spotify.com/album/0IXVKmFTGe7JkTT42JdylO) | 2:40 |
 | 100 | [No Voy a Dudar](https://open.spotify.com/track/2J6OGTVgvgipKATyti8QrL) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karloz](https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 2:27 |
 
-Snapshot ID: `MTY1MzYyNzYwMCwwMDAwMDE3NDAwMDAwMTgxMDNlMmJkNDcwMDAwMDE4MTAyOTlhZTU2`
+Snapshot ID: `MTY1NTQxMjIxMSwwMDAwMDE3NTAwMDAwMTgxNmU0MWJmN2UwMDAwMDE4MTAyOTlhZTU2`

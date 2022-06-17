@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-65 songs - 6 hr 26 min - not published yet
+65 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1182,6 +1182,24 @@
     },
     {
       "album": {
+        "name": "Empfidlich",
+        "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Empfidlich",
+      "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
+    },
+    {
+      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. girl_irl",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. nova twins",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Black Punk",
+        "url": "https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150834,
+      "name": "Black Punk",
+      "url": "https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U"
       },
@@ -581,6 +599,24 @@
       "duration_ms": 176653,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp"
+    },
+    {
+      "album": {
+        "name": "Choose Your Fighter",
+        "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135466,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
     },
     {
       "album": {
@@ -2678,6 +2714,28 @@
     },
     {
       "album": {
+        "name": "NIGHTMARE (feat. guardin)",
+        "url": "https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC"
+      },
+      "artists": [
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        },
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172093,
+      "name": "NIGHTMARE (feat. guardin)",
+      "url": "https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK"
+    },
+    {
+      "album": {
         "name": "NIGHTMARES",
         "url": "https://open.spotify.com/album/5S8FMiG1oz3ynTO2yYRwO8"
       },
@@ -3279,6 +3337,24 @@
       "duration_ms": 134763,
       "name": "REJECT",
       "url": "https://open.spotify.com/track/3eAvQAhMnpQBggJm8GM7hc"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121724,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz"
     },
     {
       "album": {
@@ -3955,7 +4031,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"

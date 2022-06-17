@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-293 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+296 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* |  |
 | [Big Sky](https://open.spotify.com/track/0Km4RigFVzZCLcqMXOH5jp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:35 | 2020-10-20\* |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-07-04 |  |
+| [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-22 |  |
 | [Boötes](https://open.spotify.com/track/1nIVZg8EmaIZD5FuJ5nOuw) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Boötes](https://open.spotify.com/album/6lllSwLLJB19hH6jYb3e8i) | 3:12 | 2020-10-20\* |  |
 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-21 |  |
@@ -125,6 +126,7 @@
 | [I](https://open.spotify.com/track/770urYRt3t7vImMY8106hB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/1Xdzq7uZAv640cXUoeAFAZ) | 1:17 | 2020-10-20\* |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2020-10-20\* |  |
 | [Ice Clouds](https://open.spotify.com/track/6K6L7X4M60Mk3dk9i7gN2u) | [unwaxed lemons](https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG) | [Ice Clouds](https://open.spotify.com/album/1xUC5g3SvEj8YFCJYbnfSf) | 1:40 | 2020-10-20\* | 2022-02-04 |
+| [Idyllic Mind](https://open.spotify.com/track/6AXrDum543JUdzxxeLITHR) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Idyllic Mind](https://open.spotify.com/album/0bF7W7vbkEIAcMHrQ1ILXV) | 2:34 | 2022-06-16 |  |
 | [Il mio letto](https://open.spotify.com/track/2InugPJTdU4OHJ94OJvkzt) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Il mio letto](https://open.spotify.com/album/410x6BJpJrLSxbFvJfpIWm) | 2:50 | 2020-10-20\* |  |
 | [Immersed](https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:02 | 2020-10-20\* |  |
 | [In Context](https://open.spotify.com/track/3VtwqVa4zccZMKIiFsMEtk) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Foreigner](https://open.spotify.com/album/1x6UF3Zkljn2tgf8juSF5I) | 2:34 | 2020-10-20\* |  |
@@ -148,6 +150,7 @@
 | [Maroon Lake](https://open.spotify.com/track/4Ck1myMt261ophVYeSOC84) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Outings](https://open.spotify.com/album/79gZ4wm7D1GfdC0yNWrKvL) | 2:50 | 2020-10-20\* |  |
 | [Meaning](https://open.spotify.com/track/1M2bdpwWkekhMWIlVFmd3e) | [Arpeggiated Motives](https://open.spotify.com/artist/2vJaUyXZAIBV2sKiznI4kH) | [First Temple](https://open.spotify.com/album/2gzsnt28uMDKwAnSle9veo) | 3:39 | 2020-10-20\* |  |
 | [Merak](https://open.spotify.com/track/4saUR7QV5oTnzqj9XaZJFp) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Merak](https://open.spotify.com/album/3C3x7kYNc1rQdTC35wNNDX) | 2:48 | 2020-10-20\* |  |
+| [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:52 | 2022-06-16 |  |
 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 | 2020-10-20\* |  |
 | [Midnight Meandering \(Peace\)](https://open.spotify.com/track/6pxESpr2mORBYPLA63wy3D) | [Stephen M Harris](https://open.spotify.com/artist/0o0VNIjdMpG2tP6oLVdgll) | [Midnight Meandering \(Peace\)](https://open.spotify.com/album/0Dhi5zQ7W0CldoKMGP6rU4) | 3:00 | 2020-10-20\* |  |
 | [Midnight Sun](https://open.spotify.com/track/5WQDL5w2hdjltJ1aqWgFLm) | [Zach Levi](https://open.spotify.com/artist/2GR5LQXtNXyejm2nJvyYQb) | [Midnight Sun](https://open.spotify.com/album/5pkhOVnGe8LcXSgGspGeld) | 2:40 | 2021-01-30 |  |

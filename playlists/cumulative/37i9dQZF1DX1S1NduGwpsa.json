@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : FKJ",
+  "description": "The best jazz new releases. Photo : Ezra Collective",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp"
+    },
+    {
+      "album": {
         "name": "Reinhardt Memories",
         "url": "https://open.spotify.com/album/2eYc3bowwBeqcpBvwMlkqg"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 218979,
       "name": "Cool comme \u00e7a",
       "url": "https://open.spotify.com/track/6c4nvb604vZl3kITvIrPQ7"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 176386,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 220693,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4cvQBhqjopA89EikPX5ohP"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 317346,
       "name": "Long Way From Home (feat. Eric Harland)",
       "url": "https://open.spotify.com/track/6nEICyQWdK4EwHAGj5HViA"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 267321,
       "name": "Mesanges",
       "url": "https://open.spotify.com/track/1x497iebcQgqfwWT7LY0oh"
@@ -907,6 +925,24 @@
       "duration_ms": 295080,
       "name": "Meva Festa",
       "url": "https://open.spotify.com/track/0ojt0cv7WeGO49b4Xg23Bb"
+    },
+    {
+      "album": {
+        "name": "Mille rivages",
+        "url": "https://open.spotify.com/album/6FNc6VIgy51x78oq812WKt"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240496,
+      "name": "Mille rivages",
+      "url": "https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa"
     },
     {
       "album": {
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 220333,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/3HKwb6ONXlvLwBEolbJGpG"
@@ -995,6 +1031,42 @@
       "duration_ms": 184981,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192121,
+      "name": "One Scotch, One Bourbon, One Beer",
+      "url": "https://open.spotify.com/track/0TSt9pD3DlyCPjvzhZgTiR"
     },
     {
       "album": {
@@ -1496,6 +1568,40 @@
     },
     {
       "album": {
+        "name": "Lady Champagne",
+        "url": "https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET"
+      },
+      "artists": [
+        {
+          "name": "T-GROOVE & GEORGE KANO EXPERIENCE",
+          "url": "https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25"
+        },
+        {
+          "name": "T-Groove",
+          "url": "https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt"
+        },
+        {
+          "name": "George Kano",
+          "url": "https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U"
+        },
+        {
+          "name": "YUMA HARA",
+          "url": "https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248044,
+      "name": "Timeless Groove",
+      "url": "https://open.spotify.com/track/6M0TjQ5VZGWrykqbrKFhFM"
+    },
+    {
+      "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
         "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
       },
@@ -1855,6 +1961,28 @@
       "duration_ms": 228199,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t"
+    },
+    {
+      "album": {
+        "name": "Word of mouth",
+        "url": "https://open.spotify.com/album/2LYeegWgDAF2dnyITyASOF"
+      },
+      "artists": [
+        {
+          "name": "Simone Prattico",
+          "url": "https://open.spotify.com/artist/5vMEIPZjcvn7bmnMjF1BIZ"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207431,
+      "name": "Word of mouth",
+      "url": "https://open.spotify.com/track/0TVdv9t7nx36wbWXTGcnIT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa"

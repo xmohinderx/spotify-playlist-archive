@@ -74,6 +74,28 @@
     },
     {
       "album": {
+        "name": "Adiye Agalvizhiye",
+        "url": "https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32"
+      },
+      "artists": [
+        {
+          "name": "S.D.Sadikh Hassan",
+          "url": "https://open.spotify.com/artist/5WwXNl9tjuWWjdOtCZiwye"
+        },
+        {
+          "name": "Yuvan Murugan",
+          "url": "https://open.spotify.com/artist/0PY0HrnlOHqWQ7jsMfJexC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293990,
+      "name": "Adiye Agalvizhiye",
+      "url": "https://open.spotify.com/track/0thiJnUuAP9G2TlZL9UTRW"
+    },
+    {
+      "album": {
         "name": "Adiye Kaantha",
         "url": "https://open.spotify.com/album/4rQ2NDh6anTQNnaYOM72Mq"
       },
@@ -155,7 +177,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 242790,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/2h0NDOymvdOahxvkqwcySB"
@@ -1064,6 +1086,28 @@
     },
     {
       "album": {
+        "name": "Minnal Polave",
+        "url": "https://open.spotify.com/album/2B068dCnpieQekbTlD1kl7"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Johnson",
+          "url": "https://open.spotify.com/artist/0O8rN1UPk7BfdSF6mfnSk8"
+        },
+        {
+          "name": "Santoshini Sekar",
+          "url": "https://open.spotify.com/artist/1G6uktHPGhXMco97F1sxQs"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "Minnal Polave",
+      "url": "https://open.spotify.com/track/5vqH79NmO1FjhzbOZu5tD1"
+    },
+    {
+      "album": {
         "name": "Muthu Pechi",
         "url": "https://open.spotify.com/album/1eKm9WrHW8wlDpB2qnscRg"
       },
@@ -1171,7 +1215,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 317647,
       "name": "Nee Podhum Anbe (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6PoOgECgWgrFTYdjj94igE"
@@ -2163,7 +2207,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 328000,
       "name": "Unnai Paarthu - Naatpadu Theral - 2",
       "url": "https://open.spotify.com/track/4Q1CgfS96N9fEp4pJFFMyi"

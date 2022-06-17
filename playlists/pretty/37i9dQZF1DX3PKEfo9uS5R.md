@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,700 likes - 88 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,763 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,15 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 76 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
 | 77 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 |
 | 78 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 |
-| 79 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 |
-| 80 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 |
-| 81 | [A New Era](https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [A New Era](https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ) | 2:33 |
-| 82 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 |
-| 83 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 |
-| 84 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 |
-| 85 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 |
-| 86 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 |
-| 87 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 |
-| 88 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 |
+| 79 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 |
+| 80 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 |
+| 81 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 |
+| 82 | [A New Era](https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [A New Era](https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ) | 2:33 |
+| 83 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 |
+| 84 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 |
+| 85 | [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 |
+| 86 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 |
+| 87 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 |
+| 88 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 |
+| 89 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 |
 
-Snapshot ID: `MTY1NDIxNDQwMCwwMDAwMDAyYTAwMDAwMTgxMjZkYzk4YTcwMDAwMDE3MGM0OTdhMzQ1`
+Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDAyYjAwMDAwMTgxNmVmNWEwYzcwMDAwMDE3MGM0OTdhMzQ1`

@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Clusters",
+        "url": "https://open.spotify.com/album/1y0KC5V5fkivO8IH323prK"
+      },
+      "artists": [
+        {
+          "name": "Boris Wilde",
+          "url": "https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Auriga",
+      "url": "https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy"
       },
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 212842,
       "name": "Blunda",
       "url": "https://open.spotify.com/track/49I7QPn7L2aZHnXp3gK3jn"
@@ -1614,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Elysian Fields",
+        "url": "https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Elysian Fields",
+      "url": "https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z"
+    },
+    {
+      "album": {
         "name": "embrace",
         "url": "https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp"
       },
@@ -1629,6 +1665,24 @@
       "duration_ms": 202625,
       "name": "embrace",
       "url": "https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r"
+    },
+    {
+      "album": {
+        "name": "Empfidlich",
+        "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Empfidlich",
+      "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
     },
     {
       "album": {
@@ -3090,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "Leniter",
+        "url": "https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN"
+      },
+      "artists": [
+        {
+          "name": "Mente",
+          "url": "https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Leniter",
+      "url": "https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw"
+    },
+    {
+      "album": {
         "name": "Lenitivo",
         "url": "https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi"
       },
@@ -3375,6 +3447,24 @@
       "duration_ms": 181750,
       "name": "Ma\u030ansken",
       "url": "https://open.spotify.com/track/1XevHoke55cIgL4v7nzYiL"
+    },
+    {
+      "album": {
+        "name": "Meet Me At Sundown",
+        "url": "https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ"
+      },
+      "artists": [
+        {
+          "name": "Kamila Tait",
+          "url": "https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Meet Me At Sundown",
+      "url": "https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9"
     },
     {
       "album": {
@@ -4549,6 +4639,24 @@
       "duration_ms": 184250,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/0Gf6tK2Xkkiov3bsY3tTPK"
+    },
+    {
+      "album": {
+        "name": "Profetia",
+        "url": "https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV"
+      },
+      "artists": [
+        {
+          "name": "Mellow Dreamer",
+          "url": "https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175166,
+      "name": "Profetia",
+      "url": "https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY"
     },
     {
       "album": {

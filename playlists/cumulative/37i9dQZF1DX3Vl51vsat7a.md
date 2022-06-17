@@ -4,11 +4,12 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Novaa
 
-106 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+107 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-12-16 |  |
+| [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 |  |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 |  |
 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 |  |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
@@ -95,7 +96,7 @@
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 |  |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
-| [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 |  |
+| [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |
 | [Trust me](https://open.spotify.com/track/7pZLO4oJ38FKtBt9yfOMkO) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Trust me](https://open.spotify.com/album/6Qv0SHKHK3U6jZfYo7ALcK) | 1:49 | 2022-01-06 | 2022-03-18 |

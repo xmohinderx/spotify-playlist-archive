@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 
 > Ina & Jeffrey & apple pies \(plural\) for dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 67 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,044 likes - 67 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

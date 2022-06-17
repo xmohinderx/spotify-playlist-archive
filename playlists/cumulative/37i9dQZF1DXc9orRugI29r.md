@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Sebastián Yatra \- TV](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW: Ramón Vega, Michelle Maciel \- eScoRpiÓn :\)](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
 > ¡No busques más! La música del momento está aquí.
 
-94 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
+95 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 | 2022-02-11 | 2022-02-15 |
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2022-03-03 |  |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2022-04-29 |  |
+| [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-06-17 |  |
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-03-28 |  |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-22 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-03 |  |
@@ -54,7 +55,7 @@
 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 | 2022-01-27 | 2022-03-05 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-03-23 |  |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-04-01 |  |
-| [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-01-27 |  |
+| [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-01-27 | 2022-06-17 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-06 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-01-27 | 2022-03-25 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-01-27 | 2022-03-04 |

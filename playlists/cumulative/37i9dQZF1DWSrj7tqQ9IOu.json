@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Myd",
+  "description": "The best French indie tracks right now. Cover: Ad\u00e8le Castillon",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 178584,
       "name": "Don't Wait For Me",
       "url": "https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR"
@@ -757,6 +757,24 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
+    },
+    {
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr"
+      },
+      "artists": [
+        {
+          "name": "Montmartre",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g"
     },
     {
       "album": {
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 166567,
       "name": "Nostalgique",
       "url": "https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB"
@@ -1927,10 +1945,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 153099,
       "name": "Sexfriend",
       "url": "https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM"
+    },
+    {
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/454coNUsv9xHlpSzn4bsJA"
+      },
+      "artists": [
+        {
+          "name": "Mezzanine",
+          "url": "https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Shaker de l'amour",
+      "url": "https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ"
     },
     {
       "album": {
@@ -2527,6 +2563,28 @@
       "duration_ms": 194986,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"
+    },
+    {
+      "album": {
+        "name": "\u00c9trange (feat. Nikola)",
+        "url": "https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        },
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "\u00c9trange (feat. Nikola)",
+      "url": "https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu"

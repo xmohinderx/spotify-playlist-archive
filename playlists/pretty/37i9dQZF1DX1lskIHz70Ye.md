@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,326 likes - 110 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,365 likes - 112 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,10 +113,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 103 | [Autumn](https://open.spotify.com/track/0ansjnBkSFKDqlQ0KaTydJ) | [Kee Marcello](https://open.spotify.com/artist/5yBVDQGDI58X71bTYrle3o), [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [The Four Seasons](https://open.spotify.com/album/6ekmiW4L7zlzHgAqWKbImP) | 2:03 |
 | 104 | [Besame Mucho](https://open.spotify.com/track/7KxBdPVi9B0l3NflndE83D) | [Lluis Cuadrench](https://open.spotify.com/artist/4dspUz9gp6cCTQPTqLJSZC) | [Guitarra Latina](https://open.spotify.com/album/2NCwEfErgg0u8bWpVJOo9h) | 3:20 |
 | 105 | [My Take on Solidao.](https://open.spotify.com/track/1q1ZNQxbhgNhn1l4GShNmp) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/3SwW2r8dgDM7yHybjQbl8E) | 2:35 |
-| 106 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 |
-| 107 | [Ti addormenterai](https://open.spotify.com/track/5BcsR1Br4TuLmtB43GnPcH) | [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4), [Luigi Montagna](https://open.spotify.com/artist/4Y6j4Ph1zJHaXk9hv9Rb6H) | [Ti addormenterai](https://open.spotify.com/album/5gvnnASQEgPLqaLv5mz5A7) | 3:06 |
-| 108 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
-| 109 | [Karleken: Kärleken \(Arr\. For guitar and double bass\)](https://open.spotify.com/track/7boVU5rCjSeC3cwRfOnmVg) | [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/6GGFMVODEXxaHbpRVTEhsL) | 4:16 |
-| 110 | [Etude Number 3 Op.60](https://open.spotify.com/track/3JvAVOKhKA7HwhzZTPwTtN) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Etude Number 3 Op.60](https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8) | 2:31 |
+| 106 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 |
+| 107 | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 |
+| 108 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 |
+| 109 | [Ti addormenterai](https://open.spotify.com/track/5BcsR1Br4TuLmtB43GnPcH) | [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4), [Luigi Montagna](https://open.spotify.com/artist/4Y6j4Ph1zJHaXk9hv9Rb6H) | [Ti addormenterai](https://open.spotify.com/album/5gvnnASQEgPLqaLv5mz5A7) | 3:06 |
+| 110 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 |
+| 111 | [Karleken: Kärleken \(Arr\. For guitar and double bass\)](https://open.spotify.com/track/7boVU5rCjSeC3cwRfOnmVg) | [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/6GGFMVODEXxaHbpRVTEhsL) | 4:16 |
+| 112 | [Etude Number 3 Op.60](https://open.spotify.com/track/3JvAVOKhKA7HwhzZTPwTtN) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Etude Number 3 Op.60](https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8) | 2:31 |
 
-Snapshot ID: `MTY1NDgxOTIwMCwwMDAwMDAyMzAwMDAwMTgxNGFlOTFjY2IwMDAwMDE2ZTg1YzY2MzM1`
+Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDAyNDAwMDAwMTgxNmVmNWEwYmIwMDAwMDE2ZTg1YzY2MzM1`

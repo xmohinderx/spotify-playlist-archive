@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > welcome to mixtape \#003, turn up with Ryan Castro 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,067 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,177 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 3 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 4 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 5 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 |
-| 6 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
+| 6 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 7 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 |
 | 8 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
 | 9 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 |

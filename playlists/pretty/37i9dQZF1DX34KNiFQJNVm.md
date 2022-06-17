@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tierry, L7NNON, Teto e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,406 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,653 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

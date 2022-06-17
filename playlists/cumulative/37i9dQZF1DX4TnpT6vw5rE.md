@@ -4,13 +4,14 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-170 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+174 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 | 2021-01-15 | 2022-05-20 |
 | [160512](https://open.spotify.com/track/4qTfc9EIeFGUhy5uYLkpjU) | [New Mountain](https://open.spotify.com/artist/13XROkNcgR324FYTeCcFey) | [160512](https://open.spotify.com/album/4AkJRb8Du6HgER21JF1rad) | 2:28 | 2021-01-15 | 2022-05-20 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'eixample](https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx) | 7:04 | 2020-12-08\* |  |
+| [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
 | [A Rising Wind \(Instrumental\)](https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Ayres \(Instrumental Version\)](https://open.spotify.com/album/65XygvtsffoLGK7w9PtUQK) | 4:49 | 2021-01-15 |  |
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2020-12-08\* |  |
@@ -138,6 +139,7 @@
 | [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 | 2021-09-30 |  |
 | [Rêves](https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Rêves](https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS) | 3:18 | 2021-05-27 |  |
 | [Santa Rosa](https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg) | [Trifonic](https://open.spotify.com/artist/2TDsrZZt4XXF7iQlr5l20Z) | [Ninth Wave](https://open.spotify.com/album/4NJb6SsQSl8kbTPGdMmwgp) | 6:13 | 2020-12-08\* | 2021-02-16 |
+| [sapphire soul](https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [ivory comet & sapphire soul](https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx) | 2:47 | 2022-06-16 |  |
 | [Sea of Light](https://open.spotify.com/track/5HvS3GWbrI2hzzOGqe52UG) | [Allycia Xavier](https://open.spotify.com/artist/7aO1K3P9ygDQ1k5IJrVHng) | [Sea of Light](https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj) | 2:50 | 2021-10-28 |  |
 | [Second Sun](https://open.spotify.com/track/5kM2oy5P6hK2QdYcj66ach) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/0oVZx9Ax0CduKP4UIEi9Yj) | 3:43 | 2020-12-08\* | 2021-02-20 |
 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 | 2020-12-08\* |  |
@@ -151,6 +153,7 @@
 | [Soak It Up](https://open.spotify.com/track/2MjJ8ajY6WfoCChcA74olC) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [All Night](https://open.spotify.com/album/06zYYJUeDmFAmnDrwJPRMJ) | 4:04 | 2020-12-08\* | 2021-03-06 |
 | [Sol](https://open.spotify.com/track/78s9ENMqB5MBgV8nhP3ogF) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Movements](https://open.spotify.com/album/4nICR7VmmfEp78mfcZ4WUC) | 8:31 | 2020-12-08\* | 2021-01-30 |
 | [Solar Winds](https://open.spotify.com/track/13iYeXC6LAzTierH7y8kJZ) | [Ninna Hall](https://open.spotify.com/artist/5x5NAEHfpaMyyMuDBLhyJv) | [Wind EP](https://open.spotify.com/album/5ekSFZojGT4a28c5yMmDfa) | 3:02 | 2020-12-08\* | 2021-05-27 |
+| [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 | 2022-06-16 |  |
 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 | 2020-12-08\* |  |
 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 | 2022-01-06 |  |
 | [Split Second](https://open.spotify.com/track/6fWoRDNfECgRS3au8UjMqA) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Split Second](https://open.spotify.com/album/62jzv9TYMKZhDgxo1e0fA2) | 2:33 | 2021-12-22 |  |
@@ -172,6 +175,7 @@
 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 | 2022-05-19 |  |
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* |  |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
+| [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-12-08\* | 2021-02-20 |
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |

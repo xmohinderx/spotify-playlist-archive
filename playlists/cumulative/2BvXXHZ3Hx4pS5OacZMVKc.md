@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-144 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+145 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Seasons \- Futuristik & Whogaux Remix](https://open.spotify.com/track/1CZUz7vzalqzJq0khI74VL) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons \(Futuristik & Whogaux Remix\)](https://open.spotify.com/album/2Ykc9UcsTNDfD7uGyWES4W) | 3:13 | 2022-02-03 |  |
 | [Shimmer](https://open.spotify.com/track/4PDLDew5A8O0FWXMazIoPS) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Shimmer EP](https://open.spotify.com/album/0oiJtNGOQBR4hnhdMmffTM) | 2:55 | 2022-02-03 |  |
 | [Shivers](https://open.spotify.com/track/07EhpBhnDfZ6Vm7EwjSHIY) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shivers](https://open.spotify.com/album/41VSk82y1Frwvc1OiiFq94) | 3:18 | 2022-02-03 |  |
+| [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 |  |
 | [Station 2](https://open.spotify.com/track/04SPo2Vjc1vmBl0oUs8GV5) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Station 2](https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R) | 3:04 | 2022-02-03 |  |

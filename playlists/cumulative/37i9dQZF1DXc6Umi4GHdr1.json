@@ -1452,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Silent Sigh",
+        "url": "https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT"
+      },
+      "artists": [
+        {
+          "name": "Josephine Forrester",
+          "url": "https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Silent Sigh",
+      "url": "https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U"
+    },
+    {
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6t2utOCjrCkGnyYGEh6Ygg"
       },

@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Valentine",
+        "url": "https://open.spotify.com/album/2ZgwAtZbALDHbBDbD7oyy2"
+      },
+      "artists": [
+        {
+          "name": "Bison Face",
+          "url": "https://open.spotify.com/artist/3pixDiNj47jOH76s7RT32B"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Cosmic Valentine",
+      "url": "https://open.spotify.com/track/2HDmJpboIlFxzUTVQH4eR3"
+    },
+    {
+      "album": {
         "name": "Crimson Ocean",
         "url": "https://open.spotify.com/album/61Jxkak5VZdnMtKhTznVdi"
       },
@@ -692,6 +710,24 @@
     },
     {
       "album": {
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/2AvsLQZtwIAabbVK5Q44wP"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313573,
+      "name": "Fear & Cowardice",
+      "url": "https://open.spotify.com/track/63KHDVA5yK2QQwrfaZIfGw"
+    },
+    {
+      "album": {
         "name": "feel",
         "url": "https://open.spotify.com/album/4WArkLIZ0R06bVtf2s6Bca"
       },
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 336186,
       "name": "Half Light Aftermath",
       "url": "https://open.spotify.com/track/02ne7eK9Q48RMtTcRdhbuz"
@@ -1016,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/3jOUce1GBO6CeuA4Pgsh80"
+      },
+      "artists": [
+        {
+          "name": "Vendetta Love",
+          "url": "https://open.spotify.com/artist/3MiRH2MfTbxGEn9iDzdiUz"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291145,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/2wP67tQvDHUY3pfF4wzRAv"
+    },
+    {
+      "album": {
         "name": "Hypernormal",
         "url": "https://open.spotify.com/album/34GLRWHsaJy3GAoCfWICAC"
       },
@@ -1063,7 +1117,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 201848,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/2ZzAScWItDkVMCaxl0cnO8"
@@ -1621,7 +1675,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 246167,
       "name": "Spit It Out",
       "url": "https://open.spotify.com/track/4aHOrIMyr64uSpXaNzvNFr"

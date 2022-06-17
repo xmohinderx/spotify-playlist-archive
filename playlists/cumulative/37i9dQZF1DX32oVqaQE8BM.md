@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-316 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+324 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Antigua](https://open.spotify.com/track/1JNq5aFGwPOuO2PNru97j9) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Antigua](https://open.spotify.com/album/4Dq22fGSVyIqW4BSQiAKqz) | 2:41 | 2021-11-10 | 2022-01-22 |
 | [Anywhere With You](https://open.spotify.com/track/73SKouRCNSHqPTLTBOJKOq) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Anywhere With You](https://open.spotify.com/album/3hNlPn59m504e5pHgRRrlN) | 2:21 | 2021-11-10 | 2022-05-11 |
 | [Apollo 13](https://open.spotify.com/track/04Brb3RwiUxbmNQMzHjiSj) | [Dj Screech](https://open.spotify.com/artist/3JFTmv6ilkFBBwgCYBXxlI) | [Apollo 13](https://open.spotify.com/album/0hfUVzIay4A8qzDh9jbScq) | 2:29 | 2021-11-10 | 2022-01-22 |
+| [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 | 2022-06-17 |  |
 | [Awaken](https://open.spotify.com/track/0FQhhFUY0imS9POfz4yxuF) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 2:54 | 2022-05-27 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
 | [Azul](https://open.spotify.com/track/4V9JH0Yk7etdGCZDX7TXvG) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:37 | 2021-11-10 |  |
@@ -86,14 +87,19 @@
 | [Dreams Come True](https://open.spotify.com/track/3bnbd2lbJoSjqyh4NrmNAF) | [Tenysi Abra](https://open.spotify.com/artist/4RoMEa8uh9nIgAvOC80Eba) | [Dreams Come True](https://open.spotify.com/album/6zx0mbBdkwn8VyFMkykwJd) | 1:34 | 2022-04-05 |  |
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 |  |
 | [Drizzle](https://open.spotify.com/track/7IZhsHj5WNHZXb036INzSe) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Drizzle](https://open.spotify.com/album/17AdhxmA9tFsWn6G9gkJ4F) | 2:37 | 2021-11-10 | 2022-06-03 |
+| [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-05-11 |
 | [easy.mind.](https://open.spotify.com/track/2cmimWe1hG3uCyUbcVcveJ) | [shilø cyan](https://open.spotify.com/artist/62oe8gGx5zfwUx61ZrDQHR) | [easy.mind.](https://open.spotify.com/album/65kAtHuv6oSlXAUDCfcL4b) | 2:32 | 2021-11-10 |  |
 | [Elbe](https://open.spotify.com/track/3Pakll5uxUhEG2TE5vlNQK) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Elbe](https://open.spotify.com/album/1ylufbgEVDTrf3EItcWp0S) | 2:15 | 2022-05-13 | 2022-05-20 |
 | [Elements](https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Elements](https://open.spotify.com/album/5OXc7jNILuDvrrt5JrNgLH) | 3:12 | 2021-11-10 |  |
+| [Encapsulation](https://open.spotify.com/track/6luvhGwShtZChuy2LuiWFn) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Knit](https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz) | 2:44 | 2022-06-17 |  |
+| [Endless Road](https://open.spotify.com/track/1Kqx9kj7twQEexWCa4WHUZ) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Endless Road](https://open.spotify.com/album/04YdOVml7kXJN985zOOHPX) | 2:22 | 2022-06-17 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-10 | 2022-01-22 |
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-06-10 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 |  |
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 |  |
+| [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 | 2022-06-17 |  |
+| [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 | 2022-06-17 |  |
 | [Feels Like Flying](https://open.spotify.com/track/3RwFShfW7fauUMkqVuHXcB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [For The Legacy](https://open.spotify.com/album/4Dza5QXbUJXa9LLGiuud1v) | 1:48 | 2022-04-05 |  |
 | [Firmament](https://open.spotify.com/track/31lD6OHrwsSOZH3oF3ne8w) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Firmament](https://open.spotify.com/album/5vjxVDeK0l4N7Driu78gGg) | 2:16 | 2021-11-10 |  |
 | [First Date](https://open.spotify.com/track/0f8mD2zPQpyxUhxbCl9mgY) | [LoFi Squad](https://open.spotify.com/artist/7h60BEfYJHccbTPcIDezST) | [First Date](https://open.spotify.com/album/7txJBstVURKH9vL4mZyuoz) | 1:49 | 2021-11-10 |  |
@@ -276,6 +282,7 @@
 | [sway](https://open.spotify.com/track/4jGNHbF5bari1lvsaatO3j) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [sway](https://open.spotify.com/album/6Ad1vR1Bg8pJrdmmzkLZu8) | 2:13 | 2022-06-10 |  |
 | [Swaying Corals](https://open.spotify.com/track/6IO8p3PbENWzNcGbTJCyv7) | [AMUSE\-BOUCHE](https://open.spotify.com/artist/16q5TzwMH8iHZonglSDZHh) | [Swaying Corals](https://open.spotify.com/album/4KDGo5aHTeFkmNDqUrOcHh) | 1:54 | 2021-11-10 | 2022-01-22 |
 | [swervin](https://open.spotify.com/track/0kemLSRDkuaj7gHjnZZEZg) | [longstar](https://open.spotify.com/artist/4v7r7XxcGpcuwcSJM9r2aG) | [ejak](https://open.spotify.com/album/6PCNOgXSMMJzsF4VqRDPFB) | 1:55 | 2021-11-10 |  |
+| [Swimma](https://open.spotify.com/track/5b5keQTPfxtm8F3OZ47ck2) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Swimma](https://open.spotify.com/album/7cX31Tag9Fn9OBSrd8cLIG) | 2:23 | 2022-06-17 |  |
 | [Tastes Good](https://open.spotify.com/track/4bI06A9nrTfdgbZStV1tMc) | [Bonny Roland](https://open.spotify.com/artist/2mATgh8AsOgRf2YuGobljB) | [Tastes Good](https://open.spotify.com/album/4SsTht64ubSec67F8Z1F2G) | 3:10 | 2021-11-10 |  |
 | [Telescopes And Coffee](https://open.spotify.com/track/3TNh50TIvtx2iLeoDwAQ8m) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Strange Lights](https://open.spotify.com/album/6mAbI0OhlwoH500rL1V8P1) | 2:57 | 2021-11-10 | 2022-05-20 |
 | [The Kings Horses](https://open.spotify.com/track/2rbIqTAqj2NF8XfmRwTDnb) | [Izzy Cook](https://open.spotify.com/artist/5ciUW6dsaE0fWHtsV2nMYs) | [The Kings Horses](https://open.spotify.com/album/0X1dgdy4QN8EwRqVmtwhRh) | 2:37 | 2021-11-10 | 2022-05-11 |
@@ -286,6 +293,7 @@
 | [Thinkin' About Me](https://open.spotify.com/track/5wKVYtnhyqZfCGv0iqUGwW) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Fulton St Brunch Club](https://open.spotify.com/album/6MXluQZL5j8X5IBv8bj24Z) | 2:37 | 2022-05-10 |  |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2021-11-10 |  |
 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 | 2021-11-10 |  |
+| [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 | 2022-06-17 |  |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-11 |
 | [Time Sometimes](https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh) | [89XZ](https://open.spotify.com/artist/4t7XSLtILeVEdoSjK7Jnym) | [Time Sometimes](https://open.spotify.com/album/0lR6x3rTonJ9blJStFzVtt) | 2:50 | 2021-11-10 |  |
 | [TIMESHIFTER](https://open.spotify.com/track/62Bq9AVjUGHFo2utRfDfjj) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [TIMESHIFTER](https://open.spotify.com/album/65dVM6JzOVhlUFy3x7JN9S) | 2:43 | 2021-11-10 |  |

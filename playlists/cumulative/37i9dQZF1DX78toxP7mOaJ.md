@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock from independent artists every Wednesday\. Cover: Berlue \| Artwork: Jim Klok
+> Fresh rock from independent artists every Wednesday\. Cover: Mint Green \| Artwork: Jim Klok
 
 370 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 

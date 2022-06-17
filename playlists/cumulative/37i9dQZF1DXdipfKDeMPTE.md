@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-254 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+260 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ascension](https://open.spotify.com/track/1QspoG8pNeKwyVmA84kGAn) | [Elevatissimo](https://open.spotify.com/artist/5I9ymDOTe4vD38qQc1JYeN) | [Ascension](https://open.spotify.com/album/47qphikUx1Bu31oB6LTrax) | 2:53 | 2022-05-20 | 2022-06-10 |
 | [ashy keyboard](https://open.spotify.com/track/18rW4znR6LblkBDzKLKvD9) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [autumn](https://open.spotify.com/album/57Fa1enzowCC6BKxI8juGH) | 1:47 | 2022-05-20 |  |
 | [Asteroids](https://open.spotify.com/track/6yylyPPn6rBYSqewjRJQ75) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Asteroids](https://open.spotify.com/album/0DeZLGI0ADUpA8UgoLifbo) | 2:00 | 2022-05-20 |  |
+| [Atmosphere](https://open.spotify.com/track/0SnlGbmib26ogU8BoLDCfw) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Atmosphere](https://open.spotify.com/album/0pSDCZEqg8sva9xojOcgDa) | 2:28 | 2022-06-17 |  |
 | [Azurite](https://open.spotify.com/track/4MQNfN5ZBezTVLDr8Y6o1m) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Pocket Full of Crystals: Vol 2](https://open.spotify.com/album/3M4IpXtpK6UmwcVm2IU1Vh) | 2:26 | 2022-05-20 | 2022-05-27 |
 | [ballpoint](https://open.spotify.com/track/1NcRGYcwoBKGTYbqdpTB1O) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [cayenne](https://open.spotify.com/album/73ukbC0D0nA4DllTTyCwQp) | 1:48 | 2022-05-20 | 2022-06-10 |
 | [beginner's mind](https://open.spotify.com/track/6rhvnNfCetHo54hKLhz1uJ) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [train legs](https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x) | 2:52 | 2022-05-20 |  |
@@ -137,6 +138,7 @@
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 |  |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 |  |
 | [Light](https://open.spotify.com/track/35N0N8ezsPPblW9ISS8HnF) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:35 | 2022-05-20 |  |
+| [Like A Tingel](https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Like A Tingel](https://open.spotify.com/album/7jirkidnz1LNN6ZmeGNRJZ) | 1:52 | 2022-06-17 |  |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2022-05-20 | 2022-05-27 |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2022-05-20 |  |
 | [LMIRL](https://open.spotify.com/track/0j0gaTj0JB6vT3poiPwLd5) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [LMIRL](https://open.spotify.com/album/1XLYvhtvgjOhJcKpfikmo8) | 2:29 | 2022-05-20 |  |
@@ -169,6 +171,7 @@
 | [Night Light](https://open.spotify.com/track/2hskrU8u5ZU5X6sXUSLlVg) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Night Light](https://open.spotify.com/album/72NA8VDMOfYjPuOw8RK0Kj) | 3:38 | 2022-05-20 |  |
 | [Night Shift](https://open.spotify.com/track/7hbI6QqjMZ5vlcE7A9DcVF) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [Night Shift](https://open.spotify.com/album/343iD7JhtgIQRP9ntuQ6Qn) | 2:06 | 2022-05-20 |  |
 | [Nightcap](https://open.spotify.com/track/4IcvQehCaRync2poO239V4) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:26 | 2022-05-20 |  |
+| [Nightfall](https://open.spotify.com/track/3Ogra1a0VmoUwsxHUOmbZw) | [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Nightfall](https://open.spotify.com/album/46UFnbPeIvmRGZc82h13zf) | 3:14 | 2022-06-17 |  |
 | [Nightfall](https://open.spotify.com/track/5PZcZPU445s16dA2PF8Bo7) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Nightfall](https://open.spotify.com/album/32D8bFNMzpZ6arO7zqBi3d) | 2:10 | 2022-05-20 |  |
 | [no capuccino](https://open.spotify.com/track/1E7OUtZolsHcNCvn2JFKwS) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [fin alley](https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj) | 2:01 | 2022-05-20 |  |
 | [Nocturne](https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i) | [Digimazz](https://open.spotify.com/artist/0r4jxyuYzVGceiKpA9188p) | [Nocturne](https://open.spotify.com/album/0c95UQZbAT5ulrcizxI3xI) | 2:16 | 2022-05-20 |  |
@@ -227,6 +230,7 @@
 | [Smear](https://open.spotify.com/track/5d5MGTGygirIvYMCC6IxUs) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 2:05 | 2022-05-20 |  |
 | [Smile](https://open.spotify.com/track/6tasSPWYNDFQKTvI261tXO) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Smile](https://open.spotify.com/album/5nMi36NSLIk5Wc2UH6IDt1) | 2:00 | 2022-05-20 | 2022-05-27 |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-20 |  |
+| [Soft Arcade](https://open.spotify.com/track/6bgm2nlMqWKOBz86nYuIgN) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [Soft Arcade](https://open.spotify.com/album/3SbSdMtJcCLRfZjyK4E38I) | 1:48 | 2022-06-17 |  |
 | [solitune](https://open.spotify.com/track/2LyjV32xNHhTE1iuolzzpC) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [solitune](https://open.spotify.com/album/2TLbeo0GL2vpHABKoCE51k) | 2:49 | 2022-05-20 |  |
 | [Spirit](https://open.spotify.com/track/66BQmLa9Q9pRHtmclk4Zs7) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Spirit](https://open.spotify.com/album/0wufxbr8xixVOlniDC2XSl) | 2:01 | 2022-05-20 |  |
 | [Spoon fed](https://open.spotify.com/track/6T8akIF5ID2SaLx1P4TMFK) | [the origame](https://open.spotify.com/artist/5bwZ4wl2VdB4nTzIvbVtgh) | [Spoon fed](https://open.spotify.com/album/0CmQYCP33z0RT9EV19z7dS) | 2:13 | 2022-05-20 |  |
@@ -244,6 +248,7 @@
 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 | 2022-05-20 |  |
 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 | 2022-05-20 |  |
 | [The Summit Point \- Lofi Minecraft Music](https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U) | [LoCraft](https://open.spotify.com/artist/4RftachrjrKoRHUWPElfUJ) | [The Summit Point \(Lofi Minecraft Music\)](https://open.spotify.com/album/4148Pe35Y8ywo2HLcgvsM7) | 3:03 | 2022-06-03 |  |
+| [These Sleepless Hours](https://open.spotify.com/track/2XPkr4NiBrLIIkIYB5qT1B) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [These Sleepless Hours](https://open.spotify.com/album/21jFs7Y5dXbr5q1McMTqIb) | 3:03 | 2022-06-17 |  |
 | [tight squeeze](https://open.spotify.com/track/2F0umTe5UJsSlGSbeUcD8p) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [tight squeeze](https://open.spotify.com/album/5kfL0ZyNYQxthQK3pj5WOh) | 2:28 | 2022-05-20 |  |
 | [Title](https://open.spotify.com/track/3nWtSUDnGAPveynq1WgOQn) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 3:07 | 2022-05-20 |  |
 | [tokyo dawn](https://open.spotify.com/track/750DcJVuM2Av9P3V1Szm31) | [nippon soul](https://open.spotify.com/artist/3i8zJHfJYmUjEeE3UMIVTJ) | [tokyo dawn](https://open.spotify.com/album/2Ecakx8yoEoAYlWOUji03h) | 1:30 | 2022-05-20 | 2022-06-10 |
@@ -256,6 +261,7 @@
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-05-20 |  |
 | [Vanilla Envelopes](https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:43 | 2022-05-20 |  |
 | [Villi’s Dream](https://open.spotify.com/track/3L3Bqylf4R6dz8gEWgk7Gn) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Fantasque](https://open.spotify.com/album/73b18tIjK8WMaDXkFc2rZ6) | 2:33 | 2022-05-20 |  |
+| [Wanna Be with You](https://open.spotify.com/track/6cvfVUemxTmzsF2RZMiwIU) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Inner Life](https://open.spotify.com/album/2No65mBSMvbckMBPkf0OqS) | 2:14 | 2022-06-17 |  |
 | [Waxing](https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT) | [The Fibbers](https://open.spotify.com/artist/5n43zVDWitfC3uklfrNgQT) | [Waxing](https://open.spotify.com/album/6O7UB1QfYDyuh4fDyTbVs8) | 2:27 | 2022-05-20 |  |
 | [Windmill](https://open.spotify.com/track/3b9dGQOud5zYbwsiKy03Rn) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Windmill](https://open.spotify.com/album/1eMRlViP3OSEHzKNVe1NUs) | 1:41 | 2022-05-20 |  |
 | [Won't Forget](https://open.spotify.com/track/6wHgTRz4AdaQ2Z82CiZvJn) | [Toppis Tom](https://open.spotify.com/artist/5Wd9JTpUMvXCit3ugNv0FV) | [Fellow Friend](https://open.spotify.com/album/2jBg3GOh3xl7b49XY2npN6) | 1:54 | 2022-05-20 | 2022-05-27 |

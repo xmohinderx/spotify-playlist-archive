@@ -4,7 +4,7 @@
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-50 songs - 6 hr 31 min - not published yet
+50 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5k8ugTh05xlQzMgqSon7MY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

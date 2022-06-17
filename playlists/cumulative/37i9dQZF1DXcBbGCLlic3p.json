@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Ascending",
+        "url": "https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr"
+      },
+      "artists": [
+        {
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Ascending",
+      "url": "https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc"
+    },
+    {
+      "album": {
         "name": "Ashes to Dawn",
         "url": "https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN"
       },
@@ -602,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Donia",
+        "url": "https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae"
+      },
+      "artists": [
+        {
+          "name": "Duanova",
+          "url": "https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Donia",
+      "url": "https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV"
+    },
+    {
+      "album": {
         "name": "Dormiveglia",
         "url": "https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89"
       },
@@ -707,6 +743,24 @@
       "duration_ms": 157624,
       "name": "Elation",
       "url": "https://open.spotify.com/track/5NNK5MJ3T4U17LvhibKNPh"
+    },
+    {
+      "album": {
+        "name": "Empfidlich",
+        "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Empfidlich",
+      "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
     },
     {
       "album": {
@@ -1697,6 +1751,24 @@
       "duration_ms": 181675,
       "name": "Morze Ba\u0142tyckie",
       "url": "https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4"
+    },
+    {
+      "album": {
+        "name": "Moves Like Waves",
+        "url": "https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221358,
+      "name": "Moves Like Waves",
+      "url": "https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH"
     },
     {
       "album": {
@@ -3097,7 +3169,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 192000,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT"

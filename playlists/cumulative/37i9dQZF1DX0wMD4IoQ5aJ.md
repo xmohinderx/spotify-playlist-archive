@@ -4,7 +4,7 @@
 
 > Focus to the sound of soft electronic music.
 
-174 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+178 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Course Correction](https://open.spotify.com/track/1lZ7KgAXfoybBX2Lxow0Uf) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 3:21 | 2022-06-10 |  |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 |  |
+| [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 |  |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2022-04-15 |  |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2022-04-15 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2022-04-15 |  |
@@ -163,6 +164,7 @@
 | [SPF](https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [SPF](https://open.spotify.com/album/6G2WsFZ9YKQhXyJZUc1UJ8) | 2:59 | 2022-04-15 |  |
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2022-04-15 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-04-15 |  |
+| [Spring Rains](https://open.spotify.com/track/6Y5wMxgMzBSuNxQPJk8XQu) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Spring Rains](https://open.spotify.com/album/3B3TxUP7B7uxjoomkOlUJT) | 2:55 | 2022-06-17 |  |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2022-04-15 |  |
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2022-04-15 |  |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2022-04-15 | 2022-05-20 |
@@ -178,9 +180,11 @@
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-06-10 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-15 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2022-04-15 |  |
+| [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 |  |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 |  |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2022-04-15 | 2022-05-27 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-15 |  |
+| [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

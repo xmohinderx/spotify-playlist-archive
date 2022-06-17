@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-112 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+114 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 | 2022-03-03 |  |
 | [Bahia Dream](https://open.spotify.com/track/164gnhOiZDQsSa3VbSPeRw) | [Reynaldo Delgado](https://open.spotify.com/artist/104TOFsmSso5sw7ynQ4vhE) | [Bahia Dream](https://open.spotify.com/album/3ZQlm3syeRzlmascVX9l3N) | 2:18 | 2022-03-03 |  |
 | [Barracas Bird](https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Barracas Bird](https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8) | 2:43 | 2022-03-03 |  |
+| [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 | 2022-06-17 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-03-03 |  |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2022-03-03 |  |
 | [Besame Mucho](https://open.spotify.com/track/7KxBdPVi9B0l3NflndE83D) | [Lluis Cuadrench](https://open.spotify.com/artist/4dspUz9gp6cCTQPTqLJSZC) | [Guitarra Latina](https://open.spotify.com/album/2NCwEfErgg0u8bWpVJOo9h) | 3:20 | 2022-03-03 |  |
@@ -91,6 +92,7 @@
 | [Roberto el Rebelde](https://open.spotify.com/track/6S7hOpmy4lzJmExEFSOnP6) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:27 | 2022-03-03 |  |
 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 | 2022-03-03 |  |
 | [Salta La Linda](https://open.spotify.com/track/75KwjASkRESPwRAaYuBQmB) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Salta La Linda](https://open.spotify.com/album/1MNQjdKTRRKMHTedD3s7WB) | 3:21 | 2022-03-03 |  |
+| [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2022-06-17 |  |
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2022-03-03 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2022-03-03 |  |
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2022-03-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más poderosas y llegadoras de nuestra música! Al millón con Luis R Conriquez, al millón con La Reina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,507,162 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,032 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

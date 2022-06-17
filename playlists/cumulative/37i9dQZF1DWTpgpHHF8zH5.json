@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 150031,
       "name": "Love It or Hate It",
       "url": "https://open.spotify.com/track/5BLjDjivsTx3GaIHppAIti"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 156116,
       "name": "Move",
       "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6XnikZPkb059iYTuCjZt1X"
@@ -2144,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "Something to Someone",
+        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Something to Someone",
+      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
+    },
+    {
+      "album": {
         "name": "SPACE MAN",
         "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 194286,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/39pr29s4Nv7V6DqFwmjrQg"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 151000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt"

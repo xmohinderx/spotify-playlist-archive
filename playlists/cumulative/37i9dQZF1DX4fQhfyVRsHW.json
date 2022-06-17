@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Path",
+        "url": "https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul"
+      },
+      "artists": [
+        {
+          "name": "Caspian Nerida",
+          "url": "https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221886,
+      "name": "Beautiful Path",
+      "url": "https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4"
+    },
+    {
+      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E"
       },

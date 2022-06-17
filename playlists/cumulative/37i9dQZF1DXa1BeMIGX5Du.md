@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-81 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
+82 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [captain's dance with the devil](https://open.spotify.com/track/5S7rqoAt14NRdZxfVNFtNf) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [captain's dance with the devil](https://open.spotify.com/album/53ZUMxyPB12MuCBkcRN5ig) | 2:26 | 2022-03-25 |  |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2022-03-25 |  |
 | [Civilized](https://open.spotify.com/track/3T9IA0EvjCZ4Ifs6oCH7MV) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Civilized](https://open.spotify.com/album/2IZqsfwaAWAirdFkSdjOgr) | 3:25 | 2022-03-25 |  |
-| [Crater on the Moon](https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg) | [Ok Moon](https://open.spotify.com/artist/2YT2DEtRTNmUZkR53QaU20) | [Crater on the Moon](https://open.spotify.com/album/5kpzNyJMTgqA6ygjJUx6xx) | 4:10 | 2022-03-25 |  |
+| [Crater on the Moon](https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg) | [Ok Moon](https://open.spotify.com/artist/2YT2DEtRTNmUZkR53QaU20) | [Crater on the Moon](https://open.spotify.com/album/5kpzNyJMTgqA6ygjJUx6xx) | 4:10 | 2022-03-25 | 2022-06-17 |
 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 | 2022-03-25 |  |
 | [Delusional](https://open.spotify.com/track/6jh10WQnBRJ0SCwEXLxgY2) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/13q5886lEsp0lCMcHcnwSg) | 4:10 | 2022-03-25 |  |
 | [Do You Love Me Lately?](https://open.spotify.com/track/03ZQhvP0UXQvUhGxlGqOSq) | [Emily Keener](https://open.spotify.com/artist/6DSgiEGO7rSPIq4KFrkE2b) | [Do You Love Me Lately?](https://open.spotify.com/album/7GadhWeYQHdY9XUM6YUMvK) | 3:56 | 2022-03-25 |  |
@@ -84,6 +84,7 @@
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2022-03-25 |  |
 | [White Water](https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/1EsXpEeWrDFDjoH8flzfeL) | 3:54 | 2022-03-25 |  |
 | [Wicked Game \- Acoustic](https://open.spotify.com/track/3Gb3RPg5FT3cCn0q1oizZp) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Wicked Game \(Acoustic\)](https://open.spotify.com/album/4zx6qXyr23BJ4yA603Dh8q) | 4:12 | 2022-03-25 |  |
+| [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 | 2022-06-17 |  |
 | [With You](https://open.spotify.com/track/0Bq1REhXXSEvKwH91K3nWc) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2Q3BIgHqKOmCz0gSeaLnr6) | 3:36 | 2022-03-25 |  |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2022-03-25 |  |
 | [Wristwatch](https://open.spotify.com/track/7JOD18T9PdxSSOhuxPt1N6) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Wristwatch](https://open.spotify.com/album/0uf7iKIwg6gLgsI4Tm8ZLf) | 3:59 | 2022-03-25 |  |

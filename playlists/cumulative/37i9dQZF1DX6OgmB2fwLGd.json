@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "Foreign Exchange",
+        "url": "https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh"
+      },
+      "artists": [
+        {
+          "name": "Rx Papi",
+          "url": "https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ"
+        },
+        {
+          "name": "Gud",
+          "url": "https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118750,
+      "name": "12 Stout Street",
+      "url": "https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g"
+    },
+    {
+      "album": {
         "name": "2 MUCH (feat. Jasiah & KA$HDAMI)",
         "url": "https://open.spotify.com/album/0Hqf02325Kr1GRgHM3w8vf"
       },

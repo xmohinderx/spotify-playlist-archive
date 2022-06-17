@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-183 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+186 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Last One](https://open.spotify.com/track/1Bw0Vj3hp6Dos8xgAV9rLm) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Tidy your Room](https://open.spotify.com/album/6ov0vylgSHHYQbCWBAK3Sd) | 2:39 | 2021-12-07 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2021-12-07 |  |
 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 | 2021-12-07 | 2022-05-20 |
+| [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 | 2022-06-17 |  |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2021-12-07 |  |
 | [Lofi love](https://open.spotify.com/track/4WrzPaoDS5vtaMuzQ53ffb) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:36 | 2022-04-15 |  |
 | [Lonely Horseman](https://open.spotify.com/track/3VDiKLJhDIRktINkdoIfUC) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Lonely Horseman](https://open.spotify.com/album/5cGGSO12FCm088hdzmcMN8) | 2:00 | 2021-12-07 |  |
@@ -179,9 +180,11 @@
 | [True Colors](https://open.spotify.com/track/3Xrw2bkSR6TmHs5xE57fRE) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 2:28 | 2021-12-07 |  |
 | [Tunnel](https://open.spotify.com/track/4yyYltMHYoVhOQAkBAc8bq) | [Dominic Mena](https://open.spotify.com/artist/6BL0Z3L7QxNmhbZAcYGH6q) | [Tunnel](https://open.spotify.com/album/0ROTvBg3yGoTf0FFcFxryc) | 2:07 | 2021-12-07 |  |
 | [Un Poco Más](https://open.spotify.com/track/3zfLOTXWuj9wbQADkr8EyB) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Un Poco Más](https://open.spotify.com/album/0hf7N5IDkilIrFy6bcM2Rn) | 2:25 | 2021-12-07 |  |
+| [Under The Waterfall Mist](https://open.spotify.com/track/4wewUPcd9IlG5kFuZ53PIR) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/58l7zjlUwdeaUBlmLFDKtr) | 3:00 | 2022-06-17 |  |
 | [underneath the rain](https://open.spotify.com/track/6EruekpR534eGN50w9u8eF) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [wrongnumber](https://open.spotify.com/artist/3jU1KxwkbO4pQfJblgxUVi) | [underneath the rain](https://open.spotify.com/album/6yk5dT0SLFF74hn0PEI6j2) | 2:32 | 2022-05-20 | 2022-05-27 |
 | [Unencumbered](https://open.spotify.com/track/4fb9chYMC6ExF1eSd4Q9Uu) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [What is Earth](https://open.spotify.com/album/3pSKpzmlqKf3skN687fm7X) | 2:32 | 2022-01-28 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-12-07 |  |
+| [Vague Miracle](https://open.spotify.com/track/5BmVCvb2jjRSWhzUnefhlz) | [Vincent Adara](https://open.spotify.com/artist/1PKXtmjzzAeBmAhIQM6O4j) | [Vague Miracle](https://open.spotify.com/album/3cQbO7Vfn6TdgUKEfpmH1F) | 1:55 | 2022-06-17 |  |
 | [Wandering Spirits](https://open.spotify.com/track/76m67K7hbJPgW4rtsPKO6j) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Wandering Spirits](https://open.spotify.com/album/612IheuxPoqhGTVq3POXUM) | 2:45 | 2021-12-07 |  |
 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 | 2021-12-07 |  |
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2021-12-07 |  |

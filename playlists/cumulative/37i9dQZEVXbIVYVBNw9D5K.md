@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-453 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+454 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
-| [Bla Bla Bla Bla](https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:39 | 2022-06-04 |  |
+| [Bla Bla Bla Bla](https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:39 | 2022-06-04 | 2022-06-17 |
 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 | 2021-05-20 | 2021-05-21 |
 | [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 | 2022-06-01 |
 | [BOZGUN](https://open.spotify.com/track/5OmwljVFUGG5xpbwH0BS7A) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 2:36 | 2021-06-13 | 2021-06-14 |
@@ -225,6 +225,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-18 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-27 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
+| [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 |  |
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |

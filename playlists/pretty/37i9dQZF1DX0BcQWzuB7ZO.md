@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with James Hype.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,542,515 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,543,621 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 62 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 |
 | 63 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 64 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
-| 65 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
+| 65 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 66 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 |
 | 67 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 |
 | 68 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 |

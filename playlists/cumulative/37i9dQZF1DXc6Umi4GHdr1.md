@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-109 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+110 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 |  |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2021-12-10 |  |
+| [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2022-06-17 |  |
 | [Sir Lancelot](https://open.spotify.com/track/2CPWOD9WJN19q2NY2sqpq7) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Childhood](https://open.spotify.com/album/6t2utOCjrCkGnyYGEh6Ygg) | 2:53 | 2021-12-10 |  |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |

@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-107 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+110 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Another Day](https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 3:48 | 2021-12-13 |  |
 | [Back for More](https://open.spotify.com/track/5XMO90auPHxUwZtTmWaCP5) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Eugene Wilde](https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv) | [Back for More](https://open.spotify.com/album/7Ebqd2aKNcelzNbTvG9glF) | 4:32 | 2021-12-13 | 2022-01-11 |
 | [Back of My Hand \(Live\)](https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Original Songs and Sound \(Deluxe Version\)](https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud) | 4:25 | 2021-12-13 |  |
-| [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 | 2021-12-13 |  |
+| [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 | 2021-12-13 | 2022-06-17 |
 | [Belong To You](https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Belong To You](https://open.spotify.com/album/4zvlLzjTjhSzZeINzOcp5Q) | 3:05 | 2021-12-13 |  |
 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 | 2021-12-13 |  |
 | [Blended Family \(What You Do For Love\)](https://open.spotify.com/track/5urU79wSXrxVUhQAYYNWnF) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HERE](https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz) | 3:31 | 2021-12-13 |  |
@@ -80,8 +80,9 @@
 | [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 | 2021-12-13 |  |
 | [Say Something](https://open.spotify.com/track/4nSO7iKiwPj4wJjylLCu0s) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Say Something](https://open.spotify.com/album/4NxOn5zVNIZiLODN8t5hbb) | 2:40 | 2021-12-13 | 2022-04-29 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2022-05-17 |  |
+| [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 |  |
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-12-13 |  |
-| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-12-13 |  |
+| [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-12-13 | 2022-06-17 |
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2021-12-13 |  |
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2021-12-13 |  |
 | [Soul Food](https://open.spotify.com/track/445dqIqkN3pgi73mldzj4K) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Soul Food](https://open.spotify.com/album/2htOZn8am6ef2XY9FVWusV) | 2:53 | 2021-12-13 | 2022-05-18 |
@@ -115,5 +116,7 @@
 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-04-28 |  |
 | [Yes We Can Can](https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E) | 5:42 | 2021-12-13 |  |
 | [You](https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [You](https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP) | 3:26 | 2021-12-13 |  |
+| [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 | 2022-06-16 |  |
+| [You’ve Got A Hard Head](https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Listen](https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d) | 4:33 | 2022-06-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

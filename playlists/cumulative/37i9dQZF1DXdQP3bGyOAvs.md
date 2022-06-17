@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-183 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+184 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-05-20 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-05-20 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2022-05-20 |  |
+| [Ciao Janet](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Ciao Janet](https://open.spotify.com/album/3cl6WY7e8NpajLtdHYMRCG) | 2:50 | 2022-06-17 |  |
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2022-05-20 |  |
 | [Clear Skies](https://open.spotify.com/track/1WROw8DEFXlD3aMJygdOAs) | [Neon Mountains](https://open.spotify.com/artist/722pzglIWbUCG4b4GuP99O) | [Clear Skies](https://open.spotify.com/album/6lmVRs75eLVbQq40HQK1bq) | 2:30 | 2022-05-20 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-05-20 | 2022-06-03 |

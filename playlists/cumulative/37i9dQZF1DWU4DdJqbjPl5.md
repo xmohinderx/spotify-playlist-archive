@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d?si=5e3uW0FKTZSYZpO6m7c2fw" > Moonga K </a>
+> The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=tJGx9zOUQL\-NNWRvpGIghg" > Tay Iwar </a>
 
-99 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+101 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-15 |  |
 | [Back 2 Ya](https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/3RxSYVzGWrUTxMXQKfdJyo) | 3:39 | 2022-06-03 |  |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 |  |
+| [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 |  |
 | [Be My Guest](https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Be My Guest](https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm) | 3:30 | 2021-08-27 |  |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-03-11 |  |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2020-12-04 |  |
@@ -59,6 +60,7 @@
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 |  |
 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 | 2022-04-28 |  |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 |  |
+| [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-16 |  |
 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 | 2022-01-27 | 2022-06-04 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 |  |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2021-10-08 |  |
@@ -69,7 +71,7 @@
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 |  |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-08-06 |  |
 | [next2me](https://open.spotify.com/track/47lR4Uq1UAMHJiKPG5IhU6) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [next2me](https://open.spotify.com/album/6kRZAPjAUEotOefxcYN2XS) | 3:47 | 2021-08-06 |  |
-| [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 | 2022-05-26 |  |
+| [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 | 2022-05-26 | 2022-06-17 |
 | [Nike](https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 | 2022-02-24 |  |
 | [Nikita](https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nikita](https://open.spotify.com/album/5L2vzVovIvzKKXD2nAYZtr) | 2:42 | 2021-11-11 |  |
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 |  |
@@ -101,7 +103,7 @@
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 |  |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 |  |
 | [Understand](https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB) | 2:54 | 2021-07-09 |  |
-| [up](https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [up](https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv) | 2:53 | 2022-05-19 |  |
+| [up](https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [up](https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv) | 2:53 | 2022-05-19 | 2022-06-17 |
 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 | 2022-02-17 | 2022-04-08 |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-03 |  |
 | [Walk Away](https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 3:01 | 2022-02-11 | 2022-04-22 |

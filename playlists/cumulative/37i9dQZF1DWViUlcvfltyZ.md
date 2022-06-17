@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre più o meno distorte \(e, in cover, gli Zen Circus\)
+> Chitarre più o meno distorte \(e, in cover, La Superluna di Drone Kong di Nikki\)
 
-93 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+97 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,16 +17,17 @@
 | [ASSOLO](https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [ASSOLO](https://open.spotify.com/album/723w7XUsnkgzhgbilXylzU) | 2:38 | 2022-05-09 | 2022-05-27 |
 | [Bed bugs](https://open.spotify.com/track/0f6w3CkDT3HlSuMYl3qsWQ) | [BAZAAR](https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd) | [Bed bugs](https://open.spotify.com/album/0QF16110YO5fcOfsU4WOCl) | 3:34 | 2022-05-26 |  |
 | [Blu](https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Blu](https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj) | 2:40 | 2022-05-26 |  |
-| [Blue Eyes](https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Blue Eyes](https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O) | 3:52 | 2022-06-09 |  |
+| [Blue Eyes](https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Blue Eyes](https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O) | 3:52 | 2022-06-09 | 2022-06-17 |
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 |  |
 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 | 2022-05-09 | 2022-05-13 |
 | [Cadetto Lin non ferma su Marte](https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET) | [Lantern](https://open.spotify.com/artist/0oSXdle7wTokdA7ZrVlOXW) | [Cadetto Lin non ferma su Marte](https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx) | 2:15 | 2022-05-09 |  |
 | [CALMI](https://open.spotify.com/track/11e830eTMrExk20UCGtLr2) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [SUPER SOFT RESET](https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU) | 2:17 | 2022-05-09 | 2022-05-13 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
 | [Charlie Sheen](https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Charlie Sheen](https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX) | 4:09 | 2022-05-19 |  |
+| [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 | 2022-06-16 |  |
 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 | 2022-05-09 |  |
-| [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 |  |
-| [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-05-09 | 2022-05-20 |
+| [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |
+| [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-05-09 |  |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-05-12 | 2022-06-10 |
 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 | 2022-05-09 |  |
 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 | 2022-05-09 |  |
@@ -40,6 +41,7 @@
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 |  |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
+| [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 |  |
 | [Hail the Proper Karl](https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Secret Alliance](https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd) | 2:24 | 2022-05-09 | 2022-06-03 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 |  |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
@@ -47,6 +49,8 @@
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-09 |  |
 | [Idea](https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Idea](https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H) | 2:45 | 2022-05-12 |  |
 | [Identikit / PLOT TWIST](https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Identikit / PLOT TWIST](https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx) | 2:46 | 2022-05-09 |  |
+| [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2022-06-16 |  |
+| [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 |  |
 | [il mondo va veloce](https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [il mondo va veloce](https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ) | 3:31 | 2022-05-12 |  |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 |  |
 | [Jack \(Non Sa\)](https://open.spotify.com/track/3lEeE5InLjr2Wpu0zeQ64b) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Jack \(Non Sa\)](https://open.spotify.com/album/6Pado7DoRbTZ3LSkXefVSr) | 3:05 | 2022-05-09 |  |

@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: Enrique Iglesias
 
-64 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
+65 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 | 2022-01-14 |  |
 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-01-14 |  |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-06 |  |
-| [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 |  |
+| [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 | 2022-06-17 |
+| [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-16 |  |
 | [No Podrás](https://open.spotify.com/track/6gZOW0BdA7G1Nkg0uK0YDI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Singles](https://open.spotify.com/album/6ZxbfjQ6vmmS4aa4qjgfRV) | 4:05 | 2022-01-14 |  |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2022-01-14 | 2022-04-02 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 | 2022-01-14 |  |

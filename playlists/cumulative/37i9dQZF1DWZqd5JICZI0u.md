@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-375 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+381 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Assonnato](https://open.spotify.com/track/4SO82a7foP5oVqb9cspxd5) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [Assonnato](https://open.spotify.com/album/6mjmPm2enQLom4hwJg3B3G) | 3:04 | 2020-12-03 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2020-09-30\* | 2021-09-14 |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-19 |  |
+| [Auriga](https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y) | [Boris Wilde](https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE) | [Clusters](https://open.spotify.com/album/1y0KC5V5fkivO8IH323prK) | 2:58 | 2022-06-16 |  |
 | [Aurora](https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Aurora](https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy) | 3:05 | 2020-11-19 | 2022-03-25 |
 | [Aurora](https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Aurora](https://open.spotify.com/album/3jAfYsRRP5zGAqbikyROKa) | 3:22 | 2021-09-14 |  |
 | [Autumn Forest](https://open.spotify.com/track/4rYbGAvD3Es5dOulUhAviv) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [Seasons EP](https://open.spotify.com/album/0G1Ho8P2ZzSv1o7beY3m7Y) | 2:50 | 2020-09-30\* |  |
@@ -42,7 +43,7 @@
 | [Big Sky](https://open.spotify.com/track/1e6PKJmQ5fV0VHwD31GPQK) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Always Moving](https://open.spotify.com/album/7rYhYAlWwTWBPEjOsd4ejO) | 4:03 | 2021-04-02 |  |
 | [Blame Leads to Shame](https://open.spotify.com/track/5DJhKbXvR8wcX2cZKmoMg0) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 3:52 | 2020-09-30\* | 2021-10-21 |
 | [Blua Aero](https://open.spotify.com/track/3ff3N25wTsj8T1mf2gMTQp) | [Manolakas](https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi) | [Blua Aero](https://open.spotify.com/album/2rbrHz1pIDymFTlTqImW3Z) | 2:08 | 2021-04-14 |  |
-| [Blunda](https://open.spotify.com/track/49I7QPn7L2aZHnXp3gK3jn) | [Astrid Alvarsson](https://open.spotify.com/artist/6VyE0DpIbQFZlbLCHUdePH) | [Blunda](https://open.spotify.com/album/5Qz5JcIaJzDYdjqiWjcNDK) | 3:32 | 2021-04-02 |  |
+| [Blunda](https://open.spotify.com/track/49I7QPn7L2aZHnXp3gK3jn) | [Astrid Alvarsson](https://open.spotify.com/artist/6VyE0DpIbQFZlbLCHUdePH) | [Blunda](https://open.spotify.com/album/5Qz5JcIaJzDYdjqiWjcNDK) | 3:32 | 2021-04-02 | 2022-06-17 |
 | [Bouncing Clouds](https://open.spotify.com/track/3mZprzE78ZgB9fPSNNb6GI) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Bouncing Clouds](https://open.spotify.com/album/2sb3bHuGWQgyZne2DOyBqr) | 4:50 | 2020-09-30\* | 2021-09-14 |
 | [Breath Of Life](https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:34 | 2020-09-30\* | 2021-10-21 |
 | [Breathe](https://open.spotify.com/track/6o9CIioJ5lDlz9fmgILo3q) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Breathe](https://open.spotify.com/album/5Cz7f35QQnktMlWhmKopX1) | 3:02 | 2021-06-16 |  |
@@ -97,7 +98,9 @@
 | [El Chakra Del Corazón, Anahata \- Om En La Clave De F](https://open.spotify.com/track/0ODALQinASCloaogj0xgAF) | [Musica Para Meditacion Profunda](https://open.spotify.com/artist/7aF3R56AqhR8iozAY1xhTv) | [Cantando Om: Meditación En Los 7 Chakras \(Version Con Armonías\)](https://open.spotify.com/album/4ZXkRZt0soSmtIR0Zd850T) | 3:22 | 2020-09-30\* | 2021-10-21 |
 | [El Limbo](https://open.spotify.com/track/7qxiypBdH5wy621o3DATXE) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [El Limbo](https://open.spotify.com/album/3SgHzUeEr4jsjD2msPacHc) | 3:12 | 2021-05-05 |  |
 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2020-09-30\* |  |
+| [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 | 2022-06-16 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2020-11-19 |  |
+| [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 | 2022-06-16 |  |
 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 | 2020-09-30\* |  |
 | [Energy](https://open.spotify.com/track/5gdW6VVL4UNnqtvGs5yyjJ) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 4:11 | 2020-09-30\* | 2021-07-14 |
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2020-09-30\* | 2021-09-14 |
@@ -179,6 +182,7 @@
 | [Le Doux](https://open.spotify.com/track/7pMX0cXGVn2zhWUm2UM8SY) | [Somnia Terra](https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1) | [Le Doux](https://open.spotify.com/album/16x9see46svEoEgyGrnhnp) | 3:09 | 2021-11-26 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2020-09-30\* | 2021-07-14 |
 | [Legend Of Zea](https://open.spotify.com/track/3tzNYs0IcqBBy0eSvyAwB6) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:14 | 2020-09-30\* | 2021-06-16 |
+| [Leniter](https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw) | [Mente](https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ) | [Leniter](https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN) | 2:55 | 2022-06-16 |  |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-03-10 |  |
 | [Léas](https://open.spotify.com/track/58VrQRlGE6ZmTMhOtIGPct) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Léas](https://open.spotify.com/album/4GosHKu9fNJyJDXUS3zaj5) | 3:43 | 2020-09-30\* | 2021-10-27 |
 | [Light Rest](https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Light Rest](https://open.spotify.com/album/1Jmn0i1SjtVnj2IsC05vd8) | 2:49 | 2021-11-10 |  |
@@ -195,6 +199,7 @@
 | [Mandala](https://open.spotify.com/track/1aeKotbZ2wBYuOspDawtwo) | [Lhokanda](https://open.spotify.com/artist/1264capaf0mZntpqmhyXA9) | [Mandala](https://open.spotify.com/album/0l4Q81jBgK9xsxQ8iJFtZx) | 2:17 | 2020-09-30\* |  |
 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 | 2020-09-30\* |  |
 | [Månsken](https://open.spotify.com/track/1XevHoke55cIgL4v7nzYiL) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Månsken](https://open.spotify.com/album/336qA5VY516qiZQC4jV7Ak) | 3:01 | 2020-10-27 | 2022-03-25 |
+| [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 | 2022-06-16 |  |
 | [Mellifluous](https://open.spotify.com/track/1vSqYZ2q0cvwlWNAzkzeOq) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Mellifluous](https://open.spotify.com/album/1xGh7wtH1lMtdhmvf6w35S) | 1:58 | 2020-09-30\* | 2021-09-14 |
 | [Metric](https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Metric](https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY) | 2:24 | 2021-11-26 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-03-24 |  |
@@ -260,6 +265,7 @@
 | [Possibilities](https://open.spotify.com/track/0hlIjPXb7edJXEa9DwErNc) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Possibilities](https://open.spotify.com/album/0xkAcfWOhme0Z1RPQx1tLB) | 3:18 | 2021-06-16 |  |
 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 | 2020-09-30\* |  |
 | [Procyon](https://open.spotify.com/track/0Gf6tK2Xkkiov3bsY3tTPK) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Procyon](https://open.spotify.com/album/53goORkQIiq5prS3iNhS8q) | 3:04 | 2022-01-28 |  |
+| [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 | 2022-06-16 |  |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2020-09-30\* | 2021-03-02 |
 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2021-04-14 |  |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2020-09-30\* | 2021-07-14 |

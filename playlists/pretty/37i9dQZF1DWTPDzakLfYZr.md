@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Ozuna y Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,476 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,615 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 | 8 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 9 | [Te Veré](https://open.spotify.com/track/3gyZIDqDlLNwf8ZLBNGuN2) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Te Veré](https://open.spotify.com/album/3XPw6l9HBd3cgPMzlkY3m6) | 3:05 |
 | 10 | [Canción De Amor](https://open.spotify.com/track/2smiN8hY0HeUhjicag6Ath) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Canción De Amor](https://open.spotify.com/album/5UkFwcfQr9BJ20lFQFSKoz) | 2:49 |
-| 11 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
+| 11 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 12 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
 | 13 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 |
 | 14 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 |

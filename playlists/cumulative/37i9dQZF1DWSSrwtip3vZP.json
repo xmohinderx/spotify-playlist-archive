@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "ALLERGIC",
+        "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "ALLERGIC",
+      "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
+    },
+    {
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa"
       },

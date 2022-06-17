@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,019 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,114 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 |
 | 2 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 |
-| 3 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 |
-| 4 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
+| 3 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 |
+| 4 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 |
 | 5 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 |
 | 6 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
 | 7 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
 | 8 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 9 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
-| 10 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
+| 9 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
+| 10 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
 | 11 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 | 12 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
 | 13 | [Doobna Aata Hai](https://open.spotify.com/track/5WmulZwnY1U5566pqYWstk) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Doobna Aata Hai](https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg) | 5:21 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 16 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 17 | [Dil](https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dil](https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4) | 3:08 |
 | 18 | [Ehsaas](https://open.spotify.com/track/7jY3iEgqKEnVJLLYhkPex3) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ehsaas](https://open.spotify.com/album/00Png6WHwGSedQksDn24w4) | 3:48 |
-| 19 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 |
-| 20 | [Taare](https://open.spotify.com/track/4jflaxgK10KuHI9hzxsT1C) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [DJ Strings](https://open.spotify.com/artist/5dK1U4fQotxj5QCVyC7wJD) | [Taare](https://open.spotify.com/album/7n3mLvH0HLnuykbdAaR3ib) | 3:28 |
+| 19 | [Taare](https://open.spotify.com/track/4jflaxgK10KuHI9hzxsT1C) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [DJ Strings](https://open.spotify.com/artist/5dK1U4fQotxj5QCVyC7wJD) | [Taare](https://open.spotify.com/album/7n3mLvH0HLnuykbdAaR3ib) | 3:28 |
+| 20 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 |
 | 21 | [Humse Khafa](https://open.spotify.com/track/5JbvDBWAFvOnlr53Q9cD5P) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Humse Khafa](https://open.spotify.com/album/1MMpS9n2JdNIN1q4Fr3K1H) | 4:00 |
 | 22 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
 | 23 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 |
 | 75 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
 
-Snapshot ID: `MTY1NTM0MTMyMywwMDAwMDAwMDNiZTg4ZmVhYjkzMGUxNDU5YjlmYTZlYWQxYjA1OGU5`
+Snapshot ID: `MTY1NTQyNzQ5NiwwMDAwMDAwMDBkZmY2ODJmZjM1ZmNkMTRiODJjYzdiYjliNWQ0MTNl`

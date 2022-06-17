@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BTS
 
-225 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+226 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Ghostin'](https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:06 | 2022-03-08 | 2022-05-11 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-22 |  |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
-| [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 |  |
+| [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 |  |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-15 |
@@ -167,6 +167,7 @@
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 |  |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2022-03-09 |
 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-13 |  |
+| [Shut up Kiss Me Feat\. Lil Cherry \- Japanese Version](https://open.spotify.com/track/0EFOGdOhRiPPcEmohA4nXs) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Shut up Kiss Me Feat\. Lil Cherry \(Japanese Version\)](https://open.spotify.com/album/574ZVaoEUhFaArM7BDjoIm) | 3:20 | 2022-06-16 |  |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-03 | 2022-03-18 |
 | [Smile](https://open.spotify.com/track/2gj9ojku1zRQ5o1dTBvts2) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/1bUXcFlwOS8Lh9N40oFi6p) | 3:04 | 2022-03-23 | 2022-06-08 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
@@ -280,6 +280,24 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311813,
+      "name": "Das Urteil",
+      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
+    },
+    {
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -313,7 +331,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 251466,
       "name": "Die Da!?!",
       "url": "https://open.spotify.com/track/1bSYWaCau3CbOUdfkBagGO"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 163506,
       "name": "Du bist Boss",
       "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 227573,
       "name": "Fuffies im Club",
       "url": "https://open.spotify.com/track/65trjE7JXGj7NpjROLS6A0"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 250680,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/1EebWRQAfXwltoDXH2QVK5"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 251306,
       "name": "Widerstand (feat. Gentleman)",
       "url": "https://open.spotify.com/track/3SREWQTntVkUDdhAqgOGy5"

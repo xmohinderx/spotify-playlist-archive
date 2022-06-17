@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-150 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+154 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dover Find](https://open.spotify.com/track/3Msms0f4RJkKykOZ7Zmpfl) | [Seascape Legends](https://open.spotify.com/artist/1vwgUTET0ehuy4bqjY6EzM) | [Caruaru](https://open.spotify.com/album/5cQCtz9OSqRgy95RyORLEb) | 4:02 | 2021-11-10 |  |
 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 | 2021-11-10 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
+| [Above The Ocean](https://open.spotify.com/track/1nJ9P0D1KBjHvalUuFrLAZ) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Above The Ocean](https://open.spotify.com/album/3CWxb7gYGw9HH2etUFxIh4) | 3:14 | 2022-06-16 |  |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2021-11-10 |  |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-04-14 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
@@ -25,6 +26,7 @@
 | [Aurora](https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Aurora](https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1) | 3:13 | 2021-11-10 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 |  |
+| [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-06-16 |  |
 | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts) | [Sisu Syndrome](https://open.spotify.com/artist/0oLpUOxIR7CnkgQggfksI9) | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/album/5ERjTB1ysvHRuZxFpVGuQO) | 2:28 | 2021-11-10 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2021-11-10 | 2022-04-22 |
 | [Blood Moon](https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Blood Moon](https://open.spotify.com/album/32hQvZj9wovY9TOsH29TQn) | 3:53 | 2021-11-10 | 2022-04-22 |
@@ -41,6 +43,7 @@
 | [Cosmic Colours](https://open.spotify.com/track/66QCksfh4IAU0ElpZ7yMXu) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Cosmic Colours](https://open.spotify.com/album/4p1JQDTfGIvf4cIwiM4GX8) | 2:51 | 2021-11-10 |  |
 | [Crevice](https://open.spotify.com/track/5DH1vidFEjKOWjpwEoI8CS) | [Juhani Ahonen](https://open.spotify.com/artist/4ZZFTeqpq5hugMfAdDh4oZ) | [Crevice](https://open.spotify.com/album/2W1qEH10UNw2IXkXLmRdTb) | 2:39 | 2021-11-10 |  |
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2021-11-10 |  |
+| [Dagdraumur](https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Dagdraumur](https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT) | 2:46 | 2022-06-16 |  |
 | [Declarations](https://open.spotify.com/track/54zOGMwyC9Or7rHwcdEv4n) | [Heartbeat Sirens](https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY) | [Thoughts in a Chest](https://open.spotify.com/album/4jqYAYprtPRpO8Cjiesx2T) | 3:32 | 2021-11-10 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2021-11-10 |  |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2021-11-10 |  |
@@ -124,7 +127,8 @@
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Santa Fe Reflection](https://open.spotify.com/track/7hIAFW3wOT3uRN42BXZRPx) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Scales](https://open.spotify.com/album/5SdcXnRTvOdtSDomLsnCAh) | 3:50 | 2021-11-10 |  |
 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-11-10 |  |
-| [Siiasaar](https://open.spotify.com/track/5XIpdciEK4tR1I95ojGw0r) | [Roman Loukas](https://open.spotify.com/artist/0mMyinWmeBOc3OWdByH0Bd) | [Three Side Quests](https://open.spotify.com/album/4qiYeoOxu0BNgBex9qLwZt) | 3:57 | 2021-11-10 |  |
+| [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
+| [Siiasaar](https://open.spotify.com/track/5XIpdciEK4tR1I95ojGw0r) | [Roman Loukas](https://open.spotify.com/artist/0mMyinWmeBOc3OWdByH0Bd) | [Three Side Quests](https://open.spotify.com/album/4qiYeoOxu0BNgBex9qLwZt) | 3:57 | 2021-11-10 | 2022-06-17 |
 | [Silent Eclipse](https://open.spotify.com/track/6HAN6YB5lzLAmElgGDPxtR) | [Rigmoor](https://open.spotify.com/artist/2UzXbdHQhM7KxlSmzPhm5Y) | [Silent Eclipse](https://open.spotify.com/album/3UlmeIRNjgKnBN0ZY5d3jj) | 3:27 | 2021-11-10 |  |
 | [Silverhearts](https://open.spotify.com/track/20EmHh9TVgaZUZ9UvmlvUv) | [Taylor Stephens](https://open.spotify.com/artist/49Cmx1Yp6lQrseq3v712Kc) | [Silverhearts](https://open.spotify.com/album/763n56FRXMTLlU1RrWDvCD) | 3:04 | 2021-11-10 |  |
 | [Sleepy Space](https://open.spotify.com/track/6ksvkmi4eGv0m8Dg9Hhdjn) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [Sleepy Space](https://open.spotify.com/album/6rcEWX5oQJLh4w1knvZkZ2) | 2:06 | 2021-11-10 |  |

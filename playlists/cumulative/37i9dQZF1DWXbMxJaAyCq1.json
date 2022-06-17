@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "This is the remix... escuchalos ac\u00e1. Foto: Chris Lebron, Sech, Jay Wheeler",
+  "description": "This is the remix... escuchalos ac\u00e1. Foto: De La Ghetto, Rauw Alejandro",
   "name": "Remixes Urbanos",
   "published_playlist_ids": [
     "5vLgxBMLeVg8tWML5FMZMe"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 237588,
       "name": "+Linda - Remix",
       "url": "https://open.spotify.com/track/3fjGgq6FEwGcIZfWx9W6ez"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
@@ -1076,6 +1076,40 @@
     },
     {
       "album": {
+        "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
+        "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
+      "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
+    },
+    {
+      "album": {
         "name": "Darte Remix",
         "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
       },
@@ -1315,7 +1349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
@@ -1427,7 +1461,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
@@ -2057,7 +2091,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 267241,
       "name": "Fantasias - Remix",
       "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
@@ -2947,7 +2981,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 250333,
       "name": "La Playa - Remix",
       "url": "https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7"
@@ -3139,7 +3173,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 248499,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq"
@@ -3188,7 +3222,7 @@
     },
     {
       "album": {
-        "name": "Loco por Perrearte (Remix)",
+        "name": "Loco Por Perrearte (Remix)",
         "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
       "artists": [
@@ -3801,7 +3835,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
@@ -4683,7 +4717,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 288469,
       "name": "Rasta Barbie (Remix)",
       "url": "https://open.spotify.com/track/64kNRze29YqCFzFEpQCaHQ"
@@ -5517,7 +5551,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 210352,
       "name": "Turraka - Remix",
       "url": "https://open.spotify.com/track/2Qv0DF1us4LhzLj0Cx9cSn"
@@ -5591,7 +5625,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"

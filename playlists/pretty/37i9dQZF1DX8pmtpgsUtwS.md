@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,747 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,765 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 69 | [Bhaag Bihag](https://open.spotify.com/track/18zLRuM8hi3rTT9jLpRvdU) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [Mrigya](https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE) | 8:05 |
 | 70 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 
-Snapshot ID: `MTY1Mjk0Mjk1MCwwMDAwMDA2MzAwMDAwMTgwZGIxM2QxYWIwMDAwMDE4MGRiMTM5NzM0`
+Snapshot ID: `MTY1NTM2MzU3OSwwMDAwMDA2NDAwMDAwMTgxNmI1YmFlMDEwMDAwMDE4MGRiMTM5NzM0`

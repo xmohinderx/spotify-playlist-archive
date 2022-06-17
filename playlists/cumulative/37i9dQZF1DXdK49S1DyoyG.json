@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Jennifer Paige",
+        "url": "https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ"
+    },
+    {
+      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 228306,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq"

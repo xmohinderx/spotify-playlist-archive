@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,658 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,664 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 67 | [Dark Days](https://open.spotify.com/track/1YptJwVc5cXAH1hul0nzXw) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/0tXbRDVR9O9pY7rbpA3YQf) | 3:05 |
 | 68 | [Pinging \(6 Figures\)](https://open.spotify.com/track/5DioDvyrdjUIyeA07BPpm4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Pinging \(6 Figures\)](https://open.spotify.com/album/0UzN4R3iiz264XP5UXk3bo) | 2:45 |
 | 69 | [In My Head](https://open.spotify.com/track/1dlDzw8OCpS3TnPdw3nP2H) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/3XmQyh6RPXqg8QCILKQvag) | 4:18 |
-| 70 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [KWN](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 |
+| 70 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 |
 | 71 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
 | 72 | [Northern Line](https://open.spotify.com/track/0kptlB6nxzT2uUpqyceYbr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Northern Line](https://open.spotify.com/album/6Oe15DN8qZBu2zFsTQoBjq) | 2:20 |
 | 73 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |

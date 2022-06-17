@@ -2,9 +2,9 @@
 
 ### [Éxitos Chile](https://open.spotify.com/playlist/37i9dQZF1DXclgCwbk0uat)
 
-> ¡Escucha los éxitos de hoy! <br/>Foto: Chencho Corleone, Anuel AA, Ñengo Flow & Chris Jedi.
+> ¡Escucha los éxitos de hoy! <br/>Foto: De La Ghetto, Feid, Paloma Mami, Pailita & Polimá Westcoast.
 
-75 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+76 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-06-09 |  |
 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0) | 2:40 | 2022-04-14 |  |
 | [Toma](https://open.spotify.com/track/0BK8ofe5aiqd4b9ANFpKpY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Toma](https://open.spotify.com/album/6FmTgEJo6aIR2oGpqlLrh0) | 3:15 | 2022-04-20 | 2022-06-07 |
-| [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-04-14 |  |
+| [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-04-14 | 2022-06-17 |
+| [ULTRA SOLO Remix](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO Remix](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-16 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-04-14 |  |
 | [Waka Waka](https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/2RhraG6BolsoZb7bw8WuK8) | 3:00 | 2022-04-14 | 2022-04-21 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-14 |  |

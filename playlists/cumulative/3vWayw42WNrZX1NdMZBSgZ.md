@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Maluma &amp; Chencho Corleone
 
-221 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+222 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-02-17 |  |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-10 |  |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-04 |  |
+| [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-16 |  |
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-05-19 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-04-20 |  |
 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 | 2022-06-03 |  |

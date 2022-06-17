@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widiowati
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
 
-87 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+89 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/0aD7pN12w7BGMijkdG11eK) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2022-05-26 |  |
 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 | 2022-05-26 | 2022-06-10 |
 | [Dalan Liyane \- Koplo](https://open.spotify.com/track/1vJ6MxPyg7ICttbTvKhvJL) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Dalan Liyane \(Koplo\)](https://open.spotify.com/album/44FEnvngkJ8rX2K0gacMqe) | 4:12 | 2022-05-26 |  |
-| [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 | 2022-05-26 |  |
+| [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 | 2022-05-26 | 2022-06-17 |
 | [Dinggo Bukti \(Acoustic\) \- Live](https://open.spotify.com/track/1AVahi38InAvtCnPjRden4) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Acoustic \(Live\)](https://open.spotify.com/album/7c18hfhW7SzmQYfcHyNSWK) | 5:51 | 2022-05-26 | 2022-06-10 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 |  |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 |  |
@@ -62,6 +62,7 @@
 | [Pedhot Janji](https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pedhot Janji](https://open.spotify.com/album/3YnvGg3QhzKyYE733kw6fu) | 6:15 | 2022-05-26 |  |
 | [Pengangguran Yo Lumayan](https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kathul](https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA) | [Pengangguran Yo Lumayan](https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4) | 4:26 | 2022-05-26 |  |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 |  |
+| [Pie Kabarmu](https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Pie Kabarmu](https://open.spotify.com/album/35g5oR2BuklU5XMQ7LBlNZ) | 5:36 | 2022-06-16 |  |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 |  |
 | [Piye Kabare](https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare](https://open.spotify.com/album/28S0iNmcM3csWHIc6m9ob9) | 5:35 | 2022-05-26 |  |
@@ -81,6 +82,7 @@
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2022-05-26 |  |
 | [Tak Lali\-Lali Salahmu](https://open.spotify.com/track/6tpwxUUE8KjFeHT1pjqRjw) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Tak Lali\-Lali Salahmu](https://open.spotify.com/album/4XDvNZmu4lZ0fzx1e75RF9) | 5:53 | 2022-05-26 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2022-05-26 |  |
+| [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 |  |
 | [Temanten](https://open.spotify.com/track/35ozv2GM8b55XTHGzvvaAx) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Temanten](https://open.spotify.com/album/26JAA7Ya33pam0GQJepOFv) | 5:09 | 2022-05-26 | 2022-06-10 |
 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 | 2022-05-26 |  |
 | [Tiket Suargo](https://open.spotify.com/track/0PaHX60BjbIycemtQkGWfm) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tiket Suargo](https://open.spotify.com/album/2hW8Yxj5WRc8QU95RQC7sq) | 5:14 | 2022-05-26 |  |

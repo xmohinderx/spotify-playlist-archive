@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 157733,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
@@ -674,6 +674,44 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1cdOlSvJDZJdVvXyiSWb8H"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs"
+    },
+    {
+      "album": {
         "name": "Cuando la noche arriba",
         "url": "https://open.spotify.com/album/3I5cBoDLQMAymTGPlDeo1O"
       },
@@ -887,7 +925,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -1041,7 +1079,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct"
@@ -1169,7 +1207,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "La Presi\u00f3n",
       "url": "https://open.spotify.com/track/0LXk0yWcGfACtMKX0igobq"
@@ -1485,7 +1523,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 192745,
       "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
       "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
@@ -1913,7 +1951,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e"

@@ -2492,6 +2492,32 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8"
+      },
+      "artists": [
+        {
+          "name": "Raptures.",
+          "url": "https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m"
+        },
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH"
+    },
+    {
+      "album": {
         "name": "SLASH (Halloween Scary Song)",
         "url": "https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH"
       },

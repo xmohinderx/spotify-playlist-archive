@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-117 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+118 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
 | [Salamanca](https://open.spotify.com/track/0wcO44QmAQWAXaCRbyWJzG) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/3SMBwU08IA8vUO3QgC8MK3) | 3:30 | 2021-12-10 |  |
+| [Seasons](https://open.spotify.com/track/2k4okcxh49oktYeFDo1hXZ) | [Mesiki](https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL) | [Seasons](https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf) | 2:30 | 2022-06-16 |  |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-10 |  |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-12-10 |  |
 | [Send a Wish](https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [Send a Wish](https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS) | 2:46 | 2021-12-10 |  |

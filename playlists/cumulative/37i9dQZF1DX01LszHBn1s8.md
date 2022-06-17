@@ -2,9 +2,9 @@
 
 ### [fyp](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> 💙 i would never fall in love again until i found her 💙
+> i'm a barbie girl, in the barbie world 💖🤗🌸
 
-431 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+438 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,12 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-05-19 |  |
 | [As the World Caves In](https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci) | 2:41 | 2022-05-19 |  |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-05-19 |  |
+| [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-16 |  |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2022-05-19 |  |
 | [BAD KIDS](https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [BAD KIDS](https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz) | 1:47 | 2022-05-19 |  |
 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 | 2022-05-19 |  |
+| [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2022-06-16 |  |
+| [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-16 |  |
 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-19 |  |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-05-19 |  |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-05-19 |  |
@@ -127,6 +130,7 @@
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-05-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-05-19 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-19 |  |
+| [Flavor of the Month](https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j) | [Hailey Haus](https://open.spotify.com/artist/5ohxvcrwDPxDTbl2fcwfUL) | [Flavor of the Month](https://open.spotify.com/album/1Uwr253jrhyi6VwSUwz5RO) | 2:20 | 2022-06-16 |  |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-05-19 |  |
 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Flowers \(Say My Name\)](https://open.spotify.com/album/1ZMrAC2zQ3OmlOKFKAKzGA) | 2:38 | 2022-05-19 |  |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-05-19 |  |
@@ -259,6 +263,7 @@
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-05-24 |  |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-05-19 |  |
 | [Misery](https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:36 | 2022-05-19 |  |
+| [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-16 |  |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-05-19 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-05-19 |  |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2022-05-19 |  |
@@ -412,6 +417,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-19 |  |
 | [ur not delilah](https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [of note](https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV) | 2:27 | 2022-05-19 |  |
 | [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 | 2022-05-19 |  |
+| [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-16 |  |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-05-19 |  |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2022-05-19 |  |
 | [Water Under the Bridge](https://open.spotify.com/track/2DRMuw0U0QbkVQxWxdJV3M) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:00 | 2022-05-19 |  |
@@ -436,6 +442,7 @@
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-05-19 |  |
 | [Yonkers](https://open.spotify.com/track/3WQlJpaUUbGtUqAskvGA7c) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU) | 4:09 | 2022-05-19 |  |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-05-19 |  |
+| [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-16 |  |
 | [You're a Jerk](https://open.spotify.com/track/7hZPBVT3M6UQv1eBkkTXfh) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic](https://open.spotify.com/album/7tJeqFSzeIPToU3oZ4fkiB) | 3:09 | 2022-05-19 |  |
 | [You're Not Harry Styles](https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [You're Not Harry Styles](https://open.spotify.com/album/2syexb536heyUjkWkx7Kab) | 2:56 | 2022-05-19 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-19 |  |

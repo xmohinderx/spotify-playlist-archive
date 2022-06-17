@@ -1,13 +1,29 @@
 {
   "description": "Remember these summer tunes?",
-  "num_followers": 357288,
+  "num_followers": 357830,
   "original_name": "Summer Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM0MjM0NSwwMDAwMDAwMDkxZTg4Zjk5NWRmMzI5NzBjNDc0YWE0N2U5YjIzOWVi",
+  "snapshot_id": "MTY1NTQyODQ4MywwMDAwMDAwMGUwMGRkNWU0ODYzMmM0MjQ4NDQzYjE5MDE4NjY1Mjkw",
   "tracks": [
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
@@ -31,38 +47,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/1U8WGKT3mIvxtoJZ9D3UDz"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0w07a1vsKahQMM0RnPXHVT"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -95,18 +95,34 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -143,38 +159,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "C'Mon C'Mon",
-        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -255,34 +255,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -319,18 +303,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -351,86 +335,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "SUPERBLOOM",
-        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "SUPERBLOOM",
-      "url": "https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Higher Love - Single Version",
-      "url": "https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Breakfast at Tiffanys - Single",
         "url": "https://open.spotify.com/album/72WPFsZrhT1fYOrE6uoc7g"
       },
@@ -447,50 +351,34 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
       "artists": [
         {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "The Very Best of KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/7swznakopP5J1aSOzCsalv"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -511,6 +399,86 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "SUPERBLOOM",
+        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "SUPERBLOOM",
+      "url": "https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Chariot - Stripped",
         "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
       },
@@ -527,34 +495,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Cliff Richard & The Shadows",
-          "url": "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Summer Holiday - 2003 Remaster",
-      "url": "https://open.spotify.com/track/054qLeg034PXr1wM3DMstk"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Contours",
-        "url": "https://open.spotify.com/album/2G0JyShMMLNySS5fKwxevJ"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/5MbNAHqNksNDycMZ0WUaO5"
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -571,6 +523,102 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "The Very Best of KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/7swznakopP5J1aSOzCsalv"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Higher Love - Single Version",
+      "url": "https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Atomic Kitten",
+        "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
+      },
+      "artists": [
+        {
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "The Tide Is High - Radio Mix",
+      "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -595,86 +643,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -711,66 +679,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -807,22 +727,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -839,66 +743,134 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Sugar Sugar",
-        "url": "https://open.spotify.com/album/4gAdF0hBwzqhrmgkxHyRni"
+        "name": "Grease (Limited Edition)",
+        "url": "https://open.spotify.com/album/00Rp3j7mKM3qZXkvF9iWcy"
       },
       "artists": [
         {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 163715,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs"
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \"Grease\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2pA1xHmhDxle8pPhhIaWCp"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Contours",
+        "url": "https://open.spotify.com/album/2G0JyShMMLNySS5fKwxevJ"
       },
       "artists": [
         {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
         }
       ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+      "duration_ms": 172400,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/5MbNAHqNksNDycMZ0WUaO5"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo"
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Cliff Richard & The Shadows",
+          "url": "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
         }
       ],
-      "duration_ms": 231905,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O"
+      "duration_ms": 129333,
+      "name": "Summer Holiday - 2003 Remaster",
+      "url": "https://open.spotify.com/track/054qLeg034PXr1wM3DMstk"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Atomic Kitten",
-        "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
       "artists": [
         {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 205360,
-      "name": "The Tide Is High - Radio Mix",
-      "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Children of the Ghetto: The Pye Anthology",
+        "url": "https://open.spotify.com/album/4YMGASMu3PZaKwq6vJoVTc"
+      },
+      "artists": [
+        {
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -967,54 +939,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Motown: The Complete No. 1's",
-        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/1WWbqYAzu1N216ngniTLNq"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Children of the Ghetto: The Pye Anthology",
-        "url": "https://open.spotify.com/album/4YMGASMu3PZaKwq6vJoVTc"
-      },
-      "artists": [
-        {
-          "name": "The Real Thing",
-          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "You To Me Are Everything",
-      "url": "https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "We All Are One: The Best Of Jimmy Cliff",
         "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
       },
@@ -1031,178 +955,50 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+        "name": "Sugar Sugar",
+        "url": "https://open.spotify.com/album/4gAdF0hBwzqhrmgkxHyRni"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
         }
       ],
-      "duration_ms": 234653,
-      "name": "California Gurls",
-      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+      "duration_ms": 163715,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Grease (Limited Edition)",
-        "url": "https://open.spotify.com/album/00Rp3j7mKM3qZXkvF9iWcy"
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
       },
       "artists": [
         {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \"Grease\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2pA1xHmhDxle8pPhhIaWCp"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Just Dance",
-      "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Celebration / Morning Star",
-        "url": "https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Celebration - Single Version",
-      "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Guilty Pleasures (International Version)",
-        "url": "https://open.spotify.com/album/2F3jGeVC9Oua9omnR6Uoi8"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "MMMBop - Single Version",
-      "url": "https://open.spotify.com/track/4PgPnzbAgjCQ2eA6YAWcUw"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Weezer (Green Album)",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+      "duration_ms": 178120,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/1WWbqYAzu1N216ngniTLNq"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1227,6 +1023,94 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 231905,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -1243,66 +1127,122 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
         }
       ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Green River (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1P7vH1YuqEcFndyDMwlgKT"
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/2Sc2fikZMUod9wXnwTTzFx"
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "50 Summer Hits",
-        "url": "https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6"
+        "name": "Celebration / Morning Star",
+        "url": "https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6Zbghkn4qAv5lNUm3Dpy0Q"
+      "duration_ms": 215653,
+      "name": "Celebration - Single Version",
+      "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
     },
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Human Racing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73s7f6K2K8u5GyKUQu6lhY"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
       },
       "artists": [
         {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "D/O",
+          "url": "https://open.spotify.com/artist/512aANbakY9mEaeyKucQur"
         }
       ],
-      "duration_ms": 203853,
-      "name": "I Won't Let The Sun Go Down On Me",
-      "url": "https://open.spotify.com/track/3uGhAyljjACJ9Ln67Kxrjv"
+      "duration_ms": 235000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Weezer (Green Album)",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Grease (Limited Edition)",
+        "url": "https://open.spotify.com/album/00Rp3j7mKM3qZXkvF9iWcy"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/39OKbfmScJ6dVMyqLScPJy"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1323,18 +1263,86 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3"
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
         }
       ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/6jIR8ITF5YSa3i9ILvA9E1"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/371VkfwKiXJxgH5ZPoQNHD"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Guilty Pleasures (International Version)",
+        "url": "https://open.spotify.com/album/2F3jGeVC9Oua9omnR6Uoi8"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "MMMBop - Single Version",
+      "url": "https://open.spotify.com/track/4PgPnzbAgjCQ2eA6YAWcUw"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     }
   ],
   "unique_name": "Summer Throwback",

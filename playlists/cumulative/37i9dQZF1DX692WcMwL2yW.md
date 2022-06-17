@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-258 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+262 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bring on the Blessings](https://open.spotify.com/track/1n31FkTycUv7n7o6kIejeP) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Rooster Visions](https://open.spotify.com/album/3YXmddyswirnkpXfOdtAYG) | 3:08 | 2021-07-09 | 2021-08-26 |
 | [Bruh\(l\) \- Instrumental](https://open.spotify.com/track/57g7f3SIVS2q8jvSumAF2h) | [Airik](https://open.spotify.com/artist/7j3Iu1vbHmw71ozMN1ffdN) | [Bruh\(l\)](https://open.spotify.com/album/3Lkj4MVkgBRxIEAu9Xmalo) | 2:42 | 2021-04-26\* | 2021-04-28 |
 | [By Your Side](https://open.spotify.com/track/1fmDbpJLgK5KHh5vLxCbFI) | [LifestyleDidIt](https://open.spotify.com/artist/30zMAqaq1ZaiL3sCXP41If), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [By Your Side](https://open.spotify.com/album/0q3jcgUPljutZVDwHga3Rk) | 2:45 | 2022-04-08 |  |
-| [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2021-04-26\* |  |
+| [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2021-04-26\* | 2022-06-17 |
 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 |  |
 | [Careless](https://open.spotify.com/track/6OPgcI5qV8HKX0p5Ww9R7X) | [kdril](https://open.spotify.com/artist/0w2DJmwbNHnM4uDsC6cDpy) | [Better Days](https://open.spotify.com/album/0QcPBbrMEABqgXiE2A2gRQ) | 1:32 | 2022-04-22 |  |
 | [Cassie](https://open.spotify.com/track/3eBVTlnu9DZ6dPWCJN5Fyz) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [1979](https://open.spotify.com/album/70GFb2bW6tyYF7KqDJ8QfL) | 3:07 | 2022-05-27 |  |
@@ -65,7 +65,7 @@
 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 | 2021-08-26 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2021-04-26\* | 2022-05-14 |
 | [Double Agent](https://open.spotify.com/track/5BcrWV0sc7dN0bQwIAx8SB) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Double Agent](https://open.spotify.com/album/5qS6evH7F4mdTccmQ3yjB6) | 2:24 | 2021-08-26 |  |
-| [Dreams](https://open.spotify.com/track/5e2yEkftydth7yHMAtnIEY) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 1:58 | 2021-05-07 |  |
+| [Dreams](https://open.spotify.com/track/5e2yEkftydth7yHMAtnIEY) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 1:58 | 2021-05-07 | 2022-06-17 |
 | [Dreamville](https://open.spotify.com/track/0dDAUlIiE8lGAHJSvsvktV) | [Robot Robit](https://open.spotify.com/artist/3ZQr5RhizqlZaMgx0SY1jD) | [Leon](https://open.spotify.com/album/60Jy4WyHIvhiO6NLo6bPy8) | 3:52 | 2021-11-10 |  |
 | [Drill](https://open.spotify.com/track/5IdGkiG8gs1OWIHMXkxfVk) | [Wiicked Keyzz](https://open.spotify.com/artist/07CSdd2clOJqTsleYfQkte), [AnQ Music](https://open.spotify.com/artist/1I1FhryqbRR7SNt59KceN6) | [Conflict Of Interest](https://open.spotify.com/album/7JEkekQ7BmeYlskbpk2fdM) | 2:56 | 2021-05-07 | 2022-03-26 |
 | [Drop of a Hat](https://open.spotify.com/track/2s8k4q54g2ICKQ4XmJRfhF) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:09 | 2021-04-28 | 2021-11-11 |
@@ -93,6 +93,7 @@
 | [Flow Killer](https://open.spotify.com/track/4VSpmMFM9wnjJgbMNFyis9) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol\. 2](https://open.spotify.com/album/2Qwc3sooou8N4HAMKuNJny) | 3:20 | 2022-04-08 |  |
 | [Floweristic](https://open.spotify.com/track/6pKRvIqBqR11TwVeHQLfcH) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 | 2021-04-26\* | 2022-05-14 |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-04-26\* | 2022-05-14 |
+| [Focus talk](https://open.spotify.com/track/0ml00YeQKaWnQ7Ngtu3nwX) | [BY ROD](https://open.spotify.com/artist/54u0XV6MmFvj9tAPCJ1XY0) | [Focus talk](https://open.spotify.com/album/3AOGtXoUYFsMXGwbFXpKny) | 1:22 | 2022-06-17 |  |
 | [Free Agent](https://open.spotify.com/track/3Ogn2JXSjOodULGB2zKIl4) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Courtside](https://open.spotify.com/album/71cnbiiBI4oKmxlM26zSUV) | 3:07 | 2021-04-26\* | 2021-08-26 |
 | [Free Sample](https://open.spotify.com/track/7N1Vq4WmB9xKtYC7ErkNKJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:08 | 2021-04-26\* | 2021-06-04 |
 | [Friction](https://open.spotify.com/track/3H2B44AsFACyQt7RTvqyuf) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:11 | 2022-04-08 |  |
@@ -142,6 +143,7 @@
 | [Low Low](https://open.spotify.com/track/2BL001oJy6k8InQLo3pc6L) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Dark Souls](https://open.spotify.com/album/0kQXksVJtxOi0eNqdlOaLv) | 2:32 | 2021-04-26\* | 2021-08-26 |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-04-26\* | 2021-06-18 |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-04-26\* | 2021-08-26 |
+| [Magic](https://open.spotify.com/track/5Cgfh1HkcBGf5L292x1BZ0) | [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Magic](https://open.spotify.com/album/2LQy68m6YTDS0sGlJeLbWr) | 2:43 | 2022-06-17 |  |
 | [Make It Back](https://open.spotify.com/track/69lMNhktHR6IqWII4hmkfv) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Dark Souls](https://open.spotify.com/album/0kQXksVJtxOi0eNqdlOaLv) | 2:25 | 2021-04-26\* | 2021-06-04 |
 | [Marked Up](https://open.spotify.com/track/7Co6bjlT6ZHgsl2fg3Xaih) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Tainted Colors](https://open.spotify.com/album/3U5MauOzORBRc3nNHFlqOa) | 2:36 | 2021-04-26\* | 2021-10-14 |
 | [Material Culture](https://open.spotify.com/track/4j5cGnoN4zuFzSJEul5NvW) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:23 | 2021-06-04 | 2021-08-26 |
@@ -200,6 +202,7 @@
 | [Sensory](https://open.spotify.com/track/70foYW4a0fEYwy60SwEYUj) | [DARKCITY](https://open.spotify.com/artist/5E5kMELbzQ56qBssHVWlsy), [root](https://open.spotify.com/artist/1k27JeD1SDSojaZok0SoPO), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Sensory](https://open.spotify.com/album/5XGspEqpsGTTSnryJ9D1HB) | 4:19 | 2022-05-27 |  |
 | [Seoul Flower Market](https://open.spotify.com/track/1gWfvRd62abG1qVCk4p49k) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:20 | 2022-06-10 |  |
 | [Shaolin](https://open.spotify.com/track/3oY8edFQA1IjGaHv5H1ol1) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Magnum](https://open.spotify.com/album/3vYlEDTxOfio3cgUDSQM7Y) | 2:00 | 2021-08-26 | 2022-05-14 |
+| [Shoot For The Stars](https://open.spotify.com/track/52kS9zM2JWsyTG1tTUlrwA) | [SG Beatz](https://open.spotify.com/artist/3AWkypHQ3p6a85QtDKjca5) | [Highlife EP](https://open.spotify.com/album/3IjNNbjnJM3PFGtBdszsqb) | 2:55 | 2022-06-17 |  |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2021-06-04 | 2021-08-26 |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-09-10 |  |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-04-26\* | 2022-05-20 |
@@ -246,6 +249,7 @@
 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2021-06-04 |  |
 | [Tratoria](https://open.spotify.com/track/3IX30GXLumSoisqM3qUHAZ) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 1:49 | 2022-05-20 |  |
 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 | 2021-08-26 |  |
+| [Unfaithful](https://open.spotify.com/track/0PhO372l28G96GYTAIguhO) | [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Unfaithful](https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz) | 2:36 | 2022-06-17 |  |
 | [Vaporize](https://open.spotify.com/track/6N7Hgy6ZpFxdK8rxXZh9TB) | [Squiid](https://open.spotify.com/artist/7g0KymGegEPhis87m1lWWm) | [Pandoras Box / Vaporize](https://open.spotify.com/album/1ocggLB9OdafNBm5OLXDai) | 3:24 | 2021-04-26\* | 2022-05-20 |
 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 | 2021-10-14 |  |
 | [Vintage Love](https://open.spotify.com/track/7vLlbkZYFLbwLearl7zYIB) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:19 | 2021-04-26\* | 2021-09-10 |

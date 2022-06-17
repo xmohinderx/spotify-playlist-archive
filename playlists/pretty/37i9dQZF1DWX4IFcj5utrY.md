@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=1ORIcJ3kQMmWPNTagJ5Vjw">FKA Mash</a> and <a href="https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh?si=7EBaaUejTiytHa2OzLHkwA">Sio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,423 likes - 80 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,443 likes - 80 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

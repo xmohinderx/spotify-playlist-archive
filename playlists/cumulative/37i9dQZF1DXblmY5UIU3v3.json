@@ -310,6 +310,24 @@
     },
     {
       "album": {
+        "name": "Dubai",
+        "url": "https://open.spotify.com/album/0nxlL5KuQPIlqgj6uJ6j9C"
+      },
+      "artists": [
+        {
+          "name": "Mosees",
+          "url": "https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/21JaPxq2EGDDHKxGX8Cwwl"
+    },
+    {
+      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/6IzhSilCIno7FCwaj74CmD"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 143400,
       "name": "Dune",
       "url": "https://open.spotify.com/track/3DYl0qnXwMYMKcXHn95i7d"
@@ -503,10 +521,28 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 139200,
       "name": "GVNG",
       "url": "https://open.spotify.com/track/1qeBLpAhPKExWU5PMtwm8K"
+    },
+    {
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/4EaWwQo0tvKH0lA0k2grua"
+      },
+      "artists": [
+        {
+          "name": "Libercio",
+          "url": "https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200732,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/7LXY7z2jCdCeYENgkLNwEI"
     },
     {
       "album": {
@@ -859,7 +895,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 165972,
       "name": "LTE",
       "url": "https://open.spotify.com/track/0wwgILP45gwfpQC8AWhhsq"
@@ -938,7 +974,7 @@
         },
         {
           "name": "MGL",
-          "url": "https://open.spotify.com/artist/4N3b19KLqITb3Pkge2asGR"
+          "url": "https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak"
         }
       ],
       "date_added": "2022-06-10",
@@ -987,7 +1023,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 199200,
       "name": "Oley Oley",
       "url": "https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c"
@@ -1053,6 +1089,28 @@
       "duration_ms": 170186,
       "name": "Panda (feat. Tony Koma)",
       "url": "https://open.spotify.com/track/7lFSuErjiTytfOzq0gszXW"
+    },
+    {
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/0n10JebJ5LL4j5iTEzCqnO"
+      },
+      "artists": [
+        {
+          "name": "BLVCK PUMV",
+          "url": "https://open.spotify.com/artist/4aaNIKVG4UIDzZRuxfISmR"
+        },
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/2ouWaJXeTv4kLmqRsc7Wcb"
     },
     {
       "album": {
@@ -1353,6 +1411,24 @@
       "duration_ms": 150588,
       "name": "Shagy",
       "url": "https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC"
+    },
+    {
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/4yyGTE0XiE7czQSEYqPMKX"
+      },
+      "artists": [
+        {
+          "name": "WYR GEMI",
+          "url": "https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151484,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/3OHHcI6PTUgAFeQHJLQdB8"
     },
     {
       "album": {

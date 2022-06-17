@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-214 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+216 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [Avalanche](https://open.spotify.com/track/1Nm2fVCwabKAa7iVGsfGWy) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:34 | 2022-01-20 |  |
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-12-09 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-12-09 |  |
+| [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-09 |  |
 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 |  |
-| [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-09 |  |
+| [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-09 | 2022-06-17 |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2021-12-09 |  |
 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 | 2021-12-09 |  |
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2021-12-09 |  |
@@ -55,6 +56,7 @@
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2021-12-09 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-12-09 |  |
 | [Elusive](https://open.spotify.com/track/2qIW959qt0als3uu3gtjwB) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Elusive](https://open.spotify.com/album/0qxfxLXn8myAJLXKa6EmFS) | 2:15 | 2021-12-09 |  |
+| [Essential Sleep](https://open.spotify.com/track/7FkskPFn9biiXHFqFn4jFD) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Essential Sleep](https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh) | 2:12 | 2022-06-16 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-09 |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-12-09 |  |
 | [Fader](https://open.spotify.com/track/2TDlvWDhZNGbf977jr8nyQ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 3:24 | 2021-12-09 | 2022-03-22 |

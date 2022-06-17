@@ -1844,6 +1844,24 @@
     },
     {
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "El Amor de Su Vida",
+      "url": "https://open.spotify.com/track/69iJP5V8VIgSszqmEV9TB5"
+    },
+    {
+      "album": {
         "name": "El Belicon",
         "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
       },
@@ -4470,6 +4488,24 @@
     },
     {
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162011,
+      "name": "Pong\u00e1monos de Acuerdo",
+      "url": "https://open.spotify.com/track/6rLVgaupR7U8uOWxAMkjAX"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/0g7eXC0EmnEshMIWSP7Lpw"
       },
@@ -4689,7 +4725,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 133365,
       "name": "Queen of Pain",
       "url": "https://open.spotify.com/track/5IJWadF9aEwG1H4iIrYyUz"
@@ -4983,7 +5019,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 234362,
       "name": "Sea Shanty Medley",
       "url": "https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2"

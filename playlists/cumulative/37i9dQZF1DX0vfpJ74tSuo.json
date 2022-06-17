@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 144426,
       "name": "Baby What You Want Me To Do",
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 229093,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/27gKtPpGT849HU3g2J6omx"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 383706,
       "name": "Dengue Woman Blues",
       "url": "https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+      },
+      "artists": [
+        {
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "God Moves on the Water",
+      "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
+    },
+    {
+      "album": {
         "name": "Great God Almighty (Demo, Summer 2018)",
         "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 188813,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 222199,
       "name": "Shake It for Me",
       "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 162626,
       "name": "Walkin Man",
       "url": "https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"

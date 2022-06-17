@@ -1,13 +1,33 @@
 {
-  "description": "Check out the Official Halftime Playlist. Watch now on Netflix. ",
-  "num_followers": 142,
+  "description": "Check out Jennifer Lopez's Official Halftime playlist. ",
+  "num_followers": 575,
   "original_name": "Halftime Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTI0Mjk4NywwMDAwMDAwMzAwMDAwMTgxNjQyYjk3OGMwMDAwMDE4MTYzMWZhYjA5",
+  "snapshot_id": "MTY1NTQxMzk0MiwwMDAwMDAwNTAwMDAwMTgxNmU1YzI5N2IwMDAwMDE4MTYzMWZhYjA5",
   "tracks": [
+    {
+      "added_at": "2022-06-16 21:12:22",
+      "album": {
+        "name": "Same Girl (with French Montana) [Halftime Remix]",
+        "url": "https://open.spotify.com/album/6BaYeNIzZzrIpAvGSRgcoc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 260643,
+      "name": "Same Girl (with French Montana) - Halftime Remix",
+      "url": "https://open.spotify.com/track/2Xar8bp6rKIY8bOogzQ1HZ"
+    },
     {
       "added_at": "2022-06-14 16:52:45",
       "album": {
@@ -539,6 +559,26 @@
       "duration_ms": 329906,
       "name": "Let's Get Loud - Castle Hill Club Mix - Bastone and Burnz",
       "url": "https://open.spotify.com/track/4HRCX7sFKqs2Hj0b9Nglj9"
+    },
+    {
+      "added_at": "2022-06-16 21:12:22",
+      "album": {
+        "name": "This Land Is Your Land (feat. United States Marine Band) [2021 Inauguration]",
+        "url": "https://open.spotify.com/album/0ABSa2wDLDCz5yhINC2cOe"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        }
+      ],
+      "duration_ms": 176651,
+      "name": "This Land Is Your Land (feat. United States Marine Band) - 2021 Inauguration",
+      "url": "https://open.spotify.com/track/3Qi3YhHKQs7gA8BKAkuWbS"
     }
   ],
   "unique_name": "Halftime Official Playlist",

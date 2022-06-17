@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-110 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+112 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amplector](https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:03 | 2021-12-23 |  |
 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2021-12-23 |  |
 | [Astral Wonder](https://open.spotify.com/track/7En6m2Yg3J1zAq895bxl78) | [Moon Oceans](https://open.spotify.com/artist/39qPWYWkYbi7esvFXiUpss) | [Solitude in the Stars](https://open.spotify.com/album/20QiaX1rJkQLMxS1UDd9uf) | 3:01 | 2021-12-23 |  |
+| [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
 | [Awyr](https://open.spotify.com/track/7yMzhnHDOwrRE8xSHg1odL) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Awyr](https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9) | 3:53 | 2021-12-23 |  |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2021-12-23 |  |
 | [Between the Stars](https://open.spotify.com/track/1u3394OPsyZUVhntIy1L2p) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Between the Stars](https://open.spotify.com/album/0PISB3zGrFq3BzqNPunrkI) | 3:35 | 2021-12-23 |  |
@@ -86,6 +87,7 @@
 | [Rising](https://open.spotify.com/track/0VV45CwyCH6IUkrckbVbNd) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Wellness Portal](https://open.spotify.com/album/19nYyLIiUYfGOtDDVIRoA9) | 2:19 | 2021-12-23 |  |
 | [Sacred part one](https://open.spotify.com/track/7qobsQFx45nRS50uSFUcsr) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Sacred](https://open.spotify.com/album/2JRvXNhvAX1entijhW0F4r) | 8:42 | 2021-12-23 |  |
 | [Self Reflection](https://open.spotify.com/track/2VTxY7VSr3SglGky02DHvq) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Beyond Imagination](https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5) | 3:32 | 2021-12-23 |  |
+| [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
 | [Signs & Wonders](https://open.spotify.com/track/0sUyb2pkHIrXiEcF0FSFzy) | [Hazel Shore](https://open.spotify.com/artist/77cBxvbzMnrholixIjtXVR) | [Signs & Wonders](https://open.spotify.com/album/0UR5nR089lZUU9GWmhGZrN) | 2:59 | 2021-12-23 |  |
 | [Silence](https://open.spotify.com/track/5FULRUSFmbfBmxb6maxb83) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Silence](https://open.spotify.com/album/1U5TPgwvxnBLHrfhxMAkJm) | 3:05 | 2022-01-19 |  |
 | [Sleep](https://open.spotify.com/track/1UYojuIrBcwtyoOEpGYWCy) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Land of Dreams](https://open.spotify.com/album/0ws1Hx2UOl1SPyN84QgWzE) | 3:19 | 2021-12-23 |  |

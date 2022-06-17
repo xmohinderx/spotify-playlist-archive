@@ -4,7 +4,7 @@
 
 > next gen pop featuring Alexa Cappelli
 
-968 songs - 1 day 22 hr 59 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+969 songs - 1 day 23 hr 2 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -967,6 +967,7 @@
 | [Yoga \(with salem ilese\)](https://open.spotify.com/track/24qTFQSTSe3cac6LAgBuC4) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Yoga](https://open.spotify.com/album/4dUoTI5rzCbWGX3MPsCH0U) | 2:13 | 2021-04-10 | 2021-04-24 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-17 | 2021-08-21 |
 | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/1GkHyypTFkUf0QQKwYoXH4) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/album/3U75bXq9LhqZoaGoBCXikn) | 2:49 | 2021-02-16\* | 2021-03-06 |
+| [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-16 |  |
 | [You Signed Up For This](https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This / Brooklyn](https://open.spotify.com/album/1wa7AvqK1tUFSl5TTUNJ1e) | 3:15 | 2021-08-14 | 2021-08-21 |
 | [You're Just Drunk](https://open.spotify.com/track/0AqZwGZDiuEVcnNH7HFuZH) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [You're Just Drunk](https://open.spotify.com/album/4JwuJ4BJ3d42R56c8VT9bV) | 2:24 | 2021-10-30 | 2021-11-20 |
 | [You're Too Close](https://open.spotify.com/track/2hKhTUmoqpjTMBkZW1g65z) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [You're Too Close](https://open.spotify.com/album/0OVQe0A1SI1plJ2JShuM61) | 3:37 | 2021-02-16\* | 2021-03-14 |

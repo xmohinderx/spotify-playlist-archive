@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-302 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+306 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2022-05-26 |  |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-05-26 |  |
 | [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2022-05-26 |  |
+| [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 | 2022-06-16 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2022-05-26 |  |
 | [Lakeshore](https://open.spotify.com/track/5NRhAVJrW5o4FK1OKKgbgQ) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Frostbite](https://open.spotify.com/album/0R3T36NUjlBouJiz4OK1h2) | 2:30 | 2022-05-26 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-05-26 |  |
@@ -163,6 +164,7 @@
 | [Marola](https://open.spotify.com/track/4QPXwM90DJW5eQXTsfLKPc) | [Sleep Safari](https://open.spotify.com/artist/6sQz3KXQYUowjmWX4MUEY3) | [Marola](https://open.spotify.com/album/5BDUYHWCEQ2SA0NMNmqLfM) | 2:44 | 2022-05-26 |  |
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2022-05-26 |  |
 | [Melancholy](https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Emotional State](https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb) | 4:24 | 2022-05-26 |  |
+| [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:52 | 2022-06-16 |  |
 | [Mind Portal](https://open.spotify.com/track/31uyD01UTR3mBFcRy5meSQ) | [UNIV3R](https://open.spotify.com/artist/3vN9aKPqZwe8e0ysc2cLKL) | [Mind Portal](https://open.spotify.com/album/6kEYsFk5fctyiPhqBER0EC) | 3:21 | 2022-05-26 |  |
 | [Minutes](https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Minutes](https://open.spotify.com/album/3WNhmBvd5KGFOW2vPEFNkR) | 2:28 | 2022-05-26 |  |
 | [Mirror Lake](https://open.spotify.com/track/0V0lsyEd6xIeCivMSXrQjM) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/0m9DgRII8cWQW7JiXXLxYJ) | 4:31 | 2022-05-26 |  |
@@ -175,6 +177,7 @@
 | [Morning Lagoon](https://open.spotify.com/track/3KKfFCcEjSp4sKqhHjUUGJ) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/6CggWBPDBfzexrJ6ZZY5Ir) | 3:54 | 2022-05-26 |  |
 | [Morning Rain](https://open.spotify.com/track/6XbDqOFRhuOjKzo4uFbdw2) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:28 | 2022-05-26 |  |
 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2022-05-26 |  |
+| [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 | 2022-05-26 |  |
 | [My Road](https://open.spotify.com/track/69rn7QWmrgXcXPSaO2tVFZ) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [My Road](https://open.spotify.com/album/6Iq3praO2HtKnUk6fRvGbf) | 2:58 | 2022-05-26 |  |
 | [Nature](https://open.spotify.com/track/2hNvIVkTOLl86RJ2i3C72n) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:18 | 2022-05-26 |  |
@@ -241,6 +244,7 @@
 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 | 2022-05-26 |  |
 | [Semblance of Reality](https://open.spotify.com/track/35i1Xb0oSslrXF1KT51IdK) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 3:22 | 2022-05-26 |  |
 | [Senses](https://open.spotify.com/track/6RPK5949LC9dFh7ryREN17) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 2:28 | 2022-05-26 |  |
+| [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 | 2022-06-16 |  |
 | [Serene](https://open.spotify.com/track/0fVXN7azMXrnHTIm7Syh2z) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Silent Flyer](https://open.spotify.com/album/5QhhZiEq1OGZeZudIValcS) | 2:41 | 2022-05-26 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2022-05-26 |  |
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2022-05-26 |  |

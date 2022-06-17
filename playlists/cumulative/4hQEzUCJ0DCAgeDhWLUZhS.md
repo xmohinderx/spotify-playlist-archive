@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-297 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+299 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 |  |
 | [Concrete](https://open.spotify.com/track/5vNjpsOhWA8ISGdoxxbFqI) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Concrete](https://open.spotify.com/album/4jY7HdVZJUJjN30dQ8464N) | 3:20 | 2020-10-10\* | 2021-02-25 |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-03-18 |
+| [Crest of the Wave](https://open.spotify.com/track/0B159JJbXHOUtUIChTYVHf) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:46 | 2022-06-17 |  |
 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 | 2020-10-10\* | 2021-02-25 |
 | [Culture Head](https://open.spotify.com/track/4ojof8laCdzwYtQhHswbcR) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Culture Head/HWY 666/Black Eyes Blue/CMFT Must Be Stopped \(Featuring Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6VOTHy1g5S9dceKlzCQENd) | 3:59 | 2020-10-10\* | 2022-03-18 |
 | [CURLED IN](https://open.spotify.com/track/750yDjBGlUvxbzEAg5pJyG) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CURLED IN](https://open.spotify.com/album/0pOi58vWGJ2H9d7ubJk9Ss) | 3:15 | 2021-02-26 | 2022-03-18 |
@@ -202,6 +203,7 @@
 | [Our Love](https://open.spotify.com/track/6j652760j2wctFstQmai4R) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Our Love](https://open.spotify.com/album/7CaFWcgWzWAE8ZwOszn6Og) | 3:09 | 2020-10-10\* | 2021-05-13 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2021-11-04 |  |
 | [Pacifier \- Remastered](https://open.spotify.com/track/5Zd74Pz4U7VZJLFCxWvBaA) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [The General Electric \(Remastered\)](https://open.spotify.com/album/7zHH0kIm7Kcj8dw4LRTMjn) | 4:03 | 2020-12-18 | 2022-03-18 |
+| [Parents Get High \(feat\. Washington\)](https://open.spotify.com/track/5QEeJZYPCM0siUjXI6124P) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Parents Get High \(feat\. Washington\)](https://open.spotify.com/album/6oeQwQvR0m31pt7FjxoHW8) | 3:12 | 2022-06-16 |  |
 | [Party Ghost](https://open.spotify.com/track/72CCtQNYzdvIQHYbCHeD9n) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Party Ghost](https://open.spotify.com/album/2UHQxrTwRzVY1ZAfOHyDew) | 2:47 | 2022-04-28 |  |
 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 | 2020-10-10\* | 2021-05-13 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-07-31 |  |

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Free Mind",
+        "url": "https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe"
+      },
+      "artists": [
+        {
+          "name": "Jupos",
+          "url": "https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210072,
+      "name": "A Free Mind",
+      "url": "https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1"
+    },
+    {
+      "album": {
         "name": "A Mirror Appears",
         "url": "https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I"
       },
@@ -2360,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "ivory comet & sapphire soul",
+        "url": "https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "sapphire soul",
+      "url": "https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77"
+    },
+    {
+      "album": {
         "name": "Sea of Light",
         "url": "https://open.spotify.com/album/6uMyKqYwvpqLFcRH8ueAuj"
       },
@@ -2591,6 +2627,24 @@
       "duration_ms": 182068,
       "name": "Solar Winds",
       "url": "https://open.spotify.com/track/13iYeXC6LAzTierH7y8kJZ"
+    },
+    {
+      "album": {
+        "name": "Solicitude",
+        "url": "https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3"
+      },
+      "artists": [
+        {
+          "name": "Garden of Sound",
+          "url": "https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Solicitude",
+      "url": "https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v"
     },
     {
       "album": {
@@ -2969,6 +3023,24 @@
       "duration_ms": 165000,
       "name": "Umbrian Affair",
       "url": "https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG"
+    },
+    {
+      "album": {
+        "name": "Unkai",
+        "url": "https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt"
+      },
+      "artists": [
+        {
+          "name": "Kazunobu Nishiyama",
+          "url": "https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Unkai",
+      "url": "https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ"
     },
     {
       "album": {

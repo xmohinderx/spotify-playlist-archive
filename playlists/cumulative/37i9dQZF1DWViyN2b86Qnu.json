@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 209684,
       "name": "Am I Here",
       "url": "https://open.spotify.com/track/7FGLcc2GCS80mQbQ9rIIiQ"
@@ -580,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Enby",
+        "url": "https://open.spotify.com/album/0w99dKWUrKRPRYlJUmVvRk"
+      },
+      "artists": [
+        {
+          "name": "WHERIKO",
+          "url": "https://open.spotify.com/artist/6cu3FZbEHlwvbt6H5yPSDV"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187025,
+      "name": "Enby",
+      "url": "https://open.spotify.com/track/21oXYSZJMteZhiOWe8kRPQ"
+    },
+    {
+      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
       },
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 252630,
       "name": "It's All over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4nz1UjOhZx5ZlhbAAnvmSi"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 170897,
       "name": "macrodosing - Spotify Singles",
       "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"

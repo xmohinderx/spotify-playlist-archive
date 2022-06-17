@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-146 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+149 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-03-04 |  |
 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 |  |
 | [Até o Fim](https://open.spotify.com/track/1BkAjte1N1xGkRprWpczQL) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:50 | 2022-03-04 |  |
+| [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
 | [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 |  |
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
 | [Bright River](https://open.spotify.com/track/1cChixGcMwJEJHyNWY4zqj) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [Bright River](https://open.spotify.com/album/1Tjpg01wo1NwaGTE6vkYFn) | 3:21 | 2022-03-04 |  |
@@ -42,6 +43,7 @@
 | [Dreams We Have](https://open.spotify.com/track/6sbuFkKEqcMAtCAZQDpbZv) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [Dreams We Have](https://open.spotify.com/album/3jimBHft9L9TiC4A4ib28Z) | 2:54 | 2022-03-04 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-03-04 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-03-04 |  |
+| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 |  |
 | [Early Morning Dream](https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Early Morning Dream](https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO) | 2:13 | 2022-05-13 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-03-04 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 |  |
@@ -113,6 +115,7 @@
 | [Reise um die Welt](https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 2:51 | 2022-03-04 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-03-04 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-03-04 |  |
+| [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 |  |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-03-04 |  |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |

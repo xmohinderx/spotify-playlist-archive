@@ -4,7 +4,7 @@
 
 > The resurgence is real\. Cover: Beach Bunny
 
-508 songs - 1 day 3 hr 37 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+509 songs - 1 day 3 hr 41 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-04-01 |  |
 | [legroom](https://open.spotify.com/track/4JzuUq7VjNF32PJb51l8n5) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom](https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4) | 1:37 | 2021-10-02 | 2022-04-25 |
 | [Let Em Talk](https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z) | [King Garbage](https://open.spotify.com/artist/2ziuYXYq2WG6cZpa43fWpX) | [Heavy Metal Greasy Love](https://open.spotify.com/album/0xbWAcPqKnN0zi4Fb7E5tD) | 4:02 | 2022-04-01 | 2022-04-21 |
+| [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 |  |
 | [Levels](https://open.spotify.com/track/19317BXBu7jgBfuZvzsPya) | [Quon](https://open.spotify.com/artist/4imMTIlAYPS7dd1YfzLSel) | [Levels](https://open.spotify.com/album/7odS1Jx0CfMysO9z1gDII4) | 3:52 | 2022-04-01 | 2022-04-21 |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-06-10 |  |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-11-19 | 2022-02-12 |
@@ -499,7 +500,7 @@
 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ) | 3:45 | 2022-04-29 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-06-09 | 2022-04-21 |
 | [Where The Lightning Strikes Twice](https://open.spotify.com/track/7dCCRi1ccwVyRZMXVmLDXy) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Where The Lightning Strikes Twice](https://open.spotify.com/album/29XTdQ2FDoFRRLZdBcykoV) | 3:43 | 2021-06-07 | 2022-04-16 |
-| [While Away](https://open.spotify.com/track/0dwH3M8DZ6Xv2VKAXgwbBy) | [TOMMASO](https://open.spotify.com/artist/5xjogwT9Hr7K7CftiTulht), [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [While Away](https://open.spotify.com/album/1KtMWQF432FGw0UysdI1wg) | 2:26 | 2022-06-10 |  |
+| [While Away](https://open.spotify.com/track/0dwH3M8DZ6Xv2VKAXgwbBy) | [TOMMASO](https://open.spotify.com/artist/5xjogwT9Hr7K7CftiTulht), [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [While Away](https://open.spotify.com/album/1KtMWQF432FGw0UysdI1wg) | 2:26 | 2022-06-10 | 2022-06-17 |
 | [Who Knows](https://open.spotify.com/track/75bBKbZzQsO6MX8o4Baig7) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Who Knows](https://open.spotify.com/album/1bAcgjeUL4cY7rdSN2FBRz) | 2:44 | 2022-05-20 |  |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-11 | 2022-04-20 |
 | [Why'd Ya Wanna Come and Act Like That?](https://open.spotify.com/track/6r3jl8BLILxsSjeghBhUTV) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Why'd Ya Wanna Come and Act Like That?](https://open.spotify.com/album/1XDGlu9oNk3cnbgbHxS5Mv) | 2:31 | 2021-06-18 | 2022-01-06 |

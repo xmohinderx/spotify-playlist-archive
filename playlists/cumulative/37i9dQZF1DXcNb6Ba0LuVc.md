@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-261 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+262 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2021-11-11 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2021-11-11 |  |
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2021-11-11 |  |
-| [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2021-11-11 |  |
+| [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2021-11-11 | 2022-06-17 |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-11-11 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2021-11-11 |  |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2021-11-11 |  |
@@ -187,6 +187,7 @@
 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 | 2021-11-11 |  |
 | [Run Boy](https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:32 | 2021-11-11 |  |
 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 | 2022-04-08 |  |
+| [safety match](https://open.spotify.com/track/1QNezn0xbaGoNsMiSNNJeO) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [safety match](https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh) | 2:54 | 2022-06-17 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2021-11-11 |  |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2021-11-11 | 2022-05-27 |
 | [Saturday Bbq](https://open.spotify.com/track/0TisGOx1QUhgqRLRJntfwe) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Saturday Bbq](https://open.spotify.com/album/5y1TH7dDW1uQrDoc8g5Zl2) | 2:26 | 2021-11-11 |  |

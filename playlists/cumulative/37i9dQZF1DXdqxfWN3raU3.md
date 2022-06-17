@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Rels B
 
-144 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+145 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 | 2022-01-04 |  |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 |  |
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2021-12-13 |  |
+| [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-16 |  |
 | [La Faca](https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN) | [Ángel Strife](https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6), [Carol Villagrán](https://open.spotify.com/artist/2t97Z9KUuhtctWUlsmrt4Q) | [La Faca \(Feat\. Carol Villagrán\)](https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw) | 3:18 | 2021-12-13 |  |
 | [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 | 2022-03-07 |  |
 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 | 2022-02-18 |  |
@@ -124,7 +125,7 @@
 | [rosas \(dímelo\)](https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rosas \(dímelo\)](https://open.spotify.com/album/1D5uJ3gKp054hw4T2GYjXT) | 3:31 | 2021-12-13 | 2022-04-15 |
 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-03-08 |  |
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2021-12-13 |  |
-| [Señal](https://open.spotify.com/track/4fq8WAZCvNYr8seBcf1ONw) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Señal](https://open.spotify.com/album/5or6pcsZbmvKWcdmhnYBOK) | 2:39 | 2021-12-13 |  |
+| [Señal](https://open.spotify.com/track/4fq8WAZCvNYr8seBcf1ONw) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Señal](https://open.spotify.com/album/5or6pcsZbmvKWcdmhnYBOK) | 2:39 | 2021-12-13 | 2022-06-17 |
 | [Señales](https://open.spotify.com/track/3gOA4thR0Rv6pMzQgeh3Kk) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Señales](https://open.spotify.com/album/07sanYUCVRMbsAAwBiIWkk) | 3:06 | 2022-03-26 |  |
 | [Shorty](https://open.spotify.com/track/6nOKHS69nUyVHSlWbAkP6q) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Shorty](https://open.spotify.com/album/10Q4axLIttUjmSb026Svui) | 2:37 | 2022-03-11 |  |
 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 | 2021-12-13 | 2022-05-13 |

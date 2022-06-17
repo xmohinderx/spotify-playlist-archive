@@ -4,7 +4,7 @@
 
 > Corridos + Perreo para las bichotas y buchonas 🔥
 
-134 songs - 7 hr 12 min - not published yet
+134 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/6i40GWKtxSkJ5pGI9vGTFP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

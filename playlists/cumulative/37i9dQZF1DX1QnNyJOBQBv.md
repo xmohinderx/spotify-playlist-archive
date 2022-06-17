@@ -4,7 +4,7 @@
 
 > The hottest Latin pop hits right now\. Cover: Morat, Duki
 
-136 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
+137 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [La Rutina](https://open.spotify.com/track/1b03Wjd2GOjbwjhZUJtaQO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Rutina](https://open.spotify.com/album/33VjCQ8nvi5XpGnL4qIKQD) | 3:12 | 2021-12-16 | 2022-02-11 |
 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 | 2022-03-04 | 2022-04-09 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-10 |  |
-| [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 | 2021-12-16 |  |
+| [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 | 2021-12-16 | 2022-06-17 |
+| [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-16 |  |
 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 | 2021-12-16 | 2022-01-22 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2021-12-16 | 2022-04-21 |
 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 | 2021-12-16 | 2022-05-11 |

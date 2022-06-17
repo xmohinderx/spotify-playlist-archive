@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-156 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+158 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-05-13 |  |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 |  |
+| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 |  |
 | [Embrace](https://open.spotify.com/track/5DNyRrFMH6DrO3nCaeqGxi) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Embrace](https://open.spotify.com/album/6y6nzQKdmJCqLRmhGB2BtV) | 3:14 | 2022-05-13 |  |
@@ -124,6 +125,7 @@
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 |  |
 | [Rising](https://open.spotify.com/track/7f7P35fclxpRqu19lDCMRi) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Rising](https://open.spotify.com/album/4sfK2xdbOgXf5MWYY20C9W) | 2:22 | 2022-05-13 |  |
+| [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 |  |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 |  |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 |  |
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 |  |

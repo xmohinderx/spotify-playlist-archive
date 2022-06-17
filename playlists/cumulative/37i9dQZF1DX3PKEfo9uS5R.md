@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-118 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+119 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-11 |  |
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2021-11-11 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-11-11 |  |
+| [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-17 |  |
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-11-11 |  |
 | [Sunflower](https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 4:04 | 2021-11-11 | 2022-04-06 |
 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 | 2021-11-11 |  |

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-118 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+119 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 |  |
 | [L3achrane](https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [L3achrane](https://open.spotify.com/album/0EiCPSG40eNfA4DHZDN3nl) | 3:32 | 2022-01-07 | 2022-03-03 |
-| [La vie](https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [La vie](https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE) | 3:18 | 2022-02-28 |  |
+| [La vie](https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [La vie](https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE) | 3:18 | 2022-02-28 | 2022-06-17 |
 | [La Vie](https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X) | [LIMIT\-LESS](https://open.spotify.com/artist/4luLWQQk00Om8mJUKGjISW), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [La Vie](https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld) | 2:39 | 2022-02-02 |  |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 |  |
 | [Lahdat Wadaa](https://open.spotify.com/track/12WSYJ73sp5zghz5KkfEyn) | [Imad Benaomar](https://open.spotify.com/artist/4FQZuJsPXl0i8cc5S8MTpj) | [Lahdat Wadaa](https://open.spotify.com/album/14CTUjJ4BKavEEKW8myoi3) | 3:36 | 2021-12-25 | 2022-01-18 |
@@ -108,6 +108,7 @@
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-12-25 | 2022-05-20 |
 | [WAHYA](https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [WAHYA](https://open.spotify.com/album/5SmEFZhrh7PTkDhNhM6zTP) | 2:22 | 2022-02-26 | 2022-03-18 |
+| [Walo Maliya والو ماليا](https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Walo Maliya](https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN) | 3:30 | 2022-06-16 |  |
 | [Warda](https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Warda](https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx) | 3:25 | 2022-02-14 |  |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-17 |  |
 | [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 |  |
@@ -119,7 +120,7 @@
 | [Ya Yema](https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM) | [Bouchra Elm](https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd) | [Ya Yema](https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd) | 2:28 | 2021-12-25 | 2022-02-03 |
 | [Ya Zina](https://open.spotify.com/track/3iN353HpREOoT6DMAepelv) | [Imad Maestro](https://open.spotify.com/artist/4VtlVixipE4d5qUyjxMk3j) | [Ya Zina](https://open.spotify.com/album/3OEEzOjJNSl4WTYtgqh9CO) | 3:15 | 2021-12-25 | 2022-02-18 |
 | [ZAHRI \| زهري](https://open.spotify.com/track/5GOHFjp04ixjNNyYIPXAWG) | [Bad Flow](https://open.spotify.com/artist/3fqD9Tt4MGyX90t2qoBQuq) | [ZAHRI \| زهري](https://open.spotify.com/album/7l7wXK5T2PoechAItHaNHE) | 3:26 | 2022-01-04 | 2022-04-08 |
-| [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 | 2022-06-13 |
+| [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 |  |
 | [Ztam](https://open.spotify.com/track/3nKhMcqmVeeAy9xTEesfiZ) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ztam](https://open.spotify.com/album/4144sqiUaw55a7rANh9mIE) | 3:31 | 2022-03-14 |  |
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-12-25 | 2022-02-03 |
 | [العطار](https://open.spotify.com/track/5au1F96i52QNxPliCevyxN) | [Abir El Abed](https://open.spotify.com/artist/0ScO5kFJHQgFnXbB9kZUyN), [Abdous](https://open.spotify.com/artist/47CgjRx30TxbS46UeiOmN7) | [العطار](https://open.spotify.com/album/2MbkppXbjEYc8lqoesbbbL) | 2:37 | 2022-03-10 | 2022-05-28 |

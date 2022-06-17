@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Check out the Official Halftime Playlist. Watch now on Netflix. ",
+  "description": "Check out Jennifer Lopez's Official Halftime playlist. ",
   "name": "Halftime Official Playlist",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "19UY68OCqwq2uivXfuMGl0"
+  ],
   "tracks": [
     {
       "album": {
@@ -573,6 +575,50 @@
       "duration_ms": 210506,
       "name": "Same Girl",
       "url": "https://open.spotify.com/track/6oWQXurUA9x29El6ioIqju"
+    },
+    {
+      "album": {
+        "name": "Same Girl (with French Montana) [Halftime Remix]",
+        "url": "https://open.spotify.com/album/6BaYeNIzZzrIpAvGSRgcoc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260643,
+      "name": "Same Girl (with French Montana) - Halftime Remix",
+      "url": "https://open.spotify.com/track/2Xar8bp6rKIY8bOogzQ1HZ"
+    },
+    {
+      "album": {
+        "name": "This Land Is Your Land (feat. United States Marine Band) [2021 Inauguration]",
+        "url": "https://open.spotify.com/album/0ABSa2wDLDCz5yhINC2cOe"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176651,
+      "name": "This Land Is Your Land (feat. United States Marine Band) - 2021 Inauguration",
+      "url": "https://open.spotify.com/track/3Qi3YhHKQs7gA8BKAkuWbS"
     },
     {
       "album": {

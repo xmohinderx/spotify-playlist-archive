@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-179 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+182 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [In Bloom](https://open.spotify.com/track/3fAKzyoj5L5jfAMsXq1joE) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [In Bloom](https://open.spotify.com/album/3FpzqCIzD3hv1vkgqALa3e) | 2:18 | 2022-05-20 |  |
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 |  |
 | [Jazzberry Jam](https://open.spotify.com/track/0MOEPUaLuKGcPawPcvNuBR) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Jazzberry Jam](https://open.spotify.com/album/0laKgmFFSMDDn2plXZHh4U) | 2:26 | 2022-05-20 |  |
-| [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 |  |
+| [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 | 2022-06-17 |
 | [Keen](https://open.spotify.com/track/3HKKgefffjG5gdPE5Jtcrr) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0) | 2:56 | 2022-05-20 | 2022-05-27 |
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2022-05-20 | 2022-05-27 |
 | [Kinda Hungry](https://open.spotify.com/track/3e1r4Nqk5eyRnSWdv6XS0E) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [jinhee](https://open.spotify.com/artist/26LmpFgGrsh86EFXEwQNfz) | [Kinda Hungry](https://open.spotify.com/album/7fJJVGHS98okrAyef2fhuq) | 1:46 | 2022-05-20 |  |
@@ -105,6 +105,7 @@
 | [Mojo Verde](https://open.spotify.com/track/7C5rBLWSf3LGhzdDRtc6N0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Mojo Verde](https://open.spotify.com/album/2bNT9ISI6uvOBtJfCvPyqi) | 2:07 | 2022-05-20 |  |
 | [Moments](https://open.spotify.com/track/2orQeWCO78FtSABvIQUGEm) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Moments](https://open.spotify.com/album/4StaVJk2hB5quXUZp31uoR) | 2:44 | 2022-05-20 | 2022-05-27 |
 | [MOON](https://open.spotify.com/track/7pwGTxTO5UlVDsbVKkZFPX) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [MOON](https://open.spotify.com/album/7GGjVVLMJb0FG1LQkGKCCe) | 1:45 | 2022-05-20 |  |
+| [Morning](https://open.spotify.com/track/22xSHJxnzwtEO2qph3rmrs) | [KV](https://open.spotify.com/artist/2sdQEitmjfbyoATb6OfkEi) | [Morning](https://open.spotify.com/album/2f8CymR5NiP99UKLAPPQrm) | 2:24 | 2022-06-17 |  |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2022-05-20 |  |
 | [Neon Sea](https://open.spotify.com/track/2Eloe1ZdrlK29u1fNKQMRO) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Neon Sea](https://open.spotify.com/album/6XNlmwEMIKDBOHt50eXaC8) | 2:04 | 2022-05-20 |  |
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-05-20 |  |
@@ -160,6 +161,8 @@
 | [thoughtful](https://open.spotify.com/track/6UxJXmMIwCm8BhUxtlFCft) | [monolog](https://open.spotify.com/artist/6EPLnRqGeSBaydNgjC0Tom) | [thoughtful](https://open.spotify.com/album/6eF3xjASByX8RcuICSHQ55) | 2:18 | 2022-06-10 |  |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2022-05-20 |  |
 | [Thumbs Up](https://open.spotify.com/track/7vbSwdXKiVcbhgdhZ9r3O4) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Thumbs Up](https://open.spotify.com/album/4W2lomDjC0oZ9E5rY4acNK) | 2:04 | 2022-05-20 |  |
+| [Tiptop Tiptop](https://open.spotify.com/track/4dsq5vQRu6UJHky5BlE4sl) | [Foro Arlaniq](https://open.spotify.com/artist/7w8gFon3p0E4MMSRSWHmWg) | [Tiptop Tiptop](https://open.spotify.com/album/0tGbqpu1xrvWZS05vjtjnx) | 1:40 | 2022-06-17 |  |
+| [Tokyo](https://open.spotify.com/track/44P7zNM1vILYeAd7rpLB7w) | [Storks](https://open.spotify.com/artist/33fr7kfJGejzm8bBusw0sz) | [Tokyo](https://open.spotify.com/album/57VGQZx68klc1Ou5eqoghV) | 2:27 | 2022-06-17 |  |
 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 | 2022-05-20 |  |
 | [Top Of The World](https://open.spotify.com/track/5fEItyUeOyqyr8jndkDsWK) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Top Of The World](https://open.spotify.com/album/1SCDibKorzPIgBiJYWCHoe) | 2:01 | 2022-05-20 |  |
 | [travellin'](https://open.spotify.com/track/3knnVvitAAU3ihiqdlxdXL) | [vibebu](https://open.spotify.com/artist/4nHafkXiQWBoAxY38PFUeY) | [travellin'](https://open.spotify.com/album/27wcF6gEMlknTF1D3kcDzd) | 2:25 | 2022-05-20 |  |
@@ -182,10 +185,10 @@
 | [Warm Breeze](https://open.spotify.com/track/39Sa33g3e6ILORXGjjQ6y0) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Warm Breeze](https://open.spotify.com/album/2QmF2hYspOaGflrbUNKi7u) | 2:01 | 2022-05-20 |  |
 | [weather report](https://open.spotify.com/track/2liZi98khYvEHs03lAveyv) | [kesno](https://open.spotify.com/artist/79GO1ze6oDiQU9dGQONP1a) | [weather report](https://open.spotify.com/album/1GKmluPzmRiW3do5FuANaM) | 2:12 | 2022-05-20 |  |
 | [whale tale](https://open.spotify.com/track/6B7wBkh0TOpn8MPWYLRO3z) | [Edwinn](https://open.spotify.com/artist/5MGZZJ42ckotNMrC7mxIDE) | [whale tale](https://open.spotify.com/album/7KMUOBXOItn4Yvd4mfalH1) | 2:10 | 2022-05-20 |  |
-| [What I Wouldn't Give](https://open.spotify.com/track/3RzhjKBCVghvkRStpV23Ua) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [The Love of Others](https://open.spotify.com/album/4rAf6xMcvu5nqVa10IwVoT) | 2:51 | 2022-05-20 |  |
+| [What I Wouldn't Give](https://open.spotify.com/track/3RzhjKBCVghvkRStpV23Ua) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [The Love of Others](https://open.spotify.com/album/4rAf6xMcvu5nqVa10IwVoT) | 2:51 | 2022-05-20 | 2022-06-17 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |
-| [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 |  |
+| [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 | 2022-06-17 |
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 |  |
-| [You Mon Amour](https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [You Mon Amour](https://open.spotify.com/album/4B1d4WQrHthefUbWccsfz0) | 2:05 | 2022-06-10 |  |
+| [You Mon Amour](https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [You Mon Amour](https://open.spotify.com/album/4B1d4WQrHthefUbWccsfz0) | 2:05 | 2022-06-10 | 2022-06-17 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

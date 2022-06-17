@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-105 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+111 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,12 @@
 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 | 2022-05-27 |  |
 | [Clarity](https://open.spotify.com/track/1bdGo5PNU1fmSJy8vwkzWv) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Clarity](https://open.spotify.com/album/09tN0ZxxSclFUo7l03zktC) | 2:04 | 2022-05-27 |  |
 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 | 2022-05-27 |  |
+| [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2022-06-17 |  |
 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 | 2022-05-27 |  |
 | [Complicated](https://open.spotify.com/track/7kTRDpp1p3Yd2gX5kEOyaX) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Complicated](https://open.spotify.com/album/1oinxow7bxtoCfkATM8Hzo) | 2:37 | 2022-05-27 |  |
 | [Creme De La Creme](https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Creme De La Creme](https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3) | 2:15 | 2022-05-27 |  |
 | [Digital lounge](https://open.spotify.com/track/24XhVpnlzq5fsf7TPFccwx) | [Roboto 23](https://open.spotify.com/artist/4BqXrDIymPUviUv9HXmmjO) | [Digital lounge](https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt) | 2:09 | 2022-05-27 |  |
+| [Dreamworld Lighting](https://open.spotify.com/track/0WAn02sRN7qwxqr4ErO0SC) | [Alfonsi Kazzi](https://open.spotify.com/artist/22L0adl99CJwKSs2MUo4fH) | [Dreamworld Lighting](https://open.spotify.com/album/5dDXvbMRjN0EwnzvtOW6ZF) | 1:48 | 2022-06-17 |  |
 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 | 2022-05-27 |  |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-05-27 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
@@ -46,15 +48,19 @@
 | [forever more](https://open.spotify.com/track/0PMx2PH8D3kf44CX7T0kOg) | [bladecut](https://open.spotify.com/artist/1PkmXjtHF5wQCvN96FukFZ) | [school daze](https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km) | 1:55 | 2022-05-27 |  |
 | [Frankie](https://open.spotify.com/track/6t6FeY6tESJeedpgsYS6jD) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [SoBe](https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M) | [Verdant](https://open.spotify.com/album/6fIz7iouU5xhVUPB4cTfy0) | 1:52 | 2022-05-27 |  |
 | [FREEDOM](https://open.spotify.com/track/0c6ZSEvZYzj8MfBdzeDYn0) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [FREEDOM](https://open.spotify.com/album/3sJMcTNveJofYUhPNE8YEn) | 2:32 | 2022-06-03 |  |
+| [Garlic Sans](https://open.spotify.com/track/1mbukQIdpC3SI3p0CYbxfg) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Knit](https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz) | 2:36 | 2022-06-17 |  |
 | [Gazebo](https://open.spotify.com/track/0XHENvoGfBGRYXhJJoQwtH) | [Midheavy](https://open.spotify.com/artist/09MBWHLepyOZYZFq3jk4G1) | [Kindthought](https://open.spotify.com/album/1slEvKRnMmVBqW54qBEHIl) | 2:51 | 2022-06-10 |  |
 | [Get By](https://open.spotify.com/track/1EJh8OljwnAkky8n2eqVnN) | [Manchester Lock](https://open.spotify.com/artist/5MtAUCEKXc1pUn2mcieuDG) | [Get By](https://open.spotify.com/album/22lgRuNopsEIllTdgQ5vRN) | 3:22 | 2022-05-27 |  |
 | [Glühen](https://open.spotify.com/track/1aI4TPwtXiXGm4rCvZ7C28) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Glühen](https://open.spotify.com/album/3JMHeyzLkomFz5P3bsETrZ) | 2:26 | 2022-05-27 |  |
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2022-05-27 |  |
+| [gradient](https://open.spotify.com/track/6oVBQh9zqVrw3ElEfWOiIm) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [gradient](https://open.spotify.com/album/144oCH8iXwpglwq3wisCrz) | 1:13 | 2022-06-17 |  |
 | [Green Valley](https://open.spotify.com/track/5kLVuHY6PpBkIyDc362quI) | [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU), [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Beats To Skate To, Vol.1](https://open.spotify.com/album/1n46VLE2E2BlcudV9198Lh) | 1:40 | 2022-06-10 |  |
 | [grind](https://open.spotify.com/track/54wyyYVcwwBYbJzYBmaQc8) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Attitudes Of November](https://open.spotify.com/album/7q69vhnV5YDtI5fQTp1UAE) | 2:05 | 2022-05-27 |  |
 | [Heaven's Nite](https://open.spotify.com/track/4n5QiZSOrc5dK6a9QFlL38) | [Blizzful](https://open.spotify.com/artist/0gG46tMHvdFASm9BmM0icf) | [Heaven's Nite](https://open.spotify.com/album/3elfAJETFNriDHy3SIbP8d) | 2:29 | 2022-05-27 |  |
 | [High Harbor](https://open.spotify.com/track/5W9nhHNbT23Qh0FHXjerp6) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [The Great Flood](https://open.spotify.com/album/0gQibi4N8OULtM8112b5sU) | 3:01 | 2022-05-27 |  |
+| [hope for tomorrow](https://open.spotify.com/track/3xpJ5kK3oY18uaeH3c91eG) | [The Lofi Christian](https://open.spotify.com/artist/7nPBddK18ZCiNbilAnpOoP) | [Lofi Summer: For Everything There is a Season](https://open.spotify.com/album/3WTNXPDkLxMOU0uMxNBTb4) | 2:59 | 2022-06-17 |  |
 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 | 2022-05-27 |  |
+| [ipanema](https://open.spotify.com/track/0nq0F9hwbBFbM50RpPBRNt) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [ipanema](https://open.spotify.com/album/75rTzmAFiooFCq7bAPUQCU) | 1:36 | 2022-06-17 |  |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-05-27 |  |
 | [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |

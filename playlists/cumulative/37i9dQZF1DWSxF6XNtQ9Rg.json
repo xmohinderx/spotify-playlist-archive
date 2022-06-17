@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo hit rap da riascoltare in loop. Cover: Gu\u00e8",
+  "description": "Solo hit rap da riascoltare in loop. Cover: Ghali",
   "name": "Hit Rap Italiane",
   "published_playlist_ids": [
     "6hONOx8JhMvxTKwVXd1ds8"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 237250,
       "name": "Bene",
       "url": "https://open.spotify.com/track/3Jfi1WRHzREEGBDsaCrIXD"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 240245,
       "name": "Bimbi",
       "url": "https://open.spotify.com/track/7uPI3Q0Ke3Thl0z1xzvXFn"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 185573,
       "name": "CABRIOLET (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7wC76LWyNxaP3hjGzbWOcN"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 168000,
       "name": "FIORI",
       "url": "https://open.spotify.com/track/500c6DLy4ag8gFAnkuzTxP"
@@ -931,10 +931,32 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 188145,
       "name": "Fiori del male (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7J4P2IKh5pCBpSfGs5gaGy"
+    },
+    {
+      "album": {
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "FREE SOLO (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
     },
     {
       "album": {
@@ -1049,7 +1071,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 221973,
       "name": "Giovane fuoriclasse",
       "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 221881,
       "name": "In Radio",
       "url": "https://open.spotify.com/track/0zxvemE96KZ4xBrFolkL1Y"
@@ -1511,7 +1533,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
@@ -1591,7 +1613,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 237493,
       "name": "Ninna Nanna",
       "url": "https://open.spotify.com/track/1bJn4Hfj4xa58Jse9bQrN1"
@@ -1815,7 +1837,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 203414,
       "name": "PAROLA - feat. Lazza, Emis Killa",
       "url": "https://open.spotify.com/track/4XxQOwmNM0DF3bKafSJBNw"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 182745,
       "name": "Peace & Love",
       "url": "https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD"
@@ -1949,7 +1971,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
@@ -2255,7 +2277,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 209565,
       "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
       "url": "https://open.spotify.com/track/2KYLg9El0wzvX4S13CDoZf"
@@ -2317,7 +2339,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 208233,
       "name": "SLIME (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/13Iu4OXlnP5vUQ0rgXR6e3"
@@ -2743,7 +2765,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 173960,
       "name": "Veleno 7",
       "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
@@ -2765,7 +2787,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 203040,
       "name": "Vertigini",
       "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
@@ -2783,7 +2805,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 187573,
       "name": "Visiera A Becco",
       "url": "https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ"
