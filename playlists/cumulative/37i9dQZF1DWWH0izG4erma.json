@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Babies",
+        "url": "https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Birmingham",
         "url": "https://open.spotify.com/album/4rkv7ffmhDwzpPtVnw5BcO"
       },
@@ -1503,6 +1521,24 @@
       "duration_ms": 191865,
       "name": "Lightning Bugs and Rain",
       "url": "https://open.spotify.com/track/0NBaQcjwg7ROSc8qosY5Fj"
+    },
+    {
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/5G67R5epM9ihMK9U6jEDlG"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241793,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/3SNixPZICjFelFeoMG8jt4"
     },
     {
       "album": {

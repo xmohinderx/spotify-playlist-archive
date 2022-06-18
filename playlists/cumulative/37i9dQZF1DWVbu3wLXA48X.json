@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Beach Bunny",
+  "description": "Current indie tunes from Asia and around the world. Cover: Whitney",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
     {
       "album": {
         "name": "13: 4",
@@ -599,6 +617,24 @@
       "duration_ms": 270000,
       "name": "Be There",
       "url": "https://open.spotify.com/track/1f15d63XOFV97kLcPJsW5P"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263541,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/1JsGUb867p0YhDa22fnByZ"
     },
     {
       "album": {
@@ -1550,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "DOWN IN THE DUMPS",
+        "url": "https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP"
+      },
+      "artists": [
+        {
+          "name": "cellosux",
+          "url": "https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258292,
+      "name": "Down In The Dumps",
+      "url": "https://open.spotify.com/track/1DcjEggH52pt6GiEeaaKmY"
+    },
+    {
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -1561,7 +1615,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
@@ -1803,7 +1857,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 274040,
       "name": "Fables",
       "url": "https://open.spotify.com/track/7qaJfp7zJoJoLxdkVnwgC2"
@@ -2034,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "AFTER DINNER WE TALK DREAMS: THE SIDE DISHES",
+        "url": "https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137865,
+      "name": "FOOL 4 U",
+      "url": "https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW"
       },
@@ -2153,7 +2225,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
@@ -2754,6 +2826,24 @@
     },
     {
       "album": {
+        "name": "Love Is Yours",
+        "url": "https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO"
+      },
+      "artists": [
+        {
+          "name": "Flasher",
+          "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185631,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p"
+    },
+    {
+      "album": {
         "name": "I Still Love You",
         "url": "https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ"
       },
@@ -2837,7 +2927,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 205872,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/6xTZCvS7UHAVeOoNsG4bO5"
@@ -3119,7 +3209,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 252786,
       "name": "Leaving Today",
       "url": "https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc"
@@ -3694,6 +3784,24 @@
     },
     {
       "album": {
+        "name": "mirror",
+        "url": "https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "mirror",
+      "url": "https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl"
+    },
+    {
+      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -4169,7 +4277,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 166000,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/61GbM6MHAXxM0q59ZkQguY"
@@ -4460,6 +4568,24 @@
     },
     {
       "album": {
+        "name": "L\u00dcCY",
+        "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Poetess",
+      "url": "https://open.spotify.com/track/3llxKZEWIzKWMSqr51SQuT"
+    },
+    {
+      "album": {
         "name": "Pong Dang",
         "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
@@ -4601,6 +4727,24 @@
       "duration_ms": 184069,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI"
+    },
+    {
+      "album": {
+        "name": "REAL LOVE",
+        "url": "https://open.spotify.com/album/7i4NU1t0CZEoTrW4BgbXF4"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176411,
+      "name": "REAL LOVE",
+      "url": "https://open.spotify.com/track/1Ke3l9Xg0oZJANurjySmBN"
     },
     {
       "album": {
@@ -4943,7 +5087,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 133493,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6"
@@ -5069,7 +5213,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 171297,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx"
@@ -5197,6 +5341,24 @@
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4"
+    },
+    {
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/4bniwpGQ3K2eEfNI7yUBXF"
+      },
+      "artists": [
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239385,
+      "name": "Sisyphus - Single Version",
+      "url": "https://open.spotify.com/track/4QJIaGAfI4Ems0oU17NgYQ"
     },
     {
       "album": {
@@ -6343,7 +6505,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 156906,
       "name": "victim of nostalgia",
       "url": "https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS"
@@ -6531,6 +6693,24 @@
       "duration_ms": 225613,
       "name": "What Were You Hoping to Find?",
       "url": "https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g"
+      },
+      "artists": [
+        {
+          "name": "So It Goes H.K",
+          "url": "https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260781,
+      "name": "When I Dream of Grapes Turning Blue",
+      "url": "https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt"
     },
     {
       "album": {
@@ -6813,7 +6993,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw"

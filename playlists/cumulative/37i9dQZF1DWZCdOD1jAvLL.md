@@ -2,9 +2,9 @@
 
 ### [Bangers](https://open.spotify.com/playlist/37i9dQZF1DWZCdOD1jAvLL)
 
-> Ride the bassline\. Cover: SNAILS, Escape the Fate
+> Ride the bassline\. Cover: 401 WST
 
-206 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+208 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 | 2022-05-20 |  |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-03-25 |  |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-04 | 2022-03-18 |
+| [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 |  |
 | [Afterparty](https://open.spotify.com/track/2hA6fssYxjLYjsVolzghO7) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Afterparty](https://open.spotify.com/album/2ltcoGtwFuWByn247k6SYB) | 2:36 | 2022-03-04 | 2022-04-02 |
 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 | 2022-01-14 | 2022-03-12 |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 |  |
@@ -31,7 +32,7 @@
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-26 |
 | [Body Rhythm](https://open.spotify.com/track/0j6ASjXDZ95nCkOh4B5Zic) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Body Rhythm](https://open.spotify.com/album/6BHmxgouKTnE0iumVWmXWd) | 4:39 | 2022-04-22 |  |
 | [Brick Figures](https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Brick Figures](https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA) | 3:00 | 2022-01-14 | 2022-03-12 |
-| [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-21 |  |
+| [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-21 | 2022-06-18 |
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-03-25 |  |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-11 |  |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 |  |
@@ -77,6 +78,7 @@
 | [Gimme More](https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl) | [Jaksan](https://open.spotify.com/artist/62kJlPY22K322WwqspIIec) | [Gimme More](https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97) | 3:35 | 2022-04-22 |  |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 | 2022-04-15 |  |
+| [Hangin' On](https://open.spotify.com/track/3LQyJ9kVci9YF7lwGjA5kr) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [Hangin' On](https://open.spotify.com/album/03LpYJHSH796oQGk3qlA5i) | 3:38 | 2022-06-17 |  |
 | [Hideaway](https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Hideaway](https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9) | 2:23 | 2022-01-14 | 2022-03-18 |
 | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/track/3VXCwR1wRVt4sHyDtOvFgI) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/album/1bJ94admkYHcdFcCOp2ETa) | 3:22 | 2022-02-11 | 2022-04-02 |
 | [Hov](https://open.spotify.com/track/0TyAdWCeWxjOy4ve1AajDl) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [100m's](https://open.spotify.com/artist/3DqGUfCidr1acIyds7GWxl) | [Hov](https://open.spotify.com/album/4XJojTas5NZRk04xXbVZBc) | 2:31 | 2022-02-25 | 2022-04-02 |
@@ -111,7 +113,7 @@
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-04-16 |
 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2022-01-14 | 2022-04-02 |
 | [Madonna](https://open.spotify.com/track/2bf7wxuRxN2tkNoPH7z1an) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Madonna](https://open.spotify.com/album/1AoOfbqM1tovUJjWL6kArz) | 2:25 | 2022-03-18 | 2022-04-02 |
-| [Me Without You](https://open.spotify.com/track/4E5jCl0d2Kz7foKzPHeMch) | [Piques](https://open.spotify.com/artist/1ELhwVuttnZmGrSCTYHTfH), [Lash](https://open.spotify.com/artist/29yIRv8gkNZbAX1J1RlfXx), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Me Without You](https://open.spotify.com/album/646pzrW0lCEgE8kMxZ6CtT) | 2:45 | 2022-01-28 |  |
+| [Me Without You](https://open.spotify.com/track/4E5jCl0d2Kz7foKzPHeMch) | [Piques](https://open.spotify.com/artist/1ELhwVuttnZmGrSCTYHTfH), [Lash](https://open.spotify.com/artist/29yIRv8gkNZbAX1J1RlfXx), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Me Without You](https://open.spotify.com/album/646pzrW0lCEgE8kMxZ6CtT) | 2:45 | 2022-01-28 | 2022-06-18 |
 | [Menace](https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Spiral](https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co) | 3:16 | 2022-01-14 |  |
 | [METANÖIA](https://open.spotify.com/track/2WQ5Yxn5F9yhmk20brtQQY) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM) | [WAR WITH MYSELF](https://open.spotify.com/album/7hBkzPk7qsAe47bzRItvyf) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 | 2022-02-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Sebastian Llosa",
+  "description": "Fresh Latin pop on the rise. Cover: Yorghaki, marcos g",
   "name": "el nuevo pop",
   "published_playlist_ids": [
     "7Ccvzuluaa4ypGALpBeYBn"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 270832,
       "name": "Aqu\u00ed voy a estar",
       "url": "https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 134653,
       "name": "BB",
       "url": "https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 171506,
       "name": "Bla, Bla, Bla",
       "url": "https://open.spotify.com/track/4BDdnkJUI8RDqsdt2ingMA"
@@ -934,6 +934,28 @@
     },
     {
       "album": {
+        "name": "i've been thinking lately",
+        "url": "https://open.spotify.com/album/23vQflCpxGtbyjQuNZ0zQ1"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "i've been thinking lately",
+      "url": "https://open.spotify.com/track/31Vk0Aqq53QqD0BXbdl33S"
+    },
+    {
+      "album": {
         "name": "idk",
         "url": "https://open.spotify.com/album/6P3vr5QdAVrG47NavaSTgM"
       },
@@ -1025,7 +1047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 157696,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD"
@@ -1043,7 +1065,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 198294,
       "name": "La Equivocada",
       "url": "https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO"
@@ -1123,6 +1145,24 @@
       "duration_ms": 171089,
       "name": "Me Conoces",
       "url": "https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W"
+    },
+    {
+      "album": {
+        "name": "Me Quedo Solo",
+        "url": "https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215343,
+      "name": "Me Quedo Solo",
+      "url": "https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA"
     },
     {
       "album": {
@@ -1503,7 +1543,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 171093,
       "name": "Perro Es Perro",
       "url": "https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD"
@@ -1866,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "Sin Maquillaje",
+        "url": "https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168875,
+      "name": "Sin Maquillaje",
+      "url": "https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR"
+    },
+    {
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/6OwLG0sDsLlruI8JToGkew"
       },
@@ -2069,7 +2127,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
@@ -2243,7 +2301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 201887,
       "name": "vuelve",
       "url": "https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP"

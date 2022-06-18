@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 232197,
       "name": "Cocaino",
       "url": "https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo"
@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "llorar y perrear",
+        "url": "https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "indirecta",
+      "url": "https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG"
+    },
+    {
+      "album": {
         "name": "Infernodaga",
         "url": "https://open.spotify.com/album/765K6ffiCGHJHLxqYanWbz"
       },
@@ -1695,6 +1713,24 @@
       "duration_ms": 212675,
       "name": "Infernodaga",
       "url": "https://open.spotify.com/track/0gygaSsjij3t4GDZkOjSNv"
+    },
+    {
+      "album": {
+        "name": "Jap\u00f3n",
+        "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
     },
     {
       "album": {
@@ -2081,7 +2117,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 195000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6phOWuwDjzWnFAaUVUpOdo"

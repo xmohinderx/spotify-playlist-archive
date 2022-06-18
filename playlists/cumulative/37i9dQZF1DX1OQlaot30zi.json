@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 161250,
       "name": "Freddo D'Estate",
       "url": "https://open.spotify.com/track/1EhNW2RvKqLZmIsXx17ivL"
@@ -3590,6 +3590,28 @@
     },
     {
       "album": {
+        "name": "Libert\u00e8 #2",
+        "url": "https://open.spotify.com/album/3e9SXCvZpn7KhYKs1FFvj3"
+      },
+      "artists": [
+        {
+          "name": "4m",
+          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170458,
+      "name": "Libert\u00e8 #2",
+      "url": "https://open.spotify.com/track/6bPeYiUhn1CFBve8fnin48"
+    },
+    {
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/2RF0slfDgXJHifKMTb3J8I"
       },
@@ -4049,6 +4071,24 @@
       "duration_ms": 176615,
       "name": "Momento",
       "url": "https://open.spotify.com/track/4vQ70bCHMKGK9tTRp1mSod"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7xl76a0Oqn23fHKuqLHgIn"
+      },
+      "artists": [
+        {
+          "name": "Korbe",
+          "url": "https://open.spotify.com/artist/4UpISNZSBbdGOIXWBwhfL7"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203581,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/30T5zLUMKTPI0Au0YRV7KK"
     },
     {
       "album": {

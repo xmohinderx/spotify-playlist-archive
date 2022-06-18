@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa",
+  "description": "As belas novidades da MPB. Foto: Tim Bernardes",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 132423,
       "name": "A Rota do Indiv\u00edduo",
       "url": "https://open.spotify.com/track/6LQZRT1xxVm5ZtGwFSMQlS"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 219000,
       "name": "A Rota do Indiv\u00edduo (Ferrugem)",
       "url": "https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf"
+    },
+    {
+      "album": {
+        "name": "\u00d8RGIA",
+        "url": "https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273033,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev"
     },
     {
       "album": {
@@ -269,6 +287,24 @@
       "duration_ms": 202386,
       "name": "Aposta",
       "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
+    },
+    {
+      "album": {
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
+      },
+      "artists": [
+        {
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "album": {
@@ -539,7 +575,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 223015,
       "name": "Bem Perto",
       "url": "https://open.spotify.com/track/2hfFYdOgMkSNndT6uXG6v3"
@@ -782,6 +818,24 @@
     },
     {
       "album": {
+        "name": "SINC\u00c9RICO BR\u00c1SILEIRO",
+        "url": "https://open.spotify.com/album/7aqMFZfzLpnbXtjXdCx4qr"
+      },
+      "artists": [
+        {
+          "name": "\u00c9rico Br\u00e1s",
+          "url": "https://open.spotify.com/artist/4rprsmtHvcDqgirjDEQoxF"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235456,
+      "name": "Capit\u00f3lio De Beleza",
+      "url": "https://open.spotify.com/track/7MfodDmc85cGX6WzQ7GMbU"
+    },
+    {
+      "album": {
         "name": "Capricorniana",
         "url": "https://open.spotify.com/album/37ErJ69P26bB8estseUtsD"
       },
@@ -873,10 +927,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 195000,
       "name": "Cheia de Dobras",
       "url": "https://open.spotify.com/track/0ELWsJBhMIdIUhjM0zzx39"
+    },
+    {
+      "album": {
+        "name": "T\u00f4",
+        "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
+      },
+      "artists": [
+        {
+          "name": "RAYA",
+          "url": "https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247802,
+      "name": "Coment\u00e1rios a Respeito de Belchior",
+      "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
     },
     {
       "album": {
@@ -1109,7 +1185,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 228128,
       "name": "Do Amor N\u00e3o Vai Sobrar Ningu\u00e9m",
       "url": "https://open.spotify.com/track/5FRNqEqjDfdeipVl4LIXYX"
@@ -1135,10 +1211,32 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 196250,
       "name": "Dois S\u00f3is",
       "url": "https://open.spotify.com/track/1a3QsSmEfjrh7Td5UtVYn7"
+    },
+    {
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/5kB08Tpd50psAFsDqkypdv"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Fernanda Abreu",
+          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260586,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5WAwYM4U9q7orxHcmroT5B"
     },
     {
       "album": {
@@ -1175,6 +1273,24 @@
       "duration_ms": 219402,
       "name": "Duas Cidades",
       "url": "https://open.spotify.com/track/1m37OSnud3w0yuFSW4SIPS"
+    },
+    {
+      "album": {
+        "name": "E Agora?",
+        "url": "https://open.spotify.com/album/7bXq3HARoC2UXDsSPfBbbw"
+      },
+      "artists": [
+        {
+          "name": "Mayana Neiva",
+          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220327,
+      "name": "E Agora?",
+      "url": "https://open.spotify.com/track/42X048PWjtFjDyxllA7IFk"
     },
     {
       "album": {
@@ -1304,6 +1420,28 @@
     },
     {
       "album": {
+        "name": "Eternas Esquinas",
+        "url": "https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Moura",
+          "url": "https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW"
+        },
+        {
+          "name": "Gabriel Guedes",
+          "url": "https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247317,
+      "name": "Eternas Esquinas",
+      "url": "https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w"
+    },
+    {
+      "album": {
         "name": "Eu Comigo Mesmo",
         "url": "https://open.spotify.com/album/3Fn34ubPgWNrJEXpcj7wTB"
       },
@@ -1388,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
+    },
+    {
+      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1443,7 +1599,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 245426,
       "name": "Fim de Festa",
       "url": "https://open.spotify.com/track/0CXbOLz5mNqSX8zQQMmnfi"
@@ -1679,7 +1835,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210690,
       "name": "Isso Me Far\u00e1",
       "url": "https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1"
@@ -2494,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "O Calor T\u00e1 De Matar",
+        "url": "https://open.spotify.com/album/0vsZ9pFRetnUSoOZq5C0lm"
+      },
+      "artists": [
+        {
+          "name": "Bernardo Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2b7OB2l6CqyJtmCmj4FgdC"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "O Calor T\u00e1 De Matar",
+      "url": "https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w"
+    },
+    {
+      "album": {
         "name": "Can\u00e7\u00f5es D' Al\u00e9m Mar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oudSNjaKN20uDDQa28jnI"
       },
@@ -2775,7 +2949,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220501,
       "name": "Para o Nosso Amor Am\u00e9m",
       "url": "https://open.spotify.com/track/2JzctJz35x79GVDgjZwcuB"
@@ -3042,6 +3216,24 @@
     },
     {
       "album": {
+        "name": "Precip\u00edcios",
+        "url": "https://open.spotify.com/album/3XnlPGy5nTusz46JtrOWXX"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mann",
+          "url": "https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155989,
+      "name": "Precip\u00edcios",
+      "url": "https://open.spotify.com/track/19LibsrKdnELkw8MEvpzsJ"
+    },
+    {
+      "album": {
         "name": "Preciso me encontrar (Original Motion Picture Soundtrack \"Di\u00e1rios De Interc\u00e2mbio\")",
         "url": "https://open.spotify.com/album/1AGfGXPfd68ytghke2h73Z"
       },
@@ -3256,6 +3448,28 @@
     },
     {
       "album": {
+        "name": "Que Tal um Samba?",
+        "url": "https://open.spotify.com/album/2CgrIxhrX1Ee0Kvgn28F5j"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218951,
+      "name": "Que Tal um Samba?",
+      "url": "https://open.spotify.com/track/6XqbqeZl7YwPLcWsp8sLOk"
+    },
+    {
+      "album": {
         "name": "Realce",
         "url": "https://open.spotify.com/album/4ZZ1nmRtFrIR2hXT1sUDZ6"
       },
@@ -3289,6 +3503,36 @@
       "duration_ms": 228604,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6P6zhkwgm7HkHVmS1mmUU3"
+    },
+    {
+      "album": {
+        "name": "Rede",
+        "url": "https://open.spotify.com/album/0biZWdi0dF9hagXtS2eeCp"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Azevedo",
+          "url": "https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Marcelo Costa",
+          "url": "https://open.spotify.com/artist/1XstmySizqtqDjX5v4ce1F"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201227,
+      "name": "Rede",
+      "url": "https://open.spotify.com/track/0OUA65qtlofrsqORgEyFfm"
     },
     {
       "album": {
@@ -3369,6 +3613,24 @@
       "duration_ms": 228840,
       "name": "Rivotril e a F\u00e9",
       "url": "https://open.spotify.com/track/2N9l42skwz4hgNV4EhdiSB"
+    },
+    {
+      "album": {
+        "name": "Rosa Camale\u00e3o",
+        "url": "https://open.spotify.com/album/4kjJCmtTYACtEVrYR3lSZu"
+      },
+      "artists": [
+        {
+          "name": "Rosa Camale\u00e3o",
+          "url": "https://open.spotify.com/artist/6bjavZT6mu9fVAusWws0r8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200926,
+      "name": "Rosa Camale\u00e3o",
+      "url": "https://open.spotify.com/track/21BP4WnSXtGLKjaePYeh8F"
     },
     {
       "album": {
@@ -3713,7 +3975,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 170794,
       "name": "Solar",
       "url": "https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK"
@@ -3775,7 +4037,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 281034,
       "name": "Tangerina - Ao Vivo",
       "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
@@ -3851,7 +4113,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 239034,
       "name": "Tema de Amor",
       "url": "https://open.spotify.com/track/4uKj7cpDPAR8orNwcDfYog"
@@ -3913,6 +4175,24 @@
       "duration_ms": 236286,
       "name": "Terra Af\u00e9f\u00e9",
       "url": "https://open.spotify.com/track/6gEvuTrxNJIG38UjkfYiC8"
+    },
+    {
+      "album": {
+        "name": "Teu Olhar Me Fisgou",
+        "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228150,
+      "name": "Teu Olhar Me Fisgou",
+      "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
     },
     {
       "album": {
@@ -4055,7 +4335,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 214354,
       "name": "Um Amor Pra Todo Dia",
       "url": "https://open.spotify.com/track/60RPq9JhUF3ewZjwyi7jXS"
@@ -4113,7 +4393,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 228044,
       "name": "Um Par \u00cdmpar",
       "url": "https://open.spotify.com/track/1LqK404kKMMN7jJAo8pJ7v"

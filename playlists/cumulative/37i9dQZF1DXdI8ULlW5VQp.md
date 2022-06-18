@@ -2,9 +2,9 @@
 
 ### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Lauri García en portada.
+> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Kaia Lana en portada.
 
-106 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+107 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Acuérdate](https://open.spotify.com/track/2tCDLxHGG00lRgvYNH9SGT) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Acuérdate](https://open.spotify.com/album/1fXEwuOFVyFztok4zBkmys) | 3:16 | 2022-02-04 | 2022-02-12 |
 | [Ahora Sé](https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Ahora Sé](https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx) | 3:40 | 2022-02-04 |  |
 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 | 2022-04-01 |  |
+| [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 | 2022-06-17 |  |
 | [Antagonista](https://open.spotify.com/track/3ctIQ7ZOSwMtejlOKtGMbU) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Antagonista](https://open.spotify.com/album/2bDC3o0SBYH0c4gRinjIxd) | 3:31 | 2022-02-04 | 2022-06-03 |
 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 | 2022-02-04 | 2022-02-12 |
 | [Apagar](https://open.spotify.com/track/4Dqf9ZDUPt9CkO1rj0JN9i) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Apagar](https://open.spotify.com/album/6AresIcVWy5dkcV7ACfuPM) | 2:53 | 2022-02-04 | 2022-03-12 |

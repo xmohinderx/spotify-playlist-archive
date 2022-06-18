@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: Capozzi
+> Real nasty house\. Cover: Bok Nero
 
-288 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+289 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Scars](https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Scars](https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy) | 3:02 | 2022-01-07 |  |
 | [Selecta](https://open.spotify.com/track/5l42EXVy40wtLv8FjUUYxl) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Selecta](https://open.spotify.com/album/4U8HP1Uacm4oRiGxkJERO4) | 2:36 | 2022-01-28 | 2022-05-27 |
 | [Sequence 999](https://open.spotify.com/track/5PVDrXJ2N6bpKrxLyyFa4Y) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sequence 999](https://open.spotify.com/album/7EMZiKTAUDQ69EsbeoX4uQ) | 2:59 | 2021-10-29 | 2022-01-14 |
+| [Set You Free](https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Set You Free](https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp) | 3:20 | 2022-06-17 |  |
 | [Shadows](https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Iván Reich](https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [Slaughterhouse](https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf) | 4:44 | 2021-12-03 |  |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-10-29 |  |
 | [Show Me](https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Show Me](https://open.spotify.com/album/58XBbETLzxSyXVcboNyifS) | 2:54 | 2021-10-29 | 2022-05-28 |

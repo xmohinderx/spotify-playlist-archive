@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Ta Conmigo",
+        "url": "https://open.spotify.com/album/5ROyhn5Nj7GC5cnl6sNW1b"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "'Ta Conmigo",
+      "url": "https://open.spotify.com/track/4q7VsuFHeglzawWjqNBvgl"
+    },
+    {
+      "album": {
         "name": "2x1",
         "url": "https://open.spotify.com/album/68jJ0IgjGxR7k0ONzAsaGy"
       },
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 196261,
       "name": "Como Si Nah (feat. KEVVO)",
       "url": "https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Dime A Ver",
       "url": "https://open.spotify.com/track/2uGyZNHyMNFhB8iM107qb4"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "Doble L",
       "url": "https://open.spotify.com/track/4mBQaDxxH0vn7jAuraDI47"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 275893,
       "name": "Don Don",
       "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 338527,
       "name": "El Perreo Intenso",
       "url": "https://open.spotify.com/track/36YJZ6rpApeSBHZ3KMi3hg"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 217467,
       "name": "Espionaje",
       "url": "https://open.spotify.com/track/2A91CVAdthfxTrzIACAe08"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 215715,
       "name": "F\u00e1cil",
       "url": "https://open.spotify.com/track/4KtRZ4ZQiCObBVBatJomRn"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "Jukiao - Remix",
       "url": "https://open.spotify.com/track/08HdyqNXBEHUF4tkZejKUR"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210000,
       "name": "Keii",
       "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 204809,
       "name": "La Jeepeta",
       "url": "https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 187333,
       "name": "MOJAITA",
       "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 213281,
       "name": "Mujer Satisfecha",
       "url": "https://open.spotify.com/track/2dSy7VwJsM9qEs5wAE9GJV"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 143586,
       "name": "No Le Bajo",
       "url": "https://open.spotify.com/track/6jM9zDolSTqAmvBziZBifG"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 163695,
       "name": "Ponte Relaj\u00e1",
       "url": "https://open.spotify.com/track/5CXzhhg5DMyFEgzvB6SMLY"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 200600,
       "name": "Prende",
       "url": "https://open.spotify.com/track/0CbiWTt6jf5CqzqvYH4CPn"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 181840,
       "name": "R Sport",
       "url": "https://open.spotify.com/track/1V9PlSZEO5tJWxpDJT5KAG"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 182675,
       "name": "Sola & Vac\u00eda",
       "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 304859,
       "name": "Ta To Gucci (Remix)",
       "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 178064,
       "name": "Trakat\u00e1",
       "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
@@ -3629,7 +3647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 174790,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5yAo09btO7hEn8YDKW4Dkm"
@@ -3663,7 +3681,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 244666,
       "name": "Vitamina (Remix)",
       "url": "https://open.spotify.com/track/6xBBOrrKiALoAN8twug4Cq"
@@ -3707,7 +3725,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 172714,
       "name": "Y Que Pas\u00f3",
       "url": "https://open.spotify.com/track/4iGCZZcyuvpEqoTdtbBcye"

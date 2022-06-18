@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "25 a\u00f1os",
       "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Mis 30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/3nh8HgQfEGkdBNc17NblF6"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Alacena de las Monjas",
+      "url": "https://open.spotify.com/track/6s60h2vLt1dHWBao0i9vSf"
+    },
+    {
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
@@ -356,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2F7l3ZrZQFqYkfOX6g7aQr"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/66Sl5Iay861RL1qMbACttV"
+    },
+    {
+      "album": {
         "name": "Dedicado A Antonio Machado, Poeta",
         "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
       },
@@ -461,7 +497,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 200416,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4pesB5Dew0MP6mwvyfj4sX"
@@ -497,7 +533,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
@@ -519,7 +555,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
@@ -537,7 +573,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 230136,
       "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
       "url": "https://open.spotify.com/track/0WFSHNVtCYni6ktsBy4BsJ"
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
@@ -783,7 +819,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 240653,
       "name": "El novio de la muerte",
       "url": "https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn"
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 249783,
       "name": "El Viejo Boxeador",
       "url": "https://open.spotify.com/track/5qtiXXENZBTM5UKlByOj1n"
@@ -837,7 +873,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 233651,
       "name": "El \u00faltimo hombre en la tierra",
       "url": "https://open.spotify.com/track/3WoTzTDj5HMfH1LJweA4SZ"
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
@@ -995,7 +1031,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 285289,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
@@ -1035,7 +1071,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 229165,
       "name": "Honrar la Vida",
       "url": "https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6"
@@ -1172,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
+    },
+    {
+      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -1295,7 +1349,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7vgvrrqPEJdmy6SPPfVU6t"
@@ -1331,7 +1385,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 248413,
       "name": "Me quedo contigo - Radio Edit",
       "url": "https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20"
@@ -1385,7 +1439,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 206999,
       "name": "Mediterr\u00e1neo",
       "url": "https://open.spotify.com/track/4ZXldI9CyNjVkXvIL9K487"
@@ -1479,7 +1533,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 212880,
       "name": "No Dudaria",
       "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
@@ -1497,7 +1551,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 167266,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/7bM5C0Fr58bNzTrydYPAiH"
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 224413,
       "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
       "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
@@ -1595,7 +1649,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 228173,
       "name": "No S\u00e9 por Qu\u00e9 Te Quiero (with Victor Manuel)",
       "url": "https://open.spotify.com/track/5iG5xQWP5aFCsXGbbkGtTE"
@@ -1784,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Poetas Andaluces",
+        "url": "https://open.spotify.com/album/04oTnscF3tloAc3mTRYLTt"
+      },
+      "artists": [
+        {
+          "name": "Aguaviva",
+          "url": "https://open.spotify.com/artist/1e5nxeHvABiwpD6UG5J21f"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127933,
+      "name": "Poetas Andaluces (I Parte)",
+      "url": "https://open.spotify.com/track/61l9BfUUnFcrXFnC6smGBB"
+    },
+    {
+      "album": {
         "name": "Esta Boca Es Mia",
         "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
       },
@@ -1813,7 +1885,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 174159,
       "name": "Por qu\u00e9 te vas",
       "url": "https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH"
@@ -1965,7 +2037,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 281095,
       "name": "Qui\u00e9reme Bien (feat. Leiva)",
       "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
@@ -1983,7 +2055,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 238760,
       "name": "Qu\u00e9 Bello Es Vivir",
       "url": "https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE"
@@ -2001,7 +2073,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
@@ -2037,7 +2109,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220684,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
@@ -2109,7 +2181,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Siete Vidas",
       "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
@@ -2251,7 +2323,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
@@ -2291,7 +2363,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 275873,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ"
@@ -2425,7 +2497,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220139,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1WwPYCEpRgcvWikz2vSbai"

@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Etienne Dufresne
+> La crème de la crème of Montréal's music scene\. Photo: Lou Phelps
 
-157 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+159 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All Fucking Weekend](https://open.spotify.com/track/2S6Vm1e6C5r4yOeLk8sZAt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 3:42 | 2022-04-18 | 2022-05-28 |
 | [All Fucking Weekend](https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [All Fucking Weekend](https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio) | 3:42 | 2022-04-15 | 2022-04-19 |
 | [All These Things](https://open.spotify.com/track/5DWlF5fxVsZarYWbcJfiNt) | [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3), [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ) | [All These Things](https://open.spotify.com/album/6sCG9dfqKRyMNXlX71iPQX) | 4:28 | 2022-03-25 | 2022-04-29 |
-| [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 | 2022-03-25 |  |
+| [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 | 2022-03-25 | 2022-06-18 |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2022-03-25 | 2022-06-04 |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-25 |  |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2022-03-25 |  |
@@ -82,6 +82,7 @@
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 |  |
 | [Insulaire](https://open.spotify.com/track/3Ks37fop1NmNBtKbKrSwCL) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [INSULA](https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3) | 4:05 | 2022-03-25 |  |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2022-03-25 | 2022-06-11 |
+| [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 | 2022-06-17 |  |
 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 | 2022-05-13 |  |
 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 | 2022-03-25 |  |
 | [Jaune](https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z) | [Baladeur](https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST) | [Jaune](https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi) | 3:17 | 2022-06-03 |  |
@@ -95,7 +96,7 @@
 | [La vie ce n'est qu'un rêve](https://open.spotify.com/track/3PxTVq57d0XcGxM2xVRC3Q) | [Efy Hecks](https://open.spotify.com/artist/4wIYnRyhOUsYlfOyYgRFv5) | [Somnifère](https://open.spotify.com/album/4OgOjuzYRDMh2t9fWCISHy) | 4:40 | 2022-03-25 | 2022-06-11 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-03-25 | 2022-04-29 |
 | [Le gouffre](https://open.spotify.com/track/2udy1WxxtjQm2tQv57Ncv6) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Si pour une fois](https://open.spotify.com/album/0cK0Nc717KWtsKb7LCM1mx) | 3:43 | 2022-03-25 | 2022-05-28 |
-| [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-03-25 |  |
+| [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-03-25 | 2022-06-18 |
 | [Lessons](https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 2:11 | 2022-03-25 | 2022-04-23 |
 | [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-03-25 |  |
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-03-25 | 2022-05-07 |
@@ -136,6 +137,7 @@
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 |  |
 | [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 |  |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-03-25 | 2022-04-09 |
+| [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2022-06-17 |  |
 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 | 2022-04-08 |  |
 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 |  |
 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 | 2022-03-25 |  |

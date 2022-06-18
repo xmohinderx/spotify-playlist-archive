@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 103077,
       "name": "4 Edward",
       "url": "https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w"
@@ -587,10 +587,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 231253,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+    },
+    {
+      "album": {
+        "name": "stripped back (Stripped Back)",
+        "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Eastham Prison Farm Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
     },
     {
       "album": {
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 150560,
       "name": "Gonna Walk This Road",
       "url": "https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW"
@@ -792,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Made In Muscle Shoals Vol. 2",
+        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262426,
+      "name": "Got Love - Made In Muscle Shoals",
+      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
+    },
+    {
+      "album": {
         "name": "Half the City",
         "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
       },
@@ -803,7 +839,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S"
@@ -825,6 +861,24 @@
       "duration_ms": 334360,
       "name": "Hard to Stay Cool",
       "url": "https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ"
+    },
+    {
+      "album": {
+        "name": "Harder To Blame",
+        "url": "https://open.spotify.com/album/7J1pLKAXPMishkIbaZroGc"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Harder To Blame",
+      "url": "https://open.spotify.com/track/6Qfd1lfuOpHwyyccBXAHH6"
     },
     {
       "album": {
@@ -1065,7 +1119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 155864,
       "name": "I Know How You Feel",
       "url": "https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz"
@@ -1145,7 +1199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS"
@@ -1181,7 +1235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 380600,
       "name": "In Every Heart",
       "url": "https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up"
@@ -1289,7 +1343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 307358,
       "name": "Lissa's Song",
       "url": "https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf"
@@ -1307,7 +1361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 235338,
       "name": "Little Liars",
       "url": "https://open.spotify.com/track/0vweB7Cfb5txX22ngBLgHJ"
@@ -1419,7 +1473,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
@@ -1491,7 +1545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
@@ -1653,7 +1707,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
@@ -1689,7 +1743,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0"
@@ -1855,7 +1909,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 207285,
       "name": "Room for Us All",
       "url": "https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986"
@@ -1945,7 +1999,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 229640,
       "name": "Scoundrel",
       "url": "https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ"
@@ -2007,6 +2061,24 @@
       "duration_ms": 223961,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
+    },
+    {
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu"
+      },
+      "artists": [
+        {
+          "name": "A.J. Croce",
+          "url": "https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190176,
+      "name": "So Much Fun",
+      "url": "https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3"
     },
     {
       "album": {
@@ -2306,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA"
+    },
+    {
+      "album": {
         "name": "Are You Mad Yet?",
         "url": "https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h"
       },
@@ -2393,7 +2483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
@@ -2537,7 +2627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 283866,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/4zoCjQ2VnSlgg65FDrTr5a"

@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,086 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,096 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 |
-| 2 | [Meninas Más](https://open.spotify.com/track/52N4tStHw0W4ghxJJK6pbp) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Meninas Más](https://open.spotify.com/album/58wbbnZvMAKM1aVwT8RME5) | 3:08 |
-| 3 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
-| 4 | [Loser](https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Loser](https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq) | 2:39 |
-| 5 | [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 |
-| 6 | [Fobia](https://open.spotify.com/track/1KOO2nipJQq4aMF3IHsP2U) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Fobia](https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq) | 3:06 |
-| 7 | [O novo sempre vem](https://open.spotify.com/track/3ZDjt1c89iu8b7MGzg3onK) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [O novo sempre vem](https://open.spotify.com/album/6GuAdLNa6xNQVnsSgkXYof) | 4:17 |
-| 8 | [Lúmen](https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lúmen](https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD) | 4:16 |
-| 9 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
-| 10 | [Me Escutar](https://open.spotify.com/track/26dgnXrpQjctV5QNIUsGEt) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Me Escutar](https://open.spotify.com/album/11QUQua6w4c2QgZxWcPzxj) | 2:00 |
-| 11 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 |
-| 12 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 |
+| 2 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
+| 3 | [Fobia](https://open.spotify.com/track/1KOO2nipJQq4aMF3IHsP2U) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Fobia](https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq) | 3:06 |
+| 4 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 |
+| 5 | [Me Escutar](https://open.spotify.com/track/26dgnXrpQjctV5QNIUsGEt) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Me Escutar](https://open.spotify.com/album/11QUQua6w4c2QgZxWcPzxj) | 2:00 |
+| 6 | [Loser](https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Loser](https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq) | 2:39 |
+| 7 | [Meninas Más](https://open.spotify.com/track/52N4tStHw0W4ghxJJK6pbp) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Meninas Más](https://open.spotify.com/album/58wbbnZvMAKM1aVwT8RME5) | 3:08 |
+| 8 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 |
+| 9 | [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 |
+| 10 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
+| 11 | [Sonho Médio](https://open.spotify.com/track/5DyIhtiRFqZMn4MTdgxUT5) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 1](https://open.spotify.com/album/0CecY6LCUP61MGvefKOtdq) | 2:19 |
+| 12 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 |
 | 13 | [Cicatrizes](https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh) | [Forte Norte](https://open.spotify.com/artist/5BnsBwbTCpt3f37fQerMux) | [Cicatrizes](https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n) | 3:49 |
 | 14 | [Antes do Fim](https://open.spotify.com/track/6EBMOVo0Z7axH4LO0cYz6c) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Antes do Fim](https://open.spotify.com/album/7opPi58oGdMw3QRej7drBd) | 2:52 |
-| 15 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 |
-| 16 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
-| 17 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 |
-| 18 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
+| 15 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
+| 16 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 |
+| 17 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
+| 18 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 |
 | 19 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 |
 | 20 | [Esse Cara Não Sou Eu](https://open.spotify.com/track/7In1OiMVJnQM99n4hGhbkN) | [Anônimos Anônimos](https://open.spotify.com/artist/5UWDldtq4b6RU5vo554Xnc) | [Esse Cara Não Sou Eu](https://open.spotify.com/album/1lr1Ghu1rcRS1CbcKESLqm) | 2:17 |
 | 21 | [Me Leva](https://open.spotify.com/track/68MYCFMYcrYDxrjcspj0C7) | [Chula Rock Band](https://open.spotify.com/artist/3BAlYFunKDeXI5FeTzhIUg) | [Me Leva](https://open.spotify.com/album/33gv5MklLKldDaGCDcB1zx) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 |
 | 75 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY1NDgzMDA2MCwwMDAwMDE1ZTAwMDAwMTgxNGI4ZWQyNmMwMDAwMDE4MGQ3YzIzNDU5`
+Snapshot ID: `MTY1NTQzNDg2MCwwMDAwMDE1ZjAwMDAwMTgxNmY5YjU2NjIwMDAwMDE4MGQ3YzIzNDU5`

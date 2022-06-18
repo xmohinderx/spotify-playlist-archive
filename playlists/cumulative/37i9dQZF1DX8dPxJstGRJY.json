@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Songbird (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "Songbird - Orchestral Version",
+      "url": "https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV"
       },

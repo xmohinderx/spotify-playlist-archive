@@ -4,11 +4,12 @@
 
 > Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Dawid Grzelak
 
-75 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+77 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Attention](https://open.spotify.com/track/32CGVs9AmSfVZjfYBWv9Ot) | [Bloo Crane](https://open.spotify.com/artist/2fArSWn7Q393fy7zt2Im9I) | [Bloo Feelings](https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq) | 3:06 | 2021-06-22 | 2022-06-01 |
+| [Barbie](https://open.spotify.com/track/2L2qDPcoGTL7AKC38BTr0l) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 2:21 | 2022-06-17 |  |
 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 | 2022-06-01 |  |
 | [Bez powietrza](https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Bez powietrza](https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag) | 2:59 | 2022-06-01 |  |
 | [bezdech](https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50) | [livia lena](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [bezdech](https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R) | 3:19 | 2022-06-01 |  |
@@ -53,6 +54,7 @@
 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 | 2022-06-01 |  |
 | [Pocałunek](https://open.spotify.com/track/141Jp2FUxUmyrE3Y5X9rZC) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Pocałunek](https://open.spotify.com/album/1sd80sFziTx0q58IozhGzR) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Pod Kapturem](https://open.spotify.com/track/6G1l68r9FYheCv5gAFpFDG) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/02e776XtxYIbk1viSjeDqr) | 1:36 | 2022-06-01 |  |
+| [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 | 2022-06-17 |  |
 | [Pole widzenia](https://open.spotify.com/track/2KBI2VONoml1wM1ScD7KMN) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP), [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC) | [Pole widzenia](https://open.spotify.com/album/6bl1FEqOKPWvg6t51xmyP6) | 3:05 | 2021-06-22 | 2022-06-01 |
 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 | 2022-06-01 |  |
 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 | 2022-06-01 |  |

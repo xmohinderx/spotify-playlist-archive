@@ -4,7 +4,7 @@
 
 > La nuova generazione di rapper italiani\. Cover: Rayan, Intifaya
 
-110 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+111 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [MOTO GP](https://open.spotify.com/track/5Nk8EEtOy5vwWfes83OW3n) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 1:56 | 2022-05-10 | 2022-05-27 |
 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 | 2022-05-10 | 2022-05-27 |
 | [MRIGL](https://open.spotify.com/track/6ivA4XEjWjTzY0Kx5vHhI4) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [MRIGL](https://open.spotify.com/album/2hyrs4MP239FTMl1Kyw0ZM) | 2:24 | 2022-06-09 |  |
+| [MUTISMO SELETTIVO](https://open.spotify.com/track/7nRY78PSzO21WiW2dkmHPE) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok) | [HO UCCISO L'HIP HOP ITALIANO](https://open.spotify.com/album/0GAfssfM9kJkIPrbeHotxy) | 2:40 | 2022-06-17 |  |
 | [My Baby](https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [My Baby](https://open.spotify.com/album/7IkR16ZBkyfGP5uWg4WlAQ) | 2:33 | 2022-05-10 | 2022-06-17 |
 | [Nei pensieri](https://open.spotify.com/track/6YzDPCtvn2wFVZ1v1GA1pG) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X) | [Nei pensieri](https://open.spotify.com/album/486w35zJtyxWkM7AX2qzIG) | 2:56 | 2022-05-26 |  |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-05-10 |  |

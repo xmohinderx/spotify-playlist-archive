@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 188571,
       "name": "Cara de P*to",
       "url": "https://open.spotify.com/track/6YGIkqIRpoRP2z5HbStjS8"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 196691,
       "name": "Drill de Cria",
       "url": "https://open.spotify.com/track/63AdvYWsRKp4NvCNeYyBB4"
@@ -1290,6 +1290,28 @@
     },
     {
       "album": {
+        "name": "Morango no Gin",
+        "url": "https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149812,
+      "name": "Morango no Gin",
+      "url": "https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c"
+    },
+    {
+      "album": {
         "name": "Nikeboyzsport",
         "url": "https://open.spotify.com/album/3ecynLJ2U5ZPN2xd2pal6b"
       },
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 192013,
       "name": "Profiss\u00e3o de Risco",
       "url": "https://open.spotify.com/track/0VbsQqFP4YkpiwyjIXC21h"
@@ -1635,6 +1657,28 @@
       "duration_ms": 159426,
       "name": "P\u00e9 na Porta",
       "url": "https://open.spotify.com/track/5eOL7iFAVMMN9wkcXEpFzK"
+    },
+    {
+      "album": {
+        "name": "Quatcha",
+        "url": "https://open.spotify.com/album/7vLphv7arvffzCmBNBtMqm"
+      },
+      "artists": [
+        {
+          "name": "ANTCONSTANTINO",
+          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
+        },
+        {
+          "name": "RB99",
+          "url": "https://open.spotify.com/artist/3qv7iBA467VYqwJFbWMS4g"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129962,
+      "name": "Quatcha",
+      "url": "https://open.spotify.com/track/4yezTlJTfJwh2pkU3dtAtY"
     },
     {
       "album": {
@@ -1831,6 +1875,32 @@
       "duration_ms": 154286,
       "name": "Sexta-Feira",
       "url": "https://open.spotify.com/track/64CiEvAU8WGuPhmjpyE8hI"
+    },
+    {
+      "album": {
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "album": {

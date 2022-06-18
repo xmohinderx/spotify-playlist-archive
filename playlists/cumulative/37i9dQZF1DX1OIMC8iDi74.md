@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-209 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+210 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fire](https://open.spotify.com/track/2nTT6AoxJnuVrncBzbyWnk) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Fire](https://open.spotify.com/album/6zr0YmPSudPjRxaYMPMNpW) | 3:05 | 2021-11-19 | 2021-12-23 |
 | [Flatline](https://open.spotify.com/track/5IeK0mLstlvIiXdiE9AfbN) | [Blueprint](https://open.spotify.com/artist/7KSmKUr3XDfTEvE4P2ADsV), [Floot](https://open.spotify.com/artist/00DIlSMELGbee32uwb9IBD) | [Flatline](https://open.spotify.com/album/0SvXXFsuGyDay9LW4RxY0s) | 3:27 | 2021-11-19 | 2022-02-02 |
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-11-19 |  |
-| [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 | 2022-02-01 |  |
+| [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 | 2022-02-01 | 2022-06-18 |
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-02-01 |
 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 | 2022-02-01 |  |
 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 | 2021-11-19 |  |
@@ -181,6 +181,7 @@
 | [Sonder](https://open.spotify.com/track/3td8TUsU9wfF4saGDi6NI4) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [Sonder](https://open.spotify.com/album/0hyjsGgDVWPqVwAm7NfYhZ) | 5:39 | 2021-11-19 | 2022-01-30 |
 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 | 2022-02-01 |  |
 | [Speakerbox \(feat\. Lafa Taylor\)](https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A) | [Into the Sun](https://open.spotify.com/album/4o64zqena2YeCi6q687ekv) | 4:42 | 2022-02-01 | 2022-02-03 |
+| [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-02-02 |
 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 | 2022-02-01 |  |
 | [STAY STRONG](https://open.spotify.com/track/3aPaa10F8G5yzzh9Eb6ayQ) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/2x211pbSpVexGZvTsAtSaD) | 3:03 | 2021-11-19 |  |

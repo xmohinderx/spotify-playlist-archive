@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-191 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+192 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,10 @@
 | [Ambre](https://open.spotify.com/track/0suQ6B8Bsp0tFuCXx652Az) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/6yOPLhN7K2amttawclvDVZ) | 3:47 | 2019-04-17 | 2022-02-05 |
 | [An Evening Scene](https://open.spotify.com/track/276HXUxlxWcRkavtERQpru) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [An Evening Scene](https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a) | 2:24 | 2022-03-11 |  |
 | [Angel](https://open.spotify.com/track/0aYmeQzrrWF25wmJPVrRlz) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Sometimes](https://open.spotify.com/album/4Ld49F7UxvyR2imnjF0Zqq) | 2:09 | 2019-04-17 | 2022-02-05 |
-| [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 | 2019-04-17 |  |
+| [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 | 2019-04-17 | 2022-06-18 |
 | [Any](https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Any](https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC) | 3:32 | 2022-03-11 |  |
 | [Arctic Tern](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Arctic Tern](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 2:24 | 2019-04-17 | 2022-02-05 |
-| [Asunder](https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Asunder](https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc) | 2:32 | 2022-02-25 | 2022-06-17 |
+| [Asunder](https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Asunder](https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc) | 2:32 | 2022-02-25 |  |
 | [At Dawn](https://open.spotify.com/track/6JOoavIQalujOEbpyN7ofg) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [At Dawn](https://open.spotify.com/album/6FIqEmWuczU1JgLbbIVJBv) | 3:00 | 2022-02-04 |  |
 | [Attesa](https://open.spotify.com/track/6GKQ8BYoRJxlE4cJJf4xw7) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Balmorhea](https://open.spotify.com/album/5l7M2Pr5LZCAcamcEkaWX8) | 3:14 | 2019-04-17 | 2022-02-05 |
 | [Ave](https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Ave](https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV) | 2:08 | 2022-02-11 |  |
@@ -145,11 +145,12 @@
 | [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 | 2022-02-04 |  |
 | [Re](https://open.spotify.com/track/6teNxpsKa9WL8lknJ0b3Gf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:50 | 2019-04-17 | 2022-02-05 |
 | [Riley: Keyboard Study 2 \- Brubaker Version 3](https://open.spotify.com/track/6IA6qT22LlOMX4NjzVlNjZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Codex](https://open.spotify.com/album/6mhvHYyMRX7cEG8cIKCfaF) | 3:40 | 2019-04-17 | 2022-02-05 |
+| [Sanctuary](https://open.spotify.com/track/4BSQltQxjOw2v46BTc5tED) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Sanctuary](https://open.spotify.com/album/1Ag5QnmplBpx8V093q26mf) | 2:25 | 2022-06-17 |  |
 | [Satisfaction](https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Satisfaction](https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6) | 2:09 | 2022-02-25 |  |
 | [Seven Days Walking / Day 2: Birdsong](https://open.spotify.com/track/7EF5cPm1zN8Jvy4FvcQOee) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Birdsong](https://open.spotify.com/album/08tidadmOyLnzAYsTEsqyH) | 5:25 | 2019-04-17 | 2022-02-05 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-02-04 | 2022-02-19 |
-| [Silent Dusk](https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [River Path](https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9) | 3:29 | 2022-02-04 |  |
-| [six + six](https://open.spotify.com/track/42KSKpVfVbJFSP3GFbV4fH) | [Melaine Dalibert](https://open.spotify.com/artist/1nAKzhcn8xyLI1jPVUgRF7) | [six + six](https://open.spotify.com/album/0yd4uETRBFZqKUv703WYrJ) | 3:09 | 2022-03-11 |  |
+| [Silent Dusk](https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [River Path](https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9) | 3:29 | 2022-02-04 | 2022-06-18 |
+| [six + six](https://open.spotify.com/track/42KSKpVfVbJFSP3GFbV4fH) | [Melaine Dalibert](https://open.spotify.com/artist/1nAKzhcn8xyLI1jPVUgRF7) | [six + six](https://open.spotify.com/album/0yd4uETRBFZqKUv703WYrJ) | 3:09 | 2022-03-11 | 2022-06-18 |
 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 | 2022-02-04 |  |
 | [Soffia la notte](https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Viaggi in aeromobile](https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI) | 3:24 | 2019-04-17 | 2022-02-05 |
 | [Soffia la notte](https://open.spotify.com/track/0jPNtLsmIRXnGayXcMH5l1) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [The Studio Sessions](https://open.spotify.com/album/2OEVlYjZfNtjOmvr9ecNEy) | 4:11 | 2022-02-04 | 2022-05-20 |
@@ -167,7 +168,7 @@
 | [Sway](https://open.spotify.com/track/1LQsAMbRfl2644biYjwHhz) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [Sway](https://open.spotify.com/album/6FjhiU3DOCOdhcM0Qxhddz) | 2:42 | 2019-04-17 | 2022-02-05 |
 | [Sway, Sway](https://open.spotify.com/track/6Xtb1w2ooURsLUa4cBvyRt) | [Heinali](https://open.spotify.com/artist/5v5c1zBRKBwkDh4sQEHcMx) | [Sway, Sway](https://open.spotify.com/album/3K2GhlqkmJNjeYeyCBZ3bW) | 4:53 | 2019-04-17 | 2022-02-05 |
 | [Talisman Stallion](https://open.spotify.com/track/1e3JUGxqyfe94XBFnWdP11) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [Talisman Stallion](https://open.spotify.com/album/6BdLUE4WOmMfuin04hs4e4) | 2:00 | 2019-04-17 | 2022-02-05 |
-| [The First Birds](https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The First Birds](https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES) | 2:16 | 2022-05-27 | 2022-06-17 |
+| [The First Birds](https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The First Birds](https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES) | 2:16 | 2022-05-27 |  |
 | [The Gift](https://open.spotify.com/track/0aNwdVJmeq9CSCEPsyCvXP) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q) | 3:45 | 2019-04-17 | 2022-02-05 |
 | [The Hours \- The Hours \- Arr\. for cello and piano by Bruno Fontaine: The poet acts](https://open.spotify.com/track/5YyDbEtxo2CvcjBuUiJIzJ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Henri Demarquette](https://open.spotify.com/artist/2tStHB1uFmqhQM687bmnDq), [Vanessa Benelli Mosell](https://open.spotify.com/artist/38mceDz890rw1ci5pcTyk5) | [Echoes](https://open.spotify.com/album/1hQnoCT80F6YIUPVmWInrt) | 3:44 | 2019-04-17 | 2022-02-05 |
 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2022-05-13 |  |

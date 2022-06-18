@@ -4,12 +4,13 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Skillibeing, Fivio Foreign, French Montana
 
-105 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+106 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Story](https://open.spotify.com/track/1kPTtmiOehb4z9pBvJVd55) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6) | [30 Story](https://open.spotify.com/album/661JxOH4TG5SiUBf45v7rn) | 2:17 | 2022-06-03 |  |
 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 | 2022-06-03 |  |
+| [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-17 |  |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2022-06-03 |  |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2022-06-03 |  |
 | [Bassline](https://open.spotify.com/track/1Mxxb2DvCDdLvNqaHEzzpD) | [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Bassline](https://open.spotify.com/album/0qInLMG7pD2429GUes51aT) | 3:00 | 2022-06-03 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Representando la cultura con orgullo. \u00a1Celebramos los 20 a\u00f1os del legado de \"Un D\u00eda Normal\" de Juanes!",
-  "num_followers": 471996,
-  "original_name": "Made in Colombia",
+  "description": "Este mensaje se lee \u201con repeat\u201d: Vota, vota, vota. \u00a1Dale play a tu voto!",
+  "num_followers": 472124,
+  "original_name": "Dale play a tu voto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzNjg3NCwwMDAwMDA5MTAwMDAwMTgxMWM0N2M1MWMwMDAwMDE4MTFjNDcxMWVh",
+  "snapshot_id": "MTY1NTQ5ODQzOCwwMDAwMDA5MjAwMDAwMTgxNzM2NTc3ZGMwMDAwMDE4MTczNjNjNjRh",
   "tracks": [
     {
       "added_at": "2022-05-28 19:02:37",
@@ -27,18 +27,22 @@
     {
       "added_at": "2022-05-28 19:02:37",
       "album": {
-        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
-        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 250680,
-      "name": "Es Por Ti - Remastered 2022",
-      "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2022-05-28 19:02:37",
@@ -59,6 +63,22 @@
       "duration_ms": 193043,
       "name": "Pasa",
       "url": "https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA"
+    },
+    {
+      "added_at": "2022-05-28 19:02:37",
+      "album": {
+        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Es Por Ti - Remastered 2022",
+      "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
     },
     {
       "added_at": "2022-05-28 19:02:37",
@@ -87,6 +107,22 @@
     {
       "added_at": "2022-05-28 19:02:37",
       "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
+    },
+    {
+      "added_at": "2022-05-28 19:02:37",
+      "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/07i1aBWmIFnWK5yRQDu3Gk"
       },
@@ -103,42 +139,6 @@
       "duration_ms": 258505,
       "name": "Babel",
       "url": "https://open.spotify.com/track/20G5CFb10eulCPFSLTIpt8"
-    },
-    {
-      "added_at": "2022-05-28 19:02:37",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2022-05-28 19:02:37",
-      "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
     },
     {
       "added_at": "2022-05-28 19:02:37",
@@ -1769,6 +1769,6 @@
       "url": "https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94"
     }
   ],
-  "unique_name": "Made in Colombia",
+  "unique_name": "Dale play a tu voto",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn"
 }

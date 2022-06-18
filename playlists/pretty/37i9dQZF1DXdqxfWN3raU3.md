@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Rels B
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Irepelusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,956 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,991 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [No la Paso Mal](https://open.spotify.com/track/1g3clLZY5J2EmPGBBssWVy) | [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [No la Paso Mal](https://open.spotify.com/album/0IXVKmFTGe7JkTT42JdylO) | 2:40 |
 | 100 | [No Voy a Dudar](https://open.spotify.com/track/2J6OGTVgvgipKATyti8QrL) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karloz](https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 2:27 |
 
-Snapshot ID: `MTY1NTQxMjIxMSwwMDAwMDE3NTAwMDAwMTgxNmU0MWJmN2UwMDAwMDE4MTAyOTlhZTU2`
+Snapshot ID: `MTY1NTQ4MDA4MiwwMDAwMDE3NjAwMDAwMTgxNzI0ZDYyMDAwMDAwMDE4MTAyOTlhZTU2`

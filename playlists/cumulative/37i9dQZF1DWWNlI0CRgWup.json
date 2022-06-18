@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "C'est bon",
+        "url": "https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "C'est bon",
+      "url": "https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4"
+    },
+    {
+      "album": {
         "name": "C'est comme le Soleil",
         "url": "https://open.spotify.com/album/1kcynhYaNJNSAsE7rkrNs9"
       },
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 198688,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/24o720A8MCkwTWWytpMZld"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 184320,
       "name": "postcard from Paris",
       "url": "https://open.spotify.com/track/08jQ7tWtdGYteyCmzFmv8r"
@@ -866,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Lourd et d\u00e9licat",
+        "url": "https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184954,
+      "name": "Se dire au revoir",
+      "url": "https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n"
+    },
+    {
+      "album": {
         "name": "Si bien du mal",
         "url": "https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh"
       },
@@ -881,6 +917,28 @@
       "duration_ms": 168581,
       "name": "Si bien du mal",
       "url": "https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv"
+    },
+    {
+      "album": {
+        "name": "postcard from Paris",
+        "url": "https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "si rose",
+      "url": "https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5"
     },
     {
       "album": {

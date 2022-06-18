@@ -524,6 +524,24 @@
     },
     {
       "album": {
+        "name": "Favole (mi hai rotto il caxxo)",
+        "url": "https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173010,
+      "name": "Favole (mi hai rotto il caxxo)",
+      "url": "https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX"
+    },
+    {
+      "album": {
         "name": "Fiji",
         "url": "https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI"
       },

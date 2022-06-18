@@ -2,9 +2,9 @@
 
 ### [el nuevo urbano](https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG)
 
-> Descubre lo más nuevo del movimiento\. Cover: Tiago PZK, Ozuna
+> Descubre lo más nuevo del movimiento\. Cover: Dimelo Flow
 
-113 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+114 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [PROVOCAR](https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 2:46 | 2022-03-21 | 2022-06-04 |
 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 | 2022-03-21 | 2022-06-04 |
 | [Qué Diablos](https://open.spotify.com/track/0euNA8UFnJB3TTyC9a4A7u) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Procedente](https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb) | 3:37 | 2022-05-13 |  |
+| [Qué Me Contás](https://open.spotify.com/track/06WTESRQbdQE1AQQdtEnWd) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Qué Me Contás](https://open.spotify.com/album/5ETSytNMTxtKKGTW1DDpue) | 3:29 | 2022-06-17 |  |
 | [Reaction](https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Reaction](https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48) | 3:06 | 2022-03-21 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-21 |  |
 | [Shorty \(with Jamby El Favo\)](https://open.spotify.com/track/0lLQEAzWFs4Lp979xMxMfe) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Shorty \(with Jamby El Favo\)](https://open.spotify.com/album/4aTvD8scpclj5TE2L1QFXG) | 3:21 | 2022-06-03 |  |

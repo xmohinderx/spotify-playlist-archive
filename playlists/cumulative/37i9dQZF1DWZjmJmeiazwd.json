@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV"
@@ -2789,7 +2789,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 197912,
       "name": "Instant History - Single Version",
       "url": "https://open.spotify.com/track/78Whqvk23AqxailSEMv83F"
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 177840,
       "name": "Kiss This",
       "url": "https://open.spotify.com/track/0cYrnLpz2drPo2aZWExpCl"
@@ -3743,7 +3743,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
@@ -3988,6 +3988,28 @@
     },
     {
       "album": {
+        "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
+        "url": "https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw"
+      },
+      "artists": [
+        {
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        },
+        {
+          "name": "Divide Music",
+          "url": "https://open.spotify.com/artist/50iN4QFD9Z9S1KAzDLvAju"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230636,
+      "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
+      "url": "https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e"
+    },
+    {
+      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -4119,7 +4141,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
@@ -4209,7 +4231,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
@@ -4299,7 +4321,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 156946,
       "name": "Promise Everything",
       "url": "https://open.spotify.com/track/2KerlpO7VnoIiE69HUiiro"
@@ -4429,7 +4451,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 195200,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
@@ -4581,7 +4603,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Saint Cecilia",
       "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
@@ -4869,7 +4891,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 277840,
       "name": "Show Me How to Live",
       "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
@@ -5195,7 +5217,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 215293,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio"
@@ -5491,7 +5513,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 267333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/772AiQoYHA7lDckryjGyVj"

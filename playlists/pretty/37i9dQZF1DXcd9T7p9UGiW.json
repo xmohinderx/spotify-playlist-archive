@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk?si=vqbTd2YgSHe0cXRc1Cl1dQ\" > Arrdee </a> and <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kBJ2YLi9SO2jkADHAwHlXw\" > Black Sherif </a> ",
-  "num_followers": 4482,
+  "num_followers": 4528,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIxMDgwMCwwMDAwMDAyMDAwMDAwMTgxMjZhNWFhNWUwMDAwMDE4MTI1MTM3MTAz",
+  "snapshot_id": "MTY1NTQ1MjI3OSwwMDAwMDAyMTAwMDAwMTgxNzBhNTIzNDgwMDAwMDE4MTI1MTM3MTAz",
   "tracks": [
     {
       "added_at": "2022-06-02 23:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
+      "added_at": "2022-06-17 07:51:19",
+      "album": {
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2021-10-08 09:53:07",

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 404247,
       "name": "African Love Song",
       "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 300819,
       "name": "Amore Selvaggio - Original Mix",
       "url": "https://open.spotify.com/track/6Wjswxv89qGRzOqUir9rti"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 348518,
       "name": "Bluff Dance",
       "url": "https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 393773,
       "name": "Caf\u00e8 - Original 1979 Version",
       "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
@@ -411,6 +411,24 @@
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
+    },
+    {
+      "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "album": {
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 368856,
       "name": "Excessive Dance",
       "url": "https://open.spotify.com/track/3FlK2PJ6yvEEUkR1uv3J7c"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 366189,
       "name": "Futura",
       "url": "https://open.spotify.com/track/3I8I5xOy34pz3dbvfM3I9u"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 221930,
       "name": "I.C. Love Affair - Radio Version",
       "url": "https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 350082,
       "name": "La Bagarre",
       "url": "https://open.spotify.com/track/6VmPUcwaFV2ZCkWT3IrkHm"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 363666,
       "name": "Let's Disco Dance",
       "url": "https://open.spotify.com/track/6MQx1kPH9U5Qw6QyfOKXBG"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 218708,
       "name": "Microwave Photon",
       "url": "https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx"
@@ -1458,6 +1476,32 @@
     },
     {
       "album": {
+        "name": "My Magic Number",
+        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Dita Von Teese",
+          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
+        },
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317120,
+      "name": "My Magic Number - Club Domani Remix",
+      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -1487,7 +1531,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 214466,
       "name": "One for You, One for Me",
       "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
@@ -1739,7 +1783,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 276840,
       "name": "Sequenzer Dream",
       "url": "https://open.spotify.com/track/7fdfRaVdkyheun62BMDLth"
@@ -1811,7 +1855,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 451500,
       "name": "Stranger in a Strange Land - Club Mix 1983",
       "url": "https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz"
@@ -2285,6 +2329,36 @@
       "duration_ms": 266826,
       "name": "Wojtila 5. Disco Dance",
       "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
+        "url": "https://open.spotify.com/album/04MDrNhNNtY4Rj506ZTHAo"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        },
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "\u00c7a va? Je T'aime! (feat. EMMANUELLE) - Club Domani Remix",
+      "url": "https://open.spotify.com/track/7nQcp3MktbBxhHLiM1skdY"
     },
     {
       "album": {

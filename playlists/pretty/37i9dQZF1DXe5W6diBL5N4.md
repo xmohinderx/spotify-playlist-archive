@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: WONHO\(원호\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,136 likes - 149 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,311 likes - 149 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [Nobody Knows \(feat\. Hyeseon\)](https://open.spotify.com/track/3uNbi0Ky3PHcKYzOe0Ct06) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM), [J HYESUN](https://open.spotify.com/artist/5k1I3VK1E5oOlpkDFieM6d) | [Nobody Knows \(feat\. Hyeseon\)](https://open.spotify.com/album/0CUP7IXQ5ykzQywQbp32JP) | 2:38 |
 | 7 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 |
 | 8 | [Crazyy \(feat\. Vapo\)](https://open.spotify.com/track/5xt3ACTZEK9naZxrnBZDZX) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Vapo \(허원혁\)](https://open.spotify.com/artist/5L69RmnzQAASzW5Kes2iX7) | [Crazyy](https://open.spotify.com/album/0avtu3BexGp4CNi80iEvTH) | 3:20 |
-| 9 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [oftn](https://open.spotify.com/artist/5NZ8hj7ZSapSw6tmdEz0lH) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 |
+| 9 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [Oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 |
 | 10 | [I Have A Crush On You \(feat\. Meriberry\)](https://open.spotify.com/track/2KCV2Iaug6B6ygEO5c2ZPa) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Meriberry](https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb) | [I Have A Crush On You](https://open.spotify.com/album/7izgPF1TAkWkm7G1QNqlLE) | 3:13 |
 | 11 | [땡깡](https://open.spotify.com/track/1uyOUN6Kbjg6xRhMAWHEQ8) | [Young Five](https://open.spotify.com/artist/0TZFgw3RRqWsKj4n0LUWpc) | [Love 4 Life](https://open.spotify.com/album/6HebzaB2Thzm0FLGnpQtHV) | 2:52 |
 | 12 | [Dirt \(Feat\. Band Westwood\)](https://open.spotify.com/track/1826jggZAoW4a35x6eqMFS) | [Life20house](https://open.spotify.com/artist/5v8wIT6594aMDiTwTRS6w2), [Band Westwood](https://open.spotify.com/artist/2jsusZEyLlf6CJfW8xJPQv) | [Dirt](https://open.spotify.com/album/5bxO1KWETrkHhPSvhEQY9c) | 3:18 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 35 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 |
 | 36 | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/track/01zLsmh6WS5kji3dpq8H8S) | [99PRBLM](https://open.spotify.com/artist/48k4RRZzAu8aBh2oGtcCPn), [TONLIZ](https://open.spotify.com/artist/6SlooEKoamDl63pLAHmTU8) | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/album/3ExFIr5FipA8ekCXrjkv8Q) | 3:34 |
 | 37 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 |
-| 38 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star \- EP](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 |
+| 38 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 |
 | 39 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 40 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
 | 41 | [Thursday Brown](https://open.spotify.com/track/6z8xmqi3uPfzo1qCuEbTII) | [Legit Goons](https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R) | [Family Sitcom](https://open.spotify.com/album/62BUY2uTamG4A0bP8fdoSG) | 3:55 |

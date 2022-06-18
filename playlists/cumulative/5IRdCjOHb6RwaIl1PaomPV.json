@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New album from Diplo, plus the latest cuts from Ewan McVicar, Blackhaine, Louis The Child &amp; Aluna, piri &amp; Tommy, and more.",
+  "description": "The latest tracks from Mad Decent and friends. New collaboration from Eartheater &amp; LSDXOXO, plus the latest cuts from Joel Corry, Azzecca, TDJ, niina, Ayra Star, Noizu, and more.",
   "name": "Mad Decent Weekly",
   "published_playlist_ids": [
     "1Yjpd6pirY2pY0xv9m96EC"
@@ -143,6 +143,28 @@
       "duration_ms": 206222,
       "name": "All I Wanna Do - Radio Edit",
       "url": "https://open.spotify.com/track/2M42ULRtxbo5m3tA4HS3iH"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339611,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
       "album": {
@@ -678,6 +700,28 @@
     },
     {
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/4t92zAGms07Tr2S1DDh4ud"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/29jPMXHd2Yhpubhf1qHOcx"
+    },
+    {
+      "album": {
         "name": "Destiny of the Moment",
         "url": "https://open.spotify.com/album/7BMspgO8qEiB6JWyQ9IbOG"
       },
@@ -904,6 +948,80 @@
     },
     {
       "album": {
+        "name": "Don't Forget My Love (Higgo Remix)",
+        "url": "https://open.spotify.com/album/1uJx2dvzHBXCMt3OdzlWCp"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189685,
+      "name": "Don't Forget My Love - Higgo Remix",
+      "url": "https://open.spotify.com/track/11JfylgMLdIaig04snysSw"
+    },
+    {
+      "album": {
+        "name": "Don't Forget My Love (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/33npwwwiaCc6DBzcqrYVYB"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Don't Forget My Love - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2ZZK1nTsNhQXlwTUxqpJyU"
+    },
+    {
+      "album": {
+        "name": "Everything Comes True",
+        "url": "https://open.spotify.com/album/6m3K8LjG7jJDtAhJ4FkWPS"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        },
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395490,
+      "name": "Don't Fuck Around",
+      "url": "https://open.spotify.com/track/2vxMgCp6jckeLc0KTGpEBd"
+    },
+    {
+      "album": {
         "name": "Don't Hit My Line",
         "url": "https://open.spotify.com/album/4kcvM6m4TvHuLN27Nvme8Y"
       },
@@ -967,6 +1085,28 @@
       "duration_ms": 173160,
       "name": "Drowning In My Sleep",
       "url": "https://open.spotify.com/track/5QIitx4XCac0c0zbCIx0O8"
+    },
+    {
+      "album": {
+        "name": "E SI O",
+        "url": "https://open.spotify.com/album/1rHT1LiSGI8Qs0UzjZ6Fw7"
+      },
+      "artists": [
+        {
+          "name": "Calibre",
+          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
+        },
+        {
+          "name": "Chelou",
+          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345264,
+      "name": "E SI O",
+      "url": "https://open.spotify.com/track/6amuGetxPZSrLEDbd3i7Fk"
     },
     {
       "album": {
@@ -1240,6 +1380,28 @@
     },
     {
       "album": {
+        "name": "Getting Late",
+        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254557,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "album": {
         "name": "Getting Over This",
         "url": "https://open.spotify.com/album/7hPtpTY8ObMImZoRuDOXqb"
       },
@@ -1285,6 +1447,28 @@
       "duration_ms": 243959,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/18Oa0nSOPwrW8xObaYyaR2"
+    },
+    {
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "album": {
@@ -1434,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Gelexian Protocol",
+        "url": "https://open.spotify.com/album/75MNs8paiJxPIHaLyM7VHq"
+      },
+      "artists": [
+        {
+          "name": "Mother of Pearls",
+          "url": "https://open.spotify.com/artist/0lz24LKq6Bv5jRTSSxwcVa"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407125,
+      "name": "Hive",
+      "url": "https://open.spotify.com/track/69j2qYO8WMoSEUPnElhDkj"
+    },
+    {
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1453,6 +1655,24 @@
       "duration_ms": 207097,
       "name": "Humble",
       "url": "https://open.spotify.com/track/6w81NLZP7XWi7aIJ0EXod7"
+    },
+    {
+      "album": {
+        "name": "I've Been Waiting\ufeff\ufeff",
+        "url": "https://open.spotify.com/album/3TA2RyxluwxYN1DTVXJnGJ"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240390,
+      "name": "I've Been Waiting\ufeff\ufeff",
+      "url": "https://open.spotify.com/track/25xGCpAKWRUth9UbxC1TOl"
     },
     {
       "album": {
@@ -1690,6 +1910,28 @@
     },
     {
       "album": {
+        "name": "JOY (Deluxe)",
+        "url": "https://open.spotify.com/album/2JyQlVMRddAaZ9r3v15RCJ"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Eris Drew",
+          "url": "https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456581,
+      "name": "Local Newspaper - Eris Drew Remix",
+      "url": "https://open.spotify.com/track/6NpPr9WnmOkEgfq0tDMVgy"
+    },
+    {
+      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -1888,6 +2130,42 @@
     },
     {
       "album": {
+        "name": "miss me",
+        "url": "https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213884,
+      "name": "miss me",
+      "url": "https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE"
+    },
+    {
+      "album": {
+        "name": "Moon Groove",
+        "url": "https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Moon Groove",
+      "url": "https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG"
+    },
+    {
+      "album": {
         "name": "Music4TheMasses",
         "url": "https://open.spotify.com/album/0IetwS8HAxU9lu1Z5YHeNP"
       },
@@ -2078,6 +2356,44 @@
     },
     {
       "album": {
+        "name": "Overloading (OVERDOSE)",
+        "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Overloading (OVERDOSE)",
+      "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+    },
+    {
+      "album": {
         "name": "Plonk IV",
         "url": "https://open.spotify.com/album/6ay1euRxYnpCLCmcWTsRYg"
       },
@@ -2193,6 +2509,42 @@
       "duration_ms": 175266,
       "name": "Protein",
       "url": "https://open.spotify.com/track/3PJV3HC2LogvCrS6hDs2el"
+    },
+    {
+      "album": {
+        "name": "TDJ123",
+        "url": "https://open.spotify.com/album/2uAAN1I8OYWOMyWjBN84Jq"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261055,
+      "name": "Pushed You Away",
+      "url": "https://open.spotify.com/track/4NNgRuXULfXbj6IYVzPK64"
+    },
+    {
+      "album": {
+        "name": "Country Classic",
+        "url": "https://open.spotify.com/album/3zzQmHlRYxw5pTpcTyMOsk"
+      },
+      "artists": [
+        {
+          "name": "Ashee",
+          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337190,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/5OrtR46yRC1vIEcNnpsYZX"
     },
     {
       "album": {
@@ -2760,6 +3112,24 @@
     },
     {
       "album": {
+        "name": "Swamp",
+        "url": "https://open.spotify.com/album/34ZzttE9AeAuv790V7s6R2"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321653,
+      "name": "Swamp",
+      "url": "https://open.spotify.com/track/2FTqlDGXiiQ2MUmxgU2QKK"
+    },
+    {
+      "album": {
         "name": "Techno Face",
         "url": "https://open.spotify.com/album/1glUa7FzlJ9f2s6YJVK5w7"
       },
@@ -3142,6 +3512,24 @@
     },
     {
       "album": {
+        "name": "Woman Like You",
+        "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245750,
+      "name": "Woman Like You",
+      "url": "https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb"
+    },
+    {
+      "album": {
         "name": "Wyrdo",
         "url": "https://open.spotify.com/album/7LMz2KwpTJA0HfwLXog3cd"
       },
@@ -3219,6 +3607,46 @@
       "duration_ms": 254730,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2FDpKjiOdqQPNCP97tIYCF"
+    },
+    {
+      "album": {
+        "name": "Enemy Remixed",
+        "url": "https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311421,
+      "name": "yrstruly - CFCF Scream Mix",
+      "url": "https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f"
+    },
+    {
+      "album": {
+        "name": "Yu",
+        "url": "https://open.spotify.com/album/5Fb65ff2umZkpRtF9Rt2et"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268830,
+      "name": "Yu",
+      "url": "https://open.spotify.com/track/30eZIdScAUjxBRszUqpWUl"
     }
   ],
   "url": "https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV"

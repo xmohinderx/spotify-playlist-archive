@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: HYBS",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: grentperez",
   "name": "borderless",
   "published_playlist_ids": [
     "6bA5HVht0DRnYt7fu1eP5j"
@@ -77,6 +77,24 @@
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/0uk7nhgnQCbL8j7ZoaOt4g"
+      },
+      "artists": [
+        {
+          "name": "Da Souza",
+          "url": "https://open.spotify.com/artist/3rD7bBI9zkYhu62o79tWe6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5rsuI6pOw8No6Nna12ONDZ"
     },
     {
       "album": {
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 163125,
       "name": "Baby You\u2019re the One I Need",
       "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
@@ -758,6 +776,46 @@
     },
     {
       "album": {
+        "name": "Parrots & The Park (Pastimes Vol. I)",
+        "url": "https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155079,
+      "name": "Cilantro Grass",
+      "url": "https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf"
+    },
+    {
+      "album": {
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/6Qk0dH5vwJRBr3CPBFOs4G"
+      },
+      "artists": [
+        {
+          "name": "Ditch Days",
+          "url": "https://open.spotify.com/artist/3B3nEiNlMRAHeSF9hfVyi2"
+        },
+        {
+          "name": "Laure Briard",
+          "url": "https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181504,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/7zLHEfwVE2CZyLswISF27I"
+    },
+    {
+      "album": {
         "name": "Cocoa Beach",
         "url": "https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN"
       },
@@ -1126,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Don't Grow Up Too Fast",
+        "url": "https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242931,
+      "name": "Don't Grow Up Too Fast",
+      "url": "https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui"
+    },
+    {
+      "album": {
         "name": "Dos vidas",
         "url": "https://open.spotify.com/album/2dap3D6pnpQwlDGIRAho8Z"
       },
@@ -1245,7 +1321,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 213473,
       "name": "Elon Musk (W ogniu si\u0119 unosz\u0119)",
       "url": "https://open.spotify.com/track/3UH5SVLXiVcilknjQzhvT4"
@@ -1321,7 +1397,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 287952,
       "name": "Euroyey\u00e9",
       "url": "https://open.spotify.com/track/043vbS11R0MfvPr7BS8Bp5"
@@ -1361,6 +1437,28 @@
       "duration_ms": 196690,
       "name": "Extra Life",
       "url": "https://open.spotify.com/track/7AngXzeHprtm3cTr9gdFmy"
+    },
+    {
+      "album": {
+        "name": "Fck Love",
+        "url": "https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Fck Love",
+      "url": "https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW"
     },
     {
       "album": {
@@ -1695,6 +1793,28 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
+    },
+    {
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199088,
+      "name": "Hi-Fidelity",
+      "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
     },
     {
       "album": {
@@ -2323,7 +2443,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 129602,
       "name": "Llorando por Toda la Ciudad - BSO La Amiga De Mi Amiga",
       "url": "https://open.spotify.com/track/4olDeTx5QvbU67r3GtvfpT"
@@ -2847,7 +2967,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 203372,
       "name": "Motora (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/4yjgpEIQ0ZLsipp9sST661"
@@ -2966,6 +3086,24 @@
     },
     {
       "album": {
+        "name": "Nada Que Ver",
+        "url": "https://open.spotify.com/album/19CbXgP9Dc5Z8lJld7dQvo"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Nada Que Ver",
+      "url": "https://open.spotify.com/track/3VSZNY35QyJVDqjYuSJ94K"
+    },
+    {
+      "album": {
         "name": "Need A Moment",
         "url": "https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ"
       },
@@ -3031,7 +3169,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 200266,
       "name": "no me convengo",
       "url": "https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW"
@@ -3107,7 +3245,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 195255,
       "name": "No Vuelvas",
       "url": "https://open.spotify.com/track/1Yk68zD4BTiBiWXjJOaCgQ"
@@ -3339,7 +3477,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
@@ -3383,7 +3521,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 171176,
       "name": "Ponerme Triste",
       "url": "https://open.spotify.com/track/77gjyozSjFxWdRhk2CouPU"
@@ -3485,7 +3623,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 197734,
       "name": "Provinciana",
       "url": "https://open.spotify.com/track/0VDRGqAZRShcOyrlEZJs1V"
@@ -3528,6 +3666,24 @@
     },
     {
       "album": {
+        "name": "REAL LOVE",
+        "url": "https://open.spotify.com/album/7i4NU1t0CZEoTrW4BgbXF4"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176411,
+      "name": "REAL LOVE",
+      "url": "https://open.spotify.com/track/1Ke3l9Xg0oZJANurjySmBN"
+    },
+    {
+      "album": {
         "name": "It's All Smiles",
         "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
       },
@@ -3557,7 +3713,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 185724,
       "name": "Ribelli",
       "url": "https://open.spotify.com/track/4ElZMZM9imovaP3WeKPSWy"
@@ -4405,7 +4561,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 272280,
       "name": "To Dream",
       "url": "https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH"
@@ -4427,6 +4583,24 @@
       "duration_ms": 217263,
       "name": "to the moon",
       "url": "https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws"
+    },
+    {
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "album": {
@@ -4857,6 +5031,28 @@
       "duration_ms": 174191,
       "name": "Winnie Crush",
       "url": "https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr"
+    },
+    {
+      "album": {
+        "name": "Wintertime Is Over",
+        "url": "https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY"
+      },
+      "artists": [
+        {
+          "name": "Sam Florian",
+          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
+        },
+        {
+          "name": "ANT",
+          "url": "https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Wintertime Is Over",
+      "url": "https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT"
     },
     {
       "album": {

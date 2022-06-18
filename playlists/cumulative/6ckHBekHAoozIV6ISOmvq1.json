@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "published_playlist_ids": [
     "5CGNkHqKFRMPH4a9UfC44H"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 369613,
       "name": "Adan, vauries vous manoir",
       "url": "https://open.spotify.com/track/4YUDooWfszNlxoUQ5WJiUC"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -2755,7 +2755,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 515466,
       "name": "Cantigas de Santa Maria: Madre de Deus",
       "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
@@ -4089,7 +4089,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 190643,
       "name": "Cosa crudel m'ancide",
       "url": "https://open.spotify.com/track/7qdaKRyTmrd8z4hCMu7tJ2"
@@ -6161,10 +6161,32 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 245196,
       "name": "Gloria in excelsis",
       "url": "https://open.spotify.com/track/6LWnNAxRLSbA6QRKgUSrGy"
+    },
+    {
+      "album": {
+        "name": "Sea Songs & Shanties",
+        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
+      },
+      "artists": [
+        {
+          "name": "Unknown",
+          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+        },
+        {
+          "name": "La Nef",
+          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Go To Sea No More (Arr. by Se\u00e1n Dagher and Nelson Carter)",
+      "url": "https://open.spotify.com/track/32TIeJgYIl63FGxYbemcbM"
     },
     {
       "album": {
@@ -6351,7 +6373,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 202453,
       "name": "Herz, m\u00fct, leib, sel",
       "url": "https://open.spotify.com/track/7j0gqUzo8qYFDahhSCUmzn"
@@ -6929,7 +6951,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 526666,
       "name": "Instrumental Piece",
       "url": "https://open.spotify.com/track/77doyagvrFnKp3j0JIGtrH"
@@ -7441,7 +7463,7 @@
       ],
       "date_added": "2020-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-09",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "Jhesus Crist filh de Dieu viu (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/4HHAa8ujb6M035SS0OJNKj"
@@ -7615,7 +7637,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 209040,
       "name": "Kemp's Jig - Mistress Winter's Jump - My Lady Hunsdon's Puffe (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/3EWemJKqmoFjKEizVyZir1"
@@ -7809,7 +7831,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2020-09-19",
+      "date_removed": null,
       "duration_ms": 382506,
       "name": "La douce voiz du louseignol sauvage (arr. J. Ferrero)",
       "url": "https://open.spotify.com/track/4TowDq8Tt0ybiqVjG1lv7e"
@@ -8025,7 +8047,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 229560,
       "name": "La tierche estampie real (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/2d1NNXnnRGdIhmrTgUCLJ3"
@@ -8550,6 +8572,32 @@
     },
     {
       "album": {
+        "name": "Sea Songs & Shanties",
+        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
+      },
+      "artists": [
+        {
+          "name": "Unknown",
+          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+        },
+        {
+          "name": "La Nef",
+          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+        },
+        {
+          "name": "Sean Dagher",
+          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248186,
+      "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
+      "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
+    },
+    {
+      "album": {
         "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
         "url": "https://open.spotify.com/album/3VvDdHasv214R7Sl8frSYc"
       },
@@ -8607,7 +8655,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 410533,
       "name": "Li nouviauz tanz et mais et violete",
       "url": "https://open.spotify.com/track/3jqk5VxRsDA5GaAWDzSG0I"
@@ -9069,7 +9117,7 @@
       ],
       "date_added": "2019-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 297960,
       "name": "Magnificat",
       "url": "https://open.spotify.com/track/2af1FIFjkrGW2vpYbSxRlb"
@@ -9231,7 +9279,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 316400,
       "name": "Messe de Nostre Dame: Gloria",
       "url": "https://open.spotify.com/track/0gX1w6lV3vngwNRW09oFRl"
@@ -10287,7 +10335,7 @@
       ],
       "date_added": "2020-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 301960,
       "name": "Nu rue mit sorgen",
       "url": "https://open.spotify.com/track/3zhYNpsRX5Oqy7Ux0ErpwX"
@@ -10587,7 +10635,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 255893,
       "name": "O Quam Preciosa",
       "url": "https://open.spotify.com/track/7oSvhKIuS4QufRyRPm5jBx"
@@ -10829,7 +10877,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 193706,
       "name": "Ogni diletto",
       "url": "https://open.spotify.com/track/6p25dUqr4FMC6oCx2HuLwo"
@@ -11355,7 +11403,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 226453,
       "name": "Per non far lieto",
       "url": "https://open.spotify.com/track/6WRLk3jqBTS676cIP6AqBa"
@@ -11377,7 +11425,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Per non far lietto",
       "url": "https://open.spotify.com/track/40DbyVZlf3q0juUKLUSaML"
@@ -12179,7 +12227,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 400933,
       "name": "Quand noif",
       "url": "https://open.spotify.com/track/5nTI4v3EBAYIzpiME9hiOS"
@@ -12903,7 +12951,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 317760,
       "name": "Saltarello I",
       "url": "https://open.spotify.com/track/5GaSxba0XMg53uUiPUKNKt"
@@ -13881,7 +13929,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 256000,
       "name": "The 7th cansi: No.m say d'amor",
       "url": "https://open.spotify.com/track/1KC1utFEUrr2sbbCfnynCw"
@@ -14025,7 +14073,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 461186,
       "name": "Tre Fontane",
       "url": "https://open.spotify.com/track/7xWfcCfyNFHHK7eH7Ae5NU"

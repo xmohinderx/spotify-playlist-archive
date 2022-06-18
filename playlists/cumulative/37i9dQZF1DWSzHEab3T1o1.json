@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 205333,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp"
@@ -105,7 +105,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 226161,
       "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
       "url": "https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"
@@ -168,6 +168,32 @@
     },
     {
       "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/2CowvoLKMTquFbyMnVp0Va"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/6s6CFPmlvquc5rc47aTblX"
+    },
+    {
+      "album": {
         "name": "B\u00e9same (I Need You) (with TINI & Reik)",
         "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
       },
@@ -187,10 +213,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 136200,
       "name": "B\u00e9same (I Need You) (with TINI & Reik)",
       "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
+    },
+    {
+      "album": {
+        "name": "Contra La Pared (Remixes)",
+        "url": "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257274,
+      "name": "Contra La Pared - GTA Remix",
+      "url": "https://open.spotify.com/track/5RE2mMitKRWTQuh1jSzlBu"
     },
     {
       "album": {
@@ -251,7 +303,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
@@ -701,7 +753,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 213360,
       "name": "Mi Gente - Alesso Remix",
       "url": "https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3"
@@ -791,7 +843,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 283187,
       "name": "No Te Enamores - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
@@ -937,7 +989,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 127333,
       "name": "Pues",
       "url": "https://open.spotify.com/track/7J6po4sXO8MNB9BVyM4ny0"
@@ -1123,7 +1175,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 198946,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"

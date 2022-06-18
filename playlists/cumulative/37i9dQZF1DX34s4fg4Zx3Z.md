@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-390 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+391 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Có Em Về Bên Mình](https://open.spotify.com/track/1RunwOLt1RxFhIEv50bDNO) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Có Em Về Bên Mình](https://open.spotify.com/album/3LSAk3gi2NrQYS9IUimWqc) | 5:16 | 2022-02-15 | 2022-03-02 |
 | [Có Lẽ](https://open.spotify.com/track/6WBckbNYCnRS8uUY8Nxry6) | [phuong](https://open.spotify.com/artist/7y6P5UDQi9Dk3ACrSKOB7l), [manner](https://open.spotify.com/artist/6ptCdWWRUKaXNw7y9gEaJI) | [Có Lẽ](https://open.spotify.com/album/6PT6KSdqy9sszLrwqI3MqK) | 4:07 | 2022-01-06 | 2022-04-23 |
 | [Có Lẽ Em Đã](https://open.spotify.com/track/6vBEhOxPPENdaFVRVrWiCw) | [5Zone](https://open.spotify.com/artist/7g9mj1ec2xf7PY4x2ZZKpv) | [Có Lẽ Em Đã](https://open.spotify.com/album/7n9m1VPqn12fEqotyAFGzO) | 3:00 | 2022-01-06 | 2022-01-15 |
+| [Có Mùa Hạ Như Thế](https://open.spotify.com/track/1I67osLu2XjBfNg3qo4BnG) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Có Mùa Hạ Như Thế](https://open.spotify.com/album/7MyB04AEJ46BO7xWjbDfdG) | 5:21 | 2022-06-16 |  |
 | [Có Phải Em Sợ Yêu](https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Có Phải Em Sợ Yêu](https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6) | 4:10 | 2022-05-19 |  |
 | [Cơm Nhà](https://open.spotify.com/track/5WnlXKKUuG3YcWXAKN9K8p) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Ruby V](https://open.spotify.com/artist/4JmcHoZrhg2HhNaeuFPaa0) | [Cơm Nhà](https://open.spotify.com/album/54oIo1WVgy6zXZWSy2gBkt) | 2:23 | 2022-01-20 | 2022-01-27 |
 | [Cơn Gió Ngang](https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4) | [Tiez](https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv), [Fay](https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb) | [Cơn Gió Ngang](https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT) | 3:48 | 2022-01-25 | 2022-05-03 |

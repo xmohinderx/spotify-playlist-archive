@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Africano",
+        "url": "https://open.spotify.com/album/6RC5MJSsr5mOoVQhY9QSzG"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        },
+        {
+          "name": "Halux",
+          "url": "https://open.spotify.com/artist/61A6b3vfliHlp0x7KGRmTM"
+        },
+        {
+          "name": "Milbeats",
+          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Africano",
+      "url": "https://open.spotify.com/track/0dHQP3O4pdNa7oyE1yWsJl"
+    },
+    {
+      "album": {
         "name": "Amor de Fim de Noite",
         "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
       },
@@ -901,7 +931,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"

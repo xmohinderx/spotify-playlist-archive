@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-693 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+694 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-28 | 2022-03-06 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-11-22 | 2021-12-29 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-25 | 2021-08-31 |
+| [DON'T PHASE ME](https://open.spotify.com/track/0weqXPaf1MQkmLQHBUhnN7) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [DON'T PHASE ME](https://open.spotify.com/album/2DqtTBPAHjMVadMOOSh9xk) | 2:52 | 2022-06-17 |  |
 | [Don't Shut Me Down](https://open.spotify.com/track/3ARUWZ4hryYXhp6X7KHcaD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 3:56 | 2021-11-08 | 2021-11-09 |
 | [Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 3:58 | 2021-09-05 | 2021-09-14 |
 | [DON'T STRESS](https://open.spotify.com/track/1vNCzn9tGbVFZQoE145hRW) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [DON'T STRESS](https://open.spotify.com/album/2aBbrAqx1YfWsn6Wuap9X8) | 2:02 | 2022-02-21 | 2022-03-27 |
@@ -641,7 +642,7 @@
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2022-01-01 | 2022-01-03 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-28 | 2021-08-22 |
 | [TREND](https://open.spotify.com/track/4ldUVJm1Fn8wJXZG61NhMv) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [TREND](https://open.spotify.com/album/3xTfbctkHro7SgTqufriak) | 2:35 | 2022-03-05 | 2022-03-30 |
-| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-29 |  |
+| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-29 | 2022-06-18 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-11 |
 | [Two Tone](https://open.spotify.com/track/26TbwlBwd7X1ehMK7suDOr) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Two Tone](https://open.spotify.com/album/49zBcA4u7GVsnka5MPdGTc) | 2:16 | 2021-10-03 | 2021-10-10 |
 | [Two Tone](https://open.spotify.com/track/4mjueuRpNx6dfdybDK2E4n) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:16 | 2021-10-10 | 2021-10-18 |

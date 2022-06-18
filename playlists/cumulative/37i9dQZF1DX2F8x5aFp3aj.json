@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
+    },
+    {
+      "album": {
         "name": "The Head On The Door (Remastered)",
         "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 334066,
       "name": "Disappointed",
       "url": "https://open.spotify.com/track/2PSXD9A74a6eLlrcbR32NM"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 243106,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/1pvqjbbL6C5wKNjnNSnWQm"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 299066,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/5o4ueR3CNK3diNRp1UUyL3"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 245786,
       "name": "Radio Free Europe",
       "url": "https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 286840,
       "name": "Rebel Yell - Remastered",
       "url": "https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/66glXjjFvlS5r1gDUK4ugq"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "Should I Stay or Should I Go",
       "url": "https://open.spotify.com/track/5oVd20ddRqp5yenSA0E6u1"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 217453,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/6ovrxrZnAvJRbUJ5Sscoqk"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 203000,
       "name": "Synchronicity I - Remastered 2003",
       "url": "https://open.spotify.com/track/6rz8k4FrzNs33CUUxPqiW7"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 261687,
       "name": "Tears Run Rings",
       "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 305000,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/7pjxc1vwQqo3N1k9hEAD3T"

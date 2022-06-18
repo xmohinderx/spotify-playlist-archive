@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Foto Aida Rojo, Aidy Dee
 
-91 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+92 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 |  |
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 |  |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 |  |
+| [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 | 2022-06-17 |  |
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 |  |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 | 2022-04-18 |  |

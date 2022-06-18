@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,753 likes - 143 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,755 likes - 143 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 |
 | 143 | [Kinda](https://open.spotify.com/track/7k4eO6vkBNU9OO8LAonra4) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [Kinda](https://open.spotify.com/album/0ldOhc6vksH0Eja0Eai5Oi) | 2:26 |
 
-Snapshot ID: `MTY1NDgzMzcyMCwwMDAwMDQxOTAwMDAwMTgxNGJjNmFiMWYwMDAwMDE4MTFjM2FkZDIz`
+Snapshot ID: `MTY1NTQzODQ2MCwwMDAwMDQxYTAwMDAwMTgxNmZkMjQ1MWUwMDAwMDE4MTFjM2FkZDIz`

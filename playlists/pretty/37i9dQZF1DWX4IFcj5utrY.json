@@ -1,56 +1,32 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=1ORIcJ3kQMmWPNTagJ5Vjw\">FKA Mash</a> and <a href=\"https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh?si=7EBaaUejTiytHa2OzLHkwA\">Sio</a>",
-  "num_followers": 50443,
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=d0NksC9YS9aR_Po7SnZJYA\">Prince Kaybee</a>",
+  "num_followers": 50469,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgxMTk0MCwwMDAwMDM0MzAwMDAwMTgxNGE3YTU1MGMwMDAwMDE4MTRhMTVjOTFk",
+  "snapshot_id": "MTY1NTQzOTA3OCwwMDAwMDM0NDAwMDAwMTgxNmZkYmI1NTcwMDAwMDE4MTZmZGFlODI3",
   "tracks": [
     {
-      "added_at": "2022-06-09 21:59:00",
+      "added_at": "2022-06-17 04:11:18",
       "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/61xF9hB3dvdF6Tlyge7F0P"
+        "name": "Zimbali",
+        "url": "https://open.spotify.com/album/1U0gfPWZxxwUnqW5SzHs37"
       },
       "artists": [
         {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
         },
         {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         }
       ],
-      "duration_ms": 218665,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/5l9P47axQgVYwdeTj2sXcj"
-    },
-    {
-      "added_at": "2022-06-02 21:59:00",
-      "album": {
-        "name": "Suka",
-        "url": "https://open.spotify.com/album/3DIvPF7rZfvZMCQJUpUON7"
-      },
-      "artists": [
-        {
-          "name": "DJ Kabila",
-          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
-        },
-        {
-          "name": "Madala Kunene",
-          "url": "https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S"
-        },
-        {
-          "name": "104 BPM",
-          "url": "https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi"
-        }
-      ],
-      "duration_ms": 379387,
-      "name": "Suka",
-      "url": "https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk"
+      "duration_ms": 387369,
+      "name": "Zimbali",
+      "url": "https://open.spotify.com/track/4prJjAS96pnxqtRMANFALE"
     },
     {
       "added_at": "2022-03-31 21:59:00",
@@ -93,6 +69,70 @@
       "url": "https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf"
     },
     {
+      "added_at": "2022-06-02 21:59:00",
+      "album": {
+        "name": "Suka",
+        "url": "https://open.spotify.com/album/3DIvPF7rZfvZMCQJUpUON7"
+      },
+      "artists": [
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        },
+        {
+          "name": "Madala Kunene",
+          "url": "https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S"
+        },
+        {
+          "name": "104 BPM",
+          "url": "https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi"
+        }
+      ],
+      "duration_ms": 379387,
+      "name": "Suka",
+      "url": "https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk"
+    },
+    {
+      "added_at": "2022-06-09 21:59:00",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/61xF9hB3dvdF6Tlyge7F0P"
+      },
+      "artists": [
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/5l9P47axQgVYwdeTj2sXcj"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Bloody Samaritan (Sun-El Musician Remix)",
+        "url": "https://open.spotify.com/album/2PxvoawD4ty9UnZhWylV0o"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Bloody Samaritan (Sun-El Musician Remix)",
+      "url": "https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W"
+    },
+    {
       "added_at": "2022-03-03 21:59:00",
       "album": {
         "name": "Breakfast In Soweto",
@@ -131,46 +171,6 @@
       "duration_ms": 432078,
       "name": "Iafrika Yethu",
       "url": "https://open.spotify.com/track/6xPPE9xLlfAotywarVJeTv"
-    },
-    {
-      "added_at": "2022-06-09 21:59:00",
-      "album": {
-        "name": "Ngihole",
-        "url": "https://open.spotify.com/album/6o4p83hhosetmxSINIWWZR"
-      },
-      "artists": [
-        {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
-        },
-        {
-          "name": "Mpho Wav",
-          "url": "https://open.spotify.com/artist/3WZVMjhcy65rUHh5bDNhkN"
-        },
-        {
-          "name": "TO Starquality",
-          "url": "https://open.spotify.com/artist/34RwSIfWKAwRdIq6cdYnZv"
-        }
-      ],
-      "duration_ms": 472000,
-      "name": "Ngihole",
-      "url": "https://open.spotify.com/track/3rCkGB5lDUxGZTzNNp8Tdh"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "Mount Kilimanjaro",
-        "url": "https://open.spotify.com/album/7sAM6Rsxg7tVyP8LDIUEFL"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 411905,
-      "name": "Mount Kilimanjaro",
-      "url": "https://open.spotify.com/track/4EFg9pFTJs2Pm2LTtM8k5v"
     },
     {
       "added_at": "2022-02-17 21:59:00",
@@ -213,6 +213,66 @@
       "url": "https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK"
     },
     {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1MPFnPHuqgkUASIVwOEvAA"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "duration_ms": 362165,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/6Yyc3cLPhSRSVk5cLye73k"
+    },
+    {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "Mount Kilimanjaro",
+        "url": "https://open.spotify.com/album/7sAM6Rsxg7tVyP8LDIUEFL"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 411905,
+      "name": "Mount Kilimanjaro",
+      "url": "https://open.spotify.com/track/4EFg9pFTJs2Pm2LTtM8k5v"
+    },
+    {
+      "added_at": "2022-06-09 21:59:00",
+      "album": {
+        "name": "Ngihole",
+        "url": "https://open.spotify.com/album/6o4p83hhosetmxSINIWWZR"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Mpho Wav",
+          "url": "https://open.spotify.com/artist/3WZVMjhcy65rUHh5bDNhkN"
+        },
+        {
+          "name": "TO Starquality",
+          "url": "https://open.spotify.com/artist/34RwSIfWKAwRdIq6cdYnZv"
+        }
+      ],
+      "duration_ms": 472000,
+      "name": "Ngihole",
+      "url": "https://open.spotify.com/track/3rCkGB5lDUxGZTzNNp8Tdh"
+    },
+    {
       "added_at": "2022-04-07 21:59:00",
       "album": {
         "name": "Purple Pill",
@@ -233,26 +293,6 @@
       "url": "https://open.spotify.com/track/2qDbBzYZoDRL0UKK5gks9P"
     },
     {
-      "added_at": "2022-06-09 21:59:00",
-      "album": {
-        "name": "Rub Rub (Incl.Remix By Tea White)",
-        "url": "https://open.spotify.com/album/62AQbw02uvA8UUP84H17lA"
-      },
-      "artists": [
-        {
-          "name": "Mood Dusty",
-          "url": "https://open.spotify.com/artist/0AXbwMxGuhRqDChHUA0XWn"
-        },
-        {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        }
-      ],
-      "duration_ms": 430344,
-      "name": "Rub Rub",
-      "url": "https://open.spotify.com/track/55th4VkzdmXqwBjIy2ivR6"
-    },
-    {
       "added_at": "2022-06-02 21:59:00",
       "album": {
         "name": "Thath'isigubhu (Shimza Remix)",
@@ -271,6 +311,26 @@
       "duration_ms": 366497,
       "name": "Thath'isigubhu - Shimza Remix",
       "url": "https://open.spotify.com/track/4QdiYJFWyyQRrVFfC6B4aN"
+    },
+    {
+      "added_at": "2022-06-09 21:59:00",
+      "album": {
+        "name": "Rub Rub (Incl.Remix By Tea White)",
+        "url": "https://open.spotify.com/album/62AQbw02uvA8UUP84H17lA"
+      },
+      "artists": [
+        {
+          "name": "Mood Dusty",
+          "url": "https://open.spotify.com/artist/0AXbwMxGuhRqDChHUA0XWn"
+        },
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        }
+      ],
+      "duration_ms": 430344,
+      "name": "Rub Rub",
+      "url": "https://open.spotify.com/track/55th4VkzdmXqwBjIy2ivR6"
     },
     {
       "added_at": "2022-06-09 21:59:00",
@@ -361,26 +421,6 @@
       "url": "https://open.spotify.com/track/2GZnE7SXGyjmCN6XzJKMY0"
     },
     {
-      "added_at": "2022-04-28 21:59:00",
-      "album": {
-        "name": "Higher (Radio Edit)",
-        "url": "https://open.spotify.com/album/3wbfY7XCRlx1zifWuyK4WN"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Nobuhle",
-          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "Higher - Radio Edit",
-      "url": "https://open.spotify.com/track/45U4nzhStLW11h5KTJG4p8"
-    },
-    {
       "added_at": "2022-01-27 21:59:00",
       "album": {
         "name": "Sikelela (feat. Bukeka)",
@@ -403,26 +443,6 @@
       "duration_ms": 351935,
       "name": "Sikelela (feat. Bukeka)",
       "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
-    },
-    {
-      "added_at": "2022-04-07 21:59:00",
-      "album": {
-        "name": "Silence & Secrets (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 474093,
-      "name": "Silence & Secrets - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "added_at": "2021-10-21 21:59:00",
@@ -449,6 +469,46 @@
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
     },
     {
+      "added_at": "2022-04-28 21:59:00",
+      "album": {
+        "name": "Higher (Radio Edit)",
+        "url": "https://open.spotify.com/album/3wbfY7XCRlx1zifWuyK4WN"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "Higher - Radio Edit",
+      "url": "https://open.spotify.com/track/45U4nzhStLW11h5KTJG4p8"
+    },
+    {
+      "added_at": "2022-04-07 21:59:00",
+      "album": {
+        "name": "Silence & Secrets (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 474093,
+      "name": "Silence & Secrets - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
+    },
+    {
       "added_at": "2022-02-25 05:39:56",
       "album": {
         "name": "My Story",
@@ -471,22 +531,6 @@
       "duration_ms": 304766,
       "name": "Nkanyezi",
       "url": "https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "New Beginning EP",
-        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 588527,
-      "name": "Say It Again - Original Mix",
-      "url": "https://open.spotify.com/track/4Ghqex7qMzf9fe2AimvPtY"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -581,6 +625,22 @@
       "url": "https://open.spotify.com/track/21pzxi96LqTjFKThHJBHN9"
     },
     {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "New Beginning EP",
+        "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 588527,
+      "name": "Say It Again - Original Mix",
+      "url": "https://open.spotify.com/track/4Ghqex7qMzf9fe2AimvPtY"
+    },
+    {
       "added_at": "2022-05-05 21:59:00",
       "album": {
         "name": "Indoda Emadodeni",
@@ -599,6 +659,34 @@
       "duration_ms": 285507,
       "name": "Indoda Emadodeni",
       "url": "https://open.spotify.com/track/5nKtrtKz8PIGk4oYuUM093"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Isintu",
+        "url": "https://open.spotify.com/album/24uLrWpa4k1mrWTD6KMB9k"
+      },
+      "artists": [
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Dr. Senzo",
+          "url": "https://open.spotify.com/artist/0P9iOgBIjr7dAtcGnpz6IE"
+        },
+        {
+          "name": "Teezy Musician",
+          "url": "https://open.spotify.com/artist/5kbgir8ZrgFXApjjfGAqYv"
+        }
+      ],
+      "duration_ms": 373500,
+      "name": "Sikelela",
+      "url": "https://open.spotify.com/track/79DfGToCnUpDCqhNAJFgx0"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -643,6 +731,34 @@
       "duration_ms": 336348,
       "name": "Impumelelo",
       "url": "https://open.spotify.com/track/2cPJ70rDO8Mt74vGImjiz3"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Zulu Spear (Remixes)",
+        "url": "https://open.spotify.com/album/1vknicfYd89RcdSvY4xbYA"
+      },
+      "artists": [
+        {
+          "name": "Sonsei",
+          "url": "https://open.spotify.com/artist/56ELQ7SCaCLyO4NjffUfQl"
+        },
+        {
+          "name": "King Lee",
+          "url": "https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T"
+        },
+        {
+          "name": "Dj Vitoto",
+          "url": "https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD"
+        },
+        {
+          "name": "Eltonnick",
+          "url": "https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G"
+        }
+      ],
+      "duration_ms": 501660,
+      "name": "Zulu Spear - Eltonnick Remix",
+      "url": "https://open.spotify.com/track/2JwekXwpGL4LXZPC5ljSp5"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -841,6 +957,22 @@
       "url": "https://open.spotify.com/track/2EM3bVWLU6uOStKrQCoGq7"
     },
     {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Espada",
+        "url": "https://open.spotify.com/album/1r1t3pV5KjuYgeIrfecHzu"
+      },
+      "artists": [
+        {
+          "name": "Sam Mkhize",
+          "url": "https://open.spotify.com/artist/3WPfOxU57W05N5Vt6JPBvm"
+        }
+      ],
+      "duration_ms": 472293,
+      "name": "Espada",
+      "url": "https://open.spotify.com/track/607ORYzuKPofnzNMJFpkSz"
+    },
+    {
       "added_at": "2022-04-14 21:59:00",
       "album": {
         "name": "Drums & People",
@@ -911,6 +1043,26 @@
       "duration_ms": 240114,
       "name": "Weekend Special (with Brenda Fassie) - Shimza Remix Edit",
       "url": "https://open.spotify.com/track/1MkPykZ3pYXdjaz5PwjAQE"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Two Monkeys",
+        "url": "https://open.spotify.com/album/3gINmRK5VytJ8OumRWoXx7"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Youngr",
+          "url": "https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Two Monkeys",
+      "url": "https://open.spotify.com/track/2cprut9Zu20P4cs1PyzYdF"
     },
     {
       "added_at": "2022-04-22 06:33:39",
@@ -1021,6 +1173,22 @@
       "url": "https://open.spotify.com/track/3gBk6DOpyxHyK6sMOvBSyk"
     },
     {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "A Day in Chicago",
+        "url": "https://open.spotify.com/album/77tuhpqvVRMZi3bv1pYbHz"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "A Day in Chicago",
+      "url": "https://open.spotify.com/track/760T4l5QX8TMNrBMbkHHRL"
+    },
+    {
       "added_at": "2022-04-14 21:59:00",
       "album": {
         "name": "Nothing Without You",
@@ -1071,6 +1239,38 @@
       "duration_ms": 317370,
       "name": "The Peak - Main HT",
       "url": "https://open.spotify.com/track/69E9CrvuWnYck7ZxCbYSmr"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Say Kunkra",
+        "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Alvaro",
+          "url": "https://open.spotify.com/artist/20mCdWSz6PqFQof9gFFJ1r"
+        },
+        {
+          "name": "Oscar Mdlongwa",
+          "url": "https://open.spotify.com/artist/06NB2BJ5RyAOY7mwNFvOBr"
+        },
+        {
+          "name": "Themba Sekowe",
+          "url": "https://open.spotify.com/artist/54HFANfc3cctCXPS1R0wqF"
+        }
+      ],
+      "duration_ms": 297600,
+      "name": "Say Kunkra",
+      "url": "https://open.spotify.com/track/0ENxjfCyvoGwkLXcRyiGWB"
     },
     {
       "added_at": "2022-03-03 21:59:00",
@@ -1125,22 +1325,6 @@
       "url": "https://open.spotify.com/track/0b7VRap0UbvPDO7RC5xQXS"
     },
     {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "Twenty-Six (Main HT)",
-        "url": "https://open.spotify.com/album/5rWlKqxp5s3KH3SMiCrFWU"
-      },
-      "artists": [
-        {
-          "name": "HyperSOUL-X",
-          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
-        }
-      ],
-      "duration_ms": 361250,
-      "name": "Twenty-Six - Main HT",
-      "url": "https://open.spotify.com/track/3y1QbrvlzFxr3SmAO0u2gl"
-    },
-    {
       "added_at": "2022-02-10 21:59:00",
       "album": {
         "name": "Respond",
@@ -1159,26 +1343,6 @@
       "duration_ms": 242000,
       "name": "Respond",
       "url": "https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h"
-    },
-    {
-      "added_at": "2022-06-09 21:59:00",
-      "album": {
-        "name": "Warrior Hunt",
-        "url": "https://open.spotify.com/album/7zYNUQ4xi7HBO0ipUKmyHj"
-      },
-      "artists": [
-        {
-          "name": "Gazzille_Z.A",
-          "url": "https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 500089,
-      "name": "Osingo",
-      "url": "https://open.spotify.com/track/7uKlBi726EDtTNuMRWW1d0"
     },
     {
       "added_at": "2022-04-22 06:33:39",
@@ -1203,162 +1367,6 @@
       "duration_ms": 396964,
       "name": "EL Sambo",
       "url": "https://open.spotify.com/track/3aIFoernKgMfDs5pVYnQSg"
-    },
-    {
-      "added_at": "2022-05-05 21:59:00",
-      "album": {
-        "name": "Uyakhuluma Umoya",
-        "url": "https://open.spotify.com/album/2nkOJi4ZcvlFarFA3oRum8"
-      },
-      "artists": [
-        {
-          "name": "DJ Bongz",
-          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
-        },
-        {
-          "name": "Nobuhle",
-          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
-        }
-      ],
-      "duration_ms": 294556,
-      "name": "Uyakhuluma Umoya",
-      "url": "https://open.spotify.com/track/1Rbw6r5RaWRp4OrSketNXw"
-    },
-    {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1y1JKL3Uc7XauR88NX1SzN"
-      },
-      "artists": [
-        {
-          "name": "Luka",
-          "url": "https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
-        }
-      ],
-      "duration_ms": 355999,
-      "name": "Solo - Enoo Napa Remix",
-      "url": "https://open.spotify.com/track/5BKSM4ikQwMi7jSnf6krc0"
-    },
-    {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/64M42gm41sHwrLeTB3XSKU"
-      },
-      "artists": [
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        },
-        {
-          "name": "Anerah Yasole",
-          "url": "https://open.spotify.com/artist/6MoHmL6PHfxWTMmWk9eW65"
-        }
-      ],
-      "duration_ms": 474097,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/3HZAdW9aXGd2mrzzQgg6Be"
-    },
-    {
-      "added_at": "2022-05-05 21:59:00",
-      "album": {
-        "name": "Maji Matamu (Main HT)",
-        "url": "https://open.spotify.com/album/0K3KmKQOJBMRDzLfc6koBI"
-      },
-      "artists": [
-        {
-          "name": "HyperSOUL-X",
-          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
-        }
-      ],
-      "duration_ms": 343484,
-      "name": "Maji Matamu - Main HT",
-      "url": "https://open.spotify.com/track/0r3lYlCsW31s7rWcWxBY7X"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "Phesheya",
-        "url": "https://open.spotify.com/album/5UE4S8DStgaWW8FhBHJQv4"
-      },
-      "artists": [
-        {
-          "name": "Kinetic T",
-          "url": "https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj"
-        },
-        {
-          "name": "Bean Musiq",
-          "url": "https://open.spotify.com/artist/12XrbLIykd1tE0sQ3uXu1Y"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Phesheya",
-      "url": "https://open.spotify.com/track/3zY55Lqt4dmouZxFM3T9bQ"
-    },
-    {
-      "added_at": "2022-06-02 21:59:00",
-      "album": {
-        "name": "Pula",
-        "url": "https://open.spotify.com/album/4Jqzc2PtAyLCz8WO98TItS"
-      },
-      "artists": [
-        {
-          "name": "Jim Mastershine",
-          "url": "https://open.spotify.com/artist/4GfDagw2bm5x0pvxdrjHi7"
-        },
-        {
-          "name": "TroyMusiq",
-          "url": "https://open.spotify.com/artist/6je9qU5qQG0Pc7JwCPKNuF"
-        }
-      ],
-      "duration_ms": 435361,
-      "name": "Pula",
-      "url": "https://open.spotify.com/track/1ecljyhWDPCi00HuSdA4JY"
-    },
-    {
-      "added_at": "2022-04-07 21:59:00",
-      "album": {
-        "name": "Aluwawa",
-        "url": "https://open.spotify.com/album/6OubVm75TyVLmi56fg59L1"
-      },
-      "artists": [
-        {
-          "name": "Thee Suka",
-          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
-        }
-      ],
-      "duration_ms": 378575,
-      "name": "Aluwawa",
-      "url": "https://open.spotify.com/track/6AcjCDDkP0lxGnIeIFw5xM"
-    },
-    {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "Give It To You",
-        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Paula",
-          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
-        }
-      ],
-      "duration_ms": 526203,
-      "name": "Give It To You - Ralf GUM Main Mix",
-      "url": "https://open.spotify.com/track/20B6gicCuDMLpwDJ6TAdfE"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -1397,60 +1405,24 @@
       "url": "https://open.spotify.com/track/340K2Qm1m4oxyV7lz5AmVC"
     },
     {
-      "added_at": "2022-04-28 21:59:00",
+      "added_at": "2022-04-14 21:59:00",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/2hSswpPNydCpSHpwR4xMJI"
+        "name": "Salam Kom Salam",
+        "url": "https://open.spotify.com/album/1W4za2jUFlupSIfR6484QG"
       },
       "artists": [
         {
-          "name": "Mark Stent",
-          "url": "https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS"
+          "name": "Gumz",
+          "url": "https://open.spotify.com/artist/1Sxp7YrEejs1PuyqZoBMrl"
         },
         {
-          "name": "DSB",
-          "url": "https://open.spotify.com/artist/4zMYJFMNR4K69sAMJiVBQK"
+          "name": "S.A.N.D.F.",
+          "url": "https://open.spotify.com/artist/2YYfKxXsJeRcfg3WtwJviX"
         }
       ],
-      "duration_ms": 187374,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/5Bf6NG1Rt5bRKBYDEsFiSW"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "Made In Africa",
-        "url": "https://open.spotify.com/album/5j957MTkkpNLlXmnxKQBDD"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        },
-        {
-          "name": "Kreative Nativez",
-          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
-        }
-      ],
-      "duration_ms": 447925,
-      "name": "Modjadji (The Rain Queen)",
-      "url": "https://open.spotify.com/track/7EhFLuhiuvcAI7a2hL4xzx"
-    },
-    {
-      "added_at": "2022-04-22 06:33:39",
-      "album": {
-        "name": "Socotra",
-        "url": "https://open.spotify.com/album/6FgFCDlhAGB5S1uBr5hBds"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 386114,
-      "name": "Socotra",
-      "url": "https://open.spotify.com/track/2b5xDONVmyHIY4cOO1GXU7"
+      "duration_ms": 483375,
+      "name": "Salam Kom Salam",
+      "url": "https://open.spotify.com/track/7BXttR3HKJFpRXxzU35tzF"
     },
     {
       "added_at": "2022-04-14 21:59:00",
@@ -1473,80 +1445,148 @@
       "url": "https://open.spotify.com/track/5yl8bP6E1TT4U1VUxaqdsE"
     },
     {
-      "added_at": "2022-03-24 21:59:00",
+      "added_at": "2022-03-03 21:59:00",
       "album": {
-        "name": "Serengeti",
-        "url": "https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1y1JKL3Uc7XauR88NX1SzN"
       },
       "artists": [
         {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 420473,
-      "name": "Train To Work",
-      "url": "https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "Salam Kom Salam",
-        "url": "https://open.spotify.com/album/1W4za2jUFlupSIfR6484QG"
-      },
-      "artists": [
-        {
-          "name": "Gumz",
-          "url": "https://open.spotify.com/artist/1Sxp7YrEejs1PuyqZoBMrl"
+          "name": "Luka",
+          "url": "https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1"
         },
         {
-          "name": "S.A.N.D.F.",
-          "url": "https://open.spotify.com/artist/2YYfKxXsJeRcfg3WtwJviX"
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
         }
       ],
-      "duration_ms": 483375,
-      "name": "Salam Kom Salam",
-      "url": "https://open.spotify.com/track/7BXttR3HKJFpRXxzU35tzF"
+      "duration_ms": 355999,
+      "name": "Solo - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/5BKSM4ikQwMi7jSnf6krc0"
     },
     {
-      "added_at": "2022-04-22 06:33:39",
+      "added_at": "2022-04-07 21:59:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7oHGe99WEbc9jxD4NmbOcy"
+        "name": "Aluwawa",
+        "url": "https://open.spotify.com/album/6OubVm75TyVLmi56fg59L1"
       },
       "artists": [
         {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        },
-        {
-          "name": "Sytec",
-          "url": "https://open.spotify.com/artist/38z0wePbQl1fKZmTNyFouO"
+          "name": "Thee Suka",
+          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
         }
       ],
-      "duration_ms": 459661,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5QQxsUpbDunlrNxyAvykQw"
+      "duration_ms": 378575,
+      "name": "Aluwawa",
+      "url": "https://open.spotify.com/track/6AcjCDDkP0lxGnIeIFw5xM"
     },
     {
-      "added_at": "2022-04-22 06:33:39",
+      "added_at": "2022-06-17 04:11:18",
       "album": {
-        "name": "Boroko",
-        "url": "https://open.spotify.com/album/2MPhdxmjApFkAFH6VJDJTc"
+        "name": "Lose My Number (Curtiba Remix)",
+        "url": "https://open.spotify.com/album/6mXeKPeQzphE7AHSLVm1tS"
       },
       "artists": [
         {
-          "name": "Freddy da Stupid",
-          "url": "https://open.spotify.com/artist/1uj5EutAF1zvnbWFhSzQB3"
+          "name": "Joe Bermudez",
+          "url": "https://open.spotify.com/artist/7mphkwym0SorytUy38iNzm"
         },
         {
-          "name": "Team Distant",
-          "url": "https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4"
+          "name": "Louise Carver",
+          "url": "https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
         }
       ],
-      "duration_ms": 346475,
-      "name": "Boroko - Original Guitar Mix",
-      "url": "https://open.spotify.com/track/7dAXYCSJ1Uplo0XMZCG4Gl"
+      "duration_ms": 175065,
+      "name": "Lose My Number - Curtiba Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1AwnzbnGVUGMTy72UVjj0n"
+    },
+    {
+      "added_at": "2022-05-05 21:59:00",
+      "album": {
+        "name": "Uyakhuluma Umoya",
+        "url": "https://open.spotify.com/album/2nkOJi4ZcvlFarFA3oRum8"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "duration_ms": 294556,
+      "name": "Uyakhuluma Umoya",
+      "url": "https://open.spotify.com/track/1Rbw6r5RaWRp4OrSketNXw"
+    },
+    {
+      "added_at": "2022-06-02 21:59:00",
+      "album": {
+        "name": "Pula",
+        "url": "https://open.spotify.com/album/4Jqzc2PtAyLCz8WO98TItS"
+      },
+      "artists": [
+        {
+          "name": "Jim Mastershine",
+          "url": "https://open.spotify.com/artist/4GfDagw2bm5x0pvxdrjHi7"
+        },
+        {
+          "name": "TroyMusiq",
+          "url": "https://open.spotify.com/artist/6je9qU5qQG0Pc7JwCPKNuF"
+        }
+      ],
+      "duration_ms": 435361,
+      "name": "Pula",
+      "url": "https://open.spotify.com/track/1ecljyhWDPCi00HuSdA4JY"
+    },
+    {
+      "added_at": "2022-03-03 21:59:00",
+      "album": {
+        "name": "Give It To You",
+        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Paula",
+          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
+        }
+      ],
+      "duration_ms": 526203,
+      "name": "Give It To You - Ralf GUM Main Mix",
+      "url": "https://open.spotify.com/track/20B6gicCuDMLpwDJ6TAdfE"
+    },
+    {
+      "added_at": "2022-03-03 21:59:00",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/64M42gm41sHwrLeTB3XSKU"
+      },
+      "artists": [
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        },
+        {
+          "name": "Anerah Yasole",
+          "url": "https://open.spotify.com/artist/6MoHmL6PHfxWTMmWk9eW65"
+        }
+      ],
+      "duration_ms": 474097,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/3HZAdW9aXGd2mrzzQgg6Be"
     },
     {
       "added_at": "2022-05-19 21:59:00",
@@ -1573,20 +1613,24 @@
       "url": "https://open.spotify.com/track/6OvK413r6gXm4MCuvzXbND"
     },
     {
-      "added_at": "2022-04-28 21:59:00",
+      "added_at": "2022-05-12 21:59:00",
       "album": {
-        "name": "Are You Down",
-        "url": "https://open.spotify.com/album/2Z5F672Ot12FttD9cA2QVO"
+        "name": "Phesheya",
+        "url": "https://open.spotify.com/album/5UE4S8DStgaWW8FhBHJQv4"
       },
       "artists": [
         {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+          "name": "Kinetic T",
+          "url": "https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj"
+        },
+        {
+          "name": "Bean Musiq",
+          "url": "https://open.spotify.com/artist/12XrbLIykd1tE0sQ3uXu1Y"
         }
       ],
-      "duration_ms": 300288,
-      "name": "Are You Down",
-      "url": "https://open.spotify.com/track/3w7BZ8Pj1IdoQYPzL8JcdF"
+      "duration_ms": 298000,
+      "name": "Phesheya",
+      "url": "https://open.spotify.com/track/3zY55Lqt4dmouZxFM3T9bQ"
     }
   ],
   "unique_name": "mint South Africa",

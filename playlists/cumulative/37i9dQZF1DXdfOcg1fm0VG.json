@@ -44,6 +44,32 @@
     },
     {
       "album": {
+        "name": "A Plague Tale: Requiem (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj"
+      },
+      "artists": [
+        {
+          "name": "Olivier Deriviere",
+          "url": "https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR"
+        },
+        {
+          "name": "Eric Maria Couturier",
+          "url": "https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239811,
+      "name": "A Plague Tale Requiem",
+      "url": "https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1"
+    },
+    {
+      "album": {
         "name": "Tomb Raider (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4wySbyHsEqSWvkMQlmR7lr"
       },

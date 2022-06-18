@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: The Sadies",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Ben Harper",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 153944,
       "name": "About Your Love",
       "url": "https://open.spotify.com/track/3EOCRq342rJjzkvGicSyvT"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 215893,
       "name": "Ain't Too Late",
       "url": "https://open.spotify.com/track/4fOJHNZoFxck91tsFf16i5"
@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Other Way Home",
+        "url": "https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd"
+      },
+      "artists": [
+        {
+          "name": "Meredith Lazowski",
+          "url": "https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265632,
+      "name": "December",
+      "url": "https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk"
+    },
+    {
+      "album": {
         "name": "Strictly A One-Eyed Jack",
         "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
       },
@@ -573,6 +591,24 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "album": {
+        "name": "Drips and Drops",
+        "url": "https://open.spotify.com/album/1dbuSXkDC1bnfOEd3rzhse"
+      },
+      "artists": [
+        {
+          "name": "Genesis Ritchot",
+          "url": "https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Drips and Drops",
+      "url": "https://open.spotify.com/track/3sobW38S1XKJ8RyWeckrW1"
     },
     {
       "album": {
@@ -713,7 +749,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 201911,
       "name": "Felled",
       "url": "https://open.spotify.com/track/4DAQr8fZceW6ia4M1noVvU"
@@ -929,7 +965,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 245568,
       "name": "If It Comes in the Morning",
       "url": "https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ"
@@ -951,6 +987,24 @@
       "duration_ms": 218293,
       "name": "Ink & the Ash",
       "url": "https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR"
+    },
+    {
+      "album": {
+        "name": "It's So Hard to Hold On",
+        "url": "https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "It's So Hard to Hold On",
+      "url": "https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb"
     },
     {
       "album": {
@@ -1931,6 +1985,24 @@
       "duration_ms": 264066,
       "name": "Water From A Stone",
       "url": "https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc"
+    },
+    {
+      "album": {
+        "name": "We Need To Talk About It",
+        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173678,
+      "name": "We Need To Talk About It",
+      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
     },
     {
       "album": {

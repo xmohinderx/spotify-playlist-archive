@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-49 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
+50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [So Far Away](https://open.spotify.com/track/3SGrE5fV1ys8ZyAAHcTL9B) | [Ronan Hardiman](https://open.spotify.com/artist/6UxYW4p6OoRf85fNMupsfV), [Amici forever](https://open.spotify.com/artist/2VOQX0sezyQ23LmfJNIcDX), [Prague Film Orchestra](https://open.spotify.com/artist/6CLo6dHLYutnDFkGsjrbps) | [Defined](https://open.spotify.com/album/2tTr8FUVIv2JnvODik4Tef) | 4:24 | 2021-09-24 |  |
 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 | 2021-09-24 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 | 2021-09-24 |  |
+| [Songbird \- Orchestral Version](https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Songbird \(Orchestral Version\)](https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2) | 3:38 | 2022-06-17 |  |
 | [Tell Me It's Not True](https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 4:30 | 2021-09-24 |  |
 | [The Prayer](https://open.spotify.com/track/6PJRw5icjh5FnFd7jNUmbG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These Are Special Times](https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy) | 4:28 | 2021-09-24 |  |
 | [The Voice](https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [A New Journey](https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf) | 3:05 | 2021-09-24 |  |

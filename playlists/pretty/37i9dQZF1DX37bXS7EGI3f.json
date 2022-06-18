@@ -1,83 +1,15 @@
 {
-  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Visions of Atlantis",
-  "num_followers": 465144,
+  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black",
+  "num_followers": 465351,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDk3MTU1NSwwMDAwMDBlMTAwMDAwMTgxNTNmZGRlOTQwMDAwMDE4MGJjNGY5ZTc3",
+  "snapshot_id": "MTY1NTQ0NTk3MywwMDAwMDBlMjAwMDAwMTgxNzA0NGU5ZjEwMDAwMDE4MTcwM2VkMDlh",
   "tracks": [
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Together We Rise",
-        "url": "https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Together We Rise",
-      "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "My Father's Son",
-        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
-      },
-      "artists": [
-        {
-          "name": "Jani Liimatainen",
-          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
-        },
-        {
-          "name": "Bjorn \"Speed\" Strid",
-          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Breathing Divinity",
-      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Blood Of The Elves",
-        "url": "https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 277186,
-      "name": "Blood Of The Elves",
-      "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Melancholy Angel",
-        "url": "https://open.spotify.com/album/0d4Xfz2PLvuCgy5TEVieHi"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Melancholy Angel",
-      "url": "https://open.spotify.com/track/0sfsaYvx2fMwJq3WNrVnX5"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Fellows Of The Hammer",
         "url": "https://open.spotify.com/album/3eYfoatfcuFQr8dNaXYwK3"
@@ -93,7 +25,55 @@
       "url": "https://open.spotify.com/track/7CCuImUVT6t9M8VYWoDu32"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Blood Of The Elves",
+        "url": "https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 277186,
+      "name": "Blood Of The Elves",
+      "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Melancholy Angel",
+        "url": "https://open.spotify.com/album/0d4Xfz2PLvuCgy5TEVieHi"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Melancholy Angel",
+      "url": "https://open.spotify.com/track/0sfsaYvx2fMwJq3WNrVnX5"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
@@ -113,7 +93,43 @@
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "My Father's Son",
+        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
+      },
+      "artists": [
+        {
+          "name": "Jani Liimatainen",
+          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
+        },
+        {
+          "name": "Bjorn \"Speed\" Strid",
+          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Breathing Divinity",
+      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Together We Rise",
+        "url": "https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V"
+      },
+      "artists": [
+        {
+          "name": "Wind Rose",
+          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        }
+      ],
+      "duration_ms": 302628,
+      "name": "Together We Rise",
+      "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Diamanti",
         "url": "https://open.spotify.com/album/1EEuIVH5roV6bOWQnQiXmZ"
@@ -129,7 +145,31 @@
       "url": "https://open.spotify.com/track/4CwCJlCqLnxoGgBKpKo0Yb"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "What Else Is There?",
+        "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        },
+        {
+          "name": "Zora Cock",
+          "url": "https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe"
+        }
+      ],
+      "duration_ms": 227796,
+      "name": "What Else Is There?",
+      "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "P.A.R.T.Y.",
         "url": "https://open.spotify.com/album/0GThAZZXkQ8PVzqkT5XfBx"
@@ -145,7 +185,7 @@
       "url": "https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
@@ -165,7 +205,7 @@
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
@@ -197,7 +237,7 @@
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "After Forever (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
@@ -213,7 +253,7 @@
       "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Who Am I?",
         "url": "https://open.spotify.com/album/6plpyLilJlVK607mkW5cJ3"
@@ -229,7 +269,7 @@
       "url": "https://open.spotify.com/track/1LKatUdpTgcqWNfMm3XprZ"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
@@ -245,7 +285,23 @@
       "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Musket Fire",
+        "url": "https://open.spotify.com/album/7L32VrKfCmxAaGzctwZnBl"
+      },
+      "artists": [
+        {
+          "name": "Blame Me!",
+          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
+        }
+      ],
+      "duration_ms": 226078,
+      "name": "Musket Fire",
+      "url": "https://open.spotify.com/track/0zpU8xCvL1tuKPaWyInVvc"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "God Is Silent",
         "url": "https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog"
@@ -261,23 +317,7 @@
       "url": "https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Battle of Life",
-        "url": "https://open.spotify.com/album/6nKSINtjG2WFtWOAKlOdM9"
-      },
-      "artists": [
-        {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Battle of Life",
-      "url": "https://open.spotify.com/track/2Pytrf2aiAIke6VdmycgCv"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/0zh2lUNCj933FBJ4xJwk8J"
@@ -293,7 +333,23 @@
       "url": "https://open.spotify.com/track/2rrA5aGSHeye6rrLwOALyL"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/7z9xtUPMCYEGy5w448oGA3"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/67MGQWoNdzW83hl6khFD6q"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Generations' Legacy",
         "url": "https://open.spotify.com/album/7DsqNbS1FIzE736qTj5DuQ"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/5IQkaqFVUaw8MSVY1TsDsX"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Circus Of Doom",
         "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
@@ -325,23 +381,23 @@
       "url": "https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
-        "name": "Firekeeper",
-        "url": "https://open.spotify.com/album/4ttUNoGOwAJ15VuVOvH808"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "Battlelore",
-          "url": "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 398916,
-      "name": "Firekeeper",
-      "url": "https://open.spotify.com/track/4oCIobS2bPD6yZekYes6tk"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/4zidxVLC7krzVWGJQWHFnV"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/0KRMfSzkY5G4ORX2jJDX9E"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Black Venom",
         "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
@@ -373,23 +429,7 @@
       "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/0iRc9l0buu3ADhXtXIYobc"
-      },
-      "artists": [
-        {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
-        }
-      ],
-      "duration_ms": 180775,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7MZ3gXOR1VgTHPaxbEGGcy"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "We'll Be Free",
         "url": "https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "A Desert Throne",
         "url": "https://open.spotify.com/album/7oU6n8BoCwjoSKEpAtXQbX"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/1LItqOJd8uYWA1zfBZSNHP"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Power of Will",
         "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
@@ -469,7 +509,7 @@
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
@@ -485,7 +525,7 @@
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Litany Of The Fallen",
         "url": "https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu"
@@ -501,7 +541,27 @@
       "url": "https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/4jLwGSX4k8voH5XNijvY2F"
+      },
+      "artists": [
+        {
+          "name": "Chaos Magic",
+          "url": "https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC"
+        },
+        {
+          "name": "Caterina Nix",
+          "url": "https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Beneath Your Skin",
+      "url": "https://open.spotify.com/track/6HBrzNvh6wCh0wWsNHJBbe"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Unkillable Soldier",
         "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
@@ -517,23 +577,7 @@
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Noah's Ark",
-        "url": "https://open.spotify.com/album/70HcUicuGMW4t3icNtg3kW"
-      },
-      "artists": [
-        {
-          "name": "Mentalist",
-          "url": "https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Noah's Ark",
-      "url": "https://open.spotify.com/track/5RbmNmtY6ybkqmlhJIQsSP"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Victorious Dinogods",
         "url": "https://open.spotify.com/album/6fAAa9vaM15S6LerBoaN6P"
@@ -549,7 +593,7 @@
       "url": "https://open.spotify.com/track/2WaIiTbj3K9aosf0L0qvat"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "A Cloak Woven of Stars",
         "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
@@ -565,7 +609,7 @@
       "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Dismantled",
         "url": "https://open.spotify.com/album/4uKPcMc3IxoLuDvD1KcLan"
@@ -585,7 +629,7 @@
       "url": "https://open.spotify.com/track/3NshiUUbu0W7EHseNmiuAv"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo"
@@ -601,27 +645,7 @@
       "url": "https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Veiled in Despair",
-        "url": "https://open.spotify.com/album/2EznOag1XNIUnTNd5hRmFA"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Heidi Parviainen",
-          "url": "https://open.spotify.com/artist/5XjOHp3QWS7IC2mm4SNwTj"
-        }
-      ],
-      "duration_ms": 372500,
-      "name": "Veiled in Despair",
-      "url": "https://open.spotify.com/track/4yHtEgZqyUgcClZD3AOX3l"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "My Shadow Self",
         "url": "https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C"
@@ -637,7 +661,27 @@
       "url": "https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
+      "album": {
+        "name": "Sons of the Wind (Back to the 80's Remix)",
+        "url": "https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m"
+      },
+      "artists": [
+        {
+          "name": "Lunatica",
+          "url": "https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1"
+        },
+        {
+          "name": "Canttias",
+          "url": "https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q"
+        }
+      ],
+      "duration_ms": 330829,
+      "name": "Sons of the Wind (Back to the 80's Remix)",
+      "url": "https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW"
+    },
+    {
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "New Evil",
         "url": "https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx"
@@ -653,7 +697,7 @@
       "url": "https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Wayward Sun",
         "url": "https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN"
@@ -669,7 +713,7 @@
       "url": "https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Last Rays of the Sun",
         "url": "https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Elements of Power",
         "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
@@ -701,43 +745,7 @@
       "url": "https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/4fh7KDwJsiTCLwzeEEJIXL"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 287530,
-      "name": "The Last Wave",
-      "url": "https://open.spotify.com/track/3HIrL5CpFrc6CNjiOCDidI"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "My Demons and I",
-        "url": "https://open.spotify.com/album/1h30AxSI16qbIZqPQX3tZh"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Brittney Slayes",
-          "url": "https://open.spotify.com/artist/1Ea0u6DNv731liS6GfD7aK"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "My Demons and I",
-      "url": "https://open.spotify.com/track/5KWXj0NY74p7Pqctwk79jU"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
@@ -753,7 +761,7 @@
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Chambers of Fire",
         "url": "https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX"
@@ -769,23 +777,7 @@
       "url": "https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q"
-      },
-      "artists": [
-        {
-          "name": "DAMPF",
-          "url": "https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "What Was Dreamt and Lived",
         "url": "https://open.spotify.com/album/73RiO9eVYKd9USOzuhoqnZ"
@@ -805,7 +797,7 @@
       "url": "https://open.spotify.com/track/3mJvoWmfeg8zUjdjCqHlqv"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Coming from the Sky",
         "url": "https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc"
@@ -829,7 +821,7 @@
       "url": "https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "TAN",
         "url": "https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH"
@@ -845,7 +837,7 @@
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/5rCIMFTGTvS0jLdOAc1Ljx"
@@ -861,7 +853,7 @@
       "url": "https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Epitaph",
         "url": "https://open.spotify.com/album/67HLuJLje712aP4z6CGlIJ"
@@ -877,7 +869,7 @@
       "url": "https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1"
@@ -893,23 +885,7 @@
       "url": "https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Paralyze",
-        "url": "https://open.spotify.com/album/7lvrKN4q09fkVHdOG2GdbT"
-      },
-      "artists": [
-        {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
-        }
-      ],
-      "duration_ms": 202339,
-      "name": "Paralyze",
-      "url": "https://open.spotify.com/track/2axeXhI1SU6G5CZ1drCDze"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Vita Nova",
         "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
@@ -929,7 +905,7 @@
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
@@ -945,7 +921,7 @@
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
@@ -961,7 +937,7 @@
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "One More River to Cross",
         "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
@@ -977,7 +953,7 @@
       "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
@@ -993,23 +969,7 @@
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Covers II",
-        "url": "https://open.spotify.com/album/0iGeVl7864jzkdwMGrrrNd"
-      },
-      "artists": [
-        {
-          "name": "Rioghan",
-          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
-        }
-      ],
-      "duration_ms": 218606,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/6yqcGYzJ7V4tv9wXt827ue"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
@@ -1029,7 +989,7 @@
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
@@ -1045,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/4tcpxAECnvzKmINKJ44UYY"
@@ -1061,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
@@ -1085,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
@@ -1105,7 +1065,7 @@
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
@@ -1121,7 +1081,7 @@
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "The Widow Maker",
         "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
@@ -1141,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Revel in Time",
         "url": "https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk"
@@ -1157,23 +1117,7 @@
       "url": "https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Deliver Us From Evil",
-        "url": "https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 321520,
-      "name": "Deliver Us From Evil",
-      "url": "https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Fairy of the Bog",
         "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
@@ -1189,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Secrets Of The American Gods",
         "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
@@ -1205,7 +1149,7 @@
       "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Fears Don't Matter",
         "url": "https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ"
@@ -1221,7 +1165,7 @@
       "url": "https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
@@ -1241,7 +1185,7 @@
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Acoustic Adventures - Volume One (Japan Edition)",
         "url": "https://open.spotify.com/album/2SoNYP3NBHJzAek1kMi13X"
@@ -1257,7 +1201,7 @@
       "url": "https://open.spotify.com/track/590peBKo6OaJzKu756aGe4"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Eternal Darkness",
         "url": "https://open.spotify.com/album/13G54l6oV3HKT4HaWsKDQB"
@@ -1273,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
@@ -1289,23 +1233,7 @@
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
-      "album": {
-        "name": "Fate of Man",
-        "url": "https://open.spotify.com/album/4lvGV04Suxogp8e6tryPQf"
-      },
-      "artists": [
-        {
-          "name": "Arjen Anthony Lucassen's Star One",
-          "url": "https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Fate of Man",
-      "url": "https://open.spotify.com/track/6qWw5KhqblmmqA7APdpqmk"
-    },
-    {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm"
@@ -1321,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Le Radeau de La M\u00e9duse (English)",
         "url": "https://open.spotify.com/album/1KENM3kf19xETgAZT0DQng"
@@ -1337,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3pA6e63BSPjPt9SFF9lwha"
     },
     {
-      "added_at": "2022-06-11 18:19:15",
+      "added_at": "2022-06-17 06:06:13",
       "album": {
         "name": "Kraven The Hunter",
         "url": "https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma"

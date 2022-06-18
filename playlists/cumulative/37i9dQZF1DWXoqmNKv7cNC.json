@@ -1964,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "I Think of You",
+        "url": "https://open.spotify.com/album/36OYFDgNxsKIn3HEoOogtH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "I Think of You",
+      "url": "https://open.spotify.com/track/6Qy6BnK7jRUvZXF3UrhoXs"
+    },
+    {
+      "album": {
         "name": "Ikite Iru",
         "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
       },

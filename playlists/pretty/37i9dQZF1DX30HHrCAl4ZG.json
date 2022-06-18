@@ -1,12 +1,12 @@
 {
-  "description": "The resurgence is real. Cover: Beach Bunny",
-  "num_followers": 837196,
+  "description": "The resurgence is real. Cover: Cautious Clay",
+  "num_followers": 837185,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NTQzNCwwMDAwMDA5NTAwMDAwMTgxNmQ0MWMxNGEwMDAwMDE4MTRlMWY5NTE0",
+  "snapshot_id": "MTY1NTQ1MTAwMCwwMDAwMDA5NjAwMDAwMTgxNzA5MTlkNWYwMDAwMDE4MTZlYTkwY2M2",
   "tracks": [
     {
       "added_at": "2022-06-10 14:58:47",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
-      "added_at": "2022-06-10 14:58:47",
+      "added_at": "2022-06-17 07:30:00",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -73,20 +73,36 @@
       "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
     },
     {
-      "added_at": "2022-06-14 13:26:21",
+      "added_at": "2022-06-10 14:58:47",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "The Living End",
+        "url": "https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 208013,
+      "name": "I'm So Bored",
+      "url": "https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -105,20 +121,36 @@
       "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
     },
     {
-      "added_at": "2022-06-10 14:58:47",
+      "added_at": "2022-06-14 13:26:21",
       "album": {
-        "name": "The Living End",
-        "url": "https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "Sarah and the Sundays",
-          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 208013,
-      "name": "I'm So Bored",
-      "url": "https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Cool It Kid",
+        "url": "https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Cool It Kid",
+      "url": "https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -137,6 +169,26 @@
       "url": "https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV"
     },
     {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "take it back (feat. Beck)",
+        "url": "https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 145718,
+      "name": "take it back (feat. Beck)",
+      "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
+    },
+    {
       "added_at": "2022-06-10 17:14:03",
       "album": {
         "name": "Janky Star",
@@ -151,6 +203,22 @@
       "duration_ms": 205386,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Natural Part",
+        "url": "https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Ding Dong Ditch",
+      "url": "https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -185,6 +253,22 @@
       "url": "https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v"
     },
     {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Not Sure How This Ends",
+        "url": "https://open.spotify.com/album/2uc7M2vFAjY3jNovTI7YAu"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Not Sure How This Ends",
+      "url": "https://open.spotify.com/track/41In7wBGR95EZbSjqVAQy0"
+    },
+    {
       "added_at": "2022-06-10 14:58:47",
       "album": {
         "name": "Blue Skies",
@@ -215,6 +299,22 @@
       "duration_ms": 272716,
       "name": "Wait Too Long",
       "url": "https://open.spotify.com/track/3SCqKx03EhaVzwS2FXVCmZ"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Call Me Junior",
+        "url": "https://open.spotify.com/album/4OF5G4ZW72busgHBEjiTXb"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Call Me Junior",
+      "url": "https://open.spotify.com/track/6i40xnCskeEWHGqWjNv7I5"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -263,6 +363,22 @@
       "duration_ms": 310742,
       "name": "T Love",
       "url": "https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "Never Go",
+      "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
     },
     {
       "added_at": "2022-06-14 13:26:21",
@@ -329,20 +445,36 @@
       "url": "https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4"
     },
     {
-      "added_at": "2022-06-10 14:58:47",
+      "added_at": "2022-06-17 07:30:00",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf"
+        "name": "Think It's Real",
+        "url": "https://open.spotify.com/album/2ShZJhDFUtup4Fm8TsF39h"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
+      "duration_ms": 282000,
+      "name": "Think It's Real",
+      "url": "https://open.spotify.com/track/06nE4D9SWTUFkFDhOnc4l4"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -375,6 +507,22 @@
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/0wodCHdYleETfWPgbQjEkh"
+      },
+      "artists": [
+        {
+          "name": "papichuloteej",
+          "url": "https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/4ucSjq2iXP7H3dLYo12gV5"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -441,22 +589,6 @@
       "url": "https://open.spotify.com/track/3lBeoTslcKeB6WXCWkiwCI"
     },
     {
-      "added_at": "2022-06-10 14:58:47",
-      "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
-    },
-    {
       "added_at": "2022-06-14 13:26:21",
       "album": {
         "name": "I'm Your Kamikaze",
@@ -471,6 +603,22 @@
       "duration_ms": 158200,
       "name": "I'm Your Kamikaze",
       "url": "https://open.spotify.com/track/5aeKCKpYuXC14oxq3drNgt"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -647,6 +795,22 @@
       "duration_ms": 149815,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/58n2RzBcdATtC4dHuX21G1"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
     },
     {
       "added_at": "2022-06-10 14:58:47",

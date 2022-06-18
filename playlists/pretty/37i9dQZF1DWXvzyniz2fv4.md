@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,050 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,143 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 5 | [Nem Vi Passar](https://open.spotify.com/track/5dnAo4hcNPTGztt7lIFxfO) | [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Nem Vi Passar](https://open.spotify.com/album/6NIBreyDuZe8y4mjRXRN3o) | 2:39 |
 | 6 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 7 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 |
-| 8 | [Céu Lilás](https://open.spotify.com/track/685d82SkQXCZWTeiHwDMpA) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Céu Lilás](https://open.spotify.com/album/7h7c9b9bq8Ir59JmPzafN2) | 2:54 |
-| 9 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 |
+| 8 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 |
+| 9 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 |
 | 10 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |
 | 11 | [Marshmallow](https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Marshmallow](https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT) | 2:22 |
 | 12 | [Meia Noite e Pouca](https://open.spotify.com/track/12sxunAocKmrn8AzPVn8hU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Fases](https://open.spotify.com/album/03Xtrk1TYuWG8249nRdPfa) | 2:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 65 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY1NDgzMDA2MCwwMDAwMDA3MzAwMDAwMTgxNGI4ZWQyOTAwMDAwMDE3MmYxYzU1MTVh`
+Snapshot ID: `MTY1NTQzNDg2MCwwMDAwMDA3NDAwMDAwMTgxNmY5YjU2NjkwMDAwMDE3MmYxYzU1MTVh`

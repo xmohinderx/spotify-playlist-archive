@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-64 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+66 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,11 @@
 | [Ghost On](https://open.spotify.com/track/512vqW0xDLcWjWD2tc46xd) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:20 | 2022-06-08 |  |
 | [Glasgow \- Edit](https://open.spotify.com/track/0fbloYbpEh4pJljGYKn24o) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Glasgow](https://open.spotify.com/album/1t2DMbdSiAKi75cbTTqKDz) | 3:49 | 2022-06-16 |  |
 | [Hangar](https://open.spotify.com/track/2maVPXqxqgn7w929ZxiH5o) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Hangar](https://open.spotify.com/album/3aPHytsW9HCZ8UyQ1V5xnV) | 3:42 | 2022-06-16 |  |
+| [Hips \- Loraine James Remix](https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Highgrade](https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z) | 3:17 | 2022-06-17 |  |
 | [I Am Not Your Cushion](https://open.spotify.com/track/4tNe1lD0tyU07rqUA6bXdk) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Honeyglaze](https://open.spotify.com/album/2EKzD1PtSyL1hvPlrOv4Hz) | 3:05 | 2022-06-08 | 2022-06-17 |
 | [I Like You \- Locum Re\-Edit](https://open.spotify.com/track/3CooCAlwkFHhbwGt5oaAsT) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [Locum](https://open.spotify.com/artist/0yrRCCXpXeMfghNIPizia4) | [I Like You](https://open.spotify.com/album/7JN3ZcidOV8fCmS1Mw1bGh) | 4:27 | 2022-06-08 | 2022-06-17 |
 | [I Like You \- Single Version](https://open.spotify.com/track/4klq6QOeAZjJJFX32wtTQt) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [I Like You](https://open.spotify.com/album/7JN3ZcidOV8fCmS1Mw1bGh) | 3:59 | 2022-06-08 |  |
+| [I Saw You](https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO) | 3:05 | 2022-06-17 |  |
 | [I'm Better](https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [I'm Better](https://open.spotify.com/album/1sYWSth05IlhsuOSR9SmmE) | 2:41 | 2022-06-08 |  |
 | [I'm Yours Baby](https://open.spotify.com/track/1MDnq89tyEoVGtwSnASJin) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Sincere](https://open.spotify.com/album/2wfDR4Efo4EpwyMAR40sk3) | 4:34 | 2022-06-08 | 2022-06-17 |
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 |  |

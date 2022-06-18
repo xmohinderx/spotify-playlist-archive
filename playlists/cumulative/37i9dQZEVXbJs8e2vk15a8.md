@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-198 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+199 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [After Party](https://open.spotify.com/track/0Lfpl07wsqcEsjdVBl3vzo) | [FiltraKing](https://open.spotify.com/artist/02tSgGoPaKu9vDTA30O6Wd), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [After Party](https://open.spotify.com/album/6eOXVgUKNuPDsIhlOcSijK) | 3:38 | 2022-05-03 | 2022-05-30 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-31 | 2022-06-15 |
 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 | 2022-05-02 | 2022-05-04 |
+| [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2022-06-17 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-31 |  |
 | [Anti Rana](https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Anti Rana](https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW) | 3:09 | 2022-04-15 | 2022-05-08 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-05-03 | 2022-05-25 |
@@ -94,7 +95,7 @@
 | [Los Perros Viejos Olvidaron Mirarse Al Espejo](https://open.spotify.com/track/2DxiVceS9zIQyh8twSbmTR) | [Mente Sabia Crú](https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ) | [Elefante](https://open.spotify.com/album/70SCEuwsSzTtWp5ALJVZuy) | 10:18 | 2022-04-23 | 2022-04-25 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-03 | 2022-06-01 |
 | [Love Theme](https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:55 | 2022-05-25 | 2022-05-28 |
-| [Magnate Full Jordan 23](https://open.spotify.com/track/7BWPn9KWAQPlVIWpWEOdbb) | [Young Pfet](https://open.spotify.com/artist/2mwDtqszYZLRVMkibzqGpL) | [Magnate Full Jordan 23](https://open.spotify.com/album/28f5lWm7Z8fD7FScGWQsBn) | 2:58 | 2022-06-15 |  |
+| [Magnate Full Jordan 23](https://open.spotify.com/track/7BWPn9KWAQPlVIWpWEOdbb) | [Young Pfet](https://open.spotify.com/artist/2mwDtqszYZLRVMkibzqGpL) | [Magnate Full Jordan 23](https://open.spotify.com/album/28f5lWm7Z8fD7FScGWQsBn) | 2:58 | 2022-06-15 | 2022-06-18 |
 | [Mama, Mamá \- Live](https://open.spotify.com/track/4ZLzNRSDGs92UMTbVCuFCQ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros En Vivo En El Teatro Colon](https://open.spotify.com/album/5c5rnMWFpAT7DBJqmMRa4H) | 4:20 | 2022-05-10 | 2022-05-16 |
 | [Mambito de Barrio](https://open.spotify.com/track/2LaGVeFsDC3vh4ZwQxk49S) | [La Fixapilar](https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [Mambito de Barrio](https://open.spotify.com/album/3liRGQdRxIkZO5oeQ9Pfl4) | 2:40 | 2022-06-14 |  |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-15 | 2022-04-27 |

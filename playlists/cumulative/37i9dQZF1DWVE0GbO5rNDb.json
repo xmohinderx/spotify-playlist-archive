@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 191008,
       "name": "About to Rise",
       "url": "https://open.spotify.com/track/3YSZOxK0KWsH91kbTvlNvp"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 184390,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 131217,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/0G3E42efyWKiLLHF3yLdAm"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 182053,
       "name": "I Ain't Going Home",
       "url": "https://open.spotify.com/track/0v2WYRV8MSoFDlxTuSYp3Y"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "I'm in love",
       "url": "https://open.spotify.com/track/2Rfy50UpGrTN43GmSpn5A1"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 155000,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 208362,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/6jlN2JVlMlaKdWo7EyHpOS"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 195452,
       "name": "Little Bit Of Love",
       "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 173547,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv"
@@ -2983,7 +2983,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -3287,7 +3287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 177653,
       "name": "Wild Ones - Nightcall Remix",
       "url": "https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el"
@@ -3313,6 +3313,24 @@
       "duration_ms": 202652,
       "name": "Wired (with Ella Eyre)",
       "url": "https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5"
+      },
+      "artists": [
+        {
+          "name": "Pekka",
+          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188065,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx"
     },
     {
       "album": {
@@ -3405,6 +3423,32 @@
       "duration_ms": 196684,
       "name": "You Got The Love",
       "url": "https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY"
+    },
+    {
+      "album": {
+        "name": "You Know What It's Like",
+        "url": "https://open.spotify.com/album/6coKVCHfojJKubtxa57OYA"
+      },
+      "artists": [
+        {
+          "name": "Salasnich",
+          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
+        },
+        {
+          "name": "PY & Mastro Sally",
+          "url": "https://open.spotify.com/artist/3bLhyqwZHFxRw0XEwxYegk"
+        },
+        {
+          "name": "Rhett Fisher",
+          "url": "https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151476,
+      "name": "You Know What It's Like",
+      "url": "https://open.spotify.com/track/1jqyP5eKuD8fXaul1O48fS"
     },
     {
       "album": {

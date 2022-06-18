@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Etienne Dufresne",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Lou Phelps",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 186128,
       "name": "Amazone (feat. Laurence Camille)",
       "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
@@ -1456,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "J'ai pu de temps \u00e0 perdre!",
+        "url": "https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7"
+      },
+      "artists": [
+        {
+          "name": "BadBlue",
+          "url": "https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "J'ai pu de temps \u00e0 perdre!",
+      "url": "https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx"
+    },
+    {
+      "album": {
         "name": "Empty Seats",
         "url": "https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw"
       },
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
@@ -2473,6 +2491,24 @@
       "duration_ms": 200196,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ"
+    },
+    {
+      "album": {
+        "name": "Rock & roll sur ton chemin",
+        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238019,
+      "name": "Rock & roll sur ton chemin",
+      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
     },
     {
       "album": {

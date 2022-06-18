@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-154 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+156 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/3KJsNDJeH0GF0XJs0U0tl1) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/4rLHas5Md1Z8huxYjp0dkm) | 3:24 | 2021-12-17 |  |
 | [Between You & Me](https://open.spotify.com/track/4FEGLKYIfTEatQtfGLGxlu) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Between You & Me](https://open.spotify.com/album/6irV36nzdfWQSorcCFpYPl) | 2:49 | 2021-12-17 |  |
 | [Boy Like Me \- Acoustic](https://open.spotify.com/track/1czoG01DZOJ9wTv3pvcKrk) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Boy Like Me \(Acoustic\)](https://open.spotify.com/album/4Lan6PFV9KO6AzwEAGoxez) | 3:08 | 2021-12-17 |  |
+| [Break My Heart Again \- Live Acoustic](https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again \(Live Acoustic\)](https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby) | 3:20 | 2022-06-17 |  |
 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 | 2021-12-17 |  |
 | [Broken Up \- Acoustic](https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Broken Up \(Acoustic\)](https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S) | 3:09 | 2021-12-17 |  |
 | [Buy Dirt \- Acoustic](https://open.spotify.com/track/6MG2uwCDlqChYAAlzCBd50) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt \(Acoustic\)](https://open.spotify.com/album/1JQ9Z0M1rA2MCmEdhruP2n) | 3:04 | 2021-12-17 | 2022-01-22 |
@@ -55,6 +56,7 @@
 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 | 2021-12-17 |  |
 | [Good Day \- Acoustic](https://open.spotify.com/track/5vlkwSSNljB7vmnBFwYWrw) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Acoustic\)](https://open.spotify.com/album/4dmJkz3SB0W6hnWWBbi7tR) | 3:01 | 2021-12-17 |  |
 | [Growing Old With You \- First Dance Version](https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You \(First Dance Version\)](https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD) | 3:12 | 2022-04-15 |  |
+| [Hard \- Live on the Grand](https://open.spotify.com/track/3R3IrdzoSYyI8cq9c4pcRg) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Hard \(Live on the Grand\)](https://open.spotify.com/album/3bMcMleKkLMqj7ZuRXnhxO) | 3:24 | 2022-06-17 |  |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 |  |
 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-12-17 |  |
 | [Helpless](https://open.spotify.com/track/6Ah1dC9Hwktu1FRHC2Nl5M) | [Clare Bowen](https://open.spotify.com/artist/1LBeAxaCAHECiK355bwtlW), [Brandon Robert Young](https://open.spotify.com/artist/7A4uKbTxHktDTmVefgc3az) | [Helpless](https://open.spotify.com/album/3WA8FUqjTvP8QxIKgbQdwK) | 5:16 | 2021-12-17 | 2022-01-08 |
@@ -76,7 +78,7 @@
 | [If I'm Not In Hell](https://open.spotify.com/track/12hS8rEX9hfUDzIPQHUCSf) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [If I'm Not In Hell](https://open.spotify.com/album/6cOfm3PTltwLCu30ybx49b) | 3:48 | 2021-12-17 |  |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2021-12-17 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-17 |  |
-| [It's Been a Long Year, Man](https://open.spotify.com/track/0kIe6qFLvK6HQTgalrVrWM) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [It's Been a Long Year, Man](https://open.spotify.com/album/1LirwgQ5QXonB9ZC7NjuAf) | 2:48 | 2021-12-17 |  |
+| [It's Been a Long Year, Man](https://open.spotify.com/track/0kIe6qFLvK6HQTgalrVrWM) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [It's Been a Long Year, Man](https://open.spotify.com/album/1LirwgQ5QXonB9ZC7NjuAf) | 2:48 | 2021-12-17 | 2022-06-18 |
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-12-17 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |

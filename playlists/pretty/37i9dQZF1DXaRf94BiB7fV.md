@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Nina & Malika, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,395 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,374 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 38 | [Love Someone](https://open.spotify.com/track/3ImRkWFQbM9nzmhEgmV9Uu) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Love Someone](https://open.spotify.com/album/6vNTBVBsAGBQSUBzxffkwY) | 3:37 |
 | 39 | [Dariya](https://open.spotify.com/track/6zfFvL3ZReYVTGAjkdPsTE) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Dariya](https://open.spotify.com/album/4fGvwb1iFLRJO966eGrKQs) | 4:03 |
 | 40 | [Adhe Adhe](https://open.spotify.com/track/0RKq0PbBYjQHicJU2ZqKEH) | [Mohit James](https://open.spotify.com/artist/7v4AllQb7xHs8jiv5hYARm) | [Adhe Adhe](https://open.spotify.com/album/5wjBhICa7rPYw3UpRF7sC9) | 3:13 |
-| 41 | [Nishaani](https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM), [Ana Khan](https://open.spotify.com/artist/1EfmBdg7wFjLKOQFMROdlX) | [Nishaani](https://open.spotify.com/album/6QjsvM7dpohwGofretSi86) | 3:26 |
+| 41 | [Nishaani](https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM), [Ana Khan](https://open.spotify.com/artist/0i0yZ1eUzu2zQSpS1eyeSo) | [Nishaani](https://open.spotify.com/album/6QjsvM7dpohwGofretSi86) | 3:26 |
 | 42 | [Midnight Disco](https://open.spotify.com/track/2kMCDXew7ONxhkFUTot07Z) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Midnight Disco](https://open.spotify.com/album/6GHfYg0BMtMN2mQpKlCcIh) | 3:41 |
 | 43 | [Aarzuu Kaise Khoju](https://open.spotify.com/track/1sMssYmz4VigHQ4hk6FWAF) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Aarzuu Kaise Khoju](https://open.spotify.com/album/0Wmbr1bfKuVajzQTq1Wx53) | 3:03 |
 | 44 | [Tarse Naina](https://open.spotify.com/track/5Bstg2GBEh3OCh9CzNtjeC) | [Nihar Shembekar](https://open.spotify.com/artist/5IWLPvOnpyaiOyz8a7dM2j), [Shark](https://open.spotify.com/artist/0MtGhagwAawOCV5KaoHBOh) | [Tarse Naina](https://open.spotify.com/album/1bFwgI59XKYIfKwHiyfiH9) | 3:32 |

@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e, in cover, La Superluna di Drone Kong di Nikki\)
 
-97 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+98 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 | 2022-05-09 | 2022-05-13 |
 | [Dynamite](https://open.spotify.com/track/4rrTYw1uDqd3pMTUmuHEVF) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Dynamite](https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT) | 3:00 | 2022-05-09 | 2022-05-20 |
 | [Estate di Merda](https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Estate di Merda](https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5) | 2:51 | 2022-06-02 |  |
+| [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 | 2022-06-17 |  |
 | [Fiji](https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe) | [Testarossa](https://open.spotify.com/artist/7yVdD1RiPKmVmqjH32EUGS) | [Fiji](https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI) | 3:31 | 2022-05-12 | 2022-06-10 |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 |  |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |

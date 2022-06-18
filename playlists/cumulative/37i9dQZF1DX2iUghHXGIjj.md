@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-103 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+105 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/08qYcblROPJzWHOhMFqSt2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Bad Guy Necessity \(acoustic\)](https://open.spotify.com/album/08aRguL8EvjUpy2oPH6Pqe) | 3:57 | 2020-08-11 |  |
 | [Bad to the Bone](https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 4:04 | 2020-08-11 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2020-08-11 |  |
+| [Behind the Sea](https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Behind the Sea](https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ) | 4:30 | 2022-06-17 |  |
 | [Big Mama's Door](https://open.spotify.com/track/3AkN7wZwvXmhvlSWDMKkbr) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Big Mama'S Door](https://open.spotify.com/album/3TNHq2DDgfhMnXsmGac0Bm) | 3:51 | 2020-08-11 |  |
-| [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-13 |  |
+| [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-13 | 2022-06-18 |
 | [Brazos River Blues](https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Global Griot](https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn) | 2:31 | 2020-08-11 |  |
 | [Break My Fall](https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs) | 4:25 | 2020-08-11 |  |
 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 | 2021-03-12 |  |
@@ -72,7 +73,7 @@
 | [Oh Lord](https://open.spotify.com/track/2flh4b34mwwNSAK39s64Yl) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p), [Ben Hunter](https://open.spotify.com/artist/58V5N7E20Bl4TOVAoJyi5g), [Joe Seamons](https://open.spotify.com/artist/5Uzwtm5VofnD9EhZILeZ5a) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 3:21 | 2020-08-11 |  |
 | [Oh Now](https://open.spotify.com/track/3WxksalSl9j5N3JkvFn8lY) | [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG) | [Oh Now](https://open.spotify.com/album/2RAGcWbyKf5nzUN58QqxUD) | 2:32 | 2020-08-11 | 2022-05-14 |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
-| [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 | 2020-08-11 |  |
+| [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 | 2020-08-11 | 2022-06-18 |
 | [Pay Day](https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o) | [The Blues Preachers](https://open.spotify.com/artist/3ikhKlxQA5V5LcZEos15Zb) | [Dry Long So](https://open.spotify.com/album/2St0nFT4MkzzFhTsFLI7nS) | 4:10 | 2020-08-11 |  |
 | [Play With Your Poodle](https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Blowin' Harp Blues](https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx) | 3:39 | 2020-08-11 |  |
 | [Pray For Rain](https://open.spotify.com/track/6TTV5D4GL999sZZgDSHLQU) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/6Hc2RIipiqxuxYD1C7DdAZ) | 3:14 | 2020-08-11 |  |
@@ -83,6 +84,7 @@
 | [Refugee Moan](https://open.spotify.com/track/519peDYoPxR11QfcNJajXW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2) | 3:06 | 2020-08-11 |  |
 | [Riding In the Moonlight / Mr\. Luck](https://open.spotify.com/track/1mkxMjrjzzXU9mg4S375Zo) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Blue Highways](https://open.spotify.com/album/5IzvgXy4fmGzgxkfVS2tul) | 2:57 | 2020-08-11 |  |
 | [Right Here](https://open.spotify.com/track/2L7M2b2WZJkPSvPGy9BBmi) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Raw](https://open.spotify.com/album/6s7Uv2kwhvuRCcFPPa4n6K) | 5:48 | 2020-08-11 |  |
+| [Running Through High Water](https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [So Far](https://open.spotify.com/album/6GtrAnXKQgxz1QLs1yPYLq) | 4:32 | 2022-06-17 |  |
 | [Samson And Delilah](https://open.spotify.com/track/3Z1uHWxTB4YF82VSaSyrDa) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer \(Remastered\)](https://open.spotify.com/album/4IwcZDJileSoKXbfQjyRFB) | 4:03 | 2020-08-11 |  |
 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 | 2020-08-11 |  |
 | [See That My Grave Is Kept Clean](https://open.spotify.com/track/3Cx3GZApS0HveX3oUqpXAl) | [Colin James](https://open.spotify.com/artist/4RN8CfKJE14EhffVP5hPbC) | [Miles To Go](https://open.spotify.com/album/7J7wbpmJhixqKYETzJcsPb) | 3:03 | 2020-08-11 |  |

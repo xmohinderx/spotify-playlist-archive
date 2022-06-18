@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9RwfGbeGQwP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9RwfGbeGQwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9RwfGbeGQwP)
 
-### [Lo\-Fi Cafe](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP)
+### [lofi cafe](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP)
 
-> Chill beats for cool coffeehouse vibes.
+> chill beats for cool coffeehouse vibes.
 
 529 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 

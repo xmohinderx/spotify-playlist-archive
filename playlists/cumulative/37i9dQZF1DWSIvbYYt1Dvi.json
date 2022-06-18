@@ -548,6 +548,32 @@
     },
     {
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "album": {
         "name": "Easy Money",
         "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
       },
@@ -1154,6 +1180,40 @@
     },
     {
       "album": {
+        "name": "Minha Pele",
+        "url": "https://open.spotify.com/album/01W69LxzkNWgqEGqIaHlYS"
+      },
+      "artists": [
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "Neo Mc",
+          "url": "https://open.spotify.com/artist/6FUy68mNerpBmix9JLdH58"
+        },
+        {
+          "name": "GEBE",
+          "url": "https://open.spotify.com/artist/1PHKKhYrxhcDLlQaByPYr6"
+        },
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "Hashi",
+          "url": "https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Minha Pele",
+      "url": "https://open.spotify.com/track/2YN9PK102qVWhx6OjsHiIe"
+    },
+    {
+      "album": {
         "name": "Nada \u00e9 pra sempre",
         "url": "https://open.spotify.com/album/2JktlBnWa1gjLRlSoQC2jJ"
       },
@@ -1285,6 +1345,40 @@
       "duration_ms": 152375,
       "name": "Negr\u00e3o Demais",
       "url": "https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq"
+    },
+    {
+      "album": {
+        "name": "Noite de Crime",
+        "url": "https://open.spotify.com/album/6EiJ4P9VBC1GOt4gAmvBwd"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Mc King",
+          "url": "https://open.spotify.com/artist/1g2Y9BdMQmy2dp5oLbInjz"
+        },
+        {
+          "name": "Tizi Kilates",
+          "url": "https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213043,
+      "name": "Noite de Crime",
+      "url": "https://open.spotify.com/track/0g2z0ncOs8F5YKdmbrIsZr"
     },
     {
       "album": {
@@ -1515,7 +1609,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 185604,
       "name": "Pique Peaky Blinders",
       "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
@@ -1581,7 +1675,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 203142,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/09fwIEKQWl8kZvHEgwRXeg"
@@ -1913,7 +2007,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 618000,
       "name": "R.U.A 12 Batalha de Vida",
       "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"

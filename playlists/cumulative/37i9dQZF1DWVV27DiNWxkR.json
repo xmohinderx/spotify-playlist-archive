@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
+    },
+    {
+      "album": {
         "name": "Post Tropical",
         "url": "https://open.spotify.com/album/2bX5umInKftnekEm6qM0SO"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2020-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 280213,
       "name": "circle the drain",
       "url": "https://open.spotify.com/track/5Fxqn2kr6NBio3EDfaMi45"
@@ -975,6 +993,24 @@
       "duration_ms": 287360,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/4GNcXcBJWF5oA89tB4PxOk"
+    },
+    {
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "album": {
@@ -2225,7 +2261,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 231746,
       "name": "Patricia",
       "url": "https://open.spotify.com/track/2mk1lFzxG6TDKEh4s2ICW6"

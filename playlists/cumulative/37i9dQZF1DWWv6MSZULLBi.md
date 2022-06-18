@@ -2,15 +2,16 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Tom Rosenthal
+> A laid\-back trip in the folk scene\. Cover: AHI
 
-117 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+120 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
 | [All This Time Running](https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc) | 3:05 | 2022-05-13 | 2022-05-20 |
+| [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 |  |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
@@ -46,7 +47,7 @@
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 |  |
 | [Heavy Heart](https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [That Was You and Me](https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH) | 3:10 | 2022-06-03 |  |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-05-13 | 2022-06-04 |
-| [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 |  |
+| [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-13 | 2022-06-18 |
 | [Honest Light](https://open.spotify.com/track/4Zldc9Kg9ybat4F2jIxiie) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Honest Light](https://open.spotify.com/album/529ski7usNNFkKb4lQVnZO) | 3:38 | 2022-05-13 |  |
 | [How I See It](https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [12:34](https://open.spotify.com/album/142mjhHKGwh7LuV6e9ggI2) | 4:36 | 2022-05-13 |  |
 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 | 2022-05-13 | 2022-05-28 |
@@ -104,7 +105,7 @@
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-05-13 |  |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-05-13 |  |
 | [Talamanca](https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 4:20 | 2022-05-13 |  |
-| [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 |  |
+| [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 | 2022-06-18 |
 | [The Crossing](https://open.spotify.com/track/4Vr0FUtn0pT6kCXFNK3zOJ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [The Crossing](https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV) | 3:54 | 2022-05-13 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-05-20 |  |
 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 | 2022-05-13 |  |
@@ -112,7 +113,8 @@
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 |  |
 | [Touch of Your Lips](https://open.spotify.com/track/2ho9amrBZbxod4VAKW76TN) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm), [Yanny Ritchot](https://open.spotify.com/artist/2zC9eI5Wa9lY9mVbjwzV7y) | [Touch of Your Lips / Four White Walls](https://open.spotify.com/album/6ovRzoOjpfQcIHVYyMuQQp) | 2:27 | 2022-05-13 |  |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-05-13 |  |
-| [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 |  |
+| [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 | 2022-06-18 |
+| [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 |  |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 |  |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 |  |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 |  |
@@ -121,6 +123,7 @@
 | [When I Fly](https://open.spotify.com/track/3OKoCqjPpCJUYQAlnCS2dV) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:25 | 2022-05-13 |  |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [When I Was a Girl in Colorado](https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx) | 5:00 | 2022-05-13 |  |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-05-13 |  |
+| [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 | 2022-06-17 |  |
 | [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 |  |
 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 | 2022-05-13 |  |
 | [You](https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [You](https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS) | 4:03 | 2022-05-13 | 2022-06-11 |

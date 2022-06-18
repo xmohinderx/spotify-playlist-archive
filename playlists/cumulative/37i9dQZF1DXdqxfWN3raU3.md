@@ -2,7 +2,7 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Rels B
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Irepelusa
 
 145 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 

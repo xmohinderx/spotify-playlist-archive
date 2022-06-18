@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Nova Twins
 
-1,042 songs - 2 day 22 hr 31 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,043 songs - 2 day 22 hr 36 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Glitch Theory](https://open.spotify.com/track/3pzEAJF9mendekzqvsCW16) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Glitch Theory](https://open.spotify.com/album/3V9kqO2rYjp6VfTfCq3fJy) | 3:09 | 2022-05-27 | 2022-06-07 |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 | 2022-02-18 |
 | [Glow](https://open.spotify.com/track/1ikyHjJrH3YtJLQ3Nc3pHq) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Glow](https://open.spotify.com/album/6NlXSu9mNBQhyB5oDDOUgD) | 3:52 | 2022-03-24 | 2022-04-01 |
+| [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs), [James Hughes](https://open.spotify.com/artist/0UnYDRiqv843gXKAozvWN5) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 |  |
 | [God is My Enemy](https://open.spotify.com/track/0otVFY9lFii98yTrOktqL8) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [God is My Enemy](https://open.spotify.com/album/1zZNGFDkbZYLq8HsMpcOQT) | 3:29 | 2022-03-03 | 2022-03-11 |
 | [God Is Silent](https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [God Is Silent](https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog) | 6:06 | 2022-06-10 | 2022-06-17 |
 | [Godkiller](https://open.spotify.com/track/5jevHj1pYAHesdiWdKLG3H) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [Godkiller](https://open.spotify.com/album/7G45tdaTw0YOaCjA0MMnmZ) | 7:36 | 2022-04-22 | 2022-04-29 |

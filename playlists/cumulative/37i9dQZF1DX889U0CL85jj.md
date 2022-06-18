@@ -4,7 +4,7 @@
 
 > Just chill...
 
-261 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+263 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 |  |
 | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/album/0HfMtVtwcLY0hrZbIMc5X5) | 2:01 | 2020-02-28 |  |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
-| [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 |  |
+| [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 | 2022-06-18 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-05-22 |  |
 | [I Need U](https://open.spotify.com/track/5lbdxt9C6rsELTimTkyMn8) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Need U](https://open.spotify.com/album/3c9n16f0gLbXdpmYYoRZ6O) | 2:22 | 2020-05-29 |  |
 | [I Never Stay In Love](https://open.spotify.com/track/7cgrzmkoIn4t0bMQ5NoatW) | [Stephen](https://open.spotify.com/artist/64N1HzkQEXvjlJBQinWeu2) | [I Never Stay In Love](https://open.spotify.com/album/7kramHTbDhB8FADYJCv2fa) | 4:04 | 2020-05-08 | 2022-01-22 |
@@ -177,6 +177,7 @@
 | [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 | 2022-04-29 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-04-05 |  |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-08-03 |  |
+| [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-06-17 |  |
 | [Phantom City](https://open.spotify.com/track/5jrgvMkg6ex5wKsxvFf8uh) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY), [Black + Creme](https://open.spotify.com/artist/61s8JbLZTkxIQ9DH7vXmz4) | [Phantom City](https://open.spotify.com/album/4bnXwSCn4y1hsaETrCPzQ6) | 3:54 | 2020-04-14 | 2022-01-22 |
 | [Picking Petals](https://open.spotify.com/track/6W8bH31M5N17teVILkTlfP) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Picking Petals](https://open.spotify.com/album/0rlOme34khDPN9Qvdk2ckg) | 3:49 | 2022-03-25 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-11-02 |  |
@@ -193,7 +194,7 @@
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [senses](https://open.spotify.com/track/5R9TWqXOVzHfRjpZQd8Dc0) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [komorebi](https://open.spotify.com/album/6JZtYt3v32a9sTRxPlMZEn) | 3:23 | 2019-10-04 | 2022-01-22 |
-| [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 |  |
+| [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 | 2022-06-18 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 |  |
 | [Settle Down](https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx) | 3:51 | 2022-04-29 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2020-06-04 | 2022-01-22 |
@@ -261,6 +262,7 @@
 | [Wild World](https://open.spotify.com/track/3K5v9paUrw1sDVtZeeBxwt) | [des hume](https://open.spotify.com/artist/0jR4cjFAcy3TmLw06xdKxh) | [Wild World](https://open.spotify.com/album/0N4WAn04Ny96Yge3J75G8U) | 3:14 | 2020-04-24 | 2022-01-22 |
 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 | 2020-04-14 |  |
 | [Work of Art](https://open.spotify.com/track/4L6bK3JIEJpctCTxX9BJqO) | [Alex J\. Price](https://open.spotify.com/artist/7D3ZgjKGSixJVqJBSEdLZ7), [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [Work of Art](https://open.spotify.com/album/6wSrZfl0XlnN5REUZX8GvL) | 3:10 | 2020-04-27 | 2022-01-22 |
+| [y](https://open.spotify.com/track/17LSsNemcuxRjWAKJauNm4) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [y](https://open.spotify.com/album/5wtvu7G1IF0xFOCGjDiJ6o) | 2:50 | 2022-06-17 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2020-04-24 | 2022-01-22 |
 | [You](https://open.spotify.com/track/5ltWnyTAztyvQb22VXLuYZ) | [Tumaca](https://open.spotify.com/artist/4noRhJshYWUu5XiCSA6CE2) | [You](https://open.spotify.com/album/6PnR1XGJ9dOWkL3l43u6p7) | 3:27 | 2020-06-26 | 2022-01-22 |
 | [you and the everything of everything](https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW) | [RⱯHM ⚉](https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F) | [you and the everything of everything](https://open.spotify.com/album/3CmN3ZRXYAdz2S3fNtlg49) | 2:40 | 2021-02-02 |  |

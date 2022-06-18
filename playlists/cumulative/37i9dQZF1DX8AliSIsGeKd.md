@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: TSHA
 
-339 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+341 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-05-12 | 2022-06-03 |
 | [Nevataz](https://open.spotify.com/track/4Yofh7ZYnSiksTSicrwEid) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Nevataz](https://open.spotify.com/album/4HJ3isH0ELpiU7b6WcjeJa) | 7:14 | 2022-04-21 | 2022-05-13 |
 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 | 2022-04-28 | 2022-05-20 |
+| [New Moon](https://open.spotify.com/track/4WyLRhTLiGcJVHKFxzQZDj) | [Doctor Dru](https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl) | [New Moon](https://open.spotify.com/album/3I4fsbH1PRFuHPPLkBc0dg) | 6:34 | 2022-06-17 |  |
 | [Night Rider](https://open.spotify.com/track/5ODliUvYGX3XxqTn1kbi2z) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Night Rider](https://open.spotify.com/album/69T0VgLXCretkEdOLbTF5k) | 8:14 | 2022-05-26 | 2022-06-10 |
 | [Niscaya](https://open.spotify.com/track/6DFQEQej8L3kZ3rwRVptbi) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Siamese Anthology IV](https://open.spotify.com/album/1Mqc3c5v1fLCHabJGgXxdG) | 6:54 | 2022-05-20 | 2022-06-10 |
 | [No Escape \- Original Mix](https://open.spotify.com/track/2IOJRiFDWjFw2Q66qGTBAu) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [No Escape \(Original Mix\)](https://open.spotify.com/album/7yv5CkZH0FX99Q2DTa5GYS) | 5:48 | 2022-05-20 | 2022-06-03 |
@@ -328,6 +329,7 @@
 | [Upwards into Freedom](https://open.spotify.com/track/1Dcu2S6Tl8sFReSepXha81) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6qYoN5DH2P3KCKi98ixAm6) | 3:40 | 2022-04-21 | 2022-05-13 |
 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 | 2022-04-28 | 2022-05-20 |
 | [UUUU \- &ME Remix](https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [UUUU \(&ME Remix\)](https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb) | 6:57 | 2022-05-12 | 2022-06-03 |
+| [Ven](https://open.spotify.com/track/5vRmURhDkkMBAkRSovYfHE) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Ven EP](https://open.spotify.com/album/4VmAZ9RFhvdvIuC8IxksYi) | 5:19 | 2022-06-17 |  |
 | [Viento, Color y Fuego](https://open.spotify.com/track/0FuQSbeuQkpwYtV2ZLnWpH) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Viento, Color y Fuego](https://open.spotify.com/album/3KKtEB4O2tvuTAav0x4T0n) | 3:14 | 2022-05-05 | 2022-05-20 |
 | [Violation](https://open.spotify.com/track/7rXmwknxIbhed2pz54Yc0A) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf), [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U) | [Concrete Jungle](https://open.spotify.com/album/3EaPOzb2fsJffWlY2zA3LW) | 5:27 | 2022-06-16 |  |
 | [Visionaire](https://open.spotify.com/track/080Ta6y45xccSK0q9Hct9d) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Visionaire](https://open.spotify.com/album/0cdOTswaFmWaGLvWYsoEuA) | 6:49 | 2022-05-05 | 2022-05-27 |

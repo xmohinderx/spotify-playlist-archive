@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Does the Magic Spin?",
+        "url": "https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg"
+      },
+      "artists": [
+        {
+          "name": "POCKET",
+          "url": "https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180609,
+      "name": "Does the Magic Spin?",
+      "url": "https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv"
+    },
+    {
+      "album": {
         "name": "Kitsun\u00e9: Drugs in My Body",
         "url": "https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH"
       },
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb"

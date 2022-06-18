@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 231080,
       "name": "A Brighter Day",
       "url": "https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6"
@@ -63,6 +63,28 @@
       "duration_ms": 365687,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/4C8rJHteqStazKn82dxlFl"
+    },
+    {
+      "album": {
+        "name": "A Song for Peace",
+        "url": "https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw"
+      },
+      "artists": [
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273515,
+      "name": "A Song for Peace",
+      "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
       "album": {
@@ -157,7 +179,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
@@ -219,7 +241,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220366,
       "name": "Anema e core",
       "url": "https://open.spotify.com/track/6qXe4mxwjEHQ7tt1IiZ4XU"
@@ -473,7 +495,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Believe",
       "url": "https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze"
@@ -1023,7 +1045,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 259146,
       "name": "Cruising the Boulevard",
       "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
@@ -1222,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/05GwoXu2qDSqzUmUkIsONF"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/24lqTPV5AGbWoYUz92YdsA"
+    },
+    {
+      "album": {
         "name": "Driving All Night",
         "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
       },
@@ -1233,7 +1273,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 210714,
       "name": "Driving All Night",
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
@@ -1251,7 +1291,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 200000,
       "name": "Early Sunrise",
       "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
@@ -1363,7 +1403,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220493,
       "name": "Emeline",
       "url": "https://open.spotify.com/track/2K2gljzDjOevU44AWPKoNb"
@@ -1697,7 +1737,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 189069,
       "name": "Forever My Love",
       "url": "https://open.spotify.com/track/7xfV7C26Jb4Ka5l4tGtXfq"
@@ -1791,7 +1831,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 244093,
       "name": "Gift to the World",
       "url": "https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S"
@@ -1809,7 +1849,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 236013,
       "name": "Hear At Last",
       "url": "https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu"
@@ -1969,7 +2009,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 294252,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
@@ -2009,7 +2049,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 273478,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/1HvQ21aHUGiuW1TVuLZmhe"
@@ -2129,7 +2169,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 247500,
       "name": "Islands In The Sea",
       "url": "https://open.spotify.com/track/7s5bLr1Wi5URSor1lkxyAN"
@@ -2572,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Make Up Your Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
+    },
+    {
+      "album": {
         "name": "Manhattan Nights",
         "url": "https://open.spotify.com/album/3Ax3p9DGGtGmOJ2kDRnpxC"
       },
@@ -2635,7 +2693,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 231773,
       "name": "Meet Me In Manhattan",
       "url": "https://open.spotify.com/track/6Is07gX8pH39ajL7PBm67R"
@@ -2733,7 +2791,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 254734,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
@@ -2833,7 +2891,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -3241,7 +3299,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 219759,
       "name": "Protest Injustice",
       "url": "https://open.spotify.com/track/1aREJJkEL35o73R4uw5w0z"
@@ -3317,7 +3375,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 249262,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
@@ -3379,7 +3437,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 243800,
       "name": "Risin' Up",
       "url": "https://open.spotify.com/track/4zSQTxz4zeplcTGeJHDueh"
@@ -3423,7 +3481,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
@@ -3771,7 +3829,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 160173,
       "name": "Soul Free",
       "url": "https://open.spotify.com/track/4biAeEqczaaw07TqaHZbe0"
@@ -3833,7 +3891,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 225812,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/4MXaiJwuGAhZXpkQv80yJE"
@@ -4159,7 +4217,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210179,
       "name": "Summertime in Nyc (Instrumental Mix)",
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
@@ -4239,7 +4297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 244440,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
@@ -4283,7 +4341,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "T's Jam",
       "url": "https://open.spotify.com/track/4Ug2IMwc2VFW41l3fUB0kY"
@@ -4483,7 +4541,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
@@ -4691,7 +4749,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 230386,
       "name": "Wait! - Smooth Jazz Mix",
       "url": "https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv"

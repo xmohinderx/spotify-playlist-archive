@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,966 likes - 77 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,137 likes - 77 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

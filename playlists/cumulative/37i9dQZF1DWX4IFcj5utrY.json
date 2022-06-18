@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=1ORIcJ3kQMmWPNTagJ5Vjw\">FKA Mash</a> and <a href=\"https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh?si=7EBaaUejTiytHa2OzLHkwA\">Sio</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=d0NksC9YS9aR_Po7SnZJYA\">Prince Kaybee</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -27,6 +27,24 @@
       "duration_ms": 345765,
       "name": "24Seven - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/2eDSiPA2s9WPQwO7KvwXWe"
+    },
+    {
+      "album": {
+        "name": "A Day in Chicago",
+        "url": "https://open.spotify.com/album/77tuhpqvVRMZi3bv1pYbHz"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "A Day in Chicago",
+      "url": "https://open.spotify.com/track/760T4l5QX8TMNrBMbkHHRL"
     },
     {
       "album": {
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 300288,
       "name": "Are You Down",
       "url": "https://open.spotify.com/track/3w7BZ8Pj1IdoQYPzL8JcdF"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 187374,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/5Bf6NG1Rt5bRKBYDEsFiSW"
@@ -1210,6 +1228,28 @@
     },
     {
       "album": {
+        "name": "Bloody Samaritan (Sun-El Musician Remix)",
+        "url": "https://open.spotify.com/album/2PxvoawD4ty9UnZhWylV0o"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202241,
+      "name": "Bloody Samaritan (Sun-El Musician Remix)",
+      "url": "https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W"
+    },
+    {
+      "album": {
         "name": "Blowing Up",
         "url": "https://open.spotify.com/album/4aWdZBz66Y8m1UE7aEuIh1"
       },
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 346475,
       "name": "Boroko - Original Guitar Mix",
       "url": "https://open.spotify.com/track/7dAXYCSJ1Uplo0XMZCG4Gl"
@@ -2242,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "Espada",
+        "url": "https://open.spotify.com/album/1r1t3pV5KjuYgeIrfecHzu"
+      },
+      "artists": [
+        {
+          "name": "Sam Mkhize",
+          "url": "https://open.spotify.com/artist/3WPfOxU57W05N5Vt6JPBvm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472293,
+      "name": "Espada",
+      "url": "https://open.spotify.com/track/607ORYzuKPofnzNMJFpkSz"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4U36pOt32ZR7wNQJgNG1Zf"
       },
@@ -2837,7 +2895,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 459661,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5QQxsUpbDunlrNxyAvykQw"
@@ -4208,6 +4266,32 @@
     },
     {
       "album": {
+        "name": "Lose My Number (Curtiba Remix)",
+        "url": "https://open.spotify.com/album/6mXeKPeQzphE7AHSLVm1tS"
+      },
+      "artists": [
+        {
+          "name": "Joe Bermudez",
+          "url": "https://open.spotify.com/artist/7mphkwym0SorytUy38iNzm"
+        },
+        {
+          "name": "Louise Carver",
+          "url": "https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "Lose My Number - Curtiba Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1AwnzbnGVUGMTy72UVjj0n"
+    },
+    {
+      "album": {
         "name": "Love Glow",
         "url": "https://open.spotify.com/album/1y42FbTxjKsgvOjdJccIsu"
       },
@@ -4289,7 +4373,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 343484,
       "name": "Maji Matamu - Main HT",
       "url": "https://open.spotify.com/track/0r3lYlCsW31s7rWcWxBY7X"
@@ -4707,7 +4791,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 447925,
       "name": "Modjadji (The Rain Queen)",
       "url": "https://open.spotify.com/track/7EhFLuhiuvcAI7a2hL4xzx"
@@ -5325,7 +5409,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 500089,
       "name": "Osingo",
       "url": "https://open.spotify.com/track/7uKlBi726EDtTNuMRWW1d0"
@@ -5862,6 +5946,40 @@
     },
     {
       "album": {
+        "name": "Say Kunkra",
+        "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Alvaro",
+          "url": "https://open.spotify.com/artist/20mCdWSz6PqFQof9gFFJ1r"
+        },
+        {
+          "name": "Oscar Mdlongwa",
+          "url": "https://open.spotify.com/artist/06NB2BJ5RyAOY7mwNFvOBr"
+        },
+        {
+          "name": "Themba Sekowe",
+          "url": "https://open.spotify.com/artist/54HFANfc3cctCXPS1R0wqF"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Say Kunkra",
+      "url": "https://open.spotify.com/track/0ENxjfCyvoGwkLXcRyiGWB"
+    },
+    {
+      "album": {
         "name": "Sbindi Uyabulala",
         "url": "https://open.spotify.com/album/3FRElwwVzIzsKRcl9RXcqC"
       },
@@ -6132,6 +6250,36 @@
     },
     {
       "album": {
+        "name": "Isintu",
+        "url": "https://open.spotify.com/album/24uLrWpa4k1mrWTD6KMB9k"
+      },
+      "artists": [
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Dr. Senzo",
+          "url": "https://open.spotify.com/artist/0P9iOgBIjr7dAtcGnpz6IE"
+        },
+        {
+          "name": "Teezy Musician",
+          "url": "https://open.spotify.com/artist/5kbgir8ZrgFXApjjfGAqYv"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373500,
+      "name": "Sikelela",
+      "url": "https://open.spotify.com/track/79DfGToCnUpDCqhNAJFgx0"
+    },
+    {
+      "album": {
         "name": "Sikelela",
         "url": "https://open.spotify.com/album/04SpeI20k9GnhCGM9mq2qM"
       },
@@ -6337,7 +6485,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 386114,
       "name": "Socotra",
       "url": "https://open.spotify.com/track/2b5xDONVmyHIY4cOO1GXU7"
@@ -7019,7 +7167,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 420473,
       "name": "Train To Work",
       "url": "https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D"
@@ -7169,10 +7317,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 361250,
       "name": "Twenty-Six - Main HT",
       "url": "https://open.spotify.com/track/3y1QbrvlzFxr3SmAO0u2gl"
+    },
+    {
+      "album": {
+        "name": "Two Monkeys",
+        "url": "https://open.spotify.com/album/3gINmRK5VytJ8OumRWoXx7"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Youngr",
+          "url": "https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "Two Monkeys",
+      "url": "https://open.spotify.com/track/2cprut9Zu20P4cs1PyzYdF"
     },
     {
       "album": {
@@ -7574,6 +7744,28 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1MPFnPHuqgkUASIVwOEvAA"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362165,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/6Yyc3cLPhSRSVk5cLye73k"
+    },
+    {
+      "album": {
         "name": "REBIRTH",
         "url": "https://open.spotify.com/album/5PH3Ws4RqDTvn3DpVudjCN"
       },
@@ -7852,6 +8044,28 @@
     },
     {
       "album": {
+        "name": "Zimbali",
+        "url": "https://open.spotify.com/album/1U0gfPWZxxwUnqW5SzHs37"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387369,
+      "name": "Zimbali",
+      "url": "https://open.spotify.com/track/4prJjAS96pnxqtRMANFALE"
+    },
+    {
+      "album": {
         "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
         "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
       },
@@ -7867,6 +8081,36 @@
       "duration_ms": 402494,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/1H77Pvcnlk1KzJKzbX0geM"
+    },
+    {
+      "album": {
+        "name": "Zulu Spear (Remixes)",
+        "url": "https://open.spotify.com/album/1vknicfYd89RcdSvY4xbYA"
+      },
+      "artists": [
+        {
+          "name": "Sonsei",
+          "url": "https://open.spotify.com/artist/56ELQ7SCaCLyO4NjffUfQl"
+        },
+        {
+          "name": "King Lee",
+          "url": "https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T"
+        },
+        {
+          "name": "Dj Vitoto",
+          "url": "https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD"
+        },
+        {
+          "name": "Eltonnick",
+          "url": "https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501660,
+      "name": "Zulu Spear - Eltonnick Remix",
+      "url": "https://open.spotify.com/track/2JwekXwpGL4LXZPC5ljSp5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY"

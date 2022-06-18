@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,859 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 20 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 |
 | 21 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 | 22 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 |
-| 23 | [I'm the One \- Remix](https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [El Taiger](https://open.spotify.com/artist/6HkNcKiG3lY6qILv7gEm4x) | [I'm the One \(Remix\)](https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL) | 2:16 |
+| 23 | [I'm the One \- Remix](https://open.spotify.com/track/3OTOuRFsNPz18mM9oor9vJ) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [I'm the One \(Remix\)](https://open.spotify.com/album/7wHphNvWeFFo4vQWMluzSL) | 2:16 |
 | 24 | [Something We Can Dance To](https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Something We Can Dance To](https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v) | 2:49 |
 | 25 | [Once Upon a Time in Mexico](https://open.spotify.com/track/2OMp5B6BUCvnH7hVlZgMZH) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Once Upon a Time in Mexico](https://open.spotify.com/album/2j7lE1XBdiQdo4T9K2z4ci) | 2:44 |
 | 26 | [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 |

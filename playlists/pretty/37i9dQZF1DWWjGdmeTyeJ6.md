@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Madeline Edwards, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,082 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,925 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 28 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 |
 | 29 | [see u](https://open.spotify.com/track/5BiIlyxCaxD6wfwJYCxcZv) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [see u](https://open.spotify.com/album/4wVugNew9PUtRxS7bliTYF) | 3:04 |
 | 30 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
-| 31 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [Kittens](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
+| 31 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 | 32 | [Ad Bird](https://open.spotify.com/track/6NBwfPDMHdEGzjDRd12NAV) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Lop Nor](https://open.spotify.com/album/7wkTPXbAI6PaE2BUZ46UR1) | 5:16 |
 | 33 | [Take You High](https://open.spotify.com/track/0gOfgG4VQl5nsvQIQbO6MM) | [Gianni Keys](https://open.spotify.com/artist/64bY4jhUqYh1B0rdkZX6Yz) | [Take You High](https://open.spotify.com/album/1OHdcouDNkxLQ0r2jmbJbg) | 3:27 |
 | 34 | [Take My Picture](https://open.spotify.com/track/41N0IYG9GNyWxHwOnApnWx) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Take My Picture](https://open.spotify.com/album/6LHXZpXfe1uSRvFdCbMOCA) | 2:32 |

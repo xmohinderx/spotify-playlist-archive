@@ -1,36 +1,68 @@
 {
   "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
-  "num_followers": 691325,
+  "num_followers": 691418,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzY2MCwwMDAwMDUyMTAwMDAwMTgxNGJjNWMwZTMwMDAwMDE4MTI1NTMyZTY2",
+  "snapshot_id": "MTY1NTQzODQ2MCwwMDAwMDUyMjAwMDAwMTgxNmZkMjQ1MGQwMDAwMDE4MTI1NTMyZTY2",
   "tracks": [
     {
-      "added_at": "2022-06-10 04:01:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Cash In Cash Out",
-        "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
+        "name": "Breathin Again",
+        "url": "https://open.spotify.com/album/48GsGBmW86j7CgeqGWGUAg"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         }
       ],
-      "duration_ms": 216135,
-      "name": "Cash In Cash Out",
-      "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+      "duration_ms": 143105,
+      "name": "Breathin Again",
+      "url": "https://open.spotify.com/track/16uowkIsA1n67JEARfNPLG"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "MORE BLACK SUPERHEROES",
+        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "Mamii",
+          "url": "https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "NONCHALANT (feat. Mamii)",
+      "url": "https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "OUTTA LINE",
+        "url": "https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "OUTTA LINE",
+      "url": "https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -97,6 +129,26 @@
       "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "CORSA",
+      "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Divine Timing",
@@ -133,6 +185,26 @@
       "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
       "added_at": "2022-06-10 04:01:00",
       "album": {
         "name": "Pose (feat. Wiz Khalifa & Curren$y)",
@@ -155,22 +227,6 @@
       "duration_ms": 204528,
       "name": "Pose (feat. Wiz Khalifa & Curren$y)",
       "url": "https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "STUCK",
-        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 217271,
-      "name": "STUCK",
-      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -353,24 +409,20 @@
       "url": "https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz"
     },
     {
-      "added_at": "2022-05-21 00:43:03",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Him (feat. Dom Kennedy)",
-        "url": "https://open.spotify.com/album/0UwgiL1GXSJKtdlmpcw8Gj"
+        "name": "Family Affair",
+        "url": "https://open.spotify.com/album/6OJIe5aPOwz1vniNG3jdum"
       },
       "artists": [
         {
-          "name": "Jayson Cash",
-          "url": "https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E"
-        },
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
         }
       ],
-      "duration_ms": 135887,
-      "name": "Him (feat. Dom Kennedy)",
-      "url": "https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ"
+      "duration_ms": 152535,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/4OKd3Kp2RvDjiOWetn963w"
     },
     {
       "added_at": "2022-05-21 00:43:03",
@@ -423,6 +475,22 @@
       "duration_ms": 154536,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/7agBfdnarV5mFCouvfIVVj"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/5KVwUYFaP5K9nB7TTl54on"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/4mudRWge7q5FXRSl5cciL3"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -573,6 +641,22 @@
       "url": "https://open.spotify.com/track/2pwKrzjIitdMlrdAnK810C"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Next Weekend",
+        "url": "https://open.spotify.com/album/42Xdb6VkU7kRBt4HbeJrrA"
+      },
+      "artists": [
+        {
+          "name": "Highway",
+          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
+        }
+      ],
+      "duration_ms": 192037,
+      "name": "Next Weekend",
+      "url": "https://open.spotify.com/track/7et2onH9uPFS3JSlMOwaqb"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Black Iverson",
@@ -621,38 +705,6 @@
       "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
     },
     {
-      "added_at": "2022-04-25 17:16:58",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "See The Difference",
-        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 178671,
-      "name": "See The Difference",
-      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
-    },
-    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Couldn't Be Me",
@@ -693,22 +745,6 @@
       "url": "https://open.spotify.com/track/72LYxJqGTHVJamtyRQohre"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Since Y'all Forgot",
-        "url": "https://open.spotify.com/album/1L4pGtxe0WwRca5z09AFeH"
-      },
-      "artists": [
-        {
-          "name": "Casey Veggies",
-          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Kick Doe Freestyle",
-      "url": "https://open.spotify.com/track/5kwE511DgVpfISjZwEXtEU"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "B's Up",
@@ -745,22 +781,6 @@
       "url": "https://open.spotify.com/track/2v2uIxyCehpH4O5SvN21dc"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Sleepy Soldier",
-        "url": "https://open.spotify.com/album/4lyr7gv3pvIvUX5QyPB68B"
-      },
-      "artists": [
-        {
-          "name": "Tanna Leone",
-          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
-        }
-      ],
-      "duration_ms": 178688,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/6VedgheUzpD7cVQD4Zy1Ge"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Dead Homies",
@@ -775,30 +795,6 @@
       "duration_ms": 172654,
       "name": "Dead Homies",
       "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
-        "url": "https://open.spotify.com/album/1dfdXCPSiNLPZ3H2MRKqTI"
-      },
-      "artists": [
-        {
-          "name": "22nd Jim",
-          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
-        },
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 123449,
-      "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
-      "url": "https://open.spotify.com/track/1abUcyBvx6mUmAQfGjq9BN"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -879,26 +875,6 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Half A Bird",
-        "url": "https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM"
-      },
-      "artists": [
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Half A Bird",
-      "url": "https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2"
     },
     {
       "added_at": "2022-03-25 05:02:22",

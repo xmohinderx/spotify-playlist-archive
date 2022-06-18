@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Monteperdido
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,705 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,679 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silla del Ikea](https://open.spotify.com/track/4XfGe9Wjhmqkd0rZ2ix0mc) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y), [Teresa Iñesta](https://open.spotify.com/artist/6s337wcPhF1hneCByfLTmH) | [Cosas Rotas](https://open.spotify.com/album/53iuSFFjQgCfLq8nLbsw8h) | 2:41 |
+| 1 | [Silla del Ikea](https://open.spotify.com/track/4XfGe9Wjhmqkd0rZ2ix0mc) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y) | [Cosas Rotas](https://open.spotify.com/album/53iuSFFjQgCfLq8nLbsw8h) | 2:41 |
 | 2 | [No lo sé](https://open.spotify.com/track/0hqlwruf69t2b6wq121Wqo) | [Sofia](https://open.spotify.com/artist/6NZ2OJirLQau7P0V6Muxnk) | [No lo sé](https://open.spotify.com/album/72N37qv2dFYPRTbeRGTg5Q) | 3:42 |
 | 3 | [lo siento :\(](https://open.spotify.com/track/20IGUq9Ns60CfneKA6P7En) | [adriana bofill](https://open.spotify.com/artist/2MS7RenkEdhtLAmdqSLmFN) | [lo siento :\(](https://open.spotify.com/album/6kySspiJzdS9relEbocUX3) | 2:32 |
 | 4 | [tan tan](https://open.spotify.com/track/3Ncwekau9qgKTj28knJz42) | [Chill Ness](https://open.spotify.com/artist/7hpfNNH5BncFFblvVC9KCo) | [tan tan](https://open.spotify.com/album/4gvALdlJASTS9vrgRhKwBQ) | 1:43 |

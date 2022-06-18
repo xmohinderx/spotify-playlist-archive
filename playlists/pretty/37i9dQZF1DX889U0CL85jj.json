@@ -1,13 +1,29 @@
 {
   "description": "Just chill...",
-  "num_followers": 2346779,
+  "num_followers": 2347189,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3MDY4MCwwMDAwMDE5NDAwMDAwMTgxNGRmYWEyMzYwMDAwMDE3MTA5YzRjYzQx",
+  "snapshot_id": "MTY1NTQ0MTUyMCwwMDAwMDE5NTAwMDAwMTgxNzAwMGY1ZTQwMDAwMDE3MTA5YzRjYzQx",
   "tracks": [
+    {
+      "added_at": "2022-06-17 04:52:00",
+      "album": {
+        "name": "y",
+        "url": "https://open.spotify.com/album/5wtvu7G1IF0xFOCGjDiJ6o"
+      },
+      "artists": [
+        {
+          "name": "Michl",
+          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "y",
+      "url": "https://open.spotify.com/track/17LSsNemcuxRjWAKJauNm4"
+    },
     {
       "added_at": "2022-06-10 14:18:00",
       "album": {
@@ -567,6 +583,22 @@
       "duration_ms": 145000,
       "name": "don't be so hard on yourself",
       "url": "https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp"
+    },
+    {
+      "added_at": "2022-06-17 04:52:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2022-06-10 14:18:00",
@@ -2535,46 +2567,6 @@
       "duration_ms": 251646,
       "name": "The City",
       "url": "https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l"
-    },
-    {
-      "added_at": "2022-06-10 14:18:00",
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M"
-      },
-      "artists": [
-        {
-          "name": "Still Haze",
-          "url": "https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z"
-        },
-        {
-          "name": "Xandra",
-          "url": "https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb"
-    },
-    {
-      "added_at": "2022-06-10 14:18:00",
-      "album": {
-        "name": "plum blossom (the edits)",
-        "url": "https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 173568,
-      "name": "i feel like chet (khai dreams edit)",
-      "url": "https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx"
     }
   ],
   "unique_name": "Chill Vibes",

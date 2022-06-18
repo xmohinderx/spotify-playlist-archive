@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Deaf Havana
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,668 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,931 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 40 | [Lake Erie Boys](https://open.spotify.com/track/4hSLqLYEbNilZYGeHRBDtX) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [Lake Erie Boys](https://open.spotify.com/album/7zWAaInkJR3QGgGabFpulV) | 3:23 |
 | 41 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
 | 42 | [Some Days](https://open.spotify.com/track/1qcoMueafkV2IySgDEJ538) | [KHARTOUM](https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM) | [Some Days](https://open.spotify.com/album/17GZeHVzKMXDD6trDZxOD7) | 2:57 |
-| 43 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
-| 44 | [Cigarette](https://open.spotify.com/track/6vEXfklgg7wRYgeTZOTWEu) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Cigarette](https://open.spotify.com/album/4Sl35EBX01v7mCIPI1eVdV) | 2:54 |
-| 45 | [Wait for It](https://open.spotify.com/track/4bKQesK2UpgrAtD9X0lkte) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Wait for It](https://open.spotify.com/album/6bmEQVXeFG9NKeuafrbdl3) | 3:02 |
-| 46 | [Bones \(Bury Me Deeply & Sweetly\)](https://open.spotify.com/track/47OFEYvHijU0nl17Xosxee) | [Johnny Stranger](https://open.spotify.com/artist/4FeP8yuBjoDKfpo8TWCMBA) | [Bones \(Bury Me Deeply & Sweetly\)](https://open.spotify.com/album/35PrWpvpzICfbG6rWhFeaF) | 4:20 |
-| 47 | [What They Need](https://open.spotify.com/track/6y4nXg0p9SNLmr2lf969Vb) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [What They Need](https://open.spotify.com/album/0VyG9GuFxGlrsWwDMrCpFG) | 3:44 |
-| 48 | [I Quit](https://open.spotify.com/track/4LBnD94J4haxNFBJ2YMY4Q) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [I Quit](https://open.spotify.com/album/6V0Z9IBoarhwzbh00dCjY7) | 4:04 |
+| 43 | [Samantha](https://open.spotify.com/track/6HzHUak0SX37OJbpTOUdoB) | [Fresh not Chill](https://open.spotify.com/artist/27haRyrBkX38HdMBqeMi7u) | [Samantha](https://open.spotify.com/album/3965BurtVRJblIYIPEXwhG) | 3:48 |
+| 44 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
+| 45 | [Cigarette](https://open.spotify.com/track/6vEXfklgg7wRYgeTZOTWEu) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Cigarette](https://open.spotify.com/album/4Sl35EBX01v7mCIPI1eVdV) | 2:54 |
+| 46 | [Wait for It](https://open.spotify.com/track/4bKQesK2UpgrAtD9X0lkte) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Wait for It](https://open.spotify.com/album/6bmEQVXeFG9NKeuafrbdl3) | 3:02 |
+| 47 | [Bones \(Bury Me Deeply & Sweetly\)](https://open.spotify.com/track/47OFEYvHijU0nl17Xosxee) | [Johnny Stranger](https://open.spotify.com/artist/4FeP8yuBjoDKfpo8TWCMBA) | [Bones \(Bury Me Deeply & Sweetly\)](https://open.spotify.com/album/35PrWpvpzICfbG6rWhFeaF) | 4:20 |
+| 48 | [What They Need](https://open.spotify.com/track/6y4nXg0p9SNLmr2lf969Vb) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [What They Need](https://open.spotify.com/album/0VyG9GuFxGlrsWwDMrCpFG) | 3:44 |
+| 49 | [I Quit](https://open.spotify.com/track/4LBnD94J4haxNFBJ2YMY4Q) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [I Quit](https://open.spotify.com/album/6V0Z9IBoarhwzbh00dCjY7) | 4:04 |
 
 Snapshot ID: `MTY1NTQxNjg2MCwwMDAwMDMxZjAwMDAwMTgxNmU4OGFlMGIwMDAwMDE4MTViZTg5NTFj`

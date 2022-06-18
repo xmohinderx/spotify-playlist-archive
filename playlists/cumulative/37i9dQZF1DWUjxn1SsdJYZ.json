@@ -3134,6 +3134,24 @@
     },
     {
       "album": {
+        "name": "Up The Score",
+        "url": "https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124542,
+      "name": "Up The Score",
+      "url": "https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp"
+    },
+    {
+      "album": {
         "name": "Very Good Very Nice",
         "url": "https://open.spotify.com/album/6a4f1rJOPr53EI3RC69Uw3"
       },

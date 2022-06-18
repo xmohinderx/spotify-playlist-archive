@@ -550,6 +550,28 @@
     },
     {
       "album": {
+        "name": "Highgrade",
+        "url": "https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        },
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197770,
+      "name": "Hips - Loraine James Remix",
+      "url": "https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI"
+    },
+    {
+      "album": {
         "name": "Honeyglaze",
         "url": "https://open.spotify.com/album/2EKzD1PtSyL1hvPlrOv4Hz"
       },
@@ -605,6 +627,24 @@
       "duration_ms": 239117,
       "name": "I Like You - Single Version",
       "url": "https://open.spotify.com/track/4klq6QOeAZjJJFX32wtTQt"
+    },
+    {
+      "album": {
+        "name": "Love Is Yours",
+        "url": "https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO"
+      },
+      "artists": [
+        {
+          "name": "Flasher",
+          "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185631,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p"
     },
     {
       "album": {

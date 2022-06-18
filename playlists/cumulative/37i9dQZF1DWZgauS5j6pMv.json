@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Cory Wong",
+  "description": "The best of today's funk. Cover: Cory Henry",
   "name": "Nu-Funk",
   "published_playlist_ids": [
     "4Ap0JqC7qn45iPx4JOt9LF"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 248834,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/6M4HWfNEezmFNO91YYWnwf"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 199199,
       "name": "Certified Juice",
       "url": "https://open.spotify.com/track/5otpV1DM4XIBHo77qnBAHd"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 284005,
       "name": "Justice",
       "url": "https://open.spotify.com/track/0gQdWh2u1RqcRCVwmzKnjo"
@@ -2169,7 +2169,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 182000,
       "name": "Misbehavin",
       "url": "https://open.spotify.com/track/5UUri9iMQ2azakPfszxSmI"
@@ -2482,6 +2482,24 @@
     },
     {
       "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR"
+      },
+      "artists": [
+        {
+          "name": "Nathan Adams",
+          "url": "https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4"
+    },
+    {
+      "album": {
         "name": "Picky",
         "url": "https://open.spotify.com/album/0Fg4s2vE0u9TOwVLWb3OVV"
       },
@@ -2667,6 +2685,28 @@
       "duration_ms": 325672,
       "name": "Sankofa Song",
       "url": "https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U"
+    },
+    {
+      "album": {
+        "name": "Say Your Name",
+        "url": "https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j"
+      },
+      "artists": [
+        {
+          "name": "Osquello",
+          "url": "https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr"
+        },
+        {
+          "name": "Akin Soul",
+          "url": "https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215764,
+      "name": "Say Your Name",
+      "url": "https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6"
     },
     {
       "album": {
@@ -3177,6 +3217,24 @@
       "duration_ms": 196039,
       "name": "Wait, I Lied",
       "url": "https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf"
+    },
+    {
+      "album": {
+        "name": "Wanna Go",
+        "url": "https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138917,
+      "name": "Wanna Go",
+      "url": "https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh"
     },
     {
       "album": {

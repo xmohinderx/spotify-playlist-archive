@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
 
-191 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+192 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Meant To Be](https://open.spotify.com/track/38L2DeWjO0JogrpCNyiJRF) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [Meant To Be](https://open.spotify.com/album/5V5h7iHklmqmGlAFIpgJiB) | 3:01 | 2021-12-16 | 2022-06-17 |
 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 | 2022-02-10 |  |
 | [MilkShake & FriES \- Demo](https://open.spotify.com/track/5T5uxgC1lWESmsXFHlXbIs) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [MilkShake & FriES \(Demo\)](https://open.spotify.com/album/0CZMcf4cXdbwL7WwlR83NW) | 2:50 | 2021-12-16 |  |
+| [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 |  |
 | [Moonlight](https://open.spotify.com/track/4rdQivUpY3faWSm98gMplo) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:46 | 2021-12-16 | 2022-02-11 |
 | [More Than Ever](https://open.spotify.com/track/3llTnIKQXVYxnLD4K7jXXv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Blossom Carefully](https://open.spotify.com/album/0jvOSPYrrocMcLui4thzZ5) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [More Than Love](https://open.spotify.com/track/71iTdpLIixnRQOgxA4KXlP) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/1zMntRNN2McM6cuN4RQM48) | 3:32 | 2022-03-10 |  |

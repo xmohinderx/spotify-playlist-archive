@@ -4,15 +4,17 @@
 
 > Django and beyond.
 
-70 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+72 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1910](https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [1910 \(Jazz manouche\)](https://open.spotify.com/album/15i4how91OvGTmat782jcF) | 4:11 | 2021-02-04 |  |
+| [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 | 2022-06-17 |  |
 | [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 |  |
 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 | 2021-02-04 |  |
 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 | 2021-05-25 |  |
 | [Billet Doux](https://open.spotify.com/track/2Zhwy8tAmEsCezzeRS2kpG) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/2SwJ4V9NB7j4RjEv7OmNDp) | 2:32 | 2021-02-04 |  |
+| [Billet doux](https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY), [César Poirier](https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d) | [Miri Chterna](https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf) | 3:44 | 2022-06-17 |  |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2021-02-04 |  |
 | [Bleu citron](https://open.spotify.com/track/17nK1tySqd7CBKsNw8gkrJ) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/1PCZPDOB0hZqOFHAFZk1jO) | 2:31 | 2021-02-04 |  |
 | [Blue Bossa](https://open.spotify.com/track/2hwBPd5VUUjUGc82z5LWyI) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7vBXUpNdxVx50E6zHDWyhX) | 3:38 | 2021-02-04 |  |

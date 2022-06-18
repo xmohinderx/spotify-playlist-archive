@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Deaf Havana
 
-1,229 songs - 2 day 22 hr 59 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,230 songs - 2 day 23 hr 3 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Sad Money](https://open.spotify.com/track/7aL34pRMvHtAy4OUdynAad) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sad Money](https://open.spotify.com/album/7ieonj2P7kslxxpJWNm7d6) | 3:10 | 2022-05-19 | 2022-05-27 |
 | [Sad White Reggae](https://open.spotify.com/track/79aKaP2BKL4N3zdc1imLr8) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 3:25 | 2022-03-24 | 2022-04-01 |
 | [Safety Net](https://open.spotify.com/track/7nPBzYE9o8OT4HG3QOec7v) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Safety Net](https://open.spotify.com/album/4uUTj3wjflOIq75naps5YY) | 2:52 | 2022-04-28 | 2022-05-06 |
+| [Samantha](https://open.spotify.com/track/6HzHUak0SX37OJbpTOUdoB) | [Fresh not Chill](https://open.spotify.com/artist/27haRyrBkX38HdMBqeMi7u) | [Samantha](https://open.spotify.com/album/3965BurtVRJblIYIPEXwhG) | 3:48 | 2022-06-16 |  |
 | [Same](https://open.spotify.com/track/7bvRiYdF3iz7MTDYC4vVWs) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Same](https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s) | 3:38 | 2022-06-16 |  |
 | [Same Blood](https://open.spotify.com/track/1V4EiZgsOg9gj2EDJHI6GG) | [Tree River](https://open.spotify.com/artist/1FLrUkEcdVbt27IZ3dnTIu) | [Time Being](https://open.spotify.com/album/5HzYG6vy70Il2eiBQqN9PJ) | 4:23 | 2022-03-31 | 2022-04-08 |
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-03 | 2022-03-11 |

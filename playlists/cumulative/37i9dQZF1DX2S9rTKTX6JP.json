@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sometimes a cover can be even better than the original. You decide. Cover: Placebo",
+  "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
   "name": "Rock Covers",
   "published_playlist_ids": [
     "6fMWxdc4tVDZLm5e3A4GlR"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/0oIdGPU9IFlYe1qag6ZHcY"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 227673,
       "name": "Addicted to Love",
       "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/7nioCrPVTkYopUB1rTvtK1"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 175203,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 155562,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/2D7Y1yPOEuJGNrSFGV14fb"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 160538,
       "name": "God's Gonna Cut You Down",
       "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 248571,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C"
@@ -1771,10 +1771,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 310333,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/0qgiFuYhYuwtFXEwYakddE"
+    },
+    {
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "album": {
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 195653,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/3RErQfC1s2idTehzBKu4Dh"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 215120,
       "name": "Love Buzz - Remastered",
       "url": "https://open.spotify.com/track/3FUsMXBxA4V7eUwQ7B0HQO"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210997,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/4WGJleSjFmH6k7MuzcDCkw"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 261216,
       "name": "Run",
       "url": "https://open.spotify.com/track/2a2X3OXuaM2DgkH9ZJpRyb"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 263716,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 188513,
       "name": "Summer In the City",
       "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
@@ -3277,7 +3295,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 168600,
       "name": "That Thing You Do!",
       "url": "https://open.spotify.com/track/4s7Nan6D8QC02ORXGM0slB"
@@ -3425,7 +3443,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 381398,
       "name": "The Pot",
       "url": "https://open.spotify.com/track/08Ys3244upKhrzRMl2EWXI"
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 321040,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
@@ -3899,7 +3917,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 206133,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"

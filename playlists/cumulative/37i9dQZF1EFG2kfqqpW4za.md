@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-56 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
+57 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 | 2022-06-04 |  |
 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 | 2022-06-04 |  |
 | [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 | 2022-06-04 |  |
+| [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 | 2022-06-17 |  |
 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Planta e Raiz no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY) | 3:58 | 2022-06-04 |  |
 | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 | 2022-06-04 |  |
 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 6:08 | 2022-06-04 |  |

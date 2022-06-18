@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Fantastic Negrito
 
-196 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+197 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 | 2022-06-03 |  |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-06-03 |  |
 | [Fire It Up](https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel) | 3:02 | 2021-03-12 | 2022-04-23 |
-| [Fireman Ring The Bell](https://open.spotify.com/track/05VTy9texeo4kNKcKG0ENe) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Fireman Ring The Bell](https://open.spotify.com/album/1s3GXdslMBVItrS4Vy47ug) | 5:28 | 2022-06-10 |  |
+| [Fireman Ring The Bell](https://open.spotify.com/track/05VTy9texeo4kNKcKG0ENe) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Fireman Ring The Bell](https://open.spotify.com/album/1s3GXdslMBVItrS4Vy47ug) | 5:28 | 2022-06-10 | 2022-06-18 |
 | [Fly Away](https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Fly Away](https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT) | 5:58 | 2022-02-25 | 2022-03-18 |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 |  |
@@ -74,6 +74,7 @@
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
 | [I Feel So Good](https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [I Feel So Good](https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd) | 3:36 | 2021-01-15 | 2022-04-23 |
 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 | 2022-06-10 |  |
+| [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 | 2022-06-17 |  |
 | [I Shall Not Be Moved](https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [I Shall Not Be Moved](https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6) | 4:19 | 2022-02-25 | 2022-04-23 |
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-06-11 |
 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 | 2021-10-22 | 2022-04-23 |

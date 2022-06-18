@@ -1,12 +1,12 @@
 {
-  "description": "Tech house technicians, featuring SIDEPIECE & Lee Foss.",
-  "num_followers": 555156,
+  "description": "Tech house technicians, featuring Green Velvet.",
+  "num_followers": 555346,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3MTg1MSwwMDAwMDEzNjAwMDAwMTgxNGUwYzgyOWMwMDAwMDE4MTFiYzkzMTlj",
+  "snapshot_id": "MTY1NTQzODQ2MCwwMDAwMDEzNzAwMDAwMTgxNmZkMjQ1MWUwMDAwMDE4MTZlNzFmOGM1",
   "tracks": [
     {
       "added_at": "2022-06-03 04:00:00",
@@ -49,6 +49,46 @@
       "url": "https://open.spotify.com/track/45InXApu4gOT5EzXwBgkKH"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Wurk",
+        "url": "https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mihalis Safras",
+          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "duration_ms": 168768,
+      "name": "Wurk",
+      "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3PW5DQY12ehLGZCGEfPzPT"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 208464,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0dwotRspwRjkNbmdJCUi3Y"
+    },
+    {
       "added_at": "2022-06-10 14:37:31",
       "album": {
         "name": "Get Down Low (Dip)",
@@ -67,6 +107,42 @@
       "duration_ms": 149406,
       "name": "Get Down Low (Dip)",
       "url": "https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/33wufg2P5EdXW0ZgBnOXgz"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/7CfBoHLHkc6J29BMlJ9ztz"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "ENDO",
+        "url": "https://open.spotify.com/album/2sokOr3xA8iHb5rnFpZw4b"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        },
+        {
+          "name": "MUUS",
+          "url": "https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "ENDO",
+      "url": "https://open.spotify.com/track/5SOVnhMqSj04EfEeF8QAPe"
     },
     {
       "added_at": "2022-06-10 14:37:31",
@@ -105,6 +181,22 @@
       "url": "https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/0EmBGefuUdwWF5wNpbpagz"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/2FFpINTrHGQLT9W3Vhc9QI"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "I Confess (feat. ROM\u00c9O)",
@@ -125,6 +217,22 @@
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Moon Groove",
+        "url": "https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "Moon Groove",
+      "url": "https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq"
+    },
+    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Chromatic",
@@ -139,6 +247,30 @@
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "My Humps (Detlef Remix)",
+        "url": "https://open.spotify.com/album/15vlNV43cYUqT8muDJvGdB"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "My Humps - Detlef Remix",
+      "url": "https://open.spotify.com/track/52PZzCdRJSuV6UZjpKhQvQ"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -179,6 +311,22 @@
       "duration_ms": 217749,
       "name": "Rizzla",
       "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "No More EP",
+        "url": "https://open.spotify.com/album/3nDJuk3iXzSd8UYAFlThCS"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0WbB2lzpZD5Up5ufK0CIyg"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -261,6 +409,22 @@
       "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Get After It",
+        "url": "https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 178837,
+      "name": "Get After It",
+      "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
+    },
+    {
       "added_at": "2022-06-10 14:37:31",
       "album": {
         "name": "Talk",
@@ -275,6 +439,26 @@
       "duration_ms": 190080,
       "name": "Talk",
       "url": "https://open.spotify.com/track/33Med8PJ0UgsZHxNKUnTyX"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Two Timer",
+        "url": "https://open.spotify.com/album/4gFFu7N92kBC35yQIMqQwA"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "NuKey",
+          "url": "https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Two Timer",
+      "url": "https://open.spotify.com/track/0xuvnY6PB5Fyw6ccWhguUU"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -335,6 +519,22 @@
       "duration_ms": 214036,
       "name": "For The Same Man - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Don\u2019t Forget To Breathe",
+        "url": "https://open.spotify.com/album/1Z3cPY7x3yBjhWlhyhbJX7"
+      },
+      "artists": [
+        {
+          "name": "Associanu",
+          "url": "https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Don\u2019t Forget To Breathe",
+      "url": "https://open.spotify.com/track/0cSXY3uBw8wuEjJeQAwOGO"
     },
     {
       "added_at": "2022-06-10 14:37:31",
@@ -403,22 +603,6 @@
       "duration_ms": 210142,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "My Demons",
-        "url": "https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        }
-      ],
-      "duration_ms": 216190,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS"
     },
     {
       "added_at": "2022-06-10 14:37:31",
@@ -611,22 +795,6 @@
       "duration_ms": 387906,
       "name": "shawty.",
       "url": "https://open.spotify.com/track/1YGOdGy4tFmKEsjRyJyMIu"
-    },
-    {
-      "added_at": "2022-03-11 18:48:28",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2022-06-10 14:37:31",
@@ -941,26 +1109,6 @@
       "url": "https://open.spotify.com/track/7vp6sra1FqF2VK6hRUPJRo"
     },
     {
-      "added_at": "2022-05-06 04:01:00",
-      "album": {
-        "name": "Showing Off",
-        "url": "https://open.spotify.com/album/0MExIpcOyxcnNhlOX1CXdr"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Cosoco",
-          "url": "https://open.spotify.com/artist/2fmd4MXfldaYkJmeuQplfL"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "Showing Off",
-      "url": "https://open.spotify.com/track/6UxQOvVfE9xfWdYotjw5xX"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "More Money Girls",
@@ -991,26 +1139,6 @@
       "duration_ms": 180031,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1139,22 +1267,6 @@
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Sideline",
-        "url": "https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Sideline",
-      "url": "https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -1325,22 +1437,6 @@
       "url": "https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM"
     },
     {
-      "added_at": "2022-04-15 15:02:33",
-      "album": {
-        "name": "The Judge",
-        "url": "https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 220966,
-      "name": "The Judge",
-      "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Give It to Me",
@@ -1491,7 +1587,7 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Thr33 6ix 5ive",
+        "name": "Thr33 6ix 5ive [365 (Thr33 6ix 5ive)]",
         "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
       },
       "artists": [
@@ -1501,7 +1597,7 @@
         }
       ],
       "duration_ms": 151283,
-      "name": "Thr33 6ix 5ive",
+      "name": "365 (Thr33 6ix 5ive)",
       "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
@@ -1603,26 +1699,6 @@
       "duration_ms": 184761,
       "name": "Love On Time",
       "url": "https://open.spotify.com/track/4ZmguSWmIYdytMJUthKIG2"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/3Cbdi0BQD0TfC1tB5BJRS2"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "BINGEWATCH",
-          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/5xSkFVN2VATZzjcvAeSaSO"
     },
     {
       "added_at": "2022-04-15 15:02:33",
@@ -1743,74 +1819,6 @@
       "duration_ms": 223450,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/7qIU50XAzFBYENwo5L5AeV"
-    },
-    {
-      "added_at": "2022-03-21 19:05:58",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 185661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        }
-      ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
-    },
-    {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 188220,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
     },
     {
       "added_at": "2022-03-25 18:51:15",

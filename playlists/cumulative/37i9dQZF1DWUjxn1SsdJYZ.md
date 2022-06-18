@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: MLBRN
 
-165 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+166 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Treble](https://open.spotify.com/track/79IieVaTMmfD79WBUODypS) | [Jteazy](https://open.spotify.com/artist/7i1xIKvHS7CGozfyGZEDlW) | [Treble](https://open.spotify.com/album/2oRToYRNaQsvPWvliGxgYU) | 2:47 | 2022-03-24 | 2022-06-17 |
 | [Troublesome](https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Troublesome](https://open.spotify.com/album/4jSEeA1ramOD61CZT7KlhW) | 3:03 | 2022-03-21 |  |
 | [U Want More Sir?](https://open.spotify.com/track/236EkzpQgRh15KqngqKarG) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/0wMJWCTt9NbJlSYhgFISDw) | 2:09 | 2022-05-05 | 2022-06-03 |
+| [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 | 2022-06-16 |  |
 | [Very Good Very Nice](https://open.spotify.com/track/59VgQMi1QU0HjIX29BsCa9) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Stee Ferrer](https://open.spotify.com/artist/7o3RhMH0YSp1pP8t3dY2X8), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Vinsins](https://open.spotify.com/artist/2KKeJajlN1qX34ckCUNnmw) | [Very Good Very Nice](https://open.spotify.com/album/6a4f1rJOPr53EI3RC69Uw3) | 2:24 | 2022-05-12 |  |
 | [Visions](https://open.spotify.com/track/1SwqVZLAsK0iIQUy00Vz4z) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:18 | 2022-03-21 | 2022-03-25 |
 | [Volume](https://open.spotify.com/track/3VS0zLSoa2ucmYCeIsA7kj) | [Kiddo](https://open.spotify.com/artist/0t3f4RCQfQLLa3WNANQYj4), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP) | [Volume](https://open.spotify.com/album/06UM7wBFSKeTmns7c7UUCV) | 2:46 | 2022-06-03 |  |

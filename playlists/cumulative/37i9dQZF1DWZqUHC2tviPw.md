@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqUHC2tviPw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqUHC2tviPw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqUHC2tviPw)
 
-### [Trap Workout](https://open.spotify.com/playlist/37i9dQZF1DWZqUHC2tviPw)
+### [Trap Workout Beats](https://open.spotify.com/playlist/37i9dQZF1DWZqUHC2tviPw)
 
 > Instrumental beats to boost your weight lifting workout.
 
-131 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+135 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,10 +39,12 @@
 | [Erupción](https://open.spotify.com/track/4yP4xQ4xpLziT9uKMZSTSr) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Erupción](https://open.spotify.com/album/6lbFFtcNaBHaQZvSAizyZ8) | 2:33 | 2022-04-22 |  |
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-11-11 |  |
 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 | 2021-11-11 |  |
+| [Eternity](https://open.spotify.com/track/1IvwJ7EdCOCHPpjN6p1Zkl) | [MOE Beats](https://open.spotify.com/artist/0LkgnZ47qj38fmsGoGCrRU) | [Eternity](https://open.spotify.com/album/10eGLIyggbHDmJmHPa7LGJ) | 3:10 | 2022-06-17 |  |
 | [Face It](https://open.spotify.com/track/4ZXF3d2gryQUhiVfNOTM56) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:59 | 2022-04-08 |  |
 | [Face Shot](https://open.spotify.com/track/4MVhRwIat6P6WrTxbnLFbZ) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Face Shot](https://open.spotify.com/album/5GU1xNaOnJlkFM5IkoSKai) | 1:49 | 2021-11-11 |  |
 | [Failed the Test](https://open.spotify.com/track/4Qp7Gjxh7G0BlVccDsS0VI) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Failed the Test](https://open.spotify.com/album/4qgKi4Q0d8uSVvf0U1KN4C) | 2:52 | 2021-11-11 |  |
 | [Fever Dreams](https://open.spotify.com/track/1uNVuaX9XHbaHO4cO75XUE) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:09 | 2021-11-11 |  |
+| [Find Your Own Way](https://open.spotify.com/track/1Sm6NMqZxCu9uKQ7rvJKs3) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Find Your Own Way](https://open.spotify.com/album/1dih45nT3fXu29empKFZrb) | 2:53 | 2022-06-17 |  |
 | [First Half](https://open.spotify.com/track/4EVDMXXJs143jposTpJjxu) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Somewhere](https://open.spotify.com/album/0WaZ8LL66jyGceZHhjeGJC) | 2:47 | 2021-11-11 |  |
 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 | 2021-11-11 |  |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-11-11 |  |
@@ -61,8 +63,10 @@
 | [Last to Leave](https://open.spotify.com/track/2775fOrLACHgsbdfJWHhYX) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:38 | 2021-11-11 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-11-11 |  |
 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 | 2022-04-22 |  |
+| [Loading](https://open.spotify.com/track/3WVicQ4glIQr9TzyfzAe97) | [Siu](https://open.spotify.com/artist/7ntLYl3u3vBksf8JJji0vp), [Ludde](https://open.spotify.com/artist/74doVqtsvgXzLMtNBzf7te) | [Loading](https://open.spotify.com/album/3hs2paejJDhVKam4LOf454) | 1:29 | 2022-06-17 |  |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2021-11-11 |  |
 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-11-11 |  |
+| [Long Way Back](https://open.spotify.com/track/01YRpfh6Tj63CB4vNvJ35J) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:39 | 2022-06-17 |  |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
 | [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 | 2022-05-13 |  |

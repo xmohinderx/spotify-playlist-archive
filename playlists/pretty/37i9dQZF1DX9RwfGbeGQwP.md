@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain](/playlists/plain/37i9dQZF1DX9RwfGbeGQwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9RwfGbeGQwP)
 
-### [Lo\-Fi Cafe](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP)
+### [lofi cafe](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP)
 
-> Chill beats for cool coffeehouse vibes.
+> chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,919 likes - 411 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,068 likes - 411 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,4 +420,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 410 | [4 AM](https://open.spotify.com/track/1e9QYfVecpOpvcmRkQEK0e) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Soul Silk](https://open.spotify.com/album/5pNYYDEA83XcuAykmfjRn9) | 2:27 |
 | 411 | [Soul Single Serenade](https://open.spotify.com/track/3PLYtvrUO5s2nzzx12DNxX) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:27 |
 
-Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDAzZjAwMDAwMTgxNmVmNWEwY2UwMDAwMDE4MTYyZTM3OGUz`
+Snapshot ID: `MTY1NTQ1ODgzMywwMDAwMDA0MDAwMDAwMTgxNzEwOTIzMDgwMDAwMDE4MTYyZTM3OGUz`

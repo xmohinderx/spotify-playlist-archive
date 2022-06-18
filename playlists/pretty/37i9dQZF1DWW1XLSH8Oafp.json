@@ -1,28 +1,64 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring VTSS",
-  "num_followers": 172328,
+  "description": "ur on the list bb \ud83e\ude90 featuring take van",
+  "num_followers": 172611,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3MjI1MiwwMDAwMDA3MDAwMDAwMTgxNGUxMjllYzMwMDAwMDE4MTIwY2U3MzEz",
+  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDA3MTAwMDAwMTgxNmZkMTVhZGYwMDAwMDE4MTZlOTRmZWI5",
   "tracks": [
     {
-      "added_at": "2022-06-03 04:01:00",
+      "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Make You Scream",
-        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+        "name": "How\u2019d You Go out Like That",
+        "url": "https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia"
       },
       "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "How\u2019d You Go out Like That",
+      "url": "https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "TDJ123",
+        "url": "https://open.spotify.com/album/2uAAN1I8OYWOMyWjBN84Jq"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "duration_ms": 261055,
+      "name": "Pushed You Away",
+      "url": "https://open.spotify.com/track/4NNgRuXULfXbj6IYVzPK64"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Joy Squad / Shellshock (VTSS & Dubyshkin Remixes)",
+        "url": "https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        },
         {
           "name": "VTSS",
           "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
         }
       ],
-      "duration_ms": 163909,
-      "name": "Make You Scream",
-      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
+      "duration_ms": 165546,
+      "name": "Joy Squad - VTSS Remix",
+      "url": "https://open.spotify.com/track/4YWa2U6mDcZgKjDG8bqZ6Q"
     },
     {
       "added_at": "2022-05-13 04:27:38",
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/7cWvWr9JTwQ4NFmvgYyNR0"
     },
     {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7"
+    },
+    {
       "added_at": "2022-06-10 14:44:12",
       "album": {
         "name": "Magic Pony Ride",
@@ -55,6 +107,26 @@
       "duration_ms": 316475,
       "name": "Turquoise Hyperfizz",
       "url": "https://open.spotify.com/track/6OKkWaaLFy3yupHMFbrmW9"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "SKYMADE",
+        "url": "https://open.spotify.com/album/7vgvhGXIYsVANa8YoBQk7w"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuroneko",
+          "url": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"
+        },
+        {
+          "name": "Nanode",
+          "url": "https://open.spotify.com/artist/6iWz2UIQJ4lwLBOo6GK4zH"
+        }
+      ],
+      "duration_ms": 242926,
+      "name": "SKYMADE",
+      "url": "https://open.spotify.com/track/50JcK5tZ2SwHUhQGW3aL0w"
     },
     {
       "added_at": "2022-06-10 14:44:12",
@@ -87,6 +159,22 @@
       "duration_ms": 139814,
       "name": "ghost",
       "url": "https://open.spotify.com/track/62ioLGu1vMLPuZB3wYvmxi"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/35eHXYp0PzTza3KUHoR7eM"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 178829,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/3SZGQebN9xqyh5cUbUD5fN"
     },
     {
       "added_at": "2022-05-13 04:27:38",
@@ -141,6 +229,22 @@
       "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Brick!",
+        "url": "https://open.spotify.com/album/3zMZWhIhYCyyIetvrYAXJV"
+      },
+      "artists": [
+        {
+          "name": "CRUSH3d",
+          "url": "https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf"
+        }
+      ],
+      "duration_ms": 351617,
+      "name": "Brick!",
+      "url": "https://open.spotify.com/track/1DFkPT7Gb7qngvv1V8EmOv"
+    },
+    {
       "added_at": "2022-06-10 14:44:12",
       "album": {
         "name": "beau.tiful**",
@@ -155,6 +259,22 @@
       "duration_ms": 124556,
       "name": "beau.tiful**",
       "url": "https://open.spotify.com/track/2oIkVbw4yq6NzknYeIRgMq"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Make You Scream",
+        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "Make You Scream",
+      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
     },
     {
       "added_at": "2022-06-10 14:44:12",
@@ -227,22 +347,6 @@
       "duration_ms": 149302,
       "name": "FINAL FANTASY",
       "url": "https://open.spotify.com/track/2219puT2YzNNVEQ784V2jt"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "reflections",
-        "url": "https://open.spotify.com/album/0QAHkq7mp8fuRljBu5U06W"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        }
-      ],
-      "duration_ms": 138818,
-      "name": "reflections",
-      "url": "https://open.spotify.com/track/2tcRtyvlr2B6sdyxPOAgmp"
     },
     {
       "added_at": "2022-06-10 14:44:12",
@@ -557,26 +661,6 @@
       "url": "https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "tokyothrift",
-        "url": "https://open.spotify.com/album/32iH6ohhmZEEx0EFLbdUxh"
-      },
-      "artists": [
-        {
-          "name": "In Explosions",
-          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
-        },
-        {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "tokyothrift",
-      "url": "https://open.spotify.com/track/6q4po5Wr42seuLqBliuZr1"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "HOLDMECLOSE",
@@ -649,22 +733,6 @@
       "url": "https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf"
     },
     {
-      "added_at": "2022-05-13 04:27:38",
-      "album": {
-        "name": "Sway (The Places She Goes)",
-        "url": "https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        }
-      ],
-      "duration_ms": 221477,
-      "name": "Sway (The Places She Goes)",
-      "url": "https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV"
-    },
-    {
       "added_at": "2022-04-01 17:18:52",
       "album": {
         "name": "Bluff",
@@ -695,22 +763,6 @@
       "duration_ms": 149887,
       "name": "dune",
       "url": "https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/6QcKSF2m6u09gNMpg4uOtZ"
-      },
-      "artists": [
-        {
-          "name": "CRUSH3d",
-          "url": "https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf"
-        }
-      ],
-      "duration_ms": 270686,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3hqwdKWk9JMxG0cnLZcyMi"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -811,26 +863,6 @@
       "duration_ms": 257232,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/2uBEgKTzyiyqn6pKY5d1Vg"
-    },
-    {
-      "added_at": "2022-05-13 04:27:38",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4LKWTGKYfgi96rJJClJRsc"
-      },
-      "artists": [
-        {
-          "name": "imylia",
-          "url": "https://open.spotify.com/artist/3yEpoErVGLX6Q12Y5RTEde"
-        },
-        {
-          "name": "Rica",
-          "url": "https://open.spotify.com/artist/5ZSvsLuGrbpd8asceH3WvU"
-        }
-      ],
-      "duration_ms": 159062,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/3JBdi9J3LJL0QEhQiPeanB"
     },
     {
       "added_at": "2022-04-22 04:14:56",
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2022-04-22 04:14:56",
       "album": {
-        "name": "sunken",
-        "url": "https://open.spotify.com/album/3iQuGVN1VKsiTE8wmv8L0k"
-      },
-      "artists": [
-        {
-          "name": "DJ Kuroneko",
-          "url": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"
-        }
-      ],
-      "duration_ms": 227003,
-      "name": "sunken",
-      "url": "https://open.spotify.com/track/5e7FFc9rvDTBzxLb1IsnIl"
-    },
-    {
-      "added_at": "2022-04-22 04:14:56",
-      "album": {
         "name": "b4 (TOKYOPILL Remix)",
         "url": "https://open.spotify.com/album/0wXE56ShI3wYMTqztiVmtl"
       },
@@ -1179,38 +1195,6 @@
       "duration_ms": 296379,
       "name": "Dreamverse",
       "url": "https://open.spotify.com/track/7DnkH5iuTImLMZo7OtsBfI"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Girls Just Want Breaks (yion-flip)",
-        "url": "https://open.spotify.com/album/1QYo6YHo7NPrVcHRiVybmo"
-      },
-      "artists": [
-        {
-          "name": "yion",
-          "url": "https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Girls Just Want Breaks (yion-flip)",
-      "url": "https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Addictive/Predictive",
-        "url": "https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Addictive/Predictive",
-      "url": "https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1345,22 +1329,6 @@
       "url": "https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22"
     },
     {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Serial Experiments PAIN",
-        "url": "https://open.spotify.com/album/3Aw7WuGG8Xff2jiCbNZpkH"
-      },
-      "artists": [
-        {
-          "name": "TOKYOPILL",
-          "url": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Cyber Psyche Green",
-      "url": "https://open.spotify.com/track/3sWCW2ea1ZP3txLxJHElTO"
-    },
-    {
       "added_at": "2022-04-01 15:15:28",
       "album": {
         "name": "JUNGLE-JUKE ////",
@@ -1375,22 +1343,6 @@
       "duration_ms": 176587,
       "name": "RINSE OUT!! 95-96",
       "url": "https://open.spotify.com/track/1lfAFyaKySiMmvG3l6aAv2"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Met Her at B\u00e4reneck",
-        "url": "https://open.spotify.com/album/2w4KfrkXCs3e55qog76HAH"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        }
-      ],
-      "duration_ms": 316224,
-      "name": "Met Her at B\u00e4reneck",
-      "url": "https://open.spotify.com/track/6zfl819Z6o63PDjVHm59PN"
     },
     {
       "added_at": "2021-10-05 01:52:17",
@@ -1425,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd"
     },
     {
-      "added_at": "2021-10-17 23:39:25",
-      "album": {
-        "name": "Time Goes By",
-        "url": "https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 121379,
-      "name": "Time Goes By",
-      "url": "https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3"
-    },
-    {
       "added_at": "2022-02-04 05:01:00",
       "album": {
         "name": "Jungle Potion",
@@ -1459,26 +1395,6 @@
       "duration_ms": 240000,
       "name": "Jungle Potion",
       "url": "https://open.spotify.com/track/2gq8ubFpoNIPKdMI2JmKeP"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "keepsake Flip",
-        "url": "https://open.spotify.com/album/3VgkcZN2LjKiKCyxdXy6hu"
-      },
-      "artists": [
-        {
-          "name": "t0ni",
-          "url": "https://open.spotify.com/artist/26r0xmNARyUapPJw2R6I5H"
-        },
-        {
-          "name": "Broosnica",
-          "url": "https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m"
-        }
-      ],
-      "duration_ms": 184727,
-      "name": "keepsake Flip",
-      "url": "https://open.spotify.com/track/6boGATmxPm6ghQRKNQj5d8"
     },
     {
       "added_at": "2022-02-18 19:49:47",
@@ -1511,22 +1427,6 @@
       "duration_ms": 176250,
       "name": "Took a Turn",
       "url": "https://open.spotify.com/track/5E6feSh5A5dgPimSNJXcST"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "#4u",
-        "url": "https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4"
-      },
-      "artists": [
-        {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        }
-      ],
-      "duration_ms": 108003,
-      "name": "#4u",
-      "url": "https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -1657,22 +1557,6 @@
       "url": "https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa"
     },
     {
-      "added_at": "2022-02-18 19:49:47",
-      "album": {
-        "name": "Irly",
-        "url": "https://open.spotify.com/album/2WUxZpVbQWjMqyc7SDQlzh"
-      },
-      "artists": [
-        {
-          "name": "Sewerslvt",
-          "url": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"
-        }
-      ],
-      "duration_ms": 338860,
-      "name": "Kawaii Razor Blades",
-      "url": "https://open.spotify.com/track/5bDol0wPoQlIgLWzP8tbkW"
-    },
-    {
       "added_at": "2022-03-07 21:22:40",
       "album": {
         "name": "COMATOSE",
@@ -1755,38 +1639,6 @@
       "duration_ms": 211410,
       "name": "Audio",
       "url": "https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "get to u",
-        "url": "https://open.spotify.com/album/21srAIuImPifkMVdYMLoNn"
-      },
-      "artists": [
-        {
-          "name": "Senses",
-          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
-        }
-      ],
-      "duration_ms": 194112,
-      "name": "get to u",
-      "url": "https://open.spotify.com/track/685i0Q50zyccJaxVM5Qu3Y"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Cute Junglists Unite",
-        "url": "https://open.spotify.com/album/038mvtK09nmcW654pSmUAh"
-      },
-      "artists": [
-        {
-          "name": "Boys Hotel",
-          "url": "https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd"
-        }
-      ],
-      "duration_ms": 238612,
-      "name": "Cute Junglists Unite",
-      "url": "https://open.spotify.com/track/6bAN460Tds1Oz4iFgNqpsc"
     },
     {
       "added_at": "2021-11-04 22:07:06",
@@ -2023,22 +1875,6 @@
       "duration_ms": 350909,
       "name": "Intersection",
       "url": "https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Gutterball",
-        "url": "https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93"
-      },
-      "artists": [
-        {
-          "name": "Maddie Jay",
-          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
-        }
-      ],
-      "duration_ms": 212189,
-      "name": "Gutterball",
-      "url": "https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS"
     }
   ],
   "unique_name": "planet rave",

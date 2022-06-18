@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: LÜCY \(Taiwan\)
 
-212 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+213 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Forgot That We're Once](https://open.spotify.com/track/3mguOTnxR0SjzKdZOwKSSZ) | [ease](https://open.spotify.com/artist/0DufYQJcuM2V7MfRShf9xY) | [Forgot That We're Once](https://open.spotify.com/album/1qeHfDPOKFX0koGq2oE7RJ) | 6:10 | 2022-06-02 |  |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-12 |  |
 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 | 2022-05-26 |  |
-| [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-05-26 |  |
+| [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-05-26 | 2022-06-18 |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-04-28 | 2022-06-10 |
 | [Giấc Mơ](https://open.spotify.com/track/4DgmIQldBtmOMAayyxc7wi) | [Những Đứa Trẻ](https://open.spotify.com/artist/3UjpgK0RqZLxsJqa4akrNn) | [Giấc Mơ](https://open.spotify.com/album/4VW4KftA5xxknjIV6PVzch) | 5:23 | 2022-05-19 |  |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-03-24 | 2022-05-12 |
@@ -97,6 +97,7 @@
 | [It Matters Until It Doesn't](https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/3GvcUP4eprG1QsfvrjoQYs) | 2:35 | 2022-05-19 |  |
 | [It's you](https://open.spotify.com/track/1eqtn2OHCJoehFkTWxXYJh) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [It's you](https://open.spotify.com/album/20dEr3UIwWLjgcTksjtBJ0) | 5:25 | 2022-06-16 |  |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-24 | 2022-04-08 |
+| [Jealousy](https://open.spotify.com/track/4mmNaX7S21cDbiOrMSSush) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:23 | 2022-06-17 |  |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-31 | 2022-05-27 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Kill Your Ego](https://open.spotify.com/track/3aBSxQLr3hBNZmkb6JxFhr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Kill Your Ego](https://open.spotify.com/album/5AOJIBmdhYFHrZKsZy8fTj) | 3:50 | 2022-06-09 | 2022-06-17 |

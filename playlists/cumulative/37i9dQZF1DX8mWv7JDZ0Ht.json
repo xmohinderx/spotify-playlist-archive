@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210773,
       "name": "Bora Se Pegar - Ao Vivo",
       "url": "https://open.spotify.com/track/6ijwpIpePgnwSAON00jDpf"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 212740,
       "name": "Carta pro Futuro",
       "url": "https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn"
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Doideira",
+        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Doideira",
+      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
+    },
+    {
+      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -871,6 +889,28 @@
       "duration_ms": 189965,
       "name": "Ent\u00e3o Volta",
       "url": "https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy"
+    },
+    {
+      "album": {
+        "name": "Eu e Eu Mesmo",
+        "url": "https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Eu e Eu Mesmo",
+      "url": "https://open.spotify.com/track/4U4KZ4I0Hcvfc5UpoWVnoA"
     },
     {
       "album": {
@@ -1630,7 +1670,7 @@
     },
     {
       "album": {
-        "name": "Hodari",
+        "name": "HODARI",
         "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
       },
       "artists": [

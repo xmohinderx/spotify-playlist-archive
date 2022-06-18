@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,536 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,603 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [派偉俊](https://open.spotify.com/artist/0EOvZlETNRyISyvJdJjTwA) | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx) | 2:52 |
+| 1 | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx) | 2:52 |
 | 2 | [演算法](https://open.spotify.com/track/7as27DSfspb7LHRWAp1Vz0) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [演算法](https://open.spotify.com/album/5Hw44nHiOlLRueHKgnp74i) | 4:19 |
 | 3 | [I Love U So](https://open.spotify.com/track/6vdEahxBwLid3eXOQXYGow) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [UU&U](https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr) | 3:35 |
 | 4 | [她總是](https://open.spotify.com/track/4pe1L6Aqzcb1N2igoamraU) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [她總是](https://open.spotify.com/album/5D1dqzz6sPsDZocpUuqcDI) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [專屬天使](https://open.spotify.com/track/5dDHCutM1wE6BsuOh8hYit) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [專屬天使](https://open.spotify.com/album/2GRc9GiWNpRohx8L5O34Xg) | 3:56 |
 | 60 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 
-Snapshot ID: `MTY1NTQyNzk1OSwwMDAwMDAwMGI5MmFiM2UwZGEwYjVjMTE0YzViZjM3NDBjZThiMWQ2`
+Snapshot ID: `MTY1NTUxNDUxMiwwMDAwMDAwMGI5MmFiM2UwZGEwYjVjMTE0YzViZjM3NDBjZThiMWQ2`

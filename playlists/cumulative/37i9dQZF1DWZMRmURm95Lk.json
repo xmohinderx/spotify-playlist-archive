@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 185142,
       "name": "17:00",
       "url": "https://open.spotify.com/track/17kAQXRqK1uf6l7atW5Xcl"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 186932,
       "name": "Ardito Desio",
       "url": "https://open.spotify.com/track/65Bp7VWNGe672txTWvsm7Z"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 223781,
       "name": "Barcelona Cypher",
       "url": "https://open.spotify.com/track/1GloyaBoomXF9zLYIlXZse"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 176103,
       "name": "Blood Nero",
       "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Che nessuno si muova",
       "url": "https://open.spotify.com/track/58DcYPv6jTVD6BeYsiPfSn"
@@ -513,10 +513,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 283480,
       "name": "Chi More Pe' Mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "album": {
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 277826,
       "name": "Cose Preziose (Variante Di Lunenberg)",
       "url": "https://open.spotify.com/track/6PBzZemhzprhiICec7dDjh"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 167040,
       "name": "Dalla A Alla Zeta",
       "url": "https://open.spotify.com/track/3Aq2V5lm5dV9z8qwiXByRb"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 162000,
       "name": "Dicembre",
       "url": "https://open.spotify.com/track/2WMHW2QFllDvd4cnHGOLRS"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 260183,
       "name": "Dio lodato per sta chanche",
       "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 170468,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/4RvLzfh3Gop3qIkltf8iH5"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 145185,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/16s0KUnRyx1pYGhIuDdYhJ"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 174352,
       "name": "Fondo il Metallo",
       "url": "https://open.spotify.com/track/0ZejzvevyBEvbQBdbQKUfg"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 236600,
       "name": "Fuori di qua - 2022 Remastered",
       "url": "https://open.spotify.com/track/3M1k8jBtXbbx7Mpuy4hyuR"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 311000,
       "name": "Ghettoblaster",
       "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 275920,
       "name": "Grande",
       "url": "https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 238773,
       "name": "Il 6\u00b0 Senso",
       "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 218500,
       "name": "Il mare",
       "url": "https://open.spotify.com/track/3EJYbCaCVlBp5NyJA4hpNb"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 293101,
       "name": "La Fenice (Remix)",
       "url": "https://open.spotify.com/track/5iLh8ierAnT0KbtLuan1KZ"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 207609,
       "name": "La maggior parte",
       "url": "https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 391960,
       "name": "La porra",
       "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 183243,
       "name": "Loto Blu",
       "url": "https://open.spotify.com/track/4Guaa0YufciQJUqGz6w2ar"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 296093,
       "name": "Meglio Che Scendi",
       "url": "https://open.spotify.com/track/4F5UX1kX9hmqe88NPwl36v"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 209299,
       "name": "Milano violenta",
       "url": "https://open.spotify.com/track/0UN82WoDGoxaSP2VDWz7qy"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 201066,
       "name": "Ne Parlero' Con Te",
       "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 93733,
       "name": "Nocche Dure",
       "url": "https://open.spotify.com/track/7fdwQk6qjUlIKuVT7AABMz"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 184076,
       "name": "NON CI PENSO PI\u00d9",
       "url": "https://open.spotify.com/track/5pAO5DhohzSh9EPOk28Ukc"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 212413,
       "name": "Non lo so",
       "url": "https://open.spotify.com/track/0VxcCZHIqqtJNTiHra0Y5X"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 232986,
       "name": "Non Mi Avrete Mai",
       "url": "https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 203500,
       "name": "Non mi scordo",
       "url": "https://open.spotify.com/track/0baPcSrQYRF1F6FjEAijW8"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 270293,
       "name": "Non Piove",
       "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 236000,
       "name": "Obscurus",
       "url": "https://open.spotify.com/track/6sZVjdvVh5Q1ZLfyT2t5wn"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 165600,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
@@ -2425,7 +2443,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 214588,
       "name": "PIAZZA DELLA STAZIONE",
       "url": "https://open.spotify.com/track/1Km9eE7oAaR3HVh6wrvzIr"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 216666,
       "name": "PICCOLI PEZZI DI INFERNO",
       "url": "https://open.spotify.com/track/1xRhCgDc6kb1v3ybsSEtsc"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 219700,
       "name": "Polvere da sparo",
       "url": "https://open.spotify.com/track/3rEnon0Wk8GLUJn0MX0iZm"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 134463,
       "name": "Portami con Te.",
       "url": "https://open.spotify.com/track/1WWAYAfHPrtxCgllHjZEdm"
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 247600,
       "name": "Quando un giorno tornerai",
       "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 259586,
       "name": "Quanno Me Ne So Juto",
       "url": "https://open.spotify.com/track/01xAgup1dgjF4nIDl8jy2p"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 183666,
       "name": "Rebel Music",
       "url": "https://open.spotify.com/track/1uPf77eVV8z46Kh9HZ5cFG"
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 134500,
       "name": "Ryu",
       "url": "https://open.spotify.com/track/56zCxjH8soCooVLyqk4W0Z"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 473322,
       "name": "S.U.N.S.H.I.N.E.",
       "url": "https://open.spotify.com/track/3fdeucUkkQFNVbce7rTsW1"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 217865,
       "name": "SFIGA",
       "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 192530,
       "name": "Sound Fi Dead",
       "url": "https://open.spotify.com/track/2uACaAvI5voYrCcqmZEK7D"
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 186500,
       "name": "ST4RS (feat. Inoki & Murubutu)",
       "url": "https://open.spotify.com/track/79rfaiyxoVAii4tnPVS7lP"
@@ -3315,7 +3333,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 185611,
       "name": "STO STRONG (feat. Samuel)",
       "url": "https://open.spotify.com/track/7x8brAzCjrpTics8EEgm4V"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 205026,
       "name": "Sulla Giostra",
       "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
@@ -3393,7 +3411,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 288000,
       "name": "Suono Sporco - Reloaded Version",
       "url": "https://open.spotify.com/track/79OhZiDrjejbJdXr1W1wcI"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 244600,
       "name": "Tajerino",
       "url": "https://open.spotify.com/track/0mLl4prCLzjJxsEsivHh2s"
@@ -3441,7 +3459,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 197100,
       "name": "Tergicristalli",
       "url": "https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB"
@@ -3463,7 +3481,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 187617,
       "name": "Terra Bianca",
       "url": "https://open.spotify.com/track/5Yi6J5TE7A7l0rgi455M8Q"
@@ -3745,7 +3763,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 187317,
       "name": "Wanda Ferragamo",
       "url": "https://open.spotify.com/track/3h4a2LkA3ahq2x7uv3ZZ1c"
@@ -3775,6 +3793,28 @@
       "duration_ms": 203544,
       "name": "WELCOME BACK (feat. Raekwon)",
       "url": "https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v"
+    },
+    {
+      "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130593,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk"

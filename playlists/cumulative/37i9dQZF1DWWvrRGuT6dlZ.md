@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: shazza\. Artwork: Isu Kim.
 
-218 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+219 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [mosquitos in my room](https://open.spotify.com/track/0EjlC2TKUDCz0SuIkkP88Q) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [mosquitos in my room](https://open.spotify.com/album/5wn5LHru9YcPYVpZRdLumA) | 3:26 | 2022-04-14 |  |
 | [Move On](https://open.spotify.com/track/2CQSOR6ETLKlsfjfMS1rNn) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Things I Wished I'd Said](https://open.spotify.com/album/62UiCtWlr8X5sDkIFKiaE8) | 3:35 | 2021-12-01 | 2022-01-14 |
 | [My World Too](https://open.spotify.com/track/6v4Y98Y5nhelVwwjB0Xdbk) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [My World Too](https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz) | 3:18 | 2022-01-13 | 2022-03-11 |
+| [Mysterious Interstellar Matter](https://open.spotify.com/track/2xlHbvu2g7YoGWGBMlr9rJ) | [Ky Den](https://open.spotify.com/artist/2LUQt3IqImFyupLVTie3Tk) | [Mysterious Interstellar Matter](https://open.spotify.com/album/680W5rwNNlx6ge7lItGcSt) | 2:11 | 2022-06-17 |  |
 | [NAME DROP](https://open.spotify.com/track/06O9EQlQASt3khh9PrtVjZ) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS), [ZIONN](https://open.spotify.com/artist/5kEEpbGzmLPGYFm4gV7aYG) | [NAME DROP](https://open.spotify.com/album/6upXb5Huje6z6GXO58C71V) | 2:48 | 2021-12-01 | 2022-01-14 |
 | [NEVER](https://open.spotify.com/track/7xPZnlty5gBy92kgqGtX6u) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [NEVER](https://open.spotify.com/album/3CQ13wZmKgdNIHe4aS0qm5) | 3:14 | 2022-03-10 | 2022-06-17 |
 | [Next To You \- Karazey Remix](https://open.spotify.com/track/0stQ4u3sU52yaD8BqwkAgk) | [Monoriff](https://open.spotify.com/artist/36uQyCP3IOQkRwL5AU8jnB), [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf) | [Next To You \(Karazey Remix\)](https://open.spotify.com/album/25mMcTUrDf5hzIhMAadvXs) | 3:16 | 2022-01-27 | 2022-06-17 |

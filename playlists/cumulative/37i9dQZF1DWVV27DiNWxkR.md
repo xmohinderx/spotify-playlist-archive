@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist.
 
-208 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+210 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,10 +31,11 @@
 | [boy with the winfields and the wild heart](https://open.spotify.com/track/3wtgAhO0Jo2MDdpwlJEOSg) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [boy with the winfields and the wild heart](https://open.spotify.com/album/1Ohy7yiJ2mhcrsNd335h9p) | 4:13 | 2020-01-17 | 2022-05-21 |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2020-08-30 | 2020-09-11 |
 | [California \(Prius Edition\)](https://open.spotify.com/track/4mvOKMtq3o1q5U2N5SEcm0) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [California \(Prius Edition\)](https://open.spotify.com/album/0MaHBBTjUCxim3SEo4xs61) | 3:58 | 2020-05-01 | 2022-04-10 |
+| [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-06-17 |  |
 | [Cavalier](https://open.spotify.com/track/3h6RD7RYENDIb3qB9Bw4OB) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/2bX5umInKftnekEm6qM0SO) | 4:43 | 2019-09-29\* |  |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-05-02 |  |
 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 | 2019-11-23 |  |
-| [circle the drain](https://open.spotify.com/track/5Fxqn2kr6NBio3EDfaMi45) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [circle the drain](https://open.spotify.com/album/728chZ1Mu69fH291jrctJ5) | 4:40 | 2020-01-18 |  |
+| [circle the drain](https://open.spotify.com/track/5Fxqn2kr6NBio3EDfaMi45) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [circle the drain](https://open.spotify.com/album/728chZ1Mu69fH291jrctJ5) | 4:40 | 2020-01-18 | 2022-06-18 |
 | [Claudion](https://open.spotify.com/track/6pxONgR0fKIYToNDZ0QdCp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Claudion](https://open.spotify.com/album/56QvUgrueWipXDiX61qZCR) | 4:27 | 2019-09-29\* | 2020-01-17 |
 | [cold/mess](https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold / mess](https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM) | 4:41 | 2020-01-18 | 2022-04-10 |
 | [Concrete and Sand](https://open.spotify.com/track/4vkPlw019TRBdV0aPsTz4E) | [JumpCircus](https://open.spotify.com/artist/7d9bjvv9XpbR6qewAWcP4v), [Kita Klane](https://open.spotify.com/artist/0Tlkht07qHq3A0QeI3TerA) | [Concrete and Sand](https://open.spotify.com/album/35W96deAET0orM2AjFOdgG) | 4:05 | 2019-09-29\* | 2020-01-17 |
@@ -61,6 +62,7 @@
 | [Furious](https://open.spotify.com/track/78XTKnmE1zQSwvholRJb31) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Furious](https://open.spotify.com/album/3T9Bo1irL6Aye8vk1dZ1JY) | 3:39 | 2019-09-29\* | 2020-11-17 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2020-03-07 | 2020-10-15 |
 | [Ghost Town](https://open.spotify.com/track/4GNcXcBJWF5oA89tB4PxOk) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black And The Blue](https://open.spotify.com/album/5XkXJAOxHjc9Eo3DYG5OR5) | 4:47 | 2019-09-29\* |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 |  |
 | [Godmanchester Chinese Bridge \- Radio Edit](https://open.spotify.com/track/10wKg1j4Mzfj9QQAy3TpJ1) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Godmanchester Chinese Bridge \(Radio Edit\)](https://open.spotify.com/album/0jZoVMH87VjQnZTIImm9L4) | 3:16 | 2019-09-29\* | 2022-05-03 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2020-10-14 |  |
 | [Going Going](https://open.spotify.com/track/0dldlUYSn1gQTTU6aY6L7U) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [About Today](https://open.spotify.com/album/2UN2slTOxJlWQiTGtcenLD) | 4:18 | 2020-08-11 | 2020-10-15 |
@@ -129,7 +131,7 @@
 | [Paper Thin](https://open.spotify.com/track/65JyCv3jVXSpkGaVyIMnbw) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 4:58 | 2020-10-14 |  |
 | [Paradis Perdus](https://open.spotify.com/track/7tVQihtECJIEpQX0osLRwo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:35 | 2019-09-29\* | 2022-05-21 |
 | [parties](https://open.spotify.com/track/0IhH5cuZdOg3eELZe4yVtk) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [parties](https://open.spotify.com/album/1ttmwVJTn3ZRVLKoUzSVJm) | 3:30 | 2019-09-29\* | 2022-04-10 |
-| [Patricia](https://open.spotify.com/track/2mk1lFzxG6TDKEh4s2ICW6) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Patricia](https://open.spotify.com/album/1kC28hf2isOaIvIDJawZ8k) | 3:51 | 2022-05-20 |  |
+| [Patricia](https://open.spotify.com/track/2mk1lFzxG6TDKEh4s2ICW6) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Patricia](https://open.spotify.com/album/1kC28hf2isOaIvIDJawZ8k) | 3:51 | 2022-05-20 | 2022-06-18 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-02-14 |  |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2019-09-29\* | 2020-10-15 |
 | [Persona Non Grata](https://open.spotify.com/track/0itutKZrGEzQtFWJp4xoUK) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Persona Non Grata](https://open.spotify.com/album/4KDfRBLtCz3ts1PCLf3E28) | 3:32 | 2020-03-25 | 2022-05-26 |

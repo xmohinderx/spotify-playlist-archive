@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: O Grilo, Daparte",
+  "description": "Novidades e destaques do indie nacional. Foto: saudade, Lorena Chaves",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -305,6 +305,24 @@
       "duration_ms": 116180,
       "name": "Antes de Me Deixar",
       "url": "https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs"
+    },
+    {
+      "album": {
+        "name": "zera",
+        "url": "https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU"
+      },
+      "artists": [
+        {
+          "name": "gorduratrans",
+          "url": "https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261183,
+      "name": "ar\u00e3o",
+      "url": "https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9"
     },
     {
       "album": {
@@ -1290,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
+    },
+    {
+      "album": {
         "name": "Feito pra Durar",
         "url": "https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU"
       },
@@ -1809,7 +1845,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 124000,
       "name": "me encontra l\u00e1 :)",
       "url": "https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf"
@@ -2228,6 +2264,28 @@
     },
     {
       "album": {
+        "name": "o caminho que h\u00e1 em mim",
+        "url": "https://open.spotify.com/album/4XfDE3WGVWVmALbfNWkfoi"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        },
+        {
+          "name": "Lorena Chaves",
+          "url": "https://open.spotify.com/artist/6xYIkRmqYk6u2mDSfetr31"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174642,
+      "name": "o caminho que h\u00e1 em mim",
+      "url": "https://open.spotify.com/track/2HEu3ht1zRZTxQF6y26fmd"
+    },
+    {
+      "album": {
         "name": "O Limbo do Menino Sem Olhos",
         "url": "https://open.spotify.com/album/5Rj9CtWNQiVUYWOiAYInTG"
       },
@@ -2583,7 +2641,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 186250,
       "name": "Pra Curar",
       "url": "https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx"
@@ -3457,7 +3515,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 156156,
       "name": "Todo Dia",
       "url": "https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh"

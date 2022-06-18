@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-53 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6P7FK7KxB0YRgwehaVREy9)
+54 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6P7FK7KxB0YRgwehaVREy9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2021-11-09 |  |
 | [Gymnopédie No\. 3](https://open.spotify.com/track/0hZBK2IS2uKdWVwEWXX1vB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Erik Satie & Friends](https://open.spotify.com/album/32kkHw8GnItrzLQ1qwupbJ) | 2:55 | 2021-11-09 |  |
 | [Handel / Orch\. Hale: Keyboard Suite No\. 4 in D Minor, HWV 437: III\. Sarabande](https://open.spotify.com/track/1upQiytDIEZfl9ItruoXuC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Alexander Briger](https://open.spotify.com/artist/6bk0YPhJSL44WBtoGe4GI6), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Handel Sarabande](https://open.spotify.com/album/657D9POYWMrDMK9MWNxPHL) | 3:27 | 2021-11-09 |  |
+| [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [Mondëna Quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 | 2022-06-17 |  |
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 | 2021-11-09 |  |
 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 | 2021-11-09 |  |
 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/1VsxTA8He1KckavTf8fNlh) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/1ejEKPKa3o0Y05f9hRFQWL) | 1:13 | 2021-11-09 |  |

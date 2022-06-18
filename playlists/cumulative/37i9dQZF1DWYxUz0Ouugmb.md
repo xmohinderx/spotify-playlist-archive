@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Idgitaf
 
-94 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+95 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Kebal Kelaran](https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz) | 4:29 | 2021-11-25 | 2022-03-25 |
 | [Kebal Kelaran](https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5) | 4:34 | 2021-11-25 | 2022-03-25 |
 | [Kelangan](https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kelangan](https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO) | 4:54 | 2021-11-25 | 2022-03-25 |
+| [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-16 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 | 2022-03-25 |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 |  |

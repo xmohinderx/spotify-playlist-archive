@@ -16286,6 +16286,24 @@
     },
     {
       "album": {
+        "name": "Samantha",
+        "url": "https://open.spotify.com/album/3965BurtVRJblIYIPEXwhG"
+      },
+      "artists": [
+        {
+          "name": "Fresh not Chill",
+          "url": "https://open.spotify.com/artist/27haRyrBkX38HdMBqeMi7u"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Samantha",
+      "url": "https://open.spotify.com/track/6HzHUak0SX37OJbpTOUdoB"
+    },
+    {
+      "album": {
         "name": "Same",
         "url": "https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s"
       },

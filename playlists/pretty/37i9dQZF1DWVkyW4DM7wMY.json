@@ -1,18 +1,18 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7180,
+  "num_followers": 7181,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDIwMzU0MCwwMDAwMDA1YTAwMDAwMTgxMjYzNmUyOTgwMDAwMDE4MTIwNTgyNDE0",
+  "snapshot_id": "MTY1NTQ1Nzk0OCwwMDAwMDA1YjAwMDAwMTgxNzBmYmE0MGIwMDAwMDE4MTcwNDkzM2Jj",
   "tracks": [
     {
-      "added_at": "2022-06-02 20:59:00",
+      "added_at": "2022-06-17 09:25:48",
       "album": {
-        "name": "The Yeah Yeah",
-        "url": "https://open.spotify.com/album/3CYD922quLZEwzqvSokO0I"
+        "name": "Curtains",
+        "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
         }
       ],
-      "duration_ms": 139041,
-      "name": "The Yeah Yeah",
-      "url": "https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe"
+      "duration_ms": 110000,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -193,10 +193,10 @@
       "url": "https://open.spotify.com/track/2d2ogRrGa1wLEkRXiUwB7a"
     },
     {
-      "added_at": "2022-04-25 05:46:14",
+      "added_at": "2022-06-02 20:59:00",
       "album": {
-        "name": "FUNK TO BLACK",
-        "url": "https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki"
+        "name": "The Yeah Yeah",
+        "url": "https://open.spotify.com/album/3CYD922quLZEwzqvSokO0I"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
         }
       ],
-      "duration_ms": 143826,
-      "name": "Funk To Black",
-      "url": "https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3"
+      "duration_ms": 139041,
+      "name": "The Yeah Yeah",
+      "url": "https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe"
     },
     {
       "added_at": "2022-03-10 20:59:00",

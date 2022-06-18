@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 190172,
       "name": "Blue & Lemonade (Feat. Choi Cello)",
       "url": "https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 230440,
       "name": "bugAboo",
       "url": "https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny"
@@ -652,6 +652,24 @@
     },
     {
       "album": {
+        "name": "DOOMCHITA",
+        "url": "https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "DOOMCHITA",
+      "url": "https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN"
+    },
+    {
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 182197,
       "name": "Gone (feat. Loco)(prod. \uc131\uad6d)",
       "url": "https://open.spotify.com/track/4IvttuPCmhLXFoYg2DhWH2"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 179680,
       "name": "i (Feat. DON MALIK)",
       "url": "https://open.spotify.com/track/7IphAtdrtngWKPWRRHmDtC"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 174386,
       "name": "LOVE ME LIKE",
       "url": "https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 185000,
       "name": "Love, Maybe",
       "url": "https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD"
@@ -1620,6 +1638,60 @@
     },
     {
       "album": {
+        "name": "Story Written in Music",
+        "url": "https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "PLAY DUMB",
+      "url": "https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m"
+    },
+    {
+      "album": {
+        "name": "Love Is Over",
+        "url": "https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj"
+      },
+      "artists": [
+        {
+          "name": "Acy blu",
+          "url": "https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "Please Don\u2032t Save Me",
+      "url": "https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd"
+    },
+    {
+      "album": {
+        "name": "POP",
+        "url": "https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1"
+      },
+      "artists": [
+        {
+          "name": "bugAboo",
+          "url": "https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8"
+    },
+    {
+      "album": {
         "name": "POWER OF LOVE",
         "url": "https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs"
       },
@@ -1685,7 +1757,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 198333,
       "name": "RE=LOAD",
       "url": "https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k"
@@ -2069,7 +2141,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 189693,
       "name": "The Little Name",
       "url": "https://open.spotify.com/track/5tdzH8IkV62pyL1BHXrfmv"
@@ -2148,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Trouble? TRAVEL!",
+        "url": "https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233546,
+      "name": "Trouble? TRAVEL!",
+      "url": "https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52"
+    },
+    {
+      "album": {
         "name": "UNBELIEVABLE",
         "url": "https://open.spotify.com/album/5D3Qk2qFw5pM6E2uCZ15Ke"
       },
@@ -2217,6 +2307,24 @@
       "duration_ms": 181973,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY"
+    },
+    {
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/6kp9dsLnll5WEiBlBUwBME"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/5Doeu3aSa5tBHayCx0EbHa"
     },
     {
       "album": {
@@ -2307,7 +2415,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 196250,
       "name": "Why",
       "url": "https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66"

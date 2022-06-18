@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 193178,
       "name": "Andamos Jalando",
       "url": "https://open.spotify.com/track/3n2Mi1lylLqP9GddDV7R9a"
@@ -1252,6 +1252,32 @@
     },
     {
       "album": {
+        "name": "Fact Check",
+        "url": "https://open.spotify.com/album/5Li2FGFEnUGoDu3hx7pSbL"
+      },
+      "artists": [
+        {
+          "name": "SUPI\u010cI\u0106",
+          "url": "https://open.spotify.com/artist/6nmMdJBINPKVDb4kCCbQyU"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Trainer",
+          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211114,
+      "name": "Fact Check",
+      "url": "https://open.spotify.com/track/4X1ihd94KGVZQiSu1Xct0Z"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -2055,7 +2081,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 260874,
       "name": "Na' de Na'",
       "url": "https://open.spotify.com/track/6FITNlNL1WhOxdLKomRn1P"
@@ -2969,6 +2995,44 @@
       "duration_ms": 241655,
       "name": "Sin Drama",
       "url": "https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6"
+    },
+    {
+      "album": {
+        "name": "Sin Rap No Hay Vida",
+        "url": "https://open.spotify.com/album/2q98m8YtkJMX0fw7BeoOHt"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        },
+        {
+          "name": "Son Doobie",
+          "url": "https://open.spotify.com/artist/0AQidAQ712Y0M7bDBVg8mz"
+        },
+        {
+          "name": "Mexakinz",
+          "url": "https://open.spotify.com/artist/4cAxfReUD8tNEmcn90MFwG"
+        },
+        {
+          "name": "Tocadiscos Trez",
+          "url": "https://open.spotify.com/artist/3DM2vfPkMCsjFPvHXZgdSv"
+        },
+        {
+          "name": "Nemesis HCP",
+          "url": "https://open.spotify.com/artist/1bGhJsDUmZ2dw3004CcXig"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265617,
+      "name": "Sin Rap No Hay Vida",
+      "url": "https://open.spotify.com/track/3dKrmQJqytKDhScy0KlVut"
     },
     {
       "album": {

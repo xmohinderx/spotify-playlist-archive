@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
 
-67 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
+68 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-08 |  |
 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 | 2022-04-08 |  |
 | [Music, Music Everywhere!](https://open.spotify.com/track/0Iks9tSmrtVI8kOnMrfmve) | [Jake Gyllenhaal](https://open.spotify.com/artist/2bwGbnyOkPVvEkIH5ePcLa), [John Mulaney](https://open.spotify.com/artist/5K6CrtQfpRipgTDZbaSj7k), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/6voftk1KiRATintCChjvrW) | 5:17 | 2022-04-08 |  |
+| [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ) | 2:36 | 2022-06-17 |  |
 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 | 2022-04-08 |  |
 | [Now or Never \(feat\. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada\)](https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Charlie Gillespie](https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz), [Owen Patrick Joyner](https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa), [Jeremy Shada](https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:04 | 2022-04-08 |  |
 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 | 2022-04-08 |  |

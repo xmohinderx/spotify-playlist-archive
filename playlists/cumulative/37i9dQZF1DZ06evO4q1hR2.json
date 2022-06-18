@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 187266,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 179440,
       "name": "Aunque Nos Duela",
       "url": "https://open.spotify.com/track/2m95cnnwmIf7clpJ6dkXui"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 177520,
       "name": "Conc\u00e9deme",
       "url": "https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 188440,
       "name": "Cuando Regreso A Tus Brazos",
       "url": "https://open.spotify.com/track/4ZTSCkYVhnaxiKDkGvl3kN"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 175626,
       "name": "El Compita",
       "url": "https://open.spotify.com/track/7b1gkLFxPWmS70024k2Okq"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 160066,
       "name": "Esta Tristeza M\u00eda",
       "url": "https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY"
@@ -581,6 +581,24 @@
       "duration_ms": 216586,
       "name": "La Manuelita",
       "url": "https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR"
+    },
+    {
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157988,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk"
     },
     {
       "album": {
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 194853,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/2J3BdzcJlWoH5JqL4jxuMY"

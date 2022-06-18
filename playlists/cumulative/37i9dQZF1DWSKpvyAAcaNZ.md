@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Fantastic Negrito
 
-167 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+169 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-06-03 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 |  |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 |  |
-| [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-12-17 |  |
+| [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-12-17 | 2022-06-18 |
 | [Better Feeln' Better Days](https://open.spotify.com/track/3zkdaLqbeTXcIyJnMAwA35) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 3:43 | 2021-12-17 | 2022-06-04 |
 | [Better Way](https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn) | [Kim Logan](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Better Way](https://open.spotify.com/album/1Q3V2eobeVSrN3CQP78sWK) | 4:04 | 2021-12-17 |  |
 | [Black Crow](https://open.spotify.com/track/6f8wMPrnGpIF6qU6afkOIZ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Black Crow](https://open.spotify.com/album/3tLk6wfBk0xHptDaImOv8Y) | 4:30 | 2021-12-17 |  |
@@ -139,6 +139,7 @@
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-12-17 |  |
 | [Stand For Myself](https://open.spotify.com/track/1S8NRzYfxtEDce2hEI80af) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz) | 4:13 | 2021-12-17 |  |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-12-17 |  |
+| [Struggle](https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S) | [Lovers And Fools, Vol\. 2](https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6) | 4:40 | 2022-06-17 |  |
 | [Sun Sets West](https://open.spotify.com/track/0n7jSBubaAhWeUc8yv2FYC) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:28 | 2021-12-17 |  |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-12-17 |  |
 | [The 28th of January \- Electric](https://open.spotify.com/track/1TRVXcgvTlP1eBSklgawRS) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:46 | 2021-12-17 |  |
@@ -155,13 +156,14 @@
 | [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 |  |
 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 | 2021-12-17 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6290tINYizQ2bc3QF6p8gA) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Twinkle Twinkle](https://open.spotify.com/album/4PqwdolF10E6xogoo5OeKT) | 3:31 | 2021-12-17 |  |
-| [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 | 2021-12-17 |  |
+| [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 | 2021-12-17 | 2022-06-18 |
 | [Uh Huh](https://open.spotify.com/track/6UQkKezR70jMXymMJgRcOz) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Uh Huh](https://open.spotify.com/album/4TPh9MRbmnPMv0KXYypM5D) | 2:22 | 2021-12-17 |  |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 |  |
 | [Under the Sun](https://open.spotify.com/track/1GQ7M3b1B4Dt9lMjoBOGcl) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:52 | 2021-12-17 |  |
 | [Vagabond](https://open.spotify.com/track/0p0LA0XkXLfDeQGDFsT5Uz) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/1VNkd6veezStoL9TQp20PP) | 3:37 | 2021-12-17 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/7ICQ4gzQ74YlrDDtU8Ttsz) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Waiting for the Thunder](https://open.spotify.com/album/4ZnjSpNC9TNymP4W9jcLrC) | 4:07 | 2021-12-17 |  |
 | [Waslaha](https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Waslaha](https://open.spotify.com/album/3QHUKfPL9dfrfOrJcKRwfF) | 2:38 | 2021-12-17 | 2022-01-29 |
+| [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |
 | [What've I Done To Help](https://open.spotify.com/track/30kyfRMzJ7IxwQ5rEndvwn) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [What’ve I Done to Help](https://open.spotify.com/album/4woWpmM4ghIPQeo3bGmNSY) | 6:40 | 2021-12-17 |  |
 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 | 2021-12-17 |  |
 | [White House Road \- OurVinyl Sessions](https://open.spotify.com/track/55KHk8PhJC3HIpT3mA2smL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/4kWFXcmFlcZTZVi68NMqKw) | 4:28 | 2021-12-17 |  |

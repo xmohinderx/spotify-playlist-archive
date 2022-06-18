@@ -4346,6 +4346,24 @@
     },
     {
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/3I4fsbH1PRFuHPPLkBc0dg"
+      },
+      "artists": [
+        {
+          "name": "Doctor Dru",
+          "url": "https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394453,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/4WyLRhTLiGcJVHKFxzQZDj"
+    },
+    {
+      "album": {
         "name": "Night Rider",
         "url": "https://open.spotify.com/album/69T0VgLXCretkEdOLbTF5k"
       },
@@ -6429,6 +6447,28 @@
       "duration_ms": 417346,
       "name": "UUUU - &ME Remix",
       "url": "https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6"
+    },
+    {
+      "album": {
+        "name": "Ven EP",
+        "url": "https://open.spotify.com/album/4VmAZ9RFhvdvIuC8IxksYi"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        },
+        {
+          "name": "Florian Kruse",
+          "url": "https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319015,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/5vRmURhDkkMBAkRSovYfHE"
     },
     {
       "album": {

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: American Aquarium",
+  "description": "A new shade of Country. Cover: Miko Marks",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "100 Proof",
+        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238300,
+      "name": "100 Proof",
+      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
     {
       "album": {
         "name": "12th of June",
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 242896,
       "name": "7:28",
       "url": "https://open.spotify.com/track/4vN75DSxzy9YPrYkd4gorU"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 252160,
       "name": "Gloryland",
       "url": "https://open.spotify.com/track/20oWelhclb7W9stxy1Yzcs"
@@ -2214,6 +2232,24 @@
     },
     {
       "album": {
+        "name": "John Prine's Cadillac",
+        "url": "https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA"
+      },
+      "artists": [
+        {
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201922,
+      "name": "John Prine's Cadillac",
+      "url": "https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o"
+    },
+    {
+      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
       },
@@ -2833,7 +2869,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 156946,
       "name": "Paycheck to Paycheck",
       "url": "https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM"
@@ -3817,7 +3853,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 211321,
       "name": "The Worst I Ever Had",
       "url": "https://open.spotify.com/track/6ukH7HaBF08keigApMwLO0"
@@ -4006,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "Vanlife",
+        "url": "https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF"
+      },
+      "artists": [
+        {
+          "name": "Willi Carlisle",
+          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286479,
+      "name": "Vanlife",
+      "url": "https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ"
+    },
+    {
+      "album": {
         "name": "Villain in Me",
         "url": "https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY"
       },
@@ -4061,6 +4115,24 @@
       "duration_ms": 291702,
       "name": "Wasn't Her Own",
       "url": "https://open.spotify.com/track/35bixwNlqgab7vYz9ZEnAb"
+    },
+    {
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5E53ij5aeq9B4HXDMuHh6w"
     },
     {
       "album": {
@@ -4203,6 +4275,24 @@
       "duration_ms": 273293,
       "name": "When It's My Time",
       "url": "https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg"
+    },
+    {
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291034,
+      "name": "When John Prine Died",
+      "url": "https://open.spotify.com/track/5VBOocjR3TYhcgYkPE7XiO"
     },
     {
       "album": {

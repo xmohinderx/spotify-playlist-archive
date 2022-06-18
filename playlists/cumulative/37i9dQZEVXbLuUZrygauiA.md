@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-323 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+325 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-06-10 |  |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-02-13 | 2022-02-22 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-31 |  |
-| [El Amor de Su Vida](https://open.spotify.com/track/69iJP5V8VIgSszqmEV9TB5) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X) | 3:39 | 2022-06-16 |  |
+| [El Amor de Su Vida](https://open.spotify.com/track/69iJP5V8VIgSszqmEV9TB5) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X) | 3:39 | 2022-06-16 | 2022-06-18 |
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-03-01 | 2022-04-09 |
 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 | 2022-04-05 | 2022-04-17 |
 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2022-02-08 | 2022-03-06 |
@@ -149,6 +149,7 @@
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-08 | 2022-03-02 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 |  |
 | [Like Wooh Wooh](https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42) | 3:16 | 2022-05-27 |  |
+| [Like You Do](https://open.spotify.com/track/3xo4Q43ei0ypZOvd2W1IqZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 4:00 | 2022-06-17 |  |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-03-15 | 2022-03-23 |
 | [Lluvia De Balas](https://open.spotify.com/track/6u4cUNsKhatptAgVy7saaj) | [Luisillo Camacho](https://open.spotify.com/artist/0Ft5p26juZSsRZeF4BMvJp) | [Puros Amigos](https://open.spotify.com/album/1H06JT9v4JNm3s5rdKcFfE) | 3:07 | 2022-05-13 | 2022-05-28 |
 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 | 2022-04-19 | 2022-05-28 |
@@ -224,7 +225,7 @@
 | [Pegate \- Remix](https://open.spotify.com/track/2TrNL7EV7qiMWfMt7sUtVH) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC) | [Pegate \(Remix\)](https://open.spotify.com/album/1xZlZ595Qql5TjuDidINrn) | 2:19 | 2022-04-04 | 2022-04-07 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-19 | 2022-05-03 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-08 | 2022-03-16 |
-| [Pongámonos de Acuerdo](https://open.spotify.com/track/6rLVgaupR7U8uOWxAMkjAX) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X) | 2:42 | 2022-06-16 |  |
+| [Pongámonos de Acuerdo](https://open.spotify.com/track/6rLVgaupR7U8uOWxAMkjAX) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/5gQ0QNs8Qn1XAJ6jjyoK8X) | 2:42 | 2022-06-16 | 2022-06-18 |
 | [Por Ti](https://open.spotify.com/track/3pSUfxKILry0ym2NPTf8Ta) | [Natanael Kong](https://open.spotify.com/artist/2a7qOWwPHcWQ46GNh4ixmg) | [Por Ti](https://open.spotify.com/album/0g7eXC0EmnEshMIWSP7Lpw) | 3:28 | 2022-03-08 | 2022-03-12 |
 | [Por Ti](https://open.spotify.com/track/4WMC4GglT4SCnrupyJSVET) | [Natatyson](https://open.spotify.com/artist/0tjSjBKrPfx0evG3Egh374) | [Por Ti](https://open.spotify.com/album/5YRZPfvDOflX4Z4BZPXd7Q) | 3:30 | 2022-06-13 |  |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-02-08 | 2022-02-28 |
@@ -251,6 +252,7 @@
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-02 | 2022-06-08 |
 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 | 2022-04-19 | 2022-05-11 |
 | [Sea Shanty Medley](https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Sea Shanty Medley](https://open.spotify.com/album/3DXlflmRdEZIe0RqxZ6Czb) | 3:54 | 2022-05-18 | 2022-06-17 |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-17 |  |
 | [Señora..\. Señora..\. Señora](https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW) | [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr) | [Denise De Kalafe 10 Exitos](https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR) | 3:03 | 2022-05-11 | 2022-05-28 |
 | [Shake](https://open.spotify.com/track/7rdIKBTAQm4nLlpA5E8DBI) | [Ishowsped](https://open.spotify.com/artist/6pagcowMoN3u2CNYuuf3Ne) | [Shake](https://open.spotify.com/album/5lyGHjk6yoxuNTOnAMfMdT) | 2:36 | 2022-02-25 | 2022-03-14 |
 | [Shake](https://open.spotify.com/track/7eeno3ABQy6MMw8GlsZ7BO) | [Ishowsped](https://open.spotify.com/artist/6pagcowMoN3u2CNYuuf3Ne), [essential318](https://open.spotify.com/artist/4LZimrBneNMs74jf0xMwEr) | [Shake](https://open.spotify.com/album/4sBwRYyHM50cE3PWnZwRQe) | 2:36 | 2022-03-13 | 2022-03-16 |

@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 246153,
       "name": "Ac\u00fastico Altamira #17 - Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4NrRNC1W6cscPIeSAEHwLp"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 225333,
       "name": "Lucidez",
       "url": "https://open.spotify.com/track/6f8uBSVUTqXb19edn8K2cY"
@@ -1151,6 +1151,32 @@
       "duration_ms": 302857,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/4LqeLtNMCssVZtMDP5d56E"
+    },
+    {
+      "album": {
+        "name": "Melhor Lugar",
+        "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
+      },
+      "artists": [
+        {
+          "name": "LUE",
+          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
+        },
+        {
+          "name": "PedroWnx",
+          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168031,
+      "name": "Melhor Lugar",
+      "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
     },
     {
       "album": {
@@ -1349,6 +1375,36 @@
       "duration_ms": 193285,
       "name": "N\u00e3o D\u00e1 pra N\u00f3s Voltar",
       "url": "https://open.spotify.com/track/5I9odVEhANgpduecRTPFJZ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Est\u00e1 Faltando Amor",
+        "url": "https://open.spotify.com/album/0rLYF6zG2EFwNvluA5Pc73"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "t h e \u00f4",
+          "url": "https://open.spotify.com/artist/7yBNSexAKVPikYCuhInFtC"
+        },
+        {
+          "name": "Pedrada",
+          "url": "https://open.spotify.com/artist/63I6RzBBMhN6KQIGM2D4FO"
+        },
+        {
+          "name": "N\u00eagamanda",
+          "url": "https://open.spotify.com/artist/3U4s8qFgfQVqZzl9uiGeA6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "N\u00e3o Est\u00e1 Faltando Amor",
+      "url": "https://open.spotify.com/track/2vCt9CGes6AoOlyLqTxIo3"
     },
     {
       "album": {

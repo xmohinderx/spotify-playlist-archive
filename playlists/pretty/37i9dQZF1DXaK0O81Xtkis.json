@@ -1,12 +1,12 @@
 {
   "description": "It's summer so it's Surfaces, obvs",
-  "num_followers": 194569,
+  "num_followers": 194651,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzYwMCwwMDAwMDBhYzAwMDAwMTgxNGJjNGQ2ZDAwMDAwMDE4MTRhYjEyMDIw",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDBhZDAwMDAwMTgxNmZkMzJmNDYwMDAwMDE4MTRhYjEyMDIw",
   "tracks": [
     {
       "added_at": "2022-06-10 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 170416,
+      "name": "Girl Who Does Both",
+      "url": "https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Banish The Banshee",
@@ -73,36 +105,20 @@
       "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
       },
       "artists": [
         {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
         }
       ],
-      "duration_ms": 151664,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Dry Spell",
-        "url": "https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 207427,
-      "name": "Dry Spell",
-      "url": "https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA"
+      "duration_ms": 200453,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -123,6 +139,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 207427,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/6jpRpPLwEpPte2TzQEo6XG"
       },
@@ -139,6 +171,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "y can\u2019t we b friends?",
         "url": "https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8"
       },
@@ -151,6 +199,22 @@
       "duration_ms": 155310,
       "name": "y can\u2019t we b friends?",
       "url": "https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY"
+      },
+      "artists": [
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 151664,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -185,20 +249,20 @@
       "url": "https://open.spotify.com/track/4wJtYAMOzz013zi6KjHDeT"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Me Myself & I",
-        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/4RlftpZGhEgnraSN2vUV2h"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Jack Newsome",
+          "url": "https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj"
         }
       ],
-      "duration_ms": 177879,
-      "name": "Me Myself & I",
-      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
+      "duration_ms": 130533,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/5HH4smD2ZGTGx0H7rHTutW"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -411,22 +475,6 @@
       "duration_ms": 187059,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -775,22 +823,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Darl+ing",
-        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Darl+ing",
-      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/75F9DShI8jtDKXmvYP1kl3"
       },
@@ -1003,22 +1035,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Cool Kids",
-        "url": "https://open.spotify.com/album/3SlkRa6qs5qeEg7H2yk9yW"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/6w9kwKYCCL2YapGsXLasxq"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Anything You Want",
         "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 197035,
       "name": "no excuses",
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "popstar",
-        "url": "https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "popstar",
-      "url": "https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw"
     },
     {
       "added_at": "2022-06-10 04:00:00",

@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk?si=vqbTd2YgSHe0cXRc1Cl1dQ" > Arrdee </a> and <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kBJ2YLi9SO2jkADHAwHlXw" > Black Sherif </a>
 
-153 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
+154 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2021-10-08 |  |
 | [Bluffin](https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Bluffin](https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F) | 3:41 | 2022-02-24 | 2022-05-13 |
 | [C'est Cuit](https://open.spotify.com/track/2upc8ruPGXkryGsIzTZiAo) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 2:36 | 2021-10-08 | 2022-02-04 |
+| [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-06-17 |  |
 | [Champion](https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:59 | 2021-10-08 |  |
 | [Choosy \(feat\. Jeremih & Davido\)](https://open.spotify.com/track/2XaPHwIy6L7WaUFJqMhc8n) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Summertime Shootout 3: Coldest Summer Ever](https://open.spotify.com/album/3HnnFZuxm8gUEQE6SL67JQ) | 3:33 | 2021-10-08 | 2022-02-25 |
 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 | 2022-06-02 |  |

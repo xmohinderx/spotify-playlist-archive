@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: BLOODMOON\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 85 | [Lover That Waits](https://open.spotify.com/track/11RMvhFvSLaab9PKcur7Nh) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Lover That Waits](https://open.spotify.com/album/6UN7cssJDQgYpBEnMzEwcF) | 3:12 |
 | 86 | [Heard This Calling](https://open.spotify.com/track/1Vbyh85c1kKWe2Daq9NwfP) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [Heard This Calling](https://open.spotify.com/album/2IALQfr0s4LYREWQxE7aNC) | 5:15 |
 | 87 | [Sugar](https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo) | [Bbanner](https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG), [Daev Zambia](https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW) | [Sugar](https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal) | 2:44 |
-| 88 | [therapy](https://open.spotify.com/track/6ZMbly4b5TkMoNH5ply7Jr) | [Rosarrie](https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi) | [therapy](https://open.spotify.com/album/4WMplTYg530QDQcEtrmmsC) | 3:57 |
+| 88 | [therapy](https://open.spotify.com/track/6ZMbly4b5TkMoNH5ply7Jr) | [rosarrie](https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi) | [therapy](https://open.spotify.com/album/4WMplTYg530QDQcEtrmmsC) | 3:57 |
 | 89 | [Spend Something](https://open.spotify.com/track/4Lu5dggctk2dLdjK3YwsXH) | [Scan00](https://open.spotify.com/artist/6FEBSjvekMMIvlTjreV3rd), [Sus1er](https://open.spotify.com/artist/7z5Ba9Bg6XEPY0s7KJyzDM) | [Spend Something](https://open.spotify.com/album/4IKwMGS28j7mEBiK5JooQB) | 2:26 |
 | 90 | [New Religion](https://open.spotify.com/track/3MSaIajYgnM3pZf9uXA0K6) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [New Religion / In Spirit](https://open.spotify.com/album/7GnELPDio4G6tF9m33cWdi) | 4:04 |
 | 91 | [one layer](https://open.spotify.com/track/2zssJVZYx0uuRKYIA0GFTv) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [MACHONA](https://open.spotify.com/album/7sgyhOomisC9gj68vuz8oj) | 1:21 |

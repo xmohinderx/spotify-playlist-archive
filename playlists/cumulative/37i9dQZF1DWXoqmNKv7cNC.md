@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. En portada: Valentina Moretti
 
-238 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+239 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Hombre Artificial](https://open.spotify.com/track/0E0GUcqI3PKltYRLc3cuNh) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Hombre Artificial](https://open.spotify.com/album/4BdHjwNp2TewBaPYqeYpZt) | 4:05 | 2022-03-03 | 2022-04-07 |
 | [Honey](https://open.spotify.com/track/0cEbxy6npAeagbCUzwLZdT) | [Miss Mara](https://open.spotify.com/artist/1TlWSHZ2zftbZjeT1KXgdS) | [Honey](https://open.spotify.com/album/2CmUZXyDvrYP3bDD315mv4) | 5:20 | 2022-06-01 |  |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-03-03 | 2022-03-09 |
+| [I Think of You](https://open.spotify.com/track/6Qy6BnK7jRUvZXF3UrhoXs) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [I Think of You](https://open.spotify.com/album/36OYFDgNxsKIn3HEoOogtH) | 3:35 | 2022-06-17 |  |
 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 | 2022-03-03 | 2022-04-07 |
 | [Imanes Permanentes](https://open.spotify.com/track/1ifr5Ncd7ZyFxOWi91P2mq) | [Tania Barbará](https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP) | [Imanes Permanentes](https://open.spotify.com/album/47vVmsHL6m1NU04SGbntO3) | 4:14 | 2022-06-01 |  |
 | [In a Second](https://open.spotify.com/track/3vvjBanBGiA7L314WguC8N) | [Karina Rosee](https://open.spotify.com/artist/2KKMGsBiuclMbd5PoREDEI) | [In a Second](https://open.spotify.com/album/5PGGPSSoQfalk3ekX8aIC7) | 3:12 | 2022-04-06 | 2022-05-05 |

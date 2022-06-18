@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: BRKN LOVE
 
-151 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+152 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bring It On](https://open.spotify.com/track/1sdWSEGmB3FYml1iPDvvDM) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/1ZNRatAi2xYtzRVAvAlSxN) | 2:59 | 2020-12-11 |  |
 | [Broken Bones](https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8) | [CRX](https://open.spotify.com/artist/4NfVXEoTZVX7rpJSZEVGLg) | [Broken Bones](https://open.spotify.com/album/30gnL7UUcLHZsXYtMsxgfE) | 3:31 | 2020-12-11 |  |
 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 | 2020-12-11 |  |
-| [Cabin Fever \(Garage Recording\)](https://open.spotify.com/track/0lDUzCYvE8hXIQ5VrC01BK) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Cabin Fever \(Garage Recording\)](https://open.spotify.com/album/4hebiZjcKUFEGiW3bpqLfA) | 2:24 | 2020-12-11 |  |
+| [Cabin Fever \(Garage Recording\)](https://open.spotify.com/track/0lDUzCYvE8hXIQ5VrC01BK) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Cabin Fever \(Garage Recording\)](https://open.spotify.com/album/4hebiZjcKUFEGiW3bpqLfA) | 2:24 | 2020-12-11 | 2022-06-18 |
 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 | 2020-12-11 |  |
 | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs) | 4:20 | 2020-12-11 |  |
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2020-12-11 |  |
@@ -138,6 +138,7 @@
 | [That Dress](https://open.spotify.com/track/4I9qjUCx8jFQkFFi5Eyt5x) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/1LdR3si9EGC2Eav5Arcn0T) | 3:08 | 2020-12-11 |  |
 | [the depths](https://open.spotify.com/track/6KBR2f0QJBdnLddWSJnQbs) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/3YLIa2HCjlMNgLFHqHwgor) | 4:01 | 2020-12-11 |  |
 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 | 2020-12-11 |  |
+| [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 | 2022-06-17 |  |
 | [Them Shoes](https://open.spotify.com/track/4ELXC8bDxfXOY6cwNEJIEl) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is a Dollar Gone](https://open.spotify.com/album/244tmeY7TR0tNG3yzPP58d) | 5:48 | 2020-12-11 |  |
 | [This is Our Life](https://open.spotify.com/track/5T38ywOoK6b29fpbTrhwx3) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR) | 3:44 | 2020-12-11 |  |
 | [This Land \- Single Version](https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR) | 3:56 | 2020-12-11 |  |

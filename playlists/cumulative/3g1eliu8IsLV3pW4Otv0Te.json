@@ -2672,6 +2672,32 @@
     },
     {
       "album": {
+        "name": "Strawberry Robots Pack",
+        "url": "https://open.spotify.com/album/2Cj8NszoHAguiOTBJJ4M2y"
+      },
+      "artists": [
+        {
+          "name": "stoop lee",
+          "url": "https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX"
+        },
+        {
+          "name": "Datsunn",
+          "url": "https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV"
+        },
+        {
+          "name": "austenyo",
+          "url": "https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Strawberry Robots",
+      "url": "https://open.spotify.com/track/6p6t7KpxaxceOf9MqqWYMK"
+    },
+    {
+      "album": {
         "name": "Strip That Down",
         "url": "https://open.spotify.com/album/4PrFFsJ2WAD46IXNdfx2dx"
       },

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain](/playlists/plain/37i9dQZF1DX8NMUtC3b3gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NMUtC3b3gL)
 
-### [Lofi Summer Haze](https://open.spotify.com/playlist/37i9dQZF1DX8NMUtC3b3gL)
+### [lofi summer haze](https://open.spotify.com/playlist/37i9dQZF1DX8NMUtC3b3gL)
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,809 likes - 108 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,875 likes - 108 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 107 | [Stockholm, 8AM](https://open.spotify.com/track/6h2UJl7TLX8Vb6WOZTeLBE) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Stockholm, 8AM](https://open.spotify.com/album/3URnKw9tQ8wzNKbGaMk8ZT) | 1:25 |
 | 108 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 
-Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDAxNDAwMDAwMTgxNmVmNWEwOWUwMDAwMDE3OWMyN2Y0MjQw`
+Snapshot ID: `MTY1NTQ1ODY4MywwMDAwMDAxNjAwMDAwMTgxNzEwNmQ4ZjkwMDAwMDE4MTcxMDVmZmY0`

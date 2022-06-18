@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-80 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+81 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [If You Drink](https://open.spotify.com/track/4N5nNgniSmesLahOLNYH3f) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [If You Drink](https://open.spotify.com/album/3Pjf8FsAe7r6Yhq6gWXt3Q) | 3:26 | 2021-12-17 |  |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2021-12-17 |  |
 | [It's Timeless](https://open.spotify.com/track/5UlfTNsoAuoD6umqHx0vR2) | [FeelGood](https://open.spotify.com/artist/7mXyW5kPIUrSRGkV0I9Ilo) | [It's Timeless](https://open.spotify.com/album/5KqCj0gqurgjtTFHVGZPxr) | 3:19 | 2021-12-17 |  |
-| [Kamasutra \- Raz Remix](https://open.spotify.com/track/3HqZ1VLMpR8g6VJTdBMJB4) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Kamasutra](https://open.spotify.com/album/2kC5NUhHHqKsqk1b5TmHob) | 5:55 | 2022-04-29 |  |
+| [Kamasutra \- Raz Remix](https://open.spotify.com/track/3HqZ1VLMpR8g6VJTdBMJB4) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Kamasutra](https://open.spotify.com/album/2kC5NUhHHqKsqk1b5TmHob) | 5:55 | 2022-04-29 | 2022-06-18 |
 | [Keep Lit](https://open.spotify.com/track/1delQsJl7yq7EvnO6HDPDj) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Keep Lit](https://open.spotify.com/album/621o4zsnVARGkWz6TTbYhp) | 2:40 | 2021-12-17 | 2022-04-23 |
 | [L.R.L.D.](https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [L.R.L.D.](https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW) | 4:06 | 2021-12-17 |  |
 | [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 | 2021-12-17 |  |
@@ -65,6 +65,7 @@
 | [Power](https://open.spotify.com/track/7LKgkaIHxZrtmZ9QmDCgdq) | [Rafael Starcevic](https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW), [Liu Rosa](https://open.spotify.com/artist/31HEVXpDNrBpLFWxaUCxmT) | [Power](https://open.spotify.com/album/7iqwLWSmyf62HWOPsFxcHP) | 2:47 | 2021-12-17 |  |
 | [Push The Feeling On](https://open.spotify.com/track/0NWkVDrjlHYHGWWQdShmos) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/0002K9tPYs8Me5kWaFAPko) | 2:38 | 2021-12-17 |  |
 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 | 2021-12-17 |  |
+| [Resistência](https://open.spotify.com/track/4HLBbEY2ZUFXq3Ygy3wN16) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Resistência](https://open.spotify.com/album/4xHZ6oFXaheV5IS8ssm6go) | 4:07 | 2022-06-17 |  |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-12-17 |  |
 | [Seuls Ensemble](https://open.spotify.com/track/4W72fwjmpJgyCXMzVXWFZI) | [URUBU](https://open.spotify.com/artist/7BqDcISRpyyVpVRggIveVC), [MELVIN LAUR](https://open.spotify.com/artist/4MOMYs5YnajsFyqH0QnECe) | [Seuls Ensemble](https://open.spotify.com/album/4I2RJq1qMCowQ8jUXLavYo) | 6:16 | 2022-04-22 |  |
 | [Shuffle Like This](https://open.spotify.com/track/47ykMWE0pmHkXddJ5hFgNx) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shuffle Like This](https://open.spotify.com/album/4Llc3kSBeLA0vncGEMO2um) | 3:01 | 2021-12-17 | 2022-04-09 |

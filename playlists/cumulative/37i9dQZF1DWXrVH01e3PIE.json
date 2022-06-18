@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "YSY A en la casa del Trap de Argentino.",
+  "description": "Bhavi en la casa del Trap de Argentino.",
   "name": "Trapperz Argentina.",
   "published_playlist_ids": [
     "23nX6vOJkUDnsNQfFrfuBO"
@@ -57,6 +57,24 @@
       "duration_ms": 99724,
       "name": "20.1.9",
       "url": "https://open.spotify.com/track/5nHQCnYQIfzSc0Cai3KrXZ"
+    },
+    {
+      "album": {
+        "name": "POCHOCLOS",
+        "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154478,
+      "name": "22HS",
+      "url": "https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7"
     },
     {
       "album": {
@@ -201,7 +219,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 183971,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS"
@@ -389,6 +407,28 @@
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
+    },
+    {
+      "album": {
+        "name": "POCHOCLOS",
+        "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147450,
+      "name": "CANAP\u00c9",
+      "url": "https://open.spotify.com/track/4ShrmORSgiLFUOQ00yzflb"
     },
     {
       "album": {
@@ -591,7 +631,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 124548,
       "name": "Cuantas Veces Ma'",
       "url": "https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS"
@@ -767,7 +807,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 200347,
       "name": "Dreamsfreebars",
       "url": "https://open.spotify.com/track/4CdYp2FYwarB2soaxirdBJ"
@@ -855,7 +895,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 179368,
       "name": "Es Hoy",
       "url": "https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI"
@@ -1418,6 +1458,28 @@
     },
     {
       "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6qWcAaLQJXuh4ZEGzOqNCV"
+      },
+      "artists": [
+        {
+          "name": "Kifykify",
+          "url": "https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7"
+    },
+    {
+      "album": {
         "name": "Mente Gitana",
         "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
       },
@@ -1459,6 +1521,24 @@
       "duration_ms": 165336,
       "name": "Meteoritos Vs Dinosaurios",
       "url": "https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd"
+    },
+    {
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q"
     },
     {
       "album": {
@@ -1529,7 +1609,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 181184,
       "name": "Motoquera",
       "url": "https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S"
@@ -1620,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "no twin",
+        "url": "https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b"
+      },
+      "artists": [
+        {
+          "name": "Ill Quentin",
+          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "no twin",
+      "url": "https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur"
+    },
+    {
+      "album": {
         "name": "No-Cap",
         "url": "https://open.spotify.com/album/0wAJDf3nRGO5C8nv93Ptya"
       },
@@ -1631,7 +1729,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 149666,
       "name": "No-Cap",
       "url": "https://open.spotify.com/track/5TgEYkLDNafBqeQ8Fs8ns8"
@@ -1953,6 +2051,28 @@
       "duration_ms": 233650,
       "name": "QUE PASO?",
       "url": "https://open.spotify.com/track/4cHSkta5T7QLkMpFMVTCxy"
+    },
+    {
+      "album": {
+        "name": "POCHOCLOS",
+        "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151371,
+      "name": "QU\u00c9 LOCO",
+      "url": "https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo"
     },
     {
       "album": {
@@ -2682,6 +2802,24 @@
     },
     {
       "album": {
+        "name": "Un Poquito Ma",
+        "url": "https://open.spotify.com/album/4kRGbFD8ccaTBhdnt9rCS6"
+      },
+      "artists": [
+        {
+          "name": "Chiki Wanted",
+          "url": "https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92872,
+      "name": "Un Poquito Ma",
+      "url": "https://open.spotify.com/track/3VlYUSijICgv7zJ8gJBkNZ"
+    },
+    {
+      "album": {
         "name": "Una Luz en Todo Esto",
         "url": "https://open.spotify.com/album/5LsWezLLDfSW0aijS2yFeR"
       },
@@ -2763,7 +2901,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 205570,
       "name": "Videogame",
       "url": "https://open.spotify.com/track/4KtgcX45dO6Vh0oqD1Ovze"

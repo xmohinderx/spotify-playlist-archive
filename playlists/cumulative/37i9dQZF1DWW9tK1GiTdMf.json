@@ -2652,6 +2652,28 @@
     },
     {
       "album": {
+        "name": "UN DISASTRO",
+        "url": "https://open.spotify.com/album/1E3VmY6Gvhnn1LdF4HwUlo"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156745,
+      "name": "UN DISASTRO",
+      "url": "https://open.spotify.com/track/7xF4V0qVDwS6A0VOZj2wLG"
+    },
+    {
+      "album": {
         "name": "Un'altra volta",
         "url": "https://open.spotify.com/album/1ZCjKIKZFIO3V62Yx6mkTr"
       },

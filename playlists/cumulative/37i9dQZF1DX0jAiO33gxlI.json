@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 319992,
       "name": "A Divina Com\u00e9dia 2",
       "url": "https://open.spotify.com/track/6YhXnVP8iOuM35xhYtQsJh"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 137802,
       "name": "A Quadra Conecta",
       "url": "https://open.spotify.com/track/7bXf7knnCWOwvmdmVvhqFm"
@@ -423,6 +423,28 @@
       "duration_ms": 168275,
       "name": "Brasileirinha",
       "url": "https://open.spotify.com/track/7B2dCLNPH8n71zYpQ1WX4n"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5ZrKuipKw7JLB1huWWBgh4"
+      },
+      "artists": [
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155942,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1TwCAXd7HKRpp3Qv5w7PLP"
     },
     {
       "album": {
@@ -803,6 +825,28 @@
       "duration_ms": 158807,
       "name": "De Onde C\u00ea Vem (Verso Livre)",
       "url": "https://open.spotify.com/track/5OFHftsLzWTQPbA8r8JaQ5"
+    },
+    {
+      "album": {
+        "name": "De Volta a Arena",
+        "url": "https://open.spotify.com/album/07nkIcSC6hTV7SNDehvSUQ"
+      },
+      "artists": [
+        {
+          "name": "Kamikaze do Gueto",
+          "url": "https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo"
+        },
+        {
+          "name": "P\u00eapa Beatmaker",
+          "url": "https://open.spotify.com/artist/0dfJo6kHqLEd8YYukoD5MD"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "De Volta a Arena",
+      "url": "https://open.spotify.com/track/6njXu3ukhUhQAGTg5Bdvf8"
     },
     {
       "album": {
@@ -1952,6 +1996,40 @@
     },
     {
       "album": {
+        "name": "Minha Pele",
+        "url": "https://open.spotify.com/album/01W69LxzkNWgqEGqIaHlYS"
+      },
+      "artists": [
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "Neo Mc",
+          "url": "https://open.spotify.com/artist/6FUy68mNerpBmix9JLdH58"
+        },
+        {
+          "name": "GEBE",
+          "url": "https://open.spotify.com/artist/1PHKKhYrxhcDLlQaByPYr6"
+        },
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "Hashi",
+          "url": "https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Minha Pele",
+      "url": "https://open.spotify.com/track/2YN9PK102qVWhx6OjsHiIe"
+    },
+    {
+      "album": {
         "name": "Monstr\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/4TJhD30MT2yq1JaV372r4Y"
       },
@@ -2123,6 +2201,32 @@
       "duration_ms": 152375,
       "name": "Negr\u00e3o Demais",
       "url": "https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq"
+    },
+    {
+      "album": {
+        "name": "No Baile",
+        "url": "https://open.spotify.com/album/0LSKvEZl6U0c8YTNWuEbta"
+      },
+      "artists": [
+        {
+          "name": "Cabal",
+          "url": "https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt"
+        },
+        {
+          "name": "Terra Preta",
+          "url": "https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP"
+        },
+        {
+          "name": "MK\u00ba",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222772,
+      "name": "No Baile",
+      "url": "https://open.spotify.com/track/3UPNVNMvDKd7nLtzIPauN6"
     },
     {
       "album": {
@@ -2533,7 +2637,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 150052,
       "name": "Pensando Infinito",
       "url": "https://open.spotify.com/track/70zcXATNnljew3wm5GZL5s"
@@ -3665,7 +3769,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 333913,
       "name": "Vida Bandida",
       "url": "https://open.spotify.com/track/7o5OacQ8i8FqtGilIlp4QE"

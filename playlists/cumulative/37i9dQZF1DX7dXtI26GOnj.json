@@ -530,6 +530,32 @@
     },
     {
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/1DDvu6cNcAgindgxdPsdkX"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/1zcUajLDVXY1SFWcAwMme8"
+    },
+    {
+      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -1201,7 +1227,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 173280,
       "name": "Imposible Amor",
       "url": "https://open.spotify.com/track/5oMrqQUkuLMg4DvlCEZfXx"
@@ -2010,6 +2036,28 @@
     },
     {
       "album": {
+        "name": "OH!",
+        "url": "https://open.spotify.com/album/5FImIH6mATm8FDtx9MFoD2"
+      },
+      "artists": [
+        {
+          "name": "Ella & The Pepperjuice",
+          "url": "https://open.spotify.com/artist/4Tb9GFwAjn7ZdO3Pb1BgzQ"
+        },
+        {
+          "name": "Yina Rose",
+          "url": "https://open.spotify.com/artist/26rJDvsSFAwubgxSpsz5Ba"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189274,
+      "name": "OH!",
+      "url": "https://open.spotify.com/track/0BdvXA4vGlv0SXx4t5n1l6"
+    },
+    {
+      "album": {
         "name": "Ojos Rojos",
         "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
       },
@@ -2043,7 +2091,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 177728,
       "name": "Onde Anda",
       "url": "https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK"
@@ -2749,7 +2797,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 132286,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/1UrIIf3M5R2pOwkvh1F8NX"
@@ -2959,6 +3007,40 @@
       "duration_ms": 178613,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
+    },
+    {
+      "album": {
+        "name": "ULTRA SOLO Remix",
+        "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322347,
+      "name": "ULTRA SOLO Remix",
+      "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
       "album": {

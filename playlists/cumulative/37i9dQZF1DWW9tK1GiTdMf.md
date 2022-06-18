@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in copertina c'è still charles
 
-143 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+144 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 | 2022-05-06 | 2022-06-03 |
 | [TUTTE LE SERE \(feat\. ARIETE\)](https://open.spotify.com/track/4sJ4ZAKEuMe2qtvOtN7UcB) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:05 | 2022-05-06 |  |
 | [Twin Peaks](https://open.spotify.com/track/4PgwFeTesVd21JzEDDgOkz) | [NIO](https://open.spotify.com/artist/6ezfB5USiV0QJLp9tHxbjU), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Twin Peaks](https://open.spotify.com/album/4vAE9JsaZRb68Pba6NrIoV) | 2:10 | 2022-05-06 | 2022-06-17 |
+| [UN DISASTRO](https://open.spotify.com/track/7xF4V0qVDwS6A0VOZj2wLG) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [UN DISASTRO](https://open.spotify.com/album/1E3VmY6Gvhnn1LdF4HwUlo) | 2:36 | 2022-06-17 |  |
 | [Un'altra volta](https://open.spotify.com/track/6SYs6LpcQaYvFcHmJDjTdy) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Un'altra volta](https://open.spotify.com/album/1ZCjKIKZFIO3V62Yx6mkTr) | 2:05 | 2022-05-06 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-05-06 |  |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-26 | 2022-06-10 |

@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-86 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+87 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-03 |  |
 | [Born To Kill \(with Alok\)](https://open.spotify.com/track/1jWkEX1OmliA2etRvBH9Xk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Born to Kill \(with Alok\)](https://open.spotify.com/album/2D3DsYvDso78HVWekeXJbx) | 2:42 | 2021-12-03 |  |
 | [Byob](https://open.spotify.com/track/3GjF8PNprVtiBtQnSgcHFU) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Byob](https://open.spotify.com/album/0LPvWHftIjaAH376ZyX9yQ) | 4:19 | 2021-12-03 |  |
+| [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 |  |
 | [Deeper](https://open.spotify.com/track/09BrFM9kCBGVevooxF1uP2) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Deeper EP](https://open.spotify.com/album/6C0ooONb4IUWci4RXwQJAw) | 2:43 | 2022-02-11 |  |
 | [Domino \(feat\. Oxia\)](https://open.spotify.com/track/0tuH3Dayq9KTxt7Es7qili) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino \(feat\. Oxia\)](https://open.spotify.com/album/7dUrVkmjf3TSkdoEn4VSV3) | 2:38 | 2021-12-03 |  |
 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 | 2021-12-03 |  |

@@ -1,18 +1,18 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2562,
+  "num_followers": 2571,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDAxNzAwMDAwMTgwZGZhMTFmMzUwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAxODAwMDAwMTgxNmZkMzJmOTkwMDAwMDE3ZDlhNmU1YTBj",
   "tracks": [
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Seven Steps to Heaven (Live)",
-        "url": "https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i"
+        "name": "Two Continents One Groove (Live)",
+        "url": "https://open.spotify.com/album/3eppyJqKLmkav7Pzhhp9qK"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Seven Steps to Heaven - Live",
-      "url": "https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs"
+      "duration_ms": 518093,
+      "name": "Sierre - Live",
+      "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -247,6 +247,22 @@
       "duration_ms": 296415,
       "name": "Theme From M*A*S*H - Live",
       "url": "https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Seven Steps to Heaven (Live)",
+        "url": "https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i"
+      },
+      "artists": [
+        {
+          "name": "T.S. Monk",
+          "url": "https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Seven Steps to Heaven - Live",
+      "url": "https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs"
     },
     {
       "added_at": "2022-03-18 05:00:00",

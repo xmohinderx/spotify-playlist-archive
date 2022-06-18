@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 301733,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/32zna5FLT8EQboEzpWzV76"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/7KQoHUiEUcyrFSfMPNhRiW"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 307493,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/62UvwY9URklShrC79EU8GJ"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 250358,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4FruIj8XF7TVGD2eiZEFMS"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 304360,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 284093,
       "name": "City Vibe",
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 270113,
       "name": "Copacetic",
       "url": "https://open.spotify.com/track/3HA4T5LeLY3LNGuwiFq8q4"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 251518,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2BpfSRsdfTW9Ea8M2ikM1R"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 261092,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259019,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
+    },
+    {
+      "album": {
         "name": "Everything Happens for a Reason",
         "url": "https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 296875,
       "name": "Fonk In The City - Live Performance",
       "url": "https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 197489,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 300240,
       "name": "Givin' In",
       "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 252946,
       "name": "Hard Work (feat. Michael O'Hara)",
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 288731,
       "name": "I Wish I Wasn't",
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 240136,
       "name": "Just a Taste",
       "url": "https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6"
@@ -1443,10 +1461,28 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 195000,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/0IguWIOThNrFN7fL1ZPTjF"
+    },
+    {
+      "album": {
+        "name": "Lift Every Voice And Sing",
+        "url": "https://open.spotify.com/album/5SRZT5eHIG2aHHcHC9AXHI"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122520,
+      "name": "Lift Every Voice And Sing",
+      "url": "https://open.spotify.com/track/1lC7uRdflKjT17PVHEXgYb"
     },
     {
       "album": {
@@ -1465,7 +1501,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 266789,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5gGKSz6jBv2iO6FhIcUfOJ"
@@ -1501,7 +1537,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 387500,
       "name": "Lil' too Late",
       "url": "https://open.spotify.com/track/2MzX6L4aa5YenFesxJDeMA"
@@ -1573,7 +1609,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/6kRGkRQHf8vWPAJ791dEgq"
@@ -1649,7 +1685,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 275801,
       "name": "Mr. Sexy Saxy",
       "url": "https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE"
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 237026,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/3MxfsAOPmO6aL4Rv2PtGej"
@@ -1737,7 +1773,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 250093,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
@@ -1755,7 +1791,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "On the Uptown",
       "url": "https://open.spotify.com/track/7063cn4EtVAdrnMP4RzpDT"
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/3HTqV23RH74GnMagyTkQ1P"
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -2029,7 +2065,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
@@ -2123,7 +2159,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 251142,
       "name": "Sharon's Groove",
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
@@ -2159,7 +2195,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
@@ -2315,7 +2351,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 296360,
       "name": "Speak Easy",
       "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 285506,
       "name": "Stone Groove",
       "url": "https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS"
@@ -2445,7 +2481,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 220440,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/5fM6c0mQ5uhHY9lbbAPvaB"
@@ -2489,7 +2525,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 267272,
       "name": "Tailgate",
       "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
@@ -2619,7 +2655,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 214986,
       "name": "The Sax Pack",
       "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
@@ -2677,7 +2713,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 253426,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 275680,
       "name": "Warm - Album Mix",
       "url": "https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 241195,
       "name": "When You Smile",
       "url": "https://open.spotify.com/track/76Tvpe4niV7n7ZpCKkfnAG"
@@ -2937,7 +2973,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"

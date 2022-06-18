@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 313867,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
@@ -2454,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "Lovers And Fools, Vol. 2",
+        "url": "https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6"
+      },
+      "artists": [
+        {
+          "name": "Leon Timbo",
+          "url": "https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280416,
+      "name": "Struggle",
+      "url": "https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s"
+    },
+    {
+      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF"
       },
@@ -2757,7 +2775,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 194786,
       "name": "Twisted Ambition",
       "url": "https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC"
@@ -2869,6 +2887,24 @@
       "duration_ms": 158146,
       "name": "Waslaha",
       "url": "https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K"
+    },
+    {
+      "album": {
+        "name": "We Need To Talk About It",
+        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173678,
+      "name": "We Need To Talk About It",
+      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
     },
     {
       "album": {

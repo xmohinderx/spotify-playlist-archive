@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42061,
+  "num_followers": 42068,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg0MSwwYmRlMWQ4ODZjOWY5ZmI5ZWRhNTk2ODJmMGMwYzBlNzA2NjUzNjk3",
+  "snapshot_id": "Mjg0NCw0YmYxODY1MmQ1NWYxZjRlMjJlMzA5OWNlMTA2MDliYmY2Y2RiOThl",
   "tracks": [
+    {
+      "added_at": "2022-06-17 08:12:30",
+      "album": {
+        "name": "Does the Magic Spin?",
+        "url": "https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg"
+      },
+      "artists": [
+        {
+          "name": "POCKET",
+          "url": "https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Does the Magic Spin?",
+      "url": "https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv"
+    },
     {
       "added_at": "2022-06-15 08:15:51",
       "album": {
@@ -399,30 +415,6 @@
       "duration_ms": 222848,
       "name": "Freak Talk",
       "url": "https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W"
-    },
-    {
-      "added_at": "2022-04-08 08:32:54",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6"
-      },
-      "artists": [
-        {
-          "name": "Luc de la Croixx",
-          "url": "https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59"
-        },
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 184067,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb"
     },
     {
       "added_at": "2021-11-05 15:47:43",

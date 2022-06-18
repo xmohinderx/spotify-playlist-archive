@@ -7464,7 +7464,7 @@
     },
     {
       "album": {
-        "name": "Playlist",
+        "name": "PLAYLIST",
         "url": "https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD"
       },
       "artists": [
@@ -14486,6 +14486,24 @@
     },
     {
       "album": {
+        "name": "Everyone",
+        "url": "https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv"
+      },
+      "artists": [
+        {
+          "name": "Grandi",
+          "url": "https://open.spotify.com/artist/1vc4Rlvc37bLIfCjoMjxkA"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150201,
+      "name": "Everyone",
+      "url": "https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV"
+    },
+    {
+      "album": {
         "name": "Everyone's a Psycho",
         "url": "https://open.spotify.com/album/2Vw06jzXHIG6HLo6mFGMyc"
       },
@@ -15085,6 +15103,24 @@
       "duration_ms": 130832,
       "name": "Faller Ner",
       "url": "https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266178,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB"
     },
     {
       "album": {
@@ -19105,6 +19141,28 @@
       "duration_ms": 130000,
       "name": "Gossip Girl",
       "url": "https://open.spotify.com/track/22SnGEQJdR76lUNYLZxsKr"
+    },
+    {
+      "album": {
+        "name": "Gotta Move On (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Gotta Move On (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav"
     },
     {
       "album": {
@@ -39232,7 +39290,7 @@
     },
     {
       "album": {
-        "name": "Playlist",
+        "name": "PLAYLIST",
         "url": "https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD"
       },
       "artists": [
@@ -44532,6 +44590,24 @@
     },
     {
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "album": {
         "name": "Still Here (feat. Cordae)",
         "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
       },
@@ -47039,6 +47115,24 @@
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
     },
     {
       "album": {

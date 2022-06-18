@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-128 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+130 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 | 2021-10-15 |  |
 | [I Don't Go To Funerals](https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 2:27 | 2022-04-29 |  |
 | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ) | 3:30 | 2021-10-15 |  |
+| [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 | 2022-06-17 |  |
 | [I Saw The Light](https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Saw The Light](https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I) | 1:52 | 2021-11-12 | 2022-04-23 |
 | [I Tell It Like It Used to Be](https://open.spotify.com/track/5bIaDkp8NlTyYDuzROomMv) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Bare Bones](https://open.spotify.com/album/0T2AE8uzds9x1msXA6Y6UE) | 3:14 | 2021-10-15 |  |
 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 | 2021-10-15 |  |
@@ -98,6 +99,7 @@
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-10-15 |  |
+| [Saltwater Cowboy](https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Saltwater Cowboy](https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17) | 2:49 | 2022-06-17 |  |
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-10-15 |  |
 | [Sent From Above](https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Sent From Above](https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3) | 2:25 | 2021-10-15 |  |
 | [Set In Stone](https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Set In Stone](https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8) | 3:04 | 2021-10-15 |  |

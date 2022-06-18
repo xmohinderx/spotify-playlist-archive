@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 207781,
       "name": "1000 Scars",
       "url": "https://open.spotify.com/track/0Sf4rStnY3H87N9kD1jFaD"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 216994,
       "name": "Amore",
       "url": "https://open.spotify.com/track/7dEhUSzB32GMXhkrqtEYec"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 180113,
       "name": "butterfly",
       "url": "https://open.spotify.com/track/7IAB5IIQ0qKMM6Cnc8JPhE"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 179360,
       "name": "Corners",
       "url": "https://open.spotify.com/track/2Olgc28d1IdtLvleeBhtOd"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 149678,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1ZD9gnpU4yex0ZLSpcG1Ub"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 203482,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4Ee6U7RE2UlASqfb2s4MDv"
@@ -979,6 +979,24 @@
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
+    },
+    {
+      "album": {
+        "name": "Heart of Mine",
+        "url": "https://open.spotify.com/album/4Wxs9jEq4dwPFd5iLdwBHj"
+      },
+      "artists": [
+        {
+          "name": "Kuizz",
+          "url": "https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171701,
+      "name": "Heart of Mine",
+      "url": "https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP"
     },
     {
       "album": {
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 202876,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 115119,
       "name": "Late (Again)",
       "url": "https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 197732,
       "name": "Left Me Here",
       "url": "https://open.spotify.com/track/0GYS6aXliGiTT199fCwDPA"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "Like Day",
       "url": "https://open.spotify.com/track/46Big8S0OY9mlJBI4DfLox"
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 175564,
       "name": "Love Pocket",
       "url": "https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 164613,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3kRKuPvYLW6CP8RFxSx3gi"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 143600,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/2Bd0jr3pbK4UVGTH3M15kW"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 221425,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 213600,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1ZbH2WzZhjiODZfsX2raPz"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 263592,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/5kx5NtuqynfuDqUppK4qa4"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 232000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 198624,
       "name": "Traumatized",
       "url": "https://open.spotify.com/track/2BEiZgGUo7qGqWjEUwiOn7"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 207157,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 226113,
       "name": "Wrong Place, Wrong Time",
       "url": "https://open.spotify.com/track/4aMcU2HPB7pBQxdBCMReSt"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 72741,
       "name": "yellow",
       "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 252838,
       "name": "You",
       "url": "https://open.spotify.com/track/6RNzBgaxbDLDdnq4jy4bNQ"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5Q2GxbKxY3tTdTg6T3yVJB"

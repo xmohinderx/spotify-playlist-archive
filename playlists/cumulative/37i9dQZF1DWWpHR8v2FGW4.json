@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 274574,
       "name": "Demons - Lexurus Remix",
       "url": "https://open.spotify.com/track/3OfTUInqLligSNuiqUQtnE"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 182903,
       "name": "GUCCI LOUIS",
       "url": "https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 169968,
       "name": "How to Treat You Right (Ruzer Remix)",
       "url": "https://open.spotify.com/track/4ET0dzN5MlTYFYPCfe2RlK"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 222857,
       "name": "Misdemeanor",
       "url": "https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 264834,
       "name": "Snake Eyes",
       "url": "https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4"
@@ -1415,6 +1415,24 @@
       "duration_ms": 255173,
       "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
       "url": "https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219242,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
     },
     {
       "album": {

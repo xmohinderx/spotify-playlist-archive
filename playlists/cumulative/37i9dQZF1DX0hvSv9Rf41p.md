@@ -2,12 +2,14 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with Seven Lions.
+> All things <a href="spotify:genre:bass">bass</a> with BLVK JVCK.
 
-271 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+275 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 |  |
+| [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-21 |  |
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 |  |
 | [All In My Head \(feat\. grandson\) \- Saint Punk Remix](https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [All In My Head \(feat\. grandson\) \[Saint Punk Remix\]](https://open.spotify.com/album/5h1sSLDh0Y8CF5qLsvS2F1) | 3:16 | 2021-12-17 | 2022-01-08 |
@@ -31,6 +33,7 @@
 | [Black Hole](https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Black Hole](https://open.spotify.com/album/1lvwDVM28x49MlrDYMnBPg) | 3:38 | 2021-12-17 | 2022-03-12 |
 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 | 2022-03-25 |  |
 | [Body On Me](https://open.spotify.com/track/2CoyC9QjY2mydPoIBofKAc) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Body On Me](https://open.spotify.com/album/1dp5oKaM6sQ6T2di1aRGyu) | 2:20 | 2021-12-17 |  |
+| [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2022-06-17 |  |
 | [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 | 2021-12-17 | 2022-03-12 |
 | [Breakdown](https://open.spotify.com/track/1B6Za6s7tPvxU9ISUEgRda) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Breakdown](https://open.spotify.com/album/0Rk5KPioBHSzllCrqI5C15) | 3:18 | 2021-12-17 | 2022-02-19 |
 | [Breakdown](https://open.spotify.com/track/1iyFpZJ5zipXxMfj0FseRq) | [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ), [Kayrae](https://open.spotify.com/artist/6EVFrk3v6tpfgsx2FCPM2E) | [Breakdown](https://open.spotify.com/album/2DyrxxWUUKSSB1kT4Yt9Tf) | 3:00 | 2021-12-17 | 2022-05-07 |
@@ -217,6 +220,7 @@
 | [Shattered](https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Gem World EP](https://open.spotify.com/album/70L32RiLoB85mb9Y05fDTq) | 4:00 | 2021-12-17 | 2022-03-12 |
 | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp) | 4:24 | 2021-12-17 | 2022-03-12 |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |
+| [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-17 |  |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 |  |
 | [Skyline](https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Skyline](https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg) | 4:10 | 2022-05-20 |  |
 | [Sleepless](https://open.spotify.com/track/4QXYBGEATD3XN91dIS57Rx) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF) | [Sleepless](https://open.spotify.com/album/0mfBVDHwB7RyTVTyndyv04) | 3:50 | 2021-12-17 | 2022-02-19 |

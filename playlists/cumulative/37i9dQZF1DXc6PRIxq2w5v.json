@@ -224,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3"
+      },
+      "artists": [
+        {
+          "name": "Machini",
+          "url": "https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr"
+    },
+    {
+      "album": {
         "name": "Certo pelo Certo",
         "url": "https://open.spotify.com/album/7L18ztvmZsozx9krJeGllU"
       },
@@ -257,6 +279,28 @@
       "duration_ms": 144166,
       "name": "Chainz",
       "url": "https://open.spotify.com/track/5AuwYhiPnkmGaG6n9p8IWH"
+    },
+    {
+      "album": {
+        "name": "Chamada Perdida",
+        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Chamada Perdida",
+      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
     },
     {
       "album": {
@@ -727,7 +771,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 146500,
       "name": "F\u00c9 & TRABALHO (feat. 808 Blood)",
       "url": "https://open.spotify.com/track/2QiJnzjqM3OnF0OrFKRXoy"
@@ -1399,7 +1443,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 210647,
       "name": "Qual Sua Dor",
       "url": "https://open.spotify.com/track/01PJfKc1lNs1uIQV4drX9V"
