@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Anne Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,719 likes - 112 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,773 likes - 112 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

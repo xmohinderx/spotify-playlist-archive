@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-544 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+545 songs - 1 day 5 hr 49 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-20 | 2022-03-16 |
 | [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-04-04 | 2022-06-07 |
 | [Gözler Yalan Söylemez](https://open.spotify.com/track/6Y7B1Jyw9RJJtCTbGnw6zJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gözler Yalan Söylemez](https://open.spotify.com/album/2WnAt4LEDWFMRn0bW3PR0s) | 2:13 | 2022-03-23 | 2022-04-06 |
+| [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-18 |  |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2021-12-27 | 2021-12-29 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-28 | 2022-01-15 |
 | [Harnaś ice tea](https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35) | [Gawryle](https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz) | [Harnaś ice tea](https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw) | 2:56 | 2021-12-27 | 2022-01-12 |
@@ -274,7 +275,7 @@
 | [LA STREGA DEL FRUTTETO \(feat\. chiello & Madame\)](https://open.spotify.com/track/4g0OWz92tgdNlBgc80qF6y) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:05 | 2022-01-09 | 2022-01-17 |
 | [Langit Favorit](https://open.spotify.com/track/3wFWiWUWoOSIDs6gRnrTge) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [Langit Favorit](https://open.spotify.com/album/6VuUK4xHGX8fF6aO00wOfI) | 3:19 | 2022-04-23 | 2022-05-11 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-08 | 2022-02-23 |
-| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 |  |
+| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 | 2022-06-19 |
 | [Lawenda](https://open.spotify.com/track/1kuw8HFbvgAg3tNqPj00Mb) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Bedoes](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Hotel Maffija 2](https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk) | 3:34 | 2022-02-15 | 2022-02-19 |
 | [Layla](https://open.spotify.com/track/3QY5JrK6MU3ebwlvQ0iniO) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6UWMCDLupfBDXi7jx7qVIe) | 3:05 | 2022-05-28 | 2022-06-05 |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2022-06-04 |  |

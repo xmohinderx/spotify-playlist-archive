@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : VTK
 
-59 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+60 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 | 2022-03-30 |  |
 | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/track/2jWyHwbUrcQ3UPf5CP9jlU) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/album/4OCpQzSXbW1G754tPR6Qd3) | 4:05 | 2022-06-14 |  |
 | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/track/2fln1y4AGWnEclguilGaca) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/album/1eBXLAdEXKoXPYZiyQtcuD) | 4:07 | 2021-11-29 |  |
+| [Sandaaliye \- From "Yaanai"](https://open.spotify.com/track/0R7eQb7mnHqftgII5Ytzxp) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U), [Arun Vijay](https://open.spotify.com/artist/2FW2TPhMk43qnTiJrngSwv), [Priya Bhavani Shankar](https://open.spotify.com/artist/6r4AZa1qAagDS7uKlmKFan), [Samuthirakani](https://open.spotify.com/artist/7vCsHxLTG4pDFfpbIsbOgt) | [Sandaaliye \(From "Yaanai"\)](https://open.spotify.com/album/6xgq0BWnhEoAc1SGA76PaJ) | 4:19 | 2022-06-18 |  |
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-11-29 |  |
 | [Soorathenga](https://open.spotify.com/track/3i0lFb00XGZHaXdkUqXcG4) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn) | [Soorathenga \- Koogle Kuttappa](https://open.spotify.com/album/279KMS5w1wmHMvoehXEihk) | 4:17 | 2022-04-27 | 2022-06-01 |
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-15 |  |

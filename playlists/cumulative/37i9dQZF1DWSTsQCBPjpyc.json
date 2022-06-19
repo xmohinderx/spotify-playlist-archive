@@ -305,7 +305,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 279460,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "Givin' Up You",
       "url": "https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
@@ -411,21 +411,13 @@
       },
       "artists": [
         {
-          "name": "Eddie Bo",
-          "url": "https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax"
-        },
-        {
-          "name": "Raful Neal",
-          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
-        },
-        {
-          "name": "Rockin Tabby Thomas",
-          "url": "https://open.spotify.com/artist/53gpWYI8iRi8c6GKjHrv4L"
+          "name": "The Hoodoo Kings",
+          "url": "https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR"
         }
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 266426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/6PUW6fl2e2tmdC3fKg2RAu"
@@ -497,7 +489,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 229973,
       "name": "I Always Get My Man",
       "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
@@ -573,7 +565,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 193010,
       "name": "I'm Not Havin' It",
       "url": "https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg"
@@ -735,7 +727,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 273213,
       "name": "Pots And Pans",
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
@@ -833,7 +825,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 284053,
       "name": "Set The Record Straight",
       "url": "https://open.spotify.com/track/4AdSgPoYsFYrIfZZUS9zX9"
@@ -931,7 +923,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 226160,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM"
@@ -971,7 +963,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 208240,
       "name": "Telephone Song",
       "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
@@ -989,7 +981,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 246360,
       "name": "The Moon Is Full",
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
@@ -1065,7 +1057,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 278840,
       "name": "We'll Always Be Together",
       "url": "https://open.spotify.com/track/35lJrhNHp5g0rTEsue06Wh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: emogen, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,798 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,757 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [LP 2 ILL](https://open.spotify.com/track/63Fd4HDhtftWzZzFg1T0YD) | [E\-Kove](https://open.spotify.com/artist/1oy5G3wIJcMmPqOSaWzndE), [Aj Kee Hong](https://open.spotify.com/artist/5ab50mt03i3p35ru1FoSFv) | [LP 2 ILL](https://open.spotify.com/album/5fCIAHOSlxNQUE9nhGBkda) | 3:46 |
 | 7 | [FEVER](https://open.spotify.com/track/6wfWc5cZ1ojKEZWiM1QnO1) | [IONIC](https://open.spotify.com/artist/2O9O2tGdDxXNvDysfH0aHw) | [FEVER](https://open.spotify.com/album/7KCW0dBVPKsD8uSnNaksnY) | 3:34 |
 | 8 | [Lost](https://open.spotify.com/track/0P4p9gudlTlreFg9jcBbTA) | [The Great Dane](https://open.spotify.com/artist/0kBu4TScyrcXugROuOFkqe) | [Lost](https://open.spotify.com/album/7gqdscbGP6ffuOXDsfng4y) | 4:07 |
-| 9 | [When I'm With Her](https://open.spotify.com/track/6HWTecIICnKVSrlREoU7iG) | [Mar Emanuel](https://open.spotify.com/artist/2p8zdB6jWI7mO6oEfbRTJN) | [When I'm With Her](https://open.spotify.com/album/1W5hTzdqTO0p8MvXu438F8) | 2:49 |
+| 9 | [When I'm With Her](https://open.spotify.com/track/6HWTecIICnKVSrlREoU7iG) | [Mar Emanuel](https://open.spotify.com/artist/2p8zdB6jWI7mO6oEfbRTJN), [KurtTheViolinist](https://open.spotify.com/artist/3wuyMrte0tIXkWSQiMBTQt) | [When I'm With Her](https://open.spotify.com/album/1W5hTzdqTO0p8MvXu438F8) | 2:49 |
 | 10 | [EASY](https://open.spotify.com/track/34MHxygBNOVdgo1oYFj57m) | [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [EASY](https://open.spotify.com/album/4JPq6wRNRWOy5P54TKBC1F) | 4:51 |
 | 11 | [Hanggang Dulo](https://open.spotify.com/track/6IFY5zUg2E4jb8SpQr7qCR) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Jeo$ Giftmerc](https://open.spotify.com/artist/7eis0nkDtxnpVDFByjRQiW) | [Hanggang Dulo](https://open.spotify.com/album/6v8WPcHFpCcrtCf76Hr12G) | 2:20 |
 | 12 | [Masayang Panaginip](https://open.spotify.com/track/272DFEBRMeKXLmLYp3oIu3) | [Jeremiah Ellaga](https://open.spotify.com/artist/0zH0VRggznE2vwaL6OLm2i) | [Masayang Panaginip](https://open.spotify.com/album/63XpfRyqSxsy5Ypxii3cHu) | 4:48 |

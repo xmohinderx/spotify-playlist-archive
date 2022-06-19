@@ -1828,6 +1828,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Jukebox Joint](/playlists/pretty/37i9dQZF1DXbvE0SE0Cczh.md)
 - [Jump Blues](/playlists/pretty/37i9dQZF1DX7nt6DdNdydo.md)
 - [Jump Up!](/playlists/pretty/37i9dQZF1DX4to60X6goeK.md)
+- [JumpOff](/playlists/pretty/37i9dQZF1DX6tw5tib6ZrB.md)
 - [June 10](/playlists/pretty/1pARmsw0z4yebhBtZKxAU0.md)
 - [June 2](/playlists/pretty/5PzDJIsyNnFxgu0t6Lf41G.md)
 - [June Tunes](/playlists/pretty/37i9dQZF1DX8eMyhtzAuvp.md)

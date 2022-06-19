@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,279 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,311 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 12 | [Adiye Agalvizhiye](https://open.spotify.com/track/0thiJnUuAP9G2TlZL9UTRW) | [S.D.Sadikh Hassan](https://open.spotify.com/artist/5WwXNl9tjuWWjdOtCZiwye), [Yuvan Murugan](https://open.spotify.com/artist/0PY0HrnlOHqWQ7jsMfJexC) | [Adiye Agalvizhiye](https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32) | 4:53 |
 | 13 | [Dei \- From "Think Specials"](https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo) | [Inbaraj Rajendran](https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ), [Anugraha Raphy](https://open.spotify.com/artist/2mOt2eAGBhSlwjiQNkVvvN) | [Dei \(From "Think Specials"\)](https://open.spotify.com/album/721Fc2J0RU2yPYUroSfKEG) | 3:44 |
 | 14 | [Ovvoru Naalum \- Naatpadu Theral \- 2](https://open.spotify.com/track/0sPCPkr4hQoVheoaVGGrDw) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Ovvoru Naalum \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3NkQzDjlurEUzEC9xW0M5P) | 5:22 |
-| 15 | [Na Enna Adimaiya](https://open.spotify.com/track/5ep5QAV0TcVhFZLHeXpOjy) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Na Enna Adimaiya](https://open.spotify.com/album/2dioMqfHluPd1Auh6Q8g2I) | 3:58 |
+| 15 | [Na Enna Adimaiya](https://open.spotify.com/track/5ep5QAV0TcVhFZLHeXpOjy) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Na Enna Adimaiya](https://open.spotify.com/album/2dioMqfHluPd1Auh6Q8g2I) | 3:58 |
 | 16 | [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/track/132C9FKUMjowhus183wY21) | [CJL](https://open.spotify.com/artist/3SYJxJLEwUw30kArVkoPUi), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/album/1aBDMrqmVeIk6vofRZNg8g) | 3:24 |
 | 17 | [Chippi Kooptan](https://open.spotify.com/track/2axEkmBxTImc565wMJqw58) | [DJ Rishi](https://open.spotify.com/artist/3wJ0LKMmTtsQ6NYJvs1KhB), [Priya Foxie](https://open.spotify.com/artist/0rxSQ5raFS4rleg7MrwjnH), [Miba](https://open.spotify.com/artist/3WxC1wIA5ZOhZs9a1MWwaW) | [Chippi Kooptan](https://open.spotify.com/album/2IH9QWV8YToJW4NBXAgRP9) | 4:46 |
 | 18 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 |

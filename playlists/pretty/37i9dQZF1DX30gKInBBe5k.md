@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,885 likes - 85 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,063 likes - 85 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

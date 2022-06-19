@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180263,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
+    },
+    {
+      "album": {
         "name": "New England",
         "url": "https://open.spotify.com/album/7jSPhpCKF0PXgZ2ntVWSnn"
       },

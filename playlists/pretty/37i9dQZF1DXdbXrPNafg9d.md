@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,429 likes - 228 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,394 likes - 228 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

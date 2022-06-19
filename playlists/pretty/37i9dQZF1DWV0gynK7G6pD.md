@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Chad Lawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,976 likes - 61 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,127 likes - 61 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 15 | [Ravel: Le Tombeau de Couperin, M\. 68: VI\. Toccata](https://open.spotify.com/track/1h3cbMz2bdv9uFbSZ8oe8f) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Kim Bernard](https://open.spotify.com/artist/6u47pAuYROjQ7qTJqRAITE) | [Chopin, Debussy & Ravel](https://open.spotify.com/album/6Qcsb0EdiOyClz277GkuGU) | 3:52 |
 | 16 | [Rhapsody in Blue](https://open.spotify.com/track/3q9hYn4ql7nWq88ma2hTBL) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Filippo Faes](https://open.spotify.com/artist/47UphomiGqUMlbEwWNrSN3), [Cologne New Philharmonic Orchestra](https://open.spotify.com/artist/4jSOT0xN5OKPgEfawfzInB), [Volker Hartung](https://open.spotify.com/artist/19nzpbhd3Yv5PQXtWKZkhX) | [Gershwin: Rhapsody in Blue & An American in Paris \- Gertsel: Gershwin\-Fantasy for Violin & Orchestra](https://open.spotify.com/album/24lSjvMiUdttKM0pEWDqyJ) | 16:02 |
 | 17 | [Sicilienne \(arr\. for violin and strings by Mariana Rudakevych\)](https://open.spotify.com/track/7s5us3zFqb78MNHdGnw9ph) | [Maria Theresa von Paradis](https://open.spotify.com/artist/2zyLLhavAl32o2ZIoWpfsT), [Sebastian Bohren](https://open.spotify.com/artist/09X8h8KnrnZ85Y6YZaGCN0), [Stringendo Zürich](https://open.spotify.com/artist/3XnIzmAqZnY6PZWhK0goAe), [Jens Lohmann](https://open.spotify.com/artist/0Wc50ZZCFrmqB2uYG9KbC3) | [La Folia – Sebastian Bohren](https://open.spotify.com/album/6NuelWr3pcJreay7oqFuEq) | 3:27 |
-| 18 | [The Song for my Brother \(Original Television Soundtrack\)](https://open.spotify.com/track/4Vg89BZzilY3FnzQws0Lqc) | [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [The Song for my Brother \(Original Television Soundtrack\)](https://open.spotify.com/album/2obmGzJV5Qrec7UAUNDJXT) | 2:16 |
+| 18 | [The Song for my Brother \(OTS Soundtrack from CLOY\)](https://open.spotify.com/track/4Vg89BZzilY3FnzQws0Lqc) | [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [The Song for my Brother \(OTS Soundtrack from CLOY\)](https://open.spotify.com/album/2obmGzJV5Qrec7UAUNDJXT) | 2:16 |
 | 19 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [Mondëna Quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
 | 20 | [Endymion: 2\. Responds!](https://open.spotify.com/track/7xdUc1efrv21wGkcwBd9Zl) | [Helen Ostafew](https://open.spotify.com/artist/3kiATWMYFXKmxhWlH6UDiq), [La Colombe](https://open.spotify.com/artist/1w06a4HD4nM27kx2d401KD), [Iassen Raykov](https://open.spotify.com/artist/31AbvWWdT3PSPG3QcNoqtq) | [Endymion: 2\. Responds!](https://open.spotify.com/album/7mViGyX7wQfYJ4As2okoxZ) | 3:56 |
 | 21 | [Stasis](https://open.spotify.com/track/7mgxUCbaQb91LTyJNzvHNO) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Stasis](https://open.spotify.com/album/3tezol86UpZAMvyEklO9yr) | 1:43 |

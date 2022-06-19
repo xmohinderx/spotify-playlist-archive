@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,503 likes - 155 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,677 likes - 155 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

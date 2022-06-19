@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ecologyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,648 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,668 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 15 | [Proibidão](https://open.spotify.com/track/0tHrwWKfAHGWmJ38X5ta4q) | [Meno Will](https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Proibidão](https://open.spotify.com/album/5Usj6idcQVtU21T1KGgFsa) | 2:27 |
 | 16 | [Tralha](https://open.spotify.com/track/7JXGcuv2CY9U6OBVCuSUyU) | [$nif](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw) | [Tralha](https://open.spotify.com/album/4yeZ500YR28F9lZr9uTBQd) | 3:12 |
 | 17 | [Placo \(feat\. Putodiparis\)](https://open.spotify.com/track/457MK81IVMIuYQWpJzFQgU) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Placo \(feat\. Putodiparis\)](https://open.spotify.com/album/6eUs5hQgQsnKdY14k66i2q) | 3:12 |
-| 18 | [Se Envolve](https://open.spotify.com/track/5LiLgO6j2JCb9Yicoc6Skq) | [Gabe O.](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Envolve](https://open.spotify.com/album/4RE5ghQqfnUDPDHuqb97ej) | 3:02 |
+| 18 | [Se Envolve](https://open.spotify.com/track/5LiLgO6j2JCb9Yicoc6Skq) | [Gabe O.](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM) | [Se Envolve](https://open.spotify.com/album/4RE5ghQqfnUDPDHuqb97ej) | 3:02 |
 | 19 | [TATTOO NA CARA](https://open.spotify.com/track/4ke9xQw26WuGhrypXm5R7C) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [TATTOO NA CARA](https://open.spotify.com/album/5OaLYkm6vsgpxwkYbHLIRz) | 2:18 |
 | 20 | [Flex](https://open.spotify.com/track/363x2t2ILnLexTJHcZkmro) | [Jhowts ele memo](https://open.spotify.com/artist/30vmHS41FzNdB5MNo8V4f8), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Flex](https://open.spotify.com/album/2Wih6lE4gnllQqkAGx45Gj) | 2:07 |
 | 21 | [Mario Kart](https://open.spotify.com/track/4e4aIydHhBdQmfDMkqfsv3) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Mario Kart](https://open.spotify.com/album/16Ntdd9rlMOzHi8CybCONz) | 2:24 |

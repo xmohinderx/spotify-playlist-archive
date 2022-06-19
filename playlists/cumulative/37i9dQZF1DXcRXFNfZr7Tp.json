@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Current favorites and exciting new music. Cover: Harry Styles ",
+  "description": "Current favorites and exciting new music. Cover: Nathan Dawe, Ella Henderson ",
   "name": "just hits",
   "published_playlist_ids": [
     "3WiuwmFbePnraYS0qJlHtM"
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
@@ -3661,7 +3661,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -5509,7 +5509,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185564,
-      "name": "In the Dark",
+      "name": "In The Dark",
       "url": "https://open.spotify.com/track/2zGinlHrvcbx1Qd62jTxSX"
     },
     {
@@ -7055,6 +7055,24 @@
       "duration_ms": 250680,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1qnWNtZn43T7SyDyplj8yE"
+    },
+    {
+      "album": {
+        "name": "Magical Love",
+        "url": "https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185966,
+      "name": "Magical Love",
+      "url": "https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ"
     },
     {
       "album": {
@@ -9985,6 +10003,28 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa"
+    },
+    {
+      "album": {
+        "name": "Walkerverse, Pt. I",
+        "url": "https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
     },
     {
       "album": {

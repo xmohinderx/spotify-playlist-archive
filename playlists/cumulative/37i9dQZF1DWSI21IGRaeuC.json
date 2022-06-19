@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 421381,
       "name": "Free",
       "url": "https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
@@ -868,6 +868,24 @@
     },
     {
       "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ"
+      },
+      "artists": [
+        {
+          "name": "Fleur Shore",
+          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341904,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq"
+    },
+    {
+      "album": {
         "name": "Superfly",
         "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
       },
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 373032,
       "name": "The Ciggie",
       "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 474418,
       "name": "The Source",
       "url": "https://open.spotify.com/track/0IGSz0dzwfcon4rI6kyLTU"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 423934,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj"

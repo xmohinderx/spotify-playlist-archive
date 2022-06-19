@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 183480,
       "name": "All for you (Feat. KIRIN)",
       "url": "https://open.spotify.com/track/2VO8V0IXfRrtDDx1gQIYOw"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 239374,
       "name": "Baddest Nice Guys",
       "url": "https://open.spotify.com/track/6vCW3fqQPBNfylFFzttu40"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 210546,
       "name": "Ben Baller",
       "url": "https://open.spotify.com/track/6DiUNb7fewa9TVSSR2nm8v"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 196746,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/2nV0NLflAS8JaOFwEzuxqf"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 154573,
       "name": "Call You Bae",
       "url": "https://open.spotify.com/track/0pdKEjHWRpjnRD6jV9ztNf"
@@ -527,6 +527,24 @@
       "duration_ms": 180811,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/5wz4SsrEjTJSBa18myF349"
+    },
+    {
+      "album": {
+        "name": "New Breed",
+        "url": "https://open.spotify.com/album/6AKe9ZKXKF23ydgTKDQL9L"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Clap (feat. Tiger JK & Tasha)",
+      "url": "https://open.spotify.com/track/3xhpwRD3wCUR1KejUmREdR"
     },
     {
       "album": {
@@ -745,7 +763,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 180250,
       "name": "Do What I Like",
       "url": "https://open.spotify.com/track/4qnk7LAcK0eLcQXRl9EESa"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 274449,
       "name": "Evolution (feat. Gray)",
       "url": "https://open.spotify.com/track/1hVoVvwcuVJeH3AMNMcWqC"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 133266,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5CDkXFsN0t2RloFhVqZJ3k"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 230414,
       "name": "Feature (feat. Cha Cha Malone)",
       "url": "https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 311548,
       "name": "Finish Line (feat. pH-1, Woodie Gochild, HAON, Avatar Darko & Sik-K) [Remix]",
       "url": "https://open.spotify.com/track/3gh8rXLkaid0YMZ1ou83gU"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 190029,
       "name": "Forever (with DJ Ale Mora) [feat. Cha Cha Malone]",
       "url": "https://open.spotify.com/track/2IwqVITCYgOcD5fInH0VSV"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 432026,
       "name": "GRAYGROUND Cypher",
       "url": "https://open.spotify.com/track/6Onwr6vf4pPU2GnaYh0ygf"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 123280,
       "name": "K-TOWN",
       "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 211426,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0hJjJg3JBczHIVNpyJxa28"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 260985,
       "name": "NOWHERE",
       "url": "https://open.spotify.com/track/1l5vIsfcyrpMKwRN8xQ5K8"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 163531,
       "name": "Replay",
       "url": "https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 191187,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/3rMDfuxGyBLyI46q1xgSoA"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 226278,
       "name": "Sex Trip",
       "url": "https://open.spotify.com/track/3DnTUScRmTqeNkkgBW6kpA"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "SHOWDOWN (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/3lH41KJxd4mFvTNzndIrNU"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 228840,
       "name": "SOJU (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 214374,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3q7IOUrYa0hQZkhC1ZVFTS"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 237440,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1irf5BD6Hz57O8cuDARLbn"
@@ -2987,7 +3005,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 217466,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/3uBjlZLu1ZFSU0IBWpBgfj"
@@ -3531,7 +3549,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 286188,
       "name": "\ubcd1\uc2e0 F*ckboy (feat. Sik-K, Bewhy & Ugly Duck)",
       "url": "https://open.spotify.com/track/61uNWyvCkD5xH3VHDc0PNo"
@@ -3571,7 +3589,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 244153,
       "name": "\ubed4\ud558\uc796\uc544 You Know (feat. Okasian)",
       "url": "https://open.spotify.com/track/0YJjugu2dbpcxY3ChD6AkK"
@@ -3589,7 +3607,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 236919,
       "name": "\uc0ac\uc2e4\uc740 The Truth Is",
       "url": "https://open.spotify.com/track/12WXS7SwLIRXJEbi3gFy1E"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 201776,
       "name": "\uc57d\uc18d\ud574 The Promise",
       "url": "https://open.spotify.com/track/3PrcKr7ICzqowzpolLUjRF"
@@ -3643,7 +3661,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 240759,
       "name": "\uc62c\ub77c\ud0c0 Ride Me",
       "url": "https://open.spotify.com/track/4ZQD73SRpHdL2e1HM146ib"

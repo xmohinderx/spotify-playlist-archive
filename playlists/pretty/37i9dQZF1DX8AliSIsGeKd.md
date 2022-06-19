@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,595 likes - 75 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,820 likes - 75 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 64 | [Beautiful Silence \- FKA Mash Afro Glitch](https://open.spotify.com/track/3RA1coQHKERaMErmbcooZq) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [The Forgotten Ones](https://open.spotify.com/album/7pU5AiXXfG7rRkuwWdpunP) | 6:38 |
 | 65 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flute](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 |
 | 66 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
-| 67 | [Scilla E Cariddi](https://open.spotify.com/track/6wPqdQuxXZy6XY8FIaKzR6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Scilla & Cariddi](https://open.spotify.com/album/0CJqDxzR5S4c7TIQ8aPrdh) | 2:35 |
+| 67 | [Scilla E Cariddi](https://open.spotify.com/track/6wPqdQuxXZy6XY8FIaKzR6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Scilla E Cariddi](https://open.spotify.com/album/0CJqDxzR5S4c7TIQ8aPrdh) | 2:35 |
 | 68 | [Feel You \- Will Clarke Remix – Radio Edit](https://open.spotify.com/track/6zKpWHqAB2PWfCKmWMp2hI) | [Camea](https://open.spotify.com/artist/0MnbWZjm9z5LJewMuB7s5X), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Saskia Krause](https://open.spotify.com/artist/2YSjty07Sb1bf1YO2pYjdp) | [Feel You \(Will Clarke Remix – Radio Edit\)](https://open.spotify.com/album/2ZdfRYDb8uoP9IW63vR5UF) | 3:43 |
 | 69 | [10 West](https://open.spotify.com/track/2LHhjFYwkh0xsoMFyL1V6N) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [10 West \(Anfisa Letyago Remix\)](https://open.spotify.com/album/5R8aXQjmotxHyYszO0oVcR) | 6:10 |
 | 70 | [Mental Wall](https://open.spotify.com/track/13jLcyLqDBl4aWz8Lmbami) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Mental Wall](https://open.spotify.com/album/6su07aveL7ZmTQCasR6w3t) | 6:11 |

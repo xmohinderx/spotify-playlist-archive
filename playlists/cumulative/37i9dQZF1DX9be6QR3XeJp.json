@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Cat Burns",
+  "description": "Discover your new favourite artists. Cover: Anish Kumar",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1692,6 +1692,24 @@
     },
     {
       "album": {
+        "name": "Steamroller",
+        "url": "https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN"
+    },
+    {
+      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/6lEyQ7UXtPv3oipyWkDHzn"
       },
@@ -1733,7 +1751,7 @@
       },
       "artists": [
         {
-          "name": "ezra williams",
+          "name": "Ezra Williams",
           "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],

@@ -4,7 +4,7 @@
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-183 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/0bnb3GvHc34tvHdaEQo6mN)
+185 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/0bnb3GvHc34tvHdaEQo6mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [내 사람이여](https://open.spotify.com/track/4LW8MyZeVjxElIWDYaPz09) | [싱어게인 26호 가수](https://open.spotify.com/artist/0doaccwlWIDSY31MZ7G5MJ) | [싱어게인 \- 무명가수전 Episode.9](https://open.spotify.com/album/4bmZ69nhccRBplZeLwkTEA) | 3:47 | 2022-05-03 |  |
 | [너에게로 또 다시](https://open.spotify.com/track/4PtGa8pl7h32gmIJdzczAD) | [싱어게인 17호 가수](https://open.spotify.com/artist/3ge4KHIcKBHLOIolV65bvN) | [싱어게인 \- 무명가수전 Episode.3](https://open.spotify.com/album/4dQrdROqSQnzaEn7iXvPwN) | 2:38 | 2022-05-03 |  |
 | [너였다면](https://open.spotify.com/track/5459kV7pB9H0BN67LVao1s) | [싱어게인 33호 가수](https://open.spotify.com/artist/5xydKL4CZpKPDAd9t45A5u) | [싱어게인 \- 무명가수전 Episode.8](https://open.spotify.com/album/76G1HaNtAcnJvsN2CKd3H2) | 3:41 | 2022-05-03 |  |
+| [라라라 \- Live](https://open.spotify.com/track/10MeQatXX0NJ8qE8JH2eB3) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK), [안다은](https://open.spotify.com/artist/0CY974U4NGFzqxu7nfSpL2) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:43 | 2022-06-18 |  |
 | [리베카](https://open.spotify.com/track/08NSQPCA1gvjVbCqjk3zFd) | [싱어게인 37호 가수](https://open.spotify.com/artist/3K3FF1KKZNtyHqYoZHvZIw) | [싱어게인 \- 무명가수전 Episode.3](https://open.spotify.com/album/4dQrdROqSQnzaEn7iXvPwN) | 2:46 | 2022-05-03 |  |
 | [못다핀 꽃 한송이](https://open.spotify.com/track/5U2tS8ul6UI6EbsfEQIMQg) | [싱어게인 29호 가수](https://open.spotify.com/artist/2ZPVF0IX32ummZ5GtCbeOA) | [싱어게인 \- 무명가수전 Episode.8](https://open.spotify.com/album/76G1HaNtAcnJvsN2CKd3H2) | 3:15 | 2022-05-03 |  |
 | [미아\(迷兒\)](https://open.spotify.com/track/21fpxs2VOg9xQ7ZmXpSRst) | [싱어게인 20호 가수](https://open.spotify.com/artist/0gvzcSgTOTwKBINHPKfZuE) | [싱어게인 \- 무명가수전 Episode.9](https://open.spotify.com/album/4bmZ69nhccRBplZeLwkTEA) | 4:04 | 2022-05-03 |  |
@@ -191,5 +192,6 @@
 | [제발](https://open.spotify.com/track/0XBzX6PDcSqr0cpEAjVTMv) | [싱어게인 29호 가수](https://open.spotify.com/artist/2ZPVF0IX32ummZ5GtCbeOA) | [싱어게인 \- 무명가수전 Episode.7](https://open.spotify.com/album/604hYPolwhs3lCWlBlU20G) | 3:08 | 2022-05-03 |  |
 | [한바탕 웃음으로](https://open.spotify.com/track/1p7WL0M34h8Lnz2RFGtXYr) | [아담스\(싱어게인 59호 가수](https://open.spotify.com/artist/5AriHBo8SUT2JMQsrVABPy), [싱어게인 67호 가수](https://open.spotify.com/artist/5UpTGSRwHYP4Z6m4nCblie) | [싱어게인 \- 무명가수전 Episode.5](https://open.spotify.com/album/7vxmdHIhBtOVONgP7GXGnl) | 3:11 | 2022-05-03 |  |
 | [휘파람](https://open.spotify.com/track/1DnctU8HSpai0u6Y4S22HB) | [싱어게인 63호 가수](https://open.spotify.com/artist/3fya9srzSgNvIzAZj5QKMR) | [싱어게인 \- 무명가수전 Episode.6](https://open.spotify.com/album/0s9oyYrRSNaTCrnTStieDL) | 3:43 | 2022-05-03 |  |
+| [휠릴리 \- Live](https://open.spotify.com/track/4dqF1ogDWdne9aLaTbdbSV) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:52 | 2022-06-18 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

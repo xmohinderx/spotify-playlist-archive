@@ -1,13 +1,77 @@
 {
-  "description": "All new, all blues. Cover: G. Love",
-  "num_followers": 118054,
+  "description": "All new, all blues. Cover: Ben Harper",
+  "num_followers": 118100,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDgzMzcyMCwwMDAwMDBjMTAwMDAwMTgxNGJjNmFiMWIwMDAwMDE4MGFlYTU0YTQ0",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDBjMjAwMDAwMTgxNmZkMzJmNDcwMDAwMDE4MTYyOGU1NjY4",
   "tracks": [
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "We Need To Talk About It",
+        "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 173678,
+      "name": "We Need To Talk About It",
+      "url": "https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "They Go Low",
+        "url": "https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 222685,
+      "name": "They Go Low",
+      "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Rolling Around in It",
+        "url": "https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Rolling Around in It",
+      "url": "https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Fire with Fire",
+        "url": "https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Fire with Fire",
+      "url": "https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH"
+    },
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
@@ -37,22 +101,6 @@
       "url": "https://open.spotify.com/track/4QmpGQH2Iv6u9wxAdZn18l"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Rolling Around in It",
-        "url": "https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Rolling Around in It",
-      "url": "https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Yada Yada",
@@ -67,38 +115,6 @@
       "duration_ms": 155449,
       "name": "Yada Yada",
       "url": "https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Fire with Fire",
-        "url": "https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Fire with Fire",
-      "url": "https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "They Go Low",
-        "url": "https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 222685,
-      "name": "They Go Low",
-      "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -225,38 +241,6 @@
       "url": "https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "All Roads Are Good",
-        "url": "https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj"
-      },
-      "artists": [
-        {
-          "name": "OPLIAM",
-          "url": "https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE"
-        }
-      ],
-      "duration_ms": 182907,
-      "name": "All Roads Are Good",
-      "url": "https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Stay away from me",
@@ -271,22 +255,6 @@
       "duration_ms": 162622,
       "name": "Stay away from me",
       "url": "https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb"
-      },
-      "artists": [
-        {
-          "name": "Josh Mosier",
-          "url": "https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -319,22 +287,6 @@
       "duration_ms": 162030,
       "name": "Hits Like Lightning",
       "url": "https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Trudoo",
-        "url": "https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 217059,
-      "name": "Trudoo",
-      "url": "https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -389,38 +341,6 @@
       "url": "https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Shout Into The Noise",
-        "url": "https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sweetwater",
-        "url": "https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg"
-      },
-      "artists": [
-        {
-          "name": "Digging Roots",
-          "url": "https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Sweetwater",
-      "url": "https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Shining in the Half Light",
@@ -435,30 +355,6 @@
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Po'Boy",
-        "url": "https://open.spotify.com/album/3fsDoBxHUFylgxmNNNtzC3"
-      },
-      "artists": [
-        {
-          "name": "Downsyde",
-          "url": "https://open.spotify.com/artist/5IYhAFrGFVMdr7KONm9dy4"
-        },
-        {
-          "name": "Flewnt",
-          "url": "https://open.spotify.com/artist/1Z7NTJcWCg7WUuVLVxK9SW"
-        },
-        {
-          "name": "Harts",
-          "url": "https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Po'Boy",
-      "url": "https://open.spotify.com/track/04ibCVdEfOcScBSwmAWAAN"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -677,22 +573,6 @@
       "url": "https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Good for Nothing",
-        "url": "https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Good for Nothing",
-      "url": "https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "The Man Was Burning",
@@ -901,82 +781,6 @@
       "url": "https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "Up and Rolling (feat. Son Little and Valerie June)",
-        "url": "https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 201921,
-      "name": "Up and Rolling (feat. Son Little and Valerie June)",
-      "url": "https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Loud [Feat. Tech N9ne]",
-      "url": "https://open.spotify.com/track/50l33yFFCNnGRdB301Hvur"
-    },
-    {
-      "added_at": "2021-08-30 17:58:16",
-      "album": {
-        "name": "Be The Love You Want",
-        "url": "https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 196824,
-      "name": "Be The Love You Want",
-      "url": "https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Fancy Drones (Fracture Me) [Live at Studio 615 / May 2021]",
-        "url": "https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 197441,
-      "name": "Fancy Drones (Fracture Me) - Live at Studio 615 / May 2021",
-      "url": "https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL"
-    },
-    {
       "added_at": "2021-10-19 17:21:16",
       "album": {
         "name": "Heart of Fire",
@@ -1109,22 +913,6 @@
       "url": "https://open.spotify.com/track/70EjHDvkFck4j5LZvVzt1Z"
     },
     {
-      "added_at": "2021-08-30 17:58:16",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 182468,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA"
-    },
-    {
       "added_at": "2021-10-19 17:22:51",
       "album": {
         "name": "Love on the Rocks",
@@ -1245,22 +1033,6 @@
       "url": "https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Comes Easy to Me",
-        "url": "https://open.spotify.com/album/4AyLn4EwySfPvpRGQa1wHy"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Comes Easy to Me",
-      "url": "https://open.spotify.com/track/3O0Q20ESvI3rLGWmcCSIe8"
-    },
-    {
       "added_at": "2021-07-26 19:02:12",
       "album": {
         "name": "Nothing but Rust",
@@ -1277,22 +1049,6 @@
       "url": "https://open.spotify.com/track/2BUMJVgm9JM80VyYKkRzQK"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "'Til This Pain Goes Away",
-        "url": "https://open.spotify.com/album/1MA7kYhhBf655BbxahqTjo"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 149279,
-      "name": "'Til This Pain Goes Away",
-      "url": "https://open.spotify.com/track/0I6N0Vjf4AlSmB1E4rzeyM"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Better Days",
@@ -1307,22 +1063,6 @@
       "duration_ms": 274040,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "That's The Way I Feel About You",
-        "url": "https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha"
-      },
-      "artists": [
-        {
-          "name": "Ali McGuirk",
-          "url": "https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM"
-        }
-      ],
-      "duration_ms": 293141,
-      "name": "That's The Way I Feel About You",
-      "url": "https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06"
     }
   ],
   "unique_name": "Nu-Blue",

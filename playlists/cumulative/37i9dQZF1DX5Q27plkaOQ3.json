@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Affliction",
+        "url": "https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs"
+      },
+      "artists": [
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199275,
+      "name": "Affliction",
+      "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
       },
@@ -173,6 +191,28 @@
       "duration_ms": 252800,
       "name": "Angels & Blindfolds",
       "url": "https://open.spotify.com/track/5iy9QH67HXDjgThOthkDeV"
+    },
+    {
+      "album": {
+        "name": "Arabian Knights",
+        "url": "https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT"
     },
     {
       "album": {
@@ -289,7 +329,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 239419,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/7oDZBGVhuPVJhpIwxATclK"
@@ -447,7 +487,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 176193,
       "name": "Bakin'",
       "url": "https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r"
@@ -635,7 +675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 165517,
       "name": "Bullet Hole",
       "url": "https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs"
@@ -701,7 +741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 203984,
       "name": "busy",
       "url": "https://open.spotify.com/track/6r8qsydGDCWTdyYPAgqHrw"
@@ -869,7 +909,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 176875,
       "name": "collusion",
       "url": "https://open.spotify.com/track/1fuD0mWleShbrcRQmFYifG"
@@ -2809,7 +2849,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "RETURN TO DUST",
       "url": "https://open.spotify.com/track/0VaeBuGMjBjhjrQP0d8xbE"
@@ -2919,7 +2959,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 207272,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/7rjmFwiYQ3Fx1DaKBmBgIo"
@@ -3109,6 +3149,28 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "album": {
+        "name": "Sleep (with Calcium)",
+        "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214631,
+      "name": "Sleep (with Calcium)",
+      "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
     },
     {
       "album": {
@@ -3765,7 +3827,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 211862,
       "name": "Watch Me - Jon Casey",
       "url": "https://open.spotify.com/track/22tYNfFswhekyfe3VACcgr"
@@ -3849,7 +3911,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 212267,
       "name": "\u982d\u3092\u304b\u3061\u5272\u308b (Split 200 000)",
       "url": "https://open.spotify.com/track/3zTqOlekJDI38osbQXT73z"

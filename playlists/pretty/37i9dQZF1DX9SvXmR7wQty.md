@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,510 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,529 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 22 | [Marée Haute](https://open.spotify.com/track/2euRY17DDcQYzQO3sH4Pro) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Marée Haute](https://open.spotify.com/album/1RD0y2GK4OTiSD3CluNKvT) | 3:47 |
 | 23 | [Péché mortel](https://open.spotify.com/track/5z3P4SxsoTwaCmCfOSBLIr) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Péché mortel](https://open.spotify.com/album/0MQvzZcfs3fMPxDyTfFXP8) | 2:57 |
 | 24 | [Mon homme \- Petit Pied Remix \- Radio Edit](https://open.spotify.com/track/4AvDT7jjSGk3PkiA3snhKt) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts), [Petit Pied](https://open.spotify.com/artist/1S8FEpwG6hNRRglxDeMjza) | [Gaminette](https://open.spotify.com/album/0SM7e7lev1ZRLm5hOft8ct) | 3:05 |
-| 25 | [Belladonna](https://open.spotify.com/track/2R54g6Hs3JIjAvm8xwgQQ7) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z) | 2:34 |
+| 25 | [Belladonna](https://open.spotify.com/track/2VyaXdZuSphXPpgAcUMfY9) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3J9ANviNFKUfWgvAPSDHIp) | 2:34 |
 | 26 | [Loved By You \- Version Française](https://open.spotify.com/track/6RpUKAZJKqA9yCazC9JmH3) | [Raff Pylon](https://open.spotify.com/artist/6XuPqTcx9G6F1Y5q0n9oB1) | [Loved By You \(Version Française\)](https://open.spotify.com/album/2nQLNgrcmVbCPL7AjDJZmE) | 2:14 |
 | 27 | [Le retour](https://open.spotify.com/track/4181FQbCs5M4QUtCeyBDyS) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Le retour](https://open.spotify.com/album/3ownVoBchx3CqJCeB2P58M) | 3:50 |
 | 28 | [Ganga](https://open.spotify.com/track/1tWSVHmSZqi4SRFQ3uYIm2) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Ganga](https://open.spotify.com/album/4zF1Lkv4tPhsPO9oxI5hLP) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 |
 | 50 | [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 |
 
-Snapshot ID: `MTY1NTQzODQ2MCwwMDAwMDQyMjAwMDAwMTgxNmZkMjQ1NjIwMDAwMDE4MTZkODgyMDU1`
+Snapshot ID: `MTY1NTUzMzI0MSwwMDAwMDQyMzAwMDAwMTgxNzU3ODg2NjkwMDAwMDE4MTZkODgyMDU1`

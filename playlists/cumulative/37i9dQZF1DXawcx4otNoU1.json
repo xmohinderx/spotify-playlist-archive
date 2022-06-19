@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 222693,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4tEOsrXMgqMbBOGQ91FRvT"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 213577,
       "name": "Nice and Slow",
       "url": "https://open.spotify.com/track/3EfqfnRqI4Tq2RZVRHvgoM"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 189507,
       "name": "One Plus One",
       "url": "https://open.spotify.com/track/0OsSmLcubSTOVrdpaMAWRH"
@@ -2220,6 +2220,28 @@
     },
     {
       "album": {
+        "name": "Risking It All",
+        "url": "https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        },
+        {
+          "name": "Kiki Rowe",
+          "url": "https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Risking It All",
+      "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
+    },
+    {
+      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH"
       },
@@ -2271,6 +2293,24 @@
       "duration_ms": 243784,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
+    },
+    {
+      "album": {
+        "name": "Send Nudes",
+        "url": "https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Send Nudes",
+      "url": "https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y"
     },
     {
       "album": {
@@ -2517,7 +2557,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"

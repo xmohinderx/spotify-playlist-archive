@@ -2436,6 +2436,32 @@
     },
     {
       "album": {
+        "name": "D\u00fcnya Fani",
+        "url": "https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116572,
+      "name": "D\u00fcnya Fani",
+      "url": "https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Hain",
         "url": "https://open.spotify.com/album/3RAvIEnzET2DeC0ic8MNsx"
       },
@@ -2945,7 +2971,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 152559,
       "name": "Ferag\u00e2t",
       "url": "https://open.spotify.com/track/72EjrX3xp4Ea2nhQRY6LMI"
@@ -6844,6 +6870,36 @@
     },
     {
       "album": {
+        "name": "Rastgele",
+        "url": "https://open.spotify.com/album/45Ti9P9oHIllZ96q94v8s3"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        },
+        {
+          "name": "Mustafa Ceceli",
+          "url": "https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Rastgele",
+      "url": "https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq"
+    },
+    {
+      "album": {
         "name": "Riv Riv Riv",
         "url": "https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7"
       },
@@ -8553,7 +8609,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 135908,
       "name": "Zeki M\u00fcren",
       "url": "https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL"

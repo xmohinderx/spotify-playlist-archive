@@ -4,7 +4,7 @@
 
 > Les nouveautés francophones de la semaine\. Photo: Aya Nakamura
 
-834 songs - 1 day 20 hr 43 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+835 songs - 1 day 20 hr 46 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-18 | 2022-04-02 |
 | [Beaucoup de plaisir \- Version du film \- Live dans le plaisir](https://open.spotify.com/track/6L8LOAFRHFVJphGsxxgFyq) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Live dans le plaisir](https://open.spotify.com/album/4fk4M6j43vsmr33acwTg1o) | 3:12 | 2021-12-31 | 2022-01-22 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2022-06-18 |
-| [Belladonna](https://open.spotify.com/track/2R54g6Hs3JIjAvm8xwgQQ7) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z) | 2:34 | 2022-06-17 |  |
+| [Belladonna](https://open.spotify.com/track/2R54g6Hs3JIjAvm8xwgQQ7) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z) | 2:34 | 2022-06-17 | 2022-06-19 |
+| [Belladonna](https://open.spotify.com/track/2VyaXdZuSphXPpgAcUMfY9) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3J9ANviNFKUfWgvAPSDHIp) | 2:34 | 2022-06-18 |  |
 | [Beriz](https://open.spotify.com/track/2taeWDYU3KPjlxvSy7nSVH) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [Coup De Feu Rue De La Paix](https://open.spotify.com/album/64HldXz7R0KapCaiAiZiYC) | 3:17 | 2022-03-11 | 2022-03-26 |
 | [Bizarre](https://open.spotify.com/track/5jYymZiiU3A0PL82QrAFsq) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [Karma](https://open.spotify.com/album/20Jgv3KFwrvaxUxAJ3JUQG) | 2:51 | 2022-01-28 | 2022-02-12 |
 | [Blackout](https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH) | [Dix\-iple Deca](https://open.spotify.com/artist/1V2KK1iPj58TL4WNg9xIj1), [Jamal Jaykob](https://open.spotify.com/artist/49dFhwGy9kgICCmzvRC1mq) | [Blackout](https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV) | 3:27 | 2022-04-01 | 2022-04-16 |

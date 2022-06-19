@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1540,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266178,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -2125,6 +2143,28 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
       "album": {
@@ -3313,7 +3353,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -4009,7 +4049,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -6055,7 +6095,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 212896,
       "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk"
@@ -6363,7 +6403,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 175296,
       "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
       "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
@@ -6421,6 +6461,24 @@
       "duration_ms": 210666,
       "name": "\u05db\u05e9\u05d0\u05ea \u05d4\u05d5\u05dc\u05db\u05ea",
       "url": "https://open.spotify.com/track/2TE9K4A2YjHxkw7Um4Mudu"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0 \u05d4\u05d9\u05d4 \u05de\u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/0g1opMY6902IcH7XIBrbLN"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201572,
+      "name": "\u05dc\u05d0 \u05d4\u05d9\u05d4 \u05de\u05e2\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/5pZmyjoGBrQ1inaZmXXpFA"
     },
     {
       "album": {
@@ -7071,7 +7129,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-19",
+      "date_removed": null,
       "duration_ms": 201380,
       "name": "\u05de\u05d9 \u05dc\u05d0 \u05d9\u05d1\u05d5\u05d0",
       "url": "https://open.spotify.com/track/0Ap742kKOE7chXEdDZWvOq"
@@ -8081,7 +8139,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

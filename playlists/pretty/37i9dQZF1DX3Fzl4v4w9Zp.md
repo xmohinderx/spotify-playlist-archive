@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Kyshona
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,020 likes - 146 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,071 likes - 146 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

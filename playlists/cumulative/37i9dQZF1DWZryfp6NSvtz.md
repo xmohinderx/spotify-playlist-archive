@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Deaf Havana
 
-1,230 songs - 2 day 23 hr 3 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,231 songs - 2 day 23 hr 6 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-27 | 2022-02-04 |
 | [Never Mind the List](https://open.spotify.com/track/2rOWijxMaCPR9SNh3Uatjo) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Never Mind the List](https://open.spotify.com/album/2Yes9qAuXZIzT8QgdrMkrJ) | 2:49 | 2022-02-03 | 2022-02-11 |
 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 | 2022-06-16 |  |
+| [New](https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [New](https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn) | 3:00 | 2022-06-16 |  |
 | [New England](https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [New England](https://open.spotify.com/album/7jSPhpCKF0PXgZ2ntVWSnn) | 3:38 | 2022-01-06 | 2022-01-14 |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 | 2022-04-15 |
 | [Night](https://open.spotify.com/track/2kKr1UdBVl9dEx9S3vVl3N) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Night](https://open.spotify.com/album/3TlycLLttyCQSHLc1AhduF) | 3:52 | 2022-04-14 | 2022-04-22 |

@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-84 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+85 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 |  |
 | [You and Tequila \(with Grace Potter\) \- Live](https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:45 | 2021-07-22 |  |
 | [You Look Good In My Shirt \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/5udl9ZZkaqeYzBKvyawlZm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:18 | 2021-07-22 |  |
+| [You'll Think Of Me \(Live\)](https://open.spotify.com/track/7LNDABAKsZyzNaWfEDxRI0) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [You'll Think Of Me \(Live\)](https://open.spotify.com/album/7sWo6EY04OLZNygQwj04uZ) | 5:21 | 2022-06-17 |  |
 | [You'll Think Of Me \- Live](https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [You'll Think Of Me \(Live\)](https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay) | 3:58 | 2021-07-22 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

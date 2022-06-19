@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 203693,
       "name": "GOOD and EVIL",
       "url": "https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 276520,
       "name": "I LOVE THE WORLD",
       "url": "https://open.spotify.com/track/6J25oC8Xh8YuXOvmzZlQoO"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339653,
+      "name": "LONE WOLF",
+      "url": "https://open.spotify.com/track/3m5MKWNlUGKDeg9kRcuQjB"
+    },
+    {
+      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 332906,
       "name": "NO.1",
       "url": "https://open.spotify.com/track/0KUwWB5EWikcRN32ol1eZq"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "OUR ALWAYS",
       "url": "https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 211200,
       "name": "WANNA be BRILLIANT",
       "url": "https://open.spotify.com/track/6lfnRtdV3bJneiA3Y0aY5G"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 228000,
       "name": "\u3044\u3064\u304b\u5fc5\u305a\u6b7b\u306c\u3053\u3068\u3092\u5fd8\u308c\u308b\u306a",
       "url": "https://open.spotify.com/track/6hMUL6cLiZTIRFMvZYesjP"
@@ -1089,6 +1107,24 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "\u7121\u610f\u5473\u306b\u306a\u308b\u591c",
+      "url": "https://open.spotify.com/track/5GPGEYybqW0pdg3KBdw4n5"
     },
     {
       "album": {

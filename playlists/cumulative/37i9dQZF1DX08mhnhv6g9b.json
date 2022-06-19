@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS Greatest Hits. (The playlist will be updated daily)",
+  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS song to listen to when you miss someone. (The playlist will be updated daily)",
   "name": "This Is BTS",
   "published_playlist_ids": [
     "0H29pOOi9iH82uofXTdelu"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250295,
+      "name": "00:00 (Zero O'Clock)",
+      "url": "https://open.spotify.com/track/6aIJhrO0Y4zeDLxLkj2NXk"
+    },
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 217051,
       "name": "Blood Sweat & Tears",
       "url": "https://open.spotify.com/track/1wiqEFd8phSCSlteDLSyp2"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 238628,
       "name": "Born Singer",
       "url": "https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 229773,
       "name": "Boy With Luv (Feat. Halsey)",
       "url": "https://open.spotify.com/track/07qrA1FxZpXy383wX3IDEb"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 223441,
       "name": "DNA",
       "url": "https://open.spotify.com/track/2Ygw4CPjg1lg4zxTITYY2V"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 199293,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/1hIuSG6xV4RDgD8bDVKP7N"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/3YspylwDrs1LuzPONbKmAL"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 222242,
       "name": "Fly To My Room",
       "url": "https://open.spotify.com/track/1NHl9g36Ebu3g16y0vtUNV"
@@ -2371,6 +2389,24 @@
       "duration_ms": 199338,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199338,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7b3Fx7XAPJDk7fYlti24ZH"
     },
     {
       "album": {
@@ -2699,7 +2735,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 210986,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/1GunnGtZCSjLUAPG6yrDUC"
@@ -2807,7 +2843,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 222732,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/0KCvsHmGvW2XcsxEWJvLPr"
@@ -3348,6 +3384,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227275,
+      "name": "Jamais Vu",
+      "url": "https://open.spotify.com/track/7FhCf28FnHIt3FPRyWzRNG"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -3561,6 +3615,24 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208088,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1VjqXwHU3isibdXLEtXc4q"
     },
     {
       "album": {
@@ -4139,7 +4211,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 224225,
       "name": "Mikrokosmos",
       "url": "https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco"
@@ -4179,6 +4251,24 @@
       "duration_ms": 241374,
       "name": "Miss Right",
       "url": "https://open.spotify.com/track/1ht2uYq91yLc9S6IxwiwCK"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208201,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7xuswKr3R30Cm46LbkOsno"
     },
     {
       "album": {
@@ -4633,7 +4723,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 246817,
       "name": "ON",
       "url": "https://open.spotify.com/track/0U4hNZFJYNFdEAXZcHbkkc"
@@ -5315,7 +5405,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 196505,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
@@ -5729,7 +5819,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 274097,
       "name": "Spring Day",
       "url": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF"
@@ -6325,7 +6415,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 243222,
       "name": "Whalien 52",
       "url": "https://open.spotify.com/track/1otHp4s8IRCLn1JZcVrNhz"

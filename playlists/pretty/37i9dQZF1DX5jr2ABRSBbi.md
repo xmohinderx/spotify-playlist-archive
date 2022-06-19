@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Tea Sofia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,519 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 41 | [Roztomilá Holka](https://open.spotify.com/track/3I2lMpY9rwDQD9mHtWuqk0) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Roztomilá Holka](https://open.spotify.com/album/5o0wvWo4Awr6SSuHoZI0c3) | 2:29 |
 | 42 | [Babička](https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H) | [Barbara Kanyzová](https://open.spotify.com/artist/3XTgXJI96qMpTbrwSbTEdo) | [Vzpomněnky](https://open.spotify.com/album/5fp5UTrsmABvoTEKoKRSNS) | 2:38 |
 | 43 | [Gentle](https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh) | [Tolstoys](https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J) | [Gentle](https://open.spotify.com/album/3fiZkPky4bC9GSmEaDY5yp) | 2:53 |
-| 44 | [Hey Pretty Girl](https://open.spotify.com/track/6j88qCaGXIGKfO4npS3Zjd) | [Tamara](https://open.spotify.com/artist/3v3uUwstv0JcK3qglgcr4c) | [Hey Pretty Girl](https://open.spotify.com/album/2Fep9sXn34nhBu9nchd1jt) | 2:38 |
+| 44 | [Hey Pretty Girl](https://open.spotify.com/track/6j88qCaGXIGKfO4npS3Zjd) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Hey Pretty Girl](https://open.spotify.com/album/2Fep9sXn34nhBu9nchd1jt) | 2:38 |
 | 45 | [Jantár](https://open.spotify.com/track/6jtCo1ziArPzJEtxsNSRDq) | [Vrana Marianna](https://open.spotify.com/artist/0DsfG49VRKY0FmlvS5MtnX) | [Jantár](https://open.spotify.com/album/3ZrYnpwjHYptsx4fIeGtsX) | 2:48 |
 | 46 | [Slow](https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N) | [Slow](https://open.spotify.com/album/2nnc0uhfe33S2GZzCQjRr7) | 5:38 |
 | 47 | [Nie sme triezvy](https://open.spotify.com/track/0S2hh9GRIl6SmJfe24aCrs) | [SKY](https://open.spotify.com/artist/2t9UZylDmWjXRjgbJlSqS5) | [BLUE](https://open.spotify.com/album/5iF5L0NHHOXCU6alL6KKk6) | 2:28 |

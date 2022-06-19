@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in copertina c'è still charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,206 likes - 73 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,222 likes - 73 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Miu Lê
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,380 likes - 59 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,500 likes - 59 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "For My Own Good",
+        "url": "https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3"
+      },
+      "artists": [
+        {
+          "name": "Sarahbeth Taite",
+          "url": "https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186024,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p"
+    },
+    {
+      "album": {
         "name": "Thank you for your patience.",
         "url": "https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB"
       },

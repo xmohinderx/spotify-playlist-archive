@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 164475,
       "name": "2021",
       "url": "https://open.spotify.com/track/3ANOQpQLmv4xAyxLSOk9HC"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 128873,
       "name": "Dopamin - Bonus track",
       "url": "https://open.spotify.com/track/2CojUpxxHPbUL6oelS5hcg"
@@ -6032,6 +6032,32 @@
     },
     {
       "album": {
+        "name": "Partyarc",
+        "url": "https://open.spotify.com/album/1wGjr7WlejaZG7LsH5aKXy"
+      },
+      "artists": [
+        {
+          "name": "Pixa",
+          "url": "https://open.spotify.com/artist/6YbKlFrkjKLYpC3PYycpxp"
+        },
+        {
+          "name": "Fluor",
+          "url": "https://open.spotify.com/artist/0kefKIzkoDXLQ4qmn72pu7"
+        },
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173809,
+      "name": "Partyarc",
+      "url": "https://open.spotify.com/track/45NZ6MHZFLsFEhA0quWeEn"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -6109,7 +6135,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 167375,
       "name": "Pezsg\u0151es\u0151",
       "url": "https://open.spotify.com/track/0DflGtgoi2N431x231nfOU"

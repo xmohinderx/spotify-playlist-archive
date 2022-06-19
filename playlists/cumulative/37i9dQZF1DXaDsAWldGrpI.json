@@ -1587,6 +1587,24 @@
     {
       "album": {
         "name": "You'll Think Of Me (Live)",
+        "url": "https://open.spotify.com/album/7sWo6EY04OLZNygQwj04uZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321616,
+      "name": "You'll Think Of Me (Live)",
+      "url": "https://open.spotify.com/track/7LNDABAKsZyzNaWfEDxRI0"
+    },
+    {
+      "album": {
+        "name": "You'll Think Of Me (Live)",
         "url": "https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay"
       },
       "artists": [

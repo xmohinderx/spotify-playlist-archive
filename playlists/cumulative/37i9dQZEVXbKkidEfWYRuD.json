@@ -6254,6 +6254,28 @@
     },
     {
       "album": {
+        "name": "VLAGA",
+        "url": "https://open.spotify.com/album/1nBZ5WULtCMe0Yz35Xkk2g"
+      },
+      "artists": [
+        {
+          "name": "Arut",
+          "url": "https://open.spotify.com/artist/0mp2sdIanszB7wxCNM8fr0"
+        },
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152578,
+      "name": "VLAGA",
+      "url": "https://open.spotify.com/track/1OhtcX8IP2mQ2s5yEZ3jSN"
+    },
+    {
+      "album": {
         "name": "Voil\u00e0",
         "url": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE"
       },
@@ -10467,7 +10489,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 252533,
       "name": "\u041c\u0456\u0441\u0442\u043e \u0432\u0435\u0441\u043d\u0438",
       "url": "https://open.spotify.com/track/56wSomSllGESHGhcfHrvEw"
@@ -13705,7 +13727,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/7E8brh6jjHSx44rF62jQKR"
@@ -14007,6 +14029,24 @@
       "duration_ms": 115110,
       "name": "\u042d\u0441\u043f\u0440\u0435\u0441\u0441\u043e \u0422\u043e\u043d\u0438\u043a",
       "url": "https://open.spotify.com/track/7mj20KmEw9PUIc9DuHIe5b"
+    },
+    {
+      "album": {
+        "name": "\u042d\u0442\u043e \u043d\u0430\u0448 \u043f\u0443\u0442\u044c",
+        "url": "https://open.spotify.com/album/4fnEEg61x7aNOSF2G6AIPu"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176109,
+      "name": "\u042d\u0442\u043e \u043d\u0430\u0448 \u043f\u0443\u0442\u044c",
+      "url": "https://open.spotify.com/track/5og1GoWi98dDgD4Nx6cXNx"
     },
     {
       "album": {

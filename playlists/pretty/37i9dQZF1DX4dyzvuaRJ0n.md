@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Kabza De Small, Drake, TSHA, Alok, Ellen Eyre, Kenny Dope & Never Dull and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,920,720 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,920,938 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 131578,
       "name": "3 Peat",
       "url": "https://open.spotify.com/track/4It7Y6JI7aaAHxpAlPnxVW"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 220290,
       "name": "4 for 4",
       "url": "https://open.spotify.com/track/3t28WEPeQzR5YXC82nFf46"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 168933,
       "name": "Badmind",
       "url": "https://open.spotify.com/track/2z8Am6rdrwIyGzZGHglNgl"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 133936,
       "name": "Been on Hots",
       "url": "https://open.spotify.com/track/4Q9ik88v1PZJuprokHgVrF"
@@ -2278,6 +2278,24 @@
     },
     {
       "album": {
+        "name": "EOS",
+        "url": "https://open.spotify.com/album/1wGszIOmpqrTUsYTCWYUfP"
+      },
+      "artists": [
+        {
+          "name": "Yagi B",
+          "url": "https://open.spotify.com/artist/3RSKi4QOW4IrsOoq2owMDM"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174219,
+      "name": "EOS",
+      "url": "https://open.spotify.com/track/1HhIzm4A8ciSZAcxDIiHb9"
+    },
+    {
+      "album": {
         "name": "#EOS700DOA",
         "url": "https://open.spotify.com/album/6I6fJ5k65fmVFzE0HgyEf5"
       },
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 174419,
       "name": "Free Bizzy",
       "url": "https://open.spotify.com/track/4d3GVzzczZXtbA3n7keKPd"
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 80274,
       "name": "G in his grill",
       "url": "https://open.spotify.com/track/1HGbS14PUxiG1QQJ7KYnKw"
@@ -3117,7 +3135,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 138161,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6qYrmvBRAUK1ZVZz0mSC7o"
@@ -4327,7 +4345,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 135253,
       "name": "NO LOCATION",
       "url": "https://open.spotify.com/track/3fJt1Ln0gx10mc1trlrsFE"
@@ -4367,7 +4385,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 116584,
       "name": "No Power",
       "url": "https://open.spotify.com/track/6Kl7TpNLXs0rlvYLaNZlR0"
@@ -4403,7 +4421,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 153561,
       "name": "No Suburban, Pt. 2",
       "url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f"
@@ -4509,7 +4527,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 178120,
       "name": "Off Da Porch (feat. 1600J)",
       "url": "https://open.spotify.com/track/11o45EN0v3nmEDrzGsAF8H"
@@ -4939,6 +4957,32 @@
       "duration_ms": 123480,
       "name": "Pain",
       "url": "https://open.spotify.com/track/50rdza4NrkHFq7i2QjKJa7"
+    },
+    {
+      "album": {
+        "name": "Panic, Pt. 3",
+        "url": "https://open.spotify.com/album/1nw6xmiaZ3eNC9msDzIgCC"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Fresh G",
+          "url": "https://open.spotify.com/artist/651AZKC4Cy2tGHH7LmX4TH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Panic, Pt. 3",
+      "url": "https://open.spotify.com/track/2a08CgTzwHJBTrlXwwvAy8"
     },
     {
       "album": {
@@ -6317,7 +6361,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 136488,
       "name": "Talk Facts",
       "url": "https://open.spotify.com/track/7xJpfAqTjBus04zvn0sNlJ"
