@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -2639,7 +2639,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
@@ -2797,6 +2797,24 @@
       "duration_ms": 185412,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/70tBlRh8oOY0v5swyQquDI"
+    },
+    {
+      "album": {
+        "name": "Pens\u00e1ndolo Bien",
+        "url": "https://open.spotify.com/album/3RMo1apDOyPUfgfR4aBtfq"
+      },
+      "artists": [
+        {
+          "name": "Clemente Schaerer",
+          "url": "https://open.spotify.com/artist/4gzfzjIWONC4k6Tqvg2LeJ"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238884,
+      "name": "Pens\u00e1ndolo Bien",
+      "url": "https://open.spotify.com/track/4yBCA5pdup6QG3qkXrojKP"
     },
     {
       "album": {

@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 153786,
       "name": "But You Belong to Me",
       "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 188866,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 166133,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
@@ -635,10 +635,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
+    },
+    {
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/1zBKJIhcErReXXjAW1YWrY"
     },
     {
       "album": {
@@ -765,6 +783,24 @@
       "duration_ms": 245240,
       "name": "Mother and Child Reunion",
       "url": "https://open.spotify.com/track/6ztOb9W2NW1Z8jVC4gy8HA"
+    },
+    {
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "One In a Million",
+      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
     },
     {
       "album": {

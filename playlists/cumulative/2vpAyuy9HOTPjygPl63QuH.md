@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-178 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+179 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Don’t Forget To Breathe](https://open.spotify.com/track/0cSXY3uBw8wuEjJeQAwOGO) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Don’t Forget To Breathe](https://open.spotify.com/album/1Z3cPY7x3yBjhWlhyhbJX7) | 3:08 | 2022-06-17 |  |
 | [Drop It](https://open.spotify.com/track/4h9RxRzTdbJlV8gFyOIdv0) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 | 2022-06-11 |
 | [East Coast](https://open.spotify.com/track/6KOh37HUNW3XLbDn3yIIk3) | [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [East Coast](https://open.spotify.com/album/5jVbvbPAaQp0Um5XxvV7Un) | 3:21 | 2022-04-29 | 2022-05-14 |
+| [El Cocinero](https://open.spotify.com/track/7xLw0oaDSQxogs0VpxfopW) | [Lasko \(FR\)](https://open.spotify.com/artist/4iOv7v4Lgy0gOELBBR0ufC), [Camilo Morales](https://open.spotify.com/artist/7kccNofrJwObif3kszY1Tc) | [El Cocinero](https://open.spotify.com/album/7fuxCpnnBML7tOsN02ZJrO) | 5:47 | 2022-06-19 |  |
 | [Emenate](https://open.spotify.com/track/4U9TVvW37qLmNd9gAZjuXp) | [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y) | [Emenate / Regular](https://open.spotify.com/album/4PgRsVMqMpf2oxr9Vi55nj) | 3:52 | 2022-05-30 | 2022-06-04 |
 | [Ender](https://open.spotify.com/track/2vFqmnFsJdwgkqMteFgeYB) | [Kasto](https://open.spotify.com/artist/1U5ofxKFlZfwUWCsouwNU5) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 4:21 | 2022-06-03 | 2022-06-11 |
 | [ENDO](https://open.spotify.com/track/5SOVnhMqSj04EfEeF8QAPe) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [ENDO](https://open.spotify.com/album/2sokOr3xA8iHb5rnFpZw4b) | 3:10 | 2022-06-17 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Rennan da Penha, Puterrier, Raro, DJ Pedro
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,599 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,619 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Malícia \(feat\. DJ Pedro\)](https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Raro](https://open.spotify.com/artist/0iQldLKFnSKUMlUjeWQ8Wn), [DJ Pedro](https://open.spotify.com/artist/6sp12XzqjowOJNO1jkbXMR) | [Malícia \(feat\. DJ Pedro\)](https://open.spotify.com/album/092UegWYtlCCJjSCchCoPc) | 1:30 |
+| 1 | [Malícia \(feat\. Pedro Bala\)](https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Raro](https://open.spotify.com/artist/0iQldLKFnSKUMlUjeWQ8Wn), [Pedro Bala](https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f) | [Malícia \(feat\. Pedro Bala\)](https://open.spotify.com/album/092UegWYtlCCJjSCchCoPc) | 1:30 |
 | 2 | [AQL SLV](https://open.spotify.com/track/4x96ZVUti5pKCpiImokxB4) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:55 |
 | 3 | [Dois Gumes](https://open.spotify.com/track/4sTvkSCc5tmVhECVOcM37h) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Dois Gumes](https://open.spotify.com/album/6VNvo85fJVH9uM2C1rBnfp) | 2:58 |
 | 4 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |

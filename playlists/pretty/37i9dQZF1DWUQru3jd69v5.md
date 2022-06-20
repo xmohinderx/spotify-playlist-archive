@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Rayan, Intifaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,841 likes - 62 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,843 likes - 62 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

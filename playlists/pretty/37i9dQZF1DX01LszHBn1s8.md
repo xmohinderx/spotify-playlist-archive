@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > it's gonna be a hot drake summer 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,520 likes - 438 songs - 23 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,577 likes - 438 songs - 23 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

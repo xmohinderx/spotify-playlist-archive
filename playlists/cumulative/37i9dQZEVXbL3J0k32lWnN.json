@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 135309,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/4ZUk1PNxNSk3Q2uuHhrtPS"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -4707,7 +4707,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 202049,
       "name": "Gletscher",
       "url": "https://open.spotify.com/track/2LPIMcvvwn9jfpe3I55tI8"
@@ -5485,7 +5485,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Hensigt",
       "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
@@ -6889,7 +6889,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 192330,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5Pi7KkjZvTwl6U847xzHmC"
@@ -8145,7 +8145,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 204084,
       "name": "Lige Nu",
       "url": "https://open.spotify.com/track/21Gki3Y728JlkkYhD7mavh"
@@ -10015,7 +10015,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 191594,
       "name": "Nu & Her",
       "url": "https://open.spotify.com/track/3aO7mDhieREXwY0sLBj3JU"
@@ -10243,7 +10243,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 196586,
       "name": "Op A V\u00e6ggen",
       "url": "https://open.spotify.com/track/1rhAnDeiinLzTE21CpMi9U"
@@ -11379,7 +11379,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 178984,
       "name": "Se Dine \u00d8jne",
       "url": "https://open.spotify.com/track/0fbAEHyYpEeFUsqmVzqyAE"
@@ -11501,7 +11501,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -11985,7 +11985,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 239092,
       "name": "Spinner (feat. MAS)",
       "url": "https://open.spotify.com/track/5WJUzjQjh6s4HjPmNZQq26"
@@ -12109,7 +12109,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -12316,6 +12316,28 @@
     },
     {
       "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
         "name": "Sunshine (rosegold X Branco)",
         "url": "https://open.spotify.com/album/4TYf22G57QeXqxI9fGpWhJ"
       },
@@ -12495,7 +12517,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 230600,
       "name": "Tag Med Mig",
       "url": "https://open.spotify.com/track/1AmWJvqz5JV71cOySeQ35R"
@@ -13915,7 +13937,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

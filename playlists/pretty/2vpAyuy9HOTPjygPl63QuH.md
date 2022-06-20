@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,772 likes - 26 songs - 1 hr 29 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,775 likes - 27 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 24 | [Bad Decisions](https://open.spotify.com/track/6Z5qHLhQDnQD23aLXaPsmG) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions EP](https://open.spotify.com/album/2ZaZRpXCPGt2vuyoJNiS3I) | 3:04 |
 | 25 | [Hangin' On](https://open.spotify.com/track/3LQyJ9kVci9YF7lwGjA5kr) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [Hangin' On](https://open.spotify.com/album/03LpYJHSH796oQGk3qlA5i) | 3:38 |
 | 26 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 |
+| 27 | [El Cocinero](https://open.spotify.com/track/7xLw0oaDSQxogs0VpxfopW) | [Lasko \(FR\)](https://open.spotify.com/artist/4iOv7v4Lgy0gOELBBR0ufC), [Camilo Morales](https://open.spotify.com/artist/7kccNofrJwObif3kszY1Tc) | [El Cocinero](https://open.spotify.com/album/7fuxCpnnBML7tOsN02ZJrO) | 5:47 |
 
-Snapshot ID: `NTUzNixhNzRlZDIyNWUwYTI2MDljNWUwN2NjNjI5ZGVlYjg5Y2JiNjk0ZjRi`
+Snapshot ID: `NTUzNywyNjliNTI1Mjg2ODUyYTgwMDAwNjE3M2I0ZTYyYmNhODMzZGJjNWIw`

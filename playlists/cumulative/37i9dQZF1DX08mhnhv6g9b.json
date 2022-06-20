@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS song to listen to when you miss someone. (The playlist will be updated daily)",
+  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS song to listen to when you\u2019re falling in love with your best friend. (The playlist will be updated daily)",
   "name": "This Is BTS",
   "published_playlist_ids": [
     "0H29pOOi9iH82uofXTdelu"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 250295,
       "name": "00:00 (Zero O'Clock)",
       "url": "https://open.spotify.com/track/6aIJhrO0Y4zeDLxLkj2NXk"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 272537,
       "name": "2! 3!",
       "url": "https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 254950,
       "name": "Blue & Grey",
       "url": "https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ"
@@ -847,6 +847,24 @@
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231384,
+      "name": "Boy In Luv",
+      "url": "https://open.spotify.com/track/0vMk4IrUfSJQkhwZnVX6us"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
           "name": "Halsey",
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
@@ -1632,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196776,
+      "name": "Dimple",
+      "url": "https://open.spotify.com/track/58yMMEtAYdyWIr2UEPwmNo"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u627f 'Her'",
         "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
       },
@@ -2104,6 +2140,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2r8F0VYPom2XP4cKAzWLLE"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
       },
@@ -2331,7 +2385,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 222242,
       "name": "Fly To My Room",
       "url": "https://open.spotify.com/track/1NHl9g36Ebu3g16y0vtUNV"
@@ -2403,7 +2457,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 199338,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7b3Fx7XAPJDk7fYlti24ZH"
@@ -2523,6 +2577,24 @@
       "duration_ms": 253303,
       "name": "Heartbeat (BTS World Original Soundtrack)",
       "url": "https://open.spotify.com/track/5EgYDyMDCi8X0zDydTF7Rb"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228612,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/56ymD9oPodUTG8oHhauCMx"
     },
     {
       "album": {
@@ -2735,7 +2807,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 210986,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/1GunnGtZCSjLUAPG6yrDUC"
@@ -3395,7 +3467,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 227275,
       "name": "Jamais Vu",
       "url": "https://open.spotify.com/track/7FhCf28FnHIt3FPRyWzRNG"
@@ -3629,7 +3701,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 208088,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/1VjqXwHU3isibdXLEtXc4q"
@@ -4211,7 +4283,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 224225,
       "name": "Mikrokosmos",
       "url": "https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco"
@@ -4265,7 +4337,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 208201,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7xuswKr3R30Cm46LbkOsno"
@@ -5405,7 +5477,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 196505,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
@@ -5459,7 +5531,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 276707,
       "name": "Serendipity - Full Length Edition",
       "url": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N"
@@ -5819,7 +5891,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 274097,
       "name": "Spring Day",
       "url": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF"
@@ -6415,7 +6487,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 243222,
       "name": "Whalien 52",
       "url": "https://open.spotify.com/track/1otHp4s8IRCLn1JZcVrNhz"

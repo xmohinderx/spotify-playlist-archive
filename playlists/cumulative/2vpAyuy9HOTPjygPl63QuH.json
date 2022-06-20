@@ -768,6 +768,28 @@
     },
     {
       "album": {
+        "name": "El Cocinero",
+        "url": "https://open.spotify.com/album/7fuxCpnnBML7tOsN02ZJrO"
+      },
+      "artists": [
+        {
+          "name": "Lasko (FR)",
+          "url": "https://open.spotify.com/artist/4iOv7v4Lgy0gOELBBR0ufC"
+        },
+        {
+          "name": "Camilo Morales",
+          "url": "https://open.spotify.com/artist/7kccNofrJwObif3kszY1Tc"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347582,
+      "name": "El Cocinero",
+      "url": "https://open.spotify.com/track/7xLw0oaDSQxogs0VpxfopW"
+    },
+    {
+      "album": {
         "name": "Emenate / Regular",
         "url": "https://open.spotify.com/album/4PgRsVMqMpf2oxr9Vi55nj"
       },

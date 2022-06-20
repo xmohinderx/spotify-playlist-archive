@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "El Haraka de",
       "url": "https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9"
@@ -2185,7 +2185,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 165006,
       "name": "HUSTLE",
       "url": "https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup"
@@ -5343,7 +5343,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -6221,7 +6221,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"
@@ -8029,6 +8029,24 @@
       "duration_ms": 231039,
       "name": "\u0648\u0627\u062d\u062f \u0648\u0639\u0634\u0631\u064a\u0646",
       "url": "https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0645\u0644\u064a\u0648\u0646",
+      "url": "https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr"
     },
     {
       "album": {

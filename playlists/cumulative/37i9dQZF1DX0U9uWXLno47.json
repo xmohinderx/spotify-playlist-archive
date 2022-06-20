@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 197786,
       "name": "All Is Full Of Love",
       "url": "https://open.spotify.com/track/32KynJPAsnx9SKtaqlThwL"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 189108,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 216343,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/6FMugTU3p1eJQjkvZyRGpS"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 234973,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/5fjZRuH5D9UG8XGVKcEDIZ"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/0c3e1dqXIfwtcvJbiaFSwM"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 299826,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/3q6BJcC0i7UyM8oWn6ntRQ"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 349733,
       "name": "Smells Like Teen Spirit - Radio Edit",
       "url": "https://open.spotify.com/track/58cKWhCT3I4yhxtNpBlMli"
@@ -1346,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3bXEPGWxOplvbLwyasRSW3"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166586,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/1LLWePORuf78aYlTpSsduc"
+    },
+    {
+      "album": {
         "name": "The Flaming Lips And Stardeath And White Dwarfs With Henry Rollins And Peaches Doing Dark Side Of The Moon",
         "url": "https://open.spotify.com/album/5w6CyN2aEgajB8Gc6ylwvc"
       },
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 188706,
       "name": "The Model",
       "url": "https://open.spotify.com/track/5cYlSi1HyeyMP1jySmBi2q"
@@ -1484,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361188,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK"
+    },
+    {
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/3tSFoDl4xhYkcUadWfCY6N"
       },
@@ -1495,7 +1531,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/51687Ggg1BMhFGufB2WmrF"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 146735,
       "name": "What The World Needs Now",
       "url": "https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 302571,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5u1GVHrK9N8mBuyGJNMHOO"

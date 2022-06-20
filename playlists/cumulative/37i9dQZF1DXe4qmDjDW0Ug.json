@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 214273,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 311120,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/6PZGtYgeJEQ459sVJq2t5S"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 184267,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 161617,
       "name": "Eat",
       "url": "https://open.spotify.com/track/0q3xk0VI0w7omVXYA09sVw"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 198893,
       "name": "Good-bye Luv",
       "url": "https://open.spotify.com/track/0VYJeoMOiBilD6q7enMrY6"
@@ -250,6 +250,28 @@
     },
     {
       "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/49xEpMDDtfMdaMF4G6bilS"
+    },
+    {
+      "album": {
         "name": "Gift",
         "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
       },
@@ -261,7 +283,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 297036,
       "name": "I hope It would be that way now",
       "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
@@ -283,7 +305,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 219306,
       "name": "I Need A Girl (Feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 288693,
       "name": "If You Comeback",
       "url": "https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH"
@@ -395,7 +417,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 192630,
       "name": "Just (From Young)",
       "url": "https://open.spotify.com/track/6vs7hcMDl4l6BQKL9KE9pd"
@@ -489,7 +511,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 301026,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/0OZxEbt5CR2QwPerD1ihPu"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT"
@@ -597,7 +619,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 270080,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/1vwoPNoaJ9a1kxntgSWXJ5"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 252573,
       "name": "No",
       "url": "https://open.spotify.com/track/0pKpZmOh1vOw0l5DUFG88Y"
@@ -753,7 +775,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 248767,
       "name": "Right",
       "url": "https://open.spotify.com/track/4GxDnqSIAzLiCDhqwoEwA4"
@@ -883,7 +905,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 218886,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/2Z2hLQ6RxA4sVZ9rCJGsmv"
@@ -973,7 +995,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 299943,
       "name": "You",
       "url": "https://open.spotify.com/track/77dhsfHBiHOBXhJmkEZmV9"
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
@@ -1099,7 +1121,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 296411,
       "name": "\ub110 \uc704\ud574 \uc900\ube44\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/2SzR1pm84LRFx9KgJFcMPR"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 291106,
       "name": "\ub2f9\uc2e0\uacfc\uc758 \ud0a4\uc2a4\ub97c \uc138\uc5b4\ubcf4\uc544\uc694 Dangsingwaui Kiseuleul Seeoboayo",
       "url": "https://open.spotify.com/track/6dOiFuNfAjCrLGQgLFJVHc"
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 227021,
       "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
       "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 191793,
       "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
       "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
@@ -1261,7 +1283,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 270733,
       "name": "\uc548\ub418\ub098\uc694",
       "url": "https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC"
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 278746,
       "name": "\uc5ec\uc790",
       "url": "https://open.spotify.com/track/3KhndYAkaaMKRXjM0h0h6y"
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 314461,
       "name": "\uc774\ubc24\uc758\ub05d\uc744\uc7a1\uace0",
       "url": "https://open.spotify.com/track/1vjWdvSKCcnBE5XJl7ygWu"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"

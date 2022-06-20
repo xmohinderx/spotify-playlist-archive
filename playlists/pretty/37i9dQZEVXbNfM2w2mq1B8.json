@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 10825,
+  "num_followers": 10834,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA4ODc1OTE2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA4OTU0MDk1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/6Auc4VblNN0M9jD0dsbfnz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -53,7 +53,39 @@
       "url": "https://open.spotify.com/track/5qX0V96jKJ6zC8UImlXKmO"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7oXx705I5RvoXt6NzgUXDS"
@@ -97,55 +129,23 @@
       "url": "https://open.spotify.com/track/2FBlCQ6UYQu1KHMBnruVul"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 266178,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Sladkoto zlo",
         "url": "https://open.spotify.com/album/7v1bD7rUtU56j72aXNhJHp"
@@ -165,39 +165,23 @@
       "url": "https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        }
-      ],
-      "duration_ms": 194740,
-      "name": "LOTUS",
-      "url": "https://open.spotify.com/track/4z7cTjQGpdJzzKy4wEdAEX"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -217,55 +201,23 @@
       "url": "https://open.spotify.com/track/4NQK5RwcwoQCjsMONIiXEo"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
         }
       ],
-      "duration_ms": 308820,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"
+      "duration_ms": 194740,
+      "name": "LOTUS",
+      "url": "https://open.spotify.com/track/4z7cTjQGpdJzzKy4wEdAEX"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "\u041f\u0430\u043a \u0449\u0435 \u0441\u0435 \u0431\u0440\u043e\u0438\u0448",
         "url": "https://open.spotify.com/album/3E6jNLn2n5ys5RBoWtIMHg"
@@ -285,47 +237,23 @@
       "url": "https://open.spotify.com/track/3Ya6AUGGni7HPC5P9gh2bj"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
       "artists": [
         {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Boro Purvi",
-          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 191457,
-      "name": "SAUCE",
-      "url": "https://open.spotify.com/track/7kDgO7iBtdBhrx0X0esUrB"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
-        "url": "https://open.spotify.com/album/0TTgCeoepCQklYz4lWCu3E"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "Emrah",
-          "url": "https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr"
-        }
-      ],
-      "duration_ms": 197608,
-      "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
-      "url": "https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -345,7 +273,99 @@
       "url": "https://open.spotify.com/track/4B4f0Jno4VnQA2a7R1kWgX"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "duration_ms": 191457,
+      "name": "SAUCE",
+      "url": "https://open.spotify.com/track/7kDgO7iBtdBhrx0X0esUrB"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 266178,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
+        "url": "https://open.spotify.com/album/0TTgCeoepCQklYz4lWCu3E"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        },
+        {
+          "name": "Emrah",
+          "url": "https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr"
+        }
+      ],
+      "duration_ms": 197608,
+      "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
+      "url": "https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "\u0410+\u0413=\u0412\u041d\u041b",
+        "url": "https://open.spotify.com/album/0GgZrp4cqDk75Q4FGruAzW"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 230755,
+      "name": "\u0410+\u0413=\u0412\u041d\u041b",
+      "url": "https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "duration_ms": 174551,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/6CanjkbQRS139muYXQEbTm"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -369,119 +389,7 @@
       "url": "https://open.spotify.com/track/6eOG7lOgVEWKqhWFRL2O4j"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 36935,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 173097,
-      "name": "A Keeper",
-      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        }
-      ],
-      "duration_ms": 174551,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/6CanjkbQRS139muYXQEbTm"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 129964,
-      "name": "Calling My Name",
-      "url": "https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 157390,
-      "name": "Currents",
-      "url": "https://open.spotify.com/track/7IaeavdRzXYQWfu2Wt5GlU"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043e",
         "url": "https://open.spotify.com/album/2IOxdLl1FzyGEzNIYwdAv4"
@@ -501,47 +409,7 @@
       "url": "https://open.spotify.com/track/1jmwXsqCLABS1RNUtcz7GC"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "\u0410+\u0413=\u0412\u041d\u041b",
-        "url": "https://open.spotify.com/album/0GgZrp4cqDk75Q4FGruAzW"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 230755,
-      "name": "\u0410+\u0413=\u0412\u041d\u041b",
-      "url": "https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "SHIZO",
-          "url": "https://open.spotify.com/artist/44jAS54byE858CQJ4MiRG9"
-        }
-      ],
-      "duration_ms": 200068,
-      "name": "MAYBACH",
-      "url": "https://open.spotify.com/track/3AXZZgreuwWgYX2IL3oGkA"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "\u041e\u0442\u043f\u0443\u0441\u043d\u0438 \u0441\u0435",
         "url": "https://open.spotify.com/album/5VAxJLe04NbYzJYZhahGaD"
@@ -557,55 +425,23 @@
       "url": "https://open.spotify.com/track/78ctG4oXFeZOqrr7bcJFE2"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Disneyland",
-        "url": "https://open.spotify.com/album/711PHoZ8QgG0oboTwCB7f3"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "Danna",
-          "url": "https://open.spotify.com/artist/4YYhqULfOIhcGjneMp9Xzt"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Disneyland",
-      "url": "https://open.spotify.com/track/2GAE9g1xwQorR9zzxSBbPy"
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Zabraven",
-        "url": "https://open.spotify.com/album/6YCZuwLaW7ImuwHnUe5BqI"
-      },
-      "artists": [
-        {
-          "name": "Alex Robov",
-          "url": "https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA"
-        }
-      ],
-      "duration_ms": 221724,
-      "name": "Zabraven",
-      "url": "https://open.spotify.com/track/5MaFlpAHHxv7f3MMQLxF0Q"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -625,59 +461,23 @@
       "url": "https://open.spotify.com/track/7IDxMPA2kEhDP2wFcKOqBL"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 254407,
-      "name": "Flight's Booked",
-      "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc"
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "DJIGIT DRILL",
-        "url": "https://open.spotify.com/album/4wGp4QSiLic1jFqIUvVrJS"
-      },
-      "artists": [
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        }
-      ],
-      "duration_ms": 186142,
-      "name": "DJIGIT DRILL",
-      "url": "https://open.spotify.com/track/23HAp6WM0phD5RqDyxtr6b"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Rizziatta",
-          "url": "https://open.spotify.com/artist/4GnyxayfC823P4cQ87aiud"
-        }
-      ],
-      "duration_ms": 203901,
-      "name": "KORIANDAR",
-      "url": "https://open.spotify.com/track/5XVM8dBWJ7cNT7wRRGJF4L"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
@@ -693,23 +493,59 @@
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "SHIZO",
+          "url": "https://open.spotify.com/artist/44jAS54byE858CQJ4MiRG9"
         }
       ],
-      "duration_ms": 202451,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/1MJHXJ8bdoynpEtCLCbkWf"
+      "duration_ms": 200068,
+      "name": "MAYBACH",
+      "url": "https://open.spotify.com/track/3AXZZgreuwWgYX2IL3oGkA"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "DJIGIT DRILL",
+        "url": "https://open.spotify.com/album/4wGp4QSiLic1jFqIUvVrJS"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 186142,
+      "name": "DJIGIT DRILL",
+      "url": "https://open.spotify.com/track/23HAp6WM0phD5RqDyxtr6b"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Zabraven",
+        "url": "https://open.spotify.com/album/6YCZuwLaW7ImuwHnUe5BqI"
+      },
+      "artists": [
+        {
+          "name": "Alex Robov",
+          "url": "https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA"
+        }
+      ],
+      "duration_ms": 221724,
+      "name": "Zabraven",
+      "url": "https://open.spotify.com/track/5MaFlpAHHxv7f3MMQLxF0Q"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/3N0VESNa7mBAZcuNVGeQGP"
@@ -725,59 +561,7 @@
       "url": "https://open.spotify.com/track/0JK0UF0VcZTNRkx5HhmQOV"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -793,7 +577,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -813,7 +597,175 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Living Life, In The Night",
+        "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        }
+      ],
+      "duration_ms": 122517,
+      "name": "Living Life, In The Night",
+      "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 201905,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Rizziatta",
+          "url": "https://open.spotify.com/artist/4GnyxayfC823P4cQ87aiud"
+        }
+      ],
+      "duration_ms": 203901,
+      "name": "KORIANDAR",
+      "url": "https://open.spotify.com/track/5XVM8dBWJ7cNT7wRRGJF4L"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Falis mi",
+        "url": "https://open.spotify.com/album/5VukriQFs7J65KDUJU3rVy"
+      },
+      "artists": [
+        {
+          "name": "Severina",
+          "url": "https://open.spotify.com/artist/2o4SmIGKjHlvB8NpkaWGSS"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Falis mi",
+      "url": "https://open.spotify.com/track/17ebbiVJ3iAtqJ5TxdVzWm"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -833,47 +785,39 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
-        "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
+        "name": "Disneyland",
+        "url": "https://open.spotify.com/album/711PHoZ8QgG0oboTwCB7f3"
       },
       "artists": [
         {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
-        },
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/4YYhqULfOIhcGjneMp9Xzt"
         }
       ],
-      "duration_ms": 181304,
-      "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
-      "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
+      "duration_ms": 283000,
+      "name": "Disneyland",
+      "url": "https://open.spotify.com/track/2GAE9g1xwQorR9zzxSBbPy"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+        "name": "\u0422\u0438 \u043d\u0435 \u0441\u0438 \u0437\u0430 \u043c\u0435\u043d",
+        "url": "https://open.spotify.com/album/0FeTfkOdeeDhTnEz7LCn7O"
       },
       "artists": [
         {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         }
       ],
-      "duration_ms": 202135,
-      "name": "22k",
-      "url": "https://open.spotify.com/track/7v7Si5nrvM7MBVE1BVtlit"
+      "duration_ms": 217411,
+      "name": "\u0422\u0438 \u043d\u0435 \u0441\u0438 \u0437\u0430 \u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/2gTyfm5jrmTx4IH9K0CJk3"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
         "name": "\u0422\u0440\u0435\u0437\u043e\u0440\u0430",
         "url": "https://open.spotify.com/album/6nNQxk5s69aBwn16idYzeQ"
@@ -893,24 +837,88 @@
       "url": "https://open.spotify.com/track/4BGRK42GfRCw2Hoolpu1G7"
     },
     {
-      "added_at": "2022-06-18 13:58:36",
+      "added_at": "2022-06-19 11:41:35",
       "album": {
-        "name": "Living Life, In The Night",
-        "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
+        "name": "\u0411\u0435\u0437 \u0442\u0435\u0431",
+        "url": "https://open.spotify.com/album/09NC1p0kOfh8Z5NlznPoTp"
       },
       "artists": [
         {
-          "name": "Cheriimoya",
-          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+          "name": "Mom4eto",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
         },
         {
-          "name": "Sierra Kidd",
-          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+          "name": "Gyoky",
+          "url": "https://open.spotify.com/artist/4EZoIglbasg5y5mpZd6BDY"
         }
       ],
-      "duration_ms": 122517,
-      "name": "Living Life, In The Night",
-      "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
+      "duration_ms": 158439,
+      "name": "\u0411\u0435\u0437 \u0442\u0435\u0431",
+      "url": "https://open.spotify.com/track/4cLi9bZRMvDITlmKdo6D2l"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2022-06-19 11:41:35",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

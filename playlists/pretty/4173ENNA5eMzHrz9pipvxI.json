@@ -1,599 +1,15 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: DVBBS",
-  "num_followers": 118631,
+  "num_followers": 118636,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjE1MyxkZGM2ZDNkNzM3MDA1Y2Q1MjRlNmI4MDhiMTEwMGMwNjZjM2VjOGE4",
+  "snapshot_id": "NjE1OCxkM2UyM2E3Y2ZhOWQxOGE2Yzc5MTY0YjhiZGVlYWQyYmVkN2MyMTky",
   "tracks": [
     {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Feel My Love (feat. Joe Taylor)",
-        "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Joe Taylor",
-          "url": "https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB"
-        }
-      ],
-      "duration_ms": 172820,
-      "name": "Feel My Love (feat. Joe Taylor)",
-      "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "SCARS",
-        "url": "https://open.spotify.com/album/5Iw6Vei8AjSApCmbsXp5tj"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "DAMANTE",
-          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
-        }
-      ],
-      "duration_ms": 162899,
-      "name": "SCARS",
-      "url": "https://open.spotify.com/track/2WuYnh05YeOU3LQ9ayWOVh"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "We Don\u2019t Need (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/2H2Xu8YhzemUlg6G1bUGRI"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        }
-      ],
-      "duration_ms": 182996,
-      "name": "We Don\u2019t Need - MistaJam Remix",
-      "url": "https://open.spotify.com/track/5Iy8pAEdAJljnpbAMKfKNd"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Trouble So Hard (feat. MELLY OHH)",
-        "url": "https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61"
-      },
-      "artists": [
-        {
-          "name": "Return Of The Jaded",
-          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
-        },
-        {
-          "name": "MELLY OHH",
-          "url": "https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa"
-        }
-      ],
-      "duration_ms": 200463,
-      "name": "Trouble So Hard (feat. MELLY OHH)",
-      "url": "https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "I Feel Love",
-        "url": "https://open.spotify.com/album/228hFLATGeVTOzseVUg3uV"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "BENDAH",
-          "url": "https://open.spotify.com/artist/0g1iDrmTQf7LpgMlJwFhHP"
-        },
-        {
-          "name": "LIMITED LIFE",
-          "url": "https://open.spotify.com/artist/5IdUFrratQAs9zfnfdC5IU"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/3ObNGJI7f3uofM9PY60cFW"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/3SUtXBzGUcaPQ5rnLUEJnE"
-      },
-      "artists": [
-        {
-          "name": "Swatkat",
-          "url": "https://open.spotify.com/artist/5RuEvqOyramjOkUG8KwCOs"
-        },
-        {
-          "name": "DJ Accia",
-          "url": "https://open.spotify.com/artist/5qW3QhfH4vCVCnggtJsFun"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/7CGhmBhly2zi3uonHCJNvy"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "The Arcade",
-        "url": "https://open.spotify.com/album/5bleoWAzFDGpa4Zteq8orQ"
-      },
-      "artists": [
-        {
-          "name": "TBR",
-          "url": "https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv"
-        },
-        {
-          "name": "FEZZA",
-          "url": "https://open.spotify.com/artist/4ZbzNhSUbn0FEsWGJPcRUX"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "The Arcade",
-      "url": "https://open.spotify.com/track/1TTfaunbAky697aZKRCJBH"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "4Ever",
-        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "4Ever",
-      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Radio Rockin'",
-        "url": "https://open.spotify.com/album/1cRBNJpKy7bAs9u7n8WSoF"
-      },
-      "artists": [
-        {
-          "name": "Matt Steffanina",
-          "url": "https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8"
-        }
-      ],
-      "duration_ms": 168281,
-      "name": "Radio Rockin'",
-      "url": "https://open.spotify.com/track/63mpXqIbjHiTx2sZCUjnKV"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Chupa (Sevenn Hybrid Techno Remix)",
-        "url": "https://open.spotify.com/album/7GXt61dxvQSPEVShnV9ot5"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Chupa - Sevenn Hybrid Techno Remix",
-      "url": "https://open.spotify.com/track/25WOUSnf9Pi6SsmzCZQbtC"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Livin Without Maybes (feat. Gor Sujyan)",
-        "url": "https://open.spotify.com/album/77k0fkGfzltD42kZrWROIA"
-      },
-      "artists": [
-        {
-          "name": "Lost Capital",
-          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
-        },
-        {
-          "name": "Gor Sujyan",
-          "url": "https://open.spotify.com/artist/4QUUHXAYryIYfezylxv64t"
-        }
-      ],
-      "duration_ms": 216942,
-      "name": "Livin Without Maybes (feat. Gor Sujyan)",
-      "url": "https://open.spotify.com/track/1uD3wXUK4grtaml6uAywkX"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "No Love, No Life",
-        "url": "https://open.spotify.com/album/42x5j34Hcxm0puZv92VnDH"
-      },
-      "artists": [
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        },
-        {
-          "name": "Elliot Fitch",
-          "url": "https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB"
-        }
-      ],
-      "duration_ms": 139166,
-      "name": "No Love, No Life",
-      "url": "https://open.spotify.com/track/5ito7KV8kZzuA7SLFV0oMw"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "We Could Be Together (feat. Daddy DJ)",
-        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Daddy DJ",
-          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
-        }
-      ],
-      "duration_ms": 149642,
-      "name": "We Could Be Together (feat. Daddy DJ)",
-      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/51jFumSXhqsS5DaseOhCgj"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/6L8m03xqrhwyLZ5ptN28CE"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/7HFeb1OonbWxKEEBgiIHwG"
-      },
-      "artists": [
-        {
-          "name": "Justus",
-          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Magnificence",
-          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Ridiculous",
-        "url": "https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ridiculous",
-      "url": "https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Shake Girls",
-        "url": "https://open.spotify.com/album/4D19bKyBFiw0YCp0f9g7PB"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "LU OLIVER",
-          "url": "https://open.spotify.com/artist/3as6YwjpovlJJMh3aAwRPi"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Shake Girls",
-      "url": "https://open.spotify.com/track/5ZViS8MaRqQvaSTwQEgSVq"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/3Ynln568kc4fBU1BnRnmwO"
-      },
-      "artists": [
-        {
-          "name": "Matt Lucker",
-          "url": "https://open.spotify.com/artist/6ijZe1inmYe105FZhqqbAP"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/147W3xOEAICOOzhnAVNuEr"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/6FbpmsXkcMmWm6zd8dnh5L"
-      },
-      "artists": [
-        {
-          "name": "Awiin",
-          "url": "https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3THwIbFtoroiaFF96X7G1q"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/0KHc9h8G1qf1J2o3CJJiR5"
-      },
-      "artists": [
-        {
-          "name": "Aiobahn",
-          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/30LHsv6DsHkcE0cEASJHll"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 184374,
-      "name": "Lucid",
-      "url": "https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "The Chills",
-        "url": "https://open.spotify.com/album/2SCXbDnz9SQwLqh4bPMqnm"
-      },
-      "artists": [
-        {
-          "name": "The Pressure",
-          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
-        }
-      ],
-      "duration_ms": 171832,
-      "name": "The Chills",
-      "url": "https://open.spotify.com/track/4LcXZPdx1tL63jzfsqdsHp"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "U Got My Body",
-        "url": "https://open.spotify.com/album/2meD7HrbvMUsdSq0N6cNGC"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 284761,
-      "name": "U Got My Body",
-      "url": "https://open.spotify.com/track/2Jt3iFtEuN1fTfg1FNvMxu"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Purpose",
-        "url": "https://open.spotify.com/album/7eO4QOIMUJS1FI0KRriiie"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/7Bwi1y2SWydkMxyXWSMnGa"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/58q0tShWYhtsheH5mA17Mb"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 151219,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/2U8vIkkWWloYx0sM6u7rjz"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "sweet escape",
-        "url": "https://open.spotify.com/album/4V5Av9ksFYTRqL4jO4cpEb"
-      },
-      "artists": [
-        {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        },
-        {
-          "name": "MGRD",
-          "url": "https://open.spotify.com/artist/4YUE2tJ9FiSdHrlyiRnxQN"
-        }
-      ],
-      "duration_ms": 242307,
-      "name": "sweet escape",
-      "url": "https://open.spotify.com/track/4wrsZKDowF7AFJGfSrFSsa"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2uvFX9ZjatLh7a53xiJAPm"
-      },
-      "artists": [
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/6HJ4OjaIGlqvemigb7WzBF"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "Bad Like That",
-        "url": "https://open.spotify.com/album/0me3KoXDHPItPsYgBZ5edV"
-      },
-      "artists": [
-        {
-          "name": "NightFunk",
-          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
-        }
-      ],
-      "duration_ms": 232559,
-      "name": "Bad Like That",
-      "url": "https://open.spotify.com/track/7sxFEiy7tnFAbO4OSGHcqr"
-    },
-    {
-      "added_at": "2022-06-10 07:38:19",
-      "album": {
-        "name": "She Movin'",
-        "url": "https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "22Bullets",
-          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "She Movin'",
-      "url": "https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud"
-    },
-    {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/1oLDHF4F3E3HfdcOAMytuF"
@@ -617,7 +33,7 @@
       "url": "https://open.spotify.com/track/1D643xL28RupQU5Ze9sH8P"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/5eSBPLEc1Tq4LJT39d40Jc"
@@ -637,7 +53,7 @@
       "url": "https://open.spotify.com/track/0ze9QMgIwPR9ohnJbZNIEK"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Feel My Love (feat. Joe Taylor)",
         "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
@@ -661,7 +77,7 @@
       "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "It's A Hard Knock Life (Prezioso Remix)",
         "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
@@ -681,7 +97,7 @@
       "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/2LoaKEh3ScROHvy6z1DszF"
@@ -701,7 +117,7 @@
       "url": "https://open.spotify.com/track/3YjYBo1Xd4z8Z5GnFG0K1y"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "SCARS",
         "url": "https://open.spotify.com/album/5Iw6Vei8AjSApCmbsXp5tj"
@@ -721,7 +137,7 @@
       "url": "https://open.spotify.com/track/2WuYnh05YeOU3LQ9ayWOVh"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/05QCZJpeL2wMupisZfR7Il"
@@ -741,7 +157,7 @@
       "url": "https://open.spotify.com/track/6C0M9XTs497rDfn2pXEuje"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Get After It",
         "url": "https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI"
@@ -757,7 +173,7 @@
       "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Jolene (feat. Angie Robba) [Adam Trigger & Flo Dosh Remix]",
         "url": "https://open.spotify.com/album/5FzCNposPPasxxAkioOPO8"
@@ -785,7 +201,7 @@
       "url": "https://open.spotify.com/track/7m9QKIMwRcr53ByP1Rl55X"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2S4raQoaoS3DUKOA9Tz4CD"
@@ -805,7 +221,7 @@
       "url": "https://open.spotify.com/track/3LPXWwUVayY2bxIOp3JUGX"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ"
@@ -825,7 +241,7 @@
       "url": "https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "ENDO",
         "url": "https://open.spotify.com/album/2sokOr3xA8iHb5rnFpZw4b"
@@ -845,7 +261,7 @@
       "url": "https://open.spotify.com/track/5SOVnhMqSj04EfEeF8QAPe"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "I'm Still In Love",
         "url": "https://open.spotify.com/album/6Ym5WHF7p9E7JXsc1EVMkv"
@@ -865,7 +281,7 @@
       "url": "https://open.spotify.com/track/6xyXbK6K4RkOrsUUVEZ7cs"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "What A Girl (feat. Belico)",
         "url": "https://open.spotify.com/album/1jjQzFSo67KSgvTZQodqha"
@@ -889,7 +305,7 @@
       "url": "https://open.spotify.com/track/3X2dIlT0DRB84Nxe65jvNx"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Welcome Back Home (feat. MC Ambush)",
         "url": "https://open.spotify.com/album/06s3KEW6ZJaGlCxCO1rl5y"
@@ -909,7 +325,7 @@
       "url": "https://open.spotify.com/track/6LbHtTZwzYDWELlXi872yS"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Goodbye (feat. Xillions) [Crude Intentions & Dr. Rude Remix]",
         "url": "https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq"
@@ -933,7 +349,7 @@
       "url": "https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Lucid (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/4INg23Z4JWbDxKIEdvN7fA"
@@ -953,7 +369,7 @@
       "url": "https://open.spotify.com/track/23e3Wo1NkyvRpYRfC406HX"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "We Don\u2019t Need (MistaJam Remix)",
         "url": "https://open.spotify.com/album/2H2Xu8YhzemUlg6G1bUGRI"
@@ -973,7 +389,7 @@
       "url": "https://open.spotify.com/track/5Iy8pAEdAJljnpbAMKfKNd"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Trouble So Hard (feat. MELLY OHH)",
         "url": "https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61"
@@ -993,7 +409,7 @@
       "url": "https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "I Feel Love",
         "url": "https://open.spotify.com/album/228hFLATGeVTOzseVUg3uV"
@@ -1017,7 +433,7 @@
       "url": "https://open.spotify.com/track/3ObNGJI7f3uofM9PY60cFW"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/3SUtXBzGUcaPQ5rnLUEJnE"
@@ -1037,7 +453,7 @@
       "url": "https://open.spotify.com/track/7CGhmBhly2zi3uonHCJNvy"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "The Arcade",
         "url": "https://open.spotify.com/album/5bleoWAzFDGpa4Zteq8orQ"
@@ -1057,7 +473,7 @@
       "url": "https://open.spotify.com/track/1TTfaunbAky697aZKRCJBH"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "4Ever",
         "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
@@ -1073,7 +489,7 @@
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Radio Rockin'",
         "url": "https://open.spotify.com/album/1cRBNJpKy7bAs9u7n8WSoF"
@@ -1089,7 +505,7 @@
       "url": "https://open.spotify.com/track/63mpXqIbjHiTx2sZCUjnKV"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Chupa (Sevenn Hybrid Techno Remix)",
         "url": "https://open.spotify.com/album/7GXt61dxvQSPEVShnV9ot5"
@@ -1109,7 +525,7 @@
       "url": "https://open.spotify.com/track/25WOUSnf9Pi6SsmzCZQbtC"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Livin Without Maybes (feat. Gor Sujyan)",
         "url": "https://open.spotify.com/album/77k0fkGfzltD42kZrWROIA"
@@ -1129,7 +545,7 @@
       "url": "https://open.spotify.com/track/1uD3wXUK4grtaml6uAywkX"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "No Love, No Life",
         "url": "https://open.spotify.com/album/42x5j34Hcxm0puZv92VnDH"
@@ -1149,7 +565,7 @@
       "url": "https://open.spotify.com/track/5ito7KV8kZzuA7SLFV0oMw"
     },
     {
-      "added_at": "2022-06-17 07:01:10",
+      "added_at": "2022-06-19 17:28:27",
       "album": {
         "name": "Body Heat",
         "url": "https://open.spotify.com/album/51jFumSXhqsS5DaseOhCgj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Baby Gang, Jake La Furia, Anna, Rondodasosa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,009 likes - 94 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,046 likes - 94 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

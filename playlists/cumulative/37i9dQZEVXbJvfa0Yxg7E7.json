@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 157765,
       "name": "31 Etasje",
       "url": "https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1484,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "BlimE! - Den Ene",
+        "url": "https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR"
+      },
+      "artists": [
+        {
+          "name": "Selma Ibrahim",
+          "url": "https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201330,
+      "name": "BlimE! - Den Ene",
+      "url": "https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu"
+    },
+    {
+      "album": {
         "name": "BlimE! \u2013 Dynamitt",
         "url": "https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL"
       },
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 159522,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
@@ -6883,7 +6901,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -11799,7 +11817,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 191098,
       "name": "Somebody Like U",
       "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"

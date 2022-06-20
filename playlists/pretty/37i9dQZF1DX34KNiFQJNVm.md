@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Drake, Filipe Ret, Os Barões da Pisadinha e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,175 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,313 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 38 | [YASMIN AS BOLAS](https://open.spotify.com/track/409QAQlwJyYsbtrdT2DACT) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I) | [YASMIN AS BOLAS](https://open.spotify.com/album/1hIRHJDafqgoq8FPJnj1HM) | 1:34 |
 | 39 | [Pode Bater](https://open.spotify.com/track/6TYAjR9CyoE7jnja3tj7j7) | [Mc Sara](https://open.spotify.com/artist/7kQ9YpBhqes4SIVYWO99Cc) | [Pode Bater](https://open.spotify.com/album/2UOx4tg12kBGNkeChWd2p3) | 2:48 |
 | 40 | [Africano](https://open.spotify.com/track/0dHQP3O4pdNa7oyE1yWsJl) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Dorly](https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2), [Halux](https://open.spotify.com/artist/61A6b3vfliHlp0x7KGRmTM), [Milbeats](https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV) | [Africano](https://open.spotify.com/album/6RC5MJSsr5mOoVQhY9QSzG) | 3:58 |
-| 41 | [Malícia \(feat\. DJ Pedro\)](https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Raro](https://open.spotify.com/artist/0iQldLKFnSKUMlUjeWQ8Wn), [DJ Pedro](https://open.spotify.com/artist/6sp12XzqjowOJNO1jkbXMR) | [Malícia \(feat\. DJ Pedro\)](https://open.spotify.com/album/092UegWYtlCCJjSCchCoPc) | 1:30 |
+| 41 | [Malícia \(feat\. Pedro Bala\)](https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Raro](https://open.spotify.com/artist/0iQldLKFnSKUMlUjeWQ8Wn), [Pedro Bala](https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f) | [Malícia \(feat\. Pedro Bala\)](https://open.spotify.com/album/092UegWYtlCCJjSCchCoPc) | 1:30 |
 | 42 | [Sorrir pra mim](https://open.spotify.com/track/69okVWZlwu6W7MgfIvml4I) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Neeh](https://open.spotify.com/artist/2SDYnXWEAiTFyyKyRDy79I) | [Sorrir pra mim](https://open.spotify.com/album/7ETpY7HwevQBlwz9sJZe5q) | 2:12 |
 | 43 | [What A Girl \(feat\. Belico\)](https://open.spotify.com/track/3X2dIlT0DRB84Nxe65jvNx) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V), [Belico](https://open.spotify.com/artist/6f04rVzdeSu2uJv6ZB323r) | [What A Girl \(feat\. Belico\)](https://open.spotify.com/album/1jjQzFSo67KSgvTZQodqha) | 2:41 |
 | 44 | [Walk Away](https://open.spotify.com/track/7h0hG4iPTUMeEBlMiSMN0P) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Where Silence Feels Good \(Deluxe\)](https://open.spotify.com/album/3D3WqDjVOacQ4Eb1vKPyk7) | 2:57 |

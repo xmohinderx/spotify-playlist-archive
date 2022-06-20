@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Marizu
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,712 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,794 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 56 | [Only What You Do For Christ](https://open.spotify.com/track/7brcuxEkDRz9yc8wP7fNfF) | [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [He Kept Me](https://open.spotify.com/album/09DGcwAGjuFsi86A9v3cFR) | 3:44 |
 | 57 | [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 |
 | 58 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 |
-| 59 | [Of Great Courage](https://open.spotify.com/track/7qdtPDbuqASuAw8g7gBBOl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Larry James Walker II](https://open.spotify.com/artist/0h8N3pPairMfJSMEi0POIA) | [Of Great Courage](https://open.spotify.com/album/5umfaaTKEqEHTsjWGeNp2q) | 3:33 |
+| 59 | [Of Great Courage](https://open.spotify.com/track/7qdtPDbuqASuAw8g7gBBOl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Larry James Walker II](https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN) | [Of Great Courage](https://open.spotify.com/album/5umfaaTKEqEHTsjWGeNp2q) | 3:33 |
 | 60 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
 | 61 | [Step Into My Story](https://open.spotify.com/track/0XkaZCKkPuvuoOLtTLyAgi) | [Sean BE](https://open.spotify.com/artist/6np1JmYwsg2y5u29WBHGfp) | [Step Into My Story](https://open.spotify.com/album/1WkMws2kDCc61k9orOSgTJ) | 3:15 |
 | 62 | [Before You Ask Her](https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Before You Ask Her](https://open.spotify.com/album/3PqgiZxdVoPEFVnE9mA8PZ) | 3:21 |

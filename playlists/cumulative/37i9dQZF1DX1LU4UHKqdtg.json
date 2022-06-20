@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/2ZsdFGDJlvsEFOEY1GkMht"
+      },
+      "artists": [
+        {
+          "name": "Kawaguchi Yurina",
+          "url": "https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204984,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/0GABq6cuB9kugOVuCREeN8"
+    },
+    {
+      "album": {
         "name": "CHERRY -Japanese ver.-",
         "url": "https://open.spotify.com/album/3NSuUNKnOXfOkA5FpMCmRQ"
       },

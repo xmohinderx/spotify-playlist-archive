@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 176840,
       "name": "Descansa General",
       "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 162120,
       "name": "Regalo de Reyes",
       "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
@@ -965,6 +965,24 @@
       "duration_ms": 186586,
       "name": "Sabor de Enga\u00f1o",
       "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
     },
     {
       "album": {

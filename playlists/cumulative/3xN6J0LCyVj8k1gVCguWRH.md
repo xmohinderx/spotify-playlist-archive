@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,462 songs - 3 day 13 hr 12 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,463 songs - 3 day 13 hr 16 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Addicted](https://open.spotify.com/track/002za8woBKJsCCbj30TlPS) | [KelKeyz](https://open.spotify.com/artist/6lKXtmwJnGCpPoPIOit5Oy) | [Addicted](https://open.spotify.com/album/7JijvRD9EIvdwRxGb7GhKo) | 2:44 | 2022-04-08 | 2022-04-24 |
 | [Addicted to You](https://open.spotify.com/track/2esiR5CXxJeiOFTBy117m2) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Kris James](https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS) | 3:10 | 2021-12-08 | 2022-01-07 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |
+| [After Midnight](https://open.spotify.com/track/3dUVYBFVxFyMNIb3IBUghd) | [Above Water](https://open.spotify.com/artist/5liqSYNsRihg8rBQaTQCgw) | [After Midnight](https://open.spotify.com/album/2SAwCvvOBNJnyn8dMysGrY) | 3:25 | 2022-06-19 |  |
 | [After the Party](https://open.spotify.com/track/5IXZ1y2JR5YJ2zZzVzqcEp) | [Reese Taylor](https://open.spotify.com/artist/7oanHaAjd4TQzWsby3Oha2) | [After the Party](https://open.spotify.com/album/53SloflDwJXTnKU7fRKk83) | 2:18 | 2021-04-17 | 2021-08-08 |
 | [Afterburner](https://open.spotify.com/track/2VFU0UbmHogeFsGAfzCBKH) | [BSOD](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05) | [No Way, Get Real](https://open.spotify.com/album/6ScoMm4OZmUMaDhHeXEh4b) | 4:41 | 2020-04-22 | 2020-05-24 |
 | [Again](https://open.spotify.com/track/0KKBzBvkntXQ0LQytomdd5) | [Ant St.](https://open.spotify.com/artist/2hIxFgindSKBkPHGNoRlHh) | [Again](https://open.spotify.com/album/5u6xMFMQAahNjsJe5BKCiy) | 1:25 | 2021-09-10 | 2021-09-26 |

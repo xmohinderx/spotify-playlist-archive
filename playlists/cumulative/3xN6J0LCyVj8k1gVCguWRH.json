@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/2SAwCvvOBNJnyn8dMysGrY"
+      },
+      "artists": [
+        {
+          "name": "Above Water",
+          "url": "https://open.spotify.com/artist/5liqSYNsRihg8rBQaTQCgw"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3dUVYBFVxFyMNIb3IBUghd"
+    },
+    {
+      "album": {
         "name": "After the Party",
         "url": "https://open.spotify.com/album/53SloflDwJXTnKU7fRKk83"
       },

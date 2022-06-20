@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Jacob Collier, Of Monsters and Men, and more! Chill out to these relaxing and calming tracks, and discover new favorites! Cover: Lyn Lapid
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 115,154 likes - 50 songs - 2 hr 47 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,151 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
