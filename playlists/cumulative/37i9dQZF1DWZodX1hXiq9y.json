@@ -100,6 +100,28 @@
     },
     {
       "album": {
+        "name": "Yun Kan 12345",
+        "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Ljungkvist",
+          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
+        },
+        {
+          "name": "Yun Kan 5",
+          "url": "https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410373,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
+    },
+    {
+      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/2UIQkHvSXE9TqJE5K2REAG"
       },
@@ -137,7 +159,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 313013,
       "name": "All of You",
       "url": "https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz"
@@ -522,6 +544,24 @@
     },
     {
       "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
+    },
+    {
+      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -551,7 +591,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 431600,
       "name": "Cousin Mary",
       "url": "https://open.spotify.com/track/0g9brmkGpgD18H2NsDcqC8"
@@ -738,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354066,
+      "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -839,7 +897,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 361773,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/3kWQ4tBE7bE5dCO1AKS7nP"
@@ -918,6 +976,24 @@
     },
     {
       "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/6uBjs8yk91J9pdkds8aabA"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491640,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6BiE95um67fs02pUE8k0rh"
+    },
+    {
+      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -929,7 +1005,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 310520,
       "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
@@ -951,6 +1027,24 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484106,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
     },
     {
       "album": {
@@ -977,6 +1071,32 @@
       "duration_ms": 614613,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3TVGO0B20dnOgBBKb8Fkye"
+    },
+    {
+      "album": {
+        "name": "Triptykon",
+        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Edward Vesala",
+          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447600,
+      "name": "J.E.V.",
+      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
     },
     {
       "album": {
@@ -1009,7 +1129,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
@@ -1653,7 +1773,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 229866,
       "name": "Pepper Steak",
       "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
@@ -1689,7 +1809,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 397800,
       "name": "Prelude and Part I",
       "url": "https://open.spotify.com/track/798VLXLqnKQRq39l2zqgZR"
@@ -1725,7 +1845,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 336333,
       "name": "R.J.",
       "url": "https://open.spotify.com/track/2NQtxGz7AYY2CCtBRvAcOy"
@@ -1926,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417306,
+      "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
+    },
+    {
+      "album": {
         "name": "Ben Webster Plays Ballads Remastered",
         "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
@@ -1941,6 +2079,24 @@
       "duration_ms": 378784,
       "name": "Stardust - Remastered",
       "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "album": {
+        "name": "I'm All For You (Ballad Songbook)",
+        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347773,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
     },
     {
       "album": {
@@ -2067,10 +2223,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
+    },
+    {
+      "album": {
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
     },
     {
       "album": {
@@ -2161,7 +2335,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 173360,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
@@ -2421,6 +2595,24 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "album": {
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
+      },
+      "artists": [
+        {
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZodX1hXiq9y"

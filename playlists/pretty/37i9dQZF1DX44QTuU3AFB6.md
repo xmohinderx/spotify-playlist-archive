@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,047 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,070 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 |
-| 40 | [Sentimental](https://open.spotify.com/track/6wrUBvGFZYeOycORjHO0AM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/4nX2YwuCsLZhvaPNaQphFJ) | 2:47 |
-| 41 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 |
-| 42 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/4AooK5Hh8OZkZ1XjvVGuTY) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Por Ti](https://open.spotify.com/album/0oCg05h5zGhBR6G1iF6VsZ) | 3:06 |
-| 43 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 |
-| 44 | [¿Dónde Estas Presumida?](https://open.spotify.com/track/7ogYqVSJhPbaBWXZG2jo9m) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 3:33 |
-| 45 | [Un 18](https://open.spotify.com/track/3J76NrtaLaKdV0u1N7Awt5) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Un 18](https://open.spotify.com/album/56wlqXiDCv9l7eCmvpPEms) | 4:06 |
-| 46 | [300 Locos](https://open.spotify.com/track/09bJUDqFhk1vkUvAxBA7o5) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [La Nueva Etapa](https://open.spotify.com/album/2IObwHQtduGlInF83SAvGE) | 2:56 |
-| 47 | [El Sillón](https://open.spotify.com/track/4ORwLXI423yg5dSq8bHBH2) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Sillón](https://open.spotify.com/album/4icpOgfnYMyrJTFRGYWif0) | 3:19 |
-| 48 | [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 |
-| 49 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 |
-| 50 | [A Través Del Vaso](https://open.spotify.com/track/0oCSitNlzsQfuIapF9tXRQ) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través Del Vaso](https://open.spotify.com/album/4UShX3ZnzGCiuMnqg9bFoO) | 3:08 |
+| 39 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
+| 40 | [Un Fin en Culiacán](https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Un Fin en Culiacán](https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl) | 2:34 |
+| 41 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 |
+| 42 | [Y Si Se Quiere Ir](https://open.spotify.com/track/1Hk2EC42zMwfwlwxphnJYq) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Y Si Se Quiere Ir](https://open.spotify.com/album/7vCS9ZhKXbCJoBvBiygi1o) | 3:22 |
+| 43 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
+| 44 | [Desde Hoy](https://open.spotify.com/track/2oJCZJAyJgW6tfPTER8nYJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
+| 45 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |
+| 46 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/3d4nvqVHxsY2czibr9SXu9) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:26 |
+| 47 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
+| 48 | [Arrancame El Corazon](https://open.spotify.com/track/2ujUDOUTM7Wt11uhMolOIY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 3:53 |
+| 49 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 |
+| 50 | [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 |
 
-Snapshot ID: `MTY1NTY4NzYwMiwwMDAwMDAwMDg0NzQzZDRmNzY3MDYxNzY5MmNjZTIzZTg1OGM5MDA5`
+Snapshot ID: `MTY1NTc3Mzk3NiwwMDAwMDAwMDEzNzEzYTc0OGZmMWRmMzRjYzRiNDgyMzJjMjgzMzQ3`

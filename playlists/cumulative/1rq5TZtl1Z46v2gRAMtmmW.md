@@ -4,7 +4,7 @@
 
 > 
 
-43 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+44 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Basketball Shoes \- Live from the Queen Elizabeth Hall](https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There \(Deluxe\)](https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO) | 13:24 | 2022-06-13 |  |
 | [Behind The Sun](https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Behind The Sun](https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob) | 4:10 | 2022-04-26 |  |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 |  |
+| [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 |  |
 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 | 2022-05-24 |  |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-12 |  |
 | [Close Your Eyes](https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Close Your Eyes](https://open.spotify.com/album/3Em33jXolcIXpBUskbbSiQ) | 6:30 | 2022-02-16 |  |
@@ -36,7 +37,7 @@
 | [March On](https://open.spotify.com/track/3sd9QKIResfhBak1dgZyap) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Time Goes](https://open.spotify.com/album/3QXhljB4WyuQRD5LNdh1zv) | 4:36 | 2022-04-29 |  |
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 |  |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 |  |
-| [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 |  |
+| [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
 | [Sliding Through Our Fingers](https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Sliding Through Our Fingers](https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2) | 3:28 | 2022-06-09 |  |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-19 | 2022-06-14 |

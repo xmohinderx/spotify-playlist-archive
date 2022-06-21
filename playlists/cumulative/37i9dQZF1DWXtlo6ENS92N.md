@@ -2,7 +2,7 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> The finest quality of Bollywood music handpicked for you\. Cover\- Aamir Khan & Kareena Kapoor Khan
+> The finest quality of Bollywood music handpicked for you\. Cover\- Arijit Singh
 
 50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
 

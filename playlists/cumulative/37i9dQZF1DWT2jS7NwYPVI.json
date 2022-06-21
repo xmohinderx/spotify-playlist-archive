@@ -7598,6 +7598,24 @@
     },
     {
       "album": {
+        "name": "Rob the Supermarket",
+        "url": "https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134640,
+      "name": "Rob the Supermarket",
+      "url": "https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ"
+    },
+    {
+      "album": {
         "name": "Robot Writes A Love Song",
         "url": "https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351"
       },

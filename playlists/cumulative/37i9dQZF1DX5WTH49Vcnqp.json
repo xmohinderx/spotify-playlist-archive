@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173097,
+      "name": "A Keeper",
+      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "album": {
         "name": "So Far to Go",
         "url": "https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ"
       },
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 189000,
       "name": "bootleg jordans",
       "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 254407,
       "name": "Flight's Booked",
       "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
@@ -4157,6 +4175,24 @@
       "duration_ms": 155409,
       "name": "Meet U Again",
       "url": "https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO"
+    },
+    {
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
     },
     {
       "album": {

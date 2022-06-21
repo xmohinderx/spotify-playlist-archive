@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day
+> Monster Hiphop anthems to unlock your day\. Tracks from Khalighraph Jones, Wakadinali, Kendrick Lamar and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Pop Out](https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs) | [Lewis KE](https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi) | [Pop Out](https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG) | 3:09 |
 | 50 | [GVNG](https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3) | [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB), [TwennyEights](https://open.spotify.com/artist/6wsz9QSirpcHgvkZ2Huhv0), [BoutPaperMasey](https://open.spotify.com/artist/7u408StdmIpsqxET0fm3dW) | [GVNG](https://open.spotify.com/album/5AUM8rsUTPiTldUtH7k0ux) | 1:30 |
 
-Snapshot ID: `MTY1NTM3NDY5OCwwMDAwMDAwMjAwMDAwMTgxNmMwNTU4YjkwMDAwMDE4MTZiZWY4ZTU1`
+Snapshot ID: `MTY1NTcxMjIzOCwwMDAwMDAwMzAwMDAwMTgxODAyM2NjMzEwMDAwMDE4MTZiZWY4ZTU1`

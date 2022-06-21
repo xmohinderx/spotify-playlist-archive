@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 183306,
       "name": "Aye Yai Yai (with Yung Bleu)",
       "url": "https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 207045,
       "name": "Do Not Disturb ft. NAV and Yung Bleu",
       "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 179984,
       "name": "Gimme Head",
       "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 243293,
       "name": "Hennessy Tears",
       "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 215722,
       "name": "JUST SAY THAT (feat. GLORILLA)",
       "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
@@ -997,6 +997,28 @@
       "duration_ms": 174131,
       "name": "Keep Dissing 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
+    },
+    {
+      "album": {
+        "name": "Keeps On Fallin' (with Ella Mai)",
+        "url": "https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175285,
+      "name": "Keeps On Fallin' (with Ella Mai)",
+      "url": "https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4"
     },
     {
       "album": {
@@ -1209,7 +1231,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
@@ -1315,10 +1337,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181866,
       "name": "Never Lose You",
       "url": "https://open.spotify.com/track/2S16czIeUR0vS7fwq5Fv7T"
+    },
+    {
+      "album": {
+        "name": "MORE BLACK SUPERHEROES",
+        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "Mamii",
+          "url": "https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "NONCHALANT (feat. Mamii)",
+      "url": "https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF"
     },
     {
       "album": {
@@ -1483,7 +1527,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
@@ -2041,7 +2085,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 163166,
       "name": "Tell Your Friends (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
@@ -2433,7 +2477,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

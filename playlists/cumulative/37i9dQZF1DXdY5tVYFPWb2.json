@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 257276,
       "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 245653,
       "name": "CITY FLIGHT",
       "url": "https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 207006,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "lostpeople",
+        "url": "https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "lostpeople",
+      "url": "https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX"
+    },
+    {
+      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ"
       },
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Natsume",
       "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 209866,
       "name": "One Way feat. YONCE",
       "url": "https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy"
@@ -1118,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "\u65e5\u5e38",
+        "url": "https://open.spotify.com/album/3MLtWoulPfU1BCmjwFGuow"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u3061\u3042\u308a",
+          "url": "https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "PINK",
+      "url": "https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE"
+    },
+    {
+      "album": {
         "name": "Tokyo State Of Mind",
         "url": "https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ"
       },
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi"
@@ -1169,7 +1205,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 209285,
       "name": "Rainy Talk",
       "url": "https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM"
@@ -1299,7 +1335,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 269103,
       "name": "Smoking Time",
       "url": "https://open.spotify.com/track/4lArdXTdlROm7xXtVYgEM6"
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 238301,
       "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM"
@@ -1629,7 +1665,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044?",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 274587,
       "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30fb\u30bd\u30a6\u30eb\u30fb\u30ec\u30f4\u30e5\u30fc (duet with Rainych, feat. evening cinema)",
       "url": "https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH"
@@ -1999,7 +2035,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 228900,
       "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
@@ -2415,7 +2451,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"

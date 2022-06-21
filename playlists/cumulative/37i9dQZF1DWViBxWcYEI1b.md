@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: John Legend
 
-295 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+296 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Constellations](https://open.spotify.com/track/0htyzgIWrBoj9tdxwifIQ6) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/6zbpi0Hz0Sl8Mc7neSLGoL) | 3:20 | 2021-12-17 | 2022-03-05 |
 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 | 2022-04-08 |  |
 | [Crazy](https://open.spotify.com/track/27q9YbWcDoDJR7RiTDcLJy) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [Crazy](https://open.spotify.com/album/0an4YYgGk5jWXvEgU4XZ1C) | 3:45 | 2021-12-17 |  |
+| [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-20 |  |
 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 | 2022-02-18 | 2022-06-18 |
 | [Crowded Room](https://open.spotify.com/track/08gruHjc8xpZkn9iBtehPo) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Crowded Room](https://open.spotify.com/album/5eY17uKHYXR9cb3ufRwIUm) | 3:28 | 2021-12-17 |  |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 | 2022-04-29 |
@@ -116,7 +117,7 @@
 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 | 2022-03-25 |  |
 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 | 2022-02-25 | 2022-03-26 |
 | [Hawaï](https://open.spotify.com/track/384bcP4iK4dp3t6DgYMZ5w) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Hawaï](https://open.spotify.com/album/70IfXW69NPF1thdjzoEuSp) | 3:03 | 2021-12-17 |  |
-| [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-04-29 |  |
+| [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-04-29 | 2022-06-21 |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 | 2022-03-26 |
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-12-17 | 2022-02-12 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-12-17 | 2022-02-26 |

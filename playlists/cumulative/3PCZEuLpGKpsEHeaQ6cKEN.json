@@ -1236,6 +1236,28 @@
     },
     {
       "album": {
+        "name": "Kitchen Party",
+        "url": "https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        },
+        {
+          "name": "Richie Blacker",
+          "url": "https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207177,
+      "name": "Kitchen Party",
+      "url": "https://open.spotify.com/track/4v9HnuZRub3kBt4krLQpH8"
+    },
+    {
+      "album": {
         "name": "L.A. Noir",
         "url": "https://open.spotify.com/album/1jKmCmE82FvDJFIub9Afzc"
       },
@@ -2309,6 +2331,28 @@
       "duration_ms": 190000,
       "name": "Running (feat. Meg Myers) - Edit",
       "url": "https://open.spotify.com/track/0iM0qeZYlvGvVFO5NzoBOB"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385436,
+      "name": "Running (feat. Meg Myers) - Original Mix",
+      "url": "https://open.spotify.com/track/6fbNKnzlcQzbtryQYSxpMb"
     },
     {
       "album": {

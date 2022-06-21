@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-66 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+67 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 |  |
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-06-15 |  |
 | [Don't Press Me](https://open.spotify.com/track/3snZmVX4C2BBsDvGBuggyq) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Don't Press Me](https://open.spotify.com/album/0aJVIbtBQh6UzJZEB88SCj) | 1:50 | 2022-06-16 |  |
+| [Down \- Sworn Virgins Remix \- Edit](https://open.spotify.com/track/51TCXUklE2Ng2uJFHfBhHQ) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sworn Virgins](https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw) | [Down \(Remixes\)](https://open.spotify.com/album/3KXygHEZInk8tR7tGDUTh5) | 3:52 | 2022-06-20 |  |
 | [Effe](https://open.spotify.com/track/7pfBNYKSPD54GeKveA7XyS) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 3:22 | 2022-06-08 | 2022-06-17 |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2022-06-08 |  |
 | [Feel Another Day](https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Feel Another Day](https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA) | 4:01 | 2022-06-08 |  |

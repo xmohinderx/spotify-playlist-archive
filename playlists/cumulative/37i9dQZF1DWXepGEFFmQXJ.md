@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Casey Barnes
+> The cream of today's Country crop\. Cover: Luke Combs
 
 155 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 

@@ -4,7 +4,7 @@
 
 > The classic trumpet players in jazz\. Cover: Miles Davis
 
-100 songs - 9 hr 58 min - not published yet
+101 songs - 10 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 | 2022-05-13 |  |
 | [High Towers](https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:48 | 2022-05-13 |  |
 | [Hub Cap](https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Hubsongs](https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB) | 4:25 | 2022-05-13 |  |
-| [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 | 2022-05-13 |  |
+| [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 | 2022-05-13 | 2022-06-21 |
 | [I Remember Clifford \- Rudy Van Gelder Edition; 2007 Digital Remaster](https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Volume 3](https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0) | 7:09 | 2022-05-13 |  |
 | [I Should Care](https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Introducing Nat Adderley](https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT) | 4:27 | 2022-05-13 |  |
 | [I'll Close My Eyes](https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue's Moods](https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw) | 5:53 | 2022-05-13 |  |
@@ -62,6 +62,7 @@
 | [Life's A Little Blue](https://open.spotify.com/track/6STw2TK2sYu8V6pPNT9Sl3) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Complete Quartet Recordings](https://open.spotify.com/album/7af3OeScFJ73L8CNp6uzbA) | 6:51 | 2022-05-13 |  |
 | [Little Johnny C](https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv) | [Johnny Coles](https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV) | [Little Johnny C](https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ) | 5:11 | 2022-05-13 |  |
 | [Loneliness](https://open.spotify.com/track/1EaR5KcQamWE8X8z07wZMf) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3n892nCuaQxDO0fiuoYV7W) | 9:10 | 2022-05-13 |  |
+| [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 | 2022-05-13 |  |
 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 | 2022-05-13 |  |
 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 | 2022-05-13 |  |
 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 | 2022-05-13 |  |

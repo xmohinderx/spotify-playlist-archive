@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-338 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+339 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Poison](https://open.spotify.com/track/5jL2AUhdKcZFhUAKYcy8gp) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Skrybe](https://open.spotify.com/artist/51TcqE7roc5c4PWG4A4GIX), [Lena Luisa](https://open.spotify.com/artist/3m5gh8cCnoXc0qUe6wukid) | [Poison](https://open.spotify.com/album/44ESvM4YLT7AulEbhoXg75) | 4:11 | 2022-05-20 | 2022-06-18 |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-17 | 2022-06-18 |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-06 | 2022-06-04 |
+| [Popstar](https://open.spotify.com/track/0njo9ZlJryQzqo6LGkxJk4) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Popstar](https://open.spotify.com/album/5WASE5W4ttlNiY8k7ZredT) | 2:44 | 2022-06-20 |  |
 | [Psycho](https://open.spotify.com/track/6vE6GD6TFiVxvYMf8gnsVO) | [Player1](https://open.spotify.com/artist/531qdIZUdxxz8LQ4j63zTP), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Psycho](https://open.spotify.com/album/0OJO9LcoVJT0rSwZkfaxsb) | 3:36 | 2022-03-01 | 2022-04-02 |
 | [R U READY!](https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [R U READY!](https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT) | 3:40 | 2022-04-21 |  |
 | [Real Life](https://open.spotify.com/track/4A2b1j7Ws51rbkAXUu5lJv) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:45 | 2022-01-14 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-189 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+190 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 |  |
+| [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 |  |
 | [Space Boy](https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Space Boy](https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ) | 3:27 | 2022-03-17 | 2022-05-28 |
 | [Spaced Out](https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Spaced Out](https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv) | 2:42 | 2022-02-16 | 2022-04-27 |
 | [Sparkles](https://open.spotify.com/track/7jfKrTeq6JMzWd7hwvwCY9) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [Sparkles](https://open.spotify.com/album/2ghE7Le8NAqLntY7oVq1so) | 4:32 | 2022-05-20 |  |

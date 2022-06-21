@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 386268,
       "name": "A City So Convenient",
       "url": "https://open.spotify.com/track/0xEU6tcS11d3QoGwPw22Z2"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 255909,
       "name": "A Man Called Anthony",
       "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Real Life Is No Cool",
+        "url": "https://open.spotify.com/album/28dJVop66m0uKswunCD9JH"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m & Christabelle",
+          "url": "https://open.spotify.com/artist/1s5e7OUQurxwsCCmpIfRXV"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366384,
+      "name": "Baby Can't Stop",
+      "url": "https://open.spotify.com/track/0vY62UbGD8b6P29Ei5kioB"
+    },
+    {
+      "album": {
         "name": "Balearic Incarnation (Todd Terje Rmx)",
         "url": "https://open.spotify.com/album/4S71fM2WtlFSnQZdIvcMcV"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 201000,
       "name": "beefs, bad blood and burning vendettas",
       "url": "https://open.spotify.com/track/67q2kAzAD0xfJ4qvtwqmRc"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 255354,
       "name": "Blinded By The LEDs - Edit",
       "url": "https://open.spotify.com/track/5tVGnPxbP3d6wwWq3HoZbt"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 294334,
       "name": "Borrowed Emotions",
       "url": "https://open.spotify.com/track/1HMG1SRBtyiZ9KN2fTG170"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 399946,
       "name": "Eight Years",
       "url": "https://open.spotify.com/track/6q4up098jMFIKKa3oiP2a0"
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 401066,
       "name": "Flott Flyt",
       "url": "https://open.spotify.com/track/3oTO2LswafxBqEIKt0YjQR"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 282085,
       "name": "Hard Trafikk",
       "url": "https://open.spotify.com/track/7k4gAzE8PX9WIgBxFFsWSq"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 387053,
       "name": "Italian Stallion",
       "url": "https://open.spotify.com/track/6SQiiwKY6DwT0jcwpejmcn"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 570116,
       "name": "Joh. Piz. - Bj\u00f8rn Torske i Sirkel Remiks",
       "url": "https://open.spotify.com/track/3GS9KwVfFeuP9BBStGIxXN"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 329172,
       "name": "King Of Letting Go - Niilas Remix",
       "url": "https://open.spotify.com/track/6NVMXDhsydUP29CX41SYjK"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 342070,
       "name": "Kosmetisk",
       "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 398813,
       "name": "Langt Der Borte",
       "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 204821,
       "name": "Like A Petal But Not Really",
       "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 127524,
       "name": "Low",
       "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 368000,
       "name": "Moonie",
       "url": "https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 303282,
       "name": "Nitten Nitti (Harvey's Not Normal Mix)",
       "url": "https://open.spotify.com/track/52J9ryxIHPcNDy6hgJDLOC"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 403268,
       "name": "Out Of The Pink - Prins Thomas Remix",
       "url": "https://open.spotify.com/track/1RN5bFXENoJ1Y9Ackmx61j"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 166730,
       "name": "Perseverance",
       "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 163268,
       "name": "Pharos \u00c9poque",
       "url": "https://open.spotify.com/track/6oMU6zmbrCwjn6vgxWjrR6"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 378154,
       "name": "Spooks - Prins Thomas Diskomiks",
       "url": "https://open.spotify.com/track/3TQd0sZE4tfD5fcR0gPn3m"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 393384,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/5XSi9uwzMcwRAPjLrydEOv"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 268440,
       "name": "Strandbar",
       "url": "https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 244746,
       "name": "The Point At The End Of Infinity",
       "url": "https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 398415,
       "name": "Tripping Beauty",
       "url": "https://open.spotify.com/track/0YvC2wMznW20VAwcRwDpKj"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 360118,
       "name": "You Can't Do it Right",
       "url": "https://open.spotify.com/track/2cJaEaSKHHeK8YsmpTBcyc"

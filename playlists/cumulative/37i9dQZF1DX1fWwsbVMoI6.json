@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 219951,
       "name": "Cambio Mi Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 243461,
       "name": "Cuerpo de Sirena",
       "url": "https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 239926,
       "name": "Lejos de ti",
       "url": "https://open.spotify.com/track/5swSEvh2lXYFpGWX0pS2Ki"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 256255,
       "name": "Loco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 195696,
       "name": "Mi Carin\u0303ito",
       "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 300016,
       "name": "Mix: Pimpinela",
       "url": "https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS"
@@ -865,10 +865,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 205960,
       "name": "Muchachita",
       "url": "https://open.spotify.com/track/7d0gsBmBCq2MXGyc8j94n1"
+    },
+    {
+      "album": {
+        "name": "Cumbia",
+        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
+      },
+      "artists": [
+        {
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300930,
+      "name": "Mujer Hilandera",
+      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
     },
     {
       "album": {
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219979,
       "name": "Pecadora 2020 - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 213681,
       "name": "Pensando en ti",
       "url": "https://open.spotify.com/track/6bK5l5leEL9F6Q8Vyf1Id3"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 273531,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/1Ab5YJEpEs5NHS8Lf8lqVP"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 277296,
       "name": "Te burlaste de mi",
       "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 246549,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH"

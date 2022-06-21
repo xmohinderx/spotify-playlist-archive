@@ -4,11 +4,11 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist
 
-192 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+193 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Years](https://open.spotify.com/track/5jbHdlZtZbb3oY9SFT4Jb9) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [10 Years](https://open.spotify.com/album/5hw7YKfqHcxTQUNKZeV3w5) | 3:00 | 2022-04-29 |  |
+| [10 Years](https://open.spotify.com/track/5jbHdlZtZbb3oY9SFT4Jb9) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [10 Years](https://open.spotify.com/album/5hw7YKfqHcxTQUNKZeV3w5) | 3:00 | 2022-04-29 | 2022-06-21 |
 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 | 2022-05-20 |  |
 | [2 seater \(feat\. Smino\)](https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [2 seater \(feat\. Smino\)](https://open.spotify.com/album/74cs9FDpfW0pxPCMXu89xj) | 3:04 | 2022-03-08 | 2022-03-09 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-20 |  |
@@ -88,6 +88,7 @@
 | [Hide & Seek](https://open.spotify.com/track/6EDz39y5ILQfCt1E3vNg3n) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Alpha House / Hide & Seek](https://open.spotify.com/album/6ptUXOnSBYwWPbRM0x4f9f) | 3:51 | 2022-02-25 | 2022-03-04 |
 | [Hold It Down](https://open.spotify.com/track/3IjlT2JvAXQSl4l3DwnHlg) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Hold It Down](https://open.spotify.com/album/4b4GechkOz1R2G78aeBQLX) | 2:13 | 2022-04-07 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 | 2022-05-28 |
+| [Hood Favourite \(Bando Basic\)](https://open.spotify.com/track/21s0puT06ol5NNwHk1ZyKO) | [Reapz](https://open.spotify.com/artist/7auVHLSoni043mEeylrnj6) | [Hood Favourite \(Bando Basic\)](https://open.spotify.com/album/4IMnmzKr7Pch5nIvtbbOfA) | 2:22 | 2022-06-20 |  |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-05-06 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-25 | 2022-03-11 |
 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Swifta Beater](https://open.spotify.com/artist/5wfMJ2PgaKgroRIcXB5Ck6) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 | 2022-03-11 | 2022-04-01 |

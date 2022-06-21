@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-109 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+110 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Inneram Indha Neram](https://open.spotify.com/track/3M4PpixFma16wWsBCNFZol) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Inneram Indha Neram](https://open.spotify.com/album/5xsj5KNmtzrZ992CJR519j) | 5:25 | 2022-03-08 |  |
 | [Insta Instagram](https://open.spotify.com/track/04Sp1e4G7xoTvGHcoMl6ou) | [Leo Peters](https://open.spotify.com/artist/4MMARjT8FuxvD3inBuloPW), [Naksha Saran](https://open.spotify.com/artist/2dRBC4Whl2IXFcVGq9cOpQ) | [Insta Instagram](https://open.spotify.com/album/4cEAdsQ5h7H0dl3QQECUX4) | 3:32 | 2022-02-23 |  |
 | [Ithu Ellam Unnale](https://open.spotify.com/track/6EbbVS4m0opr8cyVjIkgqR) | [Tajmeel Sheriff](https://open.spotify.com/artist/0SyOW7GFk4hsjBI0cztpI8) | [Ithu Ellam Unnale](https://open.spotify.com/album/5OjkUlvcyk24eMoS5wJJc6) | 4:38 | 2022-03-01 | 2022-05-31 |
+| [Jenmam Niraindhathu \- Naatpadu Theral \- 2](https://open.spotify.com/track/0YuLriSsTsu2SGzXw6mubg) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Jenmam Niraindhathu \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/1Eyi5zWgSuVNWeRsbojyB6) | 8:24 | 2022-06-20 |  |
 | [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 | 2021-12-01 |  |
 | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \- From "Irandaam kaadhal"](https://open.spotify.com/track/14fsJKRZp1RlFBvsVq4kNq) | [Kevin D'costa](https://open.spotify.com/artist/11m2LnJnChht9JbeiRIAmv), [Kiran Adithya GK](https://open.spotify.com/artist/7yGEsuloXy1pMd5p1xukPY) | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \(From "Irandaam kaadhal"\)](https://open.spotify.com/album/6O26zFJwro5cCzZqZ4iF4p) | 4:17 | 2022-02-03 | 2022-06-14 |
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 |  |

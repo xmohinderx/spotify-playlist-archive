@@ -6,7 +6,7 @@
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzAzOCw4OTcwNTNjMmYxYzg3YjY5MjBmZjRjMDk1NTJiZTFhODUzOWNlMDBi",
+  "snapshot_id": "MzA0MSw0NDdhM2VmNjYwZGFmMTdjMmE0NTlmMWZkMTY3ZjY4MDJlZTFjMTE1",
   "tracks": [
     {
       "added_at": "2022-06-14 18:01:48",
@@ -79,6 +79,22 @@
       "duration_ms": 804133,
       "name": "Basketball Shoes - Live from the Queen Elizabeth Hall",
       "url": "https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu"
+    },
+    {
+      "added_at": "2022-06-20 05:48:05",
+      "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 129287,
+      "name": "big daddy ya",
+      "url": "https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd"
     },
     {
       "added_at": "2022-05-31 15:03:01",
@@ -191,26 +207,6 @@
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
-    },
-    {
-      "added_at": "2022-06-02 18:46:02",
-      "album": {
-        "name": "pour up",
-        "url": "https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "DJ Nativesun",
-          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "pour up",
-      "url": "https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY"
     },
     {
       "added_at": "2022-05-24 22:03:51",

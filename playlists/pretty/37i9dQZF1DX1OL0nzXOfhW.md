@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Triple G
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,718 likes - 36 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,728 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 35 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 |
 | 36 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 |
 
-Snapshot ID: `MTY1NTY4NzQ1OCwwMDAwMDAwMDY3ZjViZjY1OGIyNmY5OGMxODk4ZDI3NmI3YWRmMTJi`
+Snapshot ID: `MTY1NTc3MzgyNCwwMDAwMDAwMDY3ZjViZjY1OGIyNmY5OGMxODk4ZDI3NmI3YWRmMTJi`

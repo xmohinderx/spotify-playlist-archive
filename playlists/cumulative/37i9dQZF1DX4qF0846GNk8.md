@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-68 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Eda Eda](https://open.spotify.com/track/5srxSzbtZ1t2mL4QfQafYx) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Eda Eda](https://open.spotify.com/album/0QUDkGByI09jn1SNEaALOp) | 2:44 | 2021-12-16 | 2022-03-10 |
 | [El 3aw \- العو](https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El 3aw \- العو](https://open.spotify.com/album/7pduZbuDZ53U3jeDTYJQej) | 3:28 | 2021-12-16 |  |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2021-12-16 |  |
+| [Enta Habibi Yala](https://open.spotify.com/track/1X4b08iGSB0OuT5o8fa6vm) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Enta Habibi Yala](https://open.spotify.com/album/4HF55ccNWOTKzhzVX3h4Lw) | 3:34 | 2022-06-20 |  |
 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 | 2021-12-16 |  |
 | [Ghasheem](https://open.spotify.com/track/1aCVsj9WeXLlj9psAGvw39) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Ghasheem](https://open.spotify.com/album/5GDzEetTPM43TJZebXk8gl) | 3:48 | 2021-12-16 | 2022-01-11 |
 | [Haba \- From "El Ens We El Nems"](https://open.spotify.com/track/0n1LXkgsl43HZiEhWcecrU) | [Oka](https://open.spotify.com/artist/0jSsCsmHAH0cKT5iBwUoX7), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Bayoumi Fouad](https://open.spotify.com/artist/3UpvJjbwwaaKl8SxrsMqqF) | [Haba \(From "El Ens We El Nems"\)](https://open.spotify.com/album/4ls5O9WVGuN43XlaD2Ofr3) | 2:09 | 2021-12-16 |  |

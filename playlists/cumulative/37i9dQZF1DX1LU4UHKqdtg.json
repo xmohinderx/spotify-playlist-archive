@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: BTS",
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: Kep1er",
   "name": "K-Pop Fresh",
   "published_playlist_ids": [
     "7M2UzkWe0rrHEXaOnPr3Xw"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 224173,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 226933,
       "name": "coNEXTion (Age of Light)",
       "url": "https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA"
@@ -1621,6 +1621,24 @@
       "duration_ms": 216893,
       "name": "Hiding Words",
       "url": "https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50"
+    },
+    {
+      "album": {
+        "name": "HIT YA!",
+        "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
+      },
+      "artists": [
+        {
+          "name": "Lapillus",
+          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201724,
+      "name": "HIT YA!",
+      "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
     },
     {
       "album": {
@@ -3560,6 +3578,24 @@
     },
     {
       "album": {
+        "name": "DOUBLAST",
+        "url": "https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc"
+    },
+    {
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -4145,7 +4181,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 209893,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk"

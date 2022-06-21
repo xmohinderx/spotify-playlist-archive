@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: احمد كامل
 
-160 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+161 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [La Ay Ay](https://open.spotify.com/track/2IszeNhqqD0vLT4hPtMGI0) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [La Ay Ay](https://open.spotify.com/album/43dhjgwEzz6JGwAU6n2hlY) | 3:39 | 2021-12-23 | 2022-03-10 |
 | [La Lay Lay La](https://open.spotify.com/track/5LH9gY7Tz78O5fxKtCczVX) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Mahmoud ElShemy](https://open.spotify.com/artist/59SiYTnxeuYJ3eukvx0P8X) | [La Lay Lay La](https://open.spotify.com/album/2ntsTRVQ3nJhhVhHoNHB44) | 3:13 | 2022-01-20 | 2022-04-08 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 | 2021-12-23 | 2022-01-28 |
-| [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 |  |
+| [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 | 2022-06-21 |
 | [Latina](https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Latina](https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR) | 3:06 | 2021-12-23 | 2022-03-10 |
 | [Law Betheb](https://open.spotify.com/track/1Y96JTJ72TUKLycJK2fQ3y) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Law Betheb](https://open.spotify.com/album/3XVLSCfmMiA8OxohsgoUpR) | 3:24 | 2021-12-23 | 2022-02-25 |
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |
@@ -109,6 +109,7 @@
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-01-27 | 2022-04-23 |
 | [Meen Kan Sabab](https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Meen Kan Sabab](https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK) | 4:28 | 2022-06-05 |  |
 | [Mehtag L Wogodk](https://open.spotify.com/track/4XIaNcYyKQC3uipgLSKE1e) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mehtag L Wogodk](https://open.spotify.com/album/7KTZ8xngdzDldsNugnDGqN) | 2:59 | 2021-12-29 | 2022-03-12 |
+| [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-20 |  |
 | [Melkak Hayaty](https://open.spotify.com/track/4ld5JwlPAYzqw4Hl276tgB) | [Mostafa Mahfouz](https://open.spotify.com/artist/35AynhLyzo0RqoOK3z0knn) | [Melkak Hayaty](https://open.spotify.com/album/5u21VlCnmDiYXz4Nzj3SqH) | 4:43 | 2021-12-23 | 2022-01-24 |
 | [Men Wara Albi](https://open.spotify.com/track/48FJYiS6TNaowp08T8Q5fr) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Men Wara Albi](https://open.spotify.com/album/5iv1nz7NCOvTkVfbaIKkvQ) | 3:29 | 2022-01-20 | 2022-04-08 |
 | [Mesaykeb](https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Mesaykeb](https://open.spotify.com/album/6Pwe6SUTBDiORJkyCqWFcr) | 3:05 | 2022-03-18 |  |

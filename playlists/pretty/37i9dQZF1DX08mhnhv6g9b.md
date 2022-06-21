@@ -2,21 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Welcome to the <a href="http://7dayarmyparty.byspotify.com/">ARMY PARTY</a>💜 Listen together BTS song to listen to when you’re falling in love with your best friend\. \(The playlist will be updated daily\)
+> Welcome to the <a href="http://7dayarmyparty.byspotify.com/">ARMY PARTY</a>💜 Listen together BTS song to listen to when you need to grind extra hard today\. \(The playlist will be updated daily\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,849,855 likes - 10 songs - 38 min 43 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,854,462 likes - 11 songs - 40 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
-| 2 | [Euphoria](https://open.spotify.com/track/2r8F0VYPom2XP4cKAzWLLE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:48 |
-| 3 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
-| 4 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 |
-| 5 | [Dimple](https://open.spotify.com/track/58yMMEtAYdyWIr2UEPwmNo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:16 |
-| 6 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 |
-| 7 | [Her](https://open.spotify.com/track/56ymD9oPodUTG8oHhauCMx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:48 |
-| 8 | [Boy In Luv](https://open.spotify.com/track/0vMk4IrUfSJQkhwZnVX6us) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:51 |
-| 9 | [2! 3!](https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:32 |
-| 10 | [I NEED U](https://open.spotify.com/track/1GunnGtZCSjLUAPG6yrDUC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:30 |
+| 2 | [Dope](https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 4:00 |
+| 3 | [No More Dream](https://open.spotify.com/track/27S8iOXD7Z58yvJtyk2S9j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:42 |
+| 4 | [Anpanman](https://open.spotify.com/track/34OSqW5ULWxmCEMjJ1ZgVW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:52 |
+| 5 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 6 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 |
+| 7 | [Run](https://open.spotify.com/track/3G1aAxWS2Nd17FQs4PWV6X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:56 |
+| 8 | [Silver Spoon](https://open.spotify.com/track/5PRJlVG1c2JNa85mFoGARM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:53 |
+| 9 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 |
+| 10 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 |
+| 11 | [N.O](https://open.spotify.com/track/2GEnvQgSJhedm2sqZlOP8o) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:29 |
 
-Snapshot ID: `MTY1NTY4NzM4NCwwMDAwMDAwMDQ5ZGJkOGUxYWYxMWIyNjhjOTY3OTk2YTU4Mjk5ZDc4`
+Snapshot ID: `MTY1NTc3Mzc0OCwwMDAwMDAwMGRmMjk4ZGZhYmFlOGQ4N2E1YTVlOWY0MWVlYTEzZjVm`

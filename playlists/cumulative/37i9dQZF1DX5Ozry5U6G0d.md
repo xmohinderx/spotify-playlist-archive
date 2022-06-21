@@ -4,7 +4,7 @@
 
 > That summer sound.
 
-226 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/7h3Qdt8YSkCi1WJz7ruXZr)
+227 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/7h3Qdt8YSkCi1WJz7ruXZr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Lie](https://open.spotify.com/track/2kbqbzvtneTypTMVaONXqL) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie](https://open.spotify.com/album/5YTs3GM6TM0ymHoMN4OGPL) | 3:35 | 2019-09-05\* | 2022-03-28 |
 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 | 2020-06-19 | 2022-03-28 |
 | [Like the Others Do](https://open.spotify.com/track/7eWLcBy5NHeMs4sVNBPNkS) | [Shahrae](https://open.spotify.com/artist/5NtYfN5SEkjqRJiMqmhz9g) | [Awkward](https://open.spotify.com/album/1j8mf3cPGjnNsZOYH7mc8g) | 3:12 | 2020-05-27 | 2021-07-17 |
+| [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2022-05-16 |  |
 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 | 2019-09-05\* | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-27 |  |
 | [Lost In Japan \- Remix](https://open.spotify.com/track/1jcyBvSfvTTaHvkUmtUmKV) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Lost In Japan](https://open.spotify.com/album/4xOMTk3ect795k1soBxLXk) | 3:21 | 2019-09-05\* |  |
@@ -189,7 +190,7 @@
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2020-05-27 |  |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-07-16 | 2022-04-19 |
 | [Summertime](https://open.spotify.com/track/6fMEVICO96WV6yd1zA2hiS) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [My Boo: R&B Dance](https://open.spotify.com/album/6FuLaTw08gPezpqqmm12VR) | 4:31 | 2022-05-02 |  |
-| [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 | 2019-09-05\* |  |
+| [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 | 2019-09-05\* | 2022-06-21 |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2019-09-05\* |  |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-03-27 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2019-09-05\* |  |

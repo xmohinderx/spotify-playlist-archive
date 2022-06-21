@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-895 songs - 2 day 1 hr 50 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+896 songs - 2 day 1 hr 54 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-17 | 2021-11-21 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-21 |
 | [Amatimies](https://open.spotify.com/track/3UTyIQpogsEpo9IIY5wLS5) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Amatimies / Viikonloppu](https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS) | 2:01 | 2022-04-30 |  |
+| [Angelito](https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Angelito](https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH) | 3:23 | 2022-06-20 |  |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-04-30 | 2022-05-08 |
 | [Anna mennä lennä](https://open.spotify.com/track/6jGiefhBV84vqnyAzp0nGk) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [Anna mennä lennä](https://open.spotify.com/album/63q2HdS8ECtDe2tz5getyP) | 3:02 | 2022-02-17 | 2022-03-06 |
 | [Anna mun rakastaa](https://open.spotify.com/track/3XWTJgRk4FfgiRnGXwdCt3) | [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ) | [Anna mun rakastaa](https://open.spotify.com/album/6tZbLPoy9A3x6zfszrgQYq) | 2:56 | 2022-01-08 | 2022-03-06 |
@@ -829,7 +830,7 @@
 | [Valmiina futaa](https://open.spotify.com/track/0MDLQGQ0txcIdo440A1q7N) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Valmiina futaa](https://open.spotify.com/album/1VZr8uq1l2CyM1h8QahS2V) | 2:55 | 2021-06-14 | 2021-08-31 |
 | [Valoo](https://open.spotify.com/track/5BeMjPUnxSBUK4fXtPsRoD) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Valoo](https://open.spotify.com/album/6mdZfQApSpV0jssCxFiTWq) | 3:07 | 2021-10-10 | 2021-10-18 |
 | [Valot \(feat\. Juno, LEO & Väinöväinö\)](https://open.spotify.com/track/18iiaxZxjQ31VqXX8IIbYb) | [Kuohu](https://open.spotify.com/artist/5WOLOIUAhbTHw5bnZ6rqTC), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [LEO](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Väinöväinö](https://open.spotify.com/artist/5sHEtn1g7FilHv3bYAa5j4) | [Valot \(feat\. Juno, LEO & Väinöväinö\)](https://open.spotify.com/album/3pDxcW0dBErLUZB1KSKBmz) | 3:22 | 2021-03-27 | 2021-03-29 |
-| [Vamos](https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Vamos](https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U) | 2:40 | 2022-01-08 |  |
+| [Vamos](https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Vamos](https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U) | 2:40 | 2022-01-08 | 2022-06-21 |
 | [Vamos \- Remix](https://open.spotify.com/track/6yZuWA0iFPnk7OlGuCPwQj) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Vamos \(Remix\)](https://open.spotify.com/album/0qa7jGaAxYM0SYXsQzIe6m) | 3:21 | 2022-05-21 | 2022-05-31 |
 | [Varpunen jouluaamuna](https://open.spotify.com/track/6zAQuHIi9gENYJTYuwJmvU) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 3:40 | 2021-12-24 | 2021-12-27 |
 | [Vastaaja \(feat\. Ege Zulu & Pessa\)](https://open.spotify.com/track/2LGHc5OI7tWamZd7JoOfll) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Väärinymmärretty](https://open.spotify.com/album/05s8Cw5OJ4MFJJKYcopWGn) | 3:06 | 2022-01-18 | 2022-05-15 |

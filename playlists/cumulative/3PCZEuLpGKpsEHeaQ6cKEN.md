@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Live &amp; AVIRA
 
-149 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+151 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 | 2022-06-09 |  |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2022-06-09 |  |
 | [Jazz Club](https://open.spotify.com/track/2g7HR8Q4xsIDaItScB9OqZ) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Jazz Club](https://open.spotify.com/album/3IEbppWLyhaxJpgFIs7Q5d) | 2:28 | 2022-06-09 |  |
+| [Kitchen Party](https://open.spotify.com/track/4v9HnuZRub3kBt4krLQpH8) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Kitchen Party](https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2) | 3:27 | 2022-06-20 |  |
 | [Latching Onto You \- T.U.R.F\. & Tensnake Noir Mix](https://open.spotify.com/track/14Jxde0UjdtbmRVuz4HJ4A) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ), [T.U.R.F.](https://open.spotify.com/artist/6sKG2ZnKVbH5kiCtWUwEVo) | [L.A\. Noir](https://open.spotify.com/album/1jKmCmE82FvDJFIub9Afzc) | 3:16 | 2022-06-09 |  |
 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-06-09 |  |
 | [Let Me Dance](https://open.spotify.com/track/4WUr1cJPDY1sDfDiIundGo) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [Let Me Dance](https://open.spotify.com/album/3jTJxP7wYCawTqCEAxHY4V) | 3:11 | 2022-06-09 |  |
@@ -114,6 +115,7 @@
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-06-09 |  |
 | [Run](https://open.spotify.com/track/18tBaPJwKQIPjlFv5sb6z8) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [Run](https://open.spotify.com/album/2ZPxfnPG1lRVInwl3TX1Vq) | 2:43 | 2022-06-09 |  |
 | [Running \(feat\. Meg Myers\) \- Edit](https://open.spotify.com/track/0iM0qeZYlvGvVFO5NzoBOB) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 3:10 | 2022-06-09 |  |
+| [Running \(feat\. Meg Myers\) \- Original Mix](https://open.spotify.com/track/6fbNKnzlcQzbtryQYSxpMb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 6:25 | 2022-06-20 |  |
 | [Save Me](https://open.spotify.com/track/7HwguyXxWy1xYfAxGstDKi) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Save Me](https://open.spotify.com/album/0JpC3lX4iuzhNtaslimmd0) | 2:25 | 2022-06-09 |  |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-06-09 |  |
 | [See](https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [See](https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA) | 2:27 | 2022-06-09 |  |

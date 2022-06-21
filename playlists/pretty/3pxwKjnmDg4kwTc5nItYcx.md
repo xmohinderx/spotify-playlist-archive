@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Bri Clark
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,504 likes - 255 songs - 13 hr 48 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,518 likes - 255 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Compete](https://open.spotify.com/track/6LSD9jnaj41coCl86pAg2p) | [Bri Clark](https://open.spotify.com/artist/5TYdUfesG0QEhROR76Hp2Y) | [Waiting](https://open.spotify.com/album/196pUs3pRTBCmfZjv9nqbi) | 3:21 |
-| 2 | [Storm](https://open.spotify.com/track/3JMdlDm0x13FHmzIN9S7Hv) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Storm](https://open.spotify.com/album/1vlDZjBF1i3tAEP0OC1ITB) | 3:39 |
-| 3 | [2step \(feat\. Budjerah\)](https://open.spotify.com/track/5viJfHHj5qnP55zoEWMh97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(feat\. Budjerah\)](https://open.spotify.com/album/3wd91jE2MWmMsHjAP4TA7v) | 2:33 |
-| 4 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 |
-| 5 | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/track/6CX9CaAS6KTOo6Iq1NL9j0) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61), [Pearl](https://open.spotify.com/artist/4glqVTS8QrVGh4DNuXNu9b) | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/album/2xPYrMxfsdT2Wdea5tvPTG) | 3:16 |
-| 6 | [My Name](https://open.spotify.com/track/3rofV13MLdIYj3Hj2gigLe) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Conversations](https://open.spotify.com/album/2jRDlNeTYCcHl9qguqSlYy) | 3:26 |
-| 7 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
-| 8 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 |
-| 9 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 1 | [Storm](https://open.spotify.com/track/3JMdlDm0x13FHmzIN9S7Hv) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Storm](https://open.spotify.com/album/1vlDZjBF1i3tAEP0OC1ITB) | 3:39 |
+| 2 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 3 | [Compete](https://open.spotify.com/track/6LSD9jnaj41coCl86pAg2p) | [Bri Clark](https://open.spotify.com/artist/5TYdUfesG0QEhROR76Hp2Y) | [Waiting](https://open.spotify.com/album/196pUs3pRTBCmfZjv9nqbi) | 3:21 |
+| 4 | [2step \(feat\. Budjerah\)](https://open.spotify.com/track/5viJfHHj5qnP55zoEWMh97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(feat\. Budjerah\)](https://open.spotify.com/album/3wd91jE2MWmMsHjAP4TA7v) | 2:33 |
+| 5 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 |
+| 6 | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/track/6CX9CaAS6KTOo6Iq1NL9j0) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61), [Pearl](https://open.spotify.com/artist/4glqVTS8QrVGh4DNuXNu9b) | [Wear My Heart Out \(feat\. Pearl\)](https://open.spotify.com/album/2xPYrMxfsdT2Wdea5tvPTG) | 3:16 |
+| 7 | [My Name](https://open.spotify.com/track/3rofV13MLdIYj3Hj2gigLe) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Conversations](https://open.spotify.com/album/2jRDlNeTYCcHl9qguqSlYy) | 3:26 |
+| 8 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
+| 9 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 |
 | 10 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 |
 | 11 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [Drella](https://open.spotify.com/artist/1AvKoWxP0BAiCA0f1dfdvG) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 |
 | 12 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 254 | [Said&Done](https://open.spotify.com/track/5lU7ncUEARvpKJ0jGAgaqO) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Said&Done](https://open.spotify.com/album/3bHF1i9CFWmYU8ZsL6HgFB) | 2:40 |
 | 255 | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/track/2Eph6fuQSCCihTTvhptxfC) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/album/0clsV6sGN7Qrwt4wbv95xx) | 3:14 |
 
-Snapshot ID: `MTQ0Miw4M2MzMGIwODZkZDQxYWY2OWE3YjU3MzExMTVlYjYwYWYxYmQ4Yjg4`
+Snapshot ID: `MTQ0NSw2NTUyNjAwZWY2YmE1OWNiMmI2NmE1N2IxZGQzZjljNzBmMzNhNjgz`

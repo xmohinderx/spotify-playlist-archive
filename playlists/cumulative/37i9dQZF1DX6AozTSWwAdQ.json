@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 251733,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 167666,
       "name": "Go The Distance",
       "url": "https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 203692,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230883,
       "name": "LDQ (Little Drama Queen)",
       "url": "https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193040,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "Radioactive Rain",
       "url": "https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219813,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/3IlD3SWoYcBhbMUl4Pj8Hk"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 225063,
       "name": "Strangers Again",
       "url": "https://open.spotify.com/track/5696iWDxeJrfCYkP9LAWXJ"
@@ -1096,6 +1096,28 @@
     },
     {
       "album": {
+        "name": "take it back (feat. Beck)",
+        "url": "https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145718,
+      "name": "take it back (feat. Beck)",
+      "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
+    },
+    {
+      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n"
       },
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 184130,
       "name": "this is growing up",
       "url": "https://open.spotify.com/track/7svLJ45Nbmhpa1MbVFyZ70"
@@ -1161,7 +1183,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 193346,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
@@ -1255,6 +1277,24 @@
       "duration_ms": 227330,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3GoZNIrA0Nl3RQ2fDEZTxM"
+    },
+    {
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ"
     },
     {
       "album": {

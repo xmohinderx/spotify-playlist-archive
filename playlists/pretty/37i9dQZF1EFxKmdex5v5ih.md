@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351 likes - 158 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350 likes - 158 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 14 | [Who \(feat\. BTS\)](https://open.spotify.com/track/2qG81jL9UIP54uS8gYyP4k) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:00 |
 | 15 | [Daisies](https://open.spotify.com/track/367wyLNqQMr5e8S2E6Zvpp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:54 |
 | 16 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6sI8Q7TTJeA9exw6hxEqq3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:52 |
-| 17 | [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 |
-| 18 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 17 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 18 | [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 |
 | 19 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 20 | [Tattoos Together](https://open.spotify.com/track/1Srt81FTalOhRw7t7l8Yh8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:06 |
 | 21 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 37 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
 | 38 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 |
 | 39 | [Changes](https://open.spotify.com/track/7cDpMO5wuWgvv3j4INRBeB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:40 |
-| 40 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 |
-| 41 | [Love Like That](https://open.spotify.com/track/23tJmuwvUOa2kTsOlNMWCS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:04 |
-| 42 | [Anti\-Everything](https://open.spotify.com/track/5d1fRO6RYAtbPPgbpSHnlA) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:03 |
-| 43 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 40 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 41 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 |
+| 42 | [Love Like That](https://open.spotify.com/track/23tJmuwvUOa2kTsOlNMWCS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:04 |
+| 43 | [Anti\-Everything](https://open.spotify.com/track/5d1fRO6RYAtbPPgbpSHnlA) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:03 |
 | 44 | [Back to Life \- from "Bumblebee"](https://open.spotify.com/track/16geeCnXrbiomV1IZ8Kudc) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/3sSEnG2RZGnZlTFwJwxPy4) | 3:53 |
 | 45 | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sidnie Tipton](https://open.spotify.com/artist/1q4zUzqEWKe8YvpI9OxKqL) | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/album/35VgpLWPMuKuPnklBgpK1N) | 3:09 |
 | 46 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 78 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 | 79 | [El Tejano \(feat\. Sofía Reyes\)](https://open.spotify.com/track/0x68K3iDRHrtFl3YkH9bp4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:11 |
 | 80 | [Older](https://open.spotify.com/track/0hyVcO1sh9NkHmKHs3veRz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:27 |
-| 81 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 |
-| 82 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 |
+| 81 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 |
+| 82 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 |
 | 83 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
 | 84 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
 | 85 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 157 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 | 158 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 
-Snapshot ID: `Mjc1OTQ3ODksMDAwMDAwMDAxOGMyMmIyMjQyOWE0MmVmYzY0NDc4ZjAzYzRjMjQxOA==`
+Snapshot ID: `Mjc1OTYyMjksMDAwMDAwMDBiM2E1YjdmMmVkNTM5Y2Q2M2Q5NzM2NjNlZTUxN2MwYw==`

@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "BASEMENT BOY",
+        "url": "https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf"
+      },
+      "artists": [
+        {
+          "name": "DEMIAN",
+          "url": "https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "BASEMENT BOY",
+      "url": "https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt"
+    },
+    {
+      "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
@@ -301,7 +319,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 187251,
       "name": "Breath",
       "url": "https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 212687,
       "name": "BUT YOU",
       "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 210535,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 148946,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 189546,
       "name": "Dear DREAM",
       "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186906,
       "name": "DICE",
       "url": "https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 149446,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 199986,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/7zYbBJmAgeaBoG9zMOml7j"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 167213,
       "name": "Feelin' Like",
       "url": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 215880,
       "name": "Future",
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
@@ -2243,6 +2261,24 @@
       "duration_ms": 234000,
       "name": "It's Beautiful Digging Club Seoul Version",
       "url": "https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe"
+    },
+    {
+      "album": {
+        "name": "It's lovely",
+        "url": "https://open.spotify.com/album/0O8n12Aj0PBZCKC7dU7pky"
+      },
+      "artists": [
+        {
+          "name": "Choi",
+          "url": "https://open.spotify.com/artist/0mCfY94zBDWy5URZg6cjq0"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "It's lovely",
+      "url": "https://open.spotify.com/track/0wOhELLh5spl4nmgvozXoJ"
     },
     {
       "album": {
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
@@ -3085,7 +3121,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 174455,
       "name": "Our Youth",
       "url": "https://open.spotify.com/track/7onumtzvbavER8LKiQmSgJ"
@@ -3132,6 +3168,24 @@
     },
     {
       "album": {
+        "name": "Story Written in Music",
+        "url": "https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "PLAY DUMB",
+      "url": "https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m"
+    },
+    {
+      "album": {
         "name": "What Do I Call You - The 4th Mini Album",
         "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
       },
@@ -3143,7 +3197,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 163026,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
@@ -3161,7 +3215,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 233026,
       "name": "Pong Dang",
       "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
@@ -3449,7 +3503,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
@@ -3677,7 +3731,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219390,
       "name": "SoulMate (feat. IU)",
       "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
@@ -3792,6 +3846,24 @@
     },
     {
       "album": {
+        "name": "Farmers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Strawberry Smoothie",
+      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "album": {
         "name": "Sugar Cake (feat. Microdot)",
         "url": "https://open.spotify.com/album/4A49eGPzpJANDrIuVP0qy7"
       },
@@ -3807,7 +3879,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 214203,
       "name": "Sugar Cake (feat. Microdot)",
       "url": "https://open.spotify.com/track/6J43QczgdKNrQQtwxv3spo"
@@ -3991,7 +4063,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -4085,7 +4157,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 194234,
       "name": "Take Me To You",
       "url": "https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp"
@@ -4259,7 +4331,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 201746,
       "name": "The View",
       "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
@@ -4595,7 +4667,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
@@ -4729,7 +4801,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 236816,
       "name": "Wind flower",
       "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
@@ -4873,7 +4945,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 217893,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA"

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ben Harper
 
-567 songs - 1 day 10 hr 45 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+568 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-02-11 | 2022-05-07 |
 | [Sweet Little Girl](https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Sweet Little Girl](https://open.spotify.com/album/7zThyCXDUCgLljSDyfEw2U) | 3:18 | 2022-05-06 |  |
 | [Sweet Unknown](https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/0aTcsM65p88W6cw7qwG3EM) | 3:58 | 2021-12-03 | 2022-02-05 |
+| [Taking Control \(Acoustic\)](https://open.spotify.com/track/21IICqOmlmJOCoYvoF3igM) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Taking Control \(Acoustic\)](https://open.spotify.com/album/4OCR8ccqDsYlAb92DG4lfj) | 3:22 | 2022-06-20 |  |
 | [Taking Me Back \(Gently\)](https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:36 | 2021-11-12 | 2022-01-15 |
 | [Talamanca](https://open.spotify.com/track/44Tp93EDZPfsrgVXHEfCUV) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Talamanca](https://open.spotify.com/album/7u2BBhjfOdj7xrKfVW1sSa) | 4:20 | 2022-03-18 | 2022-04-29 |
 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 | 2022-03-04 |  |

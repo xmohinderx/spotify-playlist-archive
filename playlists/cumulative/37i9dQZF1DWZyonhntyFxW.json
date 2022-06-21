@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 180983,
       "name": "Double Face",
       "url": "https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 203443,
       "name": "EL BABA",
       "url": "https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ"
@@ -354,6 +354,32 @@
     },
     {
       "album": {
+        "name": "Mextape",
+        "url": "https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abo EL Anwar",
+          "url": "https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "Haram",
+      "url": "https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh"
+    },
+    {
+      "album": {
         "name": "HARAZEEK",
         "url": "https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0"
       },
@@ -435,7 +461,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213271,
       "name": "Ma3lesh Ana Toht",
       "url": "https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23"
@@ -501,6 +527,24 @@
       "duration_ms": 209490,
       "name": "Mamlaka",
       "url": "https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra"
+    },
+    {
+      "album": {
+        "name": "Mareed",
+        "url": "https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "Mareed",
+      "url": "https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S"
     },
     {
       "album": {
@@ -795,7 +839,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 163862,
       "name": "Sou2 El Cassette",
       "url": "https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3"
@@ -839,6 +883,24 @@
       "duration_ms": 161541,
       "name": "Stop - Magnolia",
       "url": "https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir"
+    },
+    {
+      "album": {
+        "name": "Tag",
+        "url": "https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "Tag",
+      "url": "https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz"
     },
     {
       "album": {
@@ -1133,6 +1195,24 @@
       "duration_ms": 189099,
       "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
       "url": "https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0645\u0644\u064a\u0648\u0646",
+      "url": "https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW"

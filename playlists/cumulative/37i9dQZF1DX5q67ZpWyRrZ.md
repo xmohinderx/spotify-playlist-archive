@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Songs from Prateek Kuhad's latest album and more.
+> Songs from Akanksha Sethi's latest album and more.
 
-136 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+137 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2021-12-06 |  |
 | [Baatein](https://open.spotify.com/track/3q5Ur1rIlB8NuOY6FbzxJs) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Baatein](https://open.spotify.com/album/0SwjECRoO3tjUhX3rYaqJf) | 4:06 | 2022-01-05 |  |
 | [Beh Jaana](https://open.spotify.com/track/4EO3U6Ip5sVJZGTQuemMev) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Jugaadistan \(Original Series Soundtrack\)](https://open.spotify.com/album/0tPs35OLKpMmnxzWJXoyze) | 2:41 | 2022-03-16 | 2022-04-23 |
+| [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-20 |  |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 |  |
 | [Butterflies](https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Butterflies](https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N) | 2:33 | 2021-12-06 | 2022-02-05 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-24 |  |
@@ -143,6 +144,6 @@
 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 | 2022-04-14 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-01-05 |  |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2021-12-06 |  |
-| [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-01-05 |  |
+| [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-01-05 | 2022-06-21 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

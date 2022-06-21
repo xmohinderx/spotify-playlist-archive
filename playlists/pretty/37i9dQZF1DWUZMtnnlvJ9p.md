@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,679 likes - 143 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,010 likes - 143 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 142 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 143 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/4VZmWrPYFJP8T17AciiQJh) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/3EaBZNWtqfr7Ju5iTrctnB) | 7:28 |
 
-Snapshot ID: `MTY1NTYyMTU5OCwwMDAwMDBhYjAwMDAwMTgxN2FiY2JkNGMwMDAwMDE3ZmZlYjkxNzBj`
+Snapshot ID: `MTY1NTczMTQ2NiwwMDAwMDBhYzAwMDAwMTgxODE0OTMxYjYwMDAwMDE4MTgxNDdiYTE0`

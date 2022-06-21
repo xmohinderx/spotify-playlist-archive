@@ -4,14 +4,14 @@
 
 > The sweet sounds of Morocco.
 
-122 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+123 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Fois](https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:38 | 2022-02-07 | 2022-02-15 |
 | [3amarli Kasi](https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [3amarli Kasi](https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3) | 2:57 | 2022-01-11 | 2022-04-08 |
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-03-08 | 2022-05-14 |
-| [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 |  |
+| [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 | 2022-06-21 |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-02-03 | 2022-03-24 |
 | [A40](https://open.spotify.com/track/1JwdSbiHb4t7wbmfb2hkPl) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [A40](https://open.spotify.com/album/6PcWY3wKiBQ0B0o4nOnQuV) | 2:55 | 2021-12-25 | 2022-01-17 |
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-12-25 | 2022-03-05 |
@@ -114,7 +114,7 @@
 | [Walo Maliya والو ماليا](https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Walo Maliya](https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN) | 3:30 | 2022-06-16 |  |
 | [Warda](https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Warda](https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx) | 3:25 | 2022-02-14 |  |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-17 |  |
-| [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 |  |
+| [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 | 2022-06-21 |
 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 | 2021-12-25 | 2022-06-10 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-12-25 |  |
 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2021-12-25 |  |
@@ -126,6 +126,7 @@
 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 |  |
 | [Ztam](https://open.spotify.com/track/3nKhMcqmVeeAy9xTEesfiZ) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ztam](https://open.spotify.com/album/4144sqiUaw55a7rANh9mIE) | 3:31 | 2022-03-14 |  |
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-12-25 | 2022-02-03 |
+| [Ça Y Est](https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ça Y Est](https://open.spotify.com/album/0tVYqwsUb9qtzBsMEYpCjB) | 2:44 | 2022-06-20 |  |
 | [العطار](https://open.spotify.com/track/5au1F96i52QNxPliCevyxN) | [Abir El Abed](https://open.spotify.com/artist/0ScO5kFJHQgFnXbB9kZUyN), [Abdous](https://open.spotify.com/artist/47CgjRx30TxbS46UeiOmN7) | [العطار](https://open.spotify.com/album/2MbkppXbjEYc8lqoesbbbL) | 2:37 | 2022-03-10 | 2022-05-28 |
 | [المربوط](https://open.spotify.com/track/0rUD0RRaUQDb9v555cdsDb) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [ثلاثة د الفرحات](https://open.spotify.com/album/6t2qwKDb2Pi9A659Nta0LG) | 3:24 | 2021-12-25 | 2022-01-08 |
 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 | 2021-12-25 |  |

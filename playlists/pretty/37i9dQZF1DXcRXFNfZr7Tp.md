@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Nathan Dawe, Ella Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,467,580 likes - 96 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468,323 likes - 96 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

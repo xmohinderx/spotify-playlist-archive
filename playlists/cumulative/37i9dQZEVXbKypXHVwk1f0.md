@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-428 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+429 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-21 | 2022-05-08 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-12-29 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-23 | 2021-10-07 |
-| [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2021-03-27 | 2021-05-23 |
+| [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2021-03-27 |  |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-04-17 |
@@ -86,6 +86,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-05 | 2021-12-22 |
 | [Dale](https://open.spotify.com/track/0E2Z5bEriQ2V7Nq6Rwn17v) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:30 | 2022-03-12 | 2022-03-27 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-08-23 |
+| [Deja Que Tus Manos](https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Deja Que Tus Manos](https://open.spotify.com/album/2vjLUBzC5KJq7Fhgjzj5ju) | 2:40 | 2022-06-20 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-20 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-03 | 2022-05-22 |
 | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt) | 2:49 | 2022-03-16 | 2022-03-21 |
@@ -348,7 +349,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-11-10 | 2021-11-20 |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2021-04-17 | 2022-01-26 |
 | [Sal y Perrea \- Remix](https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Sal y Perrea \(Remix\)](https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4) | 3:46 | 2021-10-03 | 2021-10-14 |
-| [San Andrés](https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:33 | 2022-03-12 |  |
+| [San Andrés](https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:33 | 2022-03-12 | 2022-06-21 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-05 | 2022-02-08 |
 | [Sauce Boy Freestyle 5](https://open.spotify.com/track/7wNYNg155cUgjiWHsIWdmj) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 5](https://open.spotify.com/album/7swQY1gdz6TIcbolrZgkyW) | 2:56 | 2021-10-17 | 2021-10-23 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-04-18 |
@@ -425,7 +426,7 @@
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-05 | 2022-02-06 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-22 | 2022-03-01 |
-| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 |  |
+| [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-06-21 |
 | [Yo No Se](https://open.spotify.com/track/1MxMBirljZVgAB9jdjB61x) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Yo No Se](https://open.spotify.com/album/67ItedIgITHZoRz4VVqukx) | 2:58 | 2021-12-25 | 2022-01-15 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 |  |

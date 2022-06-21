@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 54 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 |
 | 55 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 |
 | 56 | [Lights Out](https://open.spotify.com/track/6MQQI2uYnjd8EsWbISfpA5) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG) | 3:32 |
-| 57 | [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 |
-| 58 | [Frozen](https://open.spotify.com/track/6lNybwsMNGhVOpT9i2nEL0) | [PON CHO](https://open.spotify.com/artist/2NYOggWBPKbqdEYs7jUr1n), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Frozen](https://open.spotify.com/album/0SROse0jfLRqQebonkFxFl) | 3:29 |
-| 59 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
+| 57 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
+| 58 | [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 |
+| 59 | [Frozen](https://open.spotify.com/track/6lNybwsMNGhVOpT9i2nEL0) | [PON CHO](https://open.spotify.com/artist/2NYOggWBPKbqdEYs7jUr1n), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Frozen](https://open.spotify.com/album/0SROse0jfLRqQebonkFxFl) | 3:29 |
 | 60 | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/track/64BbMZRSlJsWRMZAHKnf1u) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 3:36 |
 | 61 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 |
 | 62 | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/track/30Z12rJpW0M0u8HMFpigTB) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/album/3xte1n53BcjUBxr8BBHdHq) | 3:20 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 112 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 113 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc1OTQ3OTQsMDAwMDAwMDA5ZWUyNWIyMjUyNzYxNDYwNmQ5MmFmNDRjYzViZjgyMg==`
+Snapshot ID: `Mjc1OTYyMzQsMDAwMDAwMDBjN2YxZWFhOTgyYjE0NDNmZjFhMGEzMDU0MzE3Y2ZhYw==`

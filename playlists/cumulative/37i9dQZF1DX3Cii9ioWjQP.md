@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Woong San\(웅산\)\)
 
-68 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
+69 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 | 2022-05-18 |  |
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 |  |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 |  |
+| [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 |  |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 |  |
 | [Look To The Sky](https://open.spotify.com/track/16Ij8FOcMTVN5XbMjziPpS) | [Minseok Choi](https://open.spotify.com/artist/66DjCgQhjF05QqsFAK4JcQ) | [Look To The Sky](https://open.spotify.com/album/0nBvF6j1EIdvKGqb5UGYYu) | 6:09 | 2022-05-03 |  |
@@ -44,7 +45,7 @@
 | [Mirror](https://open.spotify.com/track/6TiWBEcKGhuXrS6EW1fDpU) | [Yungon Kim](https://open.spotify.com/artist/3Ua8LIwG2GReKWV0wxjWHX) | [Painting](https://open.spotify.com/album/0yj1hWHxegggjpw5GW6wAo) | 8:01 | 2022-05-03 | 2022-05-19 |
 | [Moonlight kiss](https://open.spotify.com/track/5KeSCEzu0vaeN6PlIEmZqZ) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Moonlight kiss](https://open.spotify.com/album/5bTORuj2ausd5NCVfCGc6Q) | 3:02 | 2022-05-18 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
-| [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 |  |
+| [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |
 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 | 2022-05-18 |  |
 | [Perfume](https://open.spotify.com/track/02xYtlVTLBZXxXIP2kec41) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Perfume](https://open.spotify.com/album/2HwZWaK4Sp3fnrbgfIz5Vq) | 3:12 | 2022-05-03 |  |
 | [Pray On A Rope](https://open.spotify.com/track/2JPJlvi9ARshM4U6dwmHF2) | [Phil Yoon](https://open.spotify.com/artist/73EDYkCTptRHqBov4HEnX3) | [Pray On A Rope](https://open.spotify.com/album/0rpDRzu9q0XRYVUOJQ2k14) | 8:54 | 2022-05-03 |  |
@@ -67,7 +68,7 @@
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 |  |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 |  |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 |  |
-| [TokTok](https://open.spotify.com/track/6fANOyLyypFGYeo9uzM1X2) | [Jinhee Hong](https://open.spotify.com/artist/1Ezsas1VaOs39tDXRdyTtI) | [TokTok](https://open.spotify.com/album/47BLSR5uu0ZOImlAFwFKo4) | 3:20 | 2022-05-03 |  |
+| [TokTok](https://open.spotify.com/track/6fANOyLyypFGYeo9uzM1X2) | [Jinhee Hong](https://open.spotify.com/artist/1Ezsas1VaOs39tDXRdyTtI) | [TokTok](https://open.spotify.com/album/47BLSR5uu0ZOImlAFwFKo4) | 3:20 | 2022-05-03 | 2022-06-21 |
 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 |  |
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 |  |

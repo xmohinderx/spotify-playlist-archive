@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-107 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+108 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adhiya](https://open.spotify.com/track/5LEjxlKCcYH8irGpRtjbj0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Adhiya](https://open.spotify.com/album/6ClVAtYBeQ6zjy3RnzR0ZV) | 2:57 | 2022-05-29 |  |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-05-29 |  |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2022-05-29 |  |
+| [Baapu](https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 6:06 | 2022-06-20 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 |  |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 |  |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-05-29 |  |
@@ -27,7 +28,7 @@
 | [Chithiyaan](https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/0q5ukWwsWsMiAX18I6D3zK) | 3:18 | 2022-05-29 |  |
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2022-05-29 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 |  |
-| [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 |  |
+| [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 |  |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |

@@ -4,12 +4,12 @@
 
 > Riscopri le più grandi hit del 2003! Cover: Tiziano Ferro
 
-109 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/7GnqBpRMHaDzTd4896TSz8)
+110 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/7GnqBpRMHaDzTd4896TSz8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [03' Bonnie & Clyde](https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Blueprint 2 The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 3:25 | 2020-11-04 |  |
-| [21 Questions](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:44 | 2020-11-04 | 2022-06-18 |
+| [21 Questions](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:44 | 2020-11-04 |  |
 | [All I Have \(feat\. LL Cool J\)](https://open.spotify.com/track/2xlnEhQjSCqNPIJX42ARej) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 4:14 | 2020-11-04 |  |
 | [Almeno stavolta](https://open.spotify.com/track/3dlWsc9OnnDQ6X9JyQk4Xo) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek The Best of: L'anno zero](https://open.spotify.com/album/0WGSpKknhyqibKrF1uKmGN) | 3:25 | 2020-11-04 |  |
 | [Almeno Tu Nell'Universo](https://open.spotify.com/track/1cOUMTR3cZNtlgNh0nGg1p) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:08 | 2020-11-04 |  |
@@ -30,6 +30,7 @@
 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2020-11-04 |  |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2020-11-04 |  |
 | [Dedicato A Te](https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j) | [Le Vibrazioni](https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX) | [Le Vibrazioni](https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5) | 3:28 | 2020-11-04 |  |
+| [Drift Away](https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [No Stranger to Shame](https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9) | 4:15 | 2020-11-04 |  |
 | [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 | 2020-11-04 |  |
 | [Fake](https://open.spotify.com/track/5fTgzdCsvQYfClzsO041BR) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Home](https://open.spotify.com/album/2mwDt9SXbgUo9qUAkWYgbC) | 3:58 | 2020-11-04 |  |
 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 | 2020-11-04 |  |
@@ -113,9 +114,9 @@
 | [Wanksta \- From "8 Mile" Soundtrack](https://open.spotify.com/track/2eXlwgFPe6HgFaPJO8xQHK) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:39 | 2020-11-04 | 2022-06-20 |
 | [Where Is The Love?](https://open.spotify.com/track/1FreAz1lmnDi5aKLB6GdFM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4jOESXHbPsfy1IYdyvwjYI) | 4:32 | 2020-11-04 |  |
 | [White Flag](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/5N4Ruwnt4hgFjuVFjCekGW) | 4:00 | 2020-11-04 |  |
-| [Why Don't You & I \(feat\. Chad Kroeger\)](https://open.spotify.com/track/43LdgobPlcCc5g9Kmactvy) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:34 | 2020-11-04 |  |
+| [Why Don't You & I \(feat\. Chad Kroeger\)](https://open.spotify.com/track/43LdgobPlcCc5g9Kmactvy) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:34 | 2020-11-04 | 2022-06-21 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2020-11-04 | 2022-06-19 |
 | [Xverso](https://open.spotify.com/track/60zS0V5Qdh9eaQ9TV1MpTK) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 3:51 | 2020-11-04 |  |
-| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2020-11-04 |  |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2020-11-04 | 2022-06-21 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

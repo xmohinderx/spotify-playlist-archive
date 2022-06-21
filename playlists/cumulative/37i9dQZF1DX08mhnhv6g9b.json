@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS song to listen to when you\u2019re falling in love with your best friend. (The playlist will be updated daily)",
+  "description": "Welcome to the <a href=\"http://7dayarmyparty.byspotify.com/\">ARMY PARTY</a>\ud83d\udc9c Listen together BTS song to listen to when you need to grind extra hard today. (The playlist will be updated daily)",
   "name": "This Is BTS",
   "published_playlist_ids": [
     "0H29pOOi9iH82uofXTdelu"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 272537,
       "name": "2! 3!",
       "url": "https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 232966,
       "name": "Anpanman",
       "url": "https://open.spotify.com/track/34OSqW5ULWxmCEMjJ1ZgVW"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 254950,
       "name": "Blue & Grey",
       "url": "https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 231384,
       "name": "Boy In Luv",
       "url": "https://open.spotify.com/track/0vMk4IrUfSJQkhwZnVX6us"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 203351,
       "name": "Burning Up (Fire)",
       "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 196776,
       "name": "Dimple",
       "url": "https://open.spotify.com/track/58yMMEtAYdyWIr2UEPwmNo"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 240020,
       "name": "Dope",
       "url": "https://open.spotify.com/track/4o3Ao6wY5fbJR32fQKabfQ"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2r8F0VYPom2XP4cKAzWLLE"
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 228612,
       "name": "Her",
       "url": "https://open.spotify.com/track/56ymD9oPodUTG8oHhauCMx"
@@ -2807,7 +2807,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 210986,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/1GunnGtZCSjLUAPG6yrDUC"
@@ -4632,6 +4632,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209751,
+      "name": "N.O",
+      "url": "https://open.spotify.com/track/2GEnvQgSJhedm2sqZlOP8o"
+    },
+    {
+      "album": {
         "name": "O!RUL8,2?",
         "url": "https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf"
       },
@@ -4686,6 +4704,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "No More Dream",
+      "url": "https://open.spotify.com/track/27S8iOXD7Z58yvJtyk2S9j"
+    },
+    {
+      "album": {
         "name": "You Never Walk Alone",
         "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
       },
@@ -4697,7 +4733,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 231859,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
@@ -5361,7 +5397,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 236748,
       "name": "Run",
       "url": "https://open.spotify.com/track/3G1aAxWS2Nd17FQs4PWV6X"
@@ -5415,7 +5451,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
@@ -5531,7 +5567,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 276707,
       "name": "Serendipity - Full Length Edition",
       "url": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N"
@@ -5585,7 +5621,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 233184,
       "name": "Silver Spoon",
       "url": "https://open.spotify.com/track/5PRJlVG1c2JNa85mFoGARM"
@@ -6339,7 +6375,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 225012,
       "name": "UGH!",
       "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"

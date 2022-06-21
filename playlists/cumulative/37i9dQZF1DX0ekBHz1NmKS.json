@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 177713,
       "name": "94an",
       "url": "https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 164017,
       "name": "Alla m\u00e5ste \u00e4lska mig",
       "url": "https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 233413,
       "name": "Barn av v\u00e5r tid",
       "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 151210,
       "name": "Bergs slussar",
       "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 177735,
       "name": "Better Clothes",
       "url": "https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 175500,
       "name": "Blicka",
       "url": "https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 160940,
       "name": "Buried",
       "url": "https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 166421,
       "name": "Du & jag",
       "url": "https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o"
@@ -2382,6 +2382,24 @@
     },
     {
       "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200976,
+      "name": "Fint i m\u00f6rker",
+      "url": "https://open.spotify.com/track/5Ak1ub0g1FY6xopm1kaFNX"
+    },
+    {
+      "album": {
         "name": "King of a Tragedy",
         "url": "https://open.spotify.com/album/2RT1sORIDrrIu1lRkCbCYi"
       },
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 174000,
       "name": "Ge mig ett tecken",
       "url": "https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn"
@@ -3183,7 +3201,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 180026,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG"
@@ -3451,7 +3469,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 143212,
       "name": "H\u00f6ghusdr\u00f6mmar",
       "url": "https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m"
@@ -3473,7 +3491,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 192625,
       "name": "I don't talk about you",
       "url": "https://open.spotify.com/track/3hcvy3cCArM6NuU4iPTnLO"
@@ -3817,7 +3835,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 190893,
       "name": "Ja",
       "url": "https://open.spotify.com/track/7l7xxZPc59AS2ZELHnrLul"
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 140470,
       "name": "Jag t\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X"
@@ -3947,7 +3965,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 174917,
       "name": "Jag vill inte br\u00e5ka",
       "url": "https://open.spotify.com/track/0at5EUHXolMCt8H7cLWIHA"
@@ -4333,7 +4351,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 208169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4hHZaxhMwNwRmRcpOJKwYr"
@@ -4441,7 +4459,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 136700,
       "name": "Little Brother",
       "url": "https://open.spotify.com/track/6Il1nJedTQoCPleS3hHRHQ"
@@ -4521,7 +4539,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 183230,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1"
@@ -5341,7 +5359,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
@@ -5533,7 +5551,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 150652,
       "name": "N\u00e5t p\u00e5 fickan",
       "url": "https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr"
@@ -5809,7 +5827,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 173919,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob"
@@ -5827,7 +5845,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 237920,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv"
@@ -6959,7 +6977,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 242260,
       "name": "Solnedg\u00e5ngar",
       "url": "https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F"
@@ -6977,7 +6995,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 173650,
       "name": "Som du vill",
       "url": "https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn"
@@ -7169,7 +7187,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 167803,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj"
@@ -7393,7 +7411,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 159966,
       "name": "Superhero ideal (Pantamera)",
       "url": "https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c"
@@ -7541,7 +7559,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 208608,
       "name": "S\u00e4g vad du vill",
       "url": "https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X"
@@ -7649,7 +7667,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 190693,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp"
@@ -7815,7 +7833,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 200334,
       "name": "The River",
       "url": "https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA"
@@ -7851,7 +7869,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 236624,
       "name": "The Voice Within",
       "url": "https://open.spotify.com/track/1VmGd9Gw2sKXCT27x5IvwJ"
@@ -8275,7 +8293,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -8473,7 +8491,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 252000,
       "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
       "url": "https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s"
@@ -9037,7 +9055,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 170970,
       "name": "\u00c5h maj",
       "url": "https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU"

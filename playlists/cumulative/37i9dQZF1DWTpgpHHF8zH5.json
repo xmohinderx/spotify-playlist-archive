@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 178271,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 168402,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/0fz7chmZCjFLLwW8n1g1DZ"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 164009,
       "name": "Dancing in the Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 192181,
       "name": "Nights Like That (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/1FHZyJ35kZ8DaLVOlhOIYK"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6XnikZPkb059iYTuCjZt1X"
@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
@@ -2577,7 +2577,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186080,
       "name": "Weekend Lover",
       "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"
@@ -2723,6 +2723,24 @@
       "duration_ms": 151000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt"
+    },
+    {
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185944,
+      "name": "Wonderful Life - edit",
+      "url": "https://open.spotify.com/track/4xcTOmWUBUOKbsa7UewmLH"
     },
     {
       "album": {

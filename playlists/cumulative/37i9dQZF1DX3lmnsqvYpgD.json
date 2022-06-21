@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Night Ride",
+        "url": "https://open.spotify.com/album/06GigS9fa2Q9ZbbFjtrIkB"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Night Ride",
+      "url": "https://open.spotify.com/track/6NVzSfKT7uyHP9uAIZtpqz"
+    },
+    {
+      "album": {
         "name": "\u4f60\u800c\u5bb6\u7121,\u4f46\u4fc2\u5c07\u4f86\u6703\u6709 (\u4e0a)",
         "url": "https://open.spotify.com/album/6MhbcBShiQos6kbcPMDRVm"
       },

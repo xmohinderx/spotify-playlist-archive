@@ -1,12 +1,12 @@
 {
   "description": "The resurgence is real. Cover: Cautious Clay",
-  "num_followers": 837039,
+  "num_followers": 836946,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ1MTAwMCwwMDAwMDA5NjAwMDAwMTgxNzA5MTlkNWYwMDAwMDE4MTZlYTkwY2M2",
+  "snapshot_id": "MTY1NTc0NTQxMiwwMDAwMDA5NzAwMDAwMTgxODIxZGZiYWUwMDAwMDE4MTZlYTkwY2M2",
   "tracks": [
     {
       "added_at": "2022-06-10 14:58:47",
@@ -23,38 +23,6 @@
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
-    },
-    {
-      "added_at": "2022-06-17 07:30:00",
-      "album": {
-        "name": "10:36",
-        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "10:36",
-      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
-    },
-    {
-      "added_at": "2022-06-10 14:58:47",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -89,68 +57,20 @@
       "url": "https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8"
     },
     {
-      "added_at": "2022-06-17 07:30:00",
-      "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
-    },
-    {
       "added_at": "2022-06-10 14:58:47",
       "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 149866,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
-    },
-    {
-      "added_at": "2022-06-14 13:26:21",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2022-06-17 07:30:00",
-      "album": {
-        "name": "Cool It Kid",
-        "url": "https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Cool It Kid",
-      "url": "https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx"
+      "duration_ms": 221000,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
     },
     {
       "added_at": "2022-06-10 14:58:47",
@@ -171,6 +91,102 @@
     {
       "added_at": "2022-06-17 07:30:00",
       "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-06-14 13:26:21",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
+        "name": "Cool It Kid",
+        "url": "https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Cool It Kid",
+      "url": "https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx"
+    },
+    {
+      "added_at": "2022-06-17 07:30:00",
+      "album": {
         "name": "take it back (feat. Beck)",
         "url": "https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl"
       },
@@ -187,6 +203,38 @@
       "duration_ms": 145718,
       "name": "take it back (feat. Beck)",
       "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "T Love",
+        "url": "https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 310742,
+      "name": "T Love",
+      "url": "https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5"
+    },
+    {
+      "added_at": "2022-06-10 14:58:47",
+      "album": {
+        "name": "Ur Mum",
+        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Ur Mum",
+      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
     },
     {
       "added_at": "2022-06-10 17:14:03",
@@ -219,22 +267,6 @@
       "duration_ms": 162026,
       "name": "Ding Dong Ditch",
       "url": "https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE"
-    },
-    {
-      "added_at": "2022-06-10 14:58:47",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2022-06-14 13:26:21",
@@ -349,22 +381,6 @@
       "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
-      "added_at": "2022-06-10 14:58:47",
-      "album": {
-        "name": "T Love",
-        "url": "https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 310742,
-      "name": "T Love",
-      "url": "https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5"
-    },
-    {
       "added_at": "2022-06-17 07:30:00",
       "album": {
         "name": "Hawaii",
@@ -395,22 +411,6 @@
       "duration_ms": 222800,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/0gWJjbrMpbWkOauTiWghvV"
-    },
-    {
-      "added_at": "2022-06-10 14:58:47",
-      "album": {
-        "name": "Ur Mum",
-        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Ur Mum",
-      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
     },
     {
       "added_at": "2022-06-10 14:58:47",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-902 songs - 1 day 22 hr 10 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+903 songs - 1 day 22 hr 16 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Deserve](https://open.spotify.com/track/1zfuQSeQMnlA6eFymHrjKv) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2) | [DSBHTT](https://open.spotify.com/album/7lTYDGc4JqdEBtgM5zvpS7) | 2:42 | 2022-05-29 | 2022-06-01 |
 | [Detinjstvo](https://open.spotify.com/track/6Y6bigioY2KkzFZESQQsOP) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Detinjstvo](https://open.spotify.com/album/5OFhldPSvWEAsd2yXpQmNV) | 2:39 | 2022-03-29 | 2022-04-11 |
 | [Dicht im Flieger](https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Dicht im Flieger](https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32) | 3:45 | 2022-06-17 |  |
-| [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-04-30 |  |
+| [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-04-30 | 2022-06-21 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-24 |
 | [Die Sterne von Alterlaa](https://open.spotify.com/track/22gaGB9rTNZNbYMweKs09A) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Die Sterne von Alterlaa](https://open.spotify.com/album/1U4UkZK8SOaZZCMGfr8bFn) | 3:13 | 2021-06-27 | 2021-06-28 |
 | [Die Wahrheit ist kein Hit](https://open.spotify.com/track/7wbOPZkN5vTNicW6NKwyGM) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Die Wahrheit ist kein Hit](https://open.spotify.com/album/42FCXtsgdU1RlIYv5roSje) | 3:06 | 2021-07-23 | 2021-07-24 |
@@ -502,6 +502,7 @@
 | [Man's World](https://open.spotify.com/track/6qbuTJchJw2MeEAvjWAhNj) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:47 | 2021-11-21 | 2021-11-22 |
 | [Mandarinen](https://open.spotify.com/track/4HOWTItpwHvQSNyyiwWsPT) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [Mandarinen](https://open.spotify.com/album/46ee0NSuKxsEsddxlxzP1r) | 3:00 | 2021-09-05 | 2021-09-19 |
 | [Manila](https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Manila](https://open.spotify.com/album/04G5svGohksmXulzf6BbK3) | 2:24 | 2022-01-24 |  |
+| [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-20 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-06-03 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-27 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-03-26 | 2022-04-02 |

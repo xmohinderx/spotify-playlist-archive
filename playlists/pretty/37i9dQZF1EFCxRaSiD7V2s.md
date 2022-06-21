@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 220 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 220 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 180 | [Overture / Hello and Welcome](https://open.spotify.com/track/280quzw6my4DdN0AhFdyjv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:54 |
 | 181 | [Accidental Parental](https://open.spotify.com/track/7FJIGjZHUzY9FQHkInWqEB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:43 |
 | 182 | [Blood Ties](https://open.spotify.com/track/02PFbfEtvQxLYFYpXh0bLv) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:25 |
-| 183 | [As You Were](https://open.spotify.com/track/2tZU6gIgbJB1Ko4jEetbrj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:05 |
-| 184 | [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 |
+| 183 | [Memory Palace](https://open.spotify.com/track/4GrNDsg8P5HTifFme7q6nI) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 3:05 |
+| 184 | [As You Were](https://open.spotify.com/track/2tZU6gIgbJB1Ko4jEetbrj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:05 |
 | 185 | [Forever](https://open.spotify.com/track/0DAq8piTNCOUZsJin2jxN1) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:04 |
 | 186 | [The End of the Episode](https://open.spotify.com/track/43LMVBiUsITk9WJKke8Gkl) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 1:58 |
 | 187 | [Stereotype Buffet](https://open.spotify.com/track/07nRJoIQhG6atGSEghrCk1) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Alba Daza](https://open.spotify.com/artist/1Qd19KgWCixiW6034cR4UC), [Mackenzie MacDade](https://open.spotify.com/artist/5dE12X45Oxm9dATqBRPoIC) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:55 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 219 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 220 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1OTQ3OTAsMDAwMDAwMDBhOTBkMDRlYzlmOTliZTBiM2JmZmIzYjRhZDNjODE2MQ==`
+Snapshot ID: `Mjc1OTYyMzAsMDAwMDAwMDA4YTk4MzgyODljZGM2NTc3MWVkZDZmODI5OWE4ZmE1Yg==`

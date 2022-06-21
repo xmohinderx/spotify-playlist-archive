@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 241626,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 212066,
       "name": "Chilanga banda",
       "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 344680,
       "name": "Cuando Seas Grande",
       "url": "https://open.spotify.com/track/6lUtlvjRGKQsH6lNLRzl0K"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 254253,
       "name": "El Baile De San Juan",
       "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
@@ -723,6 +723,24 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "album": {
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 217506,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "La Llamada - 1993 Version",
       "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 288333,
       "name": "Pa Que Me Llames",
       "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 217773,
       "name": "Skapate",
       "url": "https://open.spotify.com/track/0mGNPivC5BpTowR3NF45bD"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 250066,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 224813,
       "name": "Tu Que Pediras",
       "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 249173,
       "name": "Tus Ojos - Versi\u00f3n 25 A\u00f1os",
       "url": "https://open.spotify.com/track/1vDuH3mCl1Y2AMHEBPF1K4"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 255746,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 186247,
       "name": "Yo Quiero Quebrarte",
       "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"

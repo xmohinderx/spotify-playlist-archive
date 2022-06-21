@@ -2,9 +2,9 @@
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day
+> Monster Hiphop anthems to unlock your day\. Tracks from Khalighraph Jones, Wakadinali, Kendrick Lamar and more
 
-50 songs - 2 hr 45 min - not published yet
+50 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 401253,
       "name": "Age of Anxiety II (Rabbit Hole)",
       "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230826,
       "name": "Break The Rhythm",
       "url": "https://open.spotify.com/track/3aKk3RAc8lXQUum6JfZEfx"
@@ -2675,7 +2675,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 214520,
       "name": "Car Therapy",
       "url": "https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg"
@@ -3855,7 +3855,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 201974,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
@@ -3873,7 +3873,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 194222,
       "name": "Darkness Of The Night",
       "url": "https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i"
@@ -4152,6 +4152,24 @@
     },
     {
       "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "album": {
         "name": "dirty dancer",
         "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
       },
@@ -4405,7 +4423,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
@@ -4937,7 +4955,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 226620,
       "name": "Everything Is Going To Be Alright",
       "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
@@ -5659,7 +5677,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 172000,
       "name": "friendship",
       "url": "https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV"
@@ -5739,7 +5757,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 230878,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe"
@@ -5775,7 +5793,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219013,
       "name": "Funny Girl",
       "url": "https://open.spotify.com/track/0reRPFzKIUVpwkXFE7Qt2w"
@@ -7291,7 +7309,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC"
@@ -8805,7 +8823,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 144360,
       "name": "It's Random",
       "url": "https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA"
@@ -10075,7 +10093,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 166852,
       "name": "Look at it in the Light",
       "url": "https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB"
@@ -10255,7 +10273,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -10345,7 +10363,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
@@ -11057,7 +11075,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
@@ -12591,7 +12609,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 194893,
       "name": "ONE IN A MILLION",
       "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
@@ -15531,7 +15549,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 148173,
       "name": "Splinter",
       "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
@@ -16767,7 +16785,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 261366,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/0pUp3X87abCUaFUpgmt5Ee"
@@ -17099,7 +17117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
@@ -18095,7 +18113,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
@@ -18225,7 +18243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 273693,
       "name": "Unconditional I (Lookout Kid)",
       "url": "https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP"
@@ -18467,7 +18485,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 156906,
       "name": "victim of nostalgia",
       "url": "https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS"

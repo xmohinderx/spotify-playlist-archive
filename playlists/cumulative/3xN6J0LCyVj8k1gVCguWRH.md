@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,463 songs - 3 day 13 hr 16 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,465 songs - 3 day 13 hr 22 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2019-10-18 | 2019-12-11 |
 | [River](https://open.spotify.com/track/4BQNZFleobPMwespDHtgxW) | [Doug Kees](https://open.spotify.com/artist/5SnFCa8IkB3e0nvHV4cDlt) | [Eleven](https://open.spotify.com/album/6BWUOuXjvunZPIV56tLFQx) | 4:12 | 2021-10-30 | 2021-11-14 |
 | [River](https://open.spotify.com/track/4Bh9LfSXk2WIE5OXiHSNYs) | [Salt & Steel](https://open.spotify.com/artist/6OfiFGY3N7LvGDeocGuTCX) | [Breathe\. Connect\. Grow.](https://open.spotify.com/album/1wWsEzHF0jkgL531OnxY8Z) | 1:51 | 2020-11-06 | 2020-11-27 |
+| [Riverside](https://open.spotify.com/track/6Tgt0Ld0J5KjhuvHlLh6wr) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [SaraX](https://open.spotify.com/album/10udwv6HZRcCvJVVlCMqQj) | 2:54 | 2022-06-20 |  |
 | [Road Less Traveled](https://open.spotify.com/track/6A5YyEdBe73QgESGVaLFMi) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Road Less Traveled](https://open.spotify.com/album/2XWhCiyztonDiuHFpapf2P) | 3:47 | 2021-04-30 | 2021-05-16 |
 | [Roads](https://open.spotify.com/track/3WdvTrn7b7acuHMhvBETzn) | [Harry McInroy](https://open.spotify.com/artist/1SrlIeqR6FOC00CWd6pwue) | [Time](https://open.spotify.com/album/56BaU89XTvPLiHr0jDPem4) | 4:15 | 2022-04-07 | 2022-04-24 |
 | [Rocket To The Moon](https://open.spotify.com/track/7FYhyTCv11KrZ5UrLBm0Bl) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Rocket To The Moon](https://open.spotify.com/album/1aDUQkoOD9LguvZpfPm8H6) | 3:53 | 2021-10-02 | 2021-10-20 |
@@ -1142,6 +1143,7 @@
 | [so you know](https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [the runaway](https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf) | 2:08 | 2022-03-11 | 2022-03-31 |
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |
+| [Soju](https://open.spotify.com/track/2dcD5s2X2A9QOV0Xhe0cdd) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [Soju](https://open.spotify.com/album/5PCBZNCMphWJAC5eVYdMLV) | 3:01 | 2022-06-20 |  |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-07-12 |
 | [Solomon Sang](https://open.spotify.com/track/791eQ4TI42crcH5DKIz7uA) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [New Moon Daughter](https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA) | 5:56 | 2020-08-20 |  |
 | [Some of That](https://open.spotify.com/track/2rwn9xJsQy2i7sOWKEQrY7) | [Sylvan Paul](https://open.spotify.com/artist/4lPYVNXkOEjmC9dlniLDU1) | [Some of That](https://open.spotify.com/album/6fhEdGGa0tgELbJ0psbqBP) | 4:16 | 2022-01-07 | 2022-01-23 |

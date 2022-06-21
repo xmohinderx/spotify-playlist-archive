@@ -1,12 +1,12 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 70966,
+  "num_followers": 71632,
   "original_name": "bad bunny perreo mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTY4NzE3NiwwMDAwMDAwMGM3MWVmY2RjNjZkMWVkNWRmMjY5YzRhNzQyZTc5YWUz",
+  "snapshot_id": "MTY1NTc3MzU0MiwwMDAwMDAwMDM2ZGE3NjE3ZmViNDg5ODk5ODIyNDhhNDIxYjgxZjZj",
   "tracks": [
     {
       "added_at": "2022-05-25 17:04:40",
@@ -75,30 +75,6 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "Volando (Remix)",
-        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 273474,
-      "name": "Volando - Remix",
-      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
@@ -123,38 +99,26 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "Volando (Remix)",
+        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 209180,
-      "name": "CANCI\u00d3N CON YANDEL",
-      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
+        },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+      "duration_ms": 273474,
+      "name": "Volando - Remix",
+      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -179,6 +143,42 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 209180,
+      "name": "CANCI\u00d3N CON YANDEL",
+      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -247,8 +247,8 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
       "artists": [
         {
@@ -256,49 +256,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 232496,
-      "name": "Una Vez",
-      "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -346,6 +306,38 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
           "name": "Rauw Alejandro",
@@ -359,18 +351,22 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+      "duration_ms": 232496,
+      "name": "Una Vez",
+      "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -395,22 +391,6 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -418,11 +398,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 136892,
-      "name": "La Zona",
-      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -443,8 +427,8 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 192024,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+      "duration_ms": 136892,
+      "name": "La Zona",
+      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176936,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Yaviah",
-          "url": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Bichiyal",
-      "url": "https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -511,62 +491,6 @@
       "duration_ms": 139041,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176936,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "MOJAITA",
-      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
-    },
-    {
-      "added_at": "2022-05-25 17:04:40",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 167975,
-      "name": "Que Malo",
-      "url": "https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -587,6 +511,42 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192024,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "MOJAITA",
+      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -618,11 +578,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Yaviah",
+          "url": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
         }
       ],
-      "duration_ms": 159282,
-      "name": "Soli\u00e1",
-      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
+      "duration_ms": 196500,
+      "name": "Bichiyal",
+      "url": "https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -636,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 163084,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
+      "duration_ms": 159282,
+      "name": "Soli\u00e1",
+      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
     },
     {
       "added_at": "2022-05-25 17:04:40",
@@ -668,6 +632,42 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 167975,
+      "name": "Que Malo",
+      "url": "https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 163084,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
+    },
+    {
+      "added_at": "2022-05-25 17:04:40",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
           "name": "Jowell & Randy",
           "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
@@ -683,8 +683,8 @@
     {
       "added_at": "2022-05-25 17:04:40",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -692,13 +692,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 202240,
-      "name": "BAD CON NICKY",
-      "url": "https://open.spotify.com/track/5bmSver2b3ZXyuyLKtgnFI"
+      "duration_ms": 198367,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
     }
   ],
   "unique_name": "bad bunny perreo mix",

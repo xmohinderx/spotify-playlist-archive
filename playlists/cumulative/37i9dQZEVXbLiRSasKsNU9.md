@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-546 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+547 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-29 | 2022-04-30 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-10 | 2022-02-15 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-02-01 | 2022-02-11 |
+| [Fire To The Rain \- Hardstyle Remix](https://open.spotify.com/track/1bMyWnPs3EYdMhjohiwhuI) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire To The Rain Hardstyle](https://open.spotify.com/album/1OfGFziB9KySDlRMEMSF71) | 2:29 | 2022-06-20 |  |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-05-17 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-03 | 2022-05-08 |
 | [Flights](https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc) | [BandoPop](https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Flights](https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd) | 3:26 | 2022-01-18 | 2022-01-20 |
@@ -388,7 +389,7 @@
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-04-05 | 2022-05-11 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-03-22 | 2022-04-05 |
 | [PSG](https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [PSG](https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ) | 3:00 | 2022-01-22 | 2022-02-06 |
-| [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-06-02 |  |
+| [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-06-02 | 2022-06-21 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-02-01 | 2022-02-22 |
 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 | 2022-06-03 | 2022-06-10 |
 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 | 2022-01-25 | 2022-02-02 |

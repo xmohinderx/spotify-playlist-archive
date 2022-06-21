@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186441,
       "name": "Burned out",
       "url": "https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 374991,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 190976,
       "name": "It's strange",
       "url": "https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 210210,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 222880,
       "name": "Oh I Know",
       "url": "https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 254691,
       "name": "River Flows In You",
       "url": "https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 224736,
       "name": "Sapporo \uc0bf\ud3ec\ub85c\uc5d0 \uac08\uae4c\uc694",
       "url": "https://open.spotify.com/track/6ru1W8qsMTLAvTrHC907A2"
@@ -1164,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245870,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
+    },
+    {
+      "album": {
         "name": "Eternal Moment \uc601\uc6d0\uc758 \uc21c\uac04",
         "url": "https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36"
       },
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219991,
       "name": "Starry Night \uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 (Feat. \uad6c\uc6d0\ucc2c)",
       "url": "https://open.spotify.com/track/53UMUbMpRvAUcRxPWu7pG5"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 245715,
       "name": "The Blue Night Of Jeju Island",
       "url": "https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193593,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K"
@@ -1522,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "album": {
         "name": "With All My Heart (with Hyunseo Park)",
         "url": "https://open.spotify.com/album/6MlBCRZmAcwrXQuHZLEiqj"
       },
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 201461,
       "name": "\uacbd\uc758\uc120 \uc232\uae38",
       "url": "https://open.spotify.com/track/0AfxZaAXwUaacv8QaWqHKf"

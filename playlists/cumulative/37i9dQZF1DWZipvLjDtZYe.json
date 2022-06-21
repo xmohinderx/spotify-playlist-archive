@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Decade",
       "url": "https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 335435,
       "name": "moon",
       "url": "https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Party\u00d7Party",
       "url": "https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 209887,
       "name": "StargazeR",
       "url": "https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 224661,
       "name": "Twilight \u221e nighT",
       "url": "https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 195048,
       "name": "\u304b\u3089\u304f\u308a\u30d4\u30a8\u30ed -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 282239,
       "name": "\u30a2\u30ab\u30c4\u30ad\u30a2\u30e9\u30a4\u30f4\u30a1\u30eb",
       "url": "https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 287800,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c4",
       "url": "https://open.spotify.com/track/75176ZjEhe9XqSNTfI9mIa"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 315095,
       "name": "\u30ad\u30e3\u30c3\u30c8\u30d5\u30fc\u30c9 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 277137,
       "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
       "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "\u30cb\u30fc\u30cf\u30aa feat. \u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/01eJ5xhK0KjXLZYwCKL3N1"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 274840,
       "name": "\u30d1\u30ba\u30eb\u30ac\u30fc\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6w8GaapNl4OdgVGMSHuJdE"
@@ -1058,6 +1058,28 @@
     },
     {
       "album": {
+        "name": "Hatsune Miku 10th Anniversary Songs -\u30df\u30e9\u30af\u30eb\u30df\u30e9\u30a4-",
+        "url": "https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD"
+      },
+      "artists": [
+        {
+          "name": "\u3058\u3093\u00d7kemu",
+          "url": "https://open.spotify.com/artist/4q9HCbPyZAWpj5f4iSOjHw"
+        },
+        {
+          "name": "Miku Hatsune",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "\u30df\u30ea\u30aa\u30f3/\u30ef\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/2xLzmImDWvk0jw92tTsnHk"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30c6\u30aa",
         "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
       },
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 284422,
       "name": "\u30e1\u30eb\u30c8 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev"
@@ -1105,7 +1127,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 198537,
       "name": "\u30e6\u30ad\u30bd\u30e9",
       "url": "https://open.spotify.com/track/4x7AuQVVcvMJSJtIW8z3QN"
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 197218,
       "name": "\u4e00\u5fc3\u4e0d\u4e71",
       "url": "https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt"

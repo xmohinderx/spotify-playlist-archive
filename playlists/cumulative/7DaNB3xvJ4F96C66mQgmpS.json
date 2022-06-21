@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The best workout playlist is here. Listen to bops and bangers from Nicki Minaj, DJ Snake, and others, and discover new favorites to get you through.",
+  "description": "The best workout playlist is here. Listen to bops and bangers from Nicki Minaj, DJ Snake, and others, and discover new favorites to power you through.",
   "name": "Workout Bangers",
   "published_playlist_ids": [
     "7g7wPnfrY0sMCexNWzHf2K"
@@ -93,6 +93,24 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "album": {
+        "name": "CRUNKSTAR",
+        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162954,
+      "name": "BLOOD SWEAT & TEARS",
+      "url": "https://open.spotify.com/track/2sGHNzT76rKbSmAGs8ENH2"
     },
     {
       "album": {
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 266840,
       "name": "Don't Tell 'Em",
       "url": "https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL"
@@ -718,6 +736,24 @@
     },
     {
       "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
+    },
+    {
+      "album": {
         "name": "Pink Friday ... Roman Reloaded (Deluxe)",
         "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
@@ -787,7 +823,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 363521,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"

@@ -1902,6 +1902,28 @@
     },
     {
       "album": {
+        "name": "Possessivo",
+        "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155087,
+      "name": "Possessivo",
+      "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
+    },
+    {
+      "album": {
         "name": "PROFONDO SUD",
         "url": "https://open.spotify.com/album/21Nct8or2VYp1dOfdCRlRF"
       },
@@ -2395,6 +2417,10 @@
         {
           "name": "Touch\u00e9",
           "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
         }
       ],
       "date_added": "2022-06-16",

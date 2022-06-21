@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 248780,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 189015,
       "name": "Cositas de la USA",
       "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
@@ -886,6 +886,32 @@
     },
     {
       "album": {
+        "name": "DON'T YOU WORRY",
+        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "DON'T YOU WORRY",
+      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -948,6 +974,28 @@
     },
     {
       "album": {
+        "name": "eScoRpi\u00d3n :)",
+        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179799,
+      "name": "eScoRpi\u00d3n :)",
+      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
       },
@@ -959,7 +1007,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 222728,
       "name": "Experimento",
       "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
@@ -981,6 +1029,28 @@
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB"
+    },
+    {
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205210,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
     },
     {
       "album": {
@@ -1311,7 +1381,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 192469,
       "name": "La Rutina",
       "url": "https://open.spotify.com/track/1b03Wjd2GOjbwjhZUJtaQO"
@@ -1333,7 +1403,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 221362,
       "name": "La Tarea",
       "url": "https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr"
@@ -1351,7 +1421,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 207933,
       "name": "Ll\u00f3rale a tu madre",
       "url": "https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t"
@@ -1632,6 +1702,32 @@
     },
     {
       "album": {
+        "name": "Mayor Que Usted",
+        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233519,
+      "name": "Mayor Que Usted",
+      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+    },
+    {
+      "album": {
         "name": "Me Myself & I",
         "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
       },
@@ -1713,7 +1809,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
@@ -1749,7 +1845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 174666,
       "name": "Morena Mujer",
       "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
@@ -1927,7 +2023,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
@@ -1953,7 +2049,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 203652,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
@@ -2097,7 +2193,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 149600,
       "name": "Pa' Eso Se Hizo",
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
@@ -3083,7 +3179,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 167640,
       "name": "Una Chica Como T\u00fa",
       "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
@@ -3283,7 +3379,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

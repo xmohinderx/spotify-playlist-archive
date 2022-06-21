@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 216866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 207798,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/65zHbOqYlbJqbmHmCe5SXd"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 206373,
       "name": "Dear Darlin'",
       "url": "https://open.spotify.com/track/5g0SOitu6ahtBTMZyRF8kY"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 246680,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/1FIsJUPRt4f4h979pEOz4w"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 180167,
       "name": "Passport Home",
       "url": "https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219440,
       "name": "Say Love",
       "url": "https://open.spotify.com/track/6r3JPmyGO3Gbpyx1FD5txL"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 257483,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/4MaYEXHIA09CePZZX32AeG"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
@@ -1624,6 +1624,36 @@
     },
     {
       "album": {
+        "name": "Always In Between (Deluxe)",
+        "url": "https://open.spotify.com/album/2Uv0SsIwRolyvE76e0CaBM"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+      "url": "https://open.spotify.com/track/7jgExTKaibKo1hxLMI2vsp"
+    },
+    {
+      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -1671,7 +1701,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 214026,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/3ji4bcQugJj5B6NRGYDNwP"
@@ -1689,7 +1719,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
@@ -1729,7 +1759,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 230733,
       "name": "True Love (feat. Lily Allen)",
       "url": "https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY"
@@ -1823,7 +1853,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
@@ -2021,7 +2051,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/3GNDBGICWkYOz6sUkZEBhQ"
@@ -2039,7 +2069,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 191826,
       "name": "Your Song - Bonus Track",
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"

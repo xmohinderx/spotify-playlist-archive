@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 84,258 likes - 40 songs - 2 hr 4 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 84,359 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
 | 40 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 
-Snapshot ID: `NTIwNSw2MDlhZjdhODMyN2U2MzIxNWZmZDYxNDFjMDhmN2FkNTliNDExZTZj`
+Snapshot ID: `NTIwNixmZTAzODJhODZmMjljZTM5OTUxMGQ4NGM1OTRkMjEyMjVhZWU5MDNi`

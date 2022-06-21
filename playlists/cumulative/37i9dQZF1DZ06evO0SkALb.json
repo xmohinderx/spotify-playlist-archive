@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
+    },
+    {
+      "album": {
         "name": "Legendary Lou Rawls",
         "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 277000,
       "name": "Need You Forever",
       "url": "https://open.spotify.com/track/1eKsrQNO0oFGXn7xQxQYmd"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213973,
       "name": "Oh, What A Nite",
       "url": "https://open.spotify.com/track/1yUrw3yuITA18pUdmgLMfx"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 173026,
       "name": "Time",
       "url": "https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu"
@@ -989,6 +1007,28 @@
       "duration_ms": 354906,
       "name": "What's the Matter with the World",
       "url": "https://open.spotify.com/track/6Vr7UhEQ5K4xJyLkoWEHlr"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
     },
     {
       "album": {
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 318213,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"

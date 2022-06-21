@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 222848,
       "name": "Freak Talk",
       "url": "https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W"
@@ -581,6 +581,24 @@
       "duration_ms": 187758,
       "name": "Might Be on Fire",
       "url": "https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC"
+      },
+      "artists": [
+        {
+          "name": "Milk Talk",
+          "url": "https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Milk Talk",
+      "url": "https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN"
     },
     {
       "album": {

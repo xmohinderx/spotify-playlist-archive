@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,791 likes - 118 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,835 likes - 118 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Narrow Line](https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr) | 4:35 |
-| 2 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 |
-| 3 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 |
-| 4 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
-| 5 | [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 |
+| 1 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
+| 2 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 |
+| 3 | [Narrow Line](https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr) | 4:35 |
+| 4 | [If You See Me Riding By](https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [If You See Me Riding By](https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3) | 3:28 |
+| 5 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 |
 | 6 | [All For the Song](https://open.spotify.com/track/2u7z8YKuEj4WzVGnooSKKs) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [All For the Song](https://open.spotify.com/album/1jQNrctvxHMZM0cuFYumiz) | 5:28 |
-| 7 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 |
+| 7 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 |
 | 8 | [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 |
 | 9 | [Light My Fire](https://open.spotify.com/track/0qhSnJz1pLxidDVxFHH9XD) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Light My Fire](https://open.spotify.com/album/2Wj72J5gYHOtf2QhNDoP5T) | 3:11 |
 | 10 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 117 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 |
 | 118 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
 
-Snapshot ID: `MTY1NDk2MDQ3NywwMDAwMDA0MjAwMDAwMTgxNTM1NGQ2YTgwMDAwMDE4MGJkNTA4ZmM2`
+Snapshot ID: `MTY1NTc2NjY5NywwMDAwMDA0MzAwMDAwMTgxODM2MmM1MmQwMDAwMDE4MGJkNTA4ZmM2`

@@ -978,6 +978,24 @@
     },
     {
       "album": {
+        "name": "Sea Level",
+        "url": "https://open.spotify.com/album/7GIdcbJFXgbRf1hORxLV2L"
+      },
+      "artists": [
+        {
+          "name": "Stephane Landgrebe",
+          "url": "https://open.spotify.com/artist/5dxvpJIhy9HmkQbasNrqy5"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "Sea Level",
+      "url": "https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M"
+    },
+    {
+      "album": {
         "name": "Serenitivity",
         "url": "https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF"
       },

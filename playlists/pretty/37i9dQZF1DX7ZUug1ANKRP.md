@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> \#withALLrefugees \- Cover: LUM!X
+> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Lucky Luke
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,882 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,305 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Boom Boom Boom](https://open.spotify.com/track/3shD8tyqoWeW3iw3g8dHcd) | [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Boom Boom Boom](https://open.spotify.com/album/13lAXu2PY7A5AQ71LdnsSX) | 2:36 |
 | 50 | [Smalltown Boy](https://open.spotify.com/track/3QuJ4TqND9JE7cqAkIrgYr) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Smalltown Boy](https://open.spotify.com/album/22qBsT4FYEV5ZHeFrvIenK) | 2:24 |
 
-Snapshot ID: `MTY1NTY3NjA2MSwwMDAwMDE4ODAwMDAwMTgxN2RmYmM3ZTcwMDAwMDE4MTdkNTk5MTAx`
+Snapshot ID: `MTY1NTc2MjQ2MSwwMDAwMDE4OTAwMDAwMTgxODMyMjIyZmUwMDAwMDE4MTQzMDFlNDFk`

@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 176840,
       "name": "Descansa General",
       "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183280,
+      "name": "Las Tres Mujeres",
+      "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
+    },
+    {
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 149480,
       "name": "Que Seas Dichosa",
       "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
@@ -968,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204746,
+      "name": "Silvano Garcia",
+      "url": "https://open.spotify.com/track/0HDgNBZd1ROObIXIJXB9UO"
+    },
+    {
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 175000,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
@@ -1037,7 +1073,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 162280,
       "name": "Tengo Un Amor Escondido",
       "url": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"

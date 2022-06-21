@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: I Prevail
 
-339 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+340 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 |  |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2022-05-20 |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-06-10 |  |
+| [No Longer Broken](https://open.spotify.com/track/4Pyji8Lazjmb13VNtajN99) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [No Longer Broken](https://open.spotify.com/album/5YE55mEf1XJJ9RUk0N4w8x) | 3:19 | 2022-06-20 |  |
 | [No One Listened](https://open.spotify.com/track/5DNf9rLyJp4j63Ko7xev2U) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [No One Listened](https://open.spotify.com/album/6O9VCjGZCiRnsUquWCCzBd) | 3:11 | 2021-08-06 | 2022-02-12 |
 | [No Place Like Home](https://open.spotify.com/track/75PZD6IULgi7uwyAZzMyXY) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [No Place Like Home](https://open.spotify.com/album/3YmubNnXd4Zjvy9CCMBKM9) | 3:03 | 2022-03-11 |  |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-10 | 2022-01-15 |

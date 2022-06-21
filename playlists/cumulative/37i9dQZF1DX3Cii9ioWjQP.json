@@ -508,6 +508,28 @@
     },
     {
       "album": {
+        "name": "Ironic",
+        "url": "https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG"
+      },
+      "artists": [
+        {
+          "name": "Irony",
+          "url": "https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM"
+        },
+        {
+          "name": "\uace0\uc544\ub78c",
+          "url": "https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Isolate (feat. \uace0\uc544\ub78c)",
+      "url": "https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q"
+    },
+    {
+      "album": {
         "name": "Oscillations",
         "url": "https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv"
       },
@@ -703,7 +725,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 196661,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 200889,
       "name": "TokTok",
       "url": "https://open.spotify.com/track/6fANOyLyypFGYeo9uzM1X2"

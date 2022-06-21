@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Caio Luccas",
-  "num_followers": 65558,
+  "num_followers": 65612,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTY4ODAwNywwMDAwMDAwMDIzZDBkZDY2YmUxMGUzYjBhNWQ4NWQwODZkNzA2NGUw",
+  "snapshot_id": "MTY1NTc3NDM4MCwwMDAwMDAwMDkxMWQzNDdkZjcxZDg3NTBjMmUyZGM0NWUxOTEyNzAz",
   "tracks": [
     {
       "added_at": "2022-06-17 03:01:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -151,6 +135,30 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
+        "name": "Debochando da M\u00eddia",
+        "url": "https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc"
+        },
+        {
+          "name": "Ian Gir\u00e3o",
+          "url": "https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Debochando da M\u00eddia",
+      "url": "https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -179,22 +187,18 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "N\u00e3o Nasceu pra Namorar",
-        "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
       "artists": [
         {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 140307,
-      "name": "N\u00e3o Nasceu pra Namorar",
-      "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -227,6 +231,22 @@
       "duration_ms": 264057,
       "name": "Na Onda do Gin",
       "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Avisa que \u00e9 o Funk",
+        "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Ma\u00e7\u00e3 Verde",
+      "url": "https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -303,18 +323,34 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Avisa que \u00e9 o Funk",
-        "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
+        "name": "Cavalona",
+        "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
       },
       "artists": [
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 164307,
-      "name": "Ma\u00e7\u00e3 Verde",
-      "url": "https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR"
+      "duration_ms": 176640,
+      "name": "Cavalona",
+      "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -375,82 +411,6 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Respeita o Pai",
-        "url": "https://open.spotify.com/album/6UCVuHlTrxtGheLrpPDdIG"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        },
-        {
-          "name": "Fp",
-          "url": "https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Respeita o Pai",
-      "url": "https://open.spotify.com/track/4ixgzWpNnHZOFOiTPAqs3S"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Baile do Cinga do 12",
-        "url": "https://open.spotify.com/album/58PrKw1nIhqRVf2FwkSRx1"
-      },
-      "artists": [
-        {
-          "name": "MC Gontijo",
-          "url": "https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY"
-        },
-        {
-          "name": "Dj Sati Marconex",
-          "url": "https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN"
-        }
-      ],
-      "duration_ms": 181864,
-      "name": "Baile do Cinga do 12",
-      "url": "https://open.spotify.com/track/2uLt06E9xCZVPFXg9v794o"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Passado & Presente",
-        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Jun\u00e7\u00e3o Venenosa",
-      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
         "name": "Menina Se Prepara",
         "url": "https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5"
       },
@@ -467,146 +427,6 @@
       "duration_ms": 210461,
       "name": "Menina Se Prepara",
       "url": "https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Para\u00edso Tropical",
-        "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
-      },
-      "artists": [
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Para\u00edso Tropical",
-      "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "CPX Ta Tega",
-        "url": "https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "CPX Ta Tega",
-      "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Cerol Finin",
-        "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 260178,
-      "name": "Cerol Finin",
-      "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Tipo Gringa",
-        "url": "https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        }
-      ],
-      "duration_ms": 114143,
-      "name": "Tipo Gringa",
-      "url": "https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Debochando da M\u00eddia",
-        "url": "https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc"
-        },
-        {
-          "name": "Ian Gir\u00e3o",
-          "url": "https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Debochando da M\u00eddia",
-      "url": "https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -651,6 +471,54 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
+        "name": "Tipo Gringa",
+        "url": "https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "duration_ms": 114143,
+      "name": "Tipo Gringa",
+      "url": "https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "CPX Ta Tega",
+        "url": "https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "CPX Ta Tega",
+      "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
         "name": "Mateca x Teto",
         "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
       },
@@ -691,242 +559,6 @@
       "duration_ms": 199691,
       "name": "Longe dos Falsos",
       "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Easy Money",
-        "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "Easy Money",
-      "url": "https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Cavalona",
-        "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Cavalona",
-      "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Vida Louca",
-        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vida Louca",
-      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Proibido Celular",
-        "url": "https://open.spotify.com/album/1dKGVFck2RB0EuEECkXzXR"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Predella",
-          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Proibido Celular",
-      "url": "https://open.spotify.com/track/1cbldhFuXiqB8nH9SOBkCq"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "King of Bel",
-        "url": "https://open.spotify.com/album/0HCdpx1TrVqshNLpzszhJe"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 148288,
-      "name": "King of Bel",
-      "url": "https://open.spotify.com/track/3J7ND3ZL8Z90b2Yzw9OSDW"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "M4",
-        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "M4",
-      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Vivendo no Auge",
-        "url": "https://open.spotify.com/album/2ue3fh5fhRh3iREWhHTPJj"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Vivendo no Auge",
-      "url": "https://open.spotify.com/track/14ol0IZpDLQBf6jA6SDia2"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "\u00d4 Mo\u00e7a",
-        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "\u00d4 Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Lance Criminoso (feat. BK)",
-        "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Lance Criminoso (feat. BK)",
-      "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -979,46 +611,242 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "N\u00e3o Quer Chifre",
-        "url": "https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g"
+        "name": "Para\u00edso Tropical",
+        "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
       },
       "artists": [
         {
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
         },
         {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
         }
       ],
-      "duration_ms": 149323,
-      "name": "N\u00e3o Quer Chifre",
-      "url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC"
+      "duration_ms": 420000,
+      "name": "Para\u00edso Tropical",
+      "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
     },
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Fio a Fio",
-        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
+        "name": "\u00d4 Mo\u00e7a",
+        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "\u00d4 Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Baile do Cinga do 12",
+        "url": "https://open.spotify.com/album/58PrKw1nIhqRVf2FwkSRx1"
+      },
+      "artists": [
+        {
+          "name": "MC Gontijo",
+          "url": "https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY"
+        },
+        {
+          "name": "Dj Sati Marconex",
+          "url": "https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN"
+        }
+      ],
+      "duration_ms": 181864,
+      "name": "Baile do Cinga do 12",
+      "url": "https://open.spotify.com/track/2uLt06E9xCZVPFXg9v794o"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Proibido Celular",
+        "url": "https://open.spotify.com/album/1dKGVFck2RB0EuEECkXzXR"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Proibido Celular",
+      "url": "https://open.spotify.com/track/1cbldhFuXiqB8nH9SOBkCq"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Vivendo no Auge",
+        "url": "https://open.spotify.com/album/2ue3fh5fhRh3iREWhHTPJj"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "Vivendo no Auge",
+      "url": "https://open.spotify.com/track/14ol0IZpDLQBf6jA6SDia2"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "M4",
+        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "M4",
+      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Passado & Presente",
+        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
         },
         {
           "name": "MC Hariel",
           "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
         }
       ],
-      "duration_ms": 178356,
-      "name": "Fio a Fio",
-      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+      "duration_ms": 205714,
+      "name": "Jun\u00e7\u00e3o Venenosa",
+      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Vida Louca",
+        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Vida Louca",
+      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "N\u00e3o Nasceu pra Namorar",
+        "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "N\u00e3o Nasceu pra Namorar",
+      "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -1035,42 +863,6 @@
       "duration_ms": 215999,
       "name": "Ela \u00e9 Espetacular (Mulher Kama Sutra 2)",
       "url": "https://open.spotify.com/track/0x0V1IID2Sj902k6LzuWds"
-    },
-    {
-      "added_at": "2022-06-17 03:01:00",
-      "album": {
-        "name": "Melhor Dia 8: Confia",
-        "url": "https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ"
-      },
-      "artists": [
-        {
-          "name": "Marcos Baroni",
-          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Lil Whind",
-          "url": "https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        }
-      ],
-      "duration_ms": 275312,
-      "name": "Melhor Dia 8: Confia",
-      "url": "https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -1099,70 +891,82 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Privil\u00e9gio",
-        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
+        "name": "Respeita o Pai",
+        "url": "https://open.spotify.com/album/6UCVuHlTrxtGheLrpPDdIG"
       },
       "artists": [
         {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
         },
         {
-          "name": "Mc Vitin do LJ",
-          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        },
+        {
+          "name": "Fp",
+          "url": "https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Privil\u00e9gio",
-      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+      "duration_ms": 206400,
+      "name": "Respeita o Pai",
+      "url": "https://open.spotify.com/track/4ixgzWpNnHZOFOiTPAqs3S"
     },
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Assault (Angra)",
-        "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
+        "name": "King of Bel",
+        "url": "https://open.spotify.com/album/0HCdpx1TrVqshNLpzszhJe"
       },
       "artists": [
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         }
       ],
-      "duration_ms": 269998,
-      "name": "Assault (Angra)",
-      "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
+      "duration_ms": 148288,
+      "name": "King of Bel",
+      "url": "https://open.spotify.com/track/3J7ND3ZL8Z90b2Yzw9OSDW"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Cerol Finin",
+        "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 260178,
+      "name": "Cerol Finin",
+      "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -1235,6 +1039,94 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
+        "name": "Privil\u00e9gio",
+        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        },
+        {
+          "name": "Mc Vitin do LJ",
+          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Privil\u00e9gio",
+      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Fio a Fio",
+        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Fio a Fio",
+      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Easy Money",
+        "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 191219,
+      "name": "Easy Money",
+      "url": "https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
         "name": "SET DJ GM 2.0",
         "url": "https://open.spotify.com/album/7MNRt1Veypg7CQ3MGortjE"
       },
@@ -1287,6 +1179,54 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
+        "name": "Lance Criminoso (feat. BK)",
+        "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Lance Criminoso (feat. BK)",
+      "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "N\u00e3o Quer Chifre",
+        "url": "https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g"
+      },
+      "artists": [
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        },
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        }
+      ],
+      "duration_ms": 149323,
+      "name": "N\u00e3o Quer Chifre",
+      "url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
@@ -1315,42 +1255,58 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+        "name": "Melhor Dia 8: Confia",
+        "url": "https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ"
       },
       "artists": [
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
         },
         {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Lil Whind",
+          "url": "https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
+      "duration_ms": 275312,
+      "name": "Melhor Dia 8: Confia",
+      "url": "https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV"
     },
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Meca Preta",
-        "url": "https://open.spotify.com/album/0D6K70rHi2Mng6B3JeUozo"
+        "name": "Rainha",
+        "url": "https://open.spotify.com/album/02VJe3Bu8JFtL3xPistxJd"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo"
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 135919,
-      "name": "Meca Preta",
-      "url": "https://open.spotify.com/track/5my5WVGf2yjBanfad10kII"
+      "duration_ms": 139636,
+      "name": "Revoar",
+      "url": "https://open.spotify.com/track/4IGCXMbnJYWhj8P4UTtxkW"
     },
     {
       "added_at": "2022-06-17 03:01:00",
@@ -1387,22 +1343,66 @@
     {
       "added_at": "2022-06-17 03:01:00",
       "album": {
-        "name": "Rainha",
-        "url": "https://open.spotify.com/album/02VJe3Bu8JFtL3xPistxJd"
+        "name": "Meca Preta",
+        "url": "https://open.spotify.com/album/0D6K70rHi2Mng6B3JeUozo"
       },
       "artists": [
         {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
         }
       ],
-      "duration_ms": 139636,
-      "name": "Revoar",
-      "url": "https://open.spotify.com/track/4IGCXMbnJYWhj8P4UTtxkW"
+      "duration_ms": 135919,
+      "name": "Meca Preta",
+      "url": "https://open.spotify.com/track/5my5WVGf2yjBanfad10kII"
+    },
+    {
+      "added_at": "2022-06-17 03:01:00",
+      "album": {
+        "name": "Assault (Angra)",
+        "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
+      },
+      "artists": [
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 269998,
+      "name": "Assault (Angra)",
+      "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
     }
   ],
   "unique_name": "Cop\u00e3o na m\u00e3o",

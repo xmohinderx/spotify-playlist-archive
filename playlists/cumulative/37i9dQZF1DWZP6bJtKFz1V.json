@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 183586,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 158150,
       "name": "Chewed Up",
       "url": "https://open.spotify.com/track/28kCHXifnUCx34nH64klax"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 165676,
       "name": "Demon",
       "url": "https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
@@ -1352,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "dont wanna die",
+        "url": "https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169887,
+      "name": "dont wanna die",
+      "url": "https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN"
+    },
+    {
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 147183,
       "name": "Don\u2019t Trip (with GAYLE)",
       "url": "https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "Headsweat",
       "url": "https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 199982,
       "name": "Heal My Head",
       "url": "https://open.spotify.com/track/16KPdkm1lwurY6KTwo7dJH"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 175029,
       "name": "i h8 that i still feel bad for u",
       "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 176173,
       "name": "I Met God Online",
       "url": "https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 231626,
       "name": "I Miss When I Smelled Like You",
       "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 174692,
       "name": "ignorance is bliss",
       "url": "https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 144360,
       "name": "It's Random",
       "url": "https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA"
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 177511,
       "name": "My Love - Edit",
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 209323,
       "name": "Next High",
       "url": "https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1"
@@ -3667,7 +3685,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 274386,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
@@ -3977,7 +3995,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 163763,
       "name": "sammy",
       "url": "https://open.spotify.com/track/7Jyy8xo7YtHIvAugD2gtNV"
@@ -4013,7 +4031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 199873,
       "name": "scream!",
       "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
@@ -4215,7 +4233,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
@@ -4753,7 +4771,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 140954,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5"
@@ -5213,7 +5231,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"

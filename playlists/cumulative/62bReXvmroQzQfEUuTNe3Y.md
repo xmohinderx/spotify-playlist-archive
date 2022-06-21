@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-288 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+289 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cocaine Model](https://open.spotify.com/track/6A5oBZXRtUmGqLrOhdUTHr) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/51X6B9TCvmpxueMQFpUr7s) | 4:15 | 2021-03-06 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-09-18 | 2021-11-11 |
 | [Cold Light](https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Cold Light](https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB) | 2:59 | 2021-05-25 | 2021-08-07 |
+| [Come Around \- Mellowdy Remix](https://open.spotify.com/track/6tSPMMj1ls3rRoH3dzffKg) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c), [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Come Around \(Mellowdy Remix\)](https://open.spotify.com/album/3GTQ5LFKEmu7mcOCyP8pfk) | 2:39 | 2022-06-20 |  |
 | [Come Down](https://open.spotify.com/track/11smJO5UiLwBpzPakBZNpK) | [VLLN](https://open.spotify.com/artist/69tUOHpGh5PNsmZlvw4AOx), [DOGMA](https://open.spotify.com/artist/7JLm1GmY8hYbrtJT0O2gUn), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [Come Down](https://open.spotify.com/album/0JZlyivWtLub23BG9UISix) | 2:29 | 2022-03-10 |  |
 | [Come On Home](https://open.spotify.com/track/0xnrFiF6SqIUMjHwstStS9) | [MACKS](https://open.spotify.com/artist/3VTewdBCJtkpWW6lSFlDOy) | [Come On Home](https://open.spotify.com/album/2M12YNsCG8iCjmiNd3ymKI) | 2:33 | 2021-07-17 | 2021-11-11 |
 | [Come With Me \- Radio Mix](https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Come With Me](https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR) | 2:53 | 2021-10-02 | 2021-11-11 |
@@ -58,7 +59,7 @@
 | [Don't Say Goodbye](https://open.spotify.com/track/28mlBRCgMemGmW03BiYLlI) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Jungleboi](https://open.spotify.com/artist/1igVsxmGxt1VTKPulM0EuA) | [Don't Say Goodbye](https://open.spotify.com/album/2YNqD5qynDansRRpWbHLg9) | 2:17 | 2020-09-13\* | 2020-09-26 |
 | [Don't Wait Up \- Chill Mix](https://open.spotify.com/track/4K8YAFs9Rfpy8zGFuPwGG0) | [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Don't Wait Up \(Chill Mix\)](https://open.spotify.com/album/5bBKlh5O9lr1TExIklpwo1) | 2:24 | 2021-10-23 | 2021-12-04 |
 | [Don't Wanna Know](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo) | [Don't Wanna Know](https://open.spotify.com/album/2OkOKY0MBcxHKZHWKS9LIm) | 2:45 | 2021-03-06 | 2021-05-22 |
-| [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq) | 3:36 | 2022-01-28 |  |
+| [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq) | 3:36 | 2022-01-28 | 2022-06-21 |
 | [Down](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Down](https://open.spotify.com/album/0Hs90o1lKIZe9PPPqjKyxo) | 2:47 | 2022-01-28 | 2022-05-07 |
 | [Dreaming](https://open.spotify.com/track/5SYHmSFd6XPK0dLYWML1vU) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Frost](https://open.spotify.com/album/5bjn5UoB5fAEY5n1bMhO2T) | 4:55 | 2020-09-13\* | 2021-03-06 |
 | [Dreams](https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Dreams](https://open.spotify.com/album/0A7mcxKjEulhu0P9ves8sT) | 2:37 | 2020-10-24 |  |

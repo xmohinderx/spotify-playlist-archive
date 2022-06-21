@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,950 likes - 45 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,031 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 32 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
 | 33 | [I Will Be Your Friend](https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:43 |
 | 34 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
-| 35 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
+| 35 | [Fear](https://open.spotify.com/track/6iaOeExRsgRStLOhSOmJUx) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:09 |
 | 36 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 |
 | 37 | [Frankie's First Affair](https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:38 |
 | 38 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
-| 39 | [Maureen](https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:20 |
+| 39 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
 | 40 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
 | 41 | [Bring Me Home](https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:07 |
 | 42 | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Big Unknown \(From "Widows"\)](https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl) | 4:21 |
-| 43 | [Slave Song](https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:12 |
-| 44 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
-| 45 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
+| 43 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
+| 44 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
 
-Snapshot ID: `Mjc1OTQxMTAsMDAwMDAwMDBmMDc2OWEyZjM3OGM5MGMxMGViYTQ0OTAyZDY3NGQxYg==`
+Snapshot ID: `Mjc1OTU1NDUsMDAwMDAwMDA3YTZiMTE1NWMwNDAzODk0MmYwZTc0ZTFlMTlkMDU0YQ==`

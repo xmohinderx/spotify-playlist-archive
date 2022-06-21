@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-72 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
+73 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [I'm Sorry](https://open.spotify.com/track/1cpt31js3vq0cCXTLf3oYa) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [On Wings Of Time](https://open.spotify.com/album/4uiCnolZv9pf1BREEozzZ3) | 3:50 | 2022-04-11 |  |
 | [Never Been Kissed \(Acoustic Version\)](https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 4:04 | 2022-04-11 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-11 |  |
+| [Night Ride](https://open.spotify.com/track/6NVzSfKT7uyHP9uAIZtpqz) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Night Ride](https://open.spotify.com/album/06GigS9fa2Q9ZbbFjtrIkB) | 5:44 | 2022-06-20 |  |
 | [Sam歌 \(feat\. 咖啡因公園@Coffee&Tea\)](https://open.spotify.com/track/1adMsTSdkrzVWog4x7QiEm) | [Fama](https://open.spotify.com/artist/7BcyMcADGhD6WB6XFAJFEa) | [你而家無,但係將來會有 \(上\)](https://open.spotify.com/album/6MhbcBShiQos6kbcPMDRVm) | 3:25 | 2022-04-11 |  |
 | [Shampoo](https://open.spotify.com/track/0wQNgVsMZvtWrcFovZSCvI) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Free Love](https://open.spotify.com/album/31jMpL1axpfRsRpprYbJI5) | 3:58 | 2022-04-11 |  |
 | [Simple Love Song](https://open.spotify.com/track/2kTzTs8tbJgkYAKzHG8szb) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Connected](https://open.spotify.com/album/6JWjPJ5XMlH9YBAFHx5ajY) | 5:04 | 2022-04-11 |  |

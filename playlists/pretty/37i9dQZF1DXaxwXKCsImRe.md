@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Antoon
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,098 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,096 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 |
-| 2 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 |
-| 3 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 |
+| 1 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 |
+| 2 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 |
+| 3 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 |
 | 4 | [Yuh \(Symphony In D Minor\)](https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 2](https://open.spotify.com/album/5CEj9bjGd1fAp2DRUcljmm) | 2:56 |
 | 5 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 |
 | 6 | [Ten Onder](https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ten Onder](https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC) | 3:43 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 44 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 |
 | 45 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 
-Snapshot ID: `MTY1NTQwMjQwMCwwMDAwMDA0NzAwMDAwMTgxNmRhYzA5N2YwMDAwMDE4MTNkZWE3YWFm`
+Snapshot ID: `MTY1NTcxOTAyNiwwMDAwMDA0ODAwMDAwMTgxODA4YjVlZjcwMDAwMDE4MTgwOGIxMmQ1`

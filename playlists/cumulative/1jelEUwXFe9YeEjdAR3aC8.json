@@ -116,6 +116,28 @@
     },
     {
       "album": {
+        "name": "Buddy's Rendezvous",
+        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301480,
+      "name": "Buddy's Rendezvous",
+      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
+    },
+    {
+      "album": {
         "name": "Shaking Hands With Elvis",
         "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },

@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Enta Habibi Yala",
+        "url": "https://open.spotify.com/album/4HF55ccNWOTKzhzVX3h4Lw"
+      },
+      "artists": [
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "Enta Habibi Yala",
+      "url": "https://open.spotify.com/track/1X4b08iGSB0OuT5o8fa6vm"
+    },
+    {
+      "album": {
         "name": "Falatet Meny",
         "url": "https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x"
       },

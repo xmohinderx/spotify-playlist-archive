@@ -4,7 +4,7 @@
 
 > The best of UK Rap & Drill\.  Cover: Headie One & Luciano
 
-1,109 songs - 2 day 9 hr 27 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,110 songs - 2 day 9 hr 29 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Brothers \(feat\. Jordan\)](https://open.spotify.com/track/6U4DsIEH16QBiQyt0DJtpk) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Jordan](https://open.spotify.com/artist/4Cnaew6nY21DjfeARQPhn7) | [Brothers \(feat\. Jordan\)](https://open.spotify.com/album/5LltnUhUelg7ahIDE4S3cL) | 3:32 | 2020-09-16 | 2020-10-24 |
 | [Brownies](https://open.spotify.com/track/0MYYbW7LblPrnReonpIpOT) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Brownies](https://open.spotify.com/album/5DHOH6F4LfRosCRzlupydP) | 3:36 | 2020-05-22\* | 2020-06-19 |
 | [Bruce Wayne](https://open.spotify.com/track/316fCLEpkEZKqaeaXIKwNf) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Bruce Wayne](https://open.spotify.com/album/4RWlNFRhJ1TJCpipr7WYt7) | 4:39 | 2020-09-26 | 2020-10-10 |
-| [Bruce Wayne](https://open.spotify.com/track/5cwYX4CyNy4Gn1EubPOkmH) | [Tremz](https://open.spotify.com/artist/56nAEdUNpeO3eC5fZvJajY) | [Bruce Wayne](https://open.spotify.com/album/4lj6YmSsVSiQJZSdBXTdFR) | 2:17 | 2022-05-27 |  |
+| [Bruce Wayne](https://open.spotify.com/track/5cwYX4CyNy4Gn1EubPOkmH) | [Tremz](https://open.spotify.com/artist/56nAEdUNpeO3eC5fZvJajY) | [Bruce Wayne](https://open.spotify.com/album/4lj6YmSsVSiQJZSdBXTdFR) | 2:17 | 2022-05-27 | 2022-06-21 |
 | [Bruce Willis](https://open.spotify.com/track/51yK3aHMwjoQY9haKSKZZ7) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [Bruce Willis](https://open.spotify.com/album/5rlOQ1K7rgKN2BmZaGwcTj) | 3:49 | 2020-10-24 | 2020-11-23 |
 | [Bruck It](https://open.spotify.com/track/4E4lNBC65JMrU5vvDgWcMv) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Q2T](https://open.spotify.com/artist/4nJDI5Dkd8D4hy04RoMhzy) | [YPB: Tha Come Up](https://open.spotify.com/album/12fCLXLrILYsI8rKqMREjW) | 2:46 | 2021-08-13 | 2021-10-01 |
 | [Brucky 2.0](https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Brucky 2.0](https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0) | 3:05 | 2021-11-26 | 2022-03-26 |
@@ -478,6 +478,7 @@
 | [Hole In One \(feat\. Billy Billions\)](https://open.spotify.com/track/6XBK2SD8U0zv2eYZZlI2hz) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8) | [Hole In One \(feat\. Billy Billions\)](https://open.spotify.com/album/45vpYSUdAeOa0Hva9BnhTg) | 3:33 | 2021-06-26 | 2021-08-03 |
 | [Homecoming Freestyle](https://open.spotify.com/track/6MGro2R6Bx8zFsl8axO4nM) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Homecoming Freestyle](https://open.spotify.com/album/07I5P5PXGXGVyxspY6POWQ) | 3:12 | 2021-03-06 | 2022-03-09 |
 | [Honey](https://open.spotify.com/track/7uTUhuuY58iwjFBQij9FJM) | [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT) | [Honey](https://open.spotify.com/album/2La7xB5VczuEt1cM8G0Dyc) | 2:48 | 2020-05-22\* | 2020-06-19 |
+| [Hood Favourite \(Bando Basic\)](https://open.spotify.com/track/21s0puT06ol5NNwHk1ZyKO) | [Reapz](https://open.spotify.com/artist/7auVHLSoni043mEeylrnj6) | [Hood Favourite \(Bando Basic\)](https://open.spotify.com/album/4IMnmzKr7Pch5nIvtbbOfA) | 2:22 | 2022-06-20 |  |
 | [Hop Out](https://open.spotify.com/track/79DSWTkuAlhaFpBMo0pumM) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 2:58 | 2021-02-20 | 2021-04-26 |
 | [Hot Property](https://open.spotify.com/track/0qRqqYYFI5syoWTt1gdCVQ) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Hot Property](https://open.spotify.com/album/4p1XtD8VDM8BL9RufiIvMr) | 3:04 | 2022-01-24 | 2022-01-29 |
 | [Hot Steppa](https://open.spotify.com/track/0LoAz8DPEX0wqSrt3vX2xZ) | [Littlez](https://open.spotify.com/artist/06vrWGoMsBqF1WK8OCBjNM), [Smoke Boys](https://open.spotify.com/artist/0ZnmpHEiVrHpbyRqDYjnTL) | [Hot Steppa](https://open.spotify.com/album/4vnWoP5NR5Ow1UClNya2q5) | 3:43 | 2022-03-25 | 2022-04-29 |

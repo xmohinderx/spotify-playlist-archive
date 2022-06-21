@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186666,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2Nkgps2Df37Fw4eGIAOJw1"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 199768,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 212819,
       "name": "Closer Every Day",
       "url": "https://open.spotify.com/track/0k7QgrZl8uGvVT2E0ac2l6"
@@ -751,6 +751,36 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
       "album": {
@@ -1261,7 +1291,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -1441,7 +1471,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
@@ -1459,7 +1489,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 149538,
       "name": "Just a Dream",
       "url": "https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL"
@@ -1496,6 +1526,28 @@
     },
     {
       "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "album": {
         "name": "Knew That Second",
         "url": "https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ"
       },
@@ -1515,7 +1567,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1617,7 +1669,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 166750,
       "name": "Let the Sun Shine - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
@@ -1797,10 +1849,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+    },
+    {
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
     },
     {
       "album": {
@@ -2623,7 +2693,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 238357,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY"
@@ -2733,7 +2803,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 158248,
       "name": "Spinnin' (feat. Justin Jesso)",
       "url": "https://open.spotify.com/track/2KLKSPQHaQ57g7oWMvvvQ9"
@@ -3067,7 +3137,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
@@ -3093,7 +3163,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"

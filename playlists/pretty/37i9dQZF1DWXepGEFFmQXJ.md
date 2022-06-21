@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Casey Barnes
+> The cream of today's Country crop\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,514 likes - 77 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,719 likes - 77 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 |
-| 2 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 |
-| 3 | [COUNTRY BOYS](https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [COUNTRY BOYS](https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3) | 3:14 |
-| 4 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
-| 5 | [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 |
-| 6 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
-| 7 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
+| 1 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
+| 2 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 |
+| 3 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 |
+| 4 | [COUNTRY BOYS](https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [COUNTRY BOYS](https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3) | 3:14 |
+| 5 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
+| 6 | [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 |
+| 7 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
 | 8 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 | 9 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 |
 | 10 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 |
 | 77 | [Drink Along Song](https://open.spotify.com/track/2BBbFB5XlySql9TliA0bsV) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Drink Along Song](https://open.spotify.com/album/3dYhC4VoJB2ytJxZfcuilM) | 2:56 |
 
-Snapshot ID: `MTY1NTM4ODAwMCwwMDAwMDFlMTAwMDAwMTgxNmNkMDUwMTMwMDAwMDE4MTQ3NWJhM2Ni`
+Snapshot ID: `MTY1NTcxNTY1MywwMDAwMDFlMjAwMDAwMTgxODA1N2U3MGIwMDAwMDE4MTgwNTc2ZWZj`

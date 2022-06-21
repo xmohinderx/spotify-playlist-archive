@@ -4,7 +4,7 @@
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Edgardo Nuñez en portada.
 
-111 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
+112 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2022-02-21 |  |
 | [Mi Porvenir](https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Porvenir](https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp) | 2:41 | 2022-06-03 |  |
 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 | 2022-02-21 | 2022-05-14 |
+| [Ni Diablo Ni Santo](https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:35 | 2022-06-20 |  |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-03-21 |  |
 | [Operativo Guasanga \- En Vivo](https://open.spotify.com/track/5P6SAHuQ70HBnIev2OdKSW) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Operativo Guasanga \(En Vivo\)](https://open.spotify.com/album/1lDEsLv28JwXZvqsvN4rKy) | 3:15 | 2022-03-07 | 2022-03-22 |
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2022-02-21 | 2022-06-18 |
@@ -107,7 +108,7 @@
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-03 |  |
 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 | 2022-02-21 |  |
 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 | 2022-03-29 | 2022-06-11 |
-| [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 | 2022-02-21 |  |
+| [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 | 2022-02-21 | 2022-06-21 |
 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 | 2022-02-21 | 2022-03-08 |
 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 | 2022-02-21 |  |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-02-21 |  |

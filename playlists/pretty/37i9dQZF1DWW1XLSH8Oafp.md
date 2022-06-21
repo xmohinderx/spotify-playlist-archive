@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring take van
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,140 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,359 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

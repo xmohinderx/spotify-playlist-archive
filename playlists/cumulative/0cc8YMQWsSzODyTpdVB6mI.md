@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-54 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+55 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 | 2021-11-05 |  |
 | [Fire](https://open.spotify.com/track/7ey8VyqgIjVqXQWM2kWkZM) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 4:02 | 2021-11-05 |  |
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 |  |
-| [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 |  |
+| [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 | 2021-11-05 |  |
 | [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 |  |
 | [Heat](https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM) | [IMBER](https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN) | [Heat](https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ) | 3:51 | 2022-06-03 |  |
@@ -38,6 +38,7 @@
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 |  |
 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 | 2021-11-05 |  |
+| [Milk Talk](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 |  |
 | [No One Knows You Better Than Me](https://open.spotify.com/track/5sRw42rZDyBqUi041yw5q8) | [Runrummer](https://open.spotify.com/artist/2VqvNXdQzKDywenScflYoX) | [No One Knows You Better Than Me](https://open.spotify.com/album/3u7wrsxCG6SfCsz14Kcts4) | 4:23 | 2022-04-04 | 2022-06-14 |
 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 | 2021-11-05 |  |
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 |  |

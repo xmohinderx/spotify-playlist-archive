@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Nina & Malika, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,310 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,326 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

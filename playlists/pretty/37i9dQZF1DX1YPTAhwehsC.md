@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: French Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,121 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,250 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,800 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,875 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 |
 | 18 | [Tu Luna](https://open.spotify.com/track/3G2Dtbtw8YLZGpWVgidQei) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tu Luna](https://open.spotify.com/album/4qkDvJPXV73brNrXPBrtgK) | 3:08 |
 | 19 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
-| 20 | [Simulación \(feat\. Dimelo Siru\)](https://open.spotify.com/track/1GFJE5rZqBIaRZaYsdvvGg) | [Yeziell Yeziel](https://open.spotify.com/artist/306CzQOQorqsUD2Grr0jrz), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dimelo Siru](https://open.spotify.com/artist/43qI3XmeUHEEH7wzGzpGNk) | [Simulación \(feat\. Dimelo Siru\)](https://open.spotify.com/album/1OA0D4JKZWehChGocZUZ2i) | 3:37 |
+| 20 | [Simulación \(feat\. Dimelo Siru\)](https://open.spotify.com/track/1GFJE5rZqBIaRZaYsdvvGg) | [Yeziell Yeziell](https://open.spotify.com/artist/1ZpejZEeZNKmelol7PdeIc), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dimelo Siru](https://open.spotify.com/artist/43qI3XmeUHEEH7wzGzpGNk) | [Simulación \(feat\. Dimelo Siru\)](https://open.spotify.com/album/1OA0D4JKZWehChGocZUZ2i) | 3:37 |
 | 21 | [Wannabes](https://open.spotify.com/track/3HHPwRpYZcjD0Ny6kNMcB7) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Wannabes](https://open.spotify.com/album/4dbXcLfGbIaJAaVQMKyIdD) | 2:07 |
 | 22 | [Sobran Motivos](https://open.spotify.com/track/3VjnYQbAVQLXbiR9gf1qnD) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Sobran Motivos](https://open.spotify.com/album/1XBhgrD9hTQXz53QxkwQxh) | 4:00 |
 | 23 | [Tú y yo](https://open.spotify.com/track/0cUp7d3a6DHzAuSKBn1NZJ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tú y yo](https://open.spotify.com/album/5To3JjtIkghGay545iV2wf) | 2:43 |

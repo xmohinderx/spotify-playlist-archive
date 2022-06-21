@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 223470,
       "name": "Don't Matter Now",
       "url": "https://open.spotify.com/track/11gbCX4RvpJjjwx4ZmitlD"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4aRAElCM6ve3OISZnU7adb"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 167360,
       "name": "Drunk & I Miss You",
       "url": "https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 163672,
       "name": "Elephant in the Room (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 201273,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 177266,
       "name": "on my way",
       "url": "https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD"
@@ -2120,6 +2120,28 @@
     },
     {
       "album": {
+        "name": "Queen of Daytona Beach",
+        "url": "https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Queen of Daytona Beach",
+      "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+    },
+    {
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/655PY7blK0F99IMqcnmqEU"
       },
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/0O0wPMmw7d9RMsTkt9YiUq"
@@ -2149,7 +2171,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 186094,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 222593,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4vEhv7jNjMFozzXWoJ3hve"
@@ -2449,7 +2471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 189495,
       "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 183189,
       "name": "Used To",
       "url": "https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4"
@@ -2713,7 +2735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "What If We Did (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/3CTYETGqt6N4IW5p99Ctlp"
@@ -2771,7 +2793,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213784,
       "name": "When You Don't",
       "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"
@@ -2811,7 +2833,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 178461,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn"

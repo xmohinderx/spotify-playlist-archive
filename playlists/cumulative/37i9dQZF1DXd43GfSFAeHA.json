@@ -1300,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "SAWWAN",
+        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "SAWWAN",
+      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd"
       },

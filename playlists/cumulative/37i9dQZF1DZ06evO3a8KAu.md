@@ -4,7 +4,7 @@
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
+54 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Déjame Decirle](https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:13 | 2022-06-01 |  |
 | [El Amor Es Para Tontos](https://open.spotify.com/track/2EZvPbK6R8xItBIq2L8A9S) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:12 | 2022-06-01 |  |
 | [El Cinco Letras](https://open.spotify.com/track/5U0CiXwCAFUXXsDo7rQXCZ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:27 | 2022-06-01 |  |
-| [El Del Tatuaje](https://open.spotify.com/track/59JiawgWoazJQDI9Bw6UHQ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:02 | 2022-06-01 |  |
+| [El Del Tatuaje](https://open.spotify.com/track/59JiawgWoazJQDI9Bw6UHQ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:02 | 2022-06-01 | 2022-06-21 |
 | [El Muchacho de La Esquina](https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Muchacho de La Esquina](https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf) | 2:34 | 2022-06-01 |  |
 | [Es Que Me Gustas](https://open.spotify.com/track/0biVdOYzgbnbtOTgi8uWr9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 2:52 | 2022-06-01 |  |
 | [Gracias Mamá](https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Gracias Mamá](https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W) | 3:09 | 2022-06-01 |  |
@@ -58,6 +58,7 @@
 | [Todo Cambio \(En Vivo\)](https://open.spotify.com/track/3seNEk7YiBY7y4GBpcX8hA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Todo Cambio \(En Vivo\)](https://open.spotify.com/album/694JNI13itntLDegX7cvYn) | 3:51 | 2022-06-01 |  |
 | [Tu Cancion Favorita](https://open.spotify.com/track/2ohcwucy8qnoj7aR6hd5Ze) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:55 | 2022-06-01 |  |
 | [Tu No Tienes La Culpa](https://open.spotify.com/track/5gPMFeXN11KgZBtY5YShxx) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:31 | 2022-06-12 | 2022-06-20 |
+| [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 | 2022-06-20 |  |
 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 | 2022-06-01 |  |
 | [Ya Lo Supere](https://open.spotify.com/track/2ypcd1xLqUzpgW70Ap4c24) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK) | 3:49 | 2022-06-01 |  |
 | [¿Por Que Me Enamoré?](https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:25 | 2022-06-01 |  |

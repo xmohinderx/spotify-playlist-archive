@@ -372,6 +372,28 @@
     },
     {
       "album": {
+        "name": "Down (Remixes)",
+        "url": "https://open.spotify.com/album/3KXygHEZInk8tR7tGDUTh5"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sworn Virgins",
+          "url": "https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232469,
+      "name": "Down - Sworn Virgins Remix - Edit",
+      "url": "https://open.spotify.com/track/51TCXUklE2Ng2uJFHfBhHQ"
+    },
+    {
+      "album": {
         "name": "Kumoyo Island",
         "url": "https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC"
       },

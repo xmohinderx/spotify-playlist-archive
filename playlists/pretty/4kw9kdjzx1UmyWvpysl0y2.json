@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128453,
+  "num_followers": 128448,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ3NixhMDMzYWY5ZTE3YzFkOWJiZGQxMDZkMmI5NjIxODJkZTUzMDdlNjBh",
+  "snapshot_id": "MzQ3Nyw1ZGYyYzNhMDNlMTk2YmZjMjQ0YzU5YjBkNzdlZDIyYjY1Y2QxNGM2",
   "tracks": [
+    {
+      "added_at": "2022-06-20 16:58:24",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 219124,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF"
+    },
     {
       "added_at": "2022-06-17 15:21:11",
       "album": {

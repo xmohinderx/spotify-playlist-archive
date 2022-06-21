@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,195 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,230 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

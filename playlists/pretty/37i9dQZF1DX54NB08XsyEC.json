@@ -1,12 +1,12 @@
 {
   "description": "pov: vc t\u00e1 safada e deprimida // Clarissa",
-  "num_followers": 214094,
+  "num_followers": 214177,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTY4NzY2MiwwMDAwMDAwMDQwYmQxNzU0N2VhZTljNDZmNWMwYjI1NDA5NTQ0Y2Q2",
+  "snapshot_id": "MTY1NTc3NDAzNCwwMDAwMDAwMGRiYzkwZGNlODNkOWYwNDA4ZGFmMzE1ZTY0Y2M4NmM2",
   "tracks": [
     {
       "added_at": "2022-06-10 16:24:05",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 172500,
       "name": "A QUEDA",
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -175,18 +175,54 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Motive X Promiscuous",
+        "url": "https://open.spotify.com/album/7hWMr3tYwq1gJLMqAxflSh"
+      },
+      "artists": [
+        {
+          "name": "Khlaw",
+          "url": "https://open.spotify.com/artist/0oAK0DvKNnuXm1TQdhDEOv"
+        }
+      ],
+      "duration_ms": 193189,
+      "name": "Motive X Promiscuous Mix",
+      "url": "https://open.spotify.com/track/6BUql1GVeHgWvpWAYlqJro"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Daddy Issues (Remix) feat. Syd",
+        "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Daddy Issues (Remix) feat. Syd",
+      "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -219,138 +255,18 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Daddy Issues (Remix) feat. Syd",
-        "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Daddy Issues (Remix) feat. Syd",
-      "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Motive X Promiscuous",
-        "url": "https://open.spotify.com/album/7hWMr3tYwq1gJLMqAxflSh"
-      },
-      "artists": [
-        {
-          "name": "Khlaw",
-          "url": "https://open.spotify.com/artist/0oAK0DvKNnuXm1TQdhDEOv"
-        }
-      ],
-      "duration_ms": 193189,
-      "name": "Motive X Promiscuous Mix",
-      "url": "https://open.spotify.com/track/6BUql1GVeHgWvpWAYlqJro"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 201495,
-      "name": "psychofreak (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "pessoa certa hora errada",
-        "url": "https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 164170,
-      "name": "pessoa certa hora errada",
-      "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -387,82 +303,18 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Amigos Que Se Beijam",
-        "url": "https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Amigos Que Se Beijam",
-      "url": "https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+      "duration_ms": 230010,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -483,22 +335,114 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "INFERNO",
-        "url": "https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab"
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
       "artists": [
         {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 133133,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC"
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "pessoa certa hora errada",
+        "url": "https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 164170,
+      "name": "pessoa certa hora errada",
+      "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "Amigos Que Se Beijam",
+        "url": "https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Amigos Que Se Beijam",
+      "url": "https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -519,62 +463,38 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 201495,
+      "name": "psychofreak (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
     },
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Teacher's Pet",
-      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -603,18 +523,58 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Teacher's Pet",
+      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "WFM",
+        "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -631,6 +591,58 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "poderia ser pior",
+        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        }
+      ],
+      "duration_ms": 172414,
+      "name": "poderia ser pior",
+      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "meu romance",
+        "url": "https://open.spotify.com/album/5oQlhlDuDbXlp0go3eut4F"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 202499,
+      "name": "meu romance",
+      "url": "https://open.spotify.com/track/4r9uSrToSVxAgs9ElYwfeP"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -687,66 +699,38 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "meu romance",
-        "url": "https://open.spotify.com/album/5oQlhlDuDbXlp0go3eut4F"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 202499,
-      "name": "meu romance",
-      "url": "https://open.spotify.com/track/4r9uSrToSVxAgs9ElYwfeP"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "Soap",
-        "url": "https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig"
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 209426,
-      "name": "Soap",
-      "url": "https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
-    },
-    {
-      "added_at": "2022-06-10 16:24:05",
-      "album": {
-        "name": "we fell in love in october / forget her",
-        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
       "added_at": "2022-06-10 16:24:05",
@@ -767,34 +751,50 @@
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "WFM",
-        "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
+        "name": "Soap",
+        "url": "https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
+      "duration_ms": 209426,
+      "name": "Soap",
+      "url": "https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F"
     },
     {
       "added_at": "2022-06-10 16:24:05",
       "album": {
-        "name": "poderia ser pior",
-        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
       },
       "artists": [
         {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 172414,
-      "name": "poderia ser pior",
-      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "added_at": "2022-06-10 16:24:05",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2022-06-10 16:24:05",

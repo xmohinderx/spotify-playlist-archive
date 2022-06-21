@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-23",
+      "date_removed": null,
       "duration_ms": 178693,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
@@ -1617,6 +1617,24 @@
       "duration_ms": 209770,
       "name": "De Museo",
       "url": "https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm"
+    },
+    {
+      "album": {
+        "name": "Deja Que Tus Manos",
+        "url": "https://open.spotify.com/album/2vjLUBzC5KJq7Fhgjzj5ju"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Deja Que Tus Manos",
+      "url": "https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI"
     },
     {
       "album": {
@@ -7227,7 +7245,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213078,
       "name": "San Andr\u00e9s",
       "url": "https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T"
@@ -8897,7 +8915,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"

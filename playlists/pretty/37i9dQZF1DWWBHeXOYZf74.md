@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,926 likes - 106 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,938 likes - 106 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

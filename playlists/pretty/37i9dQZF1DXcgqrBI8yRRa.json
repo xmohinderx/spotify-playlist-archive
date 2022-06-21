@@ -1,13 +1,33 @@
 {
   "description": "iykyk",
-  "num_followers": 3519,
+  "num_followers": 3537,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEyNjU3MywwMDAwMDAyNDAwMDAwMTgxNWQzYjQzYTAwMDAwMDE3YzkyOTQxZWVl",
+  "snapshot_id": "MTY1NTcwNjYwOCwwMDAwMDAyNTAwMDAwMTgxN2ZjZGUyN2YwMDAwMDE3YzkyOTQxZWVl",
   "tracks": [
+    {
+      "added_at": "2022-06-20 06:30:08",
+      "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
     {
       "added_at": "2022-06-13 13:22:53",
       "album": {
@@ -97,26 +117,6 @@
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
-      "added_at": "2022-04-27 09:45:29",
-      "album": {
-        "name": "Who dey come (cruise beat)",
-        "url": "https://open.spotify.com/album/6vPtQ8jZtQLWtT3LZqI3kZ"
-      },
-      "artists": [
-        {
-          "name": "Son of Ika",
-          "url": "https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi"
-        },
-        {
-          "name": "Ijoba yagi",
-          "url": "https://open.spotify.com/artist/78BWqC86D3Q5UWnj3ohCQg"
-        }
-      ],
-      "duration_ms": 107232,
-      "name": "Who dey come (cruise beat)",
-      "url": "https://open.spotify.com/track/4aoNaVLRCGnKZYQv8EQz3Q"
-    },
-    {
       "added_at": "2022-04-18 06:07:01",
       "album": {
         "name": "Emiliana",
@@ -131,6 +131,22 @@
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
+    },
+    {
+      "added_at": "2022-06-20 06:30:08",
+      "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
     },
     {
       "added_at": "2022-04-27 09:45:29",
@@ -503,26 +519,6 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
-    },
-    {
-      "added_at": "2022-01-10 13:40:50",
-      "album": {
-        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        }
-      ],
-      "duration_ms": 227100,
-      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
       "added_at": "2021-10-19 11:29:26",

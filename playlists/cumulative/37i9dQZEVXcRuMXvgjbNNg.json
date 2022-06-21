@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 238000,
       "name": "Arcadian",
       "url": "https://open.spotify.com/track/0JA7amGyHwVE77JhjurY87"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230859,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181626,
       "name": "Can't Stop Thinkin' About You",
       "url": "https://open.spotify.com/track/4UIvHuPvd9r96KSE3boALB"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 223173,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
@@ -2722,6 +2722,24 @@
     },
     {
       "album": {
+        "name": "Cherry Blossom Tuesday",
+        "url": "https://open.spotify.com/album/7oOqoeKn17VgGZOqH2gJRp"
+      },
+      "artists": [
+        {
+          "name": "Ten Towers",
+          "url": "https://open.spotify.com/artist/3uP8e78oUj86NLfiTDCwFS"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "Coloring",
+      "url": "https://open.spotify.com/track/13yRTSqFQtiEM8EjWbgteJ"
+    },
+    {
+      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/16r7OQGoVQJjDcUGs0qsmP"
       },
@@ -2852,6 +2870,24 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/6S8uhhhkiTB9TrhRy15ikw"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224819,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/1Udw6MKWxeWsMEWUcqkg11"
+    },
+    {
+      "album": {
         "name": "Great Good Five Ok",
         "url": "https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG"
       },
@@ -2921,7 +2957,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 262055,
       "name": "Craving (Stripped)",
       "url": "https://open.spotify.com/track/0MOlS6Jpajh17ELBSD0WEf"
@@ -3345,6 +3381,24 @@
       "duration_ms": 238823,
       "name": "Don't Be",
       "url": "https://open.spotify.com/track/4XMviR8kezcZICyys1YKJo"
+    },
+    {
+      "album": {
+        "name": "Don't Know How",
+        "url": "https://open.spotify.com/album/5K0bNOXhMOPefIToCg5k3A"
+      },
+      "artists": [
+        {
+          "name": "Ashworth",
+          "url": "https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Don't Know How",
+      "url": "https://open.spotify.com/track/5zYqlaBZZ9P4sh5qsLKUIp"
     },
     {
       "album": {
@@ -3811,7 +3865,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 245192,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/74B1CvecHOCjw6lSbloyUd"
@@ -4349,7 +4403,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 241191,
       "name": "Fields of Knowing",
       "url": "https://open.spotify.com/track/3C1bnKImeGHukUsGM0gFrt"
@@ -4407,7 +4461,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Find Our Way - Night Drive Edit",
       "url": "https://open.spotify.com/track/49rrPHxp0944ZLgAi7XfY8"
@@ -5103,7 +5157,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
@@ -5539,7 +5593,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 191933,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k"
@@ -6141,7 +6195,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230553,
       "name": "How We Used To Love",
       "url": "https://open.spotify.com/track/6Bec7emBmJJ9xo2Gl0ZytH"
@@ -6453,7 +6507,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 244666,
       "name": "I Just Need",
       "url": "https://open.spotify.com/track/5H7pAQvjLaVEeIg30Lh7gz"
@@ -7361,7 +7415,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 236250,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/64YccwJHPzVcEhQJTRkofX"
@@ -7926,6 +7980,24 @@
     },
     {
       "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231880,
+      "name": "Lethologica",
+      "url": "https://open.spotify.com/track/4widzGvor1e2hPhXFTK16E"
+    },
+    {
+      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69"
       },
@@ -8097,7 +8169,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 285500,
       "name": "Like the Sun",
       "url": "https://open.spotify.com/track/3Ep4l9yd8yJKPHS1kEV4mR"
@@ -8191,7 +8263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 221632,
       "name": "Look At Those Clouds",
       "url": "https://open.spotify.com/track/2GFsGAnVE0UJ6SAvZJp4av"
@@ -8209,7 +8281,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 291906,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/7a28MgTiylCp0D1VUwDUam"
@@ -8249,6 +8321,24 @@
       "duration_ms": 282352,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5kzSdqHDrxunge6BXD7nu7"
+    },
+    {
+      "album": {
+        "name": "Lose Ourselves",
+        "url": "https://open.spotify.com/album/5ApBHIYdpwvF3sRlAuE343"
+      },
+      "artists": [
+        {
+          "name": "Boundary Run",
+          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Lose Ourselves",
+      "url": "https://open.spotify.com/track/2IFZTQe05IUYNoik6yLPwJ"
     },
     {
       "album": {
@@ -8375,7 +8465,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 246000,
       "name": "Love Light a Way",
       "url": "https://open.spotify.com/track/4vQOoJf5stNuqoHqBPxBws"
@@ -9091,7 +9181,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -9127,7 +9217,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/2MKJD3HJ8CaHL9c2c46i93"
@@ -9441,7 +9531,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 245568,
       "name": "Must Be Dreaming",
       "url": "https://open.spotify.com/track/5dvQSx4sgDQUV5xgCP5BEd"
@@ -9691,7 +9781,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179429,
       "name": "Never Was",
       "url": "https://open.spotify.com/track/3DyG2I0SIMRKY23KfYfPfV"
@@ -9925,7 +10015,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224153,
       "name": "No Sweeter Taste",
       "url": "https://open.spotify.com/track/26iMRf0ySdMPVV6l8ivA6s"
@@ -11853,7 +11943,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 220377,
       "name": "Sex",
       "url": "https://open.spotify.com/track/5f009XeUzgsIIuezEMwtPF"
@@ -12099,6 +12189,24 @@
       "duration_ms": 258519,
       "name": "Sit Next to Me - Acoustic",
       "url": "https://open.spotify.com/track/3rlGhzsLdOEMb65d3q7ZO5"
+    },
+    {
+      "album": {
+        "name": "Sleepwalkers",
+        "url": "https://open.spotify.com/album/5CnfY5DgWYiNScAleB1OdN"
+      },
+      "artists": [
+        {
+          "name": "Far Places",
+          "url": "https://open.spotify.com/artist/1sZ2BoHp3ed3WFFJjbiO52"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244844,
+      "name": "Sleepwalkers",
+      "url": "https://open.spotify.com/track/4vJ1H2cZiBxK2Gnf3B4nqg"
     },
     {
       "album": {
@@ -12683,7 +12791,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 190845,
       "name": "Still dreaming, backwards",
       "url": "https://open.spotify.com/track/62iXXPlKxCHKVpNm2jlVFx"
@@ -12947,7 +13055,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 200322,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/4GefRmgVhqOBOUSe0Moczx"
@@ -13189,7 +13297,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 219480,
       "name": "Take Aim",
       "url": "https://open.spotify.com/track/0o8Oee4KSBVLtpUEL5sjVv"
@@ -13323,7 +13431,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 311519,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/0alDg0QvorqgSpeLPhajvu"
@@ -13889,7 +13997,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 240293,
       "name": "The World Keeps Turning",
       "url": "https://open.spotify.com/track/7vkiknWEVvZfR0AFgBlPfC"
@@ -14273,6 +14381,24 @@
       "duration_ms": 256500,
       "name": "Tiny Fires",
       "url": "https://open.spotify.com/track/6b8PHE00l7WMDNtR7OesKi"
+    },
+    {
+      "album": {
+        "name": "TLC",
+        "url": "https://open.spotify.com/album/6vSTt58pQ722hsmWuLwFam"
+      },
+      "artists": [
+        {
+          "name": "The Runaway Club",
+          "url": "https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189801,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/5CWmRE9QS9RcLOJkCkZBKJ"
     },
     {
       "album": {
@@ -15465,7 +15591,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-14",
+      "date_removed": null,
       "duration_ms": 261517,
       "name": "Worth My While",
       "url": "https://open.spotify.com/track/7gHJAee8FZay1EuyaGUVD8"
@@ -16055,7 +16181,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Your Heart Fit Right In Mine",
       "url": "https://open.spotify.com/track/4gaj9YY8wOmtJVCavoGq9C"
@@ -16113,7 +16239,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 292733,
       "name": "Yours (Alternate Version)",
       "url": "https://open.spotify.com/track/29yL7zwAPgdKi1WdmK1h8y"

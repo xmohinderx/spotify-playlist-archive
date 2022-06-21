@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 190344,
       "name": "Devotion (ft. Cameron Hayes)",
       "url": "https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 252744,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2"
@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Elyse",
+        "url": "https://open.spotify.com/album/1iFUi8jOoS5le1PAEa1OHH"
+      },
+      "artists": [
+        {
+          "name": "Levela",
+          "url": "https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206584,
+      "name": "Elyse",
+      "url": "https://open.spotify.com/track/5sqWn2HkUyMQgcpJKu5qwg"
+    },
+    {
+      "album": {
         "name": "FEEL",
         "url": "https://open.spotify.com/album/5ZWDDq45x4z73yHIwspFqV"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Fire & Water (feat. Marianna Ray)",
       "url": "https://open.spotify.com/track/3hv6PwiE4VGEaipmDuepdV"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Hands, Lights, Flames, Phones",
       "url": "https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4"
@@ -933,10 +951,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 158620,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W"
+    },
+    {
+      "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
     },
     {
       "album": {
@@ -1163,7 +1203,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 318171,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5arVVJKESEOMXqJ41QUcVl"
@@ -1409,7 +1449,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 303448,
       "name": "Love Is Not Enough - Hybrid Minds Remix",
       "url": "https://open.spotify.com/track/6sp6sZ3agNkxCwdK7zsdFy"
@@ -1493,7 +1533,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7iSUYpEq065PlyuWxzQWdf"
@@ -1677,7 +1717,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 281516,
       "name": "Our Love Will Grow",
       "url": "https://open.spotify.com/track/4m9IUdUUbnXrnvWvnOcNU8"
@@ -1823,7 +1863,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 193793,
       "name": "Reason - Single Version",
       "url": "https://open.spotify.com/track/7HAw8d7GV2d2PHbnQctXi8"
@@ -1995,7 +2035,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -2013,7 +2053,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 288000,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/5cRDn5aGMLvWsldoRmOOz0"
@@ -2042,6 +2082,28 @@
     },
     {
       "album": {
+        "name": "Step It Up / Lights",
+        "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Commadee",
+          "url": "https://open.spotify.com/artist/2tXTvG8cdBDqt2lAv2tMDy"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270312,
+      "name": "Step It Up",
+      "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
+    },
+    {
+      "album": {
         "name": "Mac 19 - EP",
         "url": "https://open.spotify.com/album/2WSWXuihumHxdmviKKqqmo"
       },
@@ -2053,7 +2115,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 220689,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY"
@@ -2093,7 +2155,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -2119,7 +2181,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 295172,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/5DYRbPE5eUiW3I3bakPmo0"
@@ -2221,7 +2283,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
@@ -2239,7 +2301,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213942,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3ZLQMBYxrdLIYw0HW00BVm"
@@ -2279,7 +2341,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 292117,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb"
@@ -2465,7 +2527,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
@@ -2505,7 +2567,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 224991,
       "name": "You & Me (feat. Selin)",
       "url": "https://open.spotify.com/track/0fMwDS1m5ZJMA0SLTNoZxs"
@@ -2527,7 +2589,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 286896,
       "name": "You Keep Me High",
       "url": "https://open.spotify.com/track/3OW0tpzhvp6QUS4UyyUOLi"

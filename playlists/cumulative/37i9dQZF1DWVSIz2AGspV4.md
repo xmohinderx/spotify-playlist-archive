@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-138 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+140 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Jaybiale](https://open.spotify.com/track/7y5xSuRJxX2J273yPJ3HmU) | [Maher Ahmad](https://open.spotify.com/artist/5yLHbf0ksRIA5w44VysqvC) | [Jaybiale](https://open.spotify.com/album/3mfasbwnaWRjREVfzXDoih) | 3:39 | 2022-05-19 |  |
 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 | 2022-06-13 |  |
 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-19 |  |
+| [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 | 2022-06-20 |  |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-03-23 | 2022-06-11 |
 | [Khalini Ahess](https://open.spotify.com/track/4nChFBb36g6oNflKniY8Iu) | [Shatha Hassoun](https://open.spotify.com/artist/1lcW1aIAE06YGct3i35aVg) | [Khalini Ahess](https://open.spotify.com/album/37kgk3tZWy2T7ytdWtJtdi) | 3:36 | 2021-12-23 | 2022-03-25 |
 | [Khithlanek](https://open.spotify.com/track/338MhIVwiTj6xGGf7Qr2O0) | [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Khithlanek](https://open.spotify.com/album/3ZjxOTp9GzO57dRa7C8pz6) | 3:58 | 2021-12-23 | 2022-03-12 |
@@ -146,5 +147,6 @@
 | [شي خيالي](https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [شي خيالي \- Single](https://open.spotify.com/album/1Tm3jeCXOe6LyQwErdfsYg) | 4:32 | 2021-12-23 | 2022-01-01 |
 | [عايش بيك](https://open.spotify.com/track/5o6YB79ykoBierbnPsAj97) | [Mohammed Kareem](https://open.spotify.com/artist/6QuzMPf0Oi2xct379VkfZN) | [عايش بيك](https://open.spotify.com/album/6dJLJRqDIEVQFfEqLWFIyh) | 3:15 | 2022-03-11 |  |
 | [عمري معاه](https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS) | [Muhanad Asir](https://open.spotify.com/artist/6ZHUebEY5oYuWHCif6ETjK), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [عمري معاه](https://open.spotify.com/album/3GKBk0aFdDA9JcyNIvPEZN) | 3:52 | 2022-01-14 | 2022-05-21 |
+| [٪ الف](https://open.spotify.com/track/3BDipuLlBQzjPJiMS5lrdF) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [٪ الف](https://open.spotify.com/album/53clXxawrkTOuQvDQxUsp7) | 3:01 | 2022-06-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

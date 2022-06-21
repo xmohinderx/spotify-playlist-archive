@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 197800,
       "name": "Come Out And Play (Keep \u2018Em Separated)",
       "url": "https://open.spotify.com/track/0Yb5Kfpf3boElZNa61wPdJ"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 221332,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 278746,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "Sex On Fire",
       "url": "https://open.spotify.com/track/7aOoPSmSSkWKnh3zi908ty"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 220986,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/5RFG9IVkzxE4LhObpIJncY"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/5VVwwfK6Cp9IydkhKfJUEq"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 134066,
       "name": "You Really Got Me - Remastered",
       "url": "https://open.spotify.com/track/09nZ9ZDWq1rTkmM3WjvMvF"

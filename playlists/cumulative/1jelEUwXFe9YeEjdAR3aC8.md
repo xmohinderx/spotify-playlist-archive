@@ -4,7 +4,7 @@
 
 > Chill indie songs by Jacob Collier, Of Monsters and Men, and more! Chill out to these relaxing and calming tracks, and discover new favorites! Cover: Lyn Lapid
 
-69 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
+70 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-06 |  |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-06-06 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-06-06 |  |
+| [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-20 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/1sqVMoQANGKLdMi3qMdFSw) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 2:50 | 2022-06-13 |  |
 | [Cold Life](https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k) | [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Cold Life](https://open.spotify.com/album/6zcBxU9W42AT1iWb9oy1xk) | 2:37 | 2022-06-10 | 2022-06-14 |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-06-06 |  |

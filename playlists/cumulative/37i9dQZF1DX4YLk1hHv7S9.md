@@ -4,7 +4,7 @@
 
 > Sweet acoustic love songs for the perfect day.
 
-85 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
+86 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 | 2021-07-23 |  |
 | [Dance With Me](https://open.spotify.com/track/5EUIHvrj3CNWzhWp8wuHh1) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Collateral](https://open.spotify.com/album/30e975KLKr2LEHrgFY78rk) | 3:38 | 2021-07-23 |  |
 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 | 2021-07-23 |  |
+| [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 | 2022-06-20 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2021-07-23 |  |
 | [First Day Of My Life](https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg) | 3:08 | 2021-07-23 |  |
 | [First Try](https://open.spotify.com/track/5V2tLRgrwtQjTrCxmYVLZ8) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Georgica Pond](https://open.spotify.com/album/7ijL8KF5a1FTAmXU8X33Y3) | 2:56 | 2021-07-23 |  |

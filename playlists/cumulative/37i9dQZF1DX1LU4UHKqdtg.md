@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BTS
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
 
-228 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+230 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-22 | 2022-05-18 |
 | [angel \(Prod\. GRAY\) \(Japanese ver.\)](https://open.spotify.com/track/63qTCzek2KaXkg7x1Y3ax9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [OnlyOneOf JAPAN BEST ALBUM](https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA) | 3:32 | 2022-01-18 | 2022-02-09 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2021-12-23 | 2022-03-21 |
-| [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 |  |
+| [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-06-21 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-06 | 2022-03-18 |
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
@@ -51,7 +51,7 @@
 | [Chocolate \- Japanese Ver.](https://open.spotify.com/track/4Wfwahl7IC8iHwPAM3di7Z) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Chocolate \(Japanese Ver.\)](https://open.spotify.com/album/6qIiU9PzJzMuQVJRIoAO9a) | 2:53 | 2021-12-23 | 2022-01-15 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-23 | 2022-02-02 |
 | [Color of Love](https://open.spotify.com/track/7fTTAOlLFkIjnWUtpYhx1W) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:07 | 2022-04-05 |  |
-| [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-20 |  |
+| [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-20 | 2022-06-21 |
 | [CRAZY](https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Facade](https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc) | 3:28 | 2022-06-13 |  |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-01-03 | 2022-01-21 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-15 |
@@ -96,6 +96,7 @@
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
 | [HELLO](https://open.spotify.com/track/0xd4HZuHxk3ol5AFDxgAEK) | [Sanha](https://open.spotify.com/artist/1L7aDqsr2ACWR6h75SsL3c) | [HELLO](https://open.spotify.com/album/2BLiOaGVkavo7azxjJn4rB) | 3:32 | 2022-01-25 | 2022-02-12 |
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-10 |  |
+| [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 |  |
 | [HOME](https://open.spotify.com/track/3FYyfD20ftxbbdTqzc5PW2) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [OUR TEEN:BLUE SIDE](https://open.spotify.com/album/7fhONW69XeQprR25vq502T) | 3:40 | 2022-03-08 | 2022-04-12 |
 | [HONEY](https://open.spotify.com/track/1Pu0hNnhlrWfZOisgs1TPG) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/7zzh1ltXhjELf4RtD8Sp74) | 2:47 | 2022-03-16 | 2022-06-15 |
 | [Hope from KWANGYA](https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 5:33 | 2021-12-28 | 2022-02-15 |
@@ -200,6 +201,7 @@
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-03 | 2022-03-11 |
 | [Undercover \- Japanese ver.](https://open.spotify.com/track/3JezulRWDYGqfjzq6PK65L) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Undercover \(Japanese ver.\)](https://open.spotify.com/album/2qTRlCOArOeI8JfBYk4eMF) | 3:08 | 2022-06-07 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/11bKMtXv6SRHY4paHR6qhz) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/1yG3aJf5tQz4D9pCosjn3f) | 3:51 | 2021-12-23 | 2022-03-02 |
+| [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 |  |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 |  |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-07 | 2022-05-11 |
 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 | 2022-01-20 | 2022-04-15 |
@@ -231,7 +233,7 @@
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 |  |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 |  |
 | [ジレンマ](https://open.spotify.com/track/439K6P5nMguuX0C2d2kMxK) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [ジレンマ](https://open.spotify.com/album/4XGNyv71OpEDScASJSwkKc) | 3:03 | 2022-02-22 | 2022-03-11 |
-| [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 |  |
+| [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 | 2022-06-11 |

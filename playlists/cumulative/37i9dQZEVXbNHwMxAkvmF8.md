@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2021](https://open.spotify.com/track/3ANOQpQLmv4xAyxLSOk9HC) | [Kolg8eight](https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO) | [2021](https://open.spotify.com/album/4Ntxs5oZf821o1LnBVfrDf) | 2:44 | 2022-03-02 | 2022-06-19 |
+| [2021](https://open.spotify.com/track/3ANOQpQLmv4xAyxLSOk9HC) | [Kolg8eight](https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO) | [2021](https://open.spotify.com/album/4Ntxs5oZf821o1LnBVfrDf) | 2:44 | 2022-03-02 |  |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-19 | 2021-10-06 |
 | [24 karát](https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p) | [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [24 karát](https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB) | 2:08 | 2022-01-02 | 2022-01-17 |
 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2021-12-27 |
@@ -336,7 +336,7 @@
 | [quasar](https://open.spotify.com/track/7KPuPmkh0N7ehSfuVstCrd) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:56 | 2021-07-01 | 2021-07-02 |
 | [Rajosan](https://open.spotify.com/track/5yP7ZMMAbaZQMfBirBBCen) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [Rajosan](https://open.spotify.com/album/4i1aThwMa5bRhDjJozFnpW) | 3:15 | 2022-01-08 | 2022-05-10 |
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2021-06-19 | 2021-07-20 |
-| [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-08-29 |  |
+| [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-08-29 | 2022-06-21 |
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-13 | 2021-07-04 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-06-13 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-06-06 | 2022-01-03 |

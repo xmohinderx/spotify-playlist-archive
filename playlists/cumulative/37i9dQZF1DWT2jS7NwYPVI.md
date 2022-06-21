@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Enumclaw
 
-558 songs - 1 day 5 hr 56 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+559 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/track/5RR9EjI16LxwQFOX5fxpCW) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Rest In Pieces \(feat\. Goody Grace\)](https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg) | 2:55 | 2022-02-11 | 2022-05-07 |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-03-11 | 2022-06-11 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-13 |  |
+| [Rob the Supermarket](https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Rob the Supermarket](https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h) | 2:14 | 2022-06-20 |  |
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-03-05 |
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2021-11-19 | 2022-01-15 |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-02-25 | 2022-04-29 |

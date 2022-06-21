@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-255 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+256 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sanchari](https://open.spotify.com/track/0s49zgu70ZProx7jJn5q09) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Radhe Shyam](https://open.spotify.com/album/1kjkfSQ954S0wZRlrBmkII) | 4:28 | 2022-03-13 | 2022-04-28 |
 | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/track/5RCRbsCqsMyaqN5y4A59Zw) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/album/6BG4Bze3Vhv0z421fHZlDp) | 4:28 | 2021-12-16 | 2022-02-03 |
 | [Sanchariyagu Nee \(From "Love Mocktail 2"\)](https://open.spotify.com/track/0QQLxtHsKohST4DM3TQze9) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Sanchariyagu Nee \(From "Love Mocktail 2"\)](https://open.spotify.com/album/1eT6Roqw79faqaorSKSbtO) | 5:17 | 2021-12-06 | 2022-06-15 |
+| [Sanna Sanna Kanasu](https://open.spotify.com/track/74U35eUUi95rWLtLFG14Zw) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp) | [Dear Vikram](https://open.spotify.com/album/0xgSQ69S8rh7nLPB98XrFH) | 3:53 | 2022-06-20 |  |
 | [Seese Olagina Madhure](https://open.spotify.com/track/0Uw3xqwMPWnRTmsOJYrt6O) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Halli Hykla Pyate Lifu](https://open.spotify.com/album/5rfjudzKRujhuyZXeNEPqG) | 4:25 | 2022-01-07 | 2022-02-16 |
 | [Shakuntala Shake Your Body Please \- From "Trivikrama"](https://open.spotify.com/track/6eXE5JFAljMvMV5yu33oqH) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Shakuntala Shake Your Body Please \(From "Trivikrama"\)](https://open.spotify.com/album/5TgdutJeZcT68TzPZRe0OM) | 3:53 | 2022-06-17 |  |
 | [Shambo Shankara \- From "Manasmita"](https://open.spotify.com/track/4QWTX23ULOIuBaqgE0jJo9) | [Harikavya](https://open.spotify.com/artist/7DAiLkWVM1sl8H8gNDB4SH) | [Shambo Shankara \(From "Manasmita"\)](https://open.spotify.com/album/2ndQu2kroD6cQEjMrigAlg) | 3:30 | 2022-05-27 |  |

@@ -2960,6 +2960,24 @@
     },
     {
       "album": {
+        "name": "GIAYPHUT",
+        "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "GIAYPHUT",
+      "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
+    },
+    {
+      "album": {
         "name": "Gieo Qu\u1ebb (feat. \u0110en)",
         "url": "https://open.spotify.com/album/1cvlu9FQk5dawfuyZErjuO"
       },
@@ -6607,7 +6625,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230663,
       "name": "Querry",
       "url": "https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW"

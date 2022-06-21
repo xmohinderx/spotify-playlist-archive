@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 155368,
       "name": "Battiti",
       "url": "https://open.spotify.com/track/7wG7IuZjCJn0bC2RS7MhtM"
@@ -1090,6 +1090,28 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212284,
+      "name": "Lei (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
@@ -1614,6 +1636,28 @@
     },
     {
       "album": {
+        "name": "Possessivo",
+        "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155087,
+      "name": "Possessivo",
+      "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -1773,7 +1817,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 219755,
       "name": "Signore del bosco",
       "url": "https://open.spotify.com/track/0stcTp1Ngt9UDvRjRbb4tw"

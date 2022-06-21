@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-120 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+121 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Baadh Al Ghala](https://open.spotify.com/track/3Sf476zAelNnGLOS9dSUWX) | [Nour Ireksousi](https://open.spotify.com/artist/3ERqXjQ9LH6lItvNMwSftG) | [Baadh Al Ghala](https://open.spotify.com/album/6Nw5PNaAjR8blhDzsmuulu) | 3:49 | 2021-12-23 | 2022-03-12 |
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-03-17 |  |
 | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/track/6FBNoAauIeKCOtR4xkFtGx) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/album/6WWGzDlSphKk5lDurfAM6l) | 2:32 | 2021-12-23 | 2022-04-05 |
-| [Bayn Alayadi](https://open.spotify.com/track/1hIdUbUeGqJ5MXbKEU6Uqf) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Bayn Alayadi](https://open.spotify.com/album/6xcQSKxoyNQAkUcImgTNWa) | 3:49 | 2022-01-20 |  |
+| [Bayn Alayadi](https://open.spotify.com/track/1hIdUbUeGqJ5MXbKEU6Uqf) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Bayn Alayadi](https://open.spotify.com/album/6xcQSKxoyNQAkUcImgTNWa) | 3:49 | 2022-01-20 | 2022-06-21 |
 | [Belmethl](https://open.spotify.com/track/0Ad46USTFLwOe2D4Rwqeue) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Belmethl](https://open.spotify.com/album/4PqHIDZW2fnepJ1kUVMfqP) | 3:25 | 2021-12-23 | 2022-03-02 |
 | [Chabihi](https://open.spotify.com/track/1WDXQ8wUtiWd2gX6MUTpUR) | [Hassan Al Ahmed](https://open.spotify.com/artist/4U837cFteUqtzDuE6CjAaQ) | [Chabihi](https://open.spotify.com/album/0WQDBzymEFA4DN63V8f5hc) | 4:11 | 2022-06-02 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-23 | 2022-06-04 |
@@ -63,6 +63,7 @@
 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-02-17 |  |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 |  |
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-05-01 |  |
+| [Leeh Men Ndarah](https://open.spotify.com/track/0qnufWFALNHUnpcjHKmPrF) | [Mohamed Al Qahtani](https://open.spotify.com/artist/2mJ3asAxEwBkG0pbZJERAm) | [Leeh Men Ndarah](https://open.spotify.com/album/3LeYvuYO097cAJp0g8JXlF) | 4:07 | 2022-06-20 |  |
 | [Leh Rajee](https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Leh Rajee](https://open.spotify.com/album/2CiC0SU1r3W3MPcoHuFMyr) | 3:43 | 2022-05-13 |  |
 | [Letak Maey](https://open.spotify.com/track/2UB9maMnxNigowJkLjikv5) | [Basil Al Aziz](https://open.spotify.com/artist/1DukKWvxLqDe2BIH4IU4jd) | [Letak Maey](https://open.spotify.com/album/15yFJycGjc78gXyO8TsUHt) | 4:23 | 2021-12-23 | 2022-06-04 |
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2021-12-30 | 2022-06-15 |

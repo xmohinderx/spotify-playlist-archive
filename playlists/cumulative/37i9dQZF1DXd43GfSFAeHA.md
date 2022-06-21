@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dafencii
 
-105 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+106 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Rigle Bihum](https://open.spotify.com/track/0EKwe45yFDdC93exb5wYbU) | [Jlove Rap](https://open.spotify.com/artist/1aegd4kIEUFStpypq1OVMW) | [Rigle Bihum](https://open.spotify.com/album/1JXLXotTfpNY59BUnX4IjW) | 2:37 | 2022-05-08 |  |
 | [Rio](https://open.spotify.com/track/3Nmka6ycOZm2jiHyCJCjcc) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Florida](https://open.spotify.com/album/4bSsYSyiKLlP36LA1sY94N) | 3:15 | 2022-05-08 |  |
 | [Satan](https://open.spotify.com/track/7IYweO5tWUkuOstmGEjZEF) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [Satan](https://open.spotify.com/album/6f7EvfMo0wuGvlcz87trL4) | 2:23 | 2022-05-08 |  |
+| [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 | 2022-06-20 |  |
 | [Sebyan](https://open.spotify.com/track/60apwPsgBtySOwFxnEbu4h) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:06 | 2022-05-08 |  |
 | [Sham3 3id El Milad](https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Sham3 3id El Milad](https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN) | 2:14 | 2022-05-08 |  |
 | [Shiva](https://open.spotify.com/track/2Pz9vTFvlHkZUXfnUSMkNP) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Shiva](https://open.spotify.com/album/5rKDVA3AMV8Fl9GFbmSbkl) | 2:31 | 2022-05-08 |  |

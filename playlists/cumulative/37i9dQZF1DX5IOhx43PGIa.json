@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 204117,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 214691,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3t6NBoUIutK70vB2KZovVc"
@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr"
+      },
+      "artists": [
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194886,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/5GFXvWabokOiYcbaI3Vo3g"
       },
@@ -299,7 +317,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 164174,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 189269,
       "name": "Bottled Up",
       "url": "https://open.spotify.com/track/2KUoWQZDFiLtWjCvj5pr8Q"
@@ -393,7 +411,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 212187,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 213637,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186260,
       "name": "Essential",
       "url": "https://open.spotify.com/track/6CeZzmElqtPp6PmcIXMS5w"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 150927,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7DscinmgmQGwSblBKjrGy7"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "ITIM",
       "url": "https://open.spotify.com/track/2akEAk7cu3FNtIzNUMtfX2"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 157687,
       "name": "La Di Da",
       "url": "https://open.spotify.com/track/2LW6Tgz0V7wkgu2MyYQ0gT"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 254800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Making Me Sick!",
       "url": "https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 245496,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 142040,
       "name": "Mercury (feat. \u00d8ZI)",
       "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 269000,
       "name": "Merry Midnight",
       "url": "https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "METROPOLIS",
       "url": "https://open.spotify.com/track/5dGvEzPIFn5BVuGBmqBiqy"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 211635,
       "name": "Nobody Sees Me Like You Do",
       "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
@@ -2713,7 +2731,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 164070,
       "name": "people i love (hurt me)",
       "url": "https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 213379,
       "name": "Rocksta",
       "url": "https://open.spotify.com/track/5R06bSYKRELA1caseE2BAX"
@@ -3195,7 +3213,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 179571,
       "name": "so wrong but so right.",
       "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6"
@@ -3583,7 +3601,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 223066,
       "name": "Tokyo Rouge",
       "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
@@ -3663,7 +3681,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 181878,
       "name": "universe (DTB Remix) - Spotify Singles",
       "url": "https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB"
@@ -3747,7 +3765,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 219130,
       "name": "Weekenders (feat. Hans.)",
       "url": "https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w"
@@ -3845,7 +3863,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 215300,
       "name": "Wild Jasmine",
       "url": "https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
@@ -3947,7 +3965,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 237665,
       "name": "You Are (feat. Corinne Bailey Rae & UMI)",
       "url": "https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3"

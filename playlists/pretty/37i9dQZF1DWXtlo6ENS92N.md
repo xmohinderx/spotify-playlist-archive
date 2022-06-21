@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> The finest quality of Bollywood music handpicked for you\. Cover\- Aamir Khan & Kareena Kapoor Khan
+> The finest quality of Bollywood music handpicked for you\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,190 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,900 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 |
-| 2 | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 |
+| 1 | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 |
+| 2 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 |
 | 3 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 |
 | 4 | [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/0FaYl39oV2OPFGYJ6MbILr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/19agsRoi5VkKa80qfnmpx7) | 4:14 |
 | 5 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 49 | [Kalank \(Title Track\)](https://open.spotify.com/track/1Y8jKq7CYLEW6PWp11jWZC) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \- Title Track \(Kalank\)](https://open.spotify.com/album/7kI80voi344SC3E6vlVZfn) | 5:11 |
 | 50 | [Nazm Nazm](https://open.spotify.com/track/1We89SAonMk70QBbfXERxa) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Bareilly Ki Barfi](https://open.spotify.com/album/1P8eifMN4WiKEXtptCBwJQ) | 3:46 |
 
-Snapshot ID: `MTY1NDUxMTU4MSwwMDAwMDBhMzAwMDAwMTgxMzg5MzM5NjAwMDAwMDE4MGYwNjM2OTI2`
+Snapshot ID: `MTY1NTcxOTQzOCwwMDAwMDBhNDAwMDAwMTgxODA5MWE5ZTgwMDAwMDE4MTgwOTE4ZTUx`

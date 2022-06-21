@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "22 settembre",
       "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186853,
       "name": "ALTALENE (feat. Mara Sattei & Coez)",
       "url": "https://open.spotify.com/track/2zqxUV6h5y6Y9WhyH0FVvX"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "Amare",
       "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 166602,
       "name": "Cuore Nero - prod. Frenetik&Orang3",
       "url": "https://open.spotify.com/track/0ROJX4yr64AlknCaX71JDQ"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 145462,
       "name": "Domani ci passa",
       "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 159989,
       "name": "Drippin' in Milano",
       "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
@@ -1051,10 +1051,32 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Hola (I Say) (feat. Tom Walker)",
+      "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
     },
     {
       "album": {
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
@@ -1335,7 +1357,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 207802,
       "name": "La storia infinita",
       "url": "https://open.spotify.com/track/0XAO6HaZDHa2HxbnWWKWCZ"
@@ -1379,7 +1401,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
@@ -1495,7 +1517,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 250830,
       "name": "MARIL\u00d9",
       "url": "https://open.spotify.com/track/7JlPKH9G2KLUzJlfFFAxEO"
@@ -2015,7 +2037,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
@@ -2059,7 +2081,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 170400,
       "name": "perso nel buio (con Madame)",
       "url": "https://open.spotify.com/track/3JfNagCp1cGQUp4XSCmGl4"
@@ -2099,7 +2121,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 227678,
       "name": "Pezzo Di Cuore (con Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/0BNaXcSSUeuARA4W8iB18E"

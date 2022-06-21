@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42092,
+  "num_followers": 42095,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg0NCw0YmYxODY1MmQ1NWYxZjRlMjJlMzA5OWNlMTA2MDliYmY2Y2RiOThl",
+  "snapshot_id": "Mjg0NywwYjI1MGM1ODYxY2VkMDE2ZmZjODZjMjJhZDIxYTgzNjY5ZjI0YzVj",
   "tracks": [
+    {
+      "added_at": "2022-06-20 08:25:56",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC"
+      },
+      "artists": [
+        {
+          "name": "Milk Talk",
+          "url": "https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Milk Talk",
+      "url": "https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN"
+    },
     {
       "added_at": "2022-06-17 08:12:30",
       "album": {
@@ -399,22 +415,6 @@
       "duration_ms": 192220,
       "name": "TE NECESITO\u00a1! (club)",
       "url": "https://open.spotify.com/track/3kTongg66uYQDvmqViLXad"
-    },
-    {
-      "added_at": "2022-04-11 08:17:50",
-      "album": {
-        "name": "Freak Talk",
-        "url": "https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0"
-      },
-      "artists": [
-        {
-          "name": "Pair",
-          "url": "https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b"
-        }
-      ],
-      "duration_ms": 222848,
-      "name": "Freak Talk",
-      "url": "https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> \#withALLrefugees \- Cover: LUM!X
+> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Lucky Luke
 
 148 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 

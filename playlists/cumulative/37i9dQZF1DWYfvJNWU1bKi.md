@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-99 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
+100 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 | 2022-01-03 |  |
 | [Iragai Poley](https://open.spotify.com/track/3FRLxtpSk9BxxnxdS6I4jq) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [Naan Mahaan Alla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oTvmhMCac0nlAcQsL5k88) | 5:17 | 2021-08-16 |  |
 | [Jigidi Killaadi](https://open.spotify.com/track/6t7oTudS2q6OFVhCXHaL4x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Pattas](https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH) | 3:38 | 2022-01-03 | 2022-04-29 |
+| [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-06-20 |  |
 | [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 | 2022-01-03 |  |
 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-24 |  |
 | [Kaathalae Kaathalae \- From "96"](https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kaathalae Kaathalae \(From "96"\)](https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G) | 3:13 | 2021-08-16 |  |

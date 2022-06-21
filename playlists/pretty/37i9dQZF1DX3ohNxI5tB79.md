@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,122 likes - 91 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,279 likes - 91 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

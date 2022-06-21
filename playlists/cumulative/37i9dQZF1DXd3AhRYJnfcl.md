@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لا يمكنك التوقف عن الاستماع اليها الغلاف: اليسا
 
-61 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
+62 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-04-13 |  |
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-04-13 |  |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-13 | 2022-06-15 |
-| [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-04-13 |  |
+| [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-04-13 | 2022-06-21 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-04-13 |  |
 | [Hateshtaou](https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hateshtaou](https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM) | 4:35 | 2022-04-13 |  |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-07 |  |
@@ -43,6 +43,7 @@
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-04-13 |  |
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-04-13 |  |
 | [Meen Kan Sabab](https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Meen Kan Sabab](https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK) | 4:28 | 2022-06-07 |  |
+| [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-20 |  |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2022-04-13 |  |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-13 |  |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2022-04-13 | 2022-06-08 |

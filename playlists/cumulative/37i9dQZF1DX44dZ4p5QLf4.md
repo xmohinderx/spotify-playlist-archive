@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
 
-192 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+194 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alone Again](https://open.spotify.com/track/7itlSXJ0hJCaUiVrftOjQT) | [Franky Bones](https://open.spotify.com/artist/3MIe1raSr122f1BKuFsBZo), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Alone Again](https://open.spotify.com/album/5YkfrM1hr4oBhBP7CTXjGb) | 4:07 | 2022-06-16 |  |
 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 | 2021-12-16 | 2022-06-17 |
 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 | 2021-12-16 |  |
+| [Andromeda](https://open.spotify.com/track/7G4KKZXXXwm7HCWTwTLuXU) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Andromeda](https://open.spotify.com/album/6xqELDDENWwwHbSOArujXo) | 2:03 | 2022-06-20 |  |
 | [Anger](https://open.spotify.com/track/3Ykugegz7ThqmJ3rLXjMq3) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Anger](https://open.spotify.com/album/4bqhj2QElfjpe2N2mIWBfT) | 2:37 | 2022-04-08 |  |
 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 | 2021-12-16 | 2022-05-20 |
 | [Anything For You \- The Duet](https://open.spotify.com/track/4Y6kb79j6Dw8Sy99JSBtzO) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Anything For You \(The Duet\)](https://open.spotify.com/album/0SehtJ2CGMhcBrEZTE5HLH) | 4:16 | 2021-12-16 | 2022-04-09 |
@@ -178,6 +179,7 @@
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2021-12-16 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-12-16 | 2022-04-29 |
 | [Talking Outta My](https://open.spotify.com/track/7khNEOIElWPWojn3RkoLl8) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Amazumi](https://open.spotify.com/artist/1KqP5MKz8cYj26nv20rU1g) | [Talking Outta My](https://open.spotify.com/album/2TxRcwpDPwurbCdglZ0g7S) | 2:53 | 2021-12-16 |  |
+| [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [Q.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 | 2022-06-20 |  |
 | [Teach Me](https://open.spotify.com/track/6x51Lq4KaHqB6rHfCpaI5H) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:11 | 2021-12-16 | 2022-04-29 |
 | [Tell Him](https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG) | 3:54 | 2022-01-10 |  |
 | [That](https://open.spotify.com/track/2iCh6HCII4LRuxiQJxklsu) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 3:54 | 2021-12-16 | 2022-01-14 |

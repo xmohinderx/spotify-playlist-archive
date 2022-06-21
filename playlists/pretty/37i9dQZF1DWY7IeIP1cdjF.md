@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Ozuna, Boza, Bad Bunny, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,499,940 likes - 61 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,500,700 likes - 61 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

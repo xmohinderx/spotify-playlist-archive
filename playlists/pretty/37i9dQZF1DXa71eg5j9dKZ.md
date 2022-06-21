@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: SBTRKT
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,521 likes - 112 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,568 likes - 112 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
