@@ -2,9 +2,9 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> Stray Kids everywhere all around the world\. You make Stray Kids STAY\. Are you a MANIAC?
+> Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-101 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
+104 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Double Knot](https://open.spotify.com/track/6VEwhm9m2rMnDKhc1WSLIA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:11 | 2022-03-18 |  |
 | [Easy](https://open.spotify.com/track/2AeLlfB0vLKz7nukzQ97ri) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:03 | 2022-03-18 |  |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-03-18 |  |
+| [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 | 2022-06-21 |  |
 | [For You](https://open.spotify.com/track/3qBlU2fEz1JD098Z5nHvIo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 4:09 | 2022-03-18 |  |
 | [FREEZE](https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:58 | 2022-03-18 |  |
 | [Get Cool](https://open.spotify.com/track/6TCQ5kYMTXFrrCobvXqUxY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:16 | 2022-03-18 |  |
@@ -83,6 +84,7 @@
 | [Secret Secret](https://open.spotify.com/track/6by3m4NmNQEkbHqVRotCnj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:29 | 2022-03-18 |  |
 | [Side Effects](https://open.spotify.com/track/1n0deeH4R7k0A5zENssBYc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:15 | 2022-03-18 |  |
 | [Silent Cry](https://open.spotify.com/track/48oWkLbv2p63rgmSfckHQL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:29 | 2022-03-18 |  |
+| [Silent Cry \-Japanese ver.\-](https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:31 | 2022-06-21 |  |
 | [SLUMP \("Tower of God" ED\)](https://open.spotify.com/track/2GpRNFluKholHzpWM7t0t8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:14 | 2022-03-18 |  |
 | [Sorry, I Love You](https://open.spotify.com/track/7FV6MOPNv5m1zUpWhN6oTJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 2:57 | 2022-03-18 |  |
 | [Spread My Wings](https://open.spotify.com/track/3aYsXEPnbdHwIByyJIF4b8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:22 | 2022-03-18 |  |
@@ -108,6 +110,7 @@
 | [YAYAYA](https://open.spotify.com/track/3TdDuTNDALwxyPSy8mqVWY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:22 | 2022-03-18 |  |
 | [You Can STAY](https://open.spotify.com/track/5VoUJEP8CmWmHrsmcAaNSh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:28 | 2022-03-18 |  |
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-06-01 |  |
+| [蜘蛛の糸 \(VENOM\) \-Japanese ver.\-](https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:15 | 2022-06-21 |  |
 | [끝나지 않을 이야기](https://open.spotify.com/track/0KHCa8hM5Jff6Ji0JxQYMb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Extraordinary You Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/03A9VqGceT6tpVwHV0X8dn) | 4:04 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

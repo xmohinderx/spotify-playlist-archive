@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Saucy Santana
 
-171 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+172 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Boss Ass Bitch \(with PTAF\) \- Remix](https://open.spotify.com/track/7eLCcnhpYGH3Y6Pqrk68Gz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [PTAF](https://open.spotify.com/artist/6Xiuj9T13YmHkjZ70VWerK) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:08 | 2021-10-15 | 2022-04-09 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2021-10-15 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-11 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 | 2022-02-17 |  |
 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 | 2021-10-15 | 2022-03-18 |
 | [Buss It](https://open.spotify.com/track/6NWdgyVsjp2bJ11PToXCr1) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Buss It](https://open.spotify.com/album/0cTfIK7IoeXscnXZDsWTBk) | 3:08 | 2021-10-15 |  |

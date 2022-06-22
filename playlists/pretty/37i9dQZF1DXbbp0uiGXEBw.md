@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Thiều Bảo Trâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,094 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,117 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 13 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |
 | 14 | [Trước Tiên Anh Hãy Nói Chia Tay Em Đi](https://open.spotify.com/track/2AhLDaQumFH17AfcxRIlqf) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [after YOU](https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ) | 3:56 |
 | 15 | [OK Anh Đúng](https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [OK Anh Đúng](https://open.spotify.com/album/48C9W0epgpJf0yMecK2FHP) | 3:48 |
-| 16 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
+| 16 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
 | 17 | [Duyen Am](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 |
 | 18 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 |
 | 19 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |

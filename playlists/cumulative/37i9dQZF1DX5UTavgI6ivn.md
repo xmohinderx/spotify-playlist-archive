@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5UTavgI6ivn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5UTavgI6ivn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5UTavgI6ivn)
 
-### [Dale play a tu voto](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
+### [Made In Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Este mensaje se lee “on repeat”: Vota, vota, vota\. ¡Dale play a tu voto!
+> Representando la cultura con orgullo\. Representing with pride! Cover: Karol G
 
 121 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 

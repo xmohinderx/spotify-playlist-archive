@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 186732,
       "name": "Black Converse",
       "url": "https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 217683,
       "name": "I Can See The Change",
       "url": "https://open.spotify.com/track/4TfPtTbJtk5diKYuubTP9e"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 226413,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/7fZ2GktS3lfZuI6BbDamrS"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
@@ -1690,6 +1690,28 @@
     },
     {
       "album": {
+        "name": "Straight To The Heart",
+        "url": "https://open.spotify.com/album/1XleM4IkyF9DuTZDRVWT3a"
+      },
+      "artists": [
+        {
+          "name": "Nick Talos",
+          "url": "https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2"
+        },
+        {
+          "name": "David Spekter",
+          "url": "https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152913,
+      "name": "Straight To The Heart",
+      "url": "https://open.spotify.com/track/0MJGEZXkdMj7uQUGhI6gj3"
+    },
+    {
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/67DYBy4YINwNQKp1odHAN0"
       },
@@ -1773,7 +1795,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 221682,
       "name": "The Sky Is Painted Gray Today",
       "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
@@ -1839,7 +1861,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "To Begin Again",
       "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"
@@ -2041,7 +2063,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 254437,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"

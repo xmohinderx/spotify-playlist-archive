@@ -1,13 +1,29 @@
 {
   "description": "The world's biggest dance hits. Featuring music from Kabza De Small, Drake, TSHA, Alok, Ellen Eyre, Kenny Dope & Never Dull and more!",
-  "num_followers": 5921295,
+  "num_followers": 5921689,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ2OTgwMSwwMDAwMDRkOTAwMDAwMTgxNzFiMDgwZDIwMDAwMDE4MTZkMWYyYmNm",
+  "snapshot_id": "MTY1NTc4NDA2MCwwMDAwMDRkYTAwMDAwMTgxODQ2YmI0YzMwMDAwMDE4MTZkMWYyYmNm",
   "tracks": [
+    {
+      "added_at": "2022-06-21 04:01:00",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {

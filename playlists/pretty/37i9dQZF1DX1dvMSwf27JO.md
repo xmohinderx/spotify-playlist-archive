@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > and why aren't you in uniform?
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,776 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,991 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 5 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 |
 | 6 | [Campfire](https://open.spotify.com/track/4U5ovGD4My7MOISvUEtYaf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Campfire](https://open.spotify.com/album/4qnFzeNKngsi0ZoOW7qtcm) | 2:15 |
 | 7 | [I.Crawl](https://open.spotify.com/track/0ccmrEgpKa5iFvijTxIrGf) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:29 |
-| 8 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 |
-| 9 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
+| 8 | [Puddles](https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Puddles](https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM) | 1:49 |
+| 9 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 |
 | 10 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 |
-| 11 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 |
-| 12 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 |
-| 13 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 |
-| 14 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
-| 15 | [Townhouse](https://open.spotify.com/track/3cMy2EK1XHBGVQhrkyRsMP) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:24 |
-| 16 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
-| 17 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
-| 18 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 |
-| 19 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
+| 11 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
+| 12 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 |
+| 13 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 |
+| 14 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 |
+| 15 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
+| 16 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
+| 17 | [Townhouse](https://open.spotify.com/track/3cMy2EK1XHBGVQhrkyRsMP) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [FREELANCE](https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz) | 2:24 |
+| 18 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
+| 19 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 |
 | 20 | [Rich Wallice](https://open.spotify.com/track/0CQ1JPDZLJvun80MFLr4Du) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/66S38eUM5q4l4vjrTpvdci) | 2:20 |
 | 21 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
 | 22 | [Lemon](https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 |
 | 100 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 |
 
-Snapshot ID: `MTY1NTQ4NjgxMSwwMDAwMDA4ZjAwMDAwMTgxNzJiNDBiODMwMDAwMDE4MGI5YmE2NDZk`
+Snapshot ID: `MTY1NTgzODc5MSwwMDAwMDA5MDAwMDAwMTgxODdhZWQ1ZmYwMDAwMDE4MGI5YmE2NDZk`

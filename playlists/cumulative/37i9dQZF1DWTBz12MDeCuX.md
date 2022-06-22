@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-109 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+110 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2022-06-09 |  |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-06-09 |  |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-06-09 |  |
+| [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-21 |  |
 | [KEIN BOCK](https://open.spotify.com/track/3m6xcoAL3G5nFi90xEKHLA) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [HERZ \(Deluxe Version\)](https://open.spotify.com/album/1vOPMWiJzUzPPT3UbqFii5) | 3:25 | 2022-06-09 |  |
 | [Keine Party](https://open.spotify.com/track/2Q6kqdBSFM1syeJF3lgwOK) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [Keine Party](https://open.spotify.com/album/7tM91ivOKJxsfEymX1TICl) | 2:50 | 2022-06-09 | 2022-06-14 |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-06-09 |  |

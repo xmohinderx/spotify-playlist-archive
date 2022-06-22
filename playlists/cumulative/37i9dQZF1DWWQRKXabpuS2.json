@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/4jymGyGNnttvMVCDgwqLcm"
+      },
+      "artists": [
+        {
+          "name": "Sheyaab",
+          "url": "https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167001,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/2QHwXZqmG2lzY1QK5sIwYl"
+    },
+    {
+      "album": {
         "name": "Dag El Galb",
         "url": "https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3"
       },

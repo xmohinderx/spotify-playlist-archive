@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Green Velvet.",
-  "num_followers": 555803,
+  "num_followers": 555970,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQ2MCwwMDAwMDEzNzAwMDAwMTgxNmZkMjQ1MWUwMDAwMDE4MTZlNzFmOGM1",
+  "snapshot_id": "MTY1NTgyMjQ0NiwwMDAwMDEzOTAwMDAwMTgxODZiNTZmMzYwMDAwMDE4MTZlNzFmOGM1",
   "tracks": [
     {
       "added_at": "2022-06-03 04:00:00",
@@ -71,6 +71,26 @@
       "duration_ms": 168768,
       "name": "Wurk",
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
+    },
+    {
+      "added_at": "2022-06-21 14:40:24",
+      "album": {
+        "name": "Chiquetere",
+        "url": "https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        },
+        {
+          "name": "Rafa Villalba",
+          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+        }
+      ],
+      "duration_ms": 163488,
+      "name": "Chiquetere (feat. Rafa Villalba)",
+      "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1303,22 +1323,6 @@
       "duration_ms": 166935,
       "name": "Di Da Di",
       "url": "https://open.spotify.com/track/6gXGso6sUgXkDTYb13zlz0"
-    },
-    {
-      "added_at": "2022-04-13 16:31:36",
-      "album": {
-        "name": "FIND ME IN DA CLUB !!!",
-        "url": "https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "FIND ME IN DA CLUB !!!",
-      "url": "https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN"
     },
     {
       "added_at": "2022-04-22 04:01:00",

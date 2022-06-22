@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 220 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 220 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 121 | [Consequences](https://open.spotify.com/track/4EYVxg0l0vUfRB0Qqi0nab) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:38 |
 | 122 | [Beer Bad](https://open.spotify.com/track/2Ocx3XrE5G0okanv7VVEqO) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:28 |
 | 123 | [Bad Eggs](https://open.spotify.com/track/7rzmGfPzVm1ahc3vb5HmKa) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 0:36 |
-| 124 | [Earshot](https://open.spotify.com/track/7zNVhTRvhKLUzhkNLsUHOk) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
-| 125 | [Ghosts](https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [Ghosts](https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO) | 3:26 |
+| 124 | [Ghosts](https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [Ghosts](https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO) | 3:26 |
+| 125 | [Earshot](https://open.spotify.com/track/7zNVhTRvhKLUzhkNLsUHOk) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
 | 126 | [Graduation Day, Pt\. 1](https://open.spotify.com/track/2HEojsJrldg6bYCFe92N6O) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:48 |
 | 127 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
 | 128 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 131 | [Who Are You?](https://open.spotify.com/track/7nhzjNZr46j236n0twEZYV) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:30 |
 | 132 | [Fool for Love](https://open.spotify.com/track/6Va2JOFQLTBAESZmipm4Wr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Cory Branan](https://open.spotify.com/artist/0uzmoK3E1j2Cvl9XkFs1JR) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:59 |
 | 133 | [The Yoko Factor](https://open.spotify.com/track/6UNxSB3EF2qaymwB5nRjMh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:10 |
-| 134 | [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 |
-| 135 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 |
+| 134 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 |
+| 135 | [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 |
 | 136 | [Fear, Itself](https://open.spotify.com/track/0TKkGyAPQGczu3QCgjGTRd) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 4:02 |
 | 137 | [West Keys](https://open.spotify.com/track/6RCMhSNNCmCaYoAnTCMwFn) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 3:04 |
 | 138 | [The Freshman](https://open.spotify.com/track/3xjszbOcOwKwpuKyAwIkU9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 2:39 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 219 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 220 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1OTYyMzAsMDAwMDAwMDA4YTk4MzgyODljZGM2NTc3MWVkZDZmODI5OWE4ZmE1Yg==`
+Snapshot ID: `Mjc1OTc2NzAsMDAwMDAwMDA3YWYyMDJiN2M2ODExNzIzMDNjMDE1YzQ4ODNmZDM0MQ==`

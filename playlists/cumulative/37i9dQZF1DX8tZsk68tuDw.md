@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Moore Kismet.
 
-1,480 songs - 3 day 12 hr 37 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,481 songs - 3 day 12 hr 40 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-01-28 | 2022-03-12 |
 | [Beat Freak \(ft\. lau.ra\)](https://open.spotify.com/track/4C2ohxfUodwGkMN67lxGbs) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Beat Freak \(ft\. lau.ra\)](https://open.spotify.com/album/0P4SStuw8AYCIx2CTp80jF) | 3:34 | 2021-04-03 | 2021-06-26 |
 | [Beauty Sleep](https://open.spotify.com/track/4Gq2ikHCdv7v2Wfvb7Z8Ns) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Beauty Sleep](https://open.spotify.com/album/6BBZr8znUbUEna9nOCeYWF) | 3:18 | 2021-01-29 | 2021-03-06 |
+| [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2022-06-21 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-21 | 2022-04-02 |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2021-09-01 | 2021-09-04 |
 | [Believer](https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Believer](https://open.spotify.com/album/7viE6ghVokRusMmJKuEBqC) | 3:14 | 2021-04-17 | 2021-06-05 |
@@ -514,7 +515,7 @@
 | [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2020-10-13\* | 2021-01-01 |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-19 | 2021-05-08 |
 | [Give It 2 Em \- Remix](https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [DJ TBoogie](https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz) | [Give It 2 Em \(Remix\)](https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK) | 2:00 | 2021-04-17 | 2021-06-19 |
-| [Give It to Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-06-17 |  |
+| [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-06-17 |  |
 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 | 2021-12-24 | 2022-01-01 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-04-11 | 2022-04-12 |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2021-11-13 | 2022-01-29 |

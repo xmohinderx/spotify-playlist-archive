@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-50 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
+51 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,12 @@
 | [TRANSFORMAR \~トランスフォーマー\~](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 | 2021-10-07 |  |
 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 | 2021-10-07 |  |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/2CN6Ku8RAJc14d4BbkD5rk) | [らんま1/2](https://open.spotify.com/artist/50h5fygfWtNlFN4FrddJCd) | [らんま1/2 おか持ち特選\~猫飯店メニュー・ソング\~](https://open.spotify.com/album/0dRu0BUHGRswjKwqoQtRlk) | 1:40 | 2021-10-07 |  |
+| [だいすきシンバ](https://open.spotify.com/track/1I1FRDNHyVHWFNCg3Ill9Y) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [だいすきシンバ](https://open.spotify.com/album/2eal8rVg8qsXHqnxqitfdY) | 3:19 | 2022-06-21 |  |
 | [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2021-10-07 |  |
 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 | 2021-10-07 |  |
 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 | 2021-10-07 |  |
 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 | 2021-10-07 |  |
-| [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/track/28ACIDtyN78mOR0sx8PoAn) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/album/1oxQkwYrG93I53Y8yfcNZ8) | 4:05 | 2021-10-07 |  |
+| [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/track/28ACIDtyN78mOR0sx8PoAn) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/album/1oxQkwYrG93I53Y8yfcNZ8) | 4:05 | 2021-10-07 | 2022-06-22 |
 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 | 2021-10-07 |  |
 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 | 2021-10-07 |  |
 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 | 2021-10-07 |  |

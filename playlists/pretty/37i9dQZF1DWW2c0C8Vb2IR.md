@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Yuto Kanazawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,915 likes - 54 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,956 likes - 54 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 14 | [a path to bliss](https://open.spotify.com/track/3kbuCQdWh7IVhlO50gkkRd) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [a path to bliss](https://open.spotify.com/album/5ONXMbfoYV4kY9Rihy8upZ) | 4:41 |
 | 15 | [Intrigue](https://open.spotify.com/track/7EJ0aHKnQHGpZX9MUGRuQZ) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Intrigue](https://open.spotify.com/album/23IbC5tPasCb239xGjuTQB) | 5:32 |
 | 16 | [Arrows](https://open.spotify.com/track/19JudMh7z6HFLiXKAUK5K7) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0), [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7), [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO), [Tao Ehrlich](https://open.spotify.com/artist/7LcYAos4LMZ9VNAlh2Kcyq) | [Arrows](https://open.spotify.com/album/0wG8wEDQxtgmRQF3oBJjrw) | 3:54 |
-| 17 | [Ruff Stuff](https://open.spotify.com/track/50pOeDIE20XV1tWDBuSviy) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Niels Guffi Pallesen](https://open.spotify.com/artist/4abK8Vr4bGKLv8D4jlybRP) | [Ruff Stuff](https://open.spotify.com/album/2E9vLW0nzGi4lEnq02TA4i) | 4:04 |
+| 17 | [Ruff Stuff](https://open.spotify.com/track/50pOeDIE20XV1tWDBuSviy) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Niels Guffi Pallesen](https://open.spotify.com/artist/4abK8Vr4bGKLv8D4jlybRP) | [Ruff Stuff](https://open.spotify.com/album/2E9vLW0nzGi4lEnq02TA4i) | 4:12 |
 | 18 | [Waiting for Ezra Pt.3](https://open.spotify.com/track/4oce4tyPQLn0YGX5CySKw7) | [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [May 20th](https://open.spotify.com/album/1Mla0CAMqCpNxzYSgbWMQt) | 2:13 |
 | 19 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 |
 | 20 | [Strange Times](https://open.spotify.com/track/2qXGNdB8IJq3JX1SgIA8oi) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN), [Matatronix](https://open.spotify.com/artist/19VU5HaMUtXUTalAGIuqtw) | [Strange Times](https://open.spotify.com/album/7A8te8zdWaHSd2trq0OqWY) | 2:30 |

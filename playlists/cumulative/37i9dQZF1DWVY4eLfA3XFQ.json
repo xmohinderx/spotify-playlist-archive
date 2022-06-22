@@ -1370,6 +1370,28 @@
     },
     {
       "album": {
+        "name": "Chiquetere",
+        "url": "https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        },
+        {
+          "name": "Rafa Villalba",
+          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163488,
+      "name": "Chiquetere (feat. Rafa Villalba)",
+      "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
+    },
+    {
+      "album": {
         "name": "Chromatic",
         "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
       },
@@ -2925,7 +2947,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 145920,
       "name": "FIND ME IN DA CLUB !!!",
       "url": "https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN"

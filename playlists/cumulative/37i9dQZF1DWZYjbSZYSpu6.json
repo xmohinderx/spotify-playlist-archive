@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 215386,
       "name": "Be Your Enemy",
       "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 204613,
       "name": "Beautiful Mint Life",
       "url": "https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 212338,
       "name": "Blanket (feat. Wonstein)",
       "url": "https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 190700,
       "name": "Cheese In The Trap (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/3g5OvwknrbqgOuCsi7z5Ap"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 243106,
       "name": "Dawn do that",
       "url": "https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 331124,
       "name": "Doesn't make sense (Feat. HEIZE)",
       "url": "https://open.spotify.com/track/6mkOBtJkloqzGVLoVciaCt"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Dream Attic",
       "url": "https://open.spotify.com/track/1FQW5ctU2wWoqbSdE6yQNH"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 253026,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/7ddmG3PNQF11IHpw26Medb"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 207706,
       "name": "First Love Two",
       "url": "https://open.spotify.com/track/0WLVjvta2gELFIN5mqSFpa"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 275253,
       "name": "Flower (With Kim Minseok of Melomance)",
       "url": "https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 202342,
       "name": "Hello Tutorial",
       "url": "https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ"
@@ -1203,10 +1203,32 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 228226,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG"
+    },
+    {
+      "album": {
+        "name": "If you",
+        "url": "https://open.spotify.com/album/0DVCOtmbtxUv3QSWICjMGh"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208063,
+      "name": "If you",
+      "url": "https://open.spotify.com/track/3eI9KvkP7tziljPl0pOhDG"
     },
     {
       "album": {
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
@@ -1665,7 +1687,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 259866,
       "name": "Loveship",
       "url": "https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Mayday (Feat. Joy)",
       "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU"
@@ -1819,7 +1841,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 249464,
       "name": "MYSELF (feat. george) (prod. APRO)",
       "url": "https://open.spotify.com/track/0NsOzFVBBphYwa0Qb5pLYu"
@@ -1907,7 +1929,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 263765,
       "name": "Rainy Season (feat. Han All)",
       "url": "https://open.spotify.com/track/0Nzep4V4BeWp2hI9hrQ1g3"
@@ -2233,7 +2255,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/3CPUiZgVUQrKdZtjkzf9U6"
@@ -2361,7 +2383,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 281066,
       "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1"
@@ -2383,7 +2405,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 219390,
       "name": "SoulMate (feat. IU)",
       "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
@@ -2709,7 +2731,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 178966,
       "name": "Tea time (Feat. 10CM)",
       "url": "https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq"
@@ -2731,7 +2753,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 215203,
       "name": "Tear drops",
       "url": "https://open.spotify.com/track/3ldLaJODjBgbUKKssJleqS"
@@ -2841,7 +2863,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 252448,
       "name": "The Sea with Stars (Feat. Hailey Jeong)",
       "url": "https://open.spotify.com/track/7pEMEaMHoFkt60BPWVKWC0"
@@ -3095,7 +3117,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 224684,
       "name": "Under The Moon-light \uc6b0\ub9b0 \ub098\ub780\ud788 \uc549\uc544",
       "url": "https://open.spotify.com/track/769mRD2opGFL5s5sbXqRlC"
@@ -3289,7 +3311,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 210533,
       "name": "Why (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/0877whPAoQZIQw1u0r7YgM"
@@ -3307,7 +3329,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 232194,
       "name": "WINE (Feat.Changmo)(Prod. by SUGA)",
       "url": "https://open.spotify.com/track/2WnJKDk2OlzrTL9OFsKDMW"

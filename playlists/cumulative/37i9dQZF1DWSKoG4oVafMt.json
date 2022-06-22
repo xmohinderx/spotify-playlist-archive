@@ -1536,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Faasley",
+        "url": "https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn"
+      },
+      "artists": [
+        {
+          "name": "Hazoor",
+          "url": "https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204877,
+      "name": "Faasley",
+      "url": "https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m"
+    },
+    {
+      "album": {
         "name": "Faraar",
         "url": "https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF"
       },

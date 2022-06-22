@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,875 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,914 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Sobran Motivos](https://open.spotify.com/track/3VjnYQbAVQLXbiR9gf1qnD) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Sobran Motivos](https://open.spotify.com/album/1XBhgrD9hTQXz53QxkwQxh) | 4:00 |
 | 23 | [Tú y yo](https://open.spotify.com/track/0cUp7d3a6DHzAuSKBn1NZJ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tú y yo](https://open.spotify.com/album/5To3JjtIkghGay545iV2wf) | 2:43 |
 | 24 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 |
-| 25 | [Pelinegra](https://open.spotify.com/track/6eo81f0hY7dux8UDTDJFza) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Pelinegra](https://open.spotify.com/album/7DswlTHQBXLJg5fFkSdUSq) | 3:30 |
+| 25 | [Pelinegra](https://open.spotify.com/track/6eo81f0hY7dux8UDTDJFza) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Pelinegra](https://open.spotify.com/album/7DswlTHQBXLJg5fFkSdUSq) | 3:28 |
 | 26 | [AYER](https://open.spotify.com/track/1hyaFynpH3bUlMaTeMNsjO) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 3:04 |
 | 27 | [El Que Come Callao \- Remix](https://open.spotify.com/track/2IruSYx1j9Rksd7TBhwSFA) | [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Josh Milli](https://open.spotify.com/artist/3fndEtcwxV80TlJ82LXuGM), [Milo K](https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi), [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq), [Yuno Music](https://open.spotify.com/artist/1Tdw8QBDJmltfrsUpxAE63) | [El Que Come Callao \(Remix\)](https://open.spotify.com/album/3l2FQXAG9cXXaDvE9uWKQd) | 5:04 |
 | 28 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |

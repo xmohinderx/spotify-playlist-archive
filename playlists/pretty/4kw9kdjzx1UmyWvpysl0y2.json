@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128448,
+  "num_followers": 128455,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ3Nyw1ZGYyYzNhMDNlMTk2YmZjMjQ0YzU5YjBkNzdlZDIyYjY1Y2QxNGM2",
+  "snapshot_id": "MzQ4MCxkMTIyOWYwZWMyN2E4ZTM5NTIzYTcwYjVjOWE1NDZkMTBiMmJjYWUx",
   "tracks": [
+    {
+      "added_at": "2022-06-21 17:01:21",
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU"
+      },
+      "artists": [
+        {
+          "name": "Saxsquatch",
+          "url": "https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl"
+    },
     {
       "added_at": "2022-06-20 16:58:24",
       "album": {
@@ -1083,38 +1099,6 @@
       "duration_ms": 254000,
       "name": "In My Hands",
       "url": "https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV"
-    },
-    {
-      "added_at": "2022-04-12 16:03:10",
-      "album": {
-        "name": "BXU",
-        "url": "https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns"
-    },
-    {
-      "added_at": "2022-04-11 15:40:58",
-      "album": {
-        "name": "BXU",
-        "url": "https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cage",
-      "url": "https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

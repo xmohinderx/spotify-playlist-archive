@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain](/playlists/plain/37i9dQZF1DX5UTavgI6ivn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5UTavgI6ivn)
 
-### [Dale play a tu voto](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
+### [Made In Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Este mensaje se lee “on repeat”: Vota, vota, vota\. ¡Dale play a tu voto!
+> Representando la cultura con orgullo\. Representing with pride! Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,321 likes - 95 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,444 likes - 95 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 94 | [Alguien Robo](https://open.spotify.com/track/7gpccT9M7V3NGWDlxKVQzt) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Alguien Robó](https://open.spotify.com/album/4jpkMYMmAmPCKuVz2c6b8v) | 3:43 |
 | 95 | [La Invité a Bailar](https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP) | 4:02 |
 
-Snapshot ID: `MTY1NTQ5ODQzOCwwMDAwMDA5MjAwMDAwMTgxNzM2NTc3ZGMwMDAwMDE4MTczNjNjNjRh`
+Snapshot ID: `MTY1NTgzNzc1NSwwMDAwMDA5MzAwMDAwMTgxODc5ZjA5NTYwMDAwMDE4MTg3OWVhZDlh`

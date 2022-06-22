@@ -4,7 +4,7 @@
 
 > 
 
-643 songs - 1 day 19 hr 13 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+647 songs - 1 day 19 hr 31 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Here Goes Nothing](https://open.spotify.com/track/19Dp9tQofP3u1aQ5MHHm1E) | [Amnion](https://open.spotify.com/artist/2GocyFcr5rF8ryuIetcA91) | [AmenNamO](https://open.spotify.com/album/4ogcKlFxK4MPuOLv9xd9zL) | 4:38 | 2020-02-19 |  |
 | [Heresy](https://open.spotify.com/track/0xVErSyw96YDLsjtNNpZJf) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 3:54 | 2019-08-19 |  |
 | [Hey Now \- 2005 Remaster](https://open.spotify.com/track/7lC0o1o2cNBKuhHdXns4F2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories \(Deluxe Version\)](https://open.spotify.com/album/4LiLg6t10oOw8csXA1CQ0Y) | 3:41 | 2019-12-31 |  |
+| [Hey Now! \- Remastered](https://open.spotify.com/track/4FDEDR99kqoGZOV88Wpnpg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:41 | 2022-06-21 |  |
 | [Himalayan](https://open.spotify.com/track/48BgFn4cJ6iuqFTiUYwNvv) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 3:14 | 2020-01-25 |  |
 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/2as9DMML3RYe4uGiBpTvEm) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/6n5vLBsUWD0ryjsEfBBEmT) | 3:10 | 2020-05-02 |  |
 | [House A Home](https://open.spotify.com/track/4Ns6gYn4weTsNuChLT96Yx) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Whiskey For The Holy Ghost](https://open.spotify.com/album/4i16jVfcnBj0s0wVRYLWfs) | 3:06 | 2020-09-20 |  |
@@ -356,6 +357,7 @@
 | [My Name Is Ruin](https://open.spotify.com/track/2KPewERHYuJsAZAMmuJTKB) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [Savage \(Songs from a Broken World\)](https://open.spotify.com/album/3kMfsD07Q32HRWKRrpcexr) | 6:17 | 2019-04-03 |  |
 | [Natural](https://open.spotify.com/track/0X8U0GRxTbcgjc6TnEYO5G) | [N0V3L](https://open.spotify.com/artist/7hB25IiKPmhATGtFwDbylS) | [Novel](https://open.spotify.com/album/43miHe9N1IYDSm4wmJps0R) | 2:15 | 2020-01-03 |  |
 | [Nausea](https://open.spotify.com/track/2k8TkPeInwscYUqrFRoaDP) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Information](https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF) | 2:53 | 2020-01-27 |  |
+| [Near Wild Heaven](https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:19 | 2022-06-21 |  |
 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 | 2020-09-08 |  |
 | [Never as Tired as When I'm Waking Up](https://open.spotify.com/track/7gTMsKyhm6vuUWoxRaFpsJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:49 | 2020-01-19 |  |
 | [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2020-07-27 |  |
@@ -394,6 +396,7 @@
 | [One of Us](https://open.spotify.com/track/6qeFKhT0Khb9ySbb5pNYT5) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:25 | 2019-10-04 |  |
 | [Only](https://open.spotify.com/track/0m1DJ5Jkv3kdnGrcZsJFmC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:23 | 2020-03-07 |  |
 | [Only Child](https://open.spotify.com/track/5sN6T2PtafVYVH5DmEn7ar) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:41 | 2019-06-27 |  |
+| [Open The Floodgates](https://open.spotify.com/track/5xqKA0qQQwprSERzubZk2n) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:29 | 2022-06-21 |  |
 | [Organ Farmer](https://open.spotify.com/track/3iWIDz7QNa8OiMb1XXrF6r) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Organ Farmer](https://open.spotify.com/album/2ayiDrHYNnN4b702ez950O) | 2:39 | 2019-07-02 |  |
 | [Out In The World](https://open.spotify.com/track/3QYqOxisrV4roMW0yimlaL) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/2cnAK2QpRIWKXcYR7s6uuO) | 3:56 | 2020-06-01 |  |
 | [Out of Time](https://open.spotify.com/track/4JMEhtQ4qQ5mwN7eTLpDpG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Think Tank](https://open.spotify.com/album/0egRXi9lcYlIGJZ01SpYM3) | 3:53 | 2020-02-11 |  |
@@ -455,6 +458,7 @@
 | [Self\-Immolate](https://open.spotify.com/track/1nFqtmhG07LiNfgxGWBaQA) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Self\-Immolate](https://open.spotify.com/album/3DUjrtRsgPmFQ9JjevUcAH) | 4:28 | 2019-06-02 |  |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2020-09-22 |  |
 | [Serve The Servants](https://open.spotify.com/track/5aOwFdqFvIj4HYvgClYzqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:37 | 2020-04-06 |  |
+| [Seven Days](https://open.spotify.com/track/2Wmm4aEFUISjdmVuy7VGL0) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:38 | 2022-06-21 |  |
 | [Seven Days](https://open.spotify.com/track/0gZbixi81nr2DAVXt64gyx) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Best Of 25 Years \(Deluxe Edition\)](https://open.spotify.com/album/2uJ8025SQAtl8JrkxR1adP) | 4:39 | 2020-05-21 |  |
 | [Seven Nation Army](https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS) | 3:51 | 2020-07-14 |  |
 | [Shake It Up](https://open.spotify.com/track/5OWokvF4QOqMDQ8ByQsm6V) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 3:35 | 2019-12-24 |  |

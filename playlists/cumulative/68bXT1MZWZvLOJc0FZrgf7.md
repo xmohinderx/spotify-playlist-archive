@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Party Favor &amp; Lil Gnaur
 
-156 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+157 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Backbeat \(Frank Walker Remix\)](https://open.spotify.com/track/4ocxtli5UeVPPdSUQ8k3xf) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Backbeat \(Frank Walker Remix\)](https://open.spotify.com/album/6C9jSVxJdeU4eHXBt3oMIL) | 3:08 | 2022-06-03 |  |
 | [Belong](https://open.spotify.com/track/16r237EWrd13q7QDT1yA97) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Belong](https://open.spotify.com/album/3u26kQbNrbEK72BjFABSlf) | 3:26 | 2022-06-03 |  |
 | [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 | 2022-06-03 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Break The Same](https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Break The Same](https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ) | 3:16 | 2022-06-03 |  |
 | [Breakout \(feat\. LaMeduza\)](https://open.spotify.com/track/1gyUWnRt5qvq0pqgvTzHKI) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Breakout](https://open.spotify.com/album/1xdx9pFQ67KSJ2fCpsF3qz) | 4:29 | 2022-06-03 |  |
 | [Bringing Me Back \(feat\. Rosie Darling\)](https://open.spotify.com/track/0wj3Kfwb3AnYJ7Dc9YGIDY) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bringing Me Back \(feat\. Rosie Darling\)](https://open.spotify.com/album/7Hqvaswo0b3gVHavCpOaIu) | 2:59 | 2022-06-03 |  |

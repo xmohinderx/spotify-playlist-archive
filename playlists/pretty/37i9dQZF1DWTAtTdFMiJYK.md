@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,442 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,532 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 |
 | 75 | [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 |
 
-Snapshot ID: `MTY1NTc3MzM3OCwwMDAwMDAwMDBhMmUyZDZmYThjNDhiYTczYzQxY2JhZTgwYTA4OTc0`
+Snapshot ID: `MTY1NTg2MDI4OCwwMDAwMDAwMDBhMmUyZDZmYThjNDhiYTczYzQxY2JhZTgwYTA4OTc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 314,292 likes - 126 songs - 7 hr 16 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 314,261 likes - 127 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,15 +124,16 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 114 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 115 | [El Teke Teke](https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [El Teke Teke](https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao) | 2:57 |
 | 116 | [Tainted Love](https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Tainted Love](https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T) | 3:21 |
-| 117 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 |
-| 118 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
-| 119 | [Remind Me \- Luca Schreiner Remix](https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Remind Me \(Luca Schreiner Remix\)](https://open.spotify.com/album/0p5Z673mFZaPOXyLzqdYIV) | 3:40 |
-| 120 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
-| 121 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
-| 122 | [In the Clouds](https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [In the Clouds](https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD) | 3:32 |
-| 123 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
-| 124 | [Good People](https://open.spotify.com/track/5laxwV7CX3DUiDIkJ8FAGv) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:43 |
-| 125 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 |
-| 126 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 |
+| 117 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
+| 118 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 |
+| 119 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
+| 120 | [Remind Me \- Luca Schreiner Remix](https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Remind Me \(Luca Schreiner Remix\)](https://open.spotify.com/album/0p5Z673mFZaPOXyLzqdYIV) | 3:40 |
+| 121 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
+| 122 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
+| 123 | [In the Clouds](https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [In the Clouds](https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD) | 3:32 |
+| 124 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
+| 125 | [Good People](https://open.spotify.com/track/5laxwV7CX3DUiDIkJ8FAGv) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:43 |
+| 126 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 |
+| 127 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 |
 
-Snapshot ID: `MzA1NSw1NGRjMzc3NTQ3NDM4NzJmNWY3NTg2NmY1YmQ2OTg4ZTE4NWZjNGM3`
+Snapshot ID: `MzA1OSw4YzhiNzViZDQ1NDliYjIzMmJiOGUwZDVjYTQ4OTlkZWY1ODZhNmJl`

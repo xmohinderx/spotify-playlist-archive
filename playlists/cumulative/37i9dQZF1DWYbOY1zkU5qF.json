@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "De Mi Casa a Tu Casa",
+        "url": "https://open.spotify.com/album/0uj0B6KT8EQXyIoH56vdfI"
+      },
+      "artists": [
+        {
+          "name": "Arturo Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/7gMYCjQzaud2cHaGuQWq51"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183901,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/37XhyUITsqjbDHYPRKW1IV"
+    },
+    {
+      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 284332,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 263500,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 172935,
       "name": "Con El Tiempo - Ac\u00fastica",
       "url": "https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 210136,
       "name": "Con la miel en los labios",
       "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 173661,
       "name": "La Noche De Anoche",
       "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 206993,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Sali\u00f3 el Sol",
       "url": "https://open.spotify.com/track/79bcr7W4FFq44aQpusEx18"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Son\u0303e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 223977,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/3JMEouhHvg9PmepzeRks1C"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 110580,
       "name": "Vaina loca",
       "url": "https://open.spotify.com/track/5hWNpIhfIWozucVH85I0WX"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 231500,
       "name": "Y Co\u0301mo Es E\u0301l?",
       "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"

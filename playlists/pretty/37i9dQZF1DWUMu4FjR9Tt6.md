@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,103 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,172 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

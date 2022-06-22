@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,129 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,154 likes - 55 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [٪ الف](https://open.spotify.com/track/3BDipuLlBQzjPJiMS5lrdF) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [٪ الف](https://open.spotify.com/album/53clXxawrkTOuQvDQxUsp7) | 3:01 |
-| 2 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 |
+| 1 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 |
+| 2 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 |
 | 3 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 |
 | 4 | [Ma Khaleek Tetshamat](https://open.spotify.com/track/7MBUSkkQlELJVysEKeAvbI) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ma Khaleek Tetshamat](https://open.spotify.com/album/2ftYkVKUmulxBXxWoCcENz) | 3:23 |
 | 5 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 54 | [Taal Nteer](https://open.spotify.com/track/6Zry9g2l8WFpoX83Lky6sq) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN), [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Taal Nteer](https://open.spotify.com/album/75rhxEVGf6zhVpWV8tZ7JE) | 4:20 |
 | 55 | [Allah Shahid](https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Allah Shahid](https://open.spotify.com/album/5oIMyoc9iYzGFemCMxoIcR) | 4:19 |
 
-Snapshot ID: `MTY1NTcyNTk0OCwwMDAwMDEyZjAwMDAwMTgxODBmNGZlNGMwMDAwMDE4MTI5OGY1YTYy`
+Snapshot ID: `MTY1NTgwNzE2NCwwMDAwMDEzMDAwMDAwMTgxODVjYzQyMmYwMDAwMDE4MTI5OGY1YTYy`

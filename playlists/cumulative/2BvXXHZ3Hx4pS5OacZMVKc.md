@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-147 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+148 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/track/1S9aNHUvvJQKADcGwidLXO) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU), [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp), [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/album/5icEcceQagZKlAUei5A1IZ) | 4:45 | 2022-02-03 |  |
 | [Into The Light](https://open.spotify.com/track/7r4D1V8MXRtWY4jgGMZzS4) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Into The Light](https://open.spotify.com/album/7FXH7q0kiPMpzQX4JrUYgJ) | 2:27 | 2022-02-03 |  |
 | [Into The Wild](https://open.spotify.com/track/6XJnMQBwnsyADKmYxkI0PW) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [ARCANA](https://open.spotify.com/artist/5TFSful1I8dL9EdpYlsSKc) | [Into The Wild](https://open.spotify.com/album/7gsaMticaQi7bQWGiKM7JA) | 2:53 | 2022-02-03 |  |
+| [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
 | [Left Me Blind](https://open.spotify.com/track/0ZXez5k07IUuihbR6xfFOp) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [VØNH](https://open.spotify.com/artist/3nhrNgCYhDD8CBBXMMfOmX), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Left Me Blind](https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa) | 3:32 | 2022-02-03 |  |
 | [Legacy](https://open.spotify.com/track/5DQGSJOG1JUchaZBd4zaie) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Legacy](https://open.spotify.com/album/5210iXJgapheYbxuz2pGxk) | 2:39 | 2022-02-03 |  |
 | [Let Me Go](https://open.spotify.com/track/0cHPVbLV0pfOgridbUjt3f) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Let Me Go](https://open.spotify.com/album/2oTdGhBXY6j7uVXjKnKyyh) | 2:40 | 2022-02-03 |  |

@@ -4,14 +4,14 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-406 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+407 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2020-10-13 | 2021-08-28 |
 | [11 Hours \- Branchez Remix](https://open.spotify.com/track/1BzdE75pSHlsqF2roxxEWk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [11 Hours \(Branchez Remix\)](https://open.spotify.com/album/2KfzSqGSQ6LGZqbSdRJZlV) | 2:36 | 2019-09-05\* | 2021-03-19 |
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-04-24 | 2021-05-15 |
-| [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2022-05-20 |  |
+| [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2022-05-20 | 2022-06-22 |
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-05-28 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-09-05\* |  |
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-06 | 2022-03-05 |
@@ -64,6 +64,7 @@
 | [Body Of Water](https://open.spotify.com/track/3t3nRJMR8dvWySXrgGUpyD) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Pop?](https://open.spotify.com/album/36IWTKTouQV9aExZzuG6sP) | 3:08 | 2021-12-11 | 2022-01-06 |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2020-04-10 | 2022-02-12 |
 | [Boulevard](https://open.spotify.com/track/56HZzvkgu1dG5AsSQmfEsR) | [Swaine Delgado](https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof) | [Boulevard](https://open.spotify.com/album/7ppS0jMQ89YJZFtp7WLyGH) | 2:57 | 2020-10-24 | 2021-08-28 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Burn](https://open.spotify.com/track/4F1wRJpj3i83yf7FBTo1W7) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Burn](https://open.spotify.com/album/2g7jupNy4Q9MYIxEyPtjtE) | 3:13 | 2019-09-05\* | 2020-04-10 |
 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2019-09-05\* | 2020-04-10 |
 | [Butterflies](https://open.spotify.com/track/3qOcLXQaamgc5R7pDQKQQp) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/1LbZK7uYkOT7V4Ru6wguCq) | 2:56 | 2020-05-08 | 2022-05-20 |

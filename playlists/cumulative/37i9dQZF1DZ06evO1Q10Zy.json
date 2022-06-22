@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299413,
+      "name": "Fire And Rain",
+      "url": "https://open.spotify.com/track/1EHQIcvBr0kwsWYvVqUMG9"
+    },
+    {
+      "album": {
         "name": "For The Cool In You",
         "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
       },
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 257600,
       "name": "Please Come To Boston",
       "url": "https://open.spotify.com/track/11AtoxiDXb1lJaplZEKxx3"

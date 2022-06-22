@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,466 likes - 118 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,531 likes - 118 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 30 | [Doping](https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw) | [DOPE90](https://open.spotify.com/artist/5PvSb8IlXP6e2rX6Pwoj8u), [Kovsh](https://open.spotify.com/artist/08g5Q6KdzrLJsXxoZzqDmB) | [Sputnik](https://open.spotify.com/album/7osdfCoxMwonsdCbZKSgf3) | 3:08 |
 | 31 | [Just Visiting](https://open.spotify.com/track/0dGgdtd0Y5JyPaOPDna8VE) | [Mtbrd](https://open.spotify.com/artist/6vXJ4kIg2HlqsSfX3S1RHV), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Just Visiting](https://open.spotify.com/album/1tGG3bDpld3wlMsVqJlpPX) | 1:58 |
 | 32 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 |
-| 33 | [Different Type Of Vibeo](https://open.spotify.com/track/2AtkeDMPxlvnUSSaVnZ5MX) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [21' Til Infinity](https://open.spotify.com/album/5aYhSXuC10dgFaRDw6MrEQ) | 3:12 |
+| 33 | [Different Type Of Vibe](https://open.spotify.com/track/2AtkeDMPxlvnUSSaVnZ5MX) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [21' Til Infinity](https://open.spotify.com/album/5aYhSXuC10dgFaRDw6MrEQ) | 3:12 |
 | 34 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 | 35 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 |
 | 36 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 |

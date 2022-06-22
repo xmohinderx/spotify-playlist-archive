@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Saucy Santana
 
-370 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+371 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 | 2022-01-28 | 2022-02-26 |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2021-12-31 | 2022-03-05 |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2022-01-07 | 2022-04-29 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 4:35 | 2022-03-25 | 2022-04-16 |
 | [Broken](https://open.spotify.com/track/13F6f6z3sDjylX4yvkT8RK) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [Broken](https://open.spotify.com/album/05uikDByDo2DzZ3kBvBZ2p) | 2:03 | 2021-12-31 | 2022-02-12 |
 | [But I Don'T](https://open.spotify.com/track/0mhS4w3sej2kpvDuAhiZeq) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/1Bn9N9uVpL48gFXmwpgSsS) | 2:17 | 2021-12-31 | 2022-04-16 |
@@ -194,7 +195,7 @@
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2021-12-31 | 2022-01-15 |
 | [Letting Go](https://open.spotify.com/track/73UjiaN8rt0l2WMLbmPdUy) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Far Too Many Thoughts](https://open.spotify.com/album/5slgqVUQazuaVK3nJMYwt4) | 3:53 | 2021-12-31 | 2022-02-26 |
 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 | 2022-05-27 |  |
-| [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-21 |  |
+| [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-21 | 2022-06-22 |
 | [Like a Song](https://open.spotify.com/track/7okTYWZ414gXGNFi8vTuVh) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Like a Song](https://open.spotify.com/album/2GHtbtiB5eMh31qBFUSzbW) | 2:53 | 2022-05-06 |  |
 | [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 | 2021-12-31 |  |
 | [Little Dance](https://open.spotify.com/track/1v8v6lusXvZxmgacuQIr0I) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/1i2ML0QMz0wU8GygKDzHdh) | 4:04 | 2022-02-25 |  |

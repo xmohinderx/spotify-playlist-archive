@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 208306,
       "name": "3 Crow",
       "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 190229,
       "name": "Answers (Acoustic)",
       "url": "https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 211259,
       "name": "charades",
       "url": "https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V"
@@ -784,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/7Ms7gALrFXxia5Y6qagsYJ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "I Could've Been Your Lover Too",
+      "url": "https://open.spotify.com/track/28o9xWhJmUWFO9VVg4bpvE"
+    },
+    {
+      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 194413,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 280986,
       "name": "Putting on Airs",
       "url": "https://open.spotify.com/track/08HL66o1xVAxrQkdUkMb7D"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181880,
       "name": "Save This Heart",
       "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 145361,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 216415,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 238613,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1GCaFVVu91KMxEiUXoStt9"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 286114,
       "name": "Woman - Acoustic",
       "url": "https://open.spotify.com/track/1SUcWLKoSDGBGK7ywEddi6"

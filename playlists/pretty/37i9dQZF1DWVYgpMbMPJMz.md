@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Black Voices Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,097 likes - 96 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,084 likes - 96 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-121 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+122 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Belmethl](https://open.spotify.com/track/0Ad46USTFLwOe2D4Rwqeue) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Belmethl](https://open.spotify.com/album/4PqHIDZW2fnepJ1kUVMfqP) | 3:25 | 2021-12-23 | 2022-03-02 |
 | [Chabihi](https://open.spotify.com/track/1WDXQ8wUtiWd2gX6MUTpUR) | [Hassan Al Ahmed](https://open.spotify.com/artist/4U837cFteUqtzDuE6CjAaQ) | [Chabihi](https://open.spotify.com/album/0WQDBzymEFA4DN63V8f5hc) | 4:11 | 2022-06-02 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-23 | 2022-06-04 |
+| [Daddy](https://open.spotify.com/track/2QHwXZqmG2lzY1QK5sIwYl) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49) | [Daddy](https://open.spotify.com/album/4jymGyGNnttvMVCDgwqLcm) | 2:47 | 2022-06-21 |  |
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2021-12-23 | 2022-03-12 |
 | [Dammit 3Eni](https://open.spotify.com/track/3qRN0sUxQpc7aZeygHfEwM) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Dammit 3Eni](https://open.spotify.com/album/6p1qe7JdxijyO3meOg3X78) | 3:37 | 2022-01-01 | 2022-06-10 |
 | [Dawlat Ghram](https://open.spotify.com/track/4f5dUf1tjB2M8XYGvZzJtA) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dawlat Ghram](https://open.spotify.com/album/2eNvzuRYgHRdT8DtwlsCIQ) | 5:01 | 2022-02-11 | 2022-06-03 |

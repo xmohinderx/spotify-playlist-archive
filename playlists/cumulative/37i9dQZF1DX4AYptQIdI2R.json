@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
+    },
+    {
+      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
       },

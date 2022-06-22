@@ -4,7 +4,7 @@
 
 > The resurgence is real\. Cover: Cautious Clay
 
-519 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+520 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,9 +292,10 @@
 | [lowlife \- with kenny beats](https://open.spotify.com/track/0YANHO32xutrmLQA6JvYlq) | [dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [lowlife \(with kenny beats\)](https://open.spotify.com/album/2OC02zRmsQv7XjvCoOUkjn) | 2:23 | 2021-09-17 | 2022-04-15 |
 | [Lucky](https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/7C5FxYoWzNaZg01isi7CA9) | 4:03 | 2022-06-10 |  |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-02-11 | 2022-04-14 |
+| [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-06-21 |  |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-01 |  |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-02 | 2022-06-09 |
-| [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 |  |
+| [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-06-22 |
 | [Mall Goths](https://open.spotify.com/track/5Zupw5HZsfcW4fcOIyE9dm) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Mall Goths](https://open.spotify.com/album/037MzXYKJtot4R9yL67ora) | 2:17 | 2021-08-20 | 2021-12-30 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-06-07 | 2022-04-27 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-06-07 | 2022-06-11 |

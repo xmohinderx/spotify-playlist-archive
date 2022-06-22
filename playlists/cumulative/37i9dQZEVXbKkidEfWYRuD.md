@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-731 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+732 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [liga la sosa](https://open.spotify.com/track/33MgQyqDdQjhBBrm7rGGVb) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 1:52 | 2021-08-15 | 2021-08-17 |
 | [LIPSI HA](https://open.spotify.com/track/1D4ptfeNRLRWu52uzIXW5d) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [LIPSI HA](https://open.spotify.com/album/4wkPIWpRZtBEUUJeChuqVc) | 2:01 | 2021-09-12 | 2021-11-21 |
 | [LIPSI HA](https://open.spotify.com/track/54ZhPL5soHKDxg9a5wizPv) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:01 | 2021-11-21 | 2022-01-06 |
+| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-21 |  |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-20 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Mama Makusa](https://open.spotify.com/track/6h2f5GrfpXo6eZCxUdzvF2) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:52 | 2021-10-23 | 2022-01-24 |
@@ -713,7 +714,7 @@
 | [Чувствую](https://open.spotify.com/track/6bxulgo5iAC3yK1haIXWhJ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:35 | 2021-12-03 | 2021-12-09 |
 | [Чупа Чупс](https://open.spotify.com/track/5UtiZpBDi7Ikgic4QrhbO5) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Чупа Чупс](https://open.spotify.com/album/0uNDcaG1JjXrknJUKRNtqb) | 2:16 | 2021-12-25 | 2021-12-27 |
 | [ЧЁРНЫЙ БУМЕР](https://open.spotify.com/track/0UbepzIf8xGtqFxk3udMNn) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:37 | 2021-05-22 | 2021-05-30 |
-| [шо ви браття](https://open.spotify.com/track/0cCXLN9eUn6dmAgDPpZaJV) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [шо ви браття](https://open.spotify.com/album/3xZQsGdatxnbYG1WIxUhbH) | 2:04 | 2022-03-10 |  |
+| [шо ви браття](https://open.spotify.com/track/0cCXLN9eUn6dmAgDPpZaJV) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [шо ви браття](https://open.spotify.com/album/3xZQsGdatxnbYG1WIxUhbH) | 2:04 | 2022-03-10 | 2022-06-22 |
 | [ШОПЛИФТЕР](https://open.spotify.com/track/0T5ulWVxXfpkq2gI5SHXPe) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c), [FEARMUCH](https://open.spotify.com/artist/0dYPNZqAPGnHiFTTy7qMxL), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 3:20 | 2022-02-19 | 2022-02-21 |
 | [ШОПЛИФТЕР](https://open.spotify.com/track/3lx2dHPS44NhqKkncoeQ5F) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c), [FEARMUCH](https://open.spotify.com/artist/0dYPNZqAPGnHiFTTy7qMxL), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [ШОПЛИФТЕР](https://open.spotify.com/album/3TWinVf7b3TPHtfPPGdMoe) | 3:20 | 2022-02-12 | 2022-02-15 |
 | [ШОРТ ЛАВ](https://open.spotify.com/track/7p144Ta4kpKOUwalUZNIvf) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [ШОРТ ЛАВ](https://open.spotify.com/album/7sZxutN3eLVXnykQlxjrUq) | 2:00 | 2021-08-22 | 2021-08-25 |

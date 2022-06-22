@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,056 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,150 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 7 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 |
 | 8 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 |
 | 9 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 |
-| 10 | [Ça Y Est](https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ça Y Est](https://open.spotify.com/album/0tVYqwsUb9qtzBsMEYpCjB) | 2:44 |
+| 10 | [Ça Y Est](https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ça Y Est](https://open.spotify.com/album/0tVYqwsUb9qtzBsMEYpCjB) | 2:48 |
 | 11 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 |
 | 12 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 |
 | 13 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |

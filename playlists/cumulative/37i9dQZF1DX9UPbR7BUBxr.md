@@ -2,7 +2,7 @@
 
 ### [PAUSE: Productivity](https://open.spotify.com/playlist/37i9dQZF1DX9UPbR7BUBxr)
 
-> Songs and episodes to help you be productive and find that work/pause balance\. Co\-curation: Varun Duggirala
+> Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
 68 songs - 2 hr 54 min - not published yet
 

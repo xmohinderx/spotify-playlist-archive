@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 170133,
       "name": "(I'm Your) Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
+    },
+    {
+      "album": {
         "name": "From Dusk Till Dawn - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/1Fcl4xWU6qGvkJ45lg3TfK"
       },
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 202627,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 190185,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/1bMCiGzKRJwmYkxtSBsTSM"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"

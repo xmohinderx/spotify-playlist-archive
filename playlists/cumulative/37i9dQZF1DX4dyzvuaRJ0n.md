@@ -4,7 +4,7 @@
 
 > The world's biggest dance hits\. Featuring music from Kabza De Small, Drake, TSHA, Alok, Ellen Eyre, Kenny Dope & Never Dull and more!
 
-284 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/2lDweGgvQhwyQi5R55ct4Y)
+285 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/2lDweGgvQhwyQi5R55ct4Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Better](https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Better](https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel) | 3:33 | 2022-06-10 |  |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(Loving Arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2021-12-17 | 2022-01-15 |
 | [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-05-27 |  |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2021-12-17 | 2022-01-29 |
 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 | 2021-12-17 | 2022-03-12 |

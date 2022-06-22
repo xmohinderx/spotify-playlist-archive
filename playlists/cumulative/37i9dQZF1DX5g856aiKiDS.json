@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "20th century peoples",
+        "url": "https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217164,
+      "name": "20th century peoples",
+      "url": "https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9"
+    },
+    {
+      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0"
       },
@@ -179,7 +201,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181054,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6ZfBdeyXWs5E3hpdL0WhzW"
@@ -299,7 +321,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/6P2x7vn7m1Ywp3dYKRM45Q"
@@ -503,7 +525,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -663,7 +685,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 223933,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE"
@@ -685,7 +707,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -867,7 +889,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 260000,
       "name": "FRIDAY NIGHTS (with bottle gods)",
       "url": "https://open.spotify.com/track/1GreV6Av42dDCL3HZogPwy"
@@ -947,7 +969,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 168491,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4eNbLN9Hara5j8WgE6SOo3"
@@ -1495,7 +1517,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 200000,
       "name": "lost in you",
       "url": "https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA"
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ"
@@ -1767,7 +1789,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 194143,
       "name": "My Violet and My Blue",
       "url": "https://open.spotify.com/track/1WoNUbJc0wZ7NKcwzI5lgg"
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 232653,
       "name": "Paint on Spring",
       "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
@@ -2081,7 +2103,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 195560,
       "name": "Playlist (feat. Jiselle)",
       "url": "https://open.spotify.com/track/6YexNwqp5f8jX2Rmex0Qn7"
@@ -2317,7 +2339,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 269722,
       "name": "Snow in Seoul",
       "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
@@ -2335,7 +2357,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 216252,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1HOJ7ZN0t1zeqdWLMK0ptr"
@@ -2543,7 +2565,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 239400,
       "name": "Summer Love (feat. Verbal Jint, Basick)",
       "url": "https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 199606,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc"
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -2769,7 +2791,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 205421,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J"
@@ -2795,7 +2817,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 243157,
       "name": "time to be with you",
       "url": "https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG"
@@ -2959,7 +2981,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 254133,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/6CgqbaPJVedaZpeZsYEHSt"
@@ -3075,7 +3097,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 175714,
       "name": "When I See You (feat. Jimmy Brown)",
       "url": "https://open.spotify.com/track/1pqPzcxmGr25rZJvy74YjC"

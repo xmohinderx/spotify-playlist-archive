@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Nathan Dawe, Ella Henderson
 
-597 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+598 songs - 1 day 7 hr 11 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BOYSHIT](https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [BOYSHIT](https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp) | 2:40 | 2020-12-11 | 2021-02-19 |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2021-10-09 | 2021-12-11 |
 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 | 2021-01-15 | 2021-12-24 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 | 2021-09-18 | 2021-12-11 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2020-10-13\* | 2021-02-12 |
 | [Bridges](https://open.spotify.com/track/3hVIqp30WKdFEqlD8qJFEV) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bridges](https://open.spotify.com/album/0R6Q7uTHABCsPag3LMRILX) | 3:04 | 2020-10-13\* | 2020-10-23 |

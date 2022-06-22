@@ -4,10 +4,11 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-256 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+257 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#MJOM – Marana Janana Once More \(From "Thurthu Nirgamana"\)](https://open.spotify.com/track/3cKYLuAbW8FEjD2V7OIDVb) | [Dossmode](https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i), [Pooja Rao](https://open.spotify.com/artist/6VngqEcZilQLW9DSLl10dS) | [\#MJOM – Marana Janana Once More \(From "Thurthu Nirgamana"\)](https://open.spotify.com/album/4n30LKd6L6R37XSWRhpBgf) | 3:11 | 2022-06-21 |  |
 | [Aa Bramhanemba \(From "Wheel Chair Romeo"\)](https://open.spotify.com/track/3mNa7vI8whybiymObhPAY6) | [Mehboob Saab](https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl), [Bharath B J](https://open.spotify.com/artist/5aC35gTD6yYxnKmRtbgR3d) | [Aa Bramhanemba \(From "Wheel Chair Romeo"\)](https://open.spotify.com/album/6lcY6xcCG6chtTdM9rCzvw) | 4:31 | 2022-05-24 |  |
 | [Aalisu Tayee \(From "Marakkar \- Lion Of The Arabian Sea \(Kannada\)"\)](https://open.spotify.com/track/4fiO044Dru17NJK2cSIYIy) | [Ronnie Raphael](https://open.spotify.com/artist/0de21hsTsnpfWS6cTDRhhe), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Reshma Raghavendra](https://open.spotify.com/artist/21xKQ7hy4lVVcHAjbYWBot) | [Aalisu Tayee \(From "Marakkar \- Lion Of The Arabian Sea \(Kannada\)"\)](https://open.spotify.com/album/2nBw4JOxo6vzKk4w5lHUsd) | 3:34 | 2021-12-06 | 2022-02-03 |
 | [Aane Maadi Heluteeni](https://open.spotify.com/track/7DJuyVnRq0xs140ysznQu6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Guru Shishyaru](https://open.spotify.com/album/3dftKIfkSLE9XK8OyZOv9S) | 4:25 | 2022-06-17 |  |

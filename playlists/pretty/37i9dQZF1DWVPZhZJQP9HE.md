@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,369 likes - 91 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,401 likes - 91 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 7 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 |
 | 8 | [Un Ninaivugal \- From "In Your Memories"](https://open.spotify.com/track/3ysjboigvFM7UKnDKPlm1D) | [Theeson](https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC), [A Pa Raja](https://open.spotify.com/artist/0yl8I0igWYBaHNsBHyccqm) | [Un Ninaivugal \(From "In Your Memories"\)](https://open.spotify.com/album/5ke4a8a48giAbmzFJU0oOg) | 4:29 |
 | 9 | [Bandaid](https://open.spotify.com/track/3UQt4q2ewvcmpA4C95SO0s) | [Akash Rapstar](https://open.spotify.com/artist/4LPgkuqq513xgsAHQZoEsE), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Bandaid](https://open.spotify.com/album/5GRbMklkEaJY3cKjmjPnR1) | 2:52 |
-| 10 | [Minnal Polave](https://open.spotify.com/track/5vqH79NmO1FjhzbOZu5tD1) | [Ashwin Johnson](https://open.spotify.com/artist/0O8rN1UPk7BfdSF6mfnSk8), [Santoshini Sekar](https://open.spotify.com/artist/1G6uktHPGhXMco97F1sxQs) | [Minnal Polave](https://open.spotify.com/album/2B068dCnpieQekbTlD1kl7) | 2:49 |
+| 10 | [Minnal Polave](https://open.spotify.com/track/5vqH79NmO1FjhzbOZu5tD1) | [Ashwin Johnson](https://open.spotify.com/artist/0O8rN1UPk7BfdSF6mfnSk8), [Santhosini Sekar](https://open.spotify.com/artist/5RkdXIsUPRtIMFK4o3AXuA) | [Minnal Polave](https://open.spotify.com/album/2B068dCnpieQekbTlD1kl7) | 2:49 |
 | 11 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 |
 | 12 | [Jenmam Niraindhathu \- Naatpadu Theral \- 2](https://open.spotify.com/track/0YuLriSsTsu2SGzXw6mubg) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Jenmam Niraindhathu \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/1Eyi5zWgSuVNWeRsbojyB6) | 8:24 |
 | 13 | [Adiye Agalvizhiye](https://open.spotify.com/track/0thiJnUuAP9G2TlZL9UTRW) | [S.D.Sadikh Hassan](https://open.spotify.com/artist/5WwXNl9tjuWWjdOtCZiwye), [Yuvan Murugan](https://open.spotify.com/artist/0PY0HrnlOHqWQ7jsMfJexC) | [Adiye Agalvizhiye](https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32) | 4:53 |

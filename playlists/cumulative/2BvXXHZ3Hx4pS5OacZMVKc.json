@@ -1330,6 +1330,32 @@
     },
     {
       "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj"
+      },
+      "artists": [
+        {
+          "name": "Almost Weekend",
+          "url": "https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O"
+        },
+        {
+          "name": "Max Vermeulen",
+          "url": "https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w"
+        },
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV"
+    },
+    {
+      "album": {
         "name": "Left Me Blind",
         "url": "https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa"
       },

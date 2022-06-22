@@ -546,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Sonic Apothecary",
+        "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
+      },
+      "artists": [
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
+    },
+    {
+      "album": {
         "name": "Island II",
         "url": "https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l"
       },

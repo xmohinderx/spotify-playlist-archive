@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,171 likes - 47 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,288 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 20 | [Collateral Damage](https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:17 |
 | 21 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 |
 | 22 | [JA ARA E](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:10 |
-| 23 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
+| 23 | [Rock Your Body](https://open.spotify.com/track/4LbEUmACVAFj8e0WrMUdlN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:41 |
 | 24 | [Secret \(feat\. Jeremih & Serani\)](https://open.spotify.com/track/3KSnA0j67IFkiwmEotMGin) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:23 |
 | 25 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 |
-| 26 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
-| 27 | [Rock Your Body](https://open.spotify.com/track/4LbEUmACVAFj8e0WrMUdlN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:41 |
+| 26 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
+| 27 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
 | 28 | [Pree Me](https://open.spotify.com/track/6g8A0XVikKuWbcJv7p2I5Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pree Me](https://open.spotify.com/album/43FqJMK4CBZv6YutODuaE3) | 3:20 |
-| 29 | [Odogwu](https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Odogwu](https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA) | 3:05 |
-| 30 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 |
-| 31 | [More Life](https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 1:32 |
+| 29 | [More Life](https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 1:32 |
+| 30 | [Odogwu](https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Odogwu](https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA) | 3:05 |
+| 31 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 |
 | 32 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
-| 33 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
-| 34 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
-| 35 | [Calm Down](https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 4:25 |
+| 33 | [Calm Down](https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 4:25 |
+| 34 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
+| 35 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 36 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 |
 | 37 | [Donne\-moi l’accord](https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:06 |
 | 38 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 46 | [Gwarn](https://open.spotify.com/track/0tyxItDX02rgv4wXimjIoE) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Gwarn](https://open.spotify.com/album/4u6gpYry8aAkgGqYnoXFwf) | 4:01 |
 | 47 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 |
 
-Snapshot ID: `Mjc1OTU1NDUsMDAwMDAwMDBkNzk4ZWRjODVmNGIwNjE2ODVkZWVjMTYyOGFkNTljYw==`
+Snapshot ID: `Mjc1OTY5OTEsMDAwMDAwMDAxNjg2NjgwNzI0OGQ1MTZhNTM0MTIxZTZmOWQ4ZTExZg==`

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-87 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+88 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 |  |
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 |  |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-05-28 |  |
-| [Move The Soul](https://open.spotify.com/track/06lPpnaKh64CEQ5hXqqQNo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Move The Soul](https://open.spotify.com/album/18MU560yUVxVIjZ2bZVcmi) | 3:32 | 2022-05-28 |  |
+| [Move The Soul](https://open.spotify.com/track/06lPpnaKh64CEQ5hXqqQNo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Move The Soul](https://open.spotify.com/album/18MU560yUVxVIjZ2bZVcmi) | 3:32 | 2022-05-28 | 2022-06-22 |
 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 | 2022-05-28 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-28 |  |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 |  |
@@ -86,6 +86,7 @@
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 |  |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 |  |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 |  |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 |  |
 | [腕塚](https://open.spotify.com/track/0JAdB9U6meFetLWHmqG3RA) | [犬王\(CV:アヴちゃん\)](https://open.spotify.com/artist/7ywWY3GidvDeixGiFLdYZW) | [腕塚](https://open.spotify.com/album/4ogusjG9KOOJP0XS56YdoL) | 5:35 | 2022-05-28 |  |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-05-28 |  |

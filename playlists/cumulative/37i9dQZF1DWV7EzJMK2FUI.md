@@ -4,7 +4,7 @@
 
 > Soft Jazz for all your activities.
 
-299 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
+306 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Choral](https://open.spotify.com/track/33nGcprbXLa3RrWS3BnKtV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Effortless Directions](https://open.spotify.com/album/0I31GQwscZUsGHQv653JHa) | 2:33 | 2022-01-17 |  |
 | [City Morning Views](https://open.spotify.com/track/2fUmBPjqtxx9V6dF3CVGk8) | [Carrie Carlton Quartet](https://open.spotify.com/artist/1OCZIvbtTZEb26s3MDIxRG) | [City Morning Views](https://open.spotify.com/album/15uAA6uYsCFT8qln2cPELk) | 3:11 | 2022-01-17 |  |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-01-17 |  |
+| [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-06-21 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-04-11 |  |
 | [Closer Together](https://open.spotify.com/track/2gDD4mcubDaaPamwHNc1lc) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Paris in the Rain](https://open.spotify.com/album/02n3H8PMcmrFzjgvG5cUc2) | 3:26 | 2022-01-17 |  |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-06-14 |  |
@@ -82,6 +83,7 @@
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2022-01-17 |  |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-05-09 |  |
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2022-01-17 |  |
+| [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-21 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 2:41 | 2022-01-17 |  |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-01-17 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-01-17 |  |
@@ -102,6 +104,7 @@
 | [Goodbye Mr\. Evans](https://open.spotify.com/track/508fsu9SwC0ZaTlr8cWYTL) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 9:38 | 2022-01-17 |  |
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-01-17 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-05-24 |  |
+| [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-21 |  |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-25 |  |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2022-01-17 | 2022-03-17 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-05-31 |  |
@@ -156,6 +159,7 @@
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-01-17 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2022-01-17 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-05-31 |  |
+| [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-06-21 |  |
 | [Like Someone in Love](https://open.spotify.com/track/1p3hY7tPdrThCuXtFXCKG7) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Like Someone in Love](https://open.spotify.com/album/7InaTkdgWcexr7kSmGFv0w) | 3:35 | 2022-01-17 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-01-17 | 2022-04-26 |
 | [Lithe](https://open.spotify.com/track/6Ow1x2Z9OvuQHE6iRqmZJG) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Lithe](https://open.spotify.com/album/3kxCez0DkWqVsD3eXFwv7P) | 3:48 | 2022-06-14 |  |
@@ -226,10 +230,12 @@
 | [Roses](https://open.spotify.com/track/3rHZHXHKsjvJJPgBiQMmQR) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Roses](https://open.spotify.com/album/0UeANj4WzvJQmhb509bqmL) | 4:11 | 2022-01-17 |  |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-05-31 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-01-17 |  |
+| [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-21 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-04-11 |  |
 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2022-01-17 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-01-17 |  |
+| [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-21 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-01-17 |  |
 | [Skylark](https://open.spotify.com/track/45uUsc9TX693ldNPmqoa8d) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Skylark](https://open.spotify.com/album/2GgNwCoPK747pxmDfB6FhL) | 3:09 | 2022-01-17 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-01-17 |  |
@@ -269,6 +275,7 @@
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-01-17 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-04-25 |  |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-01-17 |  |
+| [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-21 |  |
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2022-01-17 |  |
 | [To See a Flower](https://open.spotify.com/track/5wQ0V1GJByFSa74FqYBADD) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [To See a Flower](https://open.spotify.com/album/2FHOguRDA6SNkRZrpkn5Ol) | 3:23 | 2022-01-17 |  |
 | [Train Of Thought](https://open.spotify.com/track/6zXwV1kawSu3bxtUKkxhiP) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 2:43 | 2022-05-09 |  |

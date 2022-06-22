@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-102 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+103 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Festa em 4 Rodas](https://open.spotify.com/track/2d2njiAeylPU4vhSe35J7C) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Lakost](https://open.spotify.com/artist/3GJTGb7EwLTnV9EIFOLsic), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [Festa em 4 Rodas](https://open.spotify.com/album/1ZLjmOti4547ALMx2hVqIw) | 2:46 | 2022-05-26 |  |
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2022-05-26 |  |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-05-26 |  |
-| [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-26 |  |
+| [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-26 | 2022-06-22 |
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2022-05-26 |  |
 | [Hoje Eu Brotei no Baile da Parô](https://open.spotify.com/track/5U4YFZlyho2l0kO41VWqbL) | [DJ CIRILO DE CAXIAS](https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN), [Mc Leon](https://open.spotify.com/artist/1PPdy8eAqUw8WwQw5jb4Gd) | [Hoje Eu Brotei no Baile da Parô](https://open.spotify.com/album/6WbEbUssofV6apXFc74XVD) | 2:39 | 2022-05-26 |  |
 | [Hoje Eu Quero Perereca no Morro do Sapo](https://open.spotify.com/track/0rEAn1rQzQ3SzK46LfQAbm) | [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1) | [Hoje Eu Quero Perereca no Morro do Sapo](https://open.spotify.com/album/3kJ9R85S336L7eTpbBvlTZ) | 2:17 | 2022-05-26 |  |
@@ -79,6 +79,7 @@
 | [No Lie](https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:41 | 2022-05-26 |  |
 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2022-05-26 |  |
 | [Novinha Malada do Insta](https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Novinha Malada do Insta](https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj) | 1:47 | 2022-05-26 |  |
+| [O Poder Dessa Garota](https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP) | 2:16 | 2022-06-21 |  |
 | [ONDA DO BERIMBAU](https://open.spotify.com/track/7ypX1KnSLOXVykk0PnlUfV) | [dj eduardo da favela do pó](https://open.spotify.com/artist/0p95FDRp7XInSoqMSzu7G0), [MC MENOR MT](https://open.spotify.com/artist/3PmeaztIZK8SxIPsv6bQdI) | [ONDA DO BERIMBAU](https://open.spotify.com/album/5SEGtDxPUrAIbegNhKHljb) | 2:38 | 2022-05-26 |  |
 | [Pandora](https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pandora](https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC) | 2:57 | 2022-05-26 |  |
 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-68 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6X8ndrQOY4J5GaSSbdpL1O)
+69 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6X8ndrQOY4J5GaSSbdpL1O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Grey Cloud Lullaby](https://open.spotify.com/track/6BZJrLiwv4p3uKHgXaSg5q) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Slow Meadow](https://open.spotify.com/album/0GX9uyTZ3BWNFMooi9J50Y) | 4:34 | 2021-11-09 |  |
 | [Hymn](https://open.spotify.com/track/4f6gLxR8DHTkZgpMXOnSnf) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd) | [Karl Jenkins: Piano](https://open.spotify.com/album/1kLnHuICm2pxisUfiiTED1) | 2:32 | 2021-11-09 |  |
 | [Impromptu, No\. 1](https://open.spotify.com/track/0n64jayPuTWrRP8EewJ6bJ) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Two Impromptus](https://open.spotify.com/album/4B3xYFlGSx7Bp9PAIgYdfc) | 3:26 | 2021-11-09 | 2022-02-01 |
+| [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-06-21 |  |
 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 | 2022-02-21 |  |
 | [Jeux d'enfants, Op\. 22 WD 56: 3\. La poupée](https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Bizet: Jeux d'enfants / Fauré: Dolly Suite / Ravel: Ma Mère l'oye](https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE) | 2:22 | 2021-11-09 |  |
 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/50VVlZROGaROAwNqAMxA6B) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Ivan Moravec](https://open.spotify.com/artist/0ErTQOJGOd7prKFdmsLxh7), [Václav Neumann](https://open.spotify.com/artist/5tQs2q4OYuqqHL2a5u4B61), [Czech Philharmonic Orchestra](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Schumann: Piano Concerto, Franck: Symphonic Variations](https://open.spotify.com/album/7uPHJJRca9UAjViepO1iTx) | 3:06 | 2021-11-09 |  |

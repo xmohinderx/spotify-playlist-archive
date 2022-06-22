@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-928 songs - 2 day 7 hr 14 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+929 songs - 2 day 7 hr 16 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [I Wanna Know](https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [I Wanna Know](https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6) | 4:00 | 2019-08-09\* | 2019-08-27 |
 | [I Wanna Know You](https://open.spotify.com/track/3VnDqI4usrXZF2eTJIx2cs) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl) | [I Wanna Know You](https://open.spotify.com/album/2ffilf8YVYOptj1XNcxnPD) | 2:41 | 2019-08-09\* | 2020-03-29 |
 | [I Want Love \(with Two Feet\)](https://open.spotify.com/track/2ybp2K0VO9sbtGFCfO8tp1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [I Want Love \(with Two Feet\)](https://open.spotify.com/album/3L4jzi6zI0ZaV3DBhecaYI) | 3:14 | 2021-02-12 | 2022-05-14 |
+| [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2022-06-21 |  |
 | [I Will Be A Lion \(feat\. Jake Reese\)](https://open.spotify.com/track/2Q2TgzJaT051Anozo48K5L) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Harmonica Andromeda](https://open.spotify.com/album/2nhAtXeLgszdlYmg5ynPFH) | 3:43 | 2021-03-27 | 2022-05-14 |
 | [I Will Play \(Vip Remix\)](https://open.spotify.com/track/7kUTGTLIDqjESL8DhXIIOb) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [I Will Play \(Vip Remix\)](https://open.spotify.com/album/0qKMHcfnFG0he1k5gwehuX) | 3:44 | 2019-08-31 | 2020-10-30 |
 | [I'll Be There](https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I'll Be There](https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN) | 3:13 | 2019-08-09\* | 2019-11-19 |

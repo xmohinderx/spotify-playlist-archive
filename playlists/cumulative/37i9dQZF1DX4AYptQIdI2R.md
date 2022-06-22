@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-127 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/0st0ceeC45OmEBrj3S6PIY)
+128 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/0st0ceeC45OmEBrj3S6PIY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [skyway](https://open.spotify.com/track/4b6WACfiB2h4SEXFWJdSXu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 3:37 | 2022-05-23 |  |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-23 |  |
 | [SPECIAL](https://open.spotify.com/track/3VTaSTJwPundWfQHw1jy4x) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:26 | 2022-05-23 |  |
+| [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 |  |
 | [Sunrise](https://open.spotify.com/track/5pvTepsiCPdcIzPngIm3D8) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:31 | 2022-05-23 |  |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-05-23 |  |
 | [Switch It Up \(feat\. sokodomo\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up \(feat\. sokodomo\) \[Prod\. Cha Cha Malone\]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 | 2022-05-23 |  |

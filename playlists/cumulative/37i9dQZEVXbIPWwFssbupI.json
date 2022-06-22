@@ -6020,6 +6020,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -7967,7 +7985,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 179426,
       "name": "La kiffance",
       "url": "https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe"
@@ -8039,7 +8057,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 151840,
       "name": "La Maxance",
       "url": "https://open.spotify.com/track/4QOJFimR0EQPF7bSiIyccl"
@@ -10061,7 +10079,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 198826,
       "name": "Mauvais dans le fond",
       "url": "https://open.spotify.com/track/6FnrzWjXugn6wkVzQw0RIv"
@@ -12073,7 +12091,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
@@ -14887,7 +14905,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 154280,
       "name": "TDB",
       "url": "https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD"

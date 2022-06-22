@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 345447,
       "name": "Attention Span Dub",
       "url": "https://open.spotify.com/track/0ijA161YVenpYKjl7ZH6MM"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 175690,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/4eltigMjLozvwo9mgbPn2b"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 195000,
       "name": "Califas",
       "url": "https://open.spotify.com/track/5doK3h4v26QUPSfipZJBuu"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 176759,
       "name": "Dancing On The Radio",
       "url": "https://open.spotify.com/track/0B5iOjvAs57ZQSJWoJ3zZ2"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 183694,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/0z420hy7N9l3zV0TVGvCiO"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 224807,
       "name": "Message to the World",
       "url": "https://open.spotify.com/track/3OUurzjheL7pC4TAYZdJ3d"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 195143,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/07qt4S3jLW6yIx5vNtRpvj"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181370,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf"
@@ -2175,6 +2175,24 @@
       "duration_ms": 208019,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F"
+    },
+    {
+      "album": {
+        "name": "Song to the Sun",
+        "url": "https://open.spotify.com/album/0UOyi7zOftKlGMd8gDkj6m"
+      },
+      "artists": [
+        {
+          "name": "Wheeland Brothers",
+          "url": "https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229129,
+      "name": "Song to the Sun",
+      "url": "https://open.spotify.com/track/5geotWRSYIMLZHSxGwWcvK"
     },
     {
       "album": {
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 198768,
       "name": "Words As Weapons",
       "url": "https://open.spotify.com/track/5bOo03qfadhiJz8yroH3aN"

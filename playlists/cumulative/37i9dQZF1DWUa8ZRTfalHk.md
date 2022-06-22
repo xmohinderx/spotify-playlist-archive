@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Marshmello & Khalid
 
-1,208 songs - 2 day 14 hr 26 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,209 songs - 2 day 14 hr 31 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-09-18 | 2021-11-06 |
 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 | 2021-01-08 | 2021-01-29 |
 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 | 2021-05-08 | 2021-06-05 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 | 2021-09-18 | 2021-10-16 |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2022-02-04 | 2022-02-26 |
 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 | 2021-02-06 | 2021-04-17 |

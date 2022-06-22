@@ -4,7 +4,7 @@
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-126 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/6a6o9IgsOC0ReR1sjDYBdq)
+127 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6a6o9IgsOC0ReR1sjDYBdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 | 2022-06-03 |  |
 | [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:50 | 2022-06-03 |  |
 | [Please Don't Go](https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:16 | 2022-06-03 |  |
+| [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-21 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-06-03 |  |
 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2022-06-03 |  |
 | [Remind Me \- Luca Schreiner Remix](https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Remind Me \(Luca Schreiner Remix\)](https://open.spotify.com/album/0p5Z673mFZaPOXyLzqdYIV) | 3:40 | 2022-06-03 |  |

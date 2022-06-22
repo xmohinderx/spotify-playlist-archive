@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 245160,
       "name": "Aire",
       "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 237213,
       "name": "Alma Negra",
       "url": "https://open.spotify.com/track/7tDhR4DkIf5qEmUyWhl6aj"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 265120,
       "name": "Ay\u00fadame",
       "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 174973,
       "name": "Cantarle a Ella",
       "url": "https://open.spotify.com/track/5fTPAo0UJxCEi9FHwmrnN1"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 169737,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4vDu0mEddDoqHpn6f6lMyh"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 206213,
       "name": "Dias de Ayer",
       "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 227853,
       "name": "Entre Cantina Y Cantina",
       "url": "https://open.spotify.com/track/7JGKCtGwKRGj70B3IQy0pp"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 214373,
       "name": "Es Para Ti",
       "url": "https://open.spotify.com/track/1vtCIsuXFMrquEEDyl4GCp"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 169493,
       "name": "Fuertemente",
       "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 278493,
       "name": "La Mancha",
       "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 187026,
       "name": "La Rosa",
       "url": "https://open.spotify.com/track/7mD2QbLHumThJs78Q8vrvm"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 190906,
       "name": "Las Cadenas",
       "url": "https://open.spotify.com/track/6VJYwVo6MDV4h8mNfTb61Q"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 212733,
       "name": "Le Pedir\u00e9",
       "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
@@ -1271,6 +1271,24 @@
       "duration_ms": 211146,
       "name": "Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "M\u00f3ntame",
+      "url": "https://open.spotify.com/track/53VUbDkrvHwAUzeSAUZlVT"
     },
     {
       "album": {
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 278546,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 225026,
       "name": "Perd\u00f3name - Cumbia",
       "url": "https://open.spotify.com/track/3iDPRvbrSqq6JV0fu9xtAF"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 223960,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Que Creias",
       "url": "https://open.spotify.com/track/4nz7tn3YJwgdsttB6PIIOb"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 193573,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/3C8NVyNQfAhxCfRyCEti5j"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 190200,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/6dZZ4nZ9pfvoZ6O7b2RZhA"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 228333,
       "name": "Soy Como Soy",
       "url": "https://open.spotify.com/track/7lW0rxqtEuDPtAa6jVPJqE"
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "Soy Un Novato",
       "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 214586,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/6141FXNkDLkERK3HcaCgYN"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 218640,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/7bHkADmhokpM5nIwkZYkbo"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 228040,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/6uwFq7V0QQEENpFHFpYX4z"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 254440,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"

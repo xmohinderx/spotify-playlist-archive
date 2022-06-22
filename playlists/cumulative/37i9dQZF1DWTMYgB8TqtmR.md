@@ -4,7 +4,7 @@
 
 > It's Hits \- bästa och största hitsen just nu.
 
-189 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+190 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-04-05 | 2022-05-07 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-18 | 2022-04-08 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-13 | 2022-04-29 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 | 2022-06-16 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-16 | 2022-01-21 |
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-02-17 | 2022-03-12 |
@@ -65,7 +66,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-02 | 2022-06-10 |
 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 | 2022-03-18 | 2022-04-01 |
-| [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 |  |
+| [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 | 2022-06-22 |
 | [Gråter om du vill](https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Gråter om du vill](https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW) | 3:48 | 2022-01-13 | 2022-05-14 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-11 | 2022-04-08 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-17 | 2022-04-15 |

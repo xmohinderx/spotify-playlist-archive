@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Certified Dripper",
+        "url": "https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "Certified Dripper",
+      "url": "https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/5JV8d2KR990xfaA6kz8vly"
       },

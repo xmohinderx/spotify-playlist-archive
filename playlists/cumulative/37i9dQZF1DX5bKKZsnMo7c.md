@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-116 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+117 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 |  |
 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7GsJB7Q1Tt1GD1V7v3d0iW) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 | 2022-05-17 |  |
 | [Goodbye](https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 4:09 | 2022-05-17 |  |
+| [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 |  |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 |  |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |

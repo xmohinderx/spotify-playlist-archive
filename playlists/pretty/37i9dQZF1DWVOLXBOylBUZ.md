@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Llane tiene el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,395 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,561 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 17 | [Agosto](https://open.spotify.com/track/0wihfILRNOwE2156Shezc8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:19 |
 | 18 | [Chimba](https://open.spotify.com/track/4QuVdLc0BmTOjvl2yq55t5) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:20 |
 | 19 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 |
-| 20 | [Pelinegra](https://open.spotify.com/track/6eo81f0hY7dux8UDTDJFza) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Pelinegra](https://open.spotify.com/album/7DswlTHQBXLJg5fFkSdUSq) | 3:30 |
+| 20 | [Pelinegra](https://open.spotify.com/track/6eo81f0hY7dux8UDTDJFza) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Pelinegra](https://open.spotify.com/album/7DswlTHQBXLJg5fFkSdUSq) | 3:28 |
 | 21 | [Location](https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Location](https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj) | 2:05 |
 | 22 | [Te Veré](https://open.spotify.com/track/3gyZIDqDlLNwf8ZLBNGuN2) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Te Veré](https://open.spotify.com/album/3XPw6l9HBd3cgPMzlkY3m6) | 3:05 |
 | 23 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 |

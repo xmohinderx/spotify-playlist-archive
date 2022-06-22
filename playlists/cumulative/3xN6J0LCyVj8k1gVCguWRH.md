@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,465 songs - 3 day 13 hr 22 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,468 songs - 3 day 13 hr 36 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [200 Years Early](https://open.spotify.com/track/1CuYQYXgruMUa4USBZqH5A) | [Loome](https://open.spotify.com/artist/5uacIDTlT52eDbiGbT1Le8) | [200 Years Early](https://open.spotify.com/album/7DFSQsc5uEL4tGkgykl6iA) | 3:48 | 2020-12-18 | 2021-01-03 |
 | [2021](https://open.spotify.com/track/7KeUoG0jp7YVUL7O6HdRKF) | [EMPOWER](https://open.spotify.com/artist/1F146KPN8Pt5RtF3GNmysb) | [2021](https://open.spotify.com/album/6vig6WnPEpY81sPGRunJW0) | 4:54 | 2021-01-08 | 2021-01-23 |
 | [27 Thousand Days](https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:40 | 2022-04-01 | 2022-04-17 |
+| [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-06-21 |  |
 | [2my Depression](https://open.spotify.com/track/2CPZjGln96P7gM1kwM5gu1) | [BIGLER](https://open.spotify.com/artist/7pIt5II3N96Xl5SCwSr745) | [2my Depression](https://open.spotify.com/album/1cmqWcTgNn9bAOVQ4bmdQP) | 3:19 | 2022-02-18 | 2022-04-30 |
 | [2nd Grade \(feat\. Prodéje & Mya M\)](https://open.spotify.com/track/19ZuNIf1vAm60zAhTNKKkQ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Mya M](https://open.spotify.com/artist/2cSY8Z9CCGFqTuWOBW6dJ6), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [2nd Grade](https://open.spotify.com/album/7woye7dZFDo9ClrMa8Uprg) | 2:40 | 2020-08-05 | 2020-08-20 |
 | [3 A.M.](https://open.spotify.com/track/6kUT8WGttXOPrEq6p4nlEF) | [Chloe & Nash](https://open.spotify.com/artist/3EPGq4jileGQtOHZmzrk3g) | [3 A.M.](https://open.spotify.com/album/0TDhZHUyVinsmb3LpfJWlv) | 4:26 | 2020-02-04 | 2020-02-11 |
@@ -195,6 +196,7 @@
 | [Break It Down](https://open.spotify.com/track/6bhTt1KoguY5Ys7LWTh3q0) | [ODILLIA](https://open.spotify.com/artist/3VNAuq8DCfvmhXNIYhrSEj), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Break It Down](https://open.spotify.com/album/6dK0HCwoMuPTEPrB3b5fMD) | 2:53 | 2020-12-17 | 2021-01-02 |
 | [Break Loose](https://open.spotify.com/track/4kDMpMjAb70X4wiLwLuGTh) | [Yolonda Troupe Smith](https://open.spotify.com/artist/6tfCKPh2s2T3QQoJyzUSa8) | [Break Loose](https://open.spotify.com/album/3QEMTeo81uEMNNGwOyzjXh) | 3:53 | 2019-12-05 | 2019-12-17 |
 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 | 2020-07-12 | 2020-08-20 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Breakaway](https://open.spotify.com/track/2o5TksOD6flI4NSbRDTKxP) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Breakaway / Everybody I Know Moved to L.A.](https://open.spotify.com/album/0S4eUD9HMuxSY3XAbRl8HQ) | 3:00 | 2022-03-30 | 2022-04-30 |
 | [Breakdown](https://open.spotify.com/track/6blrN5XkGv7ZlEylUBoAw8) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Breakdown](https://open.spotify.com/album/4mDONTCUj5zFGG69KWyF5e) | 3:42 | 2022-06-17 |  |
 | [Breaking Habits](https://open.spotify.com/track/2rzRHLCnRvtgzqoY2z4NGu) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Breaking Habits](https://open.spotify.com/album/1Qf51dSt3QbpxY3jigZMyI) | 4:57 | 2021-12-17 | 2022-01-07 |
@@ -819,6 +821,7 @@
 | [Maracujá](https://open.spotify.com/track/5nNfDIbkqaXE8Gdv6r96um) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD) | [Maracujá](https://open.spotify.com/album/7LnA8vbZg6PatV8CoMctQJ) | 2:44 | 2021-01-08 | 2021-01-23 |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/3MyoPEPdJbaIKRyuk8zTj2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Piano & A Microphone 1983](https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY) | 4:42 | 2021-08-28 | 2021-09-11 |
 | [Mary, Mary](https://open.spotify.com/track/4uDXW5l6Hrc6EfSrBQ6yTN) | [Ellis Paul](https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35) | [City of Silver Dreams](https://open.spotify.com/album/3sI0EFiLsEsDu2iifoceRX) | 3:21 | 2019-11-28 | 2019-12-11 |
+| [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-21 |  |
 | [Mastapiece](https://open.spotify.com/track/19eXUrp36r6CEDHWQESwjV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Mastapiece](https://open.spotify.com/album/3sVrGffE8YcDwpYOggsJwr) | 2:58 | 2020-09-02 | 2020-09-16 |
 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 | 2022-03-25 | 2022-04-10 |
 | [Maze](https://open.spotify.com/track/5NHEwfiv4tjbUrEO2LkWBj) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Maze](https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q) | 2:22 | 2020-08-20 | 2020-09-04 |

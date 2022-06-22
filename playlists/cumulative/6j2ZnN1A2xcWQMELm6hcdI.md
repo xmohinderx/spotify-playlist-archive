@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Yas Queen\. Cover: Chloë
 
-125 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
+126 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2022-06-03 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-06-03 |  |
 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 | 2022-06-03 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Call It A Fix \(So High\) \(feat\. VanJess\)](https://open.spotify.com/track/2JAjpZlAtLmenxOQ4MQQQE) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Songs From Scratch: Volume 1](https://open.spotify.com/album/0G7LZi2S7EXKvt53l9HnNN) | 1:23 | 2022-06-03 |  |
 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 | 2022-06-03 |  |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-06-03 |  |

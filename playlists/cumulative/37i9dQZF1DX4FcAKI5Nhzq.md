@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: THE BOYZ
+> Future K\-Pop hits! Cover: LOONA
 
-579 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+582 songs - 1 day 8 hr 33 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-01-12 | 2022-02-18 |
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2021-05-11 | 2021-06-25 |
 | [Criminal](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:31 | 2020-10-13\* | 2021-03-18 |
-| [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 |  |
+| [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-22 |
 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [Woosung](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 | 2021-12-13 | 2022-02-18 |
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-01-27 | 2021-03-01 |
 | [DADADA](https://open.spotify.com/track/7M3uNP8R8pedoK11D2K1iI) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:01 | 2021-04-22 | 2021-06-18 |
@@ -184,6 +184,7 @@
 | [FIRST](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Last Melody](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) | 3:32 | 2021-05-26 | 2021-08-25 |
 | [Flame](https://open.spotify.com/track/1n2oIAbEqbgX6eIxMcdj78) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO \- SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:14 | 2020-10-13\* | 2020-11-12 |
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2021-08-27 | 2021-09-18 |
+| [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-21 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-11-19 | 2022-01-04 |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2020-11-12 | 2021-04-22 |
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 | 2021-05-05 |
@@ -258,7 +259,7 @@
 | [INCEPTION](https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:30 | 2020-10-13\* | 2020-11-05 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-04-20 | 2021-07-01 |
 | [Intro : Seasons and Patterns](https://open.spotify.com/track/3sv8nv1aWmCRH0v3gVu9pl) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Blue Letter](https://open.spotify.com/album/3igW8KyqoRx5QCfTYJUeB9) | 2:06 | 2021-09-18 | 2021-10-06 |
-| [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 |  |
+| [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-06-22 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2021-08-27 | 2021-09-18 |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2021-10-06 | 2021-11-24 |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2021-03-31 | 2021-06-09 |
@@ -307,7 +308,7 @@
 | [MADE FOR TWO](https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [MADE FOR TWO](https://open.spotify.com/album/78MNrJUp3uHLX9DWS7YEjU) | 3:33 | 2020-10-13\* | 2020-11-16 |
 | [Madonna](https://open.spotify.com/track/4EhsQ3MCiCbdvHIcOZ4YKk) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Madonna](https://open.spotify.com/album/7vKfoQdDR2rj2S8jkVJf0s) | 2:51 | 2021-10-07 | 2021-11-19 |
 | [MAGO](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:19 | 2020-11-09 | 2021-03-01 |
-| [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-17 |  |
+| [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-17 | 2022-06-22 |
 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 | 2020-10-13\* | 2021-03-18 |
 | [Make it](https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [MUST](https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1) | 2:59 | 2021-07-01 | 2021-09-07 |
 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-01-19 | 2022-03-25 |
@@ -469,6 +470,7 @@
 | [Stupid Cool](https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Stupid Cool](https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN) | 2:58 | 2022-06-17 |  |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-06-02 |  |
 | [Sugar](https://open.spotify.com/track/4Tu4zn23F50xF0vq5FGzhW) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [2ND DESIRE \[TASTY\]](https://open.spotify.com/album/6kTFUtFLUxFQidclj616It) | 3:03 | 2021-02-10 | 2021-03-01 |
+| [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 |  |
 | [Sukhumvit Swimming](https://open.spotify.com/track/1qPSuxDxEWzLoi6WlLN7N1) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPIN OFF](https://open.spotify.com/album/6EcAokZ4I8tjPwy6sDq8di) | 3:04 | 2020-10-13\* | 2021-01-11 |
 | [Summer day summer night](https://open.spotify.com/track/7C9JbPpqtVK1tjMbDQR5EE) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 2:59 | 2020-10-13\* | 2020-11-05 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-08-14 | 2021-10-28 |
@@ -521,6 +523,7 @@
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-13 | 2022-02-18 |
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-04-08 | 2021-07-01 |
 | [Unthinkable](https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [LOCK UP](https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju) | 3:07 | 2021-12-13 | 2022-02-18 |
+| [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-21 |  |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-06-18 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |

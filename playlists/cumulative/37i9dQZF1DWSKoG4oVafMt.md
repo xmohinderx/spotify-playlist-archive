@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-360 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+361 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/track/4y7quCfMwPefnExRvymRJZ) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Atul Sharma](https://open.spotify.com/artist/3XogEyWUGyJGPSIjKuR2Qc) | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/album/6bF6K2aCqiPPn7BgMuKOCj) | 3:11 | 2022-05-04 | 2022-05-20 |
 | [Duur Duur](https://open.spotify.com/track/2mNo6XKxgVrwe9bragteLg) | [Manik Bhatheja](https://open.spotify.com/artist/2cTrrcxX0yWlBAQ3rOrUlo), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Duur Duur](https://open.spotify.com/album/7iXfaoRqgCrwwwQJUmhC8C) | 3:47 | 2022-02-15 | 2022-03-11 |
 | [Empty](https://open.spotify.com/track/4UhouRuvJ0FeITfLT3GkxQ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 4:12 | 2022-02-03 | 2022-04-06 |
+| [Faasley](https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m) | [Hazoor](https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo) | [Faasley](https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn) | 3:24 | 2022-06-21 |  |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |

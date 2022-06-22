@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Green Velvet.
 
-457 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+458 songs - 1 day 2 hr 45 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 | 2022-03-11 | 2022-06-04 |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2021-11-26 | 2022-04-23 |
 | [Chicago Gangsta](https://open.spotify.com/track/5RjWYXb8eJgaswm9GXTSQK) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Chicago Gangsta](https://open.spotify.com/album/46TOKEQIER2uMqWliTkY0g) | 5:22 | 2022-04-22 | 2022-05-07 |
+| [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-06-21 |  |
 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 | 2022-05-27 |  |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 |  |
 | [Club Demons](https://open.spotify.com/track/7MaxnWkqimNekK7nSm54rP) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Club Demons](https://open.spotify.com/album/2fk2M1mQyv0JYfoDY7Dv3t) | 3:52 | 2021-11-26 | 2022-01-06 |
@@ -149,7 +150,7 @@
 | [Feeling Good](https://open.spotify.com/track/6j77SbgjwYTDi30BHF5Zfo) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Feeling Good](https://open.spotify.com/album/2iyGBv1IEGAJomI2BXxrwI) | 3:58 | 2021-11-26 | 2022-04-23 |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-21 | 2022-06-18 |
 | [Fight Dirty](https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl) | 3:00 | 2021-11-26 | 2022-01-06 |
-| [FIND ME IN DA CLUB !!!](https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [FIND ME IN DA CLUB !!!](https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF) | 2:25 | 2022-04-13 |  |
+| [FIND ME IN DA CLUB !!!](https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [FIND ME IN DA CLUB !!!](https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF) | 2:25 | 2022-04-13 | 2022-06-22 |
 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 | 2022-05-13 |  |
 | [Free Your Mind](https://open.spotify.com/track/3LCmWRVsEDSwB4Q16Z3EYF) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Nick Francis](https://open.spotify.com/artist/4VQyjHVrLyfCrUQtOiNmh3) | [Free Your Mind](https://open.spotify.com/album/6JAhfai1CGXVzXo3REiSDG) | 2:57 | 2022-04-15 | 2022-06-11 |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |

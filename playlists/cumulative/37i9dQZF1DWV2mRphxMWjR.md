@@ -4,7 +4,7 @@
 
 > 8月6日公開<a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。The official playlist for "ONE PIECE FILM RED"\.  ©尾田栄一郎／2022「ワンピース」製作委員会
 
-17 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
+18 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,5 +25,6 @@
 | [夢見る頃を過ぎても](https://open.spotify.com/track/3AJFjE3EvPY8daYRK1JhsV) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [夢見る頃を過ぎても](https://open.spotify.com/album/3iBS6W3PHjN9MSU2nzkPsm) | 3:53 | 2022-06-08 |  |
 | [怒りをくれよ](https://open.spotify.com/track/2FXtYLpJKHEbtLuCDGpRrr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Next One](https://open.spotify.com/album/7e4Ohezjjyg28roi8wFxhZ) | 3:28 | 2022-06-08 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-08 |  |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

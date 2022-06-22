@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 170582,
       "name": "Beach Ain't One",
       "url": "https://open.spotify.com/track/0iqYoKISMUycYQ5BBSmSoj"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 180746,
       "name": "Beach Boys",
       "url": "https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 281453,
       "name": "Beat This Summer",
       "url": "https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 208826,
       "name": "Boat Names",
       "url": "https://open.spotify.com/track/3MZkNbMbr3mut3EN9JwnMe"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 175435,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 165493,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 230234,
       "name": "Coast",
       "url": "https://open.spotify.com/track/0mwmnzC58HlOGPmX82jKZs"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 170173,
       "name": "Happy Anywhere (feat. Gwen Stefani)",
       "url": "https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 258333,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 144997,
       "name": "Hooch",
       "url": "https://open.spotify.com/track/16zKFMyWWEy6eo0L1ez59R"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
@@ -1580,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
       },
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 187332,
       "name": "Long Time No Sea",
       "url": "https://open.spotify.com/track/24UpRR5wgaQkFWz6JWHUuD"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 250933,
       "name": "Margaritaville",
       "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 165966,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3Vzj3XBPoC4wHvuOR39jD0"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 185920,
       "name": "Pickin' Wildflowers",
       "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 175699,
       "name": "Salt, Lime & Tequila",
       "url": "https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 186680,
       "name": "Saltwater Gospel",
       "url": "https://open.spotify.com/track/3wlZNYZnhINy3xgQOuUhwO"
@@ -2089,6 +2107,24 @@
       "duration_ms": 190451,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/2VmccNZz4zFmlcXstY8a2D"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "album": {
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 204826,
       "name": "Some Beach",
       "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
@@ -2327,7 +2363,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 173316,
       "name": "Summer Better Than Others",
       "url": "https://open.spotify.com/track/2r0OzDhKbaijQAXBcHZwMH"
@@ -2363,7 +2399,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 196840,
       "name": "Summer Crazy",
       "url": "https://open.spotify.com/track/6wwOnGxMA7V4x8VoiqPcfz"
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 206946,
       "name": "Sunny and 75",
       "url": "https://open.spotify.com/track/1rGLPyb4LMojT4wpxiZTp8"
@@ -2525,7 +2561,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 182453,
       "name": "Ten Rounds with Jose Cuervo - Recall Mix",
       "url": "https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL"
@@ -2579,7 +2615,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 187053,
       "name": "Tequila Makes Her Clothes Fall Off",
       "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 184840,
       "name": "That Summer",
       "url": "https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx"
@@ -2869,7 +2905,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 228440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
@@ -2974,6 +3010,24 @@
     },
     {
       "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
@@ -3025,6 +3079,24 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Drake, Filipe Ret, Os Barões da Pisadinha e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,490 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,635 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [O Plug Sabe Quem Compra](https://open.spotify.com/track/2vWse7f6byA37vvd3CJk7V) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [O Plug Sabe Quem Compra](https://open.spotify.com/album/7JeHHL7anLsqoZMXLNL8SN) | 2:08 |
 | 98 | [Pensar em Você](https://open.spotify.com/track/1xUY8P1EzqbgizC7SoDhB2) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Pensar em Você](https://open.spotify.com/album/7fMfS8sAX4ag7bMzIsBtVP) | 2:06 |
 | 99 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 |
-| 100 | [Neblina](https://open.spotify.com/track/46ZHIqxcsLNpcEaOym5BDh) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Ashira](https://open.spotify.com/artist/2fYkQW5QLfgaaBhUA9u0kE) | [Neblina](https://open.spotify.com/album/5XKIHe3brY3LSB1067iw2L) | 2:45 |
+| 100 | [Neblina](https://open.spotify.com/track/46ZHIqxcsLNpcEaOym5BDh) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Neblina](https://open.spotify.com/album/5XKIHe3brY3LSB1067iw2L) | 2:45 |
 
 Snapshot ID: `MTY1NTQ0MTkwNSwwMDAwMDU2ZjAwMDAwMTgxNzAwNmQ2ZjQwMDAwMDE4MTcwMDY2YTdk`

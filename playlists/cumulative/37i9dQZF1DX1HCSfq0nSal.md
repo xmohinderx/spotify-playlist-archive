@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Rvfv
+> Si está pegao, está aquí\. Feat\. Ozuna, Tiago PZK
 
 162 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
 

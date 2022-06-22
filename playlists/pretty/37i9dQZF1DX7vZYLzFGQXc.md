@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: BÉBE YANA\(베이비 야나\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,042 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,051 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 7 | [Hold On](https://open.spotify.com/track/7ch0WVownlf3971uGCwJcv) | [Yumin](https://open.spotify.com/artist/7mpr6KFA3Ss5MDZA0cy6ve) | [Hold On](https://open.spotify.com/album/1Pwno5h3SQ06NiwZmxERh1) | 3:36 |
 | 8 | [Leave](https://open.spotify.com/track/4AmbGf0dfkPzPgBChdl4Sg) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Leave](https://open.spotify.com/album/1IoT9EPJG4bYJkdrMiAIHI) | 3:05 |
 | 9 | [Greetings rain](https://open.spotify.com/track/4ngEkVwwoXVioWGwla4NKX) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Greetings rain](https://open.spotify.com/album/4xC9UnFviL7DNmGzCBFRFv) | 3:57 |
-| 10 | [If We](https://open.spotify.com/track/0ENvpfEQxuRPAeppZ602oO) | [Jasin](https://open.spotify.com/artist/02WOn7pYDc6jURSAwzggBt) | [If We](https://open.spotify.com/album/1YX0AJd3Ws9Ws1aGdobvHH) | 3:52 |
+| 10 | [If We](https://open.spotify.com/track/0ENvpfEQxuRPAeppZ602oO) | [Jasin](https://open.spotify.com/artist/1BYFiDNQyKOMXX0EzGXr2B) | [If We](https://open.spotify.com/album/1YX0AJd3Ws9Ws1aGdobvHH) | 3:52 |
 | 11 | [Pop It \(feat\. Koonta\)](https://open.spotify.com/track/1cAmgjeeYnrXoRrwEr9Kjr) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:48 |
 | 12 | [I'm Finally a Ghost](https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ) | 2:55 |
 | 13 | [Miracle \(feat\. Nieah & sonza\) \(with TREASURE MAKER\)](https://open.spotify.com/track/4Fqy6hVJNzAH1FFl0HSQ3w) | [PEAXE MARKET](https://open.spotify.com/artist/1i7On8URmBgs8EPqgrhRae), [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw), [sonza](https://open.spotify.com/artist/69EFGR8J04D07wCif8lGyy), [TREASURE MAKER](https://open.spotify.com/artist/2TIwj5HPW3tKdefZMlsXWX) | [Miracle](https://open.spotify.com/album/6hblDcscw3QMHXdAYtCqlp) | 2:12 |

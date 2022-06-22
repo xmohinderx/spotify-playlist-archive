@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: TSHA
 
-219 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
+220 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BMW \- French The Kid, MIST, Bugzy Malone Remix](https://open.spotify.com/track/7MV3i1Ia1cUJ3wXjMtOMSN) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [BMW \(Remix\)](https://open.spotify.com/album/5LWxRfow1l7gADGfMBwI2S) | 4:41 | 2022-04-08 |  |
 | [Body Go](https://open.spotify.com/track/260huo9AgRV6OP4ySuPiBX) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Body Go](https://open.spotify.com/album/3lEHezN4wcJWAJ8XB5cDqx) | 2:36 | 2022-03-08 | 2022-03-10 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-01-14 | 2022-03-10 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-03-04 | 2022-05-20 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2021-11-03\* | 2022-01-05 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-03-08 | 2022-03-10 |

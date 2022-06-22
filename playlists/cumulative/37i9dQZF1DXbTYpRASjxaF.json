@@ -1020,6 +1020,36 @@
     },
     {
       "album": {
+        "name": "Marca de Fita",
+        "url": "https://open.spotify.com/album/1QFheKaIxrR8apZFZg8hZx"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "Marca de Fita",
+      "url": "https://open.spotify.com/track/6Ur3ZGIJcYbDXZpLXM7wIy"
+    },
+    {
+      "album": {
         "name": "Avisa que \u00e9 o Funk",
         "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
       },

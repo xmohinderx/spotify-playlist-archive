@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-212 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
+213 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Embraceable You](https://open.spotify.com/track/1ETUBr8SmjEvB7TKUGImkL) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Timeless Portraits And Dreams](https://open.spotify.com/album/6UQPyUkS9BtqK1BH1hXdkk) | 2:48 | 2021-12-07 |  |
 | [Emily](https://open.spotify.com/track/2shwRU5UQwywwIHpwD3ZOW) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 4:53 | 2021-12-07 |  |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2021-12-07 |  |
+| [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-21 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 2:41 | 2021-12-07 |  |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2021-12-07 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2021-12-07 |  |
@@ -173,7 +174,7 @@
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2021-12-07 |  |
 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2021-12-07 |  |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2021-12-07 |  |
-| [Somewhere Over The Rainbow](https://open.spotify.com/track/3hG0RxJqxggDnSjg6tU6Py) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5N5QVPTLl1WVZE6yuWJGv6) | 3:35 | 2022-03-16 |  |
+| [Somewhere Over The Rainbow](https://open.spotify.com/track/3hG0RxJqxggDnSjg6tU6Py) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5N5QVPTLl1WVZE6yuWJGv6) | 3:35 | 2022-03-16 | 2022-06-22 |
 | [Sommarnattens Skeende](https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende](https://open.spotify.com/album/6CilisEhyJTony3qpY89nK) | 3:32 | 2021-12-07 |  |
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-07 |  |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-04-25 |  |

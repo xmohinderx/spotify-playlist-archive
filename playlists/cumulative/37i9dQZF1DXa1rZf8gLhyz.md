@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-153 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+156 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-09 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2021-12-07 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2021-12-07 |  |
+| [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2022-06-21 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2021-12-07 |  |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-25 |  |
@@ -44,6 +45,7 @@
 | [Embraceable You](https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Embraceable You](https://open.spotify.com/album/0wnfgpSxtv8UzL4n1f055H) | 3:22 | 2022-06-14 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2021-12-07 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/0ElOE6iF6PcHKGafYHkr2T) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [Everything Happens To Me](https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI) | 4:40 | 2022-01-18 |  |
+| [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-21 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 | 2022-05-10 |
@@ -55,6 +57,7 @@
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-12-07 |  |
 | [Grace \#7](https://open.spotify.com/track/3B8IRT01MVf7v1iKBT6nv7) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Grace](https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq) | 3:02 | 2021-12-07 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2021-12-07 |  |
+| [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-21 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2022-06-14 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 | 2021-12-07 |  |
 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 | 2022-01-04 |  |
@@ -101,7 +104,7 @@
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-01 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2021-12-07 |  |
-| [Over The Rainbow](https://open.spotify.com/track/3MQQzKoVtnpxGITOEP3Ri2) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Over The Rainbow](https://open.spotify.com/album/5ihwkvOEQsbRzF1gmUdPVe) | 3:00 | 2021-12-07 |  |
+| [Over The Rainbow](https://open.spotify.com/track/3MQQzKoVtnpxGITOEP3Ri2) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Over The Rainbow](https://open.spotify.com/album/5ihwkvOEQsbRzF1gmUdPVe) | 3:00 | 2021-12-07 | 2022-06-22 |
 | [P.S\. I Love You](https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [P.S\. I Love You](https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH) | 3:16 | 2021-12-07 |  |
 | [Part 16](https://open.spotify.com/track/7cZ7V0JWA8tUarE1TyABR7) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Radiance](https://open.spotify.com/album/64EgYMgM0KR2WS5jbvPmKq) | 3:23 | 2021-12-07 |  |
 | [Peace](https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Peace](https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva) | 3:13 | 2021-12-07 |  |

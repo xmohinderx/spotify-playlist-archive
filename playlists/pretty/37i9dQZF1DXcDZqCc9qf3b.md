@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 68 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 68 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 5 | [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 |
 | 6 | [Wake Up \(feat\. Madison Reyes\)](https://open.spotify.com/track/3gy83YfNaZOsAvkbVgD6IQ) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Madison Reyes](https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:37 |
 | 7 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 |
-| 8 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist"\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
+| 8 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist"\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
 | 9 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 |
 | 10 | [Freezie Day](https://open.spotify.com/track/2JQR4HGnpYSBeN6G6uJxef) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/2oJA40TLsVdiIa9SSzjXwy) | 2:37 |
 | 11 | [Beautiful Ugly \(feat\. Evie Irie\) \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/5SIqvVcGc16MsnsVIw83aD) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2), [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Beautiful Ugly \(feat\. Evie Irie\) \[from "Back to the Outback" soundtrack\]](https://open.spotify.com/album/6MWqVsBTfAcJ0WvzhPSvPw) | 2:44 |

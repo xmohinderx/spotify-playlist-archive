@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Erica Banks
 
-144 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+145 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-03-18 |  |
 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 | 2021-09-24 | 2022-01-22 |
 | [Brand New Rolex](https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Divine Timing](https://open.spotify.com/album/6fZkrQzH9f86D5Y0YLuLJu) | 2:27 | 2022-05-27 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 | 2022-06-18 |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-11 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 | 2022-04-16 |
@@ -55,7 +56,7 @@
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-20 |  |
 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 | 2022-03-04 |  |
 | [Freaky Dancer \(feat\. Trina\)](https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Break The Bank](https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv) | 3:03 | 2021-10-15 | 2022-02-12 |
-| [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 |  |
+| [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 | 2022-06-22 |
 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 | 2022-04-22 | 2022-06-04 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-02-04 | 2022-06-18 |
 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 | 2022-06-17 |  |

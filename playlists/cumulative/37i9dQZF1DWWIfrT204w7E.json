@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 220290,
       "name": "4 for 4",
       "url": "https://open.spotify.com/track/3t28WEPeQzR5YXC82nFf46"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 120140,
       "name": "Bump It",
       "url": "https://open.spotify.com/track/1CiaNe3DSDAVRHbkhm2g7s"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 96000,
       "name": "Cry All Night",
       "url": "https://open.spotify.com/track/5lephMH7c6ldSJsRr4On4I"
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 120026,
       "name": "Face Of The Bronx",
       "url": "https://open.spotify.com/track/6p1vn1SZCWCXwOIPDtwDPR"
@@ -2655,7 +2655,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 174419,
       "name": "Free Bizzy",
       "url": "https://open.spotify.com/track/4d3GVzzczZXtbA3n7keKPd"
@@ -2673,7 +2673,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 108936,
       "name": "Fresh Home",
       "url": "https://open.spotify.com/track/1JfFZWa9HebSPnChlmkxv0"
@@ -2709,7 +2709,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 80274,
       "name": "G in his grill",
       "url": "https://open.spotify.com/track/1HGbS14PUxiG1QQJ7KYnKw"
@@ -3157,7 +3157,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 138161,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6qYrmvBRAUK1ZVZz0mSC7o"
@@ -3175,7 +3175,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 154394,
       "name": "Heavy On It",
       "url": "https://open.spotify.com/track/4nRTAFyUWq8cmSzzkVVsC7"
@@ -3521,7 +3521,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 135459,
       "name": "JHOLIDAY",
       "url": "https://open.spotify.com/track/0shLGCfcai77W6i896MY1P"
@@ -3645,7 +3645,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 188029,
       "name": "Kompa",
       "url": "https://open.spotify.com/track/1xeRgf3kAKuDH8bRcunjQT"
@@ -4253,7 +4253,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 134265,
       "name": "No Adlibs",
       "url": "https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu"
@@ -4271,7 +4271,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 157361,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/3jCWSpumAzYP3ur8OUGEFN"
@@ -4407,7 +4407,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 116584,
       "name": "No Power",
       "url": "https://open.spotify.com/track/6Kl7TpNLXs0rlvYLaNZlR0"
@@ -4486,6 +4486,32 @@
     },
     {
       "album": {
+        "name": "Not In The Mood",
+        "url": "https://open.spotify.com/album/4T4caTMv5x6SRhf9h5Fmdo"
+      },
+      "artists": [
+        {
+          "name": "Nesty Gzz",
+          "url": "https://open.spotify.com/artist/7sWzku81OpTXm3H20H97qw"
+        },
+        {
+          "name": "Melly G",
+          "url": "https://open.spotify.com/artist/3ZzyPquw53JOqv4yV485pK"
+        },
+        {
+          "name": "Assasin",
+          "url": "https://open.spotify.com/artist/6ltqwWgtBaBBXkDAbWih7H"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131016,
+      "name": "Not In The Mood",
+      "url": "https://open.spotify.com/track/1GaoYWsHqYE4AtuUx36Px6"
+    },
+    {
+      "album": {
         "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
         "url": "https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7"
       },
@@ -4549,7 +4575,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 178120,
       "name": "Off Da Porch (feat. 1600J)",
       "url": "https://open.spotify.com/track/11o45EN0v3nmEDrzGsAF8H"
@@ -5407,7 +5433,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 168071,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7idbKSck83JnCSNcSEsFQy"
@@ -5541,7 +5567,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 133407,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/06aNEUAZp0vdqCKCLBUW8y"
@@ -5613,7 +5639,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 104176,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/0tIBiR4ZeeBM4bajLgCQ3H"
@@ -6041,7 +6067,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 147800,
       "name": "Spin",
       "url": "https://open.spotify.com/track/3Tsx6IqSqPzrYDniT0cty1"
@@ -6215,7 +6241,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 112845,
       "name": "Straight To It",
       "url": "https://open.spotify.com/track/1BgyAPxLr60xUYNbvg7my6"
@@ -6441,7 +6467,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 123219,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/19zIvn11VgfXMbxdhOoewt"
@@ -6499,6 +6525,24 @@
       "duration_ms": 180015,
       "name": "That's A Fact",
       "url": "https://open.spotify.com/track/1tXncn8RYWcTfX5dJoYQG4"
+    },
+    {
+      "album": {
+        "name": "Gift Wrap",
+        "url": "https://open.spotify.com/album/3f33qn3vFbyekITguSOOP8"
+      },
+      "artists": [
+        {
+          "name": "Tayy Floss",
+          "url": "https://open.spotify.com/artist/2ClzyiNd9Tb2oFLTeURrFR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134279,
+      "name": "That's Pain",
+      "url": "https://open.spotify.com/track/0jfAvkJUNaLO92GEzwicLu"
     },
     {
       "album": {
@@ -7025,7 +7069,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 89257,
       "name": "What Ya On",
       "url": "https://open.spotify.com/track/4JMYIOeNUCxgdkpUg4VFPQ"

@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> w/ Zack Fox, Tuesdays at 8pm EST\. Cover: Cochise
 
-305 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+306 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Caught Up](https://open.spotify.com/track/0ItF4CpuagCFBMt7IdpoLn) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso), [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [Caught Up](https://open.spotify.com/album/6JYelzDNpSvdajIZm0DXod) | 2:03 | 2022-06-02 |  |
 | [CAUTIOUS](https://open.spotify.com/track/5qF7knZoOT4pPq6A7xlOSw) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [CAUTIOUS](https://open.spotify.com/album/6Hz60yvlonoL9NJxKA2u15) | 2:25 | 2021-12-03 | 2022-05-07 |
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-06 |  |
+| [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 | 2022-06-21 |  |
 | [Champions](https://open.spotify.com/track/11y5mfZsBaMV79mJmg8CJT) | [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Champions](https://open.spotify.com/album/5JV8d2KR990xfaA6kz8vly) | 1:44 | 2022-02-18 | 2022-02-25 |
 | [CLUBHOUSE! \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/2UKEafEb8WaCuMJFfHNq5n) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [CLUBHOUSE! / UNCIVILIZED! \(GO!\)](https://open.spotify.com/album/4BPihCuvLuLFhxc1pzUk7R) | 2:33 | 2022-06-17 |  |
 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 | 2022-04-04 |  |

@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-73 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+74 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [X.U.](https://open.spotify.com/track/6bAiYbJ37zaQ6dTTcW49EA) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [X.U\. \| scaPEGoat](https://open.spotify.com/album/21TgGuLWBGqtggQtWpiEdB) | 4:45 | 2022-06-07 |  |
 | [XI](https://open.spotify.com/track/4eW2BYoxZ2tir3LJByWwTS) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 4:18 | 2022-06-07 |  |
 | [YAMANAIAME](https://open.spotify.com/track/6KBQatL64GDr2i0KKpsIMC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」前編\~紅蓮の弓矢\~エンディングテーマ YAMANAIAME produced by 澤野弘之](https://open.spotify.com/album/3bsEgUitzaD5yyAnXG9TFQ) | 4:27 | 2022-06-07 |  |
+| [YouSee\-Power](https://open.spotify.com/track/517GTpatzMITcAIqsM74BU) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:17 | 2022-06-21 |  |
 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 | 2022-06-07 |  |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-06-07 |  |
 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 | 2022-06-07 |  |

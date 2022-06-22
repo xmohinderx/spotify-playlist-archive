@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-140 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+141 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Argalak Kama Kont](https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Argalak Kama Kont](https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE) | 3:02 | 2022-01-14 | 2022-05-25 |
 | [Asab Khabar](https://open.spotify.com/track/7aqTO66MftpsIrF3WbCesB) | [Ahmad AlKaisi](https://open.spotify.com/artist/2BySKMB8pGMBsjVd7AzcQa) | [Asab Khabar](https://open.spotify.com/album/42g8gRlw4AnIfKwGjSUQsJ) | 3:12 | 2021-12-23 | 2022-03-12 |
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-02-17 |  |
+| [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 | 2022-06-21 |  |
 | [Ayami](https://open.spotify.com/track/1eO2xSR7xlI7U9CBX0zihi) | [Salah Hassan](https://open.spotify.com/artist/4XRv8YzpGjMqaUPJC0wpxP) | [Ayami](https://open.spotify.com/album/60yMGQG6qHN2S3omKeBsSF) | 2:50 | 2021-12-23 | 2022-02-11 |
 | [Aybaah](https://open.spotify.com/track/469edw0cqHxQwF4ZpRNYYD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Aybaah](https://open.spotify.com/album/3Xr5fmb8FO0n4ABBYz7KhY) | 3:02 | 2022-03-11 |  |
 | [Azkorak Min Yeji Leil](https://open.spotify.com/track/2Hk9JgZRTBrLPYVLx2SJSP) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Azkorak Min Yeji Leil](https://open.spotify.com/album/7KsCUVd8KnoUWMqJOs66S0) | 8:36 | 2021-12-23 | 2022-03-12 |
@@ -147,6 +148,6 @@
 | [شي خيالي](https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [شي خيالي \- Single](https://open.spotify.com/album/1Tm3jeCXOe6LyQwErdfsYg) | 4:32 | 2021-12-23 | 2022-01-01 |
 | [عايش بيك](https://open.spotify.com/track/5o6YB79ykoBierbnPsAj97) | [Mohammed Kareem](https://open.spotify.com/artist/6QuzMPf0Oi2xct379VkfZN) | [عايش بيك](https://open.spotify.com/album/6dJLJRqDIEVQFfEqLWFIyh) | 3:15 | 2022-03-11 |  |
 | [عمري معاه](https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS) | [Muhanad Asir](https://open.spotify.com/artist/6ZHUebEY5oYuWHCif6ETjK), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [عمري معاه](https://open.spotify.com/album/3GKBk0aFdDA9JcyNIvPEZN) | 3:52 | 2022-01-14 | 2022-05-21 |
-| [٪ الف](https://open.spotify.com/track/3BDipuLlBQzjPJiMS5lrdF) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [٪ الف](https://open.spotify.com/album/53clXxawrkTOuQvDQxUsp7) | 3:01 | 2022-06-20 |  |
+| [٪ الف](https://open.spotify.com/track/3BDipuLlBQzjPJiMS5lrdF) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [٪ الف](https://open.spotify.com/album/53clXxawrkTOuQvDQxUsp7) | 3:01 | 2022-06-20 | 2022-06-22 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

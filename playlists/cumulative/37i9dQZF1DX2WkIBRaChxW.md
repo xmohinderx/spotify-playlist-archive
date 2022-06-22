@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now\. Cover: Chlöe
 
-240 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+241 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Be This Way](https://open.spotify.com/track/698JiO0elk4iA7xOooPwQa) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Be This Way](https://open.spotify.com/album/5umIrJ23D1iAko4lDnrbpr) | 1:57 | 2022-05-20 | 2022-06-04 |
 | [Best Friends](https://open.spotify.com/track/78kBfiOIowbBQ96iQGQCl8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 2:43 | 2022-03-25 | 2022-04-29 |
 | [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 | 2022-05-20 |  |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2021-12-31 | 2022-01-15 |
 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-06-17 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-11 |  |
@@ -66,7 +67,7 @@
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-04-29 |  |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-18 |  |
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-04 | 2022-02-26 |
-| [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 |  |
+| [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-06-22 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-04-02 |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-03-18 | 2022-06-18 |
 | [For Everybody \(These Hoes\)](https://open.spotify.com/track/3FLxQGlKB3lJ93cLHia9qu) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Dice Soho](https://open.spotify.com/artist/4gIRkExQ9L5kAPKiqYJk4R) | [For Everybody \(These Hoes\)](https://open.spotify.com/album/5vluXgU0T4rISSe54KLtKp) | 3:59 | 2022-01-21 | 2022-01-29 |

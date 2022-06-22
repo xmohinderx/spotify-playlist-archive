@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Soft jazz piano to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,282 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,337 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

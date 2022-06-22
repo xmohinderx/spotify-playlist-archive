@@ -1642,6 +1642,28 @@
     },
     {
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
       },
@@ -6061,7 +6083,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 183902,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
@@ -8657,6 +8679,24 @@
       "duration_ms": 194682,
       "name": "L\u00e4mmi",
       "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
+    },
+    {
+      "album": {
+        "name": "L\u00e4nnu",
+        "url": "https://open.spotify.com/album/1KlSxQUShunwcttNXmmAWh"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcber\u00fcnnak & Karmo",
+          "url": "https://open.spotify.com/artist/55I7E3FxDsnuRqr0sQSrMf"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "L\u00e4nnu",
+      "url": "https://open.spotify.com/track/5TXCLb4LG0D9prlo5GnxkE"
     },
     {
       "album": {
@@ -13001,7 +13041,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -13045,7 +13085,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -14621,7 +14661,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"

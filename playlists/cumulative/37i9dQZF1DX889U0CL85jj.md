@@ -4,7 +4,7 @@
 
 > Just chill...
 
-263 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+264 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 | 2021-10-08 |  |
 | [Borderline \- Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline \(Blood Orange Remix\)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-25 | 2022-01-22 |
 | [Bright Colors](https://open.spotify.com/track/40sBa8aVT4ibP4pX1qCcHL) | [Jaja Bu](https://open.spotify.com/artist/6iTFxnPZmX0HdWmL73irIa) | [Bright Colors](https://open.spotify.com/album/5dPOkxgLpfrYDuuFwnIVn5) | 3:51 | 2019-09-06 | 2022-01-22 |
+| [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-21 |  |
 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 | 2022-01-21 |  |
 | [But There's Still the Moon](https://open.spotify.com/track/0tA5pH2uW1fKCQ44khDie8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [But There's Still the Moon](https://open.spotify.com/album/6hbufZ1A81iozgnd8QMD7B) | 3:39 | 2020-04-17 |  |
 | [Buzzed](https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Buzzed](https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9) | 2:39 | 2021-06-07 |  |
@@ -241,7 +242,7 @@
 | [Time Moves Slow](https://open.spotify.com/track/1I40L32fTSSkBkPeArX9Ul) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 4:33 | 2021-06-09 |  |
 | [Toking, Dozing](https://open.spotify.com/track/25uVLrUrzXnqjDHoyX3bCY) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Toking, Dozing](https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL) | 3:46 | 2020-02-28 | 2022-01-22 |
 | [Toroka](https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Toroka](https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC) | 3:22 | 2022-04-29 |  |
-| [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2020-02-13 |  |
+| [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2020-02-13 | 2022-06-22 |
 | [Type 2](https://open.spotify.com/track/111fU7H63Z9mK1BO8aM3HY) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Type 2](https://open.spotify.com/album/2JjI252Wy8zbqYjkVDo92e) | 2:48 | 2020-03-16 | 2022-01-22 |
 | [Undone](https://open.spotify.com/track/6CtRj0RTOlJkuS5YaI359j) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [Undone](https://open.spotify.com/album/5TBc4QwLqCViRjyznsyGEl) | 3:12 | 2020-05-29 | 2022-01-22 |
 | [Unkind](https://open.spotify.com/track/7DgW7jnyWYe2iOhwP7Uxog) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Unkind](https://open.spotify.com/album/6t0G0GALHFQGSjnIZOyZp9) | 3:18 | 2020-05-09 | 2022-01-22 |

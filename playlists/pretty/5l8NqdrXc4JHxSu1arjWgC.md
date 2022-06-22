@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,517 likes - 643 songs - 1 day 19 hr 13 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,519 likes - 647 songs - 1 day 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -651,5 +651,9 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 641 | [A Hairdryer](https://open.spotify.com/track/5eGvUvIliCcmFqwC8kQSAw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:17 |
 | 642 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 643 | [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/32SckiFOYb8bwYewY51WA7) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:51 |
+| 644 | [Open The Floodgates](https://open.spotify.com/track/5xqKA0qQQwprSERzubZk2n) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:29 |
+| 645 | [Seven Days](https://open.spotify.com/track/2Wmm4aEFUISjdmVuy7VGL0) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:38 |
+| 646 | [Hey Now! \- Remastered](https://open.spotify.com/track/4FDEDR99kqoGZOV88Wpnpg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:41 |
+| 647 | [Near Wild Heaven](https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:19 |
 
-Snapshot ID: `MTY2NSw0MWU5ZjhlNjY2YmRhYzg0ZmFhOGRlYWRhYTM1YjZkNmE2OTNiYjI5`
+Snapshot ID: `MTY2OSxjYWQ2Nzk4ZjQ0YjU2OTU1N2RmM2U3ZDIwNTkyNjFiZmExYjU1N2Mw`

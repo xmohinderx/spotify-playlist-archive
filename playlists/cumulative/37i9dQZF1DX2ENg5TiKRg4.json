@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "Happy Pop-Rock Tunes to start your day with. ",
+  "description": "Happy Pop-Rock Tunes to start your day. ",
   "name": "Morning Loud!!! ",
   "published_playlist_ids": [
     "3j9mauw5Zu7ivIgvltle7G"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 166896,
       "name": "Addict Of Magic",
       "url": "https://open.spotify.com/track/0deLQzMIEw6l3pWOWz4MkF"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 186584,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/68A8M94uf0m5bM5sxf3Tn8"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 251640,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/5uNEaSgkkPw6vLCUh3KsdQ"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 221309,
       "name": "Cool Off",
       "url": "https://open.spotify.com/track/02960DDajvR1bOKZ1VLPC6"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 214240,
       "name": "Days I Will Remember",
       "url": "https://open.spotify.com/track/01MVOl9KtVTNfFiBU9I7dc"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 262820,
       "name": "Fall on Me",
       "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 215546,
       "name": "Fallin' For You",
       "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "album": {
         "name": "With Love - EP",
         "url": "https://open.spotify.com/album/7f6cayMhnTmNOKmSG8oPyo"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 207123,
       "name": "I Love You Will Still Sound The Same",
       "url": "https://open.spotify.com/track/6KRddNr4XlooytDWtefT7L"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 227619,
       "name": "I Will Spend My Whole Life Loving You",
       "url": "https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
@@ -672,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Misguided Roses",
+        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
+      },
+      "artists": [
+        {
+          "name": "Edwin McCain",
+          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266533,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
+    },
+    {
+      "album": {
         "name": "Messenger",
         "url": "https://open.spotify.com/album/4DBeYVhZZiPNvpco55j8KW"
       },
@@ -701,7 +737,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 169354,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/3xj7CICKpCDxxMJ5ilRbTY"
@@ -719,7 +755,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
@@ -773,7 +809,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181136,
       "name": "Iris",
       "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 181786,
       "name": "Losing Me",
       "url": "https://open.spotify.com/track/3BjJMiJqjWSNkokmrCcTDJ"
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Me And My Broken Heart",
       "url": "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 225293,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/57Wjcff1bw8TueYvFip4NN"
@@ -1105,7 +1141,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 165523,
       "name": "On Your Way Home",
       "url": "https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2"
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf"
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 265666,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/7Knembnq1sARRxU982gpUl"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 265666,
       "name": "The Fight Is Over",
       "url": "https://open.spotify.com/track/32HEYzKmuHGYciowA94G8C"
@@ -1521,7 +1557,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "To Begin Again",
       "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"
@@ -1575,7 +1611,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 238283,
       "name": "Tulog Na",
       "url": "https://open.spotify.com/track/0SXASazFDcMabUee9uP9TL"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 235106,
       "name": "Wanted Man",
       "url": "https://open.spotify.com/track/2dMkrhsWFVP2rHZmTEKkeh"
@@ -1745,7 +1781,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 228933,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"

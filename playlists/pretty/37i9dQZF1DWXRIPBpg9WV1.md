@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,271 likes - 92 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,371 likes - 92 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

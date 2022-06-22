@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The resurgence is real\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,946 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,828 likes - 110 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 7 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
 | 8 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 9 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
-| 10 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 |
-| 11 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 |
-| 12 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 |
-| 13 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 |
-| 14 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
-| 15 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 |
-| 16 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 |
-| 17 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 |
-| 18 | [Not Sure How This Ends](https://open.spotify.com/track/41In7wBGR95EZbSjqVAQy0) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Not Sure How This Ends](https://open.spotify.com/album/2uc7M2vFAjY3jNovTI7YAu) | 4:05 |
+| 10 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 |
+| 11 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 |
+| 12 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 |
+| 13 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 14 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 |
+| 15 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 |
+| 16 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 |
+| 17 | [Not Sure How This Ends](https://open.spotify.com/track/41In7wBGR95EZbSjqVAQy0) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Not Sure How This Ends](https://open.spotify.com/album/2uc7M2vFAjY3jNovTI7YAu) | 4:05 |
+| 18 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 |
 | 19 | [Empty in My Mind](https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:52 |
 | 20 | [Wait Too Long](https://open.spotify.com/track/3SCqKx03EhaVzwS2FXVCmZ) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Wait Too Long b/w Mountains Made of Clouds](https://open.spotify.com/album/5p56KNIFMjljrlvRY0zPyM) | 4:32 |
 | 21 | [Call Me Junior](https://open.spotify.com/track/6i40xnCskeEWHGqWjNv7I5) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Call Me Junior](https://open.spotify.com/album/4OF5G4ZW72busgHBEjiTXb) | 3:12 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 109 | [Cosigns](https://open.spotify.com/track/4QaF8Cas5jawCVTiuwcB7e) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Hold The Line](https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj) | 2:35 |
 | 110 | [Pastlife](https://open.spotify.com/track/2QwPjDaLR5oKupvdSX1Yor) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife](https://open.spotify.com/album/5FofsTaVjUyymLRgw7EE3i) | 2:31 |
 
-Snapshot ID: `MTY1NTc0NTQxMiwwMDAwMDA5NzAwMDAwMTgxODIxZGZiYWUwMDAwMDE4MTZlYTkwY2M2`
+Snapshot ID: `MTY1NTgyNDUyNiwwMDAwMDA5ODAwMDAwMTgxODZkNTJhZTYwMDAwMDE4MTZlYTkwY2M2`

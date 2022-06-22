@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 72 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 72 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

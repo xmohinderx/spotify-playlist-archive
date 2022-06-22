@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 ### [PAUSE: Productivity](https://open.spotify.com/playlist/37i9dQZF1DX9UPbR7BUBxr)
 
-> Songs and episodes to help you be productive and find that work/pause balance\. Co\-curation: Varun Duggirala
+> Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY1NTQ1NDY2MCwwMDAwMDAwMzAwMDAwMTgxNzBjOTc2MmMwMDAwMDE4MTcwYzk1YTU5`
+Snapshot ID: `MTY1NTg2MTE1MywwMDAwMDAwMGY5YjY1N2U3ODcwY2M5ZTM2M2NmNzRiYTU0NGZmZDk1`

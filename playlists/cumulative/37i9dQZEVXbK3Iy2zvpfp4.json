@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/0q1XEC8pejP51lXMwQhYgU"
+      },
+      "artists": [
+        {
+          "name": "DIANA",
+          "url": "https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/533p900oXrV93rJupPWvF2"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2B9aOXIoaKZkTQKl0bHyB0"
+    },
+    {
+      "album": {
         "name": "Amnezia",
         "url": "https://open.spotify.com/album/5EsoxFXIJAYXhq0qdM2NCU"
       },
@@ -157,6 +179,24 @@
       "duration_ms": 179815,
       "name": "b a b y . r e l a x",
       "url": "https://open.spotify.com/track/1VAWL9pNSsdyTLHYvmPhcm"
+    },
+    {
+      "album": {
+        "name": "BABA (Toma Tussi)",
+        "url": "https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "BABA (Toma Tussi)",
+      "url": "https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ"
     },
     {
       "album": {
@@ -350,6 +390,24 @@
     },
     {
       "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+      },
+      "artists": [
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
+    },
+    {
+      "album": {
         "name": "(Un)Commentary",
         "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
       },
@@ -511,10 +569,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
+    },
+    {
+      "album": {
+        "name": "Top Gun: Maverick (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+      },
+      "artists": [
+        {
+          "name": "Miles Teller",
+          "url": "https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "Great Balls Of Fire - Live",
+      "url": "https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3"
     },
     {
       "album": {
@@ -547,7 +623,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 143414,
       "name": "Hannah Montana VIP",
       "url": "https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8"
@@ -605,7 +681,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
@@ -1099,7 +1175,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -1139,7 +1215,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -1295,7 +1371,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -1501,7 +1577,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 251733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3"
@@ -1523,6 +1599,28 @@
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+    },
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "album": {

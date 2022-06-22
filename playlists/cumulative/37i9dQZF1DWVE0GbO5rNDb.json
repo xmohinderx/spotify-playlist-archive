@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 191008,
       "name": "About to Rise",
       "url": "https://open.spotify.com/track/3YSZOxK0KWsH91kbTvlNvp"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 166977,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 184390,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 165326,
       "name": "Getting Started (na Na Na)",
       "url": "https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 151935,
       "name": "Got You For Life",
       "url": "https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 213934,
       "name": "Kiss and Tell",
       "url": "https://open.spotify.com/track/7zAmki6tuarcnPsGxH3sc3"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 148822,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 173547,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "Steady for You",
       "url": "https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy"
@@ -2859,6 +2859,28 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Kovic",
+          "url": "https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB"
     },
     {
       "album": {

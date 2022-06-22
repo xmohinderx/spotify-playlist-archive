@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-190 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+191 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 |  |
-| [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 |  |
+| [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-11-19 | 2022-02-22 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-03 | 2022-05-14 |
@@ -124,12 +124,13 @@
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 |  |
+| [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 |  |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 |  |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 |  |
-| [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 |  |
+| [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |

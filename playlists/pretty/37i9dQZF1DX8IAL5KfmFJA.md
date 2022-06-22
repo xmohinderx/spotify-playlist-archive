@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,651 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,758 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 34 | [Never Is A Long Time](https://open.spotify.com/track/1IXnv4cO6Ux36cusZZrk35) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 3:45 |
 | 35 | [Silver Blue](https://open.spotify.com/track/7IvJlX1B8GBopPaVORMfBw) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:06 |
 | 36 | [Salvation](https://open.spotify.com/track/5PadY2fmWAzotfo4pocchC) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 4:37 |
-| 37 | [The Centre of the Heart \- 2003 Remaster](https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:23 |
+| 37 | [The Centre Of The Heart \- 2003 Remaster](https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:23 |
 | 38 | [It Just Happens](https://open.spotify.com/track/2C2zQXyclwXTaZMJ5OFsmM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:46 |
 | 39 | [Why Don't You Bring Me Flowers?](https://open.spotify.com/track/3shCCsCcBrJp1uBhMlZ0XI) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Why Don't You Bring Me Flowers?](https://open.spotify.com/album/7nJefveE7soD4bJREznZU9) | 3:32 |
 | 40 | [Good Karma](https://open.spotify.com/track/7B0cmoe2K9vOTaYZP8AWP8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:19 |

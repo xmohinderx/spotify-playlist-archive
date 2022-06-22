@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 148825,
       "name": "A mal tiempo, buena cara",
       "url": "https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 166546,
       "name": "Abre los ojos",
       "url": "https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 161000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 136374,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 116105,
       "name": "Dancing Fairies",
       "url": "https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z"
@@ -856,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/320qy6TKMN61kHyDTmEaFJ"
+      },
+      "artists": [
+        {
+          "name": "Carlton Rimor",
+          "url": "https://open.spotify.com/artist/4J75uik8WDEqMyN1SaZpoO"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6sJjlOz5zFl1pjREvRQtRW"
+    },
+    {
+      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 117915,
       "name": "For Brea",
       "url": "https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 123777,
       "name": "Fulfilled",
       "url": "https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 130270,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1yifgXa6NhUmUayr78flWm"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 158778,
       "name": "Hilma",
       "url": "https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W"
@@ -1461,10 +1479,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 209500,
       "name": "Innocent Pleasure",
       "url": "https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE"
+    },
+    {
+      "album": {
+        "name": "Intermedanos",
+        "url": "https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO"
+      },
+      "artists": [
+        {
+          "name": "Hondos Rostros",
+          "url": "https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Intermedanos",
+      "url": "https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP"
     },
     {
       "album": {
@@ -1648,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "Le soleil printanier",
+        "url": "https://open.spotify.com/album/6UpR7OvugbL76JUpTxUzOO"
+      },
+      "artists": [
+        {
+          "name": "Charlot B\u00e9lair",
+          "url": "https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Le soleil printanier",
+      "url": "https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly"
+    },
+    {
+      "album": {
         "name": "Lemons In London",
         "url": "https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S"
       },
@@ -1695,7 +1749,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 161250,
       "name": "Lifting",
       "url": "https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf"
@@ -1753,6 +1807,24 @@
       "duration_ms": 188473,
       "name": "Loisach",
       "url": "https://open.spotify.com/track/6Wn5pEsQDiFXbVjGfbAyup"
+    },
+    {
+      "album": {
+        "name": "Longues Plages",
+        "url": "https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ"
+      },
+      "artists": [
+        {
+          "name": "Danette Allard",
+          "url": "https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Longues Plages",
+      "url": "https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj"
     },
     {
       "album": {
@@ -1857,7 +1929,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 152000,
       "name": "Matria",
       "url": "https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4"
@@ -2044,6 +2116,28 @@
     },
     {
       "album": {
+        "name": "Muse (Single)",
+        "url": "https://open.spotify.com/album/6GUw5VAhzMvOlGcqSmcl9b"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126991,
+      "name": "Muse (Single)",
+      "url": "https://open.spotify.com/track/0KFDSdhoFkTA9dpavEGpp6"
+    },
+    {
+      "album": {
         "name": "My Mind Made Up",
         "url": "https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO"
       },
@@ -2073,7 +2167,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 147222,
       "name": "Naoko",
       "url": "https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU"
@@ -2163,7 +2257,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 131809,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z"
@@ -2289,7 +2383,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 140661,
       "name": "Orbita",
       "url": "https://open.spotify.com/track/1HYTmNsOShvuSZ2KyFx1w4"
@@ -2325,7 +2419,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 146250,
       "name": "Pagnossini",
       "url": "https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY"
@@ -2361,7 +2455,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 179257,
       "name": "Peace Frame",
       "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
@@ -2397,7 +2491,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 177020,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/0giYe8sQbW7LaO2UqMcG7k"
@@ -2523,7 +2617,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 141124,
       "name": "Progression",
       "url": "https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72"
@@ -2631,7 +2725,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 145250,
       "name": "Rado\u017eda",
       "url": "https://open.spotify.com/track/2zgdofZUkshZvKAWCEpRp5"
@@ -2671,6 +2765,24 @@
       "duration_ms": 144698,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr"
+    },
+    {
+      "album": {
+        "name": "Red Sky",
+        "url": "https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc"
+      },
+      "artists": [
+        {
+          "name": "Leon Fisher",
+          "url": "https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139357,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT"
     },
     {
       "album": {
@@ -2725,6 +2837,24 @@
       "duration_ms": 172124,
       "name": "Retrouvailles",
       "url": "https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd"
+    },
+    {
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl"
+      },
+      "artists": [
+        {
+          "name": "Elvira Ashmore",
+          "url": "https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr"
     },
     {
       "album": {
@@ -3200,6 +3330,24 @@
     },
     {
       "album": {
+        "name": "Stay here",
+        "url": "https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Stay here",
+      "url": "https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ"
+    },
+    {
+      "album": {
         "name": "stronger together",
         "url": "https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai"
       },
@@ -3211,7 +3359,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 141360,
       "name": "stronger together",
       "url": "https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB"
@@ -3283,7 +3431,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Swan Spring",
       "url": "https://open.spotify.com/track/3orRX2Ms4jy4dU9KqJ9zT1"
@@ -3319,7 +3467,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 114400,
       "name": "Sweet Redolence",
       "url": "https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf"
@@ -3355,7 +3503,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 130371,
       "name": "Te souviens-tu",
       "url": "https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd"
@@ -3391,7 +3539,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "The Farewell",
       "url": "https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z"
@@ -3481,7 +3629,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 193916,
       "name": "Traces",
       "url": "https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07"
@@ -3553,7 +3701,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Tres Epos",
       "url": "https://open.spotify.com/track/2R7H81ohphMCox3Pq7bLw3"
@@ -3571,7 +3719,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 110500,
       "name": "trouvaille",
       "url": "https://open.spotify.com/track/2zHfLa85aTxLsQWBZYKJv8"
@@ -3697,7 +3845,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 188638,
       "name": "Unspoken Declarations",
       "url": "https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC"
@@ -3715,7 +3863,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 198994,
       "name": "Vaguely Reminiscent",
       "url": "https://open.spotify.com/track/3PJLOitvkwc2NXlqOYmd4C"
@@ -3931,7 +4079,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 158000,
       "name": "Y\u014dsei",
       "url": "https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH"

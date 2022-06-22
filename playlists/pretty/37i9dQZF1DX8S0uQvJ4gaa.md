@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,320 likes - 117 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,860 likes - 117 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

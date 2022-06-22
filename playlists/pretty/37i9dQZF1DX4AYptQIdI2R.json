@@ -1,13 +1,29 @@
 {
   "description": "Ahgases! 7 or nothing.",
-  "num_followers": 406159,
+  "num_followers": 406233,
   "original_name": "This Is GOT7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzI5NjQwMCwwMDAwMDA0MjAwMDAwMTgwZjAyNTA3NzAwMDAwMDE4MGVmZDZmZTc4",
+  "snapshot_id": "MTY1NTgwMzU5MCwwMDAwMDA0MzAwMDAwMTgxODU5NWI2ZjgwMDAwMDE4MGVmZDZmZTc4",
   "tracks": [
+    {
+      "added_at": "2022-06-21 09:26:30",
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
+    },
     {
       "added_at": "2022-05-23 09:00:00",
       "album": {

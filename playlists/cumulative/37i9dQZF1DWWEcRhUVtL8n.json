@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 199512,
       "name": "avalanche",
       "url": "https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy"
@@ -3651,7 +3651,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 192773,
       "name": "Catch My Drift",
       "url": "https://open.spotify.com/track/2r3d7ZEucbIL2N7E1ayWyX"
@@ -4549,7 +4549,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 206800,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
@@ -4799,7 +4799,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 238094,
       "name": "Crying In Public - MUNA Remix",
       "url": "https://open.spotify.com/track/6ouu4XNaN3pQMRo6BUvsaV"
@@ -5529,7 +5529,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 149666,
       "name": "Does It Feel Real",
       "url": "https://open.spotify.com/track/44f9F8DdO8URqNBOVBaW7U"
@@ -6221,7 +6221,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 197459,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP"
@@ -7351,7 +7351,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 176946,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
@@ -8793,7 +8793,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 157050,
       "name": "Heather Grey",
       "url": "https://open.spotify.com/track/3NnOxkPPHIuM4jWPWyNz9O"
@@ -9155,7 +9155,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC"
@@ -10231,7 +10231,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 257437,
       "name": "I Won't Bite",
       "url": "https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx"
@@ -11081,7 +11081,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "I\u2019M BLESSED",
       "url": "https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG"
@@ -11250,6 +11250,24 @@
     },
     {
       "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
+    },
+    {
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -11297,7 +11315,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 188676,
       "name": "Keepintouch",
       "url": "https://open.spotify.com/track/6tZ7kmyy0FhG9Ksx6oX2rb"
@@ -12177,7 +12195,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 207880,
       "name": "London Is Lonely - Edit",
       "url": "https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq"
@@ -15927,7 +15945,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -18247,7 +18265,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6F3ZGAp9M9Nub4cSCpY5tW"
@@ -18265,7 +18283,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
@@ -19587,7 +19605,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 167250,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3TuT7FEUpGsgSWdol7LXPA"
@@ -20009,7 +20027,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo"
@@ -20883,7 +20901,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 228823,
       "name": "Time On",
       "url": "https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ"
@@ -21711,7 +21729,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
@@ -21845,7 +21863,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 237093,
       "name": "Way Way Back",
       "url": "https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM"

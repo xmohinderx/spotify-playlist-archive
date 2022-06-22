@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Miu Lê
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,695 likes - 58 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,788 likes - 58 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 28 | [Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7oX6qKTnKeVG6iT0qG1i29) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Bông Hoa Đẹp Nhất](https://open.spotify.com/album/0Vw8JSu2raGD3tKl5qKFwc) | 5:15 |
 | 29 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 |
 | 30 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 |
-| 31 | [Nàng Thơ](https://open.spotify.com/track/2LykruN1mQlg9nuUaE7dvQ) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Nàng Thơ](https://open.spotify.com/album/4UjOz9fuY8XfEOyOx8aeb3) | 4:14 |
+| 31 | [Nàng Thơ](https://open.spotify.com/track/2LykruN1mQlg9nuUaE7dvQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Nàng Thơ](https://open.spotify.com/album/4UjOz9fuY8XfEOyOx8aeb3) | 4:14 |
 | 32 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 |
 | 33 | [Chuyện Rằng](https://open.spotify.com/track/3VOeGtJwJh2jslvQAFaaEn) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chuyện Rằng](https://open.spotify.com/album/4LCUSz7bnPTF3IKerCv308) | 4:32 |
 | 34 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 48 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 |
 | 49 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 |
 | 50 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 |
-| 51 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
+| 51 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
 | 52 | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/track/6Fbsn9471Xd0vVsMWwhePh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/album/2abWPWzlhV9ROpN6EggZPR) | 5:00 |
 | 53 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
 | 54 | [Lạ Lùng](https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Lạ Lùng](https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR) | 4:21 |
 | 55 | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8) | [Truc Nhan](https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w) | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/album/5f6SOjdAP8O6PPAPKwn8IX) | 3:35 |
-| 56 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 |
+| 56 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 |
 | 57 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 58 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 

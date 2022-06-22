@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ecologyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,708 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,731 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 8 | [Distante](https://open.spotify.com/track/2fg1guOKTbWgXVYbKuNvHT) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Distante](https://open.spotify.com/album/2Q1xkwzOeAWQ8G6V19cS34) | 3:23 |
 | 9 | [Há dias, adio a noite](https://open.spotify.com/track/2dt1UCar9tTqOYFjkh4d7a) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Josefitos](https://open.spotify.com/artist/0rRzdH6o0LFnBMo2BX3pxw) | [Há dias, adio a noite](https://open.spotify.com/album/3XiVNKu1VNkFNlkaad1eB2) | 3:52 |
 | 10 | [4 Real](https://open.spotify.com/track/5zJQWY0aWwNkUWLXXfJulA) | [Limera](https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt), [Makonnen Tafari](https://open.spotify.com/artist/5pCLuiabkZX959HejLUmW6), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [4 Real](https://open.spotify.com/album/4LJGOS2XY0MtUTtZa0RwNx) | 2:30 |
-| 11 | [ROCK N' ROLL](https://open.spotify.com/track/7nWHlTRlnQTHpVgxXvLAlZ) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Binho Prod.](https://open.spotify.com/artist/0YQyA470cJf63Ixu4E2mcW), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [ROCK N' ROLL](https://open.spotify.com/album/4RSR5P1bbdFhaR2SDDCqjW) | 3:01 |
-| 12 | [MILHÃO](https://open.spotify.com/track/2VHnX3S0s5SQMSxZ9XI3Ho) | [Arylee](https://open.spotify.com/artist/6HuBVS50T7QSKqtXDSFbB9), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [MILHÃO](https://open.spotify.com/album/1Spq0JuJCNe4LhsCuslywf) | 3:42 |
-| 13 | [Vivendo Como um Rei](https://open.spotify.com/track/4ZcBQ1jwmbhQ8ZcKskHceW) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Vivendo Como um Rei](https://open.spotify.com/album/1wT5lhUa92OMIXapEpaks0) | 2:37 |
-| 14 | [Borrachinha](https://open.spotify.com/track/5cUAuwzF3woiG1dAsYYdwi) | [BeatPluggz](https://open.spotify.com/artist/0wHboqmIsYi3aMWbo658NO), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Borrachinha](https://open.spotify.com/album/6kSDT5F9LfEoQ431GWC9Jc) | 2:03 |
+| 11 | [7 Meiota](https://open.spotify.com/track/7GlKZPZ02XIhVCSwHboMTb) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [7 Meiota](https://open.spotify.com/album/48aImzLYN7EO5RTsJSKXjW) | 3:10 |
+| 12 | [ROCK N' ROLL](https://open.spotify.com/track/7nWHlTRlnQTHpVgxXvLAlZ) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Binho Prod.](https://open.spotify.com/artist/0YQyA470cJf63Ixu4E2mcW), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [ROCK N' ROLL](https://open.spotify.com/album/4RSR5P1bbdFhaR2SDDCqjW) | 3:01 |
+| 13 | [MILHÃO](https://open.spotify.com/track/2VHnX3S0s5SQMSxZ9XI3Ho) | [Arylee](https://open.spotify.com/artist/6HuBVS50T7QSKqtXDSFbB9), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [MILHÃO](https://open.spotify.com/album/1Spq0JuJCNe4LhsCuslywf) | 3:42 |
+| 14 | [Vivendo Como um Rei](https://open.spotify.com/track/4ZcBQ1jwmbhQ8ZcKskHceW) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Vivendo Como um Rei](https://open.spotify.com/album/1wT5lhUa92OMIXapEpaks0) | 2:37 |
 | 15 | [Proibidão](https://open.spotify.com/track/0tHrwWKfAHGWmJ38X5ta4q) | [Meno Will](https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Proibidão](https://open.spotify.com/album/5Usj6idcQVtU21T1KGgFsa) | 2:27 |
 | 16 | [Tralha](https://open.spotify.com/track/7JXGcuv2CY9U6OBVCuSUyU) | [$nif](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw) | [Tralha](https://open.spotify.com/album/4yeZ500YR28F9lZr9uTBQd) | 3:12 |
 | 17 | [Placo \(feat\. Putodiparis\)](https://open.spotify.com/track/457MK81IVMIuYQWpJzFQgU) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Placo \(feat\. Putodiparis\)](https://open.spotify.com/album/6eUs5hQgQsnKdY14k66i2q) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 69 | [Polo Play](https://open.spotify.com/track/6xgxly2TQ501NjZcrCshBD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Polo Play](https://open.spotify.com/album/5FzodxlzOeoOapYbqYJz8J) | 2:40 |
 | 70 | [Gestão Perigosa](https://open.spotify.com/track/2EngGk2WRKQ1GJwkw6tYmm) | [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka) | [Gestão Perigosa](https://open.spotify.com/album/6ZMM9cDOSqjuXtW7FXkLQI) | 2:37 |
 
-Snapshot ID: `MTY1NTQzNDg2MCwwMDAwMDBlNjAwMDAwMTgxNmY5YjU2NmUwMDAwMDE4MTQ5NDIwZGJl`
+Snapshot ID: `MTY1NTgyMjY4OSwwMDAwMDBlODAwMDAwMTgxODZiOTIzOGYwMDAwMDE4MTQ5NDIwZGJl`

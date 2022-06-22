@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 278918,
       "name": "2020 Vision",
       "url": "https://open.spotify.com/track/2Z1fmITgFG1R7risWiMktP"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 186813,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3H2SEI9C3s0w1UTEkbBlOc"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 309570,
       "name": "AMERICAN HORROR STORY",
       "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 141932,
       "name": "Build Me a Way - Single Version",
       "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 155200,
       "name": "COUNT ON ME",
       "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 185344,
       "name": "Credit (Can I?)",
       "url": "https://open.spotify.com/track/03FzQCFcXav5HVYg7T7Gug"
@@ -1326,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "FATHER'S DAY",
+        "url": "https://open.spotify.com/album/39gFwU1cBpRZK05zRRFGkD"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253232,
+      "name": "FATHER'S DAY",
+      "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
+    },
+    {
+      "album": {
         "name": "Strawberry Moon",
         "url": "https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq"
       },
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 149342,
       "name": "Ghetto 24 (feat. Tinashe)",
       "url": "https://open.spotify.com/track/77RkSf6uRh98SCq1a68Jk5"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 211384,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 193109,
       "name": "Kimbo Slice",
       "url": "https://open.spotify.com/track/1uRvYHBetRUQNsHrSlrlUi"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 179585,
       "name": "LL Cool J",
       "url": "https://open.spotify.com/track/4iq4aolTh4HCTc4fLuV22a"
@@ -2331,7 +2349,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 145466,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1ayd7oWv0DPtwY4dZGMwbt"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 203793,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 222439,
       "name": "peon",
       "url": "https://open.spotify.com/track/2pRIFvnmGp8swkjRKmL9H6"
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 190838,
       "name": "Peso",
       "url": "https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 140470,
       "name": "Plead The .45th",
       "url": "https://open.spotify.com/track/2iY7S7JW6JCh0N6qZIFWWL"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 280000,
       "name": "Psychedelic Views (feat. IDK)",
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 155573,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 263720,
       "name": "SIERRA NIGHTS (feat. Ryan Beatty)",
       "url": "https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 205320,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 144868,
       "name": "Taco",
       "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
@@ -3563,7 +3581,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
@@ -3763,7 +3781,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 142634,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/02rDTNjOl6voAmfx6dwu7J"
@@ -3983,7 +4001,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "WIDE Open",
       "url": "https://open.spotify.com/track/3bC1vaJFYuf7y9tln5EMWB"

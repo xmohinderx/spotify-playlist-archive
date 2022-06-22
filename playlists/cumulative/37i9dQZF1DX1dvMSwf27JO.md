@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform?
 
-142 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+143 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Nightcrawler](https://open.spotify.com/track/5Vv84O4hpfW3yVJokveL0b) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Nightcrawler](https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn) | 2:19 | 2022-02-11 | 2022-05-14 |
 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 | 2022-04-11 |  |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-05-27 |  |
-| [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-28 |  |
+| [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-28 | 2022-06-22 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 |  |
 | [Palace/Curse \(feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 | 2022-06-17 |  |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-06-17 |  |
@@ -107,6 +107,7 @@
 | [Pop Star](https://open.spotify.com/track/6szae8TGTs5QgPqdDFblg1) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pop Star](https://open.spotify.com/album/3VLoVIwrTtErutN0ec3uJU) | 3:04 | 2021-08-05 |  |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-12 |  |
 | [Prom](https://open.spotify.com/track/5yvhdo8FXbBsIllxv2Rr94) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:16 | 2021-08-05 |  |
+| [Puddles](https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Puddles](https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM) | 1:49 | 2022-06-21 |  |
 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 | 2021-08-05 | 2022-05-14 |
 | [Red Dot Music](https://open.spotify.com/track/237B0GS3Y8VwGGD9bGl1vG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 6:07 | 2022-01-11 |  |
 | [Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:04 | 2021-11-19 |  |

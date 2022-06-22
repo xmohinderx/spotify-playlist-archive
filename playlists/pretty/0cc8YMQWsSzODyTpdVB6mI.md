@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 42,095 likes - 50 songs - 2 hr 55 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 42,112 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Milk Talk](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 |
+| 1 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 |
 | 2 | [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 |
 | 3 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 |
 | 4 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 |

@@ -4,7 +4,7 @@
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Caio Luccas
 
-76 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
+77 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Longe dos Falsos](https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Longe dos Falsos](https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf) | 3:19 | 2022-04-01 |  |
 | [M4](https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [M4](https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3) | 2:50 | 2022-03-18 |  |
 | [Maluquin](https://open.spotify.com/track/506LRr3SmNRIyP4ShHifJ5) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Maluquin](https://open.spotify.com/album/2aU8z30V3wM8nhoj1C53vo) | 2:28 | 2022-05-27 | 2022-06-14 |
+| [Marca de Fita](https://open.spotify.com/track/6Ur3ZGIJcYbDXZpLXM7wIy) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Marca de Fita](https://open.spotify.com/album/1QFheKaIxrR8apZFZg8hZx) | 3:08 | 2022-06-21 |  |
 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 | 2022-03-18 |  |
 | [Mds](https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Mds](https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX) | 2:05 | 2022-03-18 |  |
 | [Meca Preta](https://open.spotify.com/track/5my5WVGf2yjBanfad10kII) | [Martin](https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Meca Preta](https://open.spotify.com/album/0D6K70rHi2Mng6B3JeUozo) | 2:15 | 2022-06-17 |  |

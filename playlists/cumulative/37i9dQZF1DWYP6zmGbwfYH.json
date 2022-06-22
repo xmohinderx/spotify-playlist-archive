@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
@@ -516,6 +516,42 @@
     },
     {
       "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
+    },
+    {
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
+    },
+    {
+      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -581,7 +617,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 217293,
       "name": "El Perro, el Gato y Yo",
       "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
@@ -711,7 +747,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
@@ -859,7 +895,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Hombre Libre",
       "url": "https://open.spotify.com/track/0aNg375SvHpJAWSMZkIYtF"
@@ -931,7 +967,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 189013,
       "name": "La Fuerza Del Destino",
       "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
@@ -1003,7 +1039,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 249768,
       "name": "La Monjita Voladora - Cumbia Sonidera",
       "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 183186,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/16Bp59vZMZDe9vQS4waCJO"
@@ -1317,7 +1353,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 181253,
       "name": "Notas De Sociedad",
       "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 203253,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 376733,
       "name": "Quiero Morir En Tu Piel",
       "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 181133,
       "name": "Quiero Saber De Ti",
       "url": "https://open.spotify.com/track/0RYPqgCwHWWK4vD8us2o8y"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 310973,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
@@ -1927,7 +1963,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
@@ -1967,6 +2003,24 @@
       "duration_ms": 177133,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+    },
+    {
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
     },
     {
       "album": {
@@ -2089,7 +2143,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
@@ -2107,7 +2161,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
@@ -2197,7 +2251,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
@@ -2233,7 +2287,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
@@ -2305,7 +2359,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"

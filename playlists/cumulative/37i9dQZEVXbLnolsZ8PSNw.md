@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-800 songs - 1 day 22 hr 16 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+801 songs - 1 day 22 hr 19 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2021-07-25 | 2021-08-01 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-07-18 | 2021-07-19 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-30 |
-| [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 |  |
+| [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-06-22 |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2021-10-10 | 2021-10-26 |
 | [Breathe \(feat\. Colbie Caillat\) \(Taylor’s Version\)](https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:23 | 2021-04-11 | 2021-04-13 |
 | [Bringing It Back](https://open.spotify.com/track/3io8SywLvvaJDxTU94phL7) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Made In The Pyrex \(Bonus Track\)](https://open.spotify.com/album/659HHNEhpkkMd96Klbdrl4) | 3:10 | 2021-04-18 | 2021-04-19 |
@@ -731,6 +731,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-28 | 2021-12-29 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-25 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-05-23 |
+| [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-21 |  |
 | [Verdansk](https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:02 | 2021-07-25 | 2022-03-07 |
 | [Vindaloo](https://open.spotify.com/track/6rok0MW3ze4KBEng4ZBAna) | [Fat Les](https://open.spotify.com/artist/4BHU68IINW0fZNRIvSOir5) | [Vindaloo](https://open.spotify.com/album/516PzWSkrAALZ6gft6l7oi) | 3:41 | 2021-06-20 | 2021-07-14 |
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2021-10-31 | 2021-11-14 |

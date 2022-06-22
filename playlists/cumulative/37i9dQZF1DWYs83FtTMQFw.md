@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Drake, Future, and Post Malone.
 
-676 songs - 1 day 10 hr 43 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+677 songs - 1 day 10 hr 47 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Boogieee](https://open.spotify.com/track/3dyDNfDnkAWPVWWbQ8YdH8) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [Boogieee](https://open.spotify.com/album/05jPqj8eV3n5KmX8M0J3Cp) | 2:37 | 2021-06-05 | 2021-06-19 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-07-17 | 2021-09-18 |
 | [Break From It](https://open.spotify.com/track/3wjD1rkZVPjXAlNtYhJNEB) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Break From It](https://open.spotify.com/album/4654ASXiNBc76nPGlSMIQm) | 1:56 | 2022-03-25 | 2022-06-11 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 |  |
 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 | 2021-09-18 | 2021-09-25 |
 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 | 2021-10-16 | 2022-04-09 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,802 likes - 294 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,011 likes - 294 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 4 | [Conga](https://open.spotify.com/track/2iOeW2WmQKgqgDst8EiOUS) | [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/3IneQwhJjMHlcJyq6eflpv) | 2:14 |
 | 5 | [Rhythm Is A Dancer](https://open.spotify.com/track/6GDJDe3I7yHq4rPDTfuJMj) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Rhythm Is A Dancer](https://open.spotify.com/album/2i95t3UAKol4EK43kP2CsQ) | 2:27 |
 | 6 | [P.I.M.P\. \- HEDEGAARD Remix](https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [DARK MATTER](https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg) | 2:54 |
-| 7 | [Give It to Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 |
+| 7 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 |
 | 8 | [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 |
 | 9 | [I Wanna Dance With Somebody \- UK Edit](https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Wanna Dance With Somebody](https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS) | 2:14 |
 | 10 | [Take Me Home, Country Roads](https://open.spotify.com/track/3EpPHoe7GTQoN4Y38DNFye) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Take Me Home, Country Roads](https://open.spotify.com/album/5RRIWNimOoLgv0gPgRMfZv) | 3:55 |
