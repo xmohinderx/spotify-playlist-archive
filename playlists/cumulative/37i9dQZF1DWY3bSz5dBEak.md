@@ -4,7 +4,7 @@
 
 > From wistful sonatas, to ghostly trios and triumphant concertos, there's music for every mood in this collection of Beethoven's famous works for piano.
 
-61 songs - 7 hr 47 min - not published yet
+61 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/775TmBxgw3Wj9Yl1JjXsBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,186 likes - 110 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,196 likes - 110 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 57 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 | 58 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 59 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 |
-| 60 | [Trakten](https://open.spotify.com/track/1h5yrNRlYtGnj4ndmD8Umw) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Trakten](https://open.spotify.com/album/6Y1ljcBhfHY8pmogk5gzzr) | 2:41 |
+| 60 | [TRAKTEN](https://open.spotify.com/track/1h5yrNRlYtGnj4ndmD8Umw) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [TRAKTEN](https://open.spotify.com/album/6Y1ljcBhfHY8pmogk5gzzr) | 2:41 |
 | 61 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 |
 | 62 | [Better Clothes](https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Better Clothes](https://open.spotify.com/album/5Oj1H9ZLW7ZrDDlD2qSeSm) | 2:57 |
 | 63 | [Ferris Wheel](https://open.spotify.com/track/4T8UkXN4RQmWiOZk3foNNe) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Ferris Wheel](https://open.spotify.com/album/631ZFjMLDYUkkTE1nfo84u) | 2:56 |

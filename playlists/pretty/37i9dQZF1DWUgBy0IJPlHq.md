@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Miko Marks
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,490 likes - 116 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,544 likes - 116 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

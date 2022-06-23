@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-64 songs - 3 hr 16 min - not published yet
+64 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

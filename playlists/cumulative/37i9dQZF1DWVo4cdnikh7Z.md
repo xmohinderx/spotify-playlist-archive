@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vikram
 
-98 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+99 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
 | [Voyage Of Agilan King Of The Indian Ocean \- From "Agilan"](https://open.spotify.com/track/4xvWRQWc4yQiYYFwhdLYBY) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Voyage Of Agilan King Of The Indian Ocean \(From "Agilan"\)](https://open.spotify.com/album/2owHwqO6vnLrXKZ5JQkNSI) | 1:07 | 2022-05-30 | 2022-06-14 |
 | [Wasted](https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:02 | 2022-05-17 |  |
+| [Whistle Song](https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk) | [Anthony Daasan, Srinisha Jayaseelan](https://open.spotify.com/artist/0wrnX0e2VEQGo2KoJbAb6Q) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ) | 3:22 | 2022-06-22 |  |
 | [Yosichi Yosichi \(From "Andhagan"\)](https://open.spotify.com/track/61SbtTHEHp1yHkcmKvnCfq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Yosichi Yosichi \(From "Andhagan"\)](https://open.spotify.com/album/1cThw8o36X9VSZ8D2aUiVa) | 4:07 | 2022-05-27 | 2022-06-10 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

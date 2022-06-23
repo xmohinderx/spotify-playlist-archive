@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-112 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+113 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [La fabrica de sueños](https://open.spotify.com/track/1mUMzzNbgaNzsIt42siYln) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Mucho Muchacho](https://open.spotify.com/artist/0PajLDK4vA1VnOVyYYO7Ae) | [La fabrica de sueños](https://open.spotify.com/album/3Blq0nNNqRcHp8uFtpi4nU) | 4:16 | 2022-01-21 | 2022-02-05 |
 | [La Florinata](https://open.spotify.com/track/4mMru0gIj4JubTsnNqN3h8) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u) | [La Florinata](https://open.spotify.com/album/1jnZco9PxSoj53UgEPFLEw) | 3:56 | 2022-03-04 | 2022-04-22 |
 | [La Góndola](https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [La Góndola](https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP) | 3:02 | 2022-02-22 |  |
+| [La Isla del Encanto](https://open.spotify.com/track/5ZTqmIutlqPTWR7fJ2ipWp) | [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Blasfem On Air](https://open.spotify.com/album/1Kagas12BL4vvW4jfZNJHz) | 3:00 | 2022-06-21 |  |
 | [La Magia del cine](https://open.spotify.com/track/0HjFfNgNq7p24zZSDtpkWN) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [La Magia del Cine](https://open.spotify.com/album/7zj9gzCy8NQbmt5m0kD1R1) | 2:33 | 2022-04-21 | 2022-05-28 |
 | [La Mili](https://open.spotify.com/track/3JZQr9C0hQbhs0uV98KLMo) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [La Mili](https://open.spotify.com/album/5IpcI6X72fiNGb23A0208k) | 2:56 | 2022-01-21 |  |
 | [La Retahíla](https://open.spotify.com/track/56zCnpzoU2sGbA8nYSfIR7) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [La Retahíla](https://open.spotify.com/album/0zxoJFfcJsOheEnbrrLvpB) | 2:05 | 2022-04-21 | 2022-05-28 |

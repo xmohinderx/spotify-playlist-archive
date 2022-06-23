@@ -1,12 +1,12 @@
 {
   "description": "we live in harry's house",
-  "num_followers": 1334526,
+  "num_followers": 1335338,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc4MjY3NSwwMDAwMDE4NTAwMDAwMTgxODQ1Njk1YTkwMDAwMDE4MTcyYTkzNmY3",
+  "snapshot_id": "MTY1NTkxNDMwMywwMDAwMDE4NjAwMDAwMTgxOGMyZjExMTcwMDAwMDE4MTcyYTkzNmY3",
   "tracks": [
     {
       "added_at": "2022-05-20 04:00:00",
@@ -365,6 +365,38 @@
       "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
+      "added_at": "2022-06-17 17:25:59",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
+    },
+    {
+      "added_at": "2022-06-22 16:11:43",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
       "added_at": "2022-06-13 23:00:00",
       "album": {
         "name": "FOUR (Deluxe)",
@@ -395,22 +427,6 @@
       "duration_ms": 254725,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
-    },
-    {
-      "added_at": "2022-06-17 17:25:59",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-04-08 03:59:53",

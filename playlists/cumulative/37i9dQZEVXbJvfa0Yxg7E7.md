@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-699 songs - 1 day 12 hr 56 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+700 songs - 1 day 13 hr 1 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-28 | 2021-11-07 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-08 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-29 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 |  |
 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 | 2021-09-19 | 2021-09-20 |
 | [Breathe](https://open.spotify.com/track/6t67AAAEnSbWvEXJpEaJpj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Breathe](https://open.spotify.com/album/0I6VuIvd99qFcRRd6tEI4a) | 4:36 | 2022-03-26 | 2022-03-28 |
 | [Brightsider](https://open.spotify.com/track/0VJddJ3CwYfjT67HXS4CEr) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Brightsider](https://open.spotify.com/album/43uMfPS6yerH5x4HQZg3zy) | 3:16 | 2022-06-04 |  |
@@ -141,7 +142,7 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-23 |
 | [Delux](https://open.spotify.com/track/4xGfI1u54ykDTeD7Sr2uTK) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Delux](https://open.spotify.com/album/6RvN8Cimpl4gayeXp725vU) | 2:40 | 2022-02-17 | 2022-02-22 |
 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 | 2021-07-18 | 2021-07-25 |
-| [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ) | 3:05 | 2021-03-27\* |  |
+| [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n \(feat\. Maria Mena\)](https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ) | 3:05 | 2021-03-27\* | 2022-06-23 |
 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 | 2022-04-02 | 2022-05-20 |
 | [Det Går Et Festtog Gjennom Landet!](https://open.spotify.com/track/06xTF6pNyBi14cHpKISeyk) | [Sarpsborg Kammerkor](https://open.spotify.com/artist/4yhRrKbyZyoKNHY3jR7T7K), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Livets toner \- en messe for eng og asfalt](https://open.spotify.com/album/6yAoYL9gEeFPIhI6an83ob) | 2:41 | 2021-05-19 | 2021-05-20 |
 | [det urolige hjertet](https://open.spotify.com/track/2g1rRs9JS5apGsROlSmtYr) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [det urolige hjertet](https://open.spotify.com/album/4MM5DfeciVb5GVfrXeAnoz) | 3:19 | 2021-04-11 | 2021-04-18 |

@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-80 songs - 3 hr 57 min - not published yet
+80 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

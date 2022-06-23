@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Lil Baby
 
-336 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+337 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Life of Sin](https://open.spotify.com/track/1xiUzPAksS3sKRHYRtPtP2) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Life of Sin](https://open.spotify.com/album/0aLvHpsvtzOJsgGz4r4bYl) | 2:49 | 2022-03-04 | 2022-03-26 |
 | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv) | [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx) | 3:35 | 2022-05-06 |  |
 | [Lion Eyes](https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lion Eyes](https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3) | 1:52 | 2021-11-12 | 2022-03-18 |
+| [LLB3 \(Long Live Boosa\)](https://open.spotify.com/track/3dkPdd6AqLU25pqI8JHuiH) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [LLB3 \(Long Live Boosa\)](https://open.spotify.com/album/2SrqrR0xnmCxEJzcTCuquA) | 3:43 | 2022-06-22 |  |
 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 | 2021-11-12 | 2022-04-09 |
 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 | 2021-10-01 | 2022-03-05 |
 | [Long Time Comin](https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Long Time Comin](https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M) | 2:40 | 2022-01-14 | 2022-04-16 |
@@ -222,7 +223,7 @@
 | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/0sQVPgee00O6WrP7b8E1ix) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/6f9Ybh8nheTL1SP9fay42H) | 3:36 | 2022-01-28 | 2022-04-29 |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2021-09-03 | 2022-01-15 |
 | [Pain Killers](https://open.spotify.com/track/1JixF2WqbP3LyiroGiRyog) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Pain Killers](https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH) | 2:38 | 2022-03-11 | 2022-03-26 |
-| [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 |  |
+| [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-06-23 |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-05-27 |  |
 | [Pay Me To Speak](https://open.spotify.com/track/1Eiyvi5LpfJOsVo5kHCWpQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Pay Me To Speak](https://open.spotify.com/album/1OX0DZnARBFLyAEcHfNxe7) | 3:23 | 2022-03-25 | 2022-05-20 |
 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-11 |  |

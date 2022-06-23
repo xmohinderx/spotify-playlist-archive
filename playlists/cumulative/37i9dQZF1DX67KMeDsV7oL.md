@@ -4,7 +4,7 @@
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-21 songs - 1 hr 19 min - not published yet
+21 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/69CD1AnUyA69Z8Q8iNNPom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

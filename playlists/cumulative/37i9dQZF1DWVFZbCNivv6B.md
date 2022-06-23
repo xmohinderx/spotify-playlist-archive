@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Lefty SM y C\-Kan.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Toser One.
 
-163 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+164 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Pecadores](https://open.spotify.com/track/4cFYUfJV8SWacdsQaxhrTo) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Pecadores](https://open.spotify.com/album/5UnW6smJoYGhvdQfayuF6t) | 3:55 | 2022-04-22 |  |
 | [Peligro a la Redonda](https://open.spotify.com/track/6bQGXITO7qz0yuXSF4eGKX) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Peligro a la Redonda](https://open.spotify.com/album/6djC4TxnIgtTrLv6OiKQdj) | 2:50 | 2022-01-28 |  |
 | [Perro Solitario](https://open.spotify.com/track/6bLgUetWwTnFniNOjKCks5) | [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Perro Solitario](https://open.spotify.com/album/3xsYDHWlBi4XUvlR7Nfwjo) | 3:46 | 2022-01-28 | 2022-04-21 |
-| [Perros](https://open.spotify.com/track/35wgcrs0S8H2h2wmMnK7AP) | [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Mof](https://open.spotify.com/artist/492bMXjPCRwZs27PrPpJeL) | [Ojo de Gato](https://open.spotify.com/album/73g5DF1QgfFEMrBwZ5c9ET) | 4:34 | 2022-06-03 |  |
+| [Perros](https://open.spotify.com/track/35wgcrs0S8H2h2wmMnK7AP) | [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Mof](https://open.spotify.com/artist/492bMXjPCRwZs27PrPpJeL) | [Ojo de Gato](https://open.spotify.com/album/73g5DF1QgfFEMrBwZ5c9ET) | 4:34 | 2022-06-03 | 2022-06-23 |
 | [Pesadilla en el Cielo](https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Pesadilla en el Cielo](https://open.spotify.com/album/3AvB7htCyqKQLjpygGerr9) | 3:46 | 2022-01-28 |  |
 | [PNL](https://open.spotify.com/track/261zDRA4W4tgHvVi6MW5cZ) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Ramón Cortéz](https://open.spotify.com/artist/0VURtYFz2B4jn308WVCgVF) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 4:48 | 2022-01-28 | 2022-03-18 |
 | [Polvo Blanco](https://open.spotify.com/track/5LuH2MoN2dsA3PAZvIJ6So) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Polvo Blanco](https://open.spotify.com/album/1rCMFdeaDoAQmYbufZNk4O) | 4:29 | 2022-06-14 |  |
@@ -149,6 +149,7 @@
 | [Sonrisa Grande, Ojos Tristes](https://open.spotify.com/track/0lBgg4RBEbDroO3SxeG5G9) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Punto de Quiebre](https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT) | 4:23 | 2022-01-28 | 2022-03-12 |
 | [Soy Asi](https://open.spotify.com/track/1VNMggElvX8fUMew6v2ZIr) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Soy Así](https://open.spotify.com/album/0soiuiHXyRXTH1aKinhlWr) | 4:00 | 2022-02-11 |  |
 | [Soy Así](https://open.spotify.com/track/5a16CSPDkcFU6rkZe3XaLN) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1tITJo6GckWZXtVmadfh0Q) | [Soy Así](https://open.spotify.com/album/6iuIeaHrNp5wnIWipKPTCs) | 2:42 | 2022-01-28 | 2022-02-19 |
+| [Suficiente](https://open.spotify.com/track/7uSIBQ7w0a9uCsqojVASVL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Suficiente](https://open.spotify.com/album/1RMpc2OGOJ1rDoN6eDIdlj) | 3:35 | 2022-06-22 |  |
 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 | 2022-02-24 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-01-28 |  |
 | [Tirando Saco](https://open.spotify.com/track/6U0tZNSKuwAbNvT3kvezhF) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Tirando Saco](https://open.spotify.com/album/4AagE92M06irK4MRKbc5fc) | 2:42 | 2022-01-28 | 2022-04-23 |

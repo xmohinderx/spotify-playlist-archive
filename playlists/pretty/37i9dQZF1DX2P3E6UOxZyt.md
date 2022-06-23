@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,665 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,676 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [專屬天使](https://open.spotify.com/track/5dDHCutM1wE6BsuOh8hYit) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [專屬天使](https://open.spotify.com/album/2GRc9GiWNpRohx8L5O34Xg) | 3:56 |
 | 60 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 
-Snapshot ID: `MTY1NTg2MDc2OSwwMDAwMDAwMGI5MmFiM2UwZGEwYjVjMTE0YzViZjM3NDBjZThiMWQ2`
+Snapshot ID: `MTY1NTk0NjM4MiwwMDAwMDAwMGI5MmFiM2UwZGEwYjVjMTE0YzViZjM3NDBjZThiMWQ2`

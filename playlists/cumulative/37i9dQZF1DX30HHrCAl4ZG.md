@@ -4,7 +4,7 @@
 
 > The resurgence is real\. Cover: Cautious Clay
 
-520 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+521 songs - 1 day 4 hr 19 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Are You Happy?](https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Are You Happy?](https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF) | 3:12 | 2021-06-07 | 2022-06-11 |
 | [Army Of Me](https://open.spotify.com/track/4RYc3RH9YZD6jn8k6h7aAW) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/3KXPsypHcb5a9taDnFWkFp) | 4:06 | 2021-06-07 | 2022-04-15 |
 | [As Much As I Can](https://open.spotify.com/track/1q6ZIGa9Vg6OV24mazdJ18) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [As Much as I Can](https://open.spotify.com/album/2YV7i7xj1SglQXBuJfeYVJ) | 3:28 | 2021-07-23 | 2022-02-11 |
-| [At the End of the Day](https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:53 | 2022-03-04 |  |
+| [At the End of the Day](https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:53 | 2022-03-04 | 2022-06-23 |
 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-19 | 2022-06-10 |
 | [Awkward Conversations](https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Awkward Conversations](https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf) | 3:19 | 2022-05-06 |  |
 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-03-22 | 2022-06-11 |
@@ -460,6 +460,7 @@
 | [The Strangest Thing](https://open.spotify.com/track/7sumQuqsfJOuQERyfDq6FP) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book II](https://open.spotify.com/album/5c7spvnif2WCfBfUArnKgz) | 4:13 | 2022-04-08 |  |
 | [The Sulking Poet](https://open.spotify.com/track/3ZCVtNy6NDzG0SUx5VBkvH) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [The Sulking Poet](https://open.spotify.com/album/5hSG9UtXw3vBvFrQjqmIkP) | 3:34 | 2022-03-25 | 2022-04-18 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-19 | 2022-04-20 |
+| [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-14 |  |
 | [These Days R Mine](https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [These Days R Mine](https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB) | 3:28 | 2021-06-07 | 2022-04-15 |
 | [They Don't Know](https://open.spotify.com/track/2y6ENcGCRfpH6Vbeu19GMq) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [They Don't Know](https://open.spotify.com/album/0e79HmvVdyBdU9yFiPfGxl) | 3:27 | 2022-06-10 |  |
@@ -500,7 +501,7 @@
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-09-10 | 2022-06-03 |
 | [Westside](https://open.spotify.com/track/5K1is8joaUpZJHuNkEoSfC) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:00 | 2021-06-07 | 2022-04-29 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-01-14 | 2022-04-18 |
-| [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 | 2022-06-14 |  |
+| [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 | 2022-06-14 |  |
 | [What A Damn Shame](https://open.spotify.com/track/64aZu0DufRHVyNpr1x0qOf) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [What A Damn Shame](https://open.spotify.com/album/3GCU8o7xZYLMqF0PkLDy0s) | 2:36 | 2021-08-27 | 2022-04-08 |
 | [What About The Kids](https://open.spotify.com/track/156PSLfyznq2AW5wYXJ08v) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [What About The Kids](https://open.spotify.com/album/2DMYA2EswtcSmoXQgHeODP) | 3:37 | 2022-06-10 |  |
 | [What Are You Waiting For?](https://open.spotify.com/track/4HO7oKP67HhuMymOChH7F2) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What Are You Waiting For?](https://open.spotify.com/album/0TQF5lIpRet5YxNm61wqjw) | 1:59 | 2021-08-02 | 2022-02-06 |

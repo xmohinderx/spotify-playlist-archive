@@ -4,7 +4,7 @@
 
 > Set the mood for your literary discussions.
 
-177 songs - 7 hr 31 min - not published yet
+177 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/5ae71PD7wfX8aW8ISX2Mdi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

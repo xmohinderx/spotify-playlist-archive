@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,300 likes - 149 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,520 likes - 149 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 148 | [In Situ](https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games](https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB) | 2:55 |
 | 149 | [Dirty Pillow](https://open.spotify.com/track/4nyrnbpzTMyP1kfxydwjRV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/77Wq66HlKZgyKOtN5Whdbr) | 2:36 |
 
-Snapshot ID: `MTY1NTgzODI3NiwwMDAwMzQ1YTAwMDAwMTgxODdhNmZhZDMwMDAwMDE4MTY5N2RmMDJm`
+Snapshot ID: `MTY1NTkxODk0NiwwMDAwMzQ1YjAwMDAwMTgxOGM3NWU4YzcwMDAwMDE4MTY5N2RmMDJm`

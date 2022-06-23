@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-732 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+733 songs - 1 day 10 hr 31 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [liga la sosa](https://open.spotify.com/track/33MgQyqDdQjhBBrm7rGGVb) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 1:52 | 2021-08-15 | 2021-08-17 |
 | [LIPSI HA](https://open.spotify.com/track/1D4ptfeNRLRWu52uzIXW5d) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [LIPSI HA](https://open.spotify.com/album/4wkPIWpRZtBEUUJeChuqVc) | 2:01 | 2021-09-12 | 2021-11-21 |
 | [LIPSI HA](https://open.spotify.com/track/54ZhPL5soHKDxg9a5wizPv) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:01 | 2021-11-21 | 2022-01-06 |
-| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-21 |  |
+| [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-21 | 2022-06-23 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-20 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Mama Makusa](https://open.spotify.com/track/6h2f5GrfpXo6eZCxUdzvF2) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:52 | 2021-10-23 | 2022-01-24 |
@@ -560,6 +560,7 @@
 | [Невеста](https://open.spotify.com/track/42aOZzgs7sCAqjWYPJTqqT) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Невеста](https://open.spotify.com/album/07GjYVvc4MOhlorDgSniVF) | 3:30 | 2021-10-17 | 2021-10-31 |
 | [Неправильно](https://open.spotify.com/track/7gskwSSJ0u2KijosXJorYT) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Неправильно](https://open.spotify.com/album/1VoKqNbx0hObblF4hoC59o) | 3:07 | 2021-04-18 | 2021-05-03 |
 | [Непрожитая жизнь](https://open.spotify.com/track/63NUySlWldTh5PIFl6T9zR) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:55 | 2021-12-04 | 2021-12-09 |
+| [Несмачний Мед](https://open.spotify.com/track/4tEr9oykqAlnLnaltbjoDe) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Несмачний Мед](https://open.spotify.com/album/6HOsBJMipipIvSgFibrt1N) | 2:09 | 2022-06-22 |  |
 | [Нет Сердца](https://open.spotify.com/track/3JgsA3Vt8GFplHNrMK0QJU) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Million Dollar Depression](https://open.spotify.com/album/6cyFbDC72hy7WWKLoGAQE9) | 3:06 | 2021-03-27\* | 2021-03-27 |
 | [Нету интереса](https://open.spotify.com/track/1nINIHobpPWexRP8ABH8bT) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Нету интереса](https://open.spotify.com/album/5Vj4LseRdzdMhrXOUTSrCH) | 3:04 | 2021-03-27\* | 2021-09-04 |
 | [Новая волна](https://open.spotify.com/track/7rRzijIIKQ8GntJ8IUwUyY) | [DJ SMASH](https://open.spotify.com/artist/1fLIzbK5e8MGrLKj1dEMsg), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Новая волна](https://open.spotify.com/album/4hwnkuhRmnW9rFN1P0m6D4) | 2:38 | 2021-04-04 | 2021-05-28 |

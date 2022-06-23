@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-881 songs - 1 day 22 hr 55 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+882 songs - 1 day 22 hr 59 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-28 | 2021-09-30 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-03-21 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-22 | 2022-05-27 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 |  |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2022-05-16 | 2022-05-29 |
 | [Brottslingar](https://open.spotify.com/track/5o8lrG703lxW7sxvLzIWhC) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 3:03 | 2021-10-23 | 2021-10-24 |
 | [Brände hela lönen](https://open.spotify.com/track/6ro4XzciI1U2JMZd3QfM2u) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Brände hela lönen](https://open.spotify.com/album/3kJ50xZWdFsdZAwnZsZPz2) | 2:45 | 2021-10-01 | 2021-10-04 |
@@ -179,7 +180,7 @@
 | [Dirty 30](https://open.spotify.com/track/3bZq9URLSRubOqwqrdzkzh) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:08 | 2022-04-30 | 2022-05-06 |
 | [Dirty Kalle](https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Dirty Kalle](https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU) | 2:26 | 2021-11-28 | 2022-01-30 |
 | [Discoteque](https://open.spotify.com/track/7dMOzsTZOUtOF7W5kLN0gf) | [THE ROOP](https://open.spotify.com/artist/34G31kGbSQmemVlI0G784o) | [Discoteque](https://open.spotify.com/album/1OfWh8e9R7tOmrX4pGlDBe) | 3:00 | 2021-05-25 | 2021-05-30 |
-| [Djurens vaggvisa](https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum) | 2:20 | 2022-01-02 |  |
+| [Djurens vaggvisa](https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF) | [Humlan Djojj](https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ), [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Somna med Humlan Djojj](https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum) | 2:20 | 2022-01-02 | 2022-06-23 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-28 | 2022-01-22 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-11-28 | 2021-12-29 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-05-09 | 2021-07-11 |
@@ -797,7 +798,7 @@
 | [Toute la nuit \(Hela natten\)](https://open.spotify.com/track/7LGmUdDzImKXSGf3nHnXjJ) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Toute la nuit \(Hela natten\)](https://open.spotify.com/album/7z5ZZ7aTFzAYdRocy5ZUf8) | 2:42 | 2021-06-23 | 2021-06-26 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-16 | 2021-11-21 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-06-02 | 2021-06-12 |
-| [Trakten](https://open.spotify.com/track/1h5yrNRlYtGnj4ndmD8Umw) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Trakten](https://open.spotify.com/album/6Y1ljcBhfHY8pmogk5gzzr) | 2:41 | 2022-06-18 |  |
+| [TRAKTEN](https://open.spotify.com/track/1h5yrNRlYtGnj4ndmD8Umw) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [TRAKTEN](https://open.spotify.com/album/6Y1ljcBhfHY8pmogk5gzzr) | 2:41 | 2022-06-18 |  |
 | [Trapper Of The Year \(Intro\)](https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Trapper Of The Year \(Intro\)](https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF) | 1:50 | 2021-11-23 | 2021-11-28 |
 | [Trapper Of The Year \(Intro\) \- Bonus Track](https://open.spotify.com/track/5cKilVQ9iZamOzodVcYQZ2) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 1:50 | 2021-11-28 | 2022-03-06 |
 | [Trendsetter](https://open.spotify.com/track/4afAxtcZ59NJsOQsxnLtOd) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Trendsetter](https://open.spotify.com/album/2KuCD9pNmV3HItld2r0NyL) | 2:24 | 2021-04-04 | 2021-04-05 |

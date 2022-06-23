@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Haikaiss, Kawe
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,104 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,135 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 23 | [DUJEITO Q DA](https://open.spotify.com/track/4OW2bMqaWGqH83ojBaHeYt) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [DUJEITO Q DA](https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V) | 1:53 |
 | 24 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 |
 | 25 | [Mensagem 2](https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ Negret](https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna) | [Mensagem 2](https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM) | 2:31 |
-| 26 | [Nathalina](https://open.spotify.com/track/39KW45pJsJwZugxiFpx340) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [JG](https://open.spotify.com/artist/4H0H0ZdeSMxAMrYhWHUogD), [Savage TV](https://open.spotify.com/artist/69bnICoeTmnTXMXzR0HV60) | [Nathalina](https://open.spotify.com/album/1EHuQNnZFLbEijrUcWGr0e) | 4:00 |
+| 26 | [Nathalina](https://open.spotify.com/track/39KW45pJsJwZugxiFpx340) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [JG](https://open.spotify.com/artist/4H0H0ZdeSMxAMrYhWHUogD), [Savage TV](https://open.spotify.com/artist/69bnICoeTmnTXMXzR0HV60), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Nathalina](https://open.spotify.com/album/1EHuQNnZFLbEijrUcWGr0e) | 4:00 |
 | 27 | [Auge](https://open.spotify.com/track/5BHhDHzCekouUAt8uKw0yO) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Auge](https://open.spotify.com/album/4TWnzgPdh5X7MjePqSR1gV) | 2:23 |
 | 28 | [Pião Na Sul](https://open.spotify.com/track/6ih6yV8Y4dggPcZksQLXJ2) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Nox](https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX) | [Pião Na Sul](https://open.spotify.com/album/7qhFuqJ8Pydylgv9dLStKB) | 2:53 |
 | 29 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 |

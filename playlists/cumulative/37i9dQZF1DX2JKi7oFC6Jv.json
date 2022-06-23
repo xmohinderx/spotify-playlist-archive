@@ -124,6 +124,28 @@
     },
     {
       "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/34atpY5nrjjXpFae1VDCmC"
+      },
+      "artists": [
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300489,
+      "name": "Bangkok - Roska Remix",
+      "url": "https://open.spotify.com/track/2Lv1zKj2Xv7qD0aqiOVQ9Z"
+    },
+    {
+      "album": {
         "name": "Bayeke (Prace Remix)",
         "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
@@ -179,7 +201,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 423872,
       "name": "Blackbird - LR Groove Remix",
       "url": "https://open.spotify.com/track/2mjK4RRYlKtywhHGxfXHXi"
@@ -219,7 +241,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 290881,
       "name": "BLU Magic",
       "url": "https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2"
@@ -282,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Broken Record Remixes",
+        "url": "https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "DJ Geeneus",
+          "url": "https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333066,
+      "name": "Broken Record - Geeneus Funky Mix",
+      "url": "https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt"
+    },
+    {
+      "album": {
         "name": "Cattiva II / Nightmare",
         "url": "https://open.spotify.com/album/7wuzqUy3RfyAwJAvGIzhYK"
       },
@@ -329,7 +373,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 267904,
       "name": "Cheese and Bun",
       "url": "https://open.spotify.com/track/54NCFi6uvFsfhIMXkduSgT"
@@ -355,7 +399,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 232504,
       "name": "Condo (feat. T-Pain) - Roska Remix",
       "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
@@ -395,7 +439,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 237307,
       "name": "De Siegalizer",
       "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
@@ -661,7 +705,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 285460,
       "name": "Fuller",
       "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"
@@ -715,7 +759,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 456201,
       "name": "Galiium",
       "url": "https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0"
@@ -817,7 +861,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Goo",
       "url": "https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL"
@@ -835,7 +879,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 305478,
       "name": "Groovemental",
       "url": "https://open.spotify.com/track/3na7Htf2DuoNSh47yeBczH"
@@ -853,7 +897,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 212800,
       "name": "Head, Shoulders, Kneez & Toez - Radio Edit",
       "url": "https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ"
@@ -1021,7 +1065,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 173675,
       "name": "In The Morning (Let Your Love Come In) - Sticky Radio Edit",
       "url": "https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg"
@@ -1211,7 +1255,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 186946,
       "name": "Migraine Skank - Main Mix",
       "url": "https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG"
@@ -1229,7 +1273,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Molten",
       "url": "https://open.spotify.com/track/46VwoSjH45elgQKFxwk6pm"
@@ -1247,7 +1291,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 273153,
       "name": "Moth on the Wall",
       "url": "https://open.spotify.com/track/3OKTZvftiFkx5MW4eCcHlQ"
@@ -1287,7 +1331,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 333978,
       "name": "Mr DJ - Radio Edit",
       "url": "https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg"
@@ -1363,7 +1407,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 439466,
       "name": "Quicktime - Roska Remix",
       "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
@@ -1403,7 +1447,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 252633,
       "name": "Red Devil",
       "url": "https://open.spotify.com/track/4mERMsGHTzOqHr1WwUPeap"
@@ -1421,7 +1465,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 367329,
       "name": "Renk Dread 2018",
       "url": "https://open.spotify.com/track/5vQcvMTyjMWijV5RE8R7Hj"
@@ -1439,7 +1483,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 216614,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5sD2XpU2WGPh7YZbFCDrVG"
@@ -1515,7 +1559,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 413678,
       "name": "Shifty - Jook10 Remix",
       "url": "https://open.spotify.com/track/37V2wRgxpNth5JiGv0SXXp"
@@ -1559,7 +1603,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 344036,
       "name": "Sway feat.Correigh",
       "url": "https://open.spotify.com/track/19KZKypz3HmmJQ1Jg1Zgbb"
@@ -1883,7 +1927,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 210967,
       "name": "WYWD - Remix",
       "url": "https://open.spotify.com/track/4hFi1gI6EUBHoi9FjtvCKN"

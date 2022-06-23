@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let some legendary pianists take a turn at the keyboard\. These are the most iconic piano pieces by Mozart.
 
-70 songs - 9 hr 53 min - not published yet
+70 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/5RX0haKiE4rsBnFORL6A6B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

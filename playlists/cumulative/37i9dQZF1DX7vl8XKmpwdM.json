@@ -1174,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "The Warriorr (Tamil)",
+        "url": "https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan, Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/0wrnX0e2VEQGo2KoJbAb6Q"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Whistle Song",
+      "url": "https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk"
+    },
+    {
+      "album": {
         "name": "Yaathi Yaathi",
         "url": "https://open.spotify.com/album/1MtVc2FnYzeClvBrICMnRw"
       },

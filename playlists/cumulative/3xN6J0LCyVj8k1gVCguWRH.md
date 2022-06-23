@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,468 songs - 3 day 13 hr 36 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,469 songs - 3 day 13 hr 38 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2021-10-08 | 2021-10-23 |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-08-20 |  |
+| [My Head](https://open.spotify.com/track/4HC480g0BPfdzlbk3DEgE3) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [My Head](https://open.spotify.com/album/2pPpQd5PLRiJ8QprZiYlFZ) | 2:14 | 2022-06-22 |  |
 | [My Melody](https://open.spotify.com/track/33g3QdjmnRfk877s5j1SrV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [My Melody](https://open.spotify.com/album/2fQjgO30ltKJrtKO0kUEvH) | 2:36 | 2020-04-10 | 2020-04-20 |
 | [My Muse](https://open.spotify.com/track/17MAaNfrT7tgK9l9YDELqi) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [My Muse](https://open.spotify.com/album/1rwlxgGl3IPrRTK0qssaYc) | 3:29 | 2020-08-02 | 2020-08-20 |
 | [My Own Thing](https://open.spotify.com/track/2ySRRtrAwDUF4FipiF1Djt) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [My Own Thing](https://open.spotify.com/album/6RQhltF3miWYkdfDT0JIbG) | 3:01 | 2021-08-28 | 2021-09-11 |

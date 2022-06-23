@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-21",
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
   "name": "The Umbrella Academy Official Playlist",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7b1BQYuQIj2i5nZNS1UeKq"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,28 @@
     },
     {
       "album": {
+        "name": "The Best Of Bill Medley",
+        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time Of My Life",
+      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
+    },
+    {
+      "album": {
         "name": "Dye It Blonde",
         "url": "https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt"
       },
@@ -39,6 +63,24 @@
       "duration_ms": 226693,
       "name": "All Die Young",
       "url": "https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih"
+    },
+    {
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Another One Bites The Dust",
+      "url": "https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv"
     },
     {
       "album": {
@@ -136,6 +178,78 @@
     },
     {
       "album": {
+        "name": "Bitter Taste",
+        "url": "https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266759,
+      "name": "Bitter Taste",
+      "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
+    },
+    {
+      "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/55KUCRFnvEUxWyogeidPex"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3"
+    },
+    {
+      "album": {
+        "name": "America's Least Wanted",
+        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
+    },
+    {
+      "album": {
+        "name": "Country Teardrops - Sun Records",
+        "url": "https://open.spotify.com/album/3tS2KbfXJDWtAvPGWbUndC"
+      },
+      "artists": [
+        {
+          "name": "Jerry Dyke",
+          "url": "https://open.spotify.com/artist/4Sg4tiV0Rp9LqsdO76J4gg"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138476,
+      "name": "Come In Mr Lonely",
+      "url": "https://open.spotify.com/track/7KRKGms92lYIDBqplbuVIs"
+    },
+    {
+      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -169,6 +283,24 @@
       "duration_ms": 242000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
     },
     {
       "album": {
@@ -209,6 +341,24 @@
       "duration_ms": 227400,
       "name": "Dancing with Myself - 2001 Remaster",
       "url": "https://open.spotify.com/track/7fJnj6rso7N95oztvsxrWD"
+    },
+    {
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "album": {
@@ -263,6 +413,42 @@
       "duration_ms": 267186,
       "name": "Exit Music (For a Film)",
       "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
+    },
+    {
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "album": {
@@ -390,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+    },
+    {
+      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -405,6 +609,60 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "album": {
+        "name": "Put Out",
+        "url": "https://open.spotify.com/album/4xySq6HlK90WlkHYzZ7ZWj"
+      },
+      "artists": [
+        {
+          "name": "Baby Strange",
+          "url": "https://open.spotify.com/artist/6tvTqe2dTu8jVV5pcyfAGc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/7LrFX1E1GkwkLs5XrkD7Y2"
+    },
+    {
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/147tuDmTRS64367LJFqz8K"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Renner",
+          "url": "https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180425,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/1CN9Jwd9sML6hqTXsOuKIN"
+    },
+    {
+      "album": {
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "album": {
@@ -534,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Beach House Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/1FExrn6a8eqTA1mieMXvgu"
+      },
+      "artists": [
+        {
+          "name": "Gabin",
+          "url": "https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276280,
+      "name": "Into My Soul",
+      "url": "https://open.spotify.com/track/4QZkJ8lBslG5wLiqB6jznX"
+    },
+    {
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD"
       },
@@ -567,6 +843,46 @@
       "duration_ms": 205306,
       "name": "Kill Of The Night",
       "url": "https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM"
+    },
+    {
+      "album": {
+        "name": "INTERNATIONAL BREAKDOWN",
+        "url": "https://open.spotify.com/album/5bOvLgGiCnEv9hFfqFhE6l"
+      },
+      "artists": [
+        {
+          "name": "Lucern Raze",
+          "url": "https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn"
+        },
+        {
+          "name": "Cherry Pickles",
+          "url": "https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Let's Be Badder",
+      "url": "https://open.spotify.com/track/0hCMEyev24LH0FVUzpwvTa"
+    },
+    {
+      "album": {
+        "name": "Let's Go on a Hayride",
+        "url": "https://open.spotify.com/album/6QeXPU6ZEBGc9Ou0dE99r8"
+      },
+      "artists": [
+        {
+          "name": "The McSharry Sisters",
+          "url": "https://open.spotify.com/artist/2NHVJSv1x9LHgAa3SFoEfo"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165361,
+      "name": "Let's Go on a Hayride",
+      "url": "https://open.spotify.com/track/14W2QsXsLJluN8kbjUncyw"
     },
     {
       "album": {
@@ -660,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+    },
+    {
+      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -678,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "No More Heroes",
+        "url": "https://open.spotify.com/album/4WsDFcdDl3UU9ztRmyxQQ4"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "No More Heroes - 1996 Remaster",
+      "url": "https://open.spotify.com/track/3A6Ty55vQ1NC06EiB1fi9z"
+    },
+    {
+      "album": {
         "name": "The Best Of 3 Dog Night",
         "url": "https://open.spotify.com/album/0hQ9bcocveWRrJ0Z2TbEa7"
       },
@@ -693,6 +1045,24 @@
       "duration_ms": 182826,
       "name": "One",
       "url": "https://open.spotify.com/track/4KkGTqja19AHqItq3XBV3C"
+    },
+    {
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186567,
+      "name": "Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
     },
     {
       "album": {
@@ -754,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "Quando Quando Quando",
+      "url": "https://open.spotify.com/track/03MOcbkkoNLjP0G91iODSB"
+    },
+    {
+      "album": {
         "name": "Pieces Of Eight",
         "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
@@ -769,6 +1157,28 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "City Spud",
+          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291781,
+      "name": "Ride Wit Me",
+      "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
     },
     {
       "album": {
@@ -848,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "The House That Dirt Built",
+        "url": "https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322266,
+      "name": "Short Change Hero",
+      "url": "https://open.spotify.com/track/7JOizhmt3HlBgQyJEa0AgK"
+    },
+    {
+      "album": {
         "name": "Legendary Jazz Voices",
         "url": "https://open.spotify.com/album/5k62RQ9j9mk4AGYaZpLIWR"
       },
@@ -902,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
+    },
+    {
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -938,6 +1384,42 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1dKSvTjt9oKdPuttrwrwLj"
+      },
+      "artists": [
+        {
+          "name": "The Rescues",
+          "url": "https://open.spotify.com/artist/28xUSGD80Bh3CuLlg0GVqf"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/08feveJTNL1OMLSrdoHQ6Q"
+    },
+    {
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "album": {
         "name": "This is What You Want... This Is What You Get",
         "url": "https://open.spotify.com/album/72V5EfB3sa97eKf0Fs99EJ"
       },
@@ -953,6 +1435,24 @@
       "duration_ms": 289973,
       "name": "The Order of Death",
       "url": "https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "album": {
@@ -1007,6 +1507,42 @@
       "duration_ms": 170573,
       "name": "Unwind Yourself",
       "url": "https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5"
+    },
+    {
+      "album": {
+        "name": "Fort Fun",
+        "url": "https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq"
+      },
+      "artists": [
+        {
+          "name": "The Slugs",
+          "url": "https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "We'll Get Through",
+      "url": "https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A"
+    },
+    {
+      "album": {
+        "name": "What Makes You a Man",
+        "url": "https://open.spotify.com/album/7ivtKC42IzUZvdKwRTRuBk"
+      },
+      "artists": [
+        {
+          "name": "The Ninth Wave",
+          "url": "https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233617,
+      "name": "What Makes You a Man",
+      "url": "https://open.spotify.com/track/4yrMlE1BpKF0wQqLPtLbDt"
     },
     {
       "album": {

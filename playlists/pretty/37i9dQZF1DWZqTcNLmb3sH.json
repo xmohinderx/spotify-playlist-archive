@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 31794,
+  "num_followers": 31873,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgxMzI2OSwwMDAwMDE5MjAwMDAwMTgxODYyOTY3M2QwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1NTkwMjE0OSwwMDAwMDE5MzAwMDAwMTgxOGI3NTliYTQwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -277,6 +277,26 @@
       "url": "https://open.spotify.com/track/2TxQ2RapCN2OGvFzZQqPLf"
     },
     {
+      "added_at": "2022-06-22 12:49:09",
+      "album": {
+        "name": "Nenne Tanaka (From \"Trivikrama\")",
+        "url": "https://open.spotify.com/album/7G2DtZGuybwxA5YScHSHFm"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 257307,
+      "name": "Nenne Tanaka - From \"Trivikrama\"",
+      "url": "https://open.spotify.com/track/7evkVwg65A0bAuRf7DVFHx"
+    },
+    {
       "added_at": "2022-06-06 06:13:02",
       "album": {
         "name": "Harikathe Alla Girikathe",
@@ -315,6 +335,22 @@
       "duration_ms": 233913,
       "name": "Shakuntala Shake Your Body Please - From \"Trivikrama\"",
       "url": "https://open.spotify.com/track/6eXE5JFAljMvMV5yu33oqH"
+    },
+    {
+      "added_at": "2022-06-22 12:49:09",
+      "album": {
+        "name": "Abbara",
+        "url": "https://open.spotify.com/album/0F2I0bqjDIysW79xkUSex3"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Thale Kettaga Onde Formula",
+      "url": "https://open.spotify.com/track/416xO4d117dG2tB5vaVC2K"
     },
     {
       "added_at": "2022-06-17 12:38:02",
@@ -375,6 +411,22 @@
       "duration_ms": 166145,
       "name": "The Monster Song (From \"KGF Chapter 2\")",
       "url": "https://open.spotify.com/track/56b4SXw2KGclrY0yzRpvMF"
+    },
+    {
+      "added_at": "2022-06-22 12:49:09",
+      "album": {
+        "name": "Harikathe Alla Girikathe",
+        "url": "https://open.spotify.com/album/3d7zADljhH7sCuTGfySUGx"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "Bevarsi Mansa",
+      "url": "https://open.spotify.com/track/3ApW8FONGoEe170g8Ulkd1"
     },
     {
       "added_at": "2022-06-17 12:38:02",

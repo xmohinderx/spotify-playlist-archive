@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: BÉBE YANA\(베이비 야나\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,051 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,059 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 37 | [Hair Style \(feat\. DON MALIK & Hannah\)](https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH) | [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [CHAPTER 1](https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU) | 3:23 |
 | 38 | [Touchdown!](https://open.spotify.com/track/4u9UXKTvOiyzIxeigd396h) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [DOWN](https://open.spotify.com/album/3h8KY9URWVj8UTVHuDSmze) | 3:20 |
 | 39 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 |
-| 40 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [Oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 |
+| 40 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 |
 | 41 | [Dirt \(Feat\. Band Westwood\)](https://open.spotify.com/track/1826jggZAoW4a35x6eqMFS) | [Life20house](https://open.spotify.com/artist/5v8wIT6594aMDiTwTRS6w2), [Band Westwood](https://open.spotify.com/artist/2jsusZEyLlf6CJfW8xJPQv) | [Dirt](https://open.spotify.com/album/5bxO1KWETrkHhPSvhEQY9c) | 3:18 |
 | 42 | [June](https://open.spotify.com/track/6FsmQeJowjsRRCoDY0ACGd) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [June](https://open.spotify.com/album/53tGcMDI5JPOz9xw9jTmB5) | 2:46 |
 | 43 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 |

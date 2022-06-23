@@ -2,7 +2,7 @@
 
 ### [New Age Classics](https://open.spotify.com/playlist/37i9dQZF1DWTWhA27mtRFK)
 
-> Open your mind to these classics from the golden era of New Age music\. Vangelis on cover, may he rest in peace.
+> Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
 58 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 

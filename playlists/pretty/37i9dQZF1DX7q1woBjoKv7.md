@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover, Kendrick Lamar
+> California music breaking waves\. Cover, Vince Staples
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,934 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 54 | [Play Your Part](https://open.spotify.com/track/2lRUrFGjxoNwc184yBkadY) | [City James](https://open.spotify.com/artist/3ozF8iFAzukd7ZyWuPDOKd), [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju) | [Play Your Part](https://open.spotify.com/album/1DYA1RlZ7pJM5pDEqr0YT3) | 3:02 |
 | 55 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 |
 
-Snapshot ID: `MTY1NDg4MjkyMSwwMDAwMDAyNDAwMDAwMTgxNGViNTZhYmEwMDAwMDE4MGJmMGY2ZWNl`
+Snapshot ID: `MTY1NTkyNDM5MywwMDAwMDAyNTAwMDAwMTgxOGNjOTA2YWMwMDAwMDE4MThjYzg2YjA0`

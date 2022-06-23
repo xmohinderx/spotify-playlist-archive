@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: ciiicho, mary magdalene \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,243 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,245 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 45 | [I Tak Wiem Lepiej](https://open.spotify.com/track/2Acz8iubQg8jTtNm9sn8TH) | [B.L.U.E.](https://open.spotify.com/artist/4frGp6ZKdOdj2uPnMZwRPr) | [I Tak Wiem Lepiej](https://open.spotify.com/album/1kztKijjlcGC5hN6P6W6MJ) | 3:14 |
 | 46 | [Gasnę](https://open.spotify.com/track/2sG7E5K76wQgnQz5f6oWZr) | [The Party Is Over](https://open.spotify.com/artist/69znI1kRhRjS9pFHP03urW) | [Gasnę](https://open.spotify.com/album/1vG77iPxcQtOWy8E35IBj2) | 4:01 |
 | 47 | [Klub samotnych serc](https://open.spotify.com/track/2njSm84vuvRAqfMd9IPnXn) | [Raindow](https://open.spotify.com/artist/4ajombin2svShTCmEmbHfE) | [Klub samotnych serc](https://open.spotify.com/album/0wOkoMgFmu3IetkuIFWlzO) | 3:06 |
-| 48 | [Było miło](https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Kontrola](https://open.spotify.com/album/2teFszicbrLoUynpd4eoga) | 3:24 |
+| 48 | [Było miło](https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE), [LPJW40](https://open.spotify.com/artist/1yuXlpC7d9j8CZK5z73yBN) | [Kontrola](https://open.spotify.com/album/2teFszicbrLoUynpd4eoga) | 3:24 |
 | 49 | [Do przodu](https://open.spotify.com/track/2vTdMQbjhpCzkZuTX4y9iW) | [Ladaco](https://open.spotify.com/artist/6smrG6QLzHOOBeIOzHx351) | [Drugie Primo](https://open.spotify.com/album/1cFo5izKOJ0PkEFQBxYaHd) | 3:32 |
 | 50 | [Spokój](https://open.spotify.com/track/2LWiCS9jq8x1y9fetW7bS0) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Spokój](https://open.spotify.com/album/7bHOiQWzxW8ODacLyxbWZ0) | 4:24 |
 | 51 | [Od wschodu do zachodu](https://open.spotify.com/track/3nXK7R1FWQuX37Q5zErMcT) | [JET PACK](https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW) | [Od wschodu do zachodu](https://open.spotify.com/album/0OhWM7MH86qI9Y51THob4G) | 2:56 |

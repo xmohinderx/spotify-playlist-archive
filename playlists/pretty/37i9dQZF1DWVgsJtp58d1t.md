@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,392 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,510 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [Sneaky Link](https://open.spotify.com/track/5Ml0jIVN0WWU3YTkRwLT9l) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [YCR Los](https://open.spotify.com/artist/2JM3W43C5eTSRuAhlaeQ4R) | [Sneaky Link](https://open.spotify.com/album/444HMhYaC7JPfiOOCbRDBU) | 2:38 |
 | 99 | [Distance \(P\-Valley Remix\)](https://open.spotify.com/track/4SLaIlR3HLcOCyJU3Zt1Bf) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [P\-Valley: Season 2, Episode 1 \(Music From the Original TV Series\)](https://open.spotify.com/album/3je6O66CsLMD7ezZLoNa8e) | 2:42 |
 
-Snapshot ID: `MTY1NTg2MDQxNiwwMDAwMDAwMGU0MGU1OTRkMGVkNDljZTQ4NzgxNGE3OGQ1N2ZmNzVm`
+Snapshot ID: `MTY1NTk0NTk3NCwwMDAwMDAwMGU0MGU1OTRkMGVkNDljZTQ4NzgxNGE3OGQ1N2ZmNzVm`

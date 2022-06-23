@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 216937,
       "name": "6 months",
       "url": "https://open.spotify.com/track/195DDl4riXguLriXMSU0Gg"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 211875,
       "name": "Anghel",
       "url": "https://open.spotify.com/track/25ijTc1KQsIKOYMKWtlEZ6"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 210104,
       "name": "Blanko",
       "url": "https://open.spotify.com/track/7y9ps21wLaKtpDbEPruqIc"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 213520,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 208599,
       "name": "dancing in the kitchen",
       "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 260580,
       "name": "Dumaloy",
       "url": "https://open.spotify.com/track/1X6CvDSqNCsOy0h2pv9Yjd"
@@ -399,6 +399,28 @@
       "duration_ms": 198912,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj"
+    },
+    {
+      "album": {
+        "name": "First Date",
+        "url": "https://open.spotify.com/album/2UYhOYJnQnzt0UAH6BXYPL"
+      },
+      "artists": [
+        {
+          "name": "Adib Sin",
+          "url": "https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i"
+        },
+        {
+          "name": "Hikaru Station",
+          "url": "https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/2zMsClh8Mdkpg7VxmJrjPb"
     },
     {
       "album": {
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 130011,
       "name": "I Really Like You",
       "url": "https://open.spotify.com/track/4tQUdIk3MXQHgP2sRNdrJQ"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 230485,
       "name": "My Favorite Movie",
       "url": "https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB"
@@ -825,7 +847,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 259056,
       "name": "Nothing's Gonna Stop Us Now (Theme from Crazy Beautiful You)",
       "url": "https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb"
@@ -923,7 +945,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 259351,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6UrfCXDyGaLbDVkAvuOTFS"
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 208500,
       "name": "Still You",
       "url": "https://open.spotify.com/track/01tlnMZbaHDRuEqdfTbsJo"
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 188186,
       "name": "Tanging Dahilan",
       "url": "https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 184665,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU"

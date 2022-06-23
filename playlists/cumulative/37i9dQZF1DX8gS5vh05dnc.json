@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 237025,
       "name": "ain't leavin' without you",
       "url": "https://open.spotify.com/track/4RMvwkiBDFysupvBWkJDoJ"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 198610,
       "name": "All That",
       "url": "https://open.spotify.com/track/4gtOXb4PIqd2ojM8JLSmKX"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 198810,
       "name": "Ctrl + Esc",
       "url": "https://open.spotify.com/track/5pH3quHteOINNWgxAJeWUO"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 197522,
       "name": "I Should've Told You",
       "url": "https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 129856,
       "name": "is it cool?",
       "url": "https://open.spotify.com/track/6NmMyDDd74hWU8UlmxF47d"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 188466,
       "name": "Is This A Game",
       "url": "https://open.spotify.com/track/4spfk3QA3CL2RfWXVYgDRn"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 261925,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/5s3RCDdbxRL0ykNxv20Sdk"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 174040,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/04ZQVZvFadkN5wA88owIxv"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 157096,
       "name": "something special",
       "url": "https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 168637,
       "name": "Summerlight",
       "url": "https://open.spotify.com/track/30XOaNDIPBOTOBTESvjXMu"
@@ -1188,6 +1188,32 @@
     },
     {
       "album": {
+        "name": "Sundays in New York",
+        "url": "https://open.spotify.com/album/6iRtcrq5XjRB90SLrgEeXx"
+      },
+      "artists": [
+        {
+          "name": "Rian Cult",
+          "url": "https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb"
+        },
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        },
+        {
+          "name": "Heidi Jauregui",
+          "url": "https://open.spotify.com/artist/3n414fIFQCQRnlSPiJKYeN"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182682,
+      "name": "Sundays in New York",
+      "url": "https://open.spotify.com/track/74wyS8BlwfND1B3dwxlUEL"
+    },
+    {
+      "album": {
         "name": "Sunset Boulevard",
         "url": "https://open.spotify.com/album/1wbxKkwgwAVFKS6IumvjRb"
       },
@@ -1217,7 +1243,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/37Gq279gcbTuEndcpQhr24"

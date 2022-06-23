@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Fin Ghadia Bia",
+        "url": "https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr"
+      },
+      "artists": [
+        {
+          "name": "Rachid Goudi",
+          "url": "https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Fin Ghadia Bia",
+      "url": "https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l"
+    },
+    {
+      "album": {
         "name": "Galo Lik Elia",
         "url": "https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 222364,
       "name": "Kouni Liya",
       "url": "https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 186976,
       "name": "Lafin",
       "url": "https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 164736,
       "name": "Lala Mira",
       "url": "https://open.spotify.com/track/6kYAA6UTHlVyYLLtC9d2Rt"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 196000,
       "name": "Sac",
       "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"

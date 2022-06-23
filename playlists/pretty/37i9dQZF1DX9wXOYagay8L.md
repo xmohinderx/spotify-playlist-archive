@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF?si=0VM3Y5K1TWyRCw3wyVzO\-g">Master KG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,414 likes - 79 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,459 likes - 79 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 74 | [Eazyy](https://open.spotify.com/track/2yRMqyMtirFnaMZbNT2wdH) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:09 |
 | 75 | [Emkhathini](https://open.spotify.com/track/3P2UIfvIjW50aUICUjjPvA) | [Maraza](https://open.spotify.com/artist/4JCwr8GdTrhXmCvecM7Nkl) | [Emkhathini](https://open.spotify.com/album/3vncYWPSaZx3t6Mi7q5YvR) | 3:50 |
 | 76 | [My Dali](https://open.spotify.com/track/0162umcwk7g36RxucZnMPV) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [My Dali](https://open.spotify.com/album/6XRmYFcpuhvzu5zUqyF7Bi) | 4:02 |
-| 77 | [Ntokazi](https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU) | [Zaba](https://open.spotify.com/artist/2rozMGw4WJDWyvAiiupqff), [MTB](https://open.spotify.com/artist/2OX6ctm7zzFiwOBC0fgK2Q) | [Ntokazi](https://open.spotify.com/album/2CBWOFD0acarYjYz1aaPOL) | 3:33 |
+| 77 | [Ntokazi](https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [MTB](https://open.spotify.com/artist/2OX6ctm7zzFiwOBC0fgK2Q) | [Ntokazi](https://open.spotify.com/album/2CBWOFD0acarYjYz1aaPOL) | 3:33 |
 | 78 | [MajikaJika](https://open.spotify.com/track/0dfahpHWTG567q6ZaMe1dw) | [Lumka](https://open.spotify.com/artist/2nGmkqAkKcmq9UuJH0rH2v) | [MajikaJika](https://open.spotify.com/album/5G5GQ9fU9fPQOaH4qsoNQv) | 3:52 |
 | 79 | [Unobubele](https://open.spotify.com/track/2J5l2xiZ9vJz9XOAURTIt6) | [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0), [Brian Temba](https://open.spotify.com/artist/4AZ1cwMMACbUJCp0gNiplV) | [Unobubele](https://open.spotify.com/album/055MfShFsEJ6bfXh2vPVkM) | 4:15 |
 

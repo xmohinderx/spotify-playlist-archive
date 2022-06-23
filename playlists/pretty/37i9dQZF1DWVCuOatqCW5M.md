@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- King & Uchana Amit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,160 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,183 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 12 | [Manzoore Nazar](https://open.spotify.com/track/10IozcGjniCaFST5sHeVH5) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Srishti Bhandari](https://open.spotify.com/artist/0wZVnB36ng3hXHxkBReBpG) | [Manzoore Nazar](https://open.spotify.com/album/2lESCNiHXc41dX1uUtLVSC) | 3:36 |
 | 13 | [Ijazzat Hai](https://open.spotify.com/track/4CAg8E6aRFqQvYFdMfaCNj) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Ijazzat Hai](https://open.spotify.com/album/3Nye3KwuWgA9NxjFf5zCwC) | 3:15 |
 | 14 | [Tujhko Ye Dil Diya](https://open.spotify.com/track/0Wu576PbKzBxCG9Ezao1QU) | [Mohd Danish](https://open.spotify.com/artist/7I8pfkkwKNwHUAZSiSehKy), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tujhko Ye Dil Diya](https://open.spotify.com/album/346VD6IZUhaxHKF9Vb5fGu) | 4:14 |
-| 15 | [Dil Ko Thug Liya](https://open.spotify.com/track/2X46Dfw7j1NSsihSnFtkDb) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Muskaan](https://open.spotify.com/artist/5gEFTELaOBkv59BBTlYSkU) | [Dil Ko Thug Liya](https://open.spotify.com/album/49rp3tZHV6TGiY4PhOEvJ7) | 2:51 |
+| 15 | [Dil Ko Thug Liya](https://open.spotify.com/track/2X46Dfw7j1NSsihSnFtkDb) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Muskaan](https://open.spotify.com/artist/5gEFTELaOBkv59BBTlYSkU), [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Dil Ko Thug Liya](https://open.spotify.com/album/49rp3tZHV6TGiY4PhOEvJ7) | 2:51 |
 | 16 | [papertown.](https://open.spotify.com/track/7pZfo6kOmU3f6TriyvJL5O) | [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj), [Essjay.](https://open.spotify.com/artist/2nNsc7eXh2INGow0d5s1VR) | [papertown.](https://open.spotify.com/album/7IPo7adoztdt95QSQSurwK) | 2:19 |
 | 17 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 |
 | 18 | [June](https://open.spotify.com/track/7d6f9zD2juTcmHvStiYQ1T) | [Sidharth Bendi](https://open.spotify.com/artist/4qZt4u2tjGR95JC1QRfeYh) | [June](https://open.spotify.com/album/2lKJmsDAjIQyx32wbQlx6a) | 3:28 |

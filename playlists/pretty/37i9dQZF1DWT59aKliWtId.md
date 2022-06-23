@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Mt\. Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,653 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,779 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 122 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 |
 | 123 | [Write a List of Things to Look Forward To](https://open.spotify.com/track/78DrOVN5pMN6HtuOBzgcqr) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/0bHIgWK4Ay5lPjYvokxBpz) | 2:48 |
 | 124 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
-| 125 | [Playground](https://open.spotify.com/track/79NueJ87BdKk2x7r0s1xJ9) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Playground](https://open.spotify.com/album/3jI2lZjOV9VU0mDLMPfpYr) | 4:09 |
+| 125 | [Playground](https://open.spotify.com/track/79NueJ87BdKk2x7r0s1xJ9) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Playground](https://open.spotify.com/album/3jI2lZjOV9VU0mDLMPfpYr) | 4:09 |
 
 Snapshot ID: `MTY1NTQzODQ2MCwwMDAwMDBlYTAwMDAwMTgxNmZkMjQ1MTYwMDAwMDE4MTZkMzRkMzFk`

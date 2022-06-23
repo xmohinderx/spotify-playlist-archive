@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Asiatica, Artwork: Robin Clifford Ellis
 
-664 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+665 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Dear Boy](https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Dear Boy](https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N) | 3:03 | 2022-05-11 | 2022-05-26 |
 | [Decades & Dreams](https://open.spotify.com/track/22YplawUxyX69xqTaPlt7w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Decades & Dreams](https://open.spotify.com/album/3zpxgBF3kZrl6z1BON34qB) | 3:28 | 2022-03-09 | 2022-04-27 |
 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 | 2021-08-18 | 2022-01-13 |
-| [Delaney's Dad](https://open.spotify.com/track/0XGVEHblDAz53ZsEgXswjG) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [Delaney's Dad](https://open.spotify.com/album/1FEn8KVTpedBnhEvPMHav5) | 2:29 | 2022-05-19 |  |
+| [Delaney's Dad](https://open.spotify.com/track/0XGVEHblDAz53ZsEgXswjG) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [Delaney's Dad](https://open.spotify.com/album/1FEn8KVTpedBnhEvPMHav5) | 2:29 | 2022-05-19 | 2022-06-23 |
 | [Denial \- Demo](https://open.spotify.com/track/15dPSXkoeIvVWsW78s4KDt) | [Alicia Widar](https://open.spotify.com/artist/3AKJmzx7aq91vOFnyNgGSu) | [Denial \(Demo\)](https://open.spotify.com/album/5sKHGs8muoL0Nv3HUwFZJl) | 3:22 | 2022-01-12 | 2022-02-17 |
 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-03-02 | 2022-04-27 |
 | [Dinner for Breakfast](https://open.spotify.com/track/3QL7eC8VP7StJUYuOP5d3x) | [Heavy Gus](https://open.spotify.com/artist/7vtYqKsgYf75SvsfviwC6H) | [Dinner for Breakfast](https://open.spotify.com/album/6lHf4cQrUkEQ2VssDRQG65) | 2:57 | 2022-04-06 | 2022-04-27 |
@@ -329,7 +329,7 @@
 | [Javanaise](https://open.spotify.com/track/58UnFH5qvKSqFHXxkcZWtW) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Pensées](https://open.spotify.com/album/2uGK4G2Uz0EJi8PdrBsvPW) | 3:09 | 2022-06-08 |  |
 | [Jump Right In](https://open.spotify.com/track/09wXnEi6ZJfhAzYEOb1bb2) | [Josephine](https://open.spotify.com/artist/701TYQepg9Imy2Co7guJab) | [Jump Right In](https://open.spotify.com/album/7zNkQh1GXtExhEmUMsJyjt) | 4:46 | 2022-02-16 | 2022-03-17 |
 | [Jupiter/Saturn](https://open.spotify.com/track/5ibizsgJBcoJJG8MZeZZ9L) | [Jay Cooper](https://open.spotify.com/artist/5mYyUdTTfQPQpJe4LeOZC5) | [Jupiter/Saturn](https://open.spotify.com/album/2SKtsftl6PIcxLckgqHtBe) | 2:24 | 2022-01-19 | 2022-02-17 |
-| [Just My Luck](https://open.spotify.com/track/6Va2xBvpL7EMCDMNLOjocm) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Just My Luck](https://open.spotify.com/album/7uizFT9SXbSxjaB65pPcmC) | 3:12 | 2022-05-19 |  |
+| [Just My Luck](https://open.spotify.com/track/6Va2xBvpL7EMCDMNLOjocm) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Just My Luck](https://open.spotify.com/album/7uizFT9SXbSxjaB65pPcmC) | 3:12 | 2022-05-19 | 2022-06-23 |
 | [Just My Luck \- Acoustic](https://open.spotify.com/track/2lWBaq4nky0mNWxyl6gXsz) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Just My Luck \(Acoustic\)](https://open.spotify.com/album/6i0g1Iq4p2EuJPZAfcV4e7) | 2:39 | 2022-06-15 |  |
 | [Kakashi \(All of the Time\)](https://open.spotify.com/track/7IeRdrvQ3VzpSAUuP1y2xf) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Kakashi \(All of the Time\)](https://open.spotify.com/album/0U9NngJ6Yi1oJWAzlcSUUc) | 3:21 | 2022-03-02 | 2022-04-13 |
 | [Kites from the Noodles Kingdom](https://open.spotify.com/track/3pn6dJI16xMBlHnx0bfaUS) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Kites from the Noodles Kingdom](https://open.spotify.com/album/70gxo9dlvw1UXzCPwTC7zV) | 3:29 | 2022-01-12 | 2022-01-27 |
@@ -392,6 +392,7 @@
 | [Moan Of The Thunder](https://open.spotify.com/track/6aQI2THFxtsfDnDHou0jf4) | [Sugar For The Pill](https://open.spotify.com/artist/2cKJsua6cMV6pA53cuqCVI) | [Wanderlust](https://open.spotify.com/album/7uG92ZPgm55BueIhF3AVCc) | 4:13 | 2022-04-06 | 2022-04-27 |
 | [Molly](https://open.spotify.com/track/5gL3UVD0z5k1gROLNPS78m) | [future.exboyfriend](https://open.spotify.com/artist/1qSSYhvOuxNuHzPdLfDQl1) | [Molly](https://open.spotify.com/album/0AnItJ1G0x0IFkVB1v0pk3) | 2:22 | 2022-06-15 |  |
 | [Monday Morning](https://open.spotify.com/track/4lM80HpBbI0HmWbk4zSskM) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Monday Morning](https://open.spotify.com/album/6Dlv14NZRdsRONjuCiTcg1) | 3:16 | 2022-03-02 | 2022-04-27 |
+| [Monsoon Heart](https://open.spotify.com/track/2iqor8weJcpYbzKqeOhrk7) | [Name Change](https://open.spotify.com/artist/2JyL2YmRnWwLc9cEdEFqWg) | [Monsoon Heart](https://open.spotify.com/album/0KY7NCACH9OtPj6ydtE118) | 3:15 | 2022-06-22 |  |
 | [Moonbeams](https://open.spotify.com/track/1odaHjkjdtEQteUqwkwYtU) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Fulton Lee \(The Singles\)](https://open.spotify.com/album/3zyne6rYwsknwbGumF3bDl) | 2:49 | 2022-02-22 | 2022-03-17 |
 | [Moonbeams](https://open.spotify.com/track/1XbiaNBIQDEVh3Tm61xFvP) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Moonbeams](https://open.spotify.com/album/3HfW4AJrTmiYWuNNyk8tH0) | 2:54 | 2022-04-27 | 2022-06-09 |
 | [Moonlight](https://open.spotify.com/track/0uExhXWtKpUapxyTONiYbP) | [Glass Lord](https://open.spotify.com/artist/31sC04HUnx8vrEecypYkYs), [Nys](https://open.spotify.com/artist/1q69slbMMByqqA5CiXgFP3), [Ed.1t](https://open.spotify.com/artist/00a74uAKOd6hQYhHFPZ6YC) | [Moonlight](https://open.spotify.com/album/0vnQkNeB0DM9QSPRnGUq4C) | 2:57 | 2022-04-27 | 2022-05-20 |

@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 234200,
       "name": "'til Time and Times Are Done",
       "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "4 O'Clock in the Morning",
+      "url": "https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF"
     },
     {
       "album": {
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 261800,
       "name": "Andalusian Dream",
       "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 213706,
       "name": "Capri",
       "url": "https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 324709,
       "name": "Closed Circuit",
       "url": "https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
@@ -628,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241426,
+      "name": "Lime Marmalade Reverie",
+      "url": "https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo"
+    },
+    {
+      "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
@@ -657,7 +693,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 295266,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf"
@@ -729,7 +765,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 218973,
       "name": "Megan's Dream",
       "url": "https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW"
@@ -837,7 +873,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 254600,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO"
@@ -1035,7 +1071,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "Snow Crystals",
       "url": "https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx"
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 246293,
       "name": "Stromboli",
       "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 215360,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF"

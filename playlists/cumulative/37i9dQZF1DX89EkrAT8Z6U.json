@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 174288,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2e2ZQeXucqSEI00D8smDqP"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 128005,
       "name": "Alucard",
       "url": "https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 133392,
       "name": "BLACKED OUT",
       "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 120475,
       "name": "Blind Boy",
       "url": "https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 214825,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/09NzUAxEYgwlzlsx0z0Om7"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Demon to a GhxsT (Inspired by \"Demon Slayer\")",
       "url": "https://open.spotify.com/track/74d7fdc3IibAz8WZuwz2x3"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 213391,
       "name": "Flashy (Tengen Uzui)",
       "url": "https://open.spotify.com/track/5jyezs0yT1ID8JiSHJQOvR"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 125361,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 174745,
       "name": "IVE BEEN BAD",
       "url": "https://open.spotify.com/track/6eGyxt8xWFy2vZ5Fc6jc23"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 171808,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 148673,
       "name": "Kusakabe",
       "url": "https://open.spotify.com/track/6uExHIneReZOje7uvWAPmm"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 134076,
       "name": "PLASTIC ART",
       "url": "https://open.spotify.com/track/0uwdULpmQ5vB62NN0duw8S"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 198904,
       "name": "Sasuke",
       "url": "https://open.spotify.com/track/5q5t2C28uQdg2mk8HOfDWb"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 146291,
       "name": "SELL OUT",
       "url": "https://open.spotify.com/track/5zKzTGIpw4yZc21TzAe3HA"
@@ -1645,10 +1645,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 327240,
       "name": "Sorcery Fight!",
       "url": "https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt"
+    },
+    {
+      "album": {
+        "name": "Spark (Rengoku)",
+        "url": "https://open.spotify.com/album/2ypWjv7cvswBIJ4crjuHJq"
+      },
+      "artists": [
+        {
+          "name": "Daddyphatsnaps",
+          "url": "https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "Spark (Rengoku)",
+      "url": "https://open.spotify.com/track/4zpFlIpvNbbNx5BbKsMsRO"
     },
     {
       "album": {
@@ -1782,6 +1800,28 @@
     },
     {
       "album": {
+        "name": "Wind (Naruto) [Trap Remix]",
+        "url": "https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7"
+      },
+      "artists": [
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        },
+        {
+          "name": "Tha J-SQUAD",
+          "url": "https://open.spotify.com/artist/1GaBxa6meZLiIEHjCIzEzb"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "Wind (Naruto) - Trap Remix",
+      "url": "https://open.spotify.com/track/2LmyFJW92BeYl0qdH3ztiO"
+    },
+    {
+      "album": {
         "name": "You Are Weak",
         "url": "https://open.spotify.com/album/7sdJRlKuNfCWvE3YeW3PEC"
       },
@@ -1865,7 +1905,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"

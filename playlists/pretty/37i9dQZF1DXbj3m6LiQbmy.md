@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain](/playlists/plain/37i9dQZF1DXbj3m6LiQbmy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbj3m6LiQbmy)
 
-### [Pride Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
+### [Pride Italia: BigMama Takeover](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
 > È ora di celebrare, ecco il suono del pride secondo BigMama!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,671 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,678 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 49 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 50 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
 
-Snapshot ID: `MTY1NTg2MTI2OSwwMDAwMDAwMDdmNGI3N2Q4MGUwODE2OTk4MDAzYWEyMzNjMTM5NTY2`
+Snapshot ID: `MTY1NTk0NjkyNiwwMDAwMDAwMGViMmFhZTQ0YjlmNWU2ZjI5NWVhM2E1ZjFiNDQ5OGQ1`

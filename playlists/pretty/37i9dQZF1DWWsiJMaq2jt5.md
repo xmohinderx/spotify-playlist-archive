@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Sara James
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,265 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,267 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 8 | [Niedziela](https://open.spotify.com/track/28Q9qmtJqOdq9UO1cXJrb4) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Niedziela](https://open.spotify.com/album/42uQRWFq3Oao8FKDdhvhDp) | 3:03 |
 | 9 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 10 | [Doktor](https://open.spotify.com/track/3QUHvZUXGZMn1mB0DO64gK) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Doktor](https://open.spotify.com/album/22tBWPGwJGf6xRJdimvRX9) | 2:30 |
-| 11 | [Było miło](https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Kontrola](https://open.spotify.com/album/2teFszicbrLoUynpd4eoga) | 3:24 |
+| 11 | [Było miło](https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE), [LPJW40](https://open.spotify.com/artist/1yuXlpC7d9j8CZK5z73yBN) | [Kontrola](https://open.spotify.com/album/2teFszicbrLoUynpd4eoga) | 3:24 |
 | 12 | [dym](https://open.spotify.com/track/0Ct1Z7DbPn69F6FLKCLGXj) | [Guest Julka](https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ) | [dym](https://open.spotify.com/album/3s2CgL3NOK1SXzKdWa6YFa) | 2:48 |
 | 13 | [Balans](https://open.spotify.com/track/4hU7OPVaMxkhOYYPkV7LwL) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Balans](https://open.spotify.com/album/5nOi3r1tgBDSISc9KiBNDw) | 3:02 |
 | 14 | [F\*CK YOUR BOYFRIEND](https://open.spotify.com/track/6pxft8vH1cFlM0ijS5HjuG) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [F\*CK YOUR BOYFRIEND](https://open.spotify.com/album/5qTuwNb9WY8DMUTYtwGkiT) | 2:49 |

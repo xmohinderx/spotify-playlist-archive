@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,093 songs - 2 day 6 hr 45 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,094 songs - 2 day 6 hr 49 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-30 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-23 |
 | [Bramfeld Storys](https://open.spotify.com/track/2gPl0OSKeA4HrFnI07Ehmz) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 8:55 | 2021-11-21 | 2021-11-26 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 |  |
 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 | 2021-12-30 | 2022-04-12 |
 | [Bubblegum](https://open.spotify.com/track/7nyIhPrP5qinbs4YXyviiI) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Spirit of Ecstasy](https://open.spotify.com/album/76gWqnRVyizDFTvuxBqIzq) | 2:22 | 2022-05-07 | 2022-05-08 |
 | [Burn](https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:37 | 2021-12-12 | 2021-12-13 |
@@ -1022,7 +1023,7 @@
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2022-01-01 | 2022-01-03 |
 | [Warum bist du so](https://open.spotify.com/track/0M2cwhA67Dzkortl1VhDLF) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Emotions](https://open.spotify.com/album/00hZzdK6UYu3y6HOBZzj41) | 2:42 | 2022-04-16 | 2022-04-24 |
 | [WARUM TUT ES SO WEH](https://open.spotify.com/track/3oasmleiIlQ7e38yzbXHkg) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Khrome](https://open.spotify.com/artist/4GoCdmGGYtijLZlgTMyhwe) | [WARUM TUT ES SO WEH](https://open.spotify.com/album/3tZESpiCQaC5fH41SeBQ8c) | 2:41 | 2022-05-28 | 2022-05-30 |
-| [Was Besseres](https://open.spotify.com/track/1s968vbStkzOXKDIejXeXg) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Mudi](https://open.spotify.com/artist/1tnX93BHWyMdBSLhwAzo1j) | [Was Besseres](https://open.spotify.com/album/4WU7JmSvMq6Ie0raYndk5k) | 2:43 | 2022-06-18 |  |
+| [Was Besseres](https://open.spotify.com/track/1s968vbStkzOXKDIejXeXg) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Mudi](https://open.spotify.com/artist/1tnX93BHWyMdBSLhwAzo1j) | [Was Besseres](https://open.spotify.com/album/4WU7JmSvMq6Ie0raYndk5k) | 2:43 | 2022-06-18 | 2022-06-23 |
 | [Was ist los](https://open.spotify.com/track/1SAGz419Uj4dfJGZQbS7cE) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Outerspass](https://open.spotify.com/artist/22e5ZWv7ghjmwQglwZ2I7i) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 3:04 | 2021-05-30 | 2021-05-31 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-03-27\* | 2021-08-20 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-26 |

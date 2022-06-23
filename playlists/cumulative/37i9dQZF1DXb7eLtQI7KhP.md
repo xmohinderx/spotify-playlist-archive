@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-96 songs - 4 hr 27 min - not published yet
+96 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

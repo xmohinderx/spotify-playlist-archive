@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with some cozy and romantic jazz.
 
-128 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+129 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Summer Night](https://open.spotify.com/track/13OL18QpOtq4YQqV2JSLH1) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/1QB4m0HwnjxgEBC4Azxdtz) | 6:38 | 2021-12-14 | 2022-04-08 |
 | [Tenderly](https://open.spotify.com/track/0bPlO8XEh3ntLuB0yBSg9z) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Verve: The Sound Of America: The Singles Collection](https://open.spotify.com/album/0nQJ2qTc9ZOz5eTpJ1KFqT) | 3:23 | 2021-12-14 | 2022-05-25 |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-01-05 |  |
-| [The Man I Love](https://open.spotify.com/track/0ndEbK6LnERIPBG6t4gXDX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:04 | 2022-02-10 |  |
+| [The Man I Love](https://open.spotify.com/track/0ndEbK6LnERIPBG6t4gXDX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:04 | 2022-02-10 | 2022-06-23 |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-01-19 |  |
 | [The Nearness of You](https://open.spotify.com/track/6AuzYElQpBsDRUcuhxgGbA) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual](https://open.spotify.com/album/3Ca0Ii0PZdaj1196FwkVMU) | 2:58 | 2021-12-14 | 2022-05-25 |
 | [The Very Thought Of You](https://open.spotify.com/track/1Ov2QxMauYfb0YUahrGqxe) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Yesterday's Love Songs, Today's Blues \(Expanded Edition\)](https://open.spotify.com/album/6bcu2oDxVxGNI17MT3pCkw) | 2:53 | 2022-02-10 | 2022-04-08 |
@@ -119,6 +119,7 @@
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-04-26 |  |
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-04-07 |  |
 | [This Is Always](https://open.spotify.com/track/3fBmnCqZDjKoPXRDv8Mm0P) | [Champian Fulton](https://open.spotify.com/artist/5urGxtsVyaytt3raSxNumC), [Fukushi Tainaka](https://open.spotify.com/artist/4kecaU5QMmXvaPqkyu016c), [Hide Tanaka](https://open.spotify.com/artist/3TPnfYtGbR7EEEQySaPOpU), [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Birdsong](https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q) | 5:32 | 2022-04-07 |  |
+| [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-22 |  |
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-26 | 2022-06-01 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2021-12-14 |  |
 | [Toys In The Attic](https://open.spotify.com/track/3M0FjXzPd3fhxinI1SGgaG) | [Shirley Scott Trio](https://open.spotify.com/artist/66K4gRPXBnUincPVW35oUs) | [For Members Only](https://open.spotify.com/album/2opVsysbZxgeubko0KVpBZ) | 2:50 | 2022-01-26 | 2022-06-15 |

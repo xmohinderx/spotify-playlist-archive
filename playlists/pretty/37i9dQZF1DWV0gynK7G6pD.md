@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Chad Lawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,552 likes - 61 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,712 likes - 61 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

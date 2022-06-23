@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-339 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+340 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [The Ride \- The FifthGuys Remix](https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [The Ride \(The FifthGuys Remix\)](https://open.spotify.com/album/7EurNV3781MD7406Ph86i8) | 2:31 | 2022-03-18 | 2022-04-19 |
 | [The Sea that Swallowed Me Whole](https://open.spotify.com/track/3JDvRAfXZ6aTc4vPehFBQg) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 3:11 | 2022-02-16 | 2022-03-19 |
 | [The Tortured](https://open.spotify.com/track/5JVkKjxM9OI7WqsDqtsSMH) | [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [The Tortured](https://open.spotify.com/album/1krJiv2VVRsTq1SKn82EPS) | 2:30 | 2022-02-04 | 2022-03-05 |
+| [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-06-22 |  |
 | [The Void](https://open.spotify.com/track/3p2F7vdAeDvrG8vxFtESzY) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Paradox](https://open.spotify.com/album/60zoRcYe3Y179Fgf0wPrhe) | 3:17 | 2022-01-14 |  |
 | [The Way To Do It](https://open.spotify.com/track/3XJPYvQwLQyXUSucA0SJQL) | [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo) | [The Way To Do It](https://open.spotify.com/album/0ocQEbsp644nd6CO9oQOOF) | 3:31 | 2022-02-16 | 2022-03-19 |
 | [Thirst](https://open.spotify.com/track/6vZD9cYsOhwZvQZO3C19Xk) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 2:44 | 2022-05-13 | 2022-06-18 |

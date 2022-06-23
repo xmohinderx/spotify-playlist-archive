@@ -1212,6 +1212,32 @@
     },
     {
       "album": {
+        "name": "Blasfem On Air",
+        "url": "https://open.spotify.com/album/1Kagas12BL4vvW4jfZNJHz"
+      },
+      "artists": [
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        },
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180528,
+      "name": "La Isla del Encanto",
+      "url": "https://open.spotify.com/track/5ZTqmIutlqPTWR7fJ2ipWp"
+    },
+    {
+      "album": {
         "name": "La Magia del Cine",
         "url": "https://open.spotify.com/album/7zj9gzCy8NQbmt5m0kD1R1"
       },

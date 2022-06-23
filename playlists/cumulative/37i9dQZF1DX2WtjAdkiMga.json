@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5IOWturujCNhauxjhTAeyn"
+      },
+      "artists": [
+        {
+          "name": "Helene Augbert",
+          "url": "https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206898,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2cwhWgieqTWkEC1BL1pmhh"
+    },
+    {
+      "album": {
         "name": "September Song",
         "url": "https://open.spotify.com/album/3tUxImd8BSgKFS8VTnEbYg"
       },
@@ -1261,10 +1279,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 187906,
       "name": "What a Difference a Day Made",
       "url": "https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star",
+        "url": "https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz"
+      },
+      "artists": [
+        {
+          "name": "Ted Gaupt",
+          "url": "https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178264,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11"
     },
     {
       "album": {

@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "good stuff",
+        "url": "https://open.spotify.com/album/6vqizk2b1jWTBkjUT0tUBb"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "good stuff",
+      "url": "https://open.spotify.com/track/6TBMFvQnjLcJCch1trUgtr"
+    },
+    {
+      "album": {
         "name": "Sounds Like Me",
         "url": "https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp"
       },

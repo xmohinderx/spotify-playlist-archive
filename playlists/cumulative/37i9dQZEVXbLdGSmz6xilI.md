@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-476 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+477 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-20 | 2021-05-23 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-10 | 2022-05-18 |
 | [Gác Lại Âu Lo](https://open.spotify.com/track/6HpDKKSDZ8QpSHfikENIBC) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Gác Lại Âu Lo](https://open.spotify.com/album/6K252vEHDvcO47zNx9D5Y4) | 4:42 | 2021-03-27\* | 2021-09-22 |
-| [Gác Lại Âu Lo \(feat\. Miu Lê\)](https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Gác Lại Âu Lo](https://open.spotify.com/album/510WT3clDw7bTqUcorerQX) | 4:42 | 2021-09-22 |  |
+| [Gác Lại Âu Lo \(feat\. Miu Lê\)](https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Gác Lại Âu Lo](https://open.spotify.com/album/510WT3clDw7bTqUcorerQX) | 4:42 | 2021-09-22 | 2022-06-23 |
 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 | 2021-07-04 | 2021-09-03 |
 | [Gặp Gỡ, Yêu Đương Và Được Bên Em](https://open.spotify.com/track/6HE6jZ7J0T6Rry0lcGTZYv) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Gặp Gỡ, Yêu Đương Và Được Bên Em](https://open.spotify.com/album/1J4bW6pgXcXoCAHSHUqoi2) | 4:00 | 2021-08-12 | 2021-09-01 |
 | [Gặp May](https://open.spotify.com/track/08RDjwmSMLc6QPmxrxXDq0) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Gặp May](https://open.spotify.com/album/6OeUMdUTxnYEEdftkwemi9) | 3:06 | 2022-01-21 | 2022-01-30 |
@@ -238,6 +238,7 @@
 | [Ke Cap Gap Ba Gia \(feat\. BINZ\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 | 2021-03-27\* | 2021-06-28 |
 | [Khi Cô Đơn Em Nhớ Ai \(Lofi\) \- From "Chill With Vicky Nhung \- Season 2: Memory"](https://open.spotify.com/track/6hy9HCfQd8mISNWd6mnDoA) | [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb), [Long Rex](https://open.spotify.com/artist/1wmTwrBfPS2GMCEijR5SiP) | [Khi Cô Đơn Em Nhớ Ai \(Lofi\) \[From "Chill With Vicky Nhung \- Season 2: Memory"\]](https://open.spotify.com/album/5Dz7lUU1cvujGhVe8EQMDK) | 4:15 | 2021-12-13 | 2021-12-24 |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2021-04-23 | 2022-03-10 |
+| [Khác Biệt To Lớn Hơn](https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4) | [Trinh Thang Binh](https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N), [Liz Kim Cương](https://open.spotify.com/artist/6pYrL6H11sEmjp5ZJytWmK) | [Khác Biệt To Lớn Hơn](https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d) | 4:12 | 2022-06-22 |  |
 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-12 | 2022-05-20 |
 | [Không Muốn Một Mình](https://open.spotify.com/track/7JWa8tcjothiOfTVUUbuzL) | [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb), [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Không Muốn Một Mình](https://open.spotify.com/album/12cGGhPmZvMs2cjhVcy2ZV) | 3:30 | 2021-12-29 | 2022-01-20 |
 | [KHÔNG PHẢI TẠI NÓ \(feat\. Mai Ngô\)](https://open.spotify.com/track/2qNZU7RSIDSzbQ27gtaC0q) | [RAP VIỆT](https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL), [Mai Ngô](https://open.spotify.com/artist/3XIEdFeFLXEt0dovJX3uYu) | [Rap Việt Season 2 \- Tập 1](https://open.spotify.com/album/4euaz1yN2icsNuzCDUauAV) | 2:44 | 2021-10-23 | 2021-10-24 |

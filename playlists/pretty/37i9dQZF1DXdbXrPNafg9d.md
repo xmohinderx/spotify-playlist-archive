@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,438 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,636 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 67 | [Driving to LA](https://open.spotify.com/track/11D3r2sNG5QpiNX89QgC1U) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/03ROQK7292UZQy0PANHIOz) | 2:10 |
 | 68 | [comeonback](https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [comeonback](https://open.spotify.com/album/5eecDPoRArTxgGgKBQ7MuV) | 2:51 |
 | 69 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 |
-| 70 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [Flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 |
+| 70 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 |
 | 71 | [DON'T HURRY](https://open.spotify.com/track/5XQkeF5gdSUFuGYIumg1l8) | [Jhung](https://open.spotify.com/artist/0EdSjobhia4cCm2kMTEDDf) | [Always The End](https://open.spotify.com/album/6l7NV0elHJ4SRBrcefGJbp) | 2:17 |
 | 72 | [sleepy baby club](https://open.spotify.com/track/30hINiopx1XhGTVb84Ic32) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [sleepy baby club](https://open.spotify.com/album/6Nek6QQZVYHkyBWJwL3E97) | 3:14 |
 | 73 | [All That I Want](https://open.spotify.com/track/5aTxssGoI889AFgjmGF4x2) | [Son of Cloud](https://open.spotify.com/artist/69RE9ShE2DzjxATDQjnii4) | [All That I Want](https://open.spotify.com/album/0f6RLKTCQrL0b2SKfZcj4x) | 3:56 |

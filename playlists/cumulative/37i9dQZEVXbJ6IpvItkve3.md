@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-441 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+442 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bomba](https://open.spotify.com/track/7JDt1I1xxJCP4k3o2XHZ15) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [Bomba](https://open.spotify.com/album/1MXgzHa5AmxTt8zglH8xuw) | 3:17 | 2022-05-18 | 2022-05-22 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-07 | 2022-04-09 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-24 |
+| [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 |  |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-05-30 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-04 | 2021-05-15 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2021-03-27\* | 2021-04-04 |
@@ -315,7 +316,7 @@
 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2021-12-01 | 2021-12-08 |
 | [חנוכה חנוכה](https://open.spotify.com/track/7fT1m5zBUXcQhrQ8GY6zxH) | [Dalia Amihud](https://open.spotify.com/artist/4iZXZxiD3ZWOqaD4s1IHI3), [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [שירי החגים הגדולים בכל הזמנים](https://open.spotify.com/album/0pyNXUcowpgnknHQUoVVyW) | 1:41 | 2021-11-30 | 2021-12-01 |
 | [חנוכיה לי יש](https://open.spotify.com/track/5ROswswUSxvwCkk8CiODGB) | [Dudu Elharar](https://open.spotify.com/artist/3ELOubnH7PInJmLhjlwK7n) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:51 | 2021-11-30 | 2021-12-01 |
-| [חסר/ה לי ברמות](https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk) | [בנאל בן ציון](https://open.spotify.com/artist/6bnIwLx07NhKscf9kwuxg1), [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [חסר/ה לי ברמות](https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq) | 3:32 | 2022-02-28 |  |
+| [חסר/ה לי ברמות](https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk) | [בנאל בן ציון](https://open.spotify.com/artist/6bnIwLx07NhKscf9kwuxg1), [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [חסר/ה לי ברמות](https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq) | 3:32 | 2022-02-28 | 2022-06-23 |
 | [חצי דפוק](https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [3](https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli) | 2:57 | 2021-08-06 | 2022-05-08 |
 | [חצי שלי](https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX), [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [חצי שלי](https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3) | 3:12 | 2022-03-29 |  |
 | [חתולים](https://open.spotify.com/track/6jFzK1JUzC4Mr7kU12rTbQ) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [עובדי נמל](https://open.spotify.com/album/1xsjhMC9cRGaziyJaUOjco) | 3:38 | 2021-05-29 | 2021-07-11 |
