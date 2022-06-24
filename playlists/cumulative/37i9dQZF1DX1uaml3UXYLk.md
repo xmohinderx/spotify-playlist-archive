@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-477 songs - 1 day 7 hr 9 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+478 songs - 1 day 7 hr 12 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [George \- Cristi Cons Remix](https://open.spotify.com/track/0tWRUSVKekFXrc6bh1azRE) | [Kashawar](https://open.spotify.com/artist/6RlBM1MpOfM9dWsgcl20rT), [Cristi Cons](https://open.spotify.com/artist/0Jof7VpAuJqmcl12LgsgK1) | [Trouble EP](https://open.spotify.com/album/2fNgw5pZLWKDnAelsRbwh5) | 7:29 | 2020-11-13 | 2020-11-21 |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-05-13 |  |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-10 |  |
-| [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-10-20\* |  |
+| [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-10-20\* | 2022-06-24 |
 | [Glaskupad \- Axel E Remix \(Radio Edit\)](https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG) | [LEHNBERG](https://open.spotify.com/artist/7BRf7UkrsYXvgABbadmh3L), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [Glaskupad \(Axel E Remix\)](https://open.spotify.com/album/2kcieKSF7jELFFBZ7UOVIP) | 3:51 | 2020-11-21 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2020-10-20\* | 2020-10-30 |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-04 |  |
@@ -234,7 +234,7 @@
 | [Last Dream](https://open.spotify.com/track/1p3kZCSx1LxmemXq7efQ5U) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 3:34 | 2020-10-20\* | 2021-06-23 |
 | [Late Dip](https://open.spotify.com/track/0Tk4qgJgj4iurLkTm48iGP) | [Analog Garden](https://open.spotify.com/artist/6KPnQEGaWDVZ4njE0lFNSO) | [Late Dip](https://open.spotify.com/album/7B6rmoWszdsNZqq1g9fR0N) | 2:23 | 2022-06-17 |  |
 | [Late Night Rewind](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Late Night Rewind](https://open.spotify.com/album/4YBQ1woEiszGgoWydnWK3A) | 3:00 | 2021-02-12 |  |
-| [Lekkoo](https://open.spotify.com/track/1jSdFS2JKeAfn0xZTEHksx) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 3:10 | 2021-01-21 |  |
+| [Lekkoo](https://open.spotify.com/track/1jSdFS2JKeAfn0xZTEHksx) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 3:10 | 2021-01-21 | 2022-06-24 |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-07-09 |  |
 | [Let Me Be](https://open.spotify.com/track/5l8qKd0YbX0lTY672meWyP) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Let Me Be](https://open.spotify.com/album/0b2BeiQYPBLKxyKJiMg180) | 2:57 | 2020-11-13 | 2021-01-15 |
 | [Life Is So Beautiful](https://open.spotify.com/track/6luAShpeqHTE84A4pY6Zcg) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Life Is So Beautiful](https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg) | 2:02 | 2020-10-20\* | 2020-11-28 |
@@ -308,6 +308,7 @@
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2021-06-04 |  |
 | [Persist Display](https://open.spotify.com/track/77upAj6MD4twfI9UVQLT0d) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Persist Display](https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp) | 2:50 | 2021-11-10 |  |
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2021-07-09 |  |
+| [physalis](https://open.spotify.com/track/2MmIwBMgQRMlsEcOe0xgyj) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [physalis](https://open.spotify.com/album/0n0bdmxfYRptHngS5foew4) | 2:53 | 2022-06-24 |  |
 | [Piano Exercise](https://open.spotify.com/track/31d09H0l1ND5SSsz97lQWU) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 4](https://open.spotify.com/album/3KqUWz6hoDUrZGMM8Zrnn3) | 3:18 | 2020-12-11 | 2021-04-15 |
 | [Pillow Thoughts](https://open.spotify.com/track/7Fj8SqZEbkJg1gITPVfsUe) | [Broey.](https://open.spotify.com/artist/6HmeISbko4bc0zsZQvIAco) | [Pillow Thoughts](https://open.spotify.com/album/2Ed6kJSrY688hYthNum0E9) | 1:24 | 2020-10-20\* | 2020-11-28 |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
@@ -366,7 +367,7 @@
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2021-11-10 |  |
 | [Shadows \- Glizzinger Edit](https://open.spotify.com/track/71SMntwtq5ddzffP7RO2po) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Shadows \- Glizzinger Edit](https://open.spotify.com/album/17aQXGOQLHfg72KYwOe8yp) | 3:40 | 2021-11-10 | 2022-02-11 |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2021-06-04 |  |
-| [Short and Sweet](https://open.spotify.com/track/0Ia1TRbEotMBljaiQnHk1Y) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:26 | 2020-10-20\* |  |
+| [Short and Sweet](https://open.spotify.com/track/0Ia1TRbEotMBljaiQnHk1Y) | [Pure Indigo](https://open.spotify.com/artist/0kuQZf585oUCcp9aIKbgMu) | [Short and Sweet](https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV) | 2:26 | 2020-10-20\* | 2022-06-24 |
 | [Show Me How It's Done](https://open.spotify.com/track/6HjO9nSZmlTy5fgSWXcpgu) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Tullinge Crickets / Show Me How It's Done](https://open.spotify.com/album/0jf2evCQuvnGQX3ngYuLGG) | 5:13 | 2021-11-10 | 2022-04-06 |
 | [Shut Down](https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 4:02 | 2020-10-20\* | 2021-03-06 |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2020-11-28 | 2021-06-23 |

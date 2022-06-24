@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Baghdad Drill",
+        "url": "https://open.spotify.com/album/3Hm4AUiaym0kardXgz1qJl"
+      },
+      "artists": [
+        {
+          "name": "BAWS",
+          "url": "https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190563,
+      "name": "Baghdad Drill",
+      "url": "https://open.spotify.com/track/60uzhZIfzwoMnJZ3eZ3tuk"
+    },
+    {
+      "album": {
         "name": "BARBARY",
         "url": "https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Asteria",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Loggia West Milano",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 138450,
       "name": "Almeno Stasera",
       "url": "https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 152090,
       "name": "Bambola Voodoo",
       "url": "https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ"
@@ -1374,6 +1374,46 @@
     },
     {
       "album": {
+        "name": "DREAMLAND",
+        "url": "https://open.spotify.com/album/1tFzHNn0iy69H0mESMO0dG"
+      },
+      "artists": [
+        {
+          "name": "Esma",
+          "url": "https://open.spotify.com/artist/150z0GzBQU8W02VLhw1dCF"
+        },
+        {
+          "name": "BABILONIA",
+          "url": "https://open.spotify.com/artist/30YUVsrzLIs9w5ejdlquGm"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "DREAMLAND",
+      "url": "https://open.spotify.com/track/3iPO5c1yBL2YO7hvyA9oYq"
+    },
+    {
+      "album": {
+        "name": "DUE PUNTI PARENTESI",
+        "url": "https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL"
+      },
+      "artists": [
+        {
+          "name": "Dem\u00ef",
+          "url": "https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115153,
+      "name": "DUE PUNTI PARENTESI",
+      "url": "https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C"
       },
@@ -1519,6 +1559,36 @@
       "duration_ms": 135789,
       "name": "FELICIT\u00c0",
       "url": "https://open.spotify.com/track/7iEEPQoP5KyUrrWl3xKCIf"
+    },
+    {
+      "album": {
+        "name": "Fiammifero (feat. Saint Abel)",
+        "url": "https://open.spotify.com/album/5djlcgNK2Vpb48vuWE3D40"
+      },
+      "artists": [
+        {
+          "name": "fear",
+          "url": "https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF"
+        },
+        {
+          "name": "Cherry Ills",
+          "url": "https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3"
+        },
+        {
+          "name": "noom",
+          "url": "https://open.spotify.com/artist/0I3l2AGOa1OXzZWL5Pm3D7"
+        },
+        {
+          "name": "Saint Abel",
+          "url": "https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Fiammifero (feat. Saint Abel)",
+      "url": "https://open.spotify.com/track/2fOIBo7mFG0bKNUMnGE8kU"
     },
     {
       "album": {
@@ -1870,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "Highway High Way Too High",
+        "url": "https://open.spotify.com/album/4XyQa6nd1wqIZpXOhYtP16"
+      },
+      "artists": [
+        {
+          "name": "Biemsix",
+          "url": "https://open.spotify.com/artist/1akamESwYotC264hdUKCzY"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376500,
+      "name": "I Just Lost Marcel",
+      "url": "https://open.spotify.com/track/3xiKxZGQEWanBehKjLXZIX"
+    },
+    {
+      "album": {
         "name": "I want to believe",
         "url": "https://open.spotify.com/album/5onOlkRsEBpzHbHM564cpb"
       },
@@ -1888,6 +1976,28 @@
     },
     {
       "album": {
+        "name": "il mio sole (sei tu)",
+        "url": "https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV"
+      },
+      "artists": [
+        {
+          "name": "giulybee",
+          "url": "https://open.spotify.com/artist/2qy6kkG36fX0G2tYQa4vik"
+        },
+        {
+          "name": "gatomato",
+          "url": "https://open.spotify.com/artist/1MqEPXCa6xq5YcFeArFnG4"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "il mio sole (sei tu)",
+      "url": "https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w"
+    },
+    {
+      "album": {
         "name": "Il suono che ho dentro alla testa",
         "url": "https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2"
       },
@@ -1903,6 +2013,54 @@
       "duration_ms": 125624,
       "name": "Il suono che ho dentro alla testa",
       "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
+    },
+    {
+      "album": {
+        "name": "In Fissa (feat. Moonet, Zo Vivaldi, Hank)",
+        "url": "https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf"
+      },
+      "artists": [
+        {
+          "name": "Loggia West Milano",
+          "url": "https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv"
+        },
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh"
+        },
+        {
+          "name": "Moonet",
+          "url": "https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT"
+        },
+        {
+          "name": "Zo Vivaldi",
+          "url": "https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "In Fissa (feat. Moonet, Zo Vivaldi, Hank)",
+      "url": "https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC"
+    },
+    {
+      "album": {
+        "name": "in loop",
+        "url": "https://open.spotify.com/album/24BztsotMHiqpArEei5Y3f"
+      },
+      "artists": [
+        {
+          "name": "ALLE",
+          "url": "https://open.spotify.com/artist/31198cNlkvUbsM84iYyIdm"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208673,
+      "name": "in loop",
+      "url": "https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU"
     },
     {
       "album": {
@@ -2029,7 +2187,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 143850,
       "name": "L'amore su Tinder",
       "url": "https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ"
@@ -3095,7 +3253,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 235065,
       "name": "ORBO",
       "url": "https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST"
@@ -3352,6 +3510,28 @@
     },
     {
       "album": {
+        "name": "Politecnico Poliamore",
+        "url": "https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT"
+      },
+      "artists": [
+        {
+          "name": "Grill Boys",
+          "url": "https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h"
+        },
+        {
+          "name": "Aegeminus",
+          "url": "https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Politecnico Poliamore",
+      "url": "https://open.spotify.com/track/1yUM7puCgxMvx4xrNn9VCe"
+    },
+    {
+      "album": {
         "name": "Lunaire",
         "url": "https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm"
       },
@@ -3363,7 +3543,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 175199,
       "name": "Porpora",
       "url": "https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV"
@@ -3515,7 +3695,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 142500,
       "name": "Regina",
       "url": "https://open.spotify.com/track/1XQWXDjAALCMDNDGRH40o6"
@@ -3657,7 +3837,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 376000,
       "name": "Roads",
       "url": "https://open.spotify.com/track/1RsvHHDe5Pr7nhHBhm6xXt"
@@ -3795,7 +3975,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 171428,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/0FR32DeyHC4UhnPujAbMMh"
@@ -4063,7 +4243,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 155178,
       "name": "sottosopra",
       "url": "https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG"
@@ -4266,6 +4446,24 @@
     },
     {
       "album": {
+        "name": "T-RIP",
+        "url": "https://open.spotify.com/album/3a1dHwhl6TJuiWQRsI0L7p"
+      },
+      "artists": [
+        {
+          "name": "SHADOUONE",
+          "url": "https://open.spotify.com/artist/4sDYAkaVYe1bFcIl9Aan43"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "T-RIP",
+      "url": "https://open.spotify.com/track/407xsMEzZSnm0wtYcBayXS"
+    },
+    {
+      "album": {
         "name": "TACHIPIRINA",
         "url": "https://open.spotify.com/album/3BVeauYVPDnelvCAUIiGGT"
       },
@@ -4303,6 +4501,24 @@
       "duration_ms": 169545,
       "name": "Tempesta",
       "url": "https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe"
+    },
+    {
+      "album": {
+        "name": "Archivio Futuro",
+        "url": "https://open.spotify.com/album/3AKs0EVj9ZxWLlBQZSrAe4"
+      },
+      "artists": [
+        {
+          "name": "Archivio Futuro",
+          "url": "https://open.spotify.com/artist/17kCqPEKqz42r7cKMVC3V2"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238269,
+      "name": "Terra di mezzo",
+      "url": "https://open.spotify.com/track/0C8XbTUOPAq2KOCw2viGzT"
     },
     {
       "album": {
@@ -4767,7 +4983,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 172771,
       "name": "variazioni sul tema elysi",
       "url": "https://open.spotify.com/track/0RGLCsDEjY7rR3Fjnq31M8"

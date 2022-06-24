@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTU5NSwwZmJkYzg5ODEzMTY0MWNmZjUyYjBkNjNhYjE3MjkwZTEzMjljN2Qx",
+  "snapshot_id": "MTU5Nyw2OTllMjBhNzBkMGY5MDVmNDYwNjFlYmEyZjExOWY5OGE1MTM3NWNk",
   "tracks": [
     {
       "added_at": "2022-06-03 01:47:49",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     },
     {
+      "added_at": "2022-06-23 23:38:14",
+      "album": {
+        "name": "Acid Eyes / Petrified In Love",
+        "url": "https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 273349,
+      "name": "Acid Eyes",
+      "url": "https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F"
+    },
+    {
       "added_at": "2022-06-03 01:47:49",
       "album": {
         "name": "The Loneliest Girl In The World",
@@ -127,6 +143,22 @@
       "duration_ms": 181133,
       "name": "The Loneliest Girl In The World",
       "url": "https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u"
+    },
+    {
+      "added_at": "2022-06-23 23:30:40",
+      "album": {
+        "name": "MLBRN",
+        "url": "https://open.spotify.com/album/7EOVE590oo7t0kK3kK1a8X"
+      },
+      "artists": [
+        {
+          "name": "KID LAB RAT",
+          "url": "https://open.spotify.com/artist/3s02o9NfNibQnaLmkRxRzd"
+        }
+      ],
+      "duration_ms": 165272,
+      "name": "MLBRN",
+      "url": "https://open.spotify.com/track/3F6b6goF66FibaTgfdO3eS"
     },
     {
       "added_at": "2022-06-03 01:47:49",

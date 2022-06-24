@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-93 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+95 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,12 +48,14 @@
 | [Him](https://open.spotify.com/track/3s7QggkEE59CK0qBAhPOjO) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Him](https://open.spotify.com/album/0TejA7LPDCrMzlyYpaK4wA) | 3:46 | 2022-06-02 |  |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2022-06-02 |  |
 | [Hold onto Me](https://open.spotify.com/track/6E7sHQsSqLUWOkNA9jqQvn) | [Nga Kete Aronui](https://open.spotify.com/artist/02HfHlBGA0xK2ExjMkMGri) | [Challenge the New Dawn](https://open.spotify.com/album/3r39lg81Xfv7qSGo4tKACS) | 3:45 | 2022-06-09 |  |
+| [Human](https://open.spotify.com/track/2tzy3WUax7kpANoToMN3tW) | [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [Human](https://open.spotify.com/album/2H562jzwhTkWC3Em88k8XV) | 3:42 | 2022-06-23 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-06-02 |  |
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2022-06-02 |  |
 | [Infatuated](https://open.spotify.com/track/0EdayFT9VybIDXZFBUC2xr) | [Miakie](https://open.spotify.com/artist/5WO5xcjv5KarC7RdXbZ1fV) | [Infatuated](https://open.spotify.com/album/2RfEfdCsimNYZiUnE6utnA) | 4:09 | 2022-06-02 |  |
 | [Into You](https://open.spotify.com/track/4PHocLRjCevpTpu5q6c25M) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:55 | 2022-06-02 |  |
 | [Into Your Life](https://open.spotify.com/track/3M9lOw3yCJFDdMDOlD6qin) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Love Levitates](https://open.spotify.com/album/6K81YVEBTnB8y2Qxj3w6Oa) | 3:06 | 2022-06-02 |  |
 | [Joyride](https://open.spotify.com/track/3kWYgDFiWcMYnh7YmXqxRJ) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Works](https://open.spotify.com/album/78mR2PxX3MBzGA7Amx8aef) | 3:15 | 2022-06-02 |  |
+| [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 | 2022-06-23 |  |
 | [Light Me Up](https://open.spotify.com/track/1xntxOqCzuT5Ts40E9DH93) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Light Me Up](https://open.spotify.com/album/68GkScRP31aKYd1zrLNXyZ) | 3:44 | 2022-06-02 |  |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2022-06-02 |  |
 | [Love](https://open.spotify.com/track/07KSmwPq4eu1boA3cZYYY4) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Love](https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft) | 4:51 | 2022-06-02 |  |

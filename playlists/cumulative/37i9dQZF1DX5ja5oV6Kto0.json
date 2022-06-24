@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Back to Kids",
+        "url": "https://open.spotify.com/album/5K18XsjMruVGdgEp2VTmPy"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Back to Kids",
+      "url": "https://open.spotify.com/track/1gitm0ex2VODvSmsycXCT6"
+    },
+    {
+      "album": {
         "name": "Bad4u",
         "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
       },
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 177500,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6emc8ZxLfdSF86APJW1duQ"
@@ -947,10 +965,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 110000,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/49uRQvXnQht8Wk3mTiGjmw"
+      },
+      "artists": [
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        },
+        {
+          "name": "Dwin, The Stoic",
+          "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1RbQkmd0Y5kyAM78G86brd"
     },
     {
       "album": {
@@ -2200,6 +2240,32 @@
     },
     {
       "album": {
+        "name": "Oasis Park I",
+        "url": "https://open.spotify.com/album/4Y7oEESgWR8bduTm7fNZxV"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "DEZ",
+          "url": "https://open.spotify.com/artist/1j1xNJdPZ64qZURqg9kZRT"
+        },
+        {
+          "name": "Supersun",
+          "url": "https://open.spotify.com/artist/5Mocd84qJxrPbghU0PXHo6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Murdershiro",
+      "url": "https://open.spotify.com/track/1cahvfY79jaa4tHHfG4qn1"
+    },
+    {
+      "album": {
         "name": "Nasa",
         "url": "https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM"
       },
@@ -2528,6 +2594,24 @@
     },
     {
       "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193584,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
+    },
+    {
+      "album": {
         "name": "Radar (Remix)",
         "url": "https://open.spotify.com/album/0GgdrMuXZMle9fAibxpV04"
       },
@@ -2561,7 +2645,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 247946,
       "name": "Real",
       "url": "https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO"

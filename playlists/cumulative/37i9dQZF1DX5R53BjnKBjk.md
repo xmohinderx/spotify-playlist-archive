@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Saskia\. Arte: Isu Kim
 
-118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+119 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chama Grana](https://open.spotify.com/track/6z5ShAbGvJjDMUPksnZh1i) | [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP), [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [POR SUA CAUSA](https://open.spotify.com/album/670ZOn9MBhuXQzuRoDXW0p) | 3:29 | 2022-01-14 | 2022-02-12 |
 | [Ciberneticamará](https://open.spotify.com/track/6w4wyRmLicvlRDG9ooxjB5) | [Luísa Bahia](https://open.spotify.com/artist/0cCiJNLI7Fe1aqYIP3FuYb), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Ciberneticamará](https://open.spotify.com/album/3lWH340RTmPGs5qU2agBCC) | 3:24 | 2022-02-11 |  |
 | [Com Você](https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Com Você](https://open.spotify.com/album/3F7FW2LB4qer0U8EwrVtVU) | 2:25 | 2022-01-14 |  |
-| [Como Se Faz](https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Como Se Faz](https://open.spotify.com/album/5aVvaWcVo7uVqoRdEnhrw4) | 2:09 | 2022-01-07 |  |
+| [Como Se Faz](https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Como Se Faz](https://open.spotify.com/album/5aVvaWcVo7uVqoRdEnhrw4) | 2:09 | 2022-01-07 | 2022-06-24 |
 | [Consequências](https://open.spotify.com/track/6KUbYGwejSwepQzD4yZ4vJ) | [Anum Preto](https://open.spotify.com/artist/01zIROcqWjGFgVJxYGxq9O) | [Anum Preto](https://open.spotify.com/album/4EXJxigpLtRwP5IIVSuK5M) | 3:55 | 2022-01-07 |  |
 | [Desamor](https://open.spotify.com/track/0ALH6Nj9I5t3DkYTvg0And) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Refúgio](https://open.spotify.com/album/3nP5WWMB5Wgx4lX752C1dC) | 2:46 | 2022-02-04 | 2022-04-02 |
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 |  |
@@ -54,6 +54,7 @@
 | [Lapsos de Bom Senso](https://open.spotify.com/track/5TwnPuEz9Vsggp61eSFIKl) | [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh), [Riko Viana](https://open.spotify.com/artist/5ZLJi4zyqFbgmR1CNbdmEc), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Lapsos de Bom Senso](https://open.spotify.com/album/7aNR2Wrfm0sI78Xq1KxX3d) | 3:34 | 2022-01-07 | 2022-01-15 |
 | [Liberté](https://open.spotify.com/track/4Ex9N3XgKbI2nqd5mT6boP) | [L’HOMME STATUE](https://open.spotify.com/artist/42F37rpvkh8TIjfqO4HX3u) | [SER](https://open.spotify.com/album/0jSZiAeRCBxajLsNBC2onT) | 4:10 | 2022-01-07 | 2022-01-29 |
 | [Livre Demais](https://open.spotify.com/track/1pSno5Vgb2OxrLrKj2mzdW) | [MARI DK](https://open.spotify.com/artist/7DOnSkR7q0ollBBQp6yzs5) | [Livre Demais](https://open.spotify.com/album/5qAEvQ49A6y6EmctXgKr0B) | 3:25 | 2022-01-07 |  |
+| [Lucy](https://open.spotify.com/track/4QR0Kn2lUmZkmGwMDquXkf) | [coragemcv](https://open.spotify.com/artist/7ynnPGpXhCbwG0S2S91KeR), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Lucy](https://open.spotify.com/album/6Uhtrvi5cf9utDldaPXNqz) | 2:17 | 2022-06-23 |  |
 | [Mais uma Vez](https://open.spotify.com/track/1Tdiy0Gq9FfzdlhMR0B7zk) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Mais uma Vez](https://open.spotify.com/album/7fpqWKQ8b4sDfhJ6rBBMFj) | 3:22 | 2022-01-07 |  |
 | [Malabarista](https://open.spotify.com/track/7cH1U8FPUWq3rkzGq8VNUd) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Malabarista](https://open.spotify.com/album/3efz12f7JTuibc2AcSeErf) | 3:09 | 2022-01-07 | 2022-04-16 |
 | [Mapa Astral](https://open.spotify.com/track/7CMPeU97yRDHEQnDyATy5D) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mapa Astral](https://open.spotify.com/album/6F9Vw1LNSEkcujVzr87Kbj) | 3:11 | 2022-01-07 |  |

@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 195923,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 182253,
       "name": "Drugstore Houses",
       "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 178599,
       "name": "Full Size Render",
       "url": "https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 202718,
       "name": "Half-Saved",
       "url": "https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253600,
       "name": "Here Comes The River",
       "url": "https://open.spotify.com/track/1bkmxox97PzwqGCEaFuFLD"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 316743,
       "name": "Houston TX",
       "url": "https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 161706,
       "name": "judas",
       "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 215164,
       "name": "Like a River",
       "url": "https://open.spotify.com/track/7CIMSO1Q6G5lrjLo5v8aOi"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 231762,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6SGTlXM3iSWNMPhomntCGm"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -1930,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "New House",
+        "url": "https://open.spotify.com/album/7o8VaAb7k6jv13gJrToJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213229,
+      "name": "New House",
+      "url": "https://open.spotify.com/track/5Tmza7OotJYHj6gWbHxLKh"
+    },
+    {
+      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 200191,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 302880,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 202808,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Salt",
       "url": "https://open.spotify.com/track/0NbkVexgx6JZmqDrLmrgbd"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 298490,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/2vEJRouRvUxL7WXhX6WNSn"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 162421,
       "name": "still",
       "url": "https://open.spotify.com/track/7oDohZCDFN9RgxroWcxVAn"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 239253,
       "name": "The Veil",
       "url": "https://open.spotify.com/track/47nmrMtS8qDXdn9ubjX6Hz"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 259180,
       "name": "Watch You Shine",
       "url": "https://open.spotify.com/track/2BL1FgdIdPjNDc2C5UlPzP"
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 189424,
       "name": "What I Came Here For",
       "url": "https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z"
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 196587,
       "name": "While We Wait For The Sun To Rise",
       "url": "https://open.spotify.com/track/7dOvcHRRbuWLU1bqso4Bet"
@@ -3075,7 +3093,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/61z2qry5ZoEHwuSZ17V63k"

@@ -3470,6 +3470,28 @@
     },
     {
       "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/1n2Ymd72BWdEauzzue9YRk"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Tears & Marble",
+          "url": "https://open.spotify.com/artist/3uyGXP74exNBF2EEGpFddA"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/5OuWYrXjymXPDdzj7sr6qm"
+    },
+    {
+      "album": {
         "name": "Where's Your Head At (Martin Ikin Remix)",
         "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
       },

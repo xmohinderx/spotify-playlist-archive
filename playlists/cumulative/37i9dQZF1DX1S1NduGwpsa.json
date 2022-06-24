@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Ezra Collective",
+  "description": "The best jazz new releases. Photo : Melody Gardot",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -81,6 +81,28 @@
       "duration_ms": 377242,
       "name": "Agua de Jamaica",
       "url": "https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Ang\u00e9lique Kidjo",
+          "url": "https://open.spotify.com/artist/04JDhE0Y7HESpSrnuwMwl3"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Ahan",
+      "url": "https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv"
     },
     {
       "album": {
@@ -365,7 +387,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 460333,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/07GkA3KuDuE1aCSdT260Fh"
@@ -708,6 +730,28 @@
     },
     {
       "album": {
+        "name": "Le sablier",
+        "url": "https://open.spotify.com/album/1fRJD7RzmY8Ygss3zq3T87"
+      },
+      "artists": [
+        {
+          "name": "Fred Pallem",
+          "url": "https://open.spotify.com/artist/4owo8I3tAEEVG8cTUbeMe7"
+        },
+        {
+          "name": "le Sacre du Tympan",
+          "url": "https://open.spotify.com/artist/0QxfNHh4b2upSMcrZPBM7I"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341320,
+      "name": "Le sablier",
+      "url": "https://open.spotify.com/track/4US8lwaJpUGWyVuKUyFPYh"
+    },
+    {
+      "album": {
         "name": "Solo Suites",
         "url": "https://open.spotify.com/album/6yZr9kTMjd7wF4SOy74683"
       },
@@ -723,6 +767,28 @@
       "duration_ms": 373693,
       "name": "Little Melody",
       "url": "https://open.spotify.com/track/0qxH67J4QDaho2g4T0b5n1"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
+      },
+      "artists": [
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302822,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
     },
     {
       "album": {
@@ -1027,7 +1093,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 184981,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga"
@@ -1189,7 +1255,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 394664,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/4NqCSvS7Pj0uIaYIbl9xH4"
@@ -1561,7 +1627,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 216564,
       "name": "Thunderclouds",
       "url": "https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o"
@@ -1683,6 +1749,24 @@
       "duration_ms": 464143,
       "name": "Tom Sawyer (feat. Chris Thile)",
       "url": "https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd"
+    },
+    {
+      "album": {
+        "name": "Ella At The Hollywood Bowl: The Irving Berlin Songbook (Live)",
+        "url": "https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Top Hat, White Tie and Tails - Live",
+      "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
     },
     {
       "album": {

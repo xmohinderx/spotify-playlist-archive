@@ -1,13 +1,29 @@
 {
-  "description": "every week find new tracks from artists u love, artists u will love, and old songs u forgot u loved. cover: flowerovlove",
-  "num_followers": 920050,
+  "description": "every week find new tracks from artists u love, artists u will love, and old songs u forgot u loved. cover: Djo",
+  "num_followers": 920087,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkxNTMzOCwwMDAwMDM5YTAwMDAwMTgxOGMzZWRhYmMwMDAwMDE4MTZlY2E5NTE5",
+  "snapshot_id": "MTY1NjAzMDAzMiwwMDAwMDM5YzAwMDAwMTgxOTMxNGYxOGYwMDAwMDE4MTkxOGI3ODBi",
   "tracks": [
+    {
+      "added_at": "2022-06-22 04:32:24",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
+    },
     {
       "added_at": "2022-06-21 18:39:24",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-06-24 00:04:38",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 207210,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
     },
     {
       "added_at": "2022-06-22 04:32:24",
@@ -73,20 +105,36 @@
       "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
     },
     {
-      "added_at": "2022-06-22 04:32:24",
+      "added_at": "2022-06-24 00:04:38",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
+        "name": "minnesota is a place that exists",
+        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
+      "duration_ms": 138000,
+      "name": "minnesota is a place that exists",
+      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
     },
     {
       "added_at": "2022-06-22 15:24:45",
@@ -103,6 +151,22 @@
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": "2022-06-24 00:20:32",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278960,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
     },
     {
       "added_at": "2022-06-22 04:32:24",
@@ -125,24 +189,20 @@
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
-      "added_at": "2022-06-22 16:21:55",
+      "added_at": "2022-06-24 00:04:38",
       "album": {
-        "name": "Much More Than Much Love",
-        "url": "https://open.spotify.com/album/3SBIR2Obk5xmyPcvg3nsAF"
+        "name": "Shitty People",
+        "url": "https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s"
       },
       "artists": [
         {
-          "name": "Finley Quaye",
-          "url": "https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W"
-        },
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
         }
       ],
-      "duration_ms": 254693,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/2NxR8uqQ4AMV8lk09xfqFV"
+      "duration_ms": 161906,
+      "name": "Shitty People",
+      "url": "https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -161,20 +221,52 @@
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
-      "added_at": "2022-06-15 19:50:14",
+      "added_at": "2022-06-24 00:04:38",
       "album": {
-        "name": "10:36",
-        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 195066,
-      "name": "10:36",
-      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
+    {
+      "added_at": "2022-06-24 00:04:38",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/7FC09mQFRxQnKhNXDikU6p"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 179967,
+      "name": "Summer Child",
+      "url": "https://open.spotify.com/track/17XgSTOKbdWHtMsHKFUWYp"
+    },
+    {
+      "added_at": "2022-06-21 18:39:24",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2022-06-22 15:24:45",
@@ -225,6 +317,22 @@
       "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
     },
     {
+      "added_at": "2022-06-21 18:39:24",
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
+    },
+    {
       "added_at": "2022-06-17 04:00:00",
       "album": {
         "name": "Go Home!",
@@ -259,22 +367,6 @@
     {
       "added_at": "2022-06-21 18:39:24",
       "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
-    },
-    {
-      "added_at": "2022-06-21 18:39:24",
-      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -289,20 +381,20 @@
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
-      "added_at": "2022-06-21 18:39:24",
+      "added_at": "2022-06-15 19:50:14",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -351,6 +443,26 @@
       "duration_ms": 221000,
       "name": "Hard to Believe",
       "url": "https://open.spotify.com/track/0KOUhmRuztZUFOl6QCogLE"
+    },
+    {
+      "added_at": "2022-06-15 19:50:14",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 194871,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -439,26 +551,6 @@
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": "2022-06-15 19:50:14",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -559,26 +651,6 @@
       "duration_ms": 221000,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH"
-    },
-    {
-      "added_at": "2022-06-02 15:01:34",
-      "album": {
-        "name": "Good Buy My Old Life",
-        "url": "https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu"
-      },
-      "artists": [
-        {
-          "name": "Deaton Chris Anthony",
-          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Good Buy My Old Life",
-      "url": "https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -705,24 +777,24 @@
       "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
-      "added_at": "2022-06-17 04:00:00",
+      "added_at": "2022-06-02 15:01:34",
       "album": {
-        "name": "Secrecy",
-        "url": "https://open.spotify.com/album/7Av2fxNnC5OpUBNgvQcYSf"
+        "name": "Good Buy My Old Life",
+        "url": "https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu"
       },
       "artists": [
         {
-          "name": "Hazy Shea",
-          "url": "https://open.spotify.com/artist/5SxHh5TntW7TN01Igtc4B4"
+          "name": "Deaton Chris Anthony",
+          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
         },
         {
-          "name": "Jae Lynx",
-          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Secrecy",
-      "url": "https://open.spotify.com/track/5TbEyzfYutTYuRohpLm03w"
+      "duration_ms": 210160,
+      "name": "Good Buy My Old Life",
+      "url": "https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -829,22 +901,6 @@
       "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Lovesong",
-        "url": "https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
-    },
-    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "Hi-Fidelity",
@@ -931,26 +987,6 @@
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
-    },
-    {
-      "added_at": "2022-05-31 14:30:45",
-      "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1485,6 +1521,22 @@
       "url": "https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV"
     },
     {
+      "added_at": "2021-12-01 14:26:10",
+      "album": {
+        "name": "Your Life Your Time",
+        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 160257,
+      "name": "Your Life Your Time",
+      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
       "added_at": "2022-04-21 04:00:00",
       "album": {
         "name": "book of spells",
@@ -1635,22 +1687,6 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     }
   ],
   "unique_name": "Lorem",

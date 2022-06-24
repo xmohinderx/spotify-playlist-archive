@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-80 songs - 6 hr 16 min - not published yet
+80 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

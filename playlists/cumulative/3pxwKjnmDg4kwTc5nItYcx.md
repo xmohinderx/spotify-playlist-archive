@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Bri Clark
 
-587 songs - 1 day 7 hr 40 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+588 songs - 1 day 7 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-05-28 |  |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-27 |  |
 | [One Night](https://open.spotify.com/track/4AXjDRMqpaeWWxbZiz2ft3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [One Night](https://open.spotify.com/album/2jGkKFXesU0Ejr4mOR7it7) | 3:42 | 2020-03-06 | 2021-05-12 |
+| [One Step Back](https://open.spotify.com/track/0PbcYz8RagS1XubUiECkSr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [One Step Back](https://open.spotify.com/album/6IZFt0FKBjYHftD03Sfimc) | 3:34 | 2022-06-23 |  |
 | [Orange Trees](https://open.spotify.com/track/5KgjRZKraoTkHAUONmVFo1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Orange Trees](https://open.spotify.com/album/3I9uFZjQn6d4fux1wv4UzZ) | 3:07 | 2019-08-27\* | 2019-11-11 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-07-13 |  |
 | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB) | 3:36 | 2019-11-08 | 2020-02-12 |

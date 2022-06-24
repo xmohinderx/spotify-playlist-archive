@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "attention",
+        "url": "https://open.spotify.com/album/5sLdlEvaEtpKQ8vHy74ipw"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/3NmDyUwA7KrHWSsgmZn9TJ"
+    },
+    {
+      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -285,6 +303,24 @@
       "duration_ms": 178813,
       "name": "Day In Day Out",
       "url": "https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB"
+    },
+    {
+      "album": {
+        "name": "Deep Himawari",
+        "url": "https://open.spotify.com/album/3CbskWWeIvgowtLb2MQAaZ"
+      },
+      "artists": [
+        {
+          "name": "SANABAGUN.",
+          "url": "https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214636,
+      "name": "Deep Himawari",
+      "url": "https://open.spotify.com/track/4Djw11FVmjUYfOOS96qIgW"
     },
     {
       "album": {
@@ -475,6 +511,24 @@
       "duration_ms": 245814,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H"
+    },
+    {
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "album": {
@@ -943,7 +997,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 174428,
       "name": "Our Moon - feat. London Lawhon",
       "url": "https://open.spotify.com/track/415TXcyD71rjZrOgrfa5o3"
@@ -1055,6 +1109,24 @@
       "duration_ms": 201274,
       "name": "rollin'",
       "url": "https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn"
+    },
+    {
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
     },
     {
       "album": {
@@ -1279,6 +1351,28 @@
       "duration_ms": 251827,
       "name": "Tokyo 2020",
       "url": "https://open.spotify.com/track/2zxEX9OFjwXNdUiXdt4GwQ"
+    },
+    {
+      "album": {
+        "name": "Tokyo on My Mind",
+        "url": "https://open.spotify.com/album/2TG1nnIg6Hhp9oQrW55slW"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Nathan Hartono",
+          "url": "https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256271,
+      "name": "Tokyo on My Mind",
+      "url": "https://open.spotify.com/track/29ESobGNliucNomS7MnqlN"
     },
     {
       "album": {
@@ -1581,7 +1675,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 204237,
       "name": "\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx"
@@ -1733,7 +1827,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"
@@ -1831,7 +1925,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 234000,
       "name": "\u624b\u7d19",
       "url": "https://open.spotify.com/track/7BlqNJn3XGihKvHJLA86Wp"

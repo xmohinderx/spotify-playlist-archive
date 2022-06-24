@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-179 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+180 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [We Don’t Need](https://open.spotify.com/track/5AHZJSGknCqvbCwnsBbHzo) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1uUJoimjzFAbWUkhb8r52d) | 2:33 | 2022-05-13 | 2022-05-30 |
 | [We Drop Beats](https://open.spotify.com/track/47HQ8T7jHpb14FS1Env1BD) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [We Drop Beats](https://open.spotify.com/album/3eOjavq637siaUO4TpPy5r) | 3:04 | 2022-05-01 | 2022-05-14 |
 | [Wha](https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Wha](https://open.spotify.com/album/3UnTGZLLMNaj34Wzwg2XNV) | 3:32 | 2022-05-13 | 2022-05-30 |
+| [What Is Love](https://open.spotify.com/track/5OuWYrXjymXPDdzj7sr6qm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Tears & Marble](https://open.spotify.com/artist/3uyGXP74exNBF2EEGpFddA) | [What Is Love](https://open.spotify.com/album/1n2Ymd72BWdEauzzue9YRk) | 3:36 | 2022-06-23 |  |
 | [Where's Your Head At \- Martin Ikin Remix](https://open.spotify.com/track/3wlcn9OqjAhBnX0Bw053VB) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Where's Your Head At \(Martin Ikin Remix\)](https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn) | 5:46 | 2022-05-29 | 2022-06-04 |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 | 2022-06-11 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 |  |

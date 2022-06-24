@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Jake La Furia",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: ANNA",
   "name": "Plus Ultra",
   "published_playlist_ids": [
     "7z4B5G5t7icaq70XD3Gf3S"
@@ -570,6 +570,32 @@
     },
     {
       "album": {
+        "name": "Cuore",
+        "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202588,
+      "name": "Cuore",
+      "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -1061,7 +1087,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 119111,
       "name": "LAVA FREESTYLE",
       "url": "https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema"
@@ -1318,6 +1344,28 @@
     },
     {
       "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Mujer (feat. Madame)",
+      "url": "https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU"
+    },
+    {
+      "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
       },
@@ -1519,7 +1567,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
@@ -1715,7 +1763,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 170653,
       "name": "RUNNING (feat. Rondodasosa, Keta, Sacky, Nko)",
       "url": "https://open.spotify.com/track/0ckLdEC7jpctzReOBNq700"
@@ -1737,6 +1785,24 @@
       "duration_ms": 149638,
       "name": "Samba",
       "url": "https://open.spotify.com/track/2xZOxK1Emq85FfnJGVR21a"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Sei qui",
+      "url": "https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ"
     },
     {
       "album": {

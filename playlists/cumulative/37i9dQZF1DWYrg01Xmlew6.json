@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Napoli e il meglio della scena campana. Cover: Peppe Soks, Enzo Dong",
+  "description": "Napoli e il meglio della scena campana. Cover: Nt\u00f2",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -310,6 +310,32 @@
     },
     {
       "album": {
+        "name": "Cuore",
+        "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202588,
+      "name": "Cuore",
+      "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
+    },
+    {
+      "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
       },
@@ -487,7 +513,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 166153,
       "name": "GLORIA",
       "url": "https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew"
@@ -527,7 +553,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 174008,
       "name": "Guagliune Sfurtunate",
       "url": "https://open.spotify.com/track/3tzNF9kVhgxXk1FfwSQUWF"
@@ -1383,6 +1409,24 @@
       "duration_ms": 186169,
       "name": "U Know",
       "url": "https://open.spotify.com/track/1y3ubfKyYu9C0AtFGRcOdd"
+    },
+    {
+      "album": {
+        "name": "UEUE",
+        "url": "https://open.spotify.com/album/2XCdtqGGbxzFq6OVg5jVK9"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "UEUE",
+      "url": "https://open.spotify.com/track/5Vq17WvWaqM8B6dj0qGFkB"
     },
     {
       "album": {

@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/3axYlUVDbCBBoUuCE4Ievc"
+      },
+      "artists": [
+        {
+          "name": "Mvk7",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113522,
+      "name": "212",
+      "url": "https://open.spotify.com/track/7FZaXsJN94zPYloLIu0vAb"
+    },
+    {
+      "album": {
         "name": "A Cole\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e"
       },
@@ -451,6 +469,24 @@
       "duration_ms": 131110,
       "name": "Aquecimento da Jogada",
       "url": "https://open.spotify.com/track/3q9hA7lEhaiH1QLq2H0JgX"
+    },
+    {
+      "album": {
+        "name": "ROCK PESADO",
+        "url": "https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143596,
+      "name": "AQUELA MINA DE VERMELHO - TACA ROLA - \u00c9 HOJE QUE EU BAGUN\u00c7O",
+      "url": "https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ"
     },
     {
       "album": {
@@ -2293,7 +2329,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 161381,
       "name": "Ela \u00e9 da Bagaceira",
       "url": "https://open.spotify.com/track/2h8mN8WkvlJN7gFMKOhpr8"
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 339893,
       "name": "Festa na Ro\u00e7a / Sapecando / Pisei na Brasa",
       "url": "https://open.spotify.com/track/7FIb5o6Q6xtGgmpJDbn49F"
@@ -4561,7 +4597,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 166817,
       "name": "Me Chama de Cachorr\u00e3o 2",
       "url": "https://open.spotify.com/track/7DUjDsDvWQKFFQ04Rv0YCv"
@@ -8217,7 +8253,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 171712,
       "name": "Todo Seu - Ao Vivo",
       "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq"

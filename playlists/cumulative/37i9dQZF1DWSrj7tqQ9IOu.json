@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Ad\u00e8le Castillon",
+  "description": "The best French indie tracks right now. Cover: Jeanne Added",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 240588,
       "name": "Coco Robot",
       "url": "https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 195613,
       "name": "Destination l'amour",
       "url": "https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH"
@@ -493,6 +493,24 @@
       "duration_ms": 198040,
       "name": "Dictators",
       "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
+    },
+    {
+      "album": {
+        "name": "Directorial Debut",
+        "url": "https://open.spotify.com/album/5R40B2Hq5HSznxKGYmNYll"
+      },
+      "artists": [
+        {
+          "name": "Quasi Qui",
+          "url": "https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204007,
+      "name": "Directorial Debut",
+      "url": "https://open.spotify.com/track/7EfZ2xMyawtj2QG3A6HE20"
     },
     {
       "album": {
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 164823,
       "name": "Distant Calls",
       "url": "https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr"
@@ -716,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Fun And Games",
+        "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
+      },
+      "artists": [
+        {
+          "name": "Please",
+          "url": "https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245187,
+      "name": "Fun And Games",
+      "url": "https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY"
+    },
+    {
+      "album": {
         "name": "Get to Me",
         "url": "https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp"
       },
@@ -793,6 +829,24 @@
       "duration_ms": 216413,
       "name": "Hell of a Woman",
       "url": "https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf"
+    },
+    {
+      "album": {
+        "name": "Hey Boy",
+        "url": "https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Added",
+          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229067,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/28goX2uKr53LeijjP2waQV"
     },
     {
       "album": {
@@ -962,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "dani",
+        "url": "https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Je reviens des enfers",
+      "url": "https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT"
+    },
+    {
+      "album": {
         "name": ":):",
         "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
       },
@@ -1089,7 +1161,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 192454,
       "name": "La Cigarette",
       "url": "https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI"
@@ -1129,7 +1201,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 197052,
       "name": "La Lumi\u00e8re",
       "url": "https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo"
@@ -1634,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "NOT WHAT YOU WANTED",
+        "url": "https://open.spotify.com/album/6dIgyaXR88Mjfuym9ZTkdm"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "NOT WHAT YOU WANTED",
+      "url": "https://open.spotify.com/track/0d7LopGyWjUsXKCeKOEJzO"
+    },
+    {
+      "album": {
         "name": "Nouveau Genre",
         "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
       },
@@ -1649,6 +1739,24 @@
       "duration_ms": 202520,
       "name": "Nouveau Genre",
       "url": "https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb"
+    },
+    {
+      "album": {
+        "name": "Oc\u00e9an",
+        "url": "https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ"
+      },
+      "artists": [
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236607,
+      "name": "Oc\u00e9an",
+      "url": "https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj"
     },
     {
       "album": {
@@ -2035,10 +2143,36 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 191986,
       "name": "Soleil de minuit",
       "url": "https://open.spotify.com/track/3FzOlSWz0gKbthX0AJ6Vqw"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/2AhOvs6A2RVg3IoVtCeMI1"
+      },
+      "artists": [
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
     },
     {
       "album": {
@@ -2179,7 +2313,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 169510,
       "name": "Tears for Breakfast",
       "url": "https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd"

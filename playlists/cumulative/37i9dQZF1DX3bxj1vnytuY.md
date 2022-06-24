@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-99 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+100 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [The Call](https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P), [Elly Ball](https://open.spotify.com/artist/7HXdeGBPEYJDB97Yy1sHMH) | [The Call](https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb) | 6:40 | 2022-04-13 |  |
 | [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 | 2022-04-13 |  |
 | [The Child Within \- Tenet Audio Extended Remix](https://open.spotify.com/track/1OeJWzCmPPR3MlfVJTLUeD) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Tenet Audio](https://open.spotify.com/artist/0e0nAJW9Y0XenGy2XPJD2n) | [The Child Within \(TENET AUDIO Remix\)](https://open.spotify.com/album/4GPatUICLtLqqgSbfK0VHI) | 6:27 | 2022-04-13 |  |
+| [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 | 2022-06-23 |  |
 | [The Lamp](https://open.spotify.com/track/4dIrJCIZr1IVzpYPXhYtO8) | [Taleman](https://open.spotify.com/artist/1SwnQqiR6dt2eBJg9hIVIu) | [15 Years of Akbal Music, Pt\. 1](https://open.spotify.com/album/1woMUulpCuaz2MEuWl5H7S) | 8:19 | 2022-04-13 |  |
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 |  |
 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 |  |

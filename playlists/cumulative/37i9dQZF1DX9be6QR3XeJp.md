@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Anish Kumar
+> Discover your new favourite artists\. Cover: Wu\-Lu
 
-113 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+114 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Remedies](https://open.spotify.com/track/1bCl2ys5OAbgoEw3vE0B57) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2ib2McC2mS6zPUud6LqBgA) | 4:42 | 2022-02-18 |  |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-02-18 |  |
 | [Same Old](https://open.spotify.com/track/3YWZPpLVGeEq8VvNLaB55f) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Same Old](https://open.spotify.com/album/5qZq3wkonGD3hVtmoxm2NB) | 2:53 | 2022-02-18 |  |
+| [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 | 2022-06-23 |  |
 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 | 2022-02-18 |  |
 | [Shoreditch](https://open.spotify.com/track/0PrLVRKLIuYmluI9h36PYf) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Shoreditch](https://open.spotify.com/album/6mMGBXfiHvjy4UqtkHrtzw) | 3:09 | 2022-02-18 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2022-02-18 |  |

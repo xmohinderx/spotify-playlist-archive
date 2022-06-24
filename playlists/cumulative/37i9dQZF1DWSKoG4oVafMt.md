@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-365 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+367 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Nawa Nawa Dil Tuteya](https://open.spotify.com/track/0ZFsqEVqApPnuIGuQJIscw) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Nawa Nawa Dil Tuteya](https://open.spotify.com/album/45Mgbj1LeFXPnnktnpvsiD) | 3:39 | 2022-03-18 | 2022-04-06 |
 | [Nede Nede](https://open.spotify.com/track/4WcaWNHa7BoPvQ0tfe0jAo) | [Parry Mounn](https://open.spotify.com/artist/5wa8fZAQdhMMvKBu1iKGKM), [Ruhani Sharma](https://open.spotify.com/artist/2qREfft7wnYiWRLk8y6EDg) | [Nede Nede](https://open.spotify.com/album/6IKMeqAZrVaRM3jUk8YmfN) | 3:07 | 2022-02-15 | 2022-03-11 |
 | [Never Leave Me](https://open.spotify.com/track/3ADSlfZRKzY1C9mXue8YiD) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hop & Folk](https://open.spotify.com/album/1Lvs59XUDFgvbeSAXMwtBs) | 4:04 | 2022-01-28 | 2022-02-01 |
+| [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 |  |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
 | [No Mercy](https://open.spotify.com/track/0wMf9gR8xLegCKApnsots8) | [Dhindsa](https://open.spotify.com/artist/0GsSwV1qiXcmeBspegMa2y) | [No Mercy](https://open.spotify.com/album/6cQhIgJWb3UdhyICOc4ynB) | 2:58 | 2022-05-20 |  |
 | [Noor](https://open.spotify.com/track/7bmZe5feAzVVQ1xmbJR55q) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Noor](https://open.spotify.com/album/6zZoFhUX5gPyYBaVD9eBHP) | 3:57 | 2022-02-14 | 2022-02-19 |
@@ -325,6 +326,7 @@
 | [Tabiat](https://open.spotify.com/track/7pBrCHgaC8Sch4TYuvOQDY) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 2:40 | 2022-01-10 | 2022-02-01 |
 | [Tainu Milke](https://open.spotify.com/track/7gYoV5thU5R3iKUeerwdKs) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Tainu Milke](https://open.spotify.com/album/01GtPL35C6OwVPrNTCUR6M) | 3:27 | 2022-04-27 |  |
 | [Takda Rava](https://open.spotify.com/track/07RmHcfHXMoouyEL9cRnN4) | [Da Banotra](https://open.spotify.com/artist/6qA494Mxl9DGij4HZmK9aH) | [Takda Rava](https://open.spotify.com/album/1L0mD1Fyyqu7OZwtIfaeK8) | 4:04 | 2022-04-04 | 2022-05-11 |
+| [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 |  |
 | [Tasali](https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:33 | 2022-02-01 | 2022-02-12 |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,844 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 28 | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6) | 2:32 |
 | 29 | [ROTTEN PAST](https://open.spotify.com/track/0l4d906zMtqjwqgxTScrxx) | [Yung Sir](https://open.spotify.com/artist/5h8dcWamwJV3pclqPD9bs1), [Tảo](https://open.spotify.com/artist/4OLVT2ze3KQevQ1Qa8RULp) | [ROTTEN PAST](https://open.spotify.com/album/3oO5tGCMBDjZUOjVuvH3gv) | 3:17 |
 | 30 | [Bởi Vì Có Em](https://open.spotify.com/track/1yXZp3CI1nHjvmzxTmum7f) | [Nguyễn Tấn Đạt](https://open.spotify.com/artist/1Z5DJV3W8q8VmU43xwhdGY) | [Bởi Vì Có Em](https://open.spotify.com/album/33ZPnUg7xgWPdxbaMDRk8l) | 3:21 |
-| 31 | [I Love U Chucamo](https://open.spotify.com/track/4hma9kLDnYKWN15HpHFUTX) | [Hino](https://open.spotify.com/artist/46eYlws2VfnJJsyPk4cP7o), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB) | [I Love U Chucamo](https://open.spotify.com/album/6C1CUjiZMzUVzQrI9EXU90) | 2:59 |
+| 31 | [I Luv U Chucamo](https://open.spotify.com/track/4hma9kLDnYKWN15HpHFUTX) | [Hino](https://open.spotify.com/artist/46eYlws2VfnJJsyPk4cP7o), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB) | [I Luv U Chucamo](https://open.spotify.com/album/6C1CUjiZMzUVzQrI9EXU90) | 2:59 |
 | 32 | [Yêu em đậm sâu](https://open.spotify.com/track/0NBhZ81C2N8uVEDWU2ucLz) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd), [Khói Stone](https://open.spotify.com/artist/2u2HF34Almyv3L8V9OGDBe), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Yêu em đậm sâu](https://open.spotify.com/album/0ZKNDLvvVz6emHyClBVYz2) | 3:30 |
 | 33 | [Buồn Nào Đẹp Như Thế \- “Chuyện Của Anh”](https://open.spotify.com/track/73qL57rvcXj1xEOL6cU66D) | [Haro](https://open.spotify.com/artist/6ONQpyORNnXnhfOPNcSYz2) | [Buồn Nào Đẹp Như Thế \- “Chuyện Của Anh”](https://open.spotify.com/album/6urRDwH88DqAZgZuc89FTY) | 3:03 |
 | 34 | [Vì Ta Giống Nhau](https://open.spotify.com/track/0U5bXDm522NFxgbalL1qXn) | [DATB](https://open.spotify.com/artist/20awixItwowpS8dY2wBGRN), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [Vì Ta Giống Nhau](https://open.spotify.com/album/1DCEycd7x9YwMpVUN5wEbp) | 3:07 |

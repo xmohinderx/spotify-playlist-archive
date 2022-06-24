@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The resurgence is real\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,721 likes - 110 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,638 likes - 110 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

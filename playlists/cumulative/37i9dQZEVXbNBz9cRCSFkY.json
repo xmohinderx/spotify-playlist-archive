@@ -4006,6 +4006,24 @@
     },
     {
       "album": {
+        "name": "Langyang Pag-Ibig",
+        "url": "https://open.spotify.com/album/7fbhKyegOq5B2lT8W3Li72"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261683,
+      "name": "Langyang Pag-Ibig",
+      "url": "https://open.spotify.com/track/3NxCPoPvxK6QQgmMCX6QYV"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -5931,7 +5949,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jhelisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,360 likes - 85 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,493 likes - 85 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

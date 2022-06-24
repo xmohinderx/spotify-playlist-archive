@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-114 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+115 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-09 |  |
 | [All My Fault](https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [All My Fault](https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB) | 3:06 | 2022-03-25 |  |
 | [AMADOU.JPG](https://open.spotify.com/track/4mchgg9m8p0F4pgTx2jD7C) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [IFIEVERCANTMAKEIT.JPG](https://open.spotify.com/album/5EUP2zubhoYrkO9kGFgIfd) | 5:41 | 2021-11-11 |  |
+| [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-06-23 |  |
 | [Another Kind](https://open.spotify.com/track/5X2INJnx12CJqz2XKKc4NE) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [Passion](https://open.spotify.com/album/0U49oasE1s5FWbYaKYE039) | 3:07 | 2021-10-15 | 2022-01-28 |
 | [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 | 2022-03-17 |  |
 | [Bleu](https://open.spotify.com/track/2gxJQDv1lGLZBkuIxFkqtx) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 3:35 | 2021-10-15 | 2022-03-11 |
@@ -114,7 +115,7 @@
 | [TREADING WATER](https://open.spotify.com/track/59uf6SH8YAoiylleU4nQWT) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [TREADING WATER](https://open.spotify.com/album/0TQkcyZaYiEoOFzJGoTdlu) | 4:12 | 2021-10-15 |  |
 | [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 | 2022-03-17 |  |
 | [Ulimwengu](https://open.spotify.com/track/64zBPVf9WtiHqdfbDxwB6b) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk), [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Vini Ngugi](https://open.spotify.com/artist/2VzrXzhmSSXZ8c7XFbWhVh) | [Ulimwengu](https://open.spotify.com/album/0pHDjBRfb4L627oXuzgB3e) | 4:06 | 2021-10-29 | 2022-02-25 |
-| [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 |  |
+| [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |

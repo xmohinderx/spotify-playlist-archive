@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,215 likes - 193 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,282 likes - 193 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 104 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 |
 | 105 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 |
 | 106 | [Phthalo](https://open.spotify.com/track/7kxdWrh8gb2rdvCZDfTknO) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 2:04 |
-| 107 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [Coffee Beats](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 |
+| 107 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [DaylightZ](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 |
 | 108 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 |
 | 109 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 |
 | 110 | [slumberjack](https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa), [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [slumberjack](https://open.spotify.com/album/1sZZVLQlHpJ2gG0fdrZE20) | 1:42 |

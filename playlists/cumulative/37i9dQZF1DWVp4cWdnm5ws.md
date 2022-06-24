@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-80 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+81 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2021-11-25 | 2022-03-25 |
 | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/34MnMmfkCLs4Y4HTXz9fqJ) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 | 2021-11-25 | 2022-03-25 |
+| [Lagi](https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Lagi](https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj) | 4:16 | 2022-06-23 |  |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-04-01 |  |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2022-03-25 |

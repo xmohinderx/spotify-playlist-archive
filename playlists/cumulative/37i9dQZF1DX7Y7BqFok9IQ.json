@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Come On",
       "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 160543,
       "name": "Eagle Birds",
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 224266,
       "name": "Hounds Loose",
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 227206,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 243697,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 225093,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 233229,
       "name": "Prosecution Blues",
       "url": "https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk"
@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Nowhere Everywhere",
+        "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "Sailing Down",
+      "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
+    },
+    {
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
       },
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 238799,
       "name": "She Gets Me High",
       "url": "https://open.spotify.com/track/0H8Pm02RYzcMA5FeAVF1ZI"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 181688,
       "name": "Strange Light",
       "url": "https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 310346,
       "name": "Third Eye Witness",
       "url": "https://open.spotify.com/track/0nDWq31XCAiMjiFowRy8J8"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 215906,
       "name": "Waiting For Your Man",
       "url": "https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK"

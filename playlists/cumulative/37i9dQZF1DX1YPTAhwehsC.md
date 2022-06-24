@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: French Montana
 
-229 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+230 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bitter](https://open.spotify.com/track/72W07qFR4D8v0vcAuWoanj) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 3](https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv) | 2:22 | 2022-01-14 | 2022-02-26 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 | 2022-06-11 |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-03-18 | 2022-04-29 |
+| [Blue Chills](https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:51 | 2022-06-17 |  |
 | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa) | 1:58 | 2022-03-11 | 2022-06-11 |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 | 2022-06-18 |
 | [Born With It](https://open.spotify.com/track/2OoNh4KrWVJjmIeYU9chtF) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Born With It](https://open.spotify.com/album/0LiywUJToUqG6HNqhhPNPf) | 1:52 | 2022-02-04 | 2022-04-02 |

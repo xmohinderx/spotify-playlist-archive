@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=TVQ6Cp6wTNC9KM_PEXElJg\">Kabza De Small</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=eu6MKYO0RiyHFPeWDwx_OQ\">DJ Maphorisa</a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=pKD746lTRMiRSGig8I8UMA\">Kabza De Small</a> ",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 352104,
       "name": "African Melody",
       "url": "https://open.spotify.com/track/2Ksxb9Prkm5pMXic89a2aB"
@@ -767,6 +767,48 @@
       "duration_ms": 308610,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/2fpXH4cVDnwGwvN3dGoN2D"
+    },
+    {
+      "album": {
+        "name": "AmaVampire (feat. JazziQ, Tserai J, PMD, Boibizza, 2wo Short & Soultribute)",
+        "url": "https://open.spotify.com/album/6G59fNP6dYrwu9HY0a1nRo"
+      },
+      "artists": [
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "2wo Short",
+          "url": "https://open.spotify.com/artist/1bXft3LbQCC6OREdgzw0v1"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "JazziQ",
+          "url": "https://open.spotify.com/artist/6j5MIYF5vTjyQhnt6XE7fv"
+        },
+        {
+          "name": "PMD",
+          "url": "https://open.spotify.com/artist/3xgVb12lTabQh3FnxXgjQk"
+        },
+        {
+          "name": "Soultribute",
+          "url": "https://open.spotify.com/artist/08XAzkr9ljzVgFlqzvZZnh"
+        },
+        {
+          "name": "Tserai J",
+          "url": "https://open.spotify.com/artist/1odqpTeP1TypDPNJV1dd90"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360050,
+      "name": "AmaVampire (feat. JazziQ, Tserai J, PMD, Boibizza, 2wo Short & Soultribute)",
+      "url": "https://open.spotify.com/track/1W3r6PWddWIrOHu6EBJBon"
     },
     {
       "album": {
@@ -2122,6 +2164,28 @@
     },
     {
       "album": {
+        "name": "Daliwami",
+        "url": "https://open.spotify.com/album/4SLnQaLu2AWtKJyV5LweXR"
+      },
+      "artists": [
+        {
+          "name": "DJ Active",
+          "url": "https://open.spotify.com/artist/77LX9LG2ln7k7VKMLCWlow"
+        },
+        {
+          "name": "Fellani Musical",
+          "url": "https://open.spotify.com/artist/3D0icjcC3jSpIcJQjRxeFG"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277649,
+      "name": "Daliwami",
+      "url": "https://open.spotify.com/track/4fknfsdbSutIkCmUQsV7mR"
+    },
+    {
+      "album": {
         "name": "Crown Jewel",
         "url": "https://open.spotify.com/album/1HVXAIjVS1p7aZRkM4NHOH"
       },
@@ -2841,10 +2905,36 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 348362,
       "name": "Empini",
       "url": "https://open.spotify.com/track/2DAox48qc6LqTuujKSdQTf"
+    },
+    {
+      "album": {
+        "name": "Etema",
+        "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
+      },
+      "artists": [
+        {
+          "name": "WaxFiend",
+          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "Dave Nunes",
+          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270086,
+      "name": "Etema",
+      "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
     },
     {
       "album": {
@@ -2951,6 +3041,24 @@
       "duration_ms": 243408,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/5OWefBRMQKxoH8SYxYTyg2"
+    },
+    {
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/4NMoA76QNLPo7AJNZZke2M"
+      },
+      "artists": [
+        {
+          "name": "LAE",
+          "url": "https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254867,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4kdKnW82mqcgJCamViTCCG"
     },
     {
       "album": {
@@ -3143,7 +3251,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 398789,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4GzMXV8MGwKmuUTET3WJAv"
@@ -3195,6 +3303,36 @@
       "duration_ms": 169601,
       "name": "Gravity (feat. Major League Djz)",
       "url": "https://open.spotify.com/track/61r4WIfTWHZXV9G6MwZxJJ"
+    },
+    {
+      "album": {
+        "name": "Gubezela (feat. Tos, Robot Boii & Deeper Phil)",
+        "url": "https://open.spotify.com/album/7oZGG9RG9ZfH1gZRcNFyXi"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Deeper Phil",
+          "url": "https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N"
+        },
+        {
+          "name": "Tos",
+          "url": "https://open.spotify.com/artist/0CJU3Jn063WX08UsFsuYx3"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402957,
+      "name": "Gubezela (feat. Tos, Robot Boii & Deeper Phil)",
+      "url": "https://open.spotify.com/track/7MJKJCJdEYlL7llSAbGmXx"
     },
     {
       "album": {
@@ -3401,6 +3539,28 @@
       "duration_ms": 417857,
       "name": "Hey Siri",
       "url": "https://open.spotify.com/track/7fJ28juYf2WC5BLrSwitAX"
+    },
+    {
+      "album": {
+        "name": "A Long Way",
+        "url": "https://open.spotify.com/album/7JerVv4TKq7UmEOoDVWhEL"
+      },
+      "artists": [
+        {
+          "name": "JayMea",
+          "url": "https://open.spotify.com/artist/6IXTM7xwUdJTE6Pb6jWA8l"
+        },
+        {
+          "name": "DJ Dhilan",
+          "url": "https://open.spotify.com/artist/46S7GmvYo8CeF414R3hCLU"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443805,
+      "name": "Hidden Gem",
+      "url": "https://open.spotify.com/track/5MLlBj0mFWLQLzI5Fzc2As"
     },
     {
       "album": {
@@ -3777,7 +3937,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 351512,
       "name": "Indab'Yami (feat. LeeMcKrazy)",
       "url": "https://open.spotify.com/track/2sRwKgS449CjcV5CglrAjH"
@@ -4349,7 +4509,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 384078,
       "name": "Iwewe",
       "url": "https://open.spotify.com/track/3MQ26IZImqx0r7eAyProvl"
@@ -5436,6 +5596,24 @@
     },
     {
       "album": {
+        "name": "Makhwapheni",
+        "url": "https://open.spotify.com/album/1UK5kPY2KOfSuiJqiVxO9U"
+      },
+      "artists": [
+        {
+          "name": "Andile Mpisane",
+          "url": "https://open.spotify.com/artist/5yKvbBP5z1hSGsodl6resr"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382317,
+      "name": "Makhwapheni",
+      "url": "https://open.spotify.com/track/0ByHMZCuMnfiMbxcJh1Ozs"
+    },
+    {
+      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/1efJi6TsEqn9wbVcns89o9"
       },
@@ -5591,6 +5769,40 @@
       "duration_ms": 326140,
       "name": "Mashamplan",
       "url": "https://open.spotify.com/track/6oVCK3HZopLKUbj5LwP2kk"
+    },
+    {
+      "album": {
+        "name": "Matenase (feat. Mandla, Matenase Wa Di Yobisi & Jelly Babie)",
+        "url": "https://open.spotify.com/album/68wxNNditf9gp7hStm7T4G"
+      },
+      "artists": [
+        {
+          "name": "Vusi Ma R5",
+          "url": "https://open.spotify.com/artist/5Qz8cKu03cNqHkazo1kzjn"
+        },
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        },
+        {
+          "name": "Jelly Babie",
+          "url": "https://open.spotify.com/artist/1W6ErVtCubk26F3vVMxm7N"
+        },
+        {
+          "name": "Mandla.",
+          "url": "https://open.spotify.com/artist/3DGUPwjchzESx7FjCvJdGO"
+        },
+        {
+          "name": "Matenase Wa Di Yobisi",
+          "url": "https://open.spotify.com/artist/3UrTUAxRZVERzuEQSTrUPs"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267467,
+      "name": "Matenase (feat. Mandla, Matenase Wa Di Yobisi & Jelly Babie)",
+      "url": "https://open.spotify.com/track/2Vj1cKVT6XVQPWoD6ghZ61"
     },
     {
       "album": {
@@ -5883,7 +6095,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 252785,
       "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
       "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
@@ -6475,7 +6687,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 346462,
       "name": "Ngoba Mina",
       "url": "https://open.spotify.com/track/20oNZwJ1ch7GOUTDvUTjPX"
@@ -6535,6 +6747,32 @@
       "duration_ms": 425090,
       "name": "Ngthand' Wena",
       "url": "https://open.spotify.com/track/6hIFM7jq3f0gxzX8OiJTQq"
+    },
+    {
+      "album": {
+        "name": "Nguwe",
+        "url": "https://open.spotify.com/album/3p5QkvkSbzJwpMsI9eXsXl"
+      },
+      "artists": [
+        {
+          "name": "Q-Mark",
+          "url": "https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj"
+        },
+        {
+          "name": "TpZee",
+          "url": "https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383571,
+      "name": "Nguwe",
+      "url": "https://open.spotify.com/track/3jWcIA0LgEns7xqeVz2MEq"
     },
     {
       "album": {
@@ -6859,7 +7097,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
@@ -7449,7 +7687,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 414581,
       "name": "Sendivile (feat. LeeMcKrazy, Stash Da Groovyest, Kera SA & Mzweshper_sa)",
       "url": "https://open.spotify.com/track/6bkzvnUkrmaRGdcLSODmnL"
@@ -7657,7 +7895,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 415736,
       "name": "Shuku Sha",
       "url": "https://open.spotify.com/track/1oMDG84rvz0SnKZbzkGyGm"
@@ -7735,6 +7973,28 @@
       "duration_ms": 377182,
       "name": "Sithi Shwi (feat. Big Zulu, DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
+    },
+    {
+      "album": {
+        "name": "Monate WA Piano EP",
+        "url": "https://open.spotify.com/album/0efKYgI9NPZitVNfKzKFyy"
+      },
+      "artists": [
+        {
+          "name": "DJ Black Low",
+          "url": "https://open.spotify.com/artist/3R6duxKXTU6YDfm4VT6FAk"
+        },
+        {
+          "name": "Young Master",
+          "url": "https://open.spotify.com/artist/087LhYwZNkclc5KqAtoRPg"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368157,
+      "name": "Six Letters",
+      "url": "https://open.spotify.com/track/6dm6azfOgYxjTYNlrYb7F1"
     },
     {
       "album": {
@@ -7817,7 +8077,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 362480,
       "name": "Siyavuma",
       "url": "https://open.spotify.com/track/1zrFhDV0EgGbd5wFNQaVxu"
@@ -9132,6 +9392,40 @@
     },
     {
       "album": {
+        "name": "Scorpion Kings Live Sun Arena",
+        "url": "https://open.spotify.com/album/6N067E0wNZsTlyvgnTpJ9l"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mpura",
+          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428571,
+      "name": "Trust Fund (feat. Focalistic, Mpura & Madumane) - Live",
+      "url": "https://open.spotify.com/track/4F7H87xusgYP3SEFj7gOVP"
+    },
+    {
+      "album": {
         "name": "Tse Nnyane (feat. Kosha Za)",
         "url": "https://open.spotify.com/album/3bVbGSSWfib2ieASTewxwG"
       },
@@ -9295,7 +9589,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
@@ -10157,6 +10451,32 @@
       "duration_ms": 399847,
       "name": "Whistleblower freestyle",
       "url": "https://open.spotify.com/track/1RVPh6r4i7V7f7oYl9kLyv"
+    },
+    {
+      "album": {
+        "name": "Wild Party",
+        "url": "https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Wild Party",
+      "url": "https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q"
     },
     {
       "album": {

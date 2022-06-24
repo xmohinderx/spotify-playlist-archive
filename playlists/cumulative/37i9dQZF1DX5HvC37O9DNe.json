@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 186853,
       "name": "ALTALENE (feat. Mara Sattei & Coez)",
       "url": "https://open.spotify.com/track/2zqxUV6h5y6Y9WhyH0FVvX"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "Amare",
       "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
@@ -522,6 +522,44 @@
     },
     {
       "album": {
+        "name": "Ciclone (feat. Elodie, Mariah, Gipsy Kings, Nicol\u00e1s Reyes, Tonino Baliardo)",
+        "url": "https://open.spotify.com/album/3yewMgw54k3zeeH6O1FfV2"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        },
+        {
+          "name": "Nicolas Reyes",
+          "url": "https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT"
+        },
+        {
+          "name": "Tonino Baliardo",
+          "url": "https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Ciclone (feat. Elodie, Mariah, Gipsy Kings, Nicol\u00e1s Reyes, Tonino Baliardo)",
+      "url": "https://open.spotify.com/track/2YGqtxaGdML9aM5jCwgRw9"
+    },
+    {
+      "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
       },
@@ -533,7 +571,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
@@ -609,7 +647,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
@@ -663,7 +701,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 166602,
       "name": "Cuore Nero - prod. Frenetik&Orang3",
       "url": "https://open.spotify.com/track/0ROJX4yr64AlknCaX71JDQ"
@@ -795,7 +833,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 145462,
       "name": "Domani ci passa",
       "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
@@ -1517,7 +1555,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 250830,
       "name": "MARIL\u00d9",
       "url": "https://open.spotify.com/track/7JlPKH9G2KLUzJlfFFAxEO"
@@ -1691,7 +1729,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 236720,
       "name": "Musica leggerissima",
       "url": "https://open.spotify.com/track/67qxSUoyng1ohzvfyOyNWW"
@@ -1947,7 +1985,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 169181,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
@@ -2139,7 +2177,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
@@ -2291,7 +2329,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -2867,7 +2905,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 172568,
       "name": "VIENIMI (a ballare)",
       "url": "https://open.spotify.com/track/3VZfK5GR6tN3WH3WsBNMYq"

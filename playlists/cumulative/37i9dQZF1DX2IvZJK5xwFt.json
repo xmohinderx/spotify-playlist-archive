@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Ozzy Osbourne",
   "name": "Just Rock!",
   "published_playlist_ids": [
     "4b8D1RnS1amrOmfT4hWOtA"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
@@ -836,6 +836,28 @@
     },
     {
       "album": {
+        "name": "HEAD",
+        "url": "https://open.spotify.com/album/2AD1whY87iLPxZaWs8Kd4Y"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "Aston Fenly",
+          "url": "https://open.spotify.com/artist/23RT2uLMNqIl3RkddKTAF6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "HEAD",
+      "url": "https://open.spotify.com/track/2wSRjC6eRqtA2ak81IrT8v"
+    },
+    {
+      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
@@ -851,6 +873,24 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+    },
+    {
+      "album": {
+        "name": "Heard It On The X",
+        "url": "https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "Heard It On The X",
+      "url": "https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS"
     },
     {
       "album": {
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 228638,
       "name": "Just Us Two",
       "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
@@ -1502,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "M\u00e2y M\u00f9",
+        "url": "https://open.spotify.com/album/4sXqEcYMZvBKCcwkasoinW"
+      },
+      "artists": [
+        {
+          "name": "KoQuet",
+          "url": "https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171783,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/4ylt9yahyuyNy5EIEUS7eE"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/04xTZdEbwVCV3TO2GDXq3o"
       },
@@ -1517,6 +1575,28 @@
       "duration_ms": 123428,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2TSu26aUupiIfzv5OE1hjr"
+    },
+    {
+      "album": {
+        "name": "Patient Number 9 (feat. Jeff Beck)",
+        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
     },
     {
       "album": {
@@ -1639,10 +1719,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 176449,
       "name": "Rock n Roll is Back",
       "url": "https://open.spotify.com/track/7CaTBKF53EAMjKfw5DpiOt"
+    },
+    {
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself - Japanese Version",
+      "url": "https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9"
     },
     {
       "album": {
@@ -1857,7 +1955,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
@@ -1947,7 +2045,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 571920,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/1bAE0WgcyWzHKZdp0dYCXZ"
@@ -2290,6 +2388,24 @@
     },
     {
       "album": {
+        "name": "We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"
+    },
+    {
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -2319,7 +2435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
@@ -2373,7 +2489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"

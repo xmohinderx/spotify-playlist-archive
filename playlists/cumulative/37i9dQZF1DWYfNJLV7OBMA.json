@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-06-22",
   "description": "Trending Sinhalese pop hits. Cover - Kanchana Anuradhi",
   "name": "Sinhala Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2w2mbMpgTPMFcOGFWypro1"
+  ],
   "tracks": [
     {
       "album": {
@@ -816,6 +818,28 @@
     },
     {
       "album": {
+        "name": "Kaviyak Wage",
+        "url": "https://open.spotify.com/album/4Pqkoa8qNIpUoyRkebCNgf"
+      },
+      "artists": [
+        {
+          "name": "Eshan Samarasinghe",
+          "url": "https://open.spotify.com/artist/27fz2Gp6yctgQ04fXnRm8z"
+        },
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "Kaviyak Wage",
+      "url": "https://open.spotify.com/track/7bT48CImz9ukWWpo2967GV"
+    },
+    {
+      "album": {
         "name": "Laga Lagatama (Remix)",
         "url": "https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3"
       },
@@ -865,6 +889,32 @@
       "duration_ms": 255880,
       "name": "Loka Sithiyama",
       "url": "https://open.spotify.com/track/1BIokroaGLYloONIDsga8W"
+    },
+    {
+      "album": {
+        "name": "Ma Bala Kale",
+        "url": "https://open.spotify.com/album/1fExvR9pM30Vh0LjNE8oHt"
+      },
+      "artists": [
+        {
+          "name": "Gloomy",
+          "url": "https://open.spotify.com/artist/5j4UviqN2JzBpWz3xeTXVk"
+        },
+        {
+          "name": "Tharin",
+          "url": "https://open.spotify.com/artist/4pXt8q9ZIYh9QtgXsn1CEA"
+        },
+        {
+          "name": "Big Harsha",
+          "url": "https://open.spotify.com/artist/0gomixYbUP7hmsfWERGyoL"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228599,
+      "name": "Ma Bala Kale",
+      "url": "https://open.spotify.com/track/5Pl04ML5P00j4pTIpdHJDz"
     },
     {
       "album": {
@@ -1041,6 +1091,28 @@
       "duration_ms": 205609,
       "name": "Mandaaram Kathawe",
       "url": "https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj"
+    },
+    {
+      "album": {
+        "name": "Me Hitha Na Palu",
+        "url": "https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l"
+      },
+      "artists": [
+        {
+          "name": "Dhyan Hewage",
+          "url": "https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G"
+        },
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Me Hitha Na Palu",
+      "url": "https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg"
     },
     {
       "album": {

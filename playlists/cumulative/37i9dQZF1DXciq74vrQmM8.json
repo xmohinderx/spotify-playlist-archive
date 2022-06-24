@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. nova twins",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. rico nasty",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -23,6 +23,24 @@
       "duration_ms": 238285,
       "name": "2much",
       "url": "https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo"
+    },
+    {
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "album": {
@@ -566,6 +584,24 @@
     },
     {
       "album": {
+        "name": "CEO OF MY ASS",
+        "url": "https://open.spotify.com/album/2rmZayJCme9uQLV2MnNXfp"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "CEO OF MY ASS",
+      "url": "https://open.spotify.com/track/2ZDKYbeCuzfEE2inGU5Ybj"
+    },
+    {
+      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -1023,7 +1059,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 166529,
       "name": "Dream Caused By The Flight Of A Bee",
       "url": "https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ"
@@ -2279,7 +2315,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 196982,
       "name": "Loner",
       "url": "https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY"
@@ -4005,7 +4041,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 131707,
       "name": "Underrated Popstar",
       "url": "https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe"

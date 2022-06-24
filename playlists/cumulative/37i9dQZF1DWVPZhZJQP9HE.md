@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-110 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+111 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kaname](https://open.spotify.com/track/0pWYYWyaoO2Xx8Cm7xCs4w) | [VishnuRam](https://open.spotify.com/artist/6nn1eFpW3VbPzdolibrVrW), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Sri Slinger](https://open.spotify.com/artist/6W8jEJhG1Uq9RXmRnh4F46), [Gavaskar Avinash](https://open.spotify.com/artist/4P2nwFIMURDKwp0dPOXKdR) | [Kaname](https://open.spotify.com/album/6TPXhacLSxkIRI3HVaRRcL) | 3:29 | 2022-05-17 | 2022-05-31 |
 | [Kangal Oya](https://open.spotify.com/track/6JjgvEIXbhanl8havLZD8g) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Kangal Oya](https://open.spotify.com/album/5LjuswcqsHfzvYCWl0juNY) | 3:25 | 2022-02-28 |  |
 | [Kanjaadai](https://open.spotify.com/track/4gl58VwJwt5OAFSTSm3Eox) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Keshika Amirthalingam](https://open.spotify.com/artist/6PlTi4FOlrnbMYCKU8Uee1), [Steve Cliff](https://open.spotify.com/artist/3E0yr1MsO4kPFbvq9PHBMd) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 4:14 | 2022-05-06 |  |
+| [Kannadi Kannamma](https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Kannadi Kannamma](https://open.spotify.com/album/0UvWqmEthmKkHKb00l6cdI) | 4:11 | 2022-06-23 |  |
 | [Kannamma Eannamma](https://open.spotify.com/track/5nUqv6rpaZg5tnF3XnxIsA) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kannamma Eannamma](https://open.spotify.com/album/4ZXmtvxSBtCQYJnBUe2qqm) | 3:20 | 2021-12-01 |  |
 | [Katthi](https://open.spotify.com/track/6id01ayZW6GNqKTYDvVREN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Katthi](https://open.spotify.com/album/77Cw0DDVbnzCGmwAWAEO4L) | 4:04 | 2021-12-01 |  |
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 |  |

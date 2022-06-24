@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=tJGx9zOUQL-NNWRvpGIghg\" > Tay Iwar </a>",
-  "num_followers": 110983,
+  "num_followers": 111152,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk0NTg4OSwwMDAwMDAwMGFjMDAxYzBmODIwZTBhN2Q4MzI5ZDE4YzAyNGEyMzBi",
+  "snapshot_id": "MTY1NjAzMjUxMywwMDAwMDAwMDdkMDBmMjY3ZTZlNzdiOTZjOTExNmYwMjEwMWI1MGZj",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "But could the moments in between",
+        "url": "https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Pulchritudinous",
+      "url": "https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem"
+    },
+    {
       "added_at": "2022-06-08 08:17:06",
       "album": {
         "name": "REMEMBER",
@@ -555,6 +571,26 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "BENEATH THE SURFACE",
+        "url": "https://open.spotify.com/album/6YhxNnqUw2nbojF8o1aCge"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "duration_ms": 237377,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/6BE8bqvWBLL6Fcfrs69i37"
     },
     {
       "added_at": "2022-06-08 08:17:06",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TYTAN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: THEMOONWILLALWAYSBEWITHME",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 195590,
       "name": "Gone Gurl",
       "url": "https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 163200,
       "name": "Peek",
       "url": "https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2"
@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22 (Hurry Sickness)",
+        "url": "https://open.spotify.com/album/1pbWJ8pYHN41tc2DxQUuNS"
+      },
+      "artists": [
+        {
+          "name": "HatoBito",
+          "url": "https://open.spotify.com/artist/7faqmODO7NSZSqbOA13nWa"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22 (Hurry Sickness)",
+      "url": "https://open.spotify.com/track/3UpJy2R1dtJXx6ESsQCG34"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
         "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
       },
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 210060,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 - Even If",
       "url": "https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 217981,
       "name": "\u0e1e\u0e34\u0e2a\u0e39\u0e08\u0e19\u0e4c (PROVE IT)",
       "url": "https://open.spotify.com/track/2hvFb7MUUY2hfKdzySdPHO"
@@ -1314,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "I GOT LOST BUT LOOK WHAT I FOUND",
+        "url": "https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYS",
+          "url": "https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190851,
+      "name": "\u0e21\u0e32\u0e46\u0e2b\u0e32\u0e22\u0e46",
+      "url": "https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e35\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e14\u0e32\u0e27",
         "url": "https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo"
       },
@@ -1332,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e40\u0e2a\u0e21\u0e2d",
+        "url": "https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d"
+      },
+      "artists": [
+        {
+          "name": "Mark Methathavach",
+          "url": "https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261538,
+      "name": "\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e40\u0e2a\u0e21\u0e2d",
+      "url": "https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e22\u0e49\u0e07 (From KinnPorsche The Series)",
         "url": "https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY"
       },
@@ -1343,7 +1397,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 227647,
       "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e22\u0e49\u0e07 (From KinnPorsche The Series)",
       "url": "https://open.spotify.com/track/7uACNnshGf5tGOj9i42irz"
@@ -1553,7 +1607,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 234736,
       "name": "\u0e27\u0e32\u0e22\u0e42\u0e2d\u0e22\u0e39 (Y.O.U)",
       "url": "https://open.spotify.com/track/3MZ6pw9dt75zdCZCv79FKf"
@@ -1723,7 +1777,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 265500,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1a\u0e48\u0e2d\u0e22 (ex.)",
       "url": "https://open.spotify.com/track/6UYeUljrHzUsAvBvskvE6T"
@@ -1781,6 +1835,24 @@
       "duration_ms": 186000,
       "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
       "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e1b\u0e38\u0e22\u0e21\u0e38\u0e49\u0e22!",
+        "url": "https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e2d\u0e49\u0e22 \u0e08\u0e34\u0e23\u0e31\u0e0a",
+          "url": "https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191451,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e1b\u0e38\u0e22\u0e21\u0e38\u0e49\u0e22!",
+      "url": "https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG"
     },
     {
       "album": {
@@ -1892,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278312,
+      "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d (From KinnPorsche The Series)",
         "url": "https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk"
       },
@@ -1903,7 +1993,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 239333,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d (From KinnPorsche The Series)",
       "url": "https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL"
@@ -2015,7 +2105,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 228875,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d (Why Don't You Stay) [From KinnPorsche The Series]",
       "url": "https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7"
@@ -2373,7 +2463,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 246086,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e01\u0e25\u0e49\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25 (Always Beside You)",
       "url": "https://open.spotify.com/track/6hNc1qNFdcmgJnrO06L3pF"

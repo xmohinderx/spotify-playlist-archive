@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-06-22",
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
   "name": "\uc6b0\uc0b0 \uc544\ub798",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "05K73QU8xNffboBfRI8ruF"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+    },
     {
       "album": {
         "name": "My Liberation Notes OST Part 9",
@@ -17,7 +37,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 236097,
       "name": "A Kind Of Confession (Male Ver.)",
       "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
@@ -42,6 +62,24 @@
     },
     {
       "album": {
+        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
+      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
+    },
+    {
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -57,7 +95,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
@@ -111,10 +149,46 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 208375,
       "name": "Because",
       "url": "https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L"
+    },
+    {
+      "album": {
+        "name": "Beside",
+        "url": "https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Beside",
+      "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
+    },
+    {
+      "album": {
+        "name": "wave 0.01",
+        "url": "https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216399,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4"
     },
     {
       "album": {
@@ -129,7 +203,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
@@ -151,6 +225,24 @@
       "duration_ms": 212280,
       "name": "ddu ddu ddu",
       "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
+    },
+    {
+      "album": {
+        "name": "Decaffeine",
+        "url": "https://open.spotify.com/album/6CmwNQe0CYq30ek11Wy1jK"
+      },
+      "artists": [
+        {
+          "name": "EB",
+          "url": "https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Decaffeine",
+      "url": "https://open.spotify.com/track/3Y2ghMWFEqlzQZNyraFcil"
     },
     {
       "album": {
@@ -201,7 +293,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 196490,
       "name": "Egg Flower",
       "url": "https://open.spotify.com/track/1EcjPaf8Hwoc4XIF7bn5za"
@@ -219,7 +311,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
@@ -393,7 +485,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 233906,
       "name": "Happiness (feat. Vincent Blue)",
       "url": "https://open.spotify.com/track/14dJLoAlJFuypnXt5DJUKj"
@@ -429,7 +521,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 248773,
       "name": "Hi, hello?",
       "url": "https://open.spotify.com/track/71zma1WRfDRYHxI5SBM0jb"
@@ -447,7 +539,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
@@ -465,7 +557,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 150000,
       "name": "icanttellUeverything",
       "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
@@ -621,7 +713,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
@@ -646,6 +738,24 @@
     },
     {
       "album": {
+        "name": "Eternal Moment \uc601\uc6d0\uc758 \uc21c\uac04",
+        "url": "https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274919,
+      "name": "Mean Nothing \uc544\ubb34 \uc758\ubbf8",
+      "url": "https://open.spotify.com/track/2AKqHYVfsxT0Zd1MKDZ0Bn"
+    },
+    {
+      "album": {
         "name": "Melody (Gongzza X Whee In)",
         "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
       },
@@ -661,6 +771,42 @@
       "duration_ms": 234066,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+    },
+    {
+      "album": {
+        "name": "Refresh project",
+        "url": "https://open.spotify.com/album/3ikVmbEKal0oTteXvYuOz0"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256006,
+      "name": "MONOLOGUE",
+      "url": "https://open.spotify.com/track/3voGBHMWnfdodTDRtScUIp"
+    },
+    {
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "album": {
@@ -697,7 +843,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 185853,
       "name": "Night Poem",
       "url": "https://open.spotify.com/track/0wKXfGgalZo8n7ooBj5ZWX"
@@ -715,7 +861,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "No More Love",
       "url": "https://open.spotify.com/track/0FgzBnTAwEFcuO6bNYweaM"
@@ -773,7 +919,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 255808,
       "name": "overdose",
       "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
@@ -827,10 +973,36 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 270585,
       "name": "pray",
       "url": "https://open.spotify.com/track/1J5OjPvIbCfn1QO3oZSu6J"
+    },
+    {
+      "album": {
+        "name": "Rain (feat. Aden, Kebee)",
+        "url": "https://open.spotify.com/album/1wYcAlWBTHaGjKPK7KUWJs"
+      },
+      "artists": [
+        {
+          "name": "SIM2",
+          "url": "https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        },
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Rain (feat. Aden, Kebee)",
+      "url": "https://open.spotify.com/track/3aoXrvOYq3QFOe4bHWUCz1"
     },
     {
       "album": {
@@ -852,6 +1024,28 @@
     },
     {
       "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243785,
+      "name": "Rain Song (Feat. Colde)",
+      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+    },
+    {
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -867,7 +1061,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 245413,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
@@ -921,7 +1115,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 237666,
       "name": "Run from you",
       "url": "https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn"
@@ -943,7 +1137,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 216064,
       "name": "Salt Rain",
       "url": "https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy"
@@ -987,6 +1181,28 @@
       "duration_ms": 224586,
       "name": "sigh",
       "url": "https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy"
+    },
+    {
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185808,
+      "name": "Sleepless (feat. Heize)",
+      "url": "https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk"
     },
     {
       "album": {
@@ -1037,7 +1253,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
@@ -1055,7 +1271,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 251573,
       "name": "Tell me about your world",
       "url": "https://open.spotify.com/track/7egcd8TpHmrRdFzaZQGSGj"
@@ -1121,7 +1337,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 254813,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
@@ -1139,7 +1355,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 224880,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/4DbVMZMVDaPgbm3ODxtOO6"
@@ -1183,6 +1399,24 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain",
       "url": "https://open.spotify.com/track/1lf2bl8eVxd6oDrTcpCbUs"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Watercolour",
+      "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
     },
     {
       "album": {
@@ -1255,7 +1489,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 199597,
       "name": "XXLove",
       "url": "https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU"
@@ -1273,7 +1507,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 239613,
       "name": "\ub098\ube44",
       "url": "https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ"

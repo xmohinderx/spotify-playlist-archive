@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-340 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+341 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Paradise Lost](https://open.spotify.com/track/0rIJ266KNe5pnTo3vcRxZ3) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 2:29 | 2022-01-14 |  |
 | [Paradox](https://open.spotify.com/track/5qbQGOd67ynl1xV489unE8) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Paradox](https://open.spotify.com/album/1ObYB5nlniBKZbUrw0W8AU) | 5:09 | 2022-01-14 | 2022-02-17 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-14 | 2022-03-05 |
+| [Pass U By \- Kaiya Remix](https://open.spotify.com/track/3naGretUMIoXAGe3SKiHsE) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Kaiya](https://open.spotify.com/artist/3o9Izl3cucB4KySDX6m6W8) | [Pass U By \(Kaiya Remix\)](https://open.spotify.com/album/5JnbnkdsLoFS731Ia17bat) | 2:47 | 2022-06-23 |  |
 | [Pieces](https://open.spotify.com/track/1rjh0sy4w8xmWopEhG1h0P) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Pieces](https://open.spotify.com/album/3erPBryAjGLFaPoSX94WXL) | 3:45 | 2022-01-14 |  |
 | [Piranha](https://open.spotify.com/track/2cVJq55ISQ7LNkWibZzRSY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Pluuto](https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg) | [Piranha](https://open.spotify.com/album/7LOowmGvjVKUxJAcbUDX6N) | 3:07 | 2022-02-11 | 2022-03-19 |
 | [PLEASE](https://open.spotify.com/track/7xcU6jomyxCkWHazhRp4W6) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [Ex Habit](https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT) | [PLEASE](https://open.spotify.com/album/3CdaspeVshcV4SSy4R0N1r) | 2:40 | 2022-04-25 | 2022-06-04 |

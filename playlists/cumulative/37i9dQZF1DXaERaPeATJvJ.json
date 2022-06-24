@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Blossom Diary",
+  "description": "Penggalan lagu lama dari kancah musik independen. Cover: The Sastro",
   "name": "Memorindie",
   "published_playlist_ids": [
     "5N2buI7pPNVlHhACwo8R0D"
@@ -894,6 +894,28 @@
     },
     {
       "album": {
+        "name": "Until Whenever",
+        "url": "https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc"
+      },
+      "artists": [
+        {
+          "name": "Clover",
+          "url": "https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk"
+        },
+        {
+          "name": "Merdi Simanjuntak",
+          "url": "https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234195,
+      "name": "Our Little Secret",
+      "url": "https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om"
+    },
+    {
+      "album": {
         "name": "Pada Awalnya",
         "url": "https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq"
       },
@@ -1425,6 +1447,24 @@
       "duration_ms": 271229,
       "name": "The Rain Always Had an Answer",
       "url": "https://open.spotify.com/track/4jYTgqXhW7aqdWE2VTVfaZ"
+    },
+    {
+      "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp"
+      },
+      "artists": [
+        {
+          "name": "Morfem",
+          "url": "https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251193,
+      "name": "Tidur Dimanapun Bermimpi Kapanpun",
+      "url": "https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9"
     },
     {
       "album": {

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -818,6 +836,32 @@
     },
     {
       "album": {
+        "name": "Just Dance (HARDSTYLE SPED UP)",
+        "url": "https://open.spotify.com/album/54yYxrxlehbegPP9ra0ALt"
+      },
+      "artists": [
+        {
+          "name": "Mirin Brah",
+          "url": "https://open.spotify.com/artist/2DybmAta7ZL7nP6wUM9g6m"
+        },
+        {
+          "name": "KONGTILLFOLK1",
+          "url": "https://open.spotify.com/artist/1f4iiDU9QjMMMsdZBrQHrm"
+        },
+        {
+          "name": "Ludvig Tankred",
+          "url": "https://open.spotify.com/artist/0RjM7a0pa3Eu2wEZW8NM18"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "Just Dance (HARDSTYLE SPED UP)",
+      "url": "https://open.spotify.com/track/1SoPDERrnrdM0Xy0eHud9a"
+    },
+    {
+      "album": {
         "name": "KOKAINA",
         "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
       },
@@ -949,6 +993,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Cig\u00e1ni Ma\u010fari Dobr\u00e1 hudba",
+        "url": "https://open.spotify.com/album/0GuDL94l5zzxpAhSKOnl6S"
+      },
+      "artists": [
+        {
+          "name": "XXXTRAKTOR",
+          "url": "https://open.spotify.com/artist/0K3HTzDJ8ojqiH9OjKJlYL"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Ma\u010fari",
+      "url": "https://open.spotify.com/track/48MFI7CDb3SE3bkKJEjnnA"
     },
     {
       "album": {
@@ -1095,7 +1157,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 164471,
       "name": "mne malo malo malo tebya",
       "url": "https://open.spotify.com/track/2D7Wdt5jiyPUYN213ynFtO"
@@ -1117,7 +1179,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 212465,
       "name": "Moj \u017divot",
       "url": "https://open.spotify.com/track/7eOV2bkfOEOi5KP903nqSm"
@@ -1171,7 +1233,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 213774,
       "name": "NA PROBL\u00c9MY M\u00c1\u0160 CEL\u00dd ROK",
       "url": "https://open.spotify.com/track/04yctsBRGu0q9Ip120SZaM"
@@ -1193,7 +1255,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -1211,7 +1273,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 249672,
       "name": "Okari",
       "url": "https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH"

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: emogen, Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Jano, Artwork: Isu Kim
 
-409 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+413 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bakit Bawal Kitang Mahalin](https://open.spotify.com/track/1trkhHghU8nhRZk7i4X8VH) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib) | [Bakit Bawal Kitang Mahalin](https://open.spotify.com/album/3q3e4lXuZDD6IUABOQdKwZ) | 3:23 | 2022-05-26 | 2022-06-03 |
 | [Bakit Wala Ng Tayo](https://open.spotify.com/track/1FJ7QlfDS1YaGgtd9dMJUb) | [Rich Valencia](https://open.spotify.com/artist/3ZnXiCDFRGeq3izc01zLHk) | [Bakit Wala Ng Tayo](https://open.spotify.com/album/0GxC02kQ3qyd85K7ZmZg93) | 4:22 | 2022-04-21 | 2022-04-29 |
 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 | 2022-02-24 | 2022-04-01 |
+| [BASSLINES](https://open.spotify.com/track/5BkhuNo7MDou8qb17pnUc3) | [Bugs](https://open.spotify.com/artist/6G9MlqHkHJ1PaDShA2ZiAN) | [BASSLINES](https://open.spotify.com/album/3IBwBoYu09Z7UMAysw0OSk) | 2:24 | 2022-06-23 |  |
 | [Bawal Ang Malisya](https://open.spotify.com/track/31Ox4uUKvZ6UthsV2tpkNi) | [Celine Laroza](https://open.spotify.com/artist/0qzPP9jEPlte12vBbIK02n) | [Bawal Ang Malisya](https://open.spotify.com/album/6k3BBW0gIbLeMYbwGQK9vl) | 3:06 | 2022-01-20 | 2022-03-11 |
 | [Be Someone](https://open.spotify.com/track/69QjB2LJpBD0onrdYYouGZ) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Be Someone](https://open.spotify.com/album/1tb0XTp0D2mMaF0CHhSQXS) | 2:20 | 2022-05-19 | 2022-06-03 |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-01-27 | 2022-03-11 |
@@ -121,6 +122,7 @@
 | [Flawless Love](https://open.spotify.com/track/0hXv5U4bviTTzFCHOy7E3x) | [Martin Venegas](https://open.spotify.com/artist/6cLHzuqXfCxpQIhD37qHJu) | [Flawless Love](https://open.spotify.com/album/1O9nUyTnTCj4soscLG7O9O) | 4:05 | 2022-06-02 |  |
 | [Flirt](https://open.spotify.com/track/5OskTLTEqwyDW2rBpfALQ8) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Flirt](https://open.spotify.com/album/7HSTbXX6gBsYkaZM4n8baY) | 3:33 | 2022-01-27 | 2022-02-11 |
 | [Flow](https://open.spotify.com/track/7gx76iGAzo2YbTspYEKNVW) | [$kinny G](https://open.spotify.com/artist/18aTaCPklxEwS0SSpkPPvf), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Yaweh](https://open.spotify.com/artist/0VcuKzPLBhK5LDBzTIGRM4), [DK](https://open.spotify.com/artist/0zBTZiWtNFY4waysCHR2r6) | [Flow](https://open.spotify.com/album/2CzigDWYeybWge8rSEABkI) | 4:23 | 2022-01-13 | 2022-02-11 |
+| [Fly](https://open.spotify.com/track/4jqOYldUcMqWTIaPVMPRW3) | [Krizzy Clamor](https://open.spotify.com/artist/3cgeUgk6SNk6UnKY3QR7nG) | [Fly](https://open.spotify.com/album/7jhRokuTrk1OgUlFdGqtzS) | 3:37 | 2022-06-23 |  |
 | [FOOL](https://open.spotify.com/track/14a6rDCoxx7XoZQ7K5VRLf) | [Eric Ejercito](https://open.spotify.com/artist/1s2065C4LjyonOkefWVB9r) | [FOOL](https://open.spotify.com/album/5cj8RiKz4NWjSROgki99EI) | 3:27 | 2022-06-16 |  |
 | [For Mary](https://open.spotify.com/track/1tsTf8xYZFhEqtLNb9JQ9d) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [For Mary](https://open.spotify.com/album/4WW3Wi9tru0VSjYDEcOPT4) | 2:57 | 2022-06-16 |  |
 | [Forget About You](https://open.spotify.com/track/0tlBOMHdKqqoCppc2bKRoY) | [Sunshine Laput](https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5) | [Forget About You](https://open.spotify.com/album/6qrTsFqPoioJaHWi3A9LPd) | 3:21 | 2022-01-13 | 2022-04-08 |
@@ -171,6 +173,7 @@
 | [Ikaw Ang Buhay Ko \- From "Raising Mamay"](https://open.spotify.com/track/0ieKmBbmNmFug3NlACGMmp) | [Jeniffer Maravilla](https://open.spotify.com/artist/0WwXpHdVTYul4GcFis9TcE) | [Ikaw Ang Buhay Ko \(From "Raising Mamay"\)](https://open.spotify.com/album/6GwmuCWMAcREjoeDimg79q) | 3:13 | 2022-05-05 | 2022-06-17 |
 | [Ikaw at Ako](https://open.spotify.com/track/5rYTWkr8Kd74ZEmxVYHpWk) | [Edloyd](https://open.spotify.com/artist/2wfIKMNgKpO17D3MSelsdG) | [Ikaw at Ako](https://open.spotify.com/album/6Emx8gtZhq2srKMgrdBxBh) | 3:09 | 2022-03-10 | 2022-04-01 |
 | [Ilaw](https://open.spotify.com/track/2hMipxHjeODqO8Ackt3o2V) | [2202](https://open.spotify.com/artist/1Nxfmdq6CCMgUCb4oLnpQh) | [Ilaw](https://open.spotify.com/album/6H2OSPe5bo2918JOfRlngv) | 4:31 | 2022-02-10 | 2022-04-01 |
+| [Ilusyon ni Juan](https://open.spotify.com/track/4YrNspKIPQhanEwsO1whaf) | [Jano](https://open.spotify.com/artist/7qlWr0zdjrU6HipAIkruXU) | [Ilusyon ni Juan](https://open.spotify.com/album/6lCgBLIDkwZFfW40y5mFV5) | 5:13 | 2022-06-23 |  |
 | [Importante Kita](https://open.spotify.com/track/6olrSzaWlbetgzsp9m4a9T) | [the DLB](https://open.spotify.com/artist/6rZG76BHXLE9nnCgIJWcNo) | [Importante Kita](https://open.spotify.com/album/5fFM7yIhNC6SRorh8vq9yD) | 3:06 | 2022-02-10 | 2022-03-11 |
 | [in love with the city](https://open.spotify.com/track/5UsOLMPeAKi0Fbgzj4gqC0) | [Serif](https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1) | [in love with the city](https://open.spotify.com/album/6TiFqnah7vUVpg2tlBlW9r) | 3:31 | 2022-01-07 | 2022-03-11 |
 | [INFORMAL](https://open.spotify.com/track/3CeVJsE2VRMGds0ZI9AyDD) | [boredr](https://open.spotify.com/artist/04F0UpZLrWzmLu12KIavZJ), [gio](https://open.spotify.com/artist/7cRlM81fbHdZ3oq7Z70i7X) | [INFORMAL](https://open.spotify.com/album/61Oqz1nhny0j2IrX79JOXb) | 2:43 | 2022-02-03 | 2022-04-01 |
@@ -370,6 +373,7 @@
 | [the world still turns](https://open.spotify.com/track/2p3YYfJx3DqhqS5X0sSbYL) | [Paince](https://open.spotify.com/artist/0cF6tFCdfF7NVtP69L2MPg) | [the world still turns](https://open.spotify.com/album/5kfcu1avTBm1YWSS4CEaia) | 3:45 | 2022-05-05 | 2022-06-03 |
 | [THERAPY BUG](https://open.spotify.com/track/3gbA8zy2KCSlbStgUCrOTT) | [Johan Kyle](https://open.spotify.com/artist/3pAQTCLAHasHpVFw47EaEZ) | [THERAPY BUG](https://open.spotify.com/album/1W0aC1eICXkpkaNbf3IUqN) | 2:36 | 2022-05-26 | 2022-06-03 |
 | [Things You Do](https://open.spotify.com/track/09bpyS2DYxOPXkpKsKF1fZ) | [Noa Mal](https://open.spotify.com/artist/4MM12Nz4yOCXO368ki6g8R) | [Everything Is Science, Baby](https://open.spotify.com/album/0oiiejKMFESLNfBtWMLdWB) | 3:30 | 2022-03-10 | 2022-04-08 |
+| [This Is All I Know \(Umaagos\)](https://open.spotify.com/track/4bUuHqM7cuQsJMH7jwVLve) | [HIMIKO](https://open.spotify.com/artist/34u4bN7xYalrBcU7xgvBy5) | [This Is All I Know \(Umaagos\)](https://open.spotify.com/album/51TVFSHzfDAa7lko3NRU0a) | 3:39 | 2022-06-23 |  |
 | [through every mistake](https://open.spotify.com/track/3ql1UNVkqcSbVM4KTRZqIm) | [Janis Ianne](https://open.spotify.com/artist/0QXabTjGOiudVWls7pjraE) | [through every mistake](https://open.spotify.com/album/5tGi5Q521fqNPz9BxRYIHz) | 3:44 | 2022-01-27 | 2022-02-11 |
 | [Time Heals](https://open.spotify.com/track/5VQEhp2WjKotdPL1vL1omg) | [Yca Chu](https://open.spotify.com/artist/1mBAgoI3FV1AJresmbyNnK) | [Time Heals](https://open.spotify.com/album/6XxVMZ7MrpLUbvdEbJDnXe) | 3:26 | 2022-01-20 | 2022-03-11 |
 | [Tired](https://open.spotify.com/track/6EpeZqLM4v2uFalW1sOy6i) | [Seann](https://open.spotify.com/artist/6XhthTIap2KElvJdGRMh7K) | [Tired](https://open.spotify.com/album/1K6LnxfypxuKNSznwxC48U) | 2:42 | 2022-02-03 | 2022-02-11 |

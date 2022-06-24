@@ -920,6 +920,32 @@
     },
     {
       "album": {
+        "name": "Win (Lesstars Remix)",
+        "url": "https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS"
+      },
+      "artists": [
+        {
+          "name": "Halim yousfi",
+          "url": "https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp"
+        },
+        {
+          "name": "Gultrah Sound System",
+          "url": "https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba"
+        },
+        {
+          "name": "Lesstars",
+          "url": "https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257872,
+      "name": "Win - Lesstars Remix",
+      "url": "https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz"
+    },
+    {
+      "album": {
         "name": "Ya Ghali",
         "url": "https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE"
       },

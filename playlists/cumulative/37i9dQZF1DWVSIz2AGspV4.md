@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-141 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+142 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [La Yalbukht](https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [La Yalbukht](https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys) | 3:23 | 2022-02-03 | 2022-06-07 |
 | [Lo Bdali](https://open.spotify.com/track/5gz4UWI9X5NGHL5ZWQz1SK) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Lo Bdali](https://open.spotify.com/album/6ZVzhlLAa79Og3pvyihTXm) | 3:38 | 2021-12-23 | 2022-03-12 |
 | [Ma Aandi Maslaha](https://open.spotify.com/track/5g8pT5nMMaIdefRYHaCMUB) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Ma Aandi Maslaha](https://open.spotify.com/album/2xBNNc24EQgBgufRsBYXSr) | 3:43 | 2021-12-23 | 2022-03-18 |
+| [Ma Dal Makan](https://open.spotify.com/track/706ybZpgqWUWxf0lpwPkpG) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Ma Dal Makan](https://open.spotify.com/album/6BOjZpXEsOOutRTEG0BYWT) | 3:55 | 2022-06-23 |  |
 | [Ma Khaleek Tetshamat](https://open.spotify.com/track/7MBUSkkQlELJVysEKeAvbI) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ma Khaleek Tetshamat](https://open.spotify.com/album/2ftYkVKUmulxBXxWoCcENz) | 3:23 | 2022-06-16 |  |
 | [Ma Yrham](https://open.spotify.com/track/08tZf9bbR9WDa6G7S04ttp) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ma Yrham](https://open.spotify.com/album/2rOpwc0DnJMWPJjz8mZnlK) | 3:29 | 2021-12-23 | 2022-02-10 |
 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 | 2022-01-20 | 2022-06-07 |

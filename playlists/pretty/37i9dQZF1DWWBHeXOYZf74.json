@@ -1,13 +1,37 @@
 {
   "description": "Genre-less. Quality first always. Cover: FKA Twigs",
-  "num_followers": 1326936,
+  "num_followers": 1326947,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgxMzQ2NSwwMDAwMDQzZTAwMDAwMTgxODYyYzYzZDQwMDAwMDE4MTZmMDFkNGVj",
+  "snapshot_id": "MTY1NTk3ODA3MCwwMDAwMDQzZjAwMDAwMTgxOGZmYzEzNGIwMDAwMDE4MTZmMDFkNGVj",
   "tracks": [
+    {
+      "added_at": "2022-06-23 09:54:30",
+      "album": {
+        "name": "hollaback bitch (with Shygirl & Channel Tres)",
+        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "hollaback bitch (with Shygirl & Channel Tres)",
+      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+    },
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {

@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 240336,
       "name": "Aire",
       "url": "https://open.spotify.com/track/5J8H8pUNxaNj5feLUkDf9u"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 283373,
       "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
       "url": "https://open.spotify.com/track/0KlA1SYsu8sPIFR2oi6iLw"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 281560,
       "name": "Dulce condena",
       "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 185053,
       "name": "Este Viernes",
       "url": "https://open.spotify.com/track/50XtCbA4TAKelPUrjU5GTD"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 403122,
       "name": "Ininteligible",
       "url": "https://open.spotify.com/track/6t2H68ea16ggJMqOngaHnN"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
@@ -1587,6 +1587,32 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "album": {
+        "name": "Ni Yo para Ti, Ni T\u00fa para M\u00ed",
+        "url": "https://open.spotify.com/album/0PfoFrcdQNDSPiAFCHpVoe"
+      },
+      "artists": [
+        {
+          "name": "Uge",
+          "url": "https://open.spotify.com/artist/05JI76GAuZpyhT7W9y54Ut"
+        },
+        {
+          "name": "Pau Don\u00e9s",
+          "url": "https://open.spotify.com/artist/29g0ReLnpcvjzLZoAmAzKJ"
+        },
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269595,
+      "name": "Ni Yo para Ti, Ni T\u00fa para M\u00ed",
+      "url": "https://open.spotify.com/track/0en5Nqka9QXEuUQGrHRO2g"
     },
     {
       "album": {
@@ -1805,7 +1831,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -1870,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "album": {
         "name": "Burning (Singles Collection)",
         "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
       },
@@ -1903,7 +1947,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 231519,
       "name": "Quien lo iba a suponer",
       "url": "https://open.spotify.com/track/45CZzSaBBLqghpO6fuO4X3"
@@ -2019,6 +2063,28 @@
       "duration_ms": 298624,
       "name": "Ruido",
       "url": "https://open.spotify.com/track/1W3JzWJtS57tYDHWTdnloU"
+    },
+    {
+      "album": {
+        "name": "Rumbapop",
+        "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "Rumbapop",
+      "url": "https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW"
     },
     {
       "album": {
@@ -2163,7 +2229,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
@@ -2239,7 +2305,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
@@ -2257,7 +2323,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 204634,
       "name": "Un Poco de Amor",
       "url": "https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4"
@@ -2443,6 +2509,24 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngeles y Demonios",
+        "url": "https://open.spotify.com/album/2RNqqNCMsxHAlxQfnChDEk"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179029,
+      "name": "\u00c1ngeles y Demonios",
+      "url": "https://open.spotify.com/track/6kHPDIt9xOz5BWux4W3lkg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5"

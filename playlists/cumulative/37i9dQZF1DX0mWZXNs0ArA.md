@@ -4,7 +4,7 @@
 
 > 125%
 
-41 songs - 1 hr 41 min - not published yet
+41 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

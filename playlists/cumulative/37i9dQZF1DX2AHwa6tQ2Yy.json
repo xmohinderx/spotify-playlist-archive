@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2H562jzwhTkWC3Em88k8XV"
+      },
+      "artists": [
+        {
+          "name": "Anieszka",
+          "url": "https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222307,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/2tzy3WUax7kpANoToMN3tW"
+    },
+    {
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -845,6 +863,24 @@
       "duration_ms": 195650,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/3kWYgDFiWcMYnh7YmXqxRJ"
+    },
+    {
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "album": {

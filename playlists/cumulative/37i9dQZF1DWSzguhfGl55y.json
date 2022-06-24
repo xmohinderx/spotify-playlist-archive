@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 266346,
       "name": "Alles verloren",
       "url": "https://open.spotify.com/track/3rTyIZehMuV8fZDx3ZevRr"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 204000,
       "name": "Bon Voyage (feat. Nina)",
       "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 322133,
       "name": "Da Draussen",
       "url": "https://open.spotify.com/track/02BwWUWmyuH1hrMBxJVHVp"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 203920,
       "name": "Hammerhart",
       "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 300973,
       "name": "Mein Block (Beathoavenz Video Rmx)",
       "url": "https://open.spotify.com/track/3ChqYKTyYIpK3jYd6kfN4D"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 269840,
       "name": "Troy",
       "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253760,
       "name": "Und was ist jetzt - Single Version",
       "url": "https://open.spotify.com/track/3GBYS5utUTjLGhmiTKKeam"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 251306,
       "name": "Widerstand (feat. Gentleman)",
       "url": "https://open.spotify.com/track/3SREWQTntVkUDdhAqgOGy5"
@@ -1493,6 +1493,24 @@
       "duration_ms": 280775,
       "name": "Wir waren mal Stars",
       "url": "https://open.spotify.com/track/1rXEEicSA43RvVGm4yc4ai"
+    },
+    {
+      "album": {
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/1Oz2G4HlbF8KFwnJ9jBB8I"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "Zeiten \u00e4ndern dich",
+      "url": "https://open.spotify.com/track/5Z4BxkR8AqMlzmrQxhYmSQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSzguhfGl55y"

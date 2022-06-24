@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> w/ Zack Fox, Tuesdays at 8pm EST\. Cover: Cochise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,862 likes - 96 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,265 likes - 96 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

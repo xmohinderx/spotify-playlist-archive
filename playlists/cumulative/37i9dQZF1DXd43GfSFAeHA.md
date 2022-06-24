@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dafencii
 
-106 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+107 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ana Busy](https://open.spotify.com/track/0ao7ZxcDLl536cT0R0bWTL) | [Jode Skate](https://open.spotify.com/artist/3V1BlZ4P06ErQ2cKGaErL0), [Beki](https://open.spotify.com/artist/14H7d4XmFpPq94cgJdqcN4), [Adamillion](https://open.spotify.com/artist/7IC5eTsRVvvL654OEbtpm9) | [Ana Busy](https://open.spotify.com/album/7L0rgBdxtRAgRjeewzaa6J) | 2:49 | 2022-05-08 |  |
 | [Arab Femcee Cypher \(feat\. TaffyRaps, Little G Fresh, Rann, Medusa TN, Nayomi & IntoMyMind\)](https://open.spotify.com/track/7xxZwgHGv1CI3BeQ4xi49z) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [TaffyRaps](https://open.spotify.com/artist/2Bamg8sORR59W8xzcIyv3n), [Little G Fresh](https://open.spotify.com/artist/2vAYDCrvKTZD3YQ2qEHcED), [Rann](https://open.spotify.com/artist/0x82M4e5QqcTQyWQRe8a9y), [Medusa TN](https://open.spotify.com/artist/5jgeruWcfWl09GmUPlixT1), [Nayomi](https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [Arab Femcee Cypher \(feat\. TaffyRaps, Little G Fresh, Rann, Medusa TN, Nayomi & IntoMyMind\)](https://open.spotify.com/album/6cQmQhDrkgaxmqcYIhWIoO) | 4:10 | 2022-05-08 |  |
 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2022-05-08 |  |
+| [Baghdad Drill](https://open.spotify.com/track/60uzhZIfzwoMnJZ3eZ3tuk) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Baghdad Drill](https://open.spotify.com/album/3Hm4AUiaym0kardXgz1qJl) | 3:10 | 2022-06-23 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-05-08 |  |
 | [BARRIERE](https://open.spotify.com/track/4sZgpQXq80i0r7DOSkH25S) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:24 | 2022-06-17 |  |
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2022-05-08 |  |

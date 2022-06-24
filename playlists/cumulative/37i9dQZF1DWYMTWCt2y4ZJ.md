@@ -4,11 +4,12 @@
 
 > Bring in the new day.
 
-72 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
+77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Brand New Day](https://open.spotify.com/track/5CXsOfxNl8GJjMQ31EGqgg) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [A Brand New Day](https://open.spotify.com/album/5JvZSiMZWf2wJ6botEHlNs) | 2:02 | 2022-06-01 |  |
+| [A New Path](https://open.spotify.com/track/2Qyn4547SIcp0NExPH96Mo) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [A New Path](https://open.spotify.com/album/2k7zJWklusnpBdJL4SBsQB) | 2:55 | 2022-06-23 |  |
 | [Akasha Flow Beat 1](https://open.spotify.com/track/1DyMzGdvln5pbPkMwnhark) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Akasha Beat](https://open.spotify.com/album/3yC5e0Sse4AMjgz1oSSE5W) | 3:11 | 2022-05-17 |  |
 | [Anticipation](https://open.spotify.com/track/7hQFwAo8t5wYAANt20u1IS) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Freedom Of The Soul](https://open.spotify.com/album/2jYJ2dl7gyFSTcKuThhHDJ) | 2:57 | 2022-06-01 |  |
 | [Beatful Akasha](https://open.spotify.com/track/1JvHBofBIxiF05bjiG4cVl) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Beatful Akasha](https://open.spotify.com/album/7bKoWBR8MXpoUFWo3aALtk) | 4:04 | 2022-05-17 |  |
@@ -26,7 +27,7 @@
 | [Elephant Trail](https://open.spotify.com/track/5SQga7WH3w5wr1OjaraB6W) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Morning Mist](https://open.spotify.com/album/0OM5gMRY7eOCCupk3nImmo) | 2:34 | 2022-06-01 |  |
 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 | 2022-05-17 |  |
 | [Expectations](https://open.spotify.com/track/3sqAF5u1lZdHD2FpYRNyyM) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [FEAR](https://open.spotify.com/album/7ifhbe9ZjiElMn91LKohIr) | 3:28 | 2022-05-17 |  |
-| [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-05-17 |  |
+| [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-05-17 | 2022-06-24 |
 | [Flow Chart](https://open.spotify.com/track/1Fp6RMceziUVAIZAh8iC2k) | [Superior Green Tea\(m\)](https://open.spotify.com/artist/1sd6GekJlX3CjiVvRj800M) | [Flow Chart](https://open.spotify.com/album/779g1XPRdLSniKdwea2uL1) | 3:15 | 2022-06-01 |  |
 | [Focus Rituals](https://open.spotify.com/track/4nw6nHYEZsvQaTV6Mogaz6) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:12 | 2022-05-17 |  |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2022-05-17 |  |
@@ -44,6 +45,7 @@
 | [Lunar Rhythms](https://open.spotify.com/track/7sWDnV9xAwJOYvF6aPowAV) | [Dreamasia](https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv) | [Lunar Rhythms](https://open.spotify.com/album/19qWecQ8sCa5BXbYXgpH6C) | 2:25 | 2022-05-17 |  |
 | [Marimba Morning](https://open.spotify.com/track/044QAMDgiMVlTmTIy3KdhZ) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:27 | 2022-05-17 |  |
 | [Morning Mist](https://open.spotify.com/track/4B0LD6Ge2PYx3GTjT9TICa) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Morning Mist](https://open.spotify.com/album/0OM5gMRY7eOCCupk3nImmo) | 2:38 | 2022-06-01 |  |
+| [Morning Sun](https://open.spotify.com/track/33ffWFzPUhcsxS823Z7Nqr) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Morning Sun](https://open.spotify.com/album/0B5u0PBNsYAdRmhfiNJhcs) | 2:44 | 2022-06-23 |  |
 | [Morningtide](https://open.spotify.com/track/3MzDyx6wOKtQAJF7hGCfOl) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 3:36 | 2022-06-01 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-05-17 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2022-05-17 |  |
@@ -56,11 +58,13 @@
 | [Rhythms](https://open.spotify.com/track/7k4rCHsAkGFenZXf0oyyo2) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Rhythms](https://open.spotify.com/album/49WX9FGlbYJlDultUGVEmh) | 4:01 | 2022-05-17 |  |
 | [Rising Ochre](https://open.spotify.com/track/4saKM7jBELMIlLqMfIwPDN) | [The Light Sail](https://open.spotify.com/artist/5M7skfxJFZQ2FL2q1ZDXF3) | [Sona](https://open.spotify.com/album/6L1Ky0jzreyEh7IO6kXLTr) | 3:17 | 2022-06-01 |  |
 | [Sacred Mountain](https://open.spotify.com/track/6T8WTmpbCkzJVhR3ut2aCq) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:21 | 2022-05-17 |  |
+| [Safe In Me](https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:16 | 2022-06-23 |  |
 | [Sankalpa](https://open.spotify.com/track/6HDcCcZ0keGKl8EIGJCj0j) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Sankalpa](https://open.spotify.com/album/1bKAEHUWuRojCwXvbHoANf) | 3:28 | 2022-05-17 |  |
-| [Shivaratri](https://open.spotify.com/track/6y4zQgeTuyOV3osTIPljwy) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 9:23 | 2022-05-17 |  |
+| [Shivaratri](https://open.spotify.com/track/6y4zQgeTuyOV3osTIPljwy) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 9:23 | 2022-05-17 | 2022-06-24 |
 | [Shivaratri \(Edit\)](https://open.spotify.com/track/6s5D1mMICLCrMO8BrZ7hYE) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [Yoga Music Mantras & Chants, Vol\. 2 \- Sanskrit Chants for Yoga Class](https://open.spotify.com/album/3En0OxPx8fvZrXfXxIN1xq) | 5:32 | 2022-05-17 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-17 |  |
 | [Soothing Waters](https://open.spotify.com/track/3Wn7pLRZ9mhzzNdS3tZKgS) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Soothing Waters](https://open.spotify.com/album/6qHI0UaR18tKB6Og3A2N6V) | 3:20 | 2022-05-17 |  |
+| [Soul](https://open.spotify.com/track/33JL4gOiCqUBBWLhqRuV3R) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Bright Sun Mornings](https://open.spotify.com/album/5OUWe0EKkfBDhBLKkXlqzh) | 2:32 | 2022-06-23 |  |
 | [Soul Protection](https://open.spotify.com/track/5FVg6VTgAXIDimOiVEq8t9) | [Logan Ronfeld](https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9) | [Soul Protection](https://open.spotify.com/album/3F3e2ZOepByIuG9oMQ583D) | 2:14 | 2022-06-01 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-05-17 |  |
 | [Sun Prayer](https://open.spotify.com/track/0KHcH20cePIP8078vLJljF) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Sun Prayer](https://open.spotify.com/album/2lJ6lbA5YHvcx9WM12Dnhr) | 3:32 | 2022-06-01 |  |
@@ -73,6 +77,7 @@
 | [Sway](https://open.spotify.com/track/7lxc6ruehlBCTMjCdeCDlf) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 2:58 | 2022-05-17 |  |
 | [Sígueme](https://open.spotify.com/track/1PsJNnqXyaufkAJi0a7b4g) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Sígueme](https://open.spotify.com/album/5ng3WKav3ROU6p0tdQJOyx) | 3:53 | 2022-06-01 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-17 |  |
+| [Train Of Thought](https://open.spotify.com/track/2A9lt19lArZNMpyWyfC0Er) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [The Next Journey](https://open.spotify.com/album/2Ymow8WnJxJKmWTWMWzu25) | 3:00 | 2022-06-23 |  |
 | [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 | 2022-05-17 |  |
 | [Tribal Drums](https://open.spotify.com/track/7ngYj0qqIj8tCaNBoGI3RR) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Tribal Drums & Jungle Sounds \(African Spirit \- Relax \- Chill – Meditate\)](https://open.spotify.com/album/5WVcyeQAHSh7d3Rpr1mdwz) | 3:19 | 2022-05-17 |  |
 | [Upper Manang](https://open.spotify.com/track/0sw6C9oeuUazFsoTtaIbef) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Ambient Beats](https://open.spotify.com/album/3LJWICezUY2TSwZ0STN9Qe) | 3:16 | 2022-05-17 |  |

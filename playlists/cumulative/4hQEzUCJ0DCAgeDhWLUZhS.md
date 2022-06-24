@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-299 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+301 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-02-11 |  |
 | [A Hunger In Your Haunt](https://open.spotify.com/track/6fO5kCic9UU6AFPet7jFBn) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Hunger In Your Haunt](https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh) | 3:49 | 2021-09-24 |  |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 |  |
+| [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 |  |
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 | 2022-03-18 |
 | [All My Friends](https://open.spotify.com/track/4dubRkWBWpYKviADvMYgv1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [All My Friends](https://open.spotify.com/album/423eX0ukaU4IirW8RTQB2V) | 4:42 | 2020-10-10\* | 2021-05-13 |
 | [All My Friends Are Dead](https://open.spotify.com/track/2Alzd7ST1ymqz2p3vxnU6X) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [All My Friends Are Dead](https://open.spotify.com/album/4PV9MpvPEWIveMH0iXnYWg) | 3:47 | 2020-10-10\* | 2021-02-25 |
@@ -175,6 +176,7 @@
 | [Middle Finger](https://open.spotify.com/track/7mNXePzVOXqBTE1WuDa5HQ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/4wYDZ71tevPReWBFRzTHSI) | 2:35 | 2021-02-26 | 2022-03-18 |
 | [Midnight Train](https://open.spotify.com/track/161esqOztHsKYDh9Aj4yij) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Midnight Train / Don't Wade In The Water](https://open.spotify.com/album/3BpPThkSnJZF2wo5vrmUup) | 3:16 | 2020-10-23 | 2022-03-18 |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2020-10-10\* | 2021-05-13 |
+| [MLBRN](https://open.spotify.com/track/3F6b6goF66FibaTgfdO3eS) | [KID LAB RAT](https://open.spotify.com/artist/3s02o9NfNibQnaLmkRxRzd) | [MLBRN](https://open.spotify.com/album/7EOVE590oo7t0kK3kK1a8X) | 2:45 | 2022-06-23 |  |
 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2021-02-15 | 2022-03-18 |
 | [Moonstar](https://open.spotify.com/track/6XJfecxMzGgOqtMsCSMUOy) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Moonstar](https://open.spotify.com/album/2a7Iemv4KcVROkxXOKQ1Mg) | 2:57 | 2021-05-08 | 2022-03-18 |
 | [Mother](https://open.spotify.com/track/0kgXAjZ2y0kGjKUekY0H8t) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2020-10-10\* | 2021-05-13 |

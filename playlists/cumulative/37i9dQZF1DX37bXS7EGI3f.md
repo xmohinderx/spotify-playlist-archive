@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
+> Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-304 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+307 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chambers of Fire](https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX) | 4:13 | 2022-05-06 |  |
 | [Chandelier](https://open.spotify.com/track/6yqcGYzJ7V4tv9wXt827ue) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Covers II](https://open.spotify.com/album/0iGeVl7864jzkdwMGrrrNd) | 3:38 | 2021-11-20 | 2022-06-18 |
 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 | 2022-04-01 |  |
+| [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 | 2022-06-24 |  |
 | [Clone](https://open.spotify.com/track/4G9hW8GiFh3CJrGOHCRzGv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Clone](https://open.spotify.com/album/07hUtl2HsFlRcEb5KeBbbP) | 4:09 | 2021-08-14 | 2022-04-09 |
 | [Cloud Connected](https://open.spotify.com/track/6hAYbPSzILcsjxhId7ILLy) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Cloud Connected](https://open.spotify.com/album/2Jh3N37zJQBE4TrDP3T0KE) | 3:48 | 2021-02-26 | 2022-01-22 |
 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 | 2020-12-04 | 2021-11-27 |
@@ -98,7 +99,7 @@
 | [Firekeeper](https://open.spotify.com/track/4oCIobS2bPD6yZekYes6tk) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Firekeeper](https://open.spotify.com/album/4ttUNoGOwAJ15VuVOvH808) | 6:38 | 2022-04-01 | 2022-06-18 |
 | [Fly Away](https://open.spotify.com/track/0KRMfSzkY5G4ORX2jJDX9E) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Fly Away](https://open.spotify.com/album/4zidxVLC7krzVWGJQWHFnV) | 3:59 | 2022-04-29 |  |
 | [Follow Me \- 2021 Version](https://open.spotify.com/track/0INe7Iyke6NFj22Qk1VUG4) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Follow Me \(2021 Version\)](https://open.spotify.com/album/637voTjJpvBefltyDIHdmz) | 4:39 | 2021-08-14 | 2022-04-09 |
-| [For The Sake Of Revenge](https://open.spotify.com/track/590peBKo6OaJzKu756aGe4) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Acoustic Adventures \- Volume One \(Japan Edition\)](https://open.spotify.com/album/2SoNYP3NBHJzAek1kMi13X) | 3:31 | 2022-01-21 |  |
+| [For The Sake Of Revenge](https://open.spotify.com/track/590peBKo6OaJzKu756aGe4) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Acoustic Adventures \- Volume One \(Japan Edition\)](https://open.spotify.com/album/2SoNYP3NBHJzAek1kMi13X) | 3:31 | 2022-01-21 | 2022-06-24 |
 | [Forgotten Paths](https://open.spotify.com/track/1mDupi4yX9KQ3Wh6oSYqNP) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Forgotten Paths](https://open.spotify.com/album/1QC5qcCYUjOlnCUP41Lq1O) | 11:04 | 2020-11-29\* | 2021-05-07 |
 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 | 2021-12-04 |  |
 | [Fragments](https://open.spotify.com/track/5p3osjelrzcmI0vLCP662k) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Fragments](https://open.spotify.com/album/47Teby1vWfGnwGsaySaEKQ) | 4:21 | 2021-10-16 | 2022-05-14 |
@@ -178,6 +179,7 @@
 | [My Method Your Madness](https://open.spotify.com/track/6Ne5lWuCctXmKedZdcq4mM) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [My Method Your Madness](https://open.spotify.com/album/0j1eKsLQ5jnPN1iD4sp6Ix) | 3:34 | 2021-07-10 | 2021-08-28 |
 | [My Mother Told Me](https://open.spotify.com/track/4DoyIK599jZyOJxj5CK6Vu) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [My Mother Told Me](https://open.spotify.com/album/2KC12Gr5uv2PfS7AALSgQo) | 3:16 | 2021-06-19 | 2021-08-14 |
 | [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 |  |
+| [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 | 2022-06-24 |  |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 | 2021-11-27 |  |
 | [New Evil](https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [New Evil](https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx) | 4:25 | 2022-01-21 |  |
 | [New Found Power](https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [New Found Power](https://open.spotify.com/album/3SIe3cPl0rIvPMCafeSNyV) | 4:15 | 2021-10-29 | 2022-06-12 |
@@ -200,7 +202,7 @@
 | [Only Human](https://open.spotify.com/track/7ujhUYjJCoBcEKLJQ0DiRB) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Only Human](https://open.spotify.com/album/2Wc2Q5oL6Xj23IeS24LYVE) | 3:41 | 2021-09-25 | 2021-11-13 |
 | [Ori Ori](https://open.spotify.com/track/50zutyhEg7FI8i0rMW9WZ9) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Ori Ori](https://open.spotify.com/album/73WHWl9AU5SKl6UlFVuib7) | 3:12 | 2020-11-29\* | 2021-10-23 |
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-04-22 |  |
-| [P.A.R.T.Y.](https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [P.A.R.T.Y.](https://open.spotify.com/album/0GThAZZXkQ8PVzqkT5XfBx) | 3:23 | 2022-05-06 |  |
+| [P.A.R.T.Y.](https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [P.A.R.T.Y.](https://open.spotify.com/album/0GThAZZXkQ8PVzqkT5XfBx) | 3:23 | 2022-05-06 | 2022-06-24 |
 | [Paralyze](https://open.spotify.com/track/2axeXhI1SU6G5CZ1drCDze) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Paralyze](https://open.spotify.com/album/7lvrKN4q09fkVHdOG2GdbT) | 3:22 | 2022-04-01 | 2022-06-18 |
 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 | 2020-11-29\* | 2021-02-26 |
 | [Phoenix](https://open.spotify.com/track/7xuexpYLiBxemw2EA0qQi2) | [Memoira](https://open.spotify.com/artist/6lVZI6r87sKVxs1wFeCcXg) | [Phoenix](https://open.spotify.com/album/4cU87N38MRPUJDSIgCl2LQ) | 3:40 | 2021-10-16 | 2021-12-17 |
@@ -228,6 +230,7 @@
 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 | 2022-03-18 |  |
 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 | 2020-11-29\* | 2021-05-28 |
 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 | 2021-09-04 |
+| [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 | 2022-06-24 |  |
 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 | 2021-06-25 | 2021-12-11 |
 | [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-05-21 | 2021-06-25 |
 | [Silverseal](https://open.spotify.com/track/421kSDSrylQ3AtZAyLE9Of) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Silverseal](https://open.spotify.com/album/2byJce3B4vOCdlu6Nt88a6) | 3:39 | 2020-11-29\* | 2021-05-21 |
@@ -274,7 +277,7 @@
 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 |  |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 | 2021-12-11 |  |
-| [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 | 2022-04-22 |  |
+| [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 | 2022-04-22 | 2022-06-24 |
 | [Towards the Sun](https://open.spotify.com/track/6cwPmZYLQKQOmrZaU9D3Hq) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Towards the Sun](https://open.spotify.com/album/4iGe95FLBg0OatMZWJzsrE) | 5:39 | 2021-04-10 | 2021-12-17 |
 | [Treasure Chest Party Quest](https://open.spotify.com/track/0pymdruOKdQytDKNDyUjz8) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Treasure Chest Party Quest](https://open.spotify.com/album/2gRjQTJRBr8DAuMzoBQhyR) | 4:16 | 2020-11-29\* | 2021-02-26 |
 | [Tundra](https://open.spotify.com/track/6d6QnJU4MZ6RIwNMPnNx91) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Tundra](https://open.spotify.com/album/0tw2DkmxpU7eM2CvRMQ8qt) | 4:14 | 2020-11-29\* | 2020-12-04 |

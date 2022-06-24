@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: So It Goes
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: So It Goes H.K
 
-133 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+135 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 late](https://open.spotify.com/track/0UbJlumqvzFPZJjEvDlXc3) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [2 late](https://open.spotify.com/album/2nHdxmdxwHvL17UzryM7fl) | 2:29 | 2022-05-26 | 2022-06-10 |
 | [247](https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [247](https://open.spotify.com/album/15jWaDEBJyFQ21FTwk34v0) | 4:14 | 2022-05-26 |  |
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-05-26 | 2022-06-10 |
+| [Abyss](https://open.spotify.com/track/12MEl0tLPRNVZXSLrBEWQY) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [Abyss](https://open.spotify.com/album/2EFkRdzL8ztaXB9EQgBrJ4) | 3:00 | 2022-06-23 |  |
 | [Addiction](https://open.spotify.com/track/1lwsjsUnkB3UrSeghpeBU7) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Cubes](https://open.spotify.com/album/7nSrszAcfWzqDCVw3yBsoN) | 4:10 | 2022-05-26 |  |
 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 | 2022-05-26 |  |
 | [Be around \- Acoustic](https://open.spotify.com/track/2fff5HjVbc7NHGtlqQ0IGN) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around \(Acoustic\)](https://open.spotify.com/album/2sXqdHVpFyVRZwn8V68gnw) | 3:08 | 2022-05-26 |  |
@@ -59,6 +60,7 @@
 | [Milk Tea](https://open.spotify.com/track/1253emKVUpxXPWB7Cltapk) | [嚴駿祺](https://open.spotify.com/artist/38m0kCZDDi22UDW0MgRhbx) | [Milk Tea](https://open.spotify.com/album/2yeerOJhWhJzEBCYXwECJC) | 4:06 | 2022-05-26 |  |
 | [NEARLY GOD](https://open.spotify.com/track/6zb92zD4k9u5KdZOhxoxas) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [NEARLY GOD](https://open.spotify.com/album/4XuDUYzFzs6Zlrq1YYI7DR) | 4:36 | 2022-05-26 |  |
 | [Neon City](https://open.spotify.com/track/7B90DgRulySmb1w7mWvrs4) | [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [Missing Narrative](https://open.spotify.com/album/648NUDHrn7UYzmAWS1AYMO) | 4:28 | 2022-05-26 |  |
+| [no money no honey](https://open.spotify.com/track/6JN2jjKijeZVmnD5wpZlh2) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [no money no honey](https://open.spotify.com/album/4puiaRgUqAHj7l6hUoy2S4) | 3:11 | 2022-06-23 |  |
 | [no strings attatched](https://open.spotify.com/track/5GWvmOZ34OJrvJrgK5gA99) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [no strings attatched](https://open.spotify.com/album/2HeLq4gxOD5tcgUXmqb8qC) | 3:29 | 2022-05-26 |  |
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-05-26 | 2022-06-10 |
 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 | 2022-05-26 |  |

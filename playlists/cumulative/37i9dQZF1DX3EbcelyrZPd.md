@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-117 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+118 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Vumilia](https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [The Green Light EP](https://open.spotify.com/album/7pdlUhrWvOQBgNjEhrUDch) | 3:20 | 2022-04-28 |  |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-01-13 |  |
+| [Wild Party](https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wild Party](https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ) | 3:25 | 2022-06-23 |  |
 | [Zai](https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zai](https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd) | 3:36 | 2021-11-04 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

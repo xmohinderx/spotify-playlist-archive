@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 54772,
+  "num_followers": 54797,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk0NTk4NCwwMDAwMDAwMDE2NDlhZjRjMzgwOTYzNzkzMjYzNjI2NjFjZmQxMGVi",
+  "snapshot_id": "MTY1NjAzMjYwNCwwMDAwMDAwMDY1MzQzZjFlYWM2YjllN2M4ZjE3NzgxOTE5ZDcwZjRh",
   "tracks": [
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Lagi",
+        "url": "https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 256410,
+      "name": "Lagi",
+      "url": "https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8"
+    },
     {
       "added_at": "2022-04-28 16:00:00",
       "album": {

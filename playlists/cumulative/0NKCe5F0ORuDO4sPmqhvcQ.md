@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle
 
-200 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+201 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,13 +50,14 @@
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-15 | 2022-03-10 |
 | [Dark Places](https://open.spotify.com/track/3EPyTBUgWMA2Ib2vT6XHIt) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Dark Places](https://open.spotify.com/album/28DuCb1V8dZDjQ8x18qczf) | 3:55 | 2022-03-17 |  |
 | [Delights](https://open.spotify.com/track/13FfZQ7EkcqyUx0F4XkBzT) | [Kozah](https://open.spotify.com/artist/0g6PJw04eyN85JxQAGGdF4) | [For Eternity](https://open.spotify.com/album/2DjWKU5CkdRnfQcJA35v6U) | 3:39 | 2022-01-18 | 2022-02-05 |
+| [Desire](https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Desire](https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ) | 4:53 | 2022-06-23 |  |
 | [Distant Lands](https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Labyrinth of the Subconscious](https://open.spotify.com/album/0Hj5xbQWBeWOMwoOqsqk4F) | 3:33 | 2022-02-11 | 2022-03-10 |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-02-16 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-31 | 2022-03-10 |
 | [Don't Kick Me](https://open.spotify.com/track/2zJFeCI8KtP0Olwf3W3w8R) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Don't Kick Me](https://open.spotify.com/album/6XrzH0s8ghY4hwIwmsunAx) | 3:27 | 2021-12-07 | 2022-01-08 |
 | [Don’t Go Mad \(feat\. Seinabo Sey\)](https://open.spotify.com/track/3Cl8IGVb7E63EDIXTn5Pk7) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:24 | 2022-04-18 |  |
 | [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 | 2022-04-21 |  |
-| [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-18 |  |
+| [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-18 | 2022-06-24 |
 | [Dream About You](https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Dream About You](https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24) | 3:33 | 2021-11-12 | 2022-01-08 |
 | [Dreams \- Bleu Clair Remix](https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp) | [Smokin Beats](https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob), [Lyn Eden](https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Dreams \(Bleu Clair Remix\)](https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL) | 3:04 | 2022-01-14 | 2022-02-01 |
 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |

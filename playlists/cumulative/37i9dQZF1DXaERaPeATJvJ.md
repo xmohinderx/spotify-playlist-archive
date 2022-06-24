@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Blossom Diary
+> Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
 
-83 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+85 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Nonton Srimulat](https://open.spotify.com/track/43YNype2Bng8TrSkWD3htz) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:20 | 2021-11-25 |  |
 | [Ode Buat Kota](https://open.spotify.com/track/2jkubtUODXk1fbYFx4z9US) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Ode Buat Kota](https://open.spotify.com/album/00c4Anc1uWsQCVijdCTJwB) | 4:01 | 2021-11-25 |  |
 | [Old Friend](https://open.spotify.com/track/6hGV9A3qjB3nBzLCXM4sPV) | [Ballads of the Cliche](https://open.spotify.com/artist/7fNOUKLAwWlOMfv3uAW3RD) | [Evergreen](https://open.spotify.com/album/73hSLzBNglYCR8TvyXJans) | 3:20 | 2021-11-25 |  |
+| [Our Little Secret](https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw) | [Until Whenever](https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc) | 3:54 | 2022-06-23 |  |
 | [Pada Awalnya](https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 3:43 | 2021-11-25 | 2022-01-07 |
 | [Penggalan Kisah Lama](https://open.spotify.com/track/6CgS033Lai60cUo17xKNUV) | [La Luna](https://open.spotify.com/artist/70vCC614T0CWhPaIjDo9Na) | [Kilas Balik](https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p) | 3:46 | 2022-04-14 |  |
 | [Pergi Ke Bulan](https://open.spotify.com/track/5ucDkQKPniJlwTVMCQOvj1) | [Klarinet](https://open.spotify.com/artist/5W8Z7MYHJ3JML7lWVUHcY2) | [Klarinet](https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM) | 2:52 | 2021-11-25 |  |
@@ -86,6 +87,7 @@
 | [Tentang Cinta](https://open.spotify.com/track/2yQ7b1nWiSlhVr3c9kxZGB) | [Melancholic Bitch](https://open.spotify.com/artist/6xVkcJWlKGooyShOdqh7ZC) | [Re\-Anamnesis](https://open.spotify.com/album/6U17ll6J80hIzIijDmWu7U) | 3:46 | 2022-04-14 |  |
 | [Teriak Gila](https://open.spotify.com/track/3O8aGQKFWHyq0UwJyzFtGG) | [Cuts](https://open.spotify.com/artist/6jnTaV0jKpS85zcC4ybsft) | [Rrradarrr](https://open.spotify.com/album/53HlDsygw2WROw5dc4vzt8) | 3:40 | 2021-11-25 |  |
 | [The Rain Always Had an Answer](https://open.spotify.com/track/4jYTgqXhW7aqdWE2VTVfaZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [Blossom Diary](https://open.spotify.com/album/2FbbUH7vKIV5vWcD6BXQjl) | 4:31 | 2022-05-12 |  |
+| [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp) | 4:11 | 2022-06-23 |  |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
 | [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |

@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Lil Baby
 
-337 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+338 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Big Biznezz](https://open.spotify.com/track/7wDBHljtDnxAaxVITpCKgB) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Big Biznezz](https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0) | 3:04 | 2022-04-22 | 2022-04-29 |
 | [Big Money](https://open.spotify.com/track/6QueNJeQGIW8qZoHqCF7un) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Big Money](https://open.spotify.com/album/76fs9BkDU369ScWTlWaTt4) | 2:41 | 2022-06-10 |  |
 | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/album/04IEdmPMiMvzWtBXdiOGGa) | 3:54 | 2022-04-04 |  |
+| [Blue Chills](https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:51 | 2022-06-17 |  |
 | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/121wZiInkf2n3mjvh2b6TQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3epYdUTW4wgCIxRDAYKItt) | 3:01 | 2022-04-29 | 2022-05-07 |
 | [Bobby Brown \(Feat\. Olo Pack\)](https://open.spotify.com/track/7dPMQj6Xm335zNKkVXf1Jk) | [Westsidejhitt](https://open.spotify.com/artist/2GM6qjoFulmgwqbV3nwYVn), [Olo Pack](https://open.spotify.com/artist/7MK4x94jMoKsaU3x86cgxF) | [How The Jhitt Stole Christmas!](https://open.spotify.com/album/6QzI7nrswSzhJtfxQCEfMe) | 2:30 | 2021-12-17 | 2022-01-22 |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 |  |

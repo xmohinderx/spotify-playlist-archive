@@ -1,12 +1,12 @@
 {
   "description": "Need a musical pick-me-up? Boost that serotonin with these timeless jams.",
-  "num_followers": 314245,
+  "num_followers": 314216,
   "original_name": "Happy Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzA1OSw4YzhiNzViZDQ1NDliYjIzMmJiOGUwZDVjYTQ4OTlkZWY1ODZhNmJl",
+  "snapshot_id": "MzA2MyxmYWZjZjlhNTJjZDk1Njc2ZmExNDlkZDYzZDdlZTNlMTU4NzRlYWNi",
   "tracks": [
     {
       "added_at": "2022-06-21 15:13:36",
@@ -199,6 +199,22 @@
       "duration_ms": 196813,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
+    },
+    {
+      "added_at": "2022-06-23 15:34:41",
+      "album": {
+        "name": "Future Friends",
+        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
+      },
+      "artists": [
+        {
+          "name": "Superfruit",
+          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "GUY.exe",
+      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
     },
     {
       "added_at": "2022-06-21 15:13:36",
@@ -2195,6 +2211,22 @@
       "duration_ms": 133205,
       "name": "Better Than Real Life",
       "url": "https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw"
+    },
+    {
+      "added_at": "2022-06-23 17:33:04",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     }
   ],
   "unique_name": "Happy Songs",

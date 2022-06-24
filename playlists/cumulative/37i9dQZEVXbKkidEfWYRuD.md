@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-733 songs - 1 day 10 hr 31 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+734 songs - 1 day 10 hr 34 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [ДНК](https://open.spotify.com/track/4q1ulmzYaXCV7UQTBnixda) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 2:53 | 2021-04-10 | 2021-04-11 |
 | [Днями\-ночами](https://open.spotify.com/track/04gmklgYhNhZxRnAvSofoE) | [pyrokinesis](https://open.spotify.com/artist/5rXtHvb8jMNgmSX7Khd77x), [MUKKA](https://open.spotify.com/artist/6a1CGYBFAUrrWZvD2iSsEi) | [Днями\-ночами](https://open.spotify.com/album/4R3TyCTmtEN1nIo1EhOPgT) | 3:17 | 2022-01-24 | 2022-04-08 |
 | [Добро Пожаловать \(Prod\. by wex & treepside\)](https://open.spotify.com/track/1FDMf01sTi7wkZ5RqUndTN) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Добро Пожаловать \(Prod\. by wex & treepside\)](https://open.spotify.com/album/4hNQxnwToRH30URy3MfgTk) | 1:49 | 2021-04-30 | 2021-07-25 |
-| [Доброго вечора \- Where Are You From](https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX) | [PROBASS ∆ HARDI](https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2) | [Доброго вечора \(Where Are You From\)](https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev) | 2:48 | 2022-03-13 |  |
+| [Доброго вечора \- Where Are You From](https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX) | [PROBASS ∆ HARDI](https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2) | [Доброго вечора \(Where Are You From\)](https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev) | 2:48 | 2022-03-13 | 2022-06-24 |
 | [Доверял](https://open.spotify.com/track/4K4yT28O5Gq1gWR3psNn3B) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:30 | 2021-12-18 | 2021-12-19 |
 | [Додому \(feat\. Skofka\)](https://open.spotify.com/track/0pqPu0m8qE45yJWqXEmpWe) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Додому \(feat\. Skofka\)](https://open.spotify.com/album/3ISIsSUP4H51ic7RbZFECH) | 3:36 | 2021-06-20 | 2021-07-25 |
 | [Додому \(feat\. Skofka\)](https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 3:36 | 2021-07-25 |  |
@@ -481,6 +481,7 @@
 | [зима](https://open.spotify.com/track/3y1fkvCTbBhNXQpR56KXYC) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [зима](https://open.spotify.com/album/0uf1pLGBYv0IG1tFusaueA) | 2:28 | 2021-05-11 | 2021-06-27 |
 | [Зоопарк](https://open.spotify.com/track/777TceiGuC1kjvAiVAHvTo) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Зоопарк](https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG) | 3:00 | 2021-09-19 | 2021-10-23 |
 | [Зорi](https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 3:20 | 2022-03-27 |  |
+| [Зраджуй](https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP) | [Dogma](https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH) | 3:34 | 2022-06-23 |  |
 | [Зуб](https://open.spotify.com/track/5qtwPGSCojZb78j5A2d4bw) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum), [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Зуб](https://open.spotify.com/album/1YKkiXHsi9TrCQIQHumavT) | 2:41 | 2021-04-18 | 2021-04-21 |
 | [Изменчивый мир](https://open.spotify.com/track/5ohDUNJNGUmaKNrXklwmWX) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Изменчивый мир](https://open.spotify.com/album/5PaccfMd4HYzyDmvn7LvPY) | 2:42 | 2021-10-31 | 2021-10-31 |
 | [ИСКУССТВО ЗА 90900 \(СКИТ\)](https://open.spotify.com/track/73M0NSi9guum5XYeWoRN9B) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 0:40 | 2021-05-23 | 2021-05-24 |
@@ -657,9 +658,9 @@
 | [СТОМАТОЛОГИЧКА](https://open.spotify.com/track/1GAQCGqNVPWbM7Qm1cbi62) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 2:27 | 2022-02-19 | 2022-02-21 |
 | [Суета](https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf) | [30](https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE) | 3:02 | 2022-05-31 |  |
 | [СЭККС](https://open.spotify.com/track/7pHQzPPLj0MgGPoInmT3cp) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [БЭСТ ФРЭНДС](https://open.spotify.com/album/5kH0zVmCDLEn9oaeC5InRQ) | 2:20 | 2021-11-28 | 2021-11-28 |
-| [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 | 2022-02-20 |
+| [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 |  |
 | [ТАЙМАУТ](https://open.spotify.com/track/175xPRXSrf7RSWdjAhc6oD) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [ТАЙМАУТ](https://open.spotify.com/album/72D3RPXL2bbpIWpYrGdOqb) | 2:01 | 2021-09-14 | 2022-02-24 |
-| [Так гріє](https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT) | [Valentin Strykalo](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa) | [Смирись и расслабься](https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF) | 4:38 | 2022-04-12 |  |
+| [Так гріє](https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT) | [Valentin Strykalo](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa) | [Смирись и расслабься](https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF) | 4:38 | 2022-04-12 | 2022-06-24 |
 | [Так и знал](https://open.spotify.com/track/5aADAi4y2IOh2tKbv1jnMX) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:15 | 2021-12-18 | 2021-12-23 |
 | [Таксі](https://open.spotify.com/track/4qYAgZDdKIGf137Nbdw6gR) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Таксі](https://open.spotify.com/album/7qBYjP8E1CQpj2BRsymbv4) | 3:19 | 2021-09-12 | 2022-05-29 |
 | [Танцы](https://open.spotify.com/track/5hY09NvKjD3gBQS3qhriXD) | [ssshhhiiittt!](https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p) | [Последнее лето \(Часть 2\)](https://open.spotify.com/album/2M4NZgAyOBu1o8X2sauXPh) | 2:55 | 2022-02-26 | 2022-05-28 |

@@ -2400,6 +2400,32 @@
     },
     {
       "album": {
+        "name": "Wild Party",
+        "url": "https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Wild Party",
+      "url": "https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q"
+    },
+    {
+      "album": {
         "name": "Zai",
         "url": "https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd"
       },

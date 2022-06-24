@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: EKKSTACY
 
-342 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+342 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Family](https://open.spotify.com/track/3z67pAKSP7DQkRpWOD28T1) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:07 | 2022-03-02 |  |
 | [Famous](https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 3:16 | 2021-12-31 |  |
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-05-14 |
-| [Fear & Cowardice](https://open.spotify.com/track/63KHDVA5yK2QQwrfaZIfGw) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [7.2](https://open.spotify.com/album/2AvsLQZtwIAabbVK5Q44wP) | 5:13 | 2022-06-17 |  |
+| [Fear & Cowardice](https://open.spotify.com/track/63KHDVA5yK2QQwrfaZIfGw) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [7.2](https://open.spotify.com/album/2AvsLQZtwIAabbVK5Q44wP) | 5:10 | 2022-06-17 |  |
 | [Fear Of The Dawn](https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN) | 2:02 | 2022-02-11 | 2022-04-09 |
 | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3BAI5c9ju2d9BWzoFka2PO) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/4zBCquAHyZuELJfNx2CJL5) | 5:28 | 2021-12-31 | 2022-01-15 |
 | [Find the Truth](https://open.spotify.com/track/0JsUNJ9Ey27qGwZwpwPOvK) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Find the Truth](https://open.spotify.com/album/7tYFnGuoxnMf66arjNzvTH) | 2:53 | 2022-02-25 | 2022-06-04 |

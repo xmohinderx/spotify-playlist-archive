@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u062d\u0645\u062f \u0643\u0627\u0645\u0644",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u062f \u0631\u0645\u0636\u0627\u0646",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 216227,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 187160,
       "name": "Gamalha Estethnaey",
       "url": "https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL"
@@ -1546,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Leeh",
+        "url": "https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238886,
+      "name": "Leeh",
+      "url": "https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG"
+    },
+    {
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4"
       },
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 208821,
       "name": "Maat El Kalam",
       "url": "https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo"
@@ -2446,6 +2464,24 @@
     },
     {
       "album": {
+        "name": "Talakik",
+        "url": "https://open.spotify.com/album/1b6GHVe41cj2ruyohBJ7Vu"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Hassan",
+          "url": "https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159335,
+      "name": "Talakik",
+      "url": "https://open.spotify.com/track/4EqU9JKazUgb8ogjx4nIPm"
+    },
+    {
+      "album": {
         "name": "Tannesh",
         "url": "https://open.spotify.com/album/0tvgJ1DmR6qmbUvpauxZnb"
       },
@@ -2461,6 +2497,24 @@
       "duration_ms": 167111,
       "name": "Tannesh",
       "url": "https://open.spotify.com/track/0rcn4mXRKFJ5c9kipAVrUy"
+    },
+    {
+      "album": {
+        "name": "Tanteet",
+        "url": "https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119802,
+      "name": "Tanteet",
+      "url": "https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg"
     },
     {
       "album": {

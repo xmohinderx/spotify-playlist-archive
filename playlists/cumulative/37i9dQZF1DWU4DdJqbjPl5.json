@@ -906,6 +906,28 @@
     },
     {
       "album": {
+        "name": "BENEATH THE SURFACE",
+        "url": "https://open.spotify.com/album/6YhxNnqUw2nbojF8o1aCge"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237377,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/6BE8bqvWBLL6Fcfrs69i37"
+    },
+    {
+      "album": {
         "name": "Anchor Baby",
         "url": "https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1"
       },
@@ -1515,6 +1537,24 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
+    },
+    {
+      "album": {
+        "name": "But could the moments in between",
+        "url": "https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Pulchritudinous",
+      "url": "https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem"
     },
     {
       "album": {

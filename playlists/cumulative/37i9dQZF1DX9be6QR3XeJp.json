@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Anish Kumar",
+  "description": "Discover your new favourite artists. Cover: Wu-Lu",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1613,6 +1613,24 @@
       "duration_ms": 173740,
       "name": "Same Old",
       "url": "https://open.spotify.com/track/3YWZPpLVGeEq8VvNLaB55f"
+    },
+    {
+      "album": {
+        "name": "Scrambled Tricks",
+        "url": "https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU"
+      },
+      "artists": [
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "Scrambled Tricks",
+      "url": "https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT"
     },
     {
       "album": {

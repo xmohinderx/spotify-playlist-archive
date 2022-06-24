@@ -1,12 +1,12 @@
 {
   "description": "Nakakakilig!",
-  "num_followers": 771628,
+  "num_followers": 771840,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk0NjUxMiwwMDAwMDAwMGY1YjMxNGQwMmRhZDQzZjFmNDcyYTJiMDZjNzdkYjVl",
+  "snapshot_id": "MTY1NjAzMzEwNywwMDAwMDAwMDVjNTQxNmY0OTNkZDlhMWJkZjhiNjkyOWI1NGFkZjFi",
   "tracks": [
     {
       "added_at": "2022-04-04 08:17:57",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
+        "name": "LIMASAWA STREET",
+        "url": "https://open.spotify.com/album/7xCcuTA3abKwxj8HwgxP7R"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 313951,
+      "name": "Araw-Araw",
+      "url": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
         "name": "Bigotilyo",
         "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 168493,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5LmJO14NtbCxNlGs6iXDjv"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
-        }
-      ],
-      "duration_ms": 255240,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/49ExR0iSivJlXcMhwXlleb"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "The Prelude",
-        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5LmJO14NtbCxNlGs6iXDjv"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
         }
       ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+      "duration_ms": 255240,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/49ExR0iSivJlXcMhwXlleb"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -123,22 +123,18 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "I Quit Drinking",
-        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 171200,
-      "name": "I Quit Drinking",
-      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -163,18 +159,18 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "The Prelude",
+        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -195,150 +191,22 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "LIMASAWA STREET",
-        "url": "https://open.spotify.com/album/7xCcuTA3abKwxj8HwgxP7R"
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 313951,
-      "name": "Araw-Araw",
-      "url": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Dumaloy",
-        "url": "https://open.spotify.com/album/0CPFOWJixO9sorCggeUYy1"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 260580,
-      "name": "Dumaloy",
-      "url": "https://open.spotify.com/track/1X6CvDSqNCsOy0h2pv9Yjd"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/1Elc9QAU9OUrpl0nZSNhGc"
-      },
-      "artists": [
-        {
-          "name": "Pixie Labrador",
-          "url": "https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         },
         {
-          "name": "Erin Lee",
-          "url": "https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 317675,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/37JChM82iueRqLoDoNEZx7"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Habang Buhay",
-        "url": "https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 244067,
-      "name": "Habang Buhay",
-      "url": "https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Balloons",
-        "url": "https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX"
-      },
-      "artists": [
-        {
-          "name": "Conor Matthews",
-          "url": "https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq"
-        }
-      ],
-      "duration_ms": 200823,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/6IKGVh2uzmJ1xeHYKkCEsf"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 184625,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/21bgTVZYS5QA0v4RvPCSB6"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/6KQTZTlcnqA82p6RkQk0yr"
-      },
-      "artists": [
-        {
-          "name": "Faime",
-          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
-        }
-      ],
-      "duration_ms": 198912,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
-      },
-      "artists": [
-        {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
-        }
-      ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -359,6 +227,54 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/6KQTZTlcnqA82p6RkQk0yr"
+      },
+      "artists": [
+        {
+          "name": "Faime",
+          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
+        }
+      ],
+      "duration_ms": 198912,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Habang Buhay",
+        "url": "https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244067,
+      "name": "Habang Buhay",
+      "url": "https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/6IKGVh2uzmJ1xeHYKkCEsf"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 184625,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/21bgTVZYS5QA0v4RvPCSB6"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
         "name": "Sigurado",
         "url": "https://open.spotify.com/album/3acG1SpY8w8Od6dBqaHEWl"
       },
@@ -371,62 +287,6 @@
       "duration_ms": 205853,
       "name": "Sigurado",
       "url": "https://open.spotify.com/track/4wnY5k0diSG5naOgbtCOqK"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "COMING HOME (feat. NIKI)",
-        "url": "https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 210019,
-      "name": "COMING HOME (feat. NIKI)",
-      "url": "https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "you!",
-        "url": "https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 274013,
-      "name": "you!",
-      "url": "https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -451,6 +311,94 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
+        "name": "you!",
+        "url": "https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 274013,
+      "name": "you!",
+      "url": "https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Pagtingin",
+        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 227370,
+      "name": "Pagtingin",
+      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Could I Love You Any More (feat. Jason Mraz)",
+        "url": "https://open.spotify.com/album/1LYpuMBu82KpTYr6fALY3G"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Dominique",
+          "url": "https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU"
+        },
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Could I Love You Any More (feat. Jason Mraz)",
+      "url": "https://open.spotify.com/track/6TbDpqKCksZNJjriFhPum8"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
@@ -471,6 +419,62 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "COMING HOME (feat. NIKI)",
+        "url": "https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 210019,
+      "name": "COMING HOME (feat. NIKI)",
+      "url": "https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/1Elc9QAU9OUrpl0nZSNhGc"
+      },
+      "artists": [
+        {
+          "name": "Pixie Labrador",
+          "url": "https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud"
+        },
+        {
+          "name": "Erin Lee",
+          "url": "https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/37JChM82iueRqLoDoNEZx7"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
         "name": "INS-REPLAY, Vol. 4: Creating Love",
         "url": "https://open.spotify.com/album/7wDpvJ3PXKejpKqxoz0l7D"
       },
@@ -483,6 +487,70 @@
       "duration_ms": 215537,
       "name": "INS-REPLAY, Vol. 4: Creating Love",
       "url": "https://open.spotify.com/track/0tsHRP5lcvk5veXznLFKrG"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Balloons",
+        "url": "https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX"
+      },
+      "artists": [
+        {
+          "name": "Conor Matthews",
+          "url": "https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq"
+        }
+      ],
+      "duration_ms": 200823,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Baliw",
+        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 218983,
+      "name": "Baliw",
+      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2022-04-04 08:17:57",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -519,18 +587,18 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "Pagtingin",
-        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
+        "name": "It Might Be You (Theme from Everyday I Love You)",
+        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
         }
       ],
-      "duration_ms": 227370,
-      "name": "Pagtingin",
-      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
+      "duration_ms": 252969,
+      "name": "It Might Be You - Theme from Everyday I Love You",
+      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
     },
     {
       "added_at": "2022-04-04 08:17:57",
@@ -551,132 +619,60 @@
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "Nothing's Gonna Stop Us Now (Theme from Crazy Beautiful You) - Single",
-        "url": "https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl"
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/7kNaqnBImI14yHmSbCPNEM"
       },
       "artists": [
         {
-          "name": "Daniel Padilla",
-          "url": "https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW"
+          "name": "Ethan Loukas",
+          "url": "https://open.spotify.com/artist/5KaNWaFGm1LSNLO7eEOsNW"
         },
         {
-          "name": "Morissette",
-          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
         }
       ],
-      "duration_ms": 259056,
-      "name": "Nothing's Gonna Stop Us Now (Theme from Crazy Beautiful You)",
-      "url": "https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb"
+      "duration_ms": 209417,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/2qH56HkSYRkKjSTHZlfe2o"
     },
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+        "name": "gone too long",
+        "url": "https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+      "duration_ms": 147211,
+      "name": "gone too long",
+      "url": "https://open.spotify.com/track/2EXvZ3ZSOEVGnFZXVVyzTf"
     },
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "First Date",
-        "url": "https://open.spotify.com/album/2UYhOYJnQnzt0UAH6BXYPL"
+        "name": "summer,",
+        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
       },
       "artists": [
         {
-          "name": "Adib Sin",
-          "url": "https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i"
-        },
-        {
-          "name": "Hikaru Station",
-          "url": "https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 146666,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/2zMsClh8Mdkpg7VxmJrjPb"
+      "duration_ms": 181613,
+      "name": "comethru",
+      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
     },
     {
       "added_at": "2022-04-04 08:17:57",
       "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Could I Love You Any More (feat. Jason Mraz)",
-        "url": "https://open.spotify.com/album/1LYpuMBu82KpTYr6fALY3G"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Dominique",
-          "url": "https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU"
-        },
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Could I Love You Any More (feat. Jason Mraz)",
-      "url": "https://open.spotify.com/track/6TbDpqKCksZNJjriFhPum8"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "It Might Be You (Theme from Everyday I Love You)",
-        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
-      },
-      "artists": [
-        {
-          "name": "Michael Pangilinan",
-          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
-        }
-      ],
-      "duration_ms": 252969,
-      "name": "It Might Be You - Theme from Everyday I Love You",
-      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "6 months",
-        "url": "https://open.spotify.com/album/3fyujnQjkecdRZ3xiKNrzj"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 216937,
-      "name": "6 months",
-      "url": "https://open.spotify.com/track/195DDl4riXguLriXMSU0Gg"
-    },
-    {
-      "added_at": "2022-04-04 08:17:57",
-      "album": {
-        "name": "Baliw",
-        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
+        "name": "Dumaloy",
+        "url": "https://open.spotify.com/album/0CPFOWJixO9sorCggeUYy1"
       },
       "artists": [
         {
@@ -684,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
         }
       ],
-      "duration_ms": 218983,
-      "name": "Baliw",
-      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
+      "duration_ms": 260580,
+      "name": "Dumaloy",
+      "url": "https://open.spotify.com/track/1X6CvDSqNCsOy0h2pv9Yjd"
     }
   ],
   "unique_name": "Kilig Pa More",

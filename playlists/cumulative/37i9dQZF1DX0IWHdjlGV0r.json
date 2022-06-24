@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Sei qui",
+      "url": "https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/6dgoz9DGFVg97vGr0260sP"
       },

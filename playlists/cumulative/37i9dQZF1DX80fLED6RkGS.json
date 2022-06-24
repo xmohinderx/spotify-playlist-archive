@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV?si=6TVBxH48STakqp-HXKC-4A\">Swat Matire</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=xuSvLd0_R4eridg_tisTrQ\"> Maandy</a> ",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -1182,6 +1182,28 @@
     },
     {
       "album": {
+        "name": "Ka Unaweza",
+        "url": "https://open.spotify.com/album/7rsoVA4Gx2zR8RfELk6tBe"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Ka Unaweza",
+      "url": "https://open.spotify.com/track/7awoDNq8TDADZwXoqiafsK"
+    },
+    {
+      "album": {
         "name": "Kajanja (Official)",
         "url": "https://open.spotify.com/album/2OB91REOYQS8sReai2Cjuh"
       },
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 167810,
       "name": "Moto",
       "url": "https://open.spotify.com/track/0ePHZneZmWefIsJmzqN056"
@@ -2169,6 +2191,36 @@
       "duration_ms": 172643,
       "name": "Naitwa Mejja",
       "url": "https://open.spotify.com/track/3vzVKpd2lkwvfNMWX4n2cT"
+    },
+    {
+      "album": {
+        "name": "Nakulombotov (Remix)",
+        "url": "https://open.spotify.com/album/0QX4GFsz89u0UfTf54vm5B"
+      },
+      "artists": [
+        {
+          "name": "Nyakundi",
+          "url": "https://open.spotify.com/artist/2KKoGESY14ttjIcHlupapE"
+        },
+        {
+          "name": "Vdj Jones",
+          "url": "https://open.spotify.com/artist/4q66q8I9GZAdNtes3j2yuK"
+        },
+        {
+          "name": "Jeshi Jinga",
+          "url": "https://open.spotify.com/artist/3cXYwY0BrJskvfEvjXneap"
+        },
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "Nakulombotov - Remix",
+      "url": "https://open.spotify.com/track/4bZZENtwTQvFzxi9GqllTR"
     },
     {
       "album": {
@@ -2807,7 +2859,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253805,
       "name": "Sam C",
       "url": "https://open.spotify.com/track/4G25B9mTnR1d8iModqREIs"

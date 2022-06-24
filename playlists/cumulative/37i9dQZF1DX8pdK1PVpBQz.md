@@ -2,7 +2,7 @@
 
 ### [ Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: WILSN\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: FLY BOY JACK\. Artwork: Isu Kim
 
 847 songs - 1 day 22 hr 52 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Stefflon Don",
+  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 182672,
       "name": "How We Do It (feat. Pia Mia)",
       "url": "https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 148200,
       "name": "Hypocrite - Edit",
       "url": "https://open.spotify.com/track/2uEgtB82CP9q8zQqci8pAo"
@@ -943,6 +943,32 @@
       "duration_ms": 203333,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/4nRBgPceAv04r19I9Xn3Tk"
+    },
+    {
+      "album": {
+        "name": "Ina Dancehall",
+        "url": "https://open.spotify.com/album/1CXRgqPTB60bNC9AXtXzZX"
+      },
+      "artists": [
+        {
+          "name": "DJ Oneshot",
+          "url": "https://open.spotify.com/artist/5HftKAv6XJAKVtIZZ1ybf2"
+        },
+        {
+          "name": "Hayvee",
+          "url": "https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt"
+        },
+        {
+          "name": "WISHANN ASMA",
+          "url": "https://open.spotify.com/artist/3MvZWIRVvQa4tFGyTHi7pd"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "Ina Dancehall",
+      "url": "https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP"
     },
     {
       "album": {
@@ -1446,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "Empreinte",
+        "url": "https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv"
+      },
+      "artists": [
+        {
+          "name": "Pix'L",
+          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "MOOV",
+      "url": "https://open.spotify.com/track/76koWWOne981lr5gxbzH2O"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9 Kow",
         "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
       },
@@ -1751,7 +1799,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 189285,
       "name": "Real Dawgz",
       "url": "https://open.spotify.com/track/5zpTf2sn6BGjPVLi1pEOvo"
@@ -1869,6 +1917,28 @@
       "duration_ms": 134400,
       "name": "Section",
       "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/5fQkj4PKq7ZbSrlCTLKsSH"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121269,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/4dst3v9IrkOe59bywDmyNL"
     },
     {
       "album": {

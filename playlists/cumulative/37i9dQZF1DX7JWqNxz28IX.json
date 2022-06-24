@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 110750,
       "name": "14",
       "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK"
+      },
+      "artists": [
+        {
+          "name": "SHYGUY.OG",
+          "url": "https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82274,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS"
+    },
+    {
+      "album": {
         "name": "Bombay Lemon",
         "url": "https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo"
       },
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 125357,
       "name": "cento metri",
       "url": "https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO"
@@ -219,7 +237,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 149883,
       "name": "Coma",
       "url": "https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm"
@@ -273,7 +291,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 186243,
       "name": "D(Emo)",
       "url": "https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 90000,
       "name": "frantumi",
       "url": "https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 188085,
       "name": "Fuori dal buio",
       "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 158740,
       "name": "gusto,, paranoia !",
       "url": "https://open.spotify.com/track/5hO7SFzboofb2rKNtA5QHg"
@@ -837,6 +855,32 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "album": {
+        "name": "IO E TE",
+        "url": "https://open.spotify.com/album/7AZ5f357ol3fZtu83pR6st"
+      },
+      "artists": [
+        {
+          "name": "POLDOWG",
+          "url": "https://open.spotify.com/artist/66jtpmf7aFU5KZXlAavqai"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/0s2BRO6wLQxZ9FR3EeAIXe"
+        },
+        {
+          "name": "Malve",
+          "url": "https://open.spotify.com/artist/5oJPicXcu0o7GbTFvcqxSA"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "IO E TE",
+      "url": "https://open.spotify.com/track/1jS9xU5AESvZSh1oDdtYDi"
     },
     {
       "album": {
@@ -1033,10 +1077,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 137008,
       "name": "ME & YOU",
       "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+    },
+    {
+      "album": {
+        "name": "Mille Pezzi",
+        "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186474,
+      "name": "Mille Pezzi",
+      "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
     },
     {
       "album": {
@@ -1051,7 +1113,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 161870,
       "name": "minuti che vivi",
       "url": "https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy"
@@ -1359,7 +1421,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 171203,
       "name": "Piano",
       "url": "https://open.spotify.com/track/5A27QGKlNBa9Uzr2XEaThl"
@@ -1450,6 +1512,32 @@
     },
     {
       "album": {
+        "name": "Ragazzi tristi",
+        "url": "https://open.spotify.com/album/77VRWDD2qWWhXDHFHUzVcm"
+      },
+      "artists": [
+        {
+          "name": "Neediz",
+          "url": "https://open.spotify.com/artist/0cKIYS5SG83ka3FZTLlj3m"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        },
+        {
+          "name": "VDN",
+          "url": "https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Ragazzi tristi",
+      "url": "https://open.spotify.com/track/1yL6WPvqXdgDbnHGsTtQ1z"
+    },
+    {
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -1505,7 +1593,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/1SIyOWhf9qKSWKqPhH1eDd"
@@ -1599,7 +1687,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 178517,
       "name": "Solita",
       "url": "https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8"
@@ -1845,7 +1933,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 150222,
       "name": "vivere solo",
       "url": "https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm"
@@ -1899,7 +1987,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 136806,
       "name": "x dimenticarti",
       "url": "https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS"

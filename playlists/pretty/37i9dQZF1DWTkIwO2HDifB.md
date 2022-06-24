@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Gostosinho Tu Cai e os funks mais 🔑 do Brasil\. Foto: MC Pepeu, DJ Swat
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,676,598 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,678,284 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

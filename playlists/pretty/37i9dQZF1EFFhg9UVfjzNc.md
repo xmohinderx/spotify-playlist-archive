@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 44 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 44 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 13 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/3ivf2zetHD8ZMvrNVtGguO) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:16 |
 | 14 | [Me Aproximou \- Ao Vivo](https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 5:16 |
 | 15 | [Correrei \- Ao Vivo](https://open.spotify.com/track/6OPBxXdwzUpWx1z78LTMKJ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:31 |
-| 16 | [Deus Perfeito \- Ao Vivo](https://open.spotify.com/track/4x2TltfXeQsID7xu2bWCr2) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:29 |
-| 17 | [Leão \- Ao Vivo](https://open.spotify.com/track/4g5QnO2fCIjOcjT4zHSXZ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 4:46 |
+| 16 | [Leão \- Ao Vivo](https://open.spotify.com/track/4g5QnO2fCIjOcjT4zHSXZ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 4:46 |
+| 17 | [Deus Perfeito \- Ao Vivo](https://open.spotify.com/track/4x2TltfXeQsID7xu2bWCr2) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:29 |
 | 18 | [Eu Creio \- Ao Vivo](https://open.spotify.com/track/12dGdIwsVKWoi9llS1dwNA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 5:20 |
 | 19 | [Som do Céu \- Ao Vivo](https://open.spotify.com/track/0r15j6PEABm3Z1sfxIbjLK) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Som do Céu \(Ao Vivo\)](https://open.spotify.com/album/6d4Iqc10saXuhwCIuUqnV8) | 6:25 |
 | 20 | [Apocalipse 4 \- Ao Vivo](https://open.spotify.com/track/4KvwPgAJMWNqx4lCll9Ldp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Apocalipse 4 \(Ao Vivo\)](https://open.spotify.com/album/2C8V8hCKIAkZMtSr532PBO) | 6:33 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 43 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 44 | [Deus Faz Além \- Playback](https://open.spotify.com/track/54KdjaTtv2MF091f6o4twN) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Faz Além \(Playback\)](https://open.spotify.com/album/6Ai8QVw92ZWcxPwmXTl4OK) | 4:58 |
 
-Snapshot ID: `Mjc1OTkxMDAsMDAwMDAwMDAwZDZjODg1MWExMzUwZWY0OGFjMGE5NmIxNDRkMmU0OQ==`
+Snapshot ID: `Mjc2MDA1NDAsMDAwMDAwMDBkYmYyZjIyMzU4NDUyMTYxNDgyZjcyODljNzlhMDcyMA==`

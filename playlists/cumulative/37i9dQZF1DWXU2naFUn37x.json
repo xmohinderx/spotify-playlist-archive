@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova casa dello street rap italiano. Cover: Rhove",
+  "description": "La nuova casa dello street rap italiano. Cover: Baby Gang",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 140297,
       "name": "181",
       "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 137142,
       "name": "C'est la rue",
       "url": "https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY"
@@ -511,6 +511,28 @@
       "duration_ms": 143516,
       "name": "Cella 3",
       "url": "https://open.spotify.com/track/0VkRsiJbqTffovcsUYQBFA"
+    },
+    {
+      "album": {
+        "name": "Click",
+        "url": "https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        },
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "Click",
+      "url": "https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m"
     },
     {
       "album": {
@@ -703,7 +725,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 178285,
       "name": "Equipo",
       "url": "https://open.spotify.com/track/4Rkmo8hFBbqooJ2ZqsaDdM"
@@ -867,7 +889,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 158080,
       "name": "GORILLA#1",
       "url": "https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 216000,
       "name": "Inchiostro sulla face (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ"
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 195958,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/5a2WsHcBPAKvfzccKSUSgg"
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 146275,
       "name": "Minor\u00e8",
       "url": "https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 125915,
       "name": "Silenzioso",
       "url": "https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF"
@@ -2000,6 +2022,28 @@
     },
     {
       "album": {
+        "name": "VITA PUTTANA",
+        "url": "https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211404,
+      "name": "VITA PUTTANA",
+      "url": "https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4"
+    },
+    {
+      "album": {
         "name": "WAKANDA",
         "url": "https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg"
       },
@@ -2019,6 +2063,24 @@
       "duration_ms": 136502,
       "name": "WAKANDA",
       "url": "https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205074,
+      "name": "X Sempre",
+      "url": "https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x"

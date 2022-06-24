@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Idgitaf
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Reybong
 
-95 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+96 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 |  |
 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:21 | 2022-03-24 |  |
 | [Hahaha](https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kumpulan Cerita Pendek](https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge) | 3:16 | 2022-01-27 | 2022-03-25 |
+| [HANDSOME](https://open.spotify.com/track/79deaUtPDHb03XPGbw9vkn) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [HANDSOME](https://open.spotify.com/album/4cFVHMqi4KvkOrb6zlhdvT) | 2:06 | 2022-06-23 |  |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2021-11-25 | 2022-03-25 |
 | [Heartbeat](https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK), [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Heartbeat](https://open.spotify.com/album/7hez8uQfAf80j8KI1oj2Bb) | 3:47 | 2021-11-25 | 2022-03-25 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-24 |  |

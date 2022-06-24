@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-29",
-  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black",
+  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose",
   "name": "Epic & Melodic",
   "published_playlist_ids": [
     "7kEcasUjgrsWeDSNxMBt56"
@@ -737,6 +737,28 @@
       "duration_ms": 314000,
       "name": "Charcoal",
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
+    },
+    {
+      "album": {
+        "name": "Of Silence",
+        "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
+      },
+      "artists": [
+        {
+          "name": "Dawn of Destiny",
+          "url": "https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45"
+        },
+        {
+          "name": "Chris Harms",
+          "url": "https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
     },
     {
       "album": {
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 211426,
       "name": "For The Sake Of Revenge",
       "url": "https://open.spotify.com/track/590peBKo6OaJzKu756aGe4"
@@ -3216,6 +3238,24 @@
     },
     {
       "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1"
       },
@@ -3627,7 +3667,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 203118,
       "name": "P.A.R.T.Y.",
       "url": "https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv"
@@ -4125,6 +4165,24 @@
       "duration_ms": 263799,
       "name": "Selkie",
       "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
+    },
+    {
+      "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
     },
     {
       "album": {
@@ -5019,7 +5077,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"

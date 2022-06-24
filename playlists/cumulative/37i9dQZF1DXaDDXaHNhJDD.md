@@ -4,7 +4,7 @@
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Minnal Murali
 
-61 songs - 4 hr 9 min - not published yet
+61 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/10m0BYH7vx3vQP94cQIjSm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

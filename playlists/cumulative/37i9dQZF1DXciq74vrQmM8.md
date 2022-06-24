@@ -2,13 +2,14 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. rico nasty
 
-229 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+231 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2much](https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [2much](https://open.spotify.com/album/5OJZzfiSO8qZ7KM5A7U3F6) | 3:58 | 2022-04-19 | 2022-04-29 |
+| [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-23 |  |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-06-02 |  |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2021-12-27 | 2022-01-19 |
 | [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-04-19 | 2022-04-29 |
@@ -37,6 +38,7 @@
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
+| [CEO OF MY ASS](https://open.spotify.com/track/2ZDKYbeCuzfEE2inGU5Ybj) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [CEO OF MY ASS](https://open.spotify.com/album/2rmZayJCme9uQLV2MnNXfp) | 2:04 | 2022-06-23 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-19 | 2022-04-29 |
 | [CHAOS](https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [CHAOS](https://open.spotify.com/album/7vNoEhF5nw6OltQxoeIgtE) | 2:56 | 2022-03-31 |  |
 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-06-16 |  |
@@ -60,7 +62,7 @@
 | [DO U LIKE ME NOW?](https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [DO U LIKE ME NOW?](https://open.spotify.com/album/5pEPrSirLnbvFr65nO5Zp9) | 2:23 | 2021-12-27 | 2022-06-10 |
 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-28 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-14 | 2022-04-20 |
-| [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 |  |
+| [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 | 2022-06-24 |
 | [Dutch Courage](https://open.spotify.com/track/5OCDCNYb7xT1HwgJ9SS1Oh) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Dutch Courage](https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p) | 2:27 | 2021-12-27 | 2022-01-19 |
 | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 | 2022-02-18 | 2022-04-01 |
 | [elegy](https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [elegy](https://open.spotify.com/album/1rQvm59V13d70jUeHgVTBl) | 2:20 | 2021-12-27 | 2022-01-19 |
@@ -126,7 +128,7 @@
 | [Literal Legend](https://open.spotify.com/track/69yvAav3DrSy27zXqJKTIS) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Princess Ayesha](https://open.spotify.com/artist/0Pp9K2XkoY77SjmjT1pKqy) | [Literal Legend](https://open.spotify.com/album/76SjHJD2ba8enBmHCAkZZa) | 2:36 | 2022-03-31 | 2022-04-15 |
 | [Little Idiot](https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Little Idiot](https://open.spotify.com/album/526U6qGZw3OurkTCzxBBNi) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
-| [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 |  |
+| [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 |  |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-12 | 2022-01-17 |
 | [Maggots](https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 2:18 | 2021-12-27 |  |
@@ -217,7 +219,7 @@
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-19 |  |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 |  |
 | [UH OH!](https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [UH OH!](https://open.spotify.com/album/00dZyIEC3bXTvPqjQ6qAfP) | 1:30 | 2022-03-31 |  |
-| [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 | 2021-12-27 |  |
+| [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 | 2021-12-27 | 2022-06-24 |
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2021-12-27 | 2022-06-17 |
 | [Vapid Prophecy](https://open.spotify.com/track/50k61EN7BjkLlWyVqqQw6t) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [Vapid Prophecy](https://open.spotify.com/album/0XVuk4uX8VNlCFbcnMUQ2P) | 2:20 | 2022-02-04 | 2022-03-04 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-31 |  |

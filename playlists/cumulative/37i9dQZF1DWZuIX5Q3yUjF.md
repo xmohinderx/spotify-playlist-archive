@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Nico Kyni
+> Il meglio dell'R&B italiano\. Cover: Wako, BigMama
 
-117 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+122 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,14 +59,18 @@
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 |  |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 |  |
 | [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 |  |
+| [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 |  |
 | [Ion](https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 3:25 | 2022-05-26 |  |
+| [Jeans Appeal](https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb) | [Merrick](https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe) | [Jeans Appeal](https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh) | 3:05 | 2022-06-23 |  |
 | [Karma](https://open.spotify.com/track/0aHzuh1etGgRDpK4enI5T0) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Karma](https://open.spotify.com/album/6a608NAL2SvP3U6uI4WQpF) | 2:37 | 2022-05-26 |  |
 | [Ku](https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH) | 4:35 | 2022-05-05 |  |
+| [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 | 2022-06-23 |  |
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 |  |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 |  |
 | [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-06-09 |  |
 | [LACRIME D'ORO](https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [LACRIME D'ORO](https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw) | 2:40 | 2022-05-19 |  |
 | [Lacrime dolci](https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf) | [Giulia Penna](https://open.spotify.com/artist/3LVgsRfnE5D4Qt83Qj6dYS) | [Lacrime dolci](https://open.spotify.com/album/6Fpaqs6bsEXWhG2bE2NgCm) | 2:46 | 2022-05-05 |  |
+| [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 | 2022-06-23 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-05-05 |  |
 | [Like a melody](https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Je so accussì](https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b) | 2:18 | 2022-05-05 |  |
 | [Lo Sguardo Degli Angeli](https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Lo Sguardo Degli Angeli](https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C) | 2:41 | 2022-06-16 |  |
@@ -112,6 +116,7 @@
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 |  |
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 |  |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 |  |
+| [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |
 | [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 | 2022-05-05 |  |
 | [tutta la città](https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [tutta la città](https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI) | 2:55 | 2022-05-05 |  |
 | [Uccidersi per Sbaglio](https://open.spotify.com/track/5OlG9tBd7yfmrrMavKfTl5) | [F\. Brioschi](https://open.spotify.com/artist/2mUAUBU46I4fTNmymLRRMW), [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Uccidersi per Sbaglio](https://open.spotify.com/album/4zpv68HMIc0q7Ldpv81WlB) | 2:45 | 2022-05-12 |  |

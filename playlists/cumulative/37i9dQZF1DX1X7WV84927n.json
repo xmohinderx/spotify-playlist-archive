@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Ghost",
+  "description": "For the Hard Rock and full volume lovers. Cover: Ozzy Osbroune",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -151,6 +151,24 @@
       "duration_ms": 214250,
       "name": "All I Really Know",
       "url": "https://open.spotify.com/track/69gRTJZChyDiQ8mAyHCpHv"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Show",
+        "url": "https://open.spotify.com/album/0l9XSM566KYzfpjfpVT3pP"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/7rwjvrRERCvxdfB0p7UZ8P"
     },
     {
       "album": {
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 194654,
       "name": "Classless Act (feat. Vince Neil of Motley Crue)",
       "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
@@ -1086,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "ERROR",
+      "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf"
+    },
+    {
+      "album": {
         "name": "Everybody's Nobody",
         "url": "https://open.spotify.com/album/5Zx1trhR6ewwuwsjg683Bo"
       },
@@ -1480,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Here Comes the Revolution",
+        "url": "https://open.spotify.com/album/31wESA1p2Yn26BuiesP2wF"
+      },
+      "artists": [
+        {
+          "name": "Santa Cruz",
+          "url": "https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194881,
+      "name": "Here Comes the Revolution",
+      "url": "https://open.spotify.com/track/0KX65nsb1sH143B4SlZv4V"
+    },
+    {
+      "album": {
         "name": "A Hope In Hell",
         "url": "https://open.spotify.com/album/7sXH67ycxNjoyQKTn7inIb"
       },
@@ -1516,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1RZxJUNrYPbuMR2S03yoiM"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/2rHM0Z7AOHN4FiDMfvpqwW"
+    },
+    {
+      "album": {
         "name": "Hunter's Moon",
         "url": "https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1"
       },
@@ -1545,7 +1617,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 215653,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/7ay7vDG9NyF2NTrH15jpPZ"
@@ -1563,7 +1635,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 235040,
       "name": "I Still Burn",
       "url": "https://open.spotify.com/track/6bdxrVGUlcUSfj2V04ldI8"
@@ -1679,7 +1751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 189499,
       "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
@@ -1715,7 +1787,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 234796,
       "name": "Into The Midnight Sun",
       "url": "https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR"
@@ -1953,7 +2025,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 235353,
       "name": "Loveletting - 7\" Cut",
       "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
@@ -2083,6 +2155,24 @@
       "duration_ms": 210906,
       "name": "Murder the Summer of Love",
       "url": "https://open.spotify.com/track/3EpyJVzdiFHNOHMrLhAsRa"
+    },
+    {
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "album": {
@@ -2312,6 +2402,28 @@
     },
     {
       "album": {
+        "name": "Patient Number 9 (feat. Jeff Beck)",
+        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
         "name": "Peacemaker",
         "url": "https://open.spotify.com/album/2QRtOFI8PDVq53fufiQ5u6"
       },
@@ -2341,7 +2453,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 188164,
       "name": "Permanently Sealed - Bonus Track",
       "url": "https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1"
@@ -2616,6 +2728,24 @@
     },
     {
       "album": {
+        "name": "Rise to the Call",
+        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227486,
+      "name": "Rise to the Call",
+      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
+    },
+    {
+      "album": {
         "name": "The Roadside",
         "url": "https://open.spotify.com/album/0lN5UgPT1v2XTboGOQXszX"
       },
@@ -2667,6 +2797,24 @@
       "duration_ms": 202453,
       "name": "Roses on Your Grave",
       "url": "https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9"
+    },
+    {
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
     },
     {
       "album": {
@@ -2771,7 +2919,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 268760,
       "name": "Signed in Blood",
       "url": "https://open.spotify.com/track/4oPUKqsYlQbuKAEjsuZCcq"
@@ -3113,7 +3261,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 221360,
       "name": "The Bitch in Black",
       "url": "https://open.spotify.com/track/6ayIpjL4MRM2xqlu81cW9q"
@@ -3297,7 +3445,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
@@ -3668,6 +3816,24 @@
     },
     {
       "album": {
+        "name": "VIOLENT PRINCIPLES",
+        "url": "https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT"
+      },
+      "artists": [
+        {
+          "name": "Adema",
+          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227330,
+      "name": "VIOLENT PRINCIPLES",
+      "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
+    },
+    {
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/3ttm1D2LtKbN9i8UBZkvuC"
       },
@@ -3935,6 +4101,28 @@
       "duration_ms": 333120,
       "name": "You Got The Best Of Me",
       "url": "https://open.spotify.com/track/6knSCaCg0rVEw7jnvM4x19"
+    },
+    {
+      "album": {
+        "name": "You Promised Me Love",
+        "url": "https://open.spotify.com/album/7jbHX6G5JIb0Dtxr9qXNpF"
+      },
+      "artists": [
+        {
+          "name": "Devil's Train",
+          "url": "https://open.spotify.com/artist/1YY1vXVNLkPmaY7K6B8f0Y"
+        },
+        {
+          "name": "Mystic Prophecy",
+          "url": "https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206460,
+      "name": "You Promised Me Love",
+      "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"
     },
     {
       "album": {

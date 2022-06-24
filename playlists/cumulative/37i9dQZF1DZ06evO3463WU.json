@@ -96,6 +96,28 @@
     },
     {
       "album": {
+        "name": "YakiFest, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Cuando El Amor Se Acaba - En Vivo",
+      "url": "https://open.spotify.com/track/3UJ0tRfPzbphNOhNBqBn7a"
+    },
+    {
+      "album": {
         "name": "En Vivo Palenque De Guadalajara",
         "url": "https://open.spotify.com/album/6D5WggwYmVOJGqQpl57Tm2"
       },
@@ -107,7 +129,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 315512,
       "name": "Cuando Nadie Te Quiera - En Vivo",
       "url": "https://open.spotify.com/track/0ActR7aXd8BMfMZ0zVPkRp"
@@ -343,7 +365,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 241359,
       "name": "Inventame Un Amor",
       "url": "https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa"
@@ -379,7 +401,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 172895,
       "name": "Las Llaves De Mi Alma",
       "url": "https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V"
@@ -821,7 +843,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 218012,
       "name": "Pasion de Amor",
       "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
@@ -865,7 +887,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 225653,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 158200,
       "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 206843,
       "name": "Unidos Para Amarnos",
       "url": "https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf"

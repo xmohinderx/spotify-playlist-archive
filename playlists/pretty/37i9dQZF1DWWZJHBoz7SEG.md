@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Black Eyed Peas, Shakira y David Guetta; Drake; Kim Loaiza; Natalia Lafourcade!
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,532 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,626 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

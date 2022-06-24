@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 129600,
       "name": "Como Se Faz",
       "url": "https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3"
@@ -897,6 +897,32 @@
       "duration_ms": 205401,
       "name": "Livre Demais",
       "url": "https://open.spotify.com/track/1pSno5Vgb2OxrLrKj2mzdW"
+    },
+    {
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/6Uhtrvi5cf9utDldaPXNqz"
+      },
+      "artists": [
+        {
+          "name": "coragemcv",
+          "url": "https://open.spotify.com/artist/7ynnPGpXhCbwG0S2S91KeR"
+        },
+        {
+          "name": "By Zero",
+          "url": "https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ"
+        },
+        {
+          "name": "Wav",
+          "url": "https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4QR0Kn2lUmZkmGwMDquXkf"
     },
     {
       "album": {

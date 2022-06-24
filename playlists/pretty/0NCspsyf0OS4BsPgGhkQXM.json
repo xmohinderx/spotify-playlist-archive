@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2040048,
+  "num_followers": 2039968,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE4NDYsYTY1MTBiNWE3OWQ2NGIzZTQ0YmVlMDVhZTI2Yjc3Y2U4OTUxNmQ2ZA==",
+  "snapshot_id": "MTE4NDgsMDIwZWFhNTFkOWVjNTE1NTNjNWY4NGYwZmViYjBiOGJhNTViY2Y2NA==",
   "tracks": [
     {
       "added_at": "2022-06-16 21:52:21",
@@ -491,6 +491,26 @@
       "duration_ms": 133600,
       "name": "Crash",
       "url": "https://open.spotify.com/track/49csxWyhQc92RHjUO8iVGa"
+    },
+    {
+      "added_at": "2022-06-23 17:02:22",
+      "album": {
+        "name": "Pass U By (Kaiya Remix)",
+        "url": "https://open.spotify.com/album/5JnbnkdsLoFS731Ia17bat"
+      },
+      "artists": [
+        {
+          "name": "Dust of Apollon",
+          "url": "https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc"
+        },
+        {
+          "name": "Kaiya",
+          "url": "https://open.spotify.com/artist/3o9Izl3cucB4KySDX6m6W8"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Pass U By - Kaiya Remix",
+      "url": "https://open.spotify.com/track/3naGretUMIoXAGe3SKiHsE"
     },
     {
       "added_at": "2022-06-14 05:58:19",

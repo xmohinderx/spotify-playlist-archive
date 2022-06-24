@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,695 likes - 85 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,731 likes - 85 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 |
+| 1 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 |
 | 2 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 |
 | 3 | [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 |
 | 4 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Everything's Gonna Be Alright](https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm) | 3:33 |

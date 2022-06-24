@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Bello Falcao
 
-65 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+66 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dosabado](https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Rhythms of Zamunda \(Music Inspired by the Amazon Original Movie: Coming 2 America\)](https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn) | 2:30 | 2021-12-20 |  |
 | [Dosez \(feat\. Elow'n & Didi B\)](https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 3:55 | 2022-02-18 |  |
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 |  |
+| [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 |  |
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 |  |
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 |  |
@@ -59,7 +60,7 @@
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 |  |
 | [Quand J'aurai l'argent \(Plenty Money\) \(feat\. Innoss'B\)](https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Quand J'aurai l'argent \(Plenty Money\) \[feat\. Innoss'B\]](https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua) | 3:21 | 2022-06-16 |  |
-| [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 |  |
+| [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 |  |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 | 2022-06-03 |
 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 |  |

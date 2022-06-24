@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: FKA Twigs
 
-1,547 songs - 3 day 14 hr 52 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,548 songs - 3 day 14 hr 55 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Hold It Down](https://open.spotify.com/track/2OvuQMxW5b0VT8btiNugfL) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Hold It Down](https://open.spotify.com/album/42XEoPWaLmNLzCKZfiUywT) | 3:14 | 2020-04-04 | 2020-10-15 |
 | [Hold On](https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 3:37 | 2022-04-15 |  |
 | [Holding Me](https://open.spotify.com/track/7nvsExAU42OUwcOjvcGneu) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Holding Me](https://open.spotify.com/album/6GNDoinoIqBO6MmzMCxKPA) | 3:00 | 2019-12-05 | 2020-05-07 |
+| [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 | 2022-06-23 |  |
 | [Hollyhood \(feat\. Kent Jamz\)](https://open.spotify.com/track/5OuPKLNJjsBsyRZ9PjTRTj) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Hollyhood \(feat\. Kent Jamz\)](https://open.spotify.com/album/0A5b52A8phfjRQHEkmlAVo) | 2:51 | 2019-11-01 | 2020-02-21 |
 | [holy terrain](https://open.spotify.com/track/0ND36delZlYUcwNaCk9Uf5) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [holy terrain](https://open.spotify.com/album/1hDlZBsaWOz8St9iioQF0y) | 4:03 | 2019-09-10 | 2020-04-04 |
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-09 | 2020-03-05 |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 212346,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 169177,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 170960,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4l94386YhnCzduk44xzFRx"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 195000,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 227250,
       "name": "Here Comes The Light",
       "url": "https://open.spotify.com/track/1F3pjXDkAbTkrcIjUILwCr"
@@ -929,6 +929,24 @@
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
     },
     {
       "album": {
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253733,
       "name": "I Need Never Get Old",
       "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 206546,
       "name": "I Will Remain",
       "url": "https://open.spotify.com/track/1pRb7DlOyLPGcBJUJoAKOo"
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 215237,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7fKF4HdftIEt3lLAy3rDG6"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 192826,
       "name": "Love Love Love - AU Master",
       "url": "https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
@@ -1762,6 +1780,28 @@
     },
     {
       "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "album": {
         "name": "Holy Smokes Future Jokes",
         "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
       },
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 239880,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W"
@@ -1993,7 +2033,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 214820,
       "name": "Soap",
       "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"
@@ -2112,6 +2152,24 @@
     },
     {
       "album": {
+        "name": "Headlights / Summer Bird",
+        "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191980,
+      "name": "Summer Bird",
+      "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
+    },
+    {
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -2159,7 +2217,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 227373,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
@@ -2177,7 +2235,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
@@ -2213,7 +2271,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs"
@@ -2357,7 +2415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
@@ -2393,7 +2451,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 285320,
       "name": "Welcome Home, Son",
       "url": "https://open.spotify.com/track/13PUJCvdTSCT1dn70tlGdm"
@@ -2429,7 +2487,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 198613,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/1Bj7N8qzv0KWCxvq4gfOTL"
@@ -2501,7 +2559,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 253493,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
@@ -2537,7 +2595,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 220333,
       "name": "Wolf (Bonus Track)",
       "url": "https://open.spotify.com/track/0W4sXm430e78yQCgcvEXwp"

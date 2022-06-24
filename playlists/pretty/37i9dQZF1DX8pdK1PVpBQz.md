@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [ Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: WILSN\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: FLY BOY JACK\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,678 likes - 95 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,701 likes - 95 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 2 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 |
 | 3 | [If You Wanna Love Me](https://open.spotify.com/track/48cWPyAM4D0J6zR07Omom3) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [If You Wanna Love Me](https://open.spotify.com/album/6chg4ErTYtQfbJTyb1NJMy) | 3:23 |
 | 4 | [Burn](https://open.spotify.com/track/7lBwXQY62oFd0hUr7YnldF) | [OFFBEAT COWBOY](https://open.spotify.com/artist/0iTxohZ8kAdiKQDIdbwN9w) | [Burn](https://open.spotify.com/album/7ewI7P7EqlSMo27IpUi39G) | 3:06 |
-| 5 | [Undone](https://open.spotify.com/track/3EBAKwR64AmB7bVcBiRabH) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Undone](https://open.spotify.com/album/4BUf7LcSWLZsX2C2XSb2xJ) | 3:03 |
-| 6 | [the sun](https://open.spotify.com/track/4rkI6vCSJM4SCvEPmObpYX) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [MAXINE](https://open.spotify.com/artist/0NJePLwflKr2Mx8JZF0WCq) | [the sun](https://open.spotify.com/album/5vBTc8Uz9QXLAb93bvqcHC) | 2:58 |
-| 7 | [ENERGY](https://open.spotify.com/track/00znzFfwrx2rA3J1L7xVH1) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [ENERGY](https://open.spotify.com/album/3dZNhoPIuoTLPC2GHW8mZQ) | 2:36 |
+| 5 | [ENERGY](https://open.spotify.com/track/00znzFfwrx2rA3J1L7xVH1) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [ENERGY](https://open.spotify.com/album/3dZNhoPIuoTLPC2GHW8mZQ) | 2:36 |
+| 6 | [Undone](https://open.spotify.com/track/3EBAKwR64AmB7bVcBiRabH) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Undone](https://open.spotify.com/album/4BUf7LcSWLZsX2C2XSb2xJ) | 3:03 |
+| 7 | [the sun](https://open.spotify.com/track/4rkI6vCSJM4SCvEPmObpYX) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [MAXINE](https://open.spotify.com/artist/0NJePLwflKr2Mx8JZF0WCq) | [the sun](https://open.spotify.com/album/5vBTc8Uz9QXLAb93bvqcHC) | 2:58 |
 | 8 | [On The Run](https://open.spotify.com/track/3IUZwqyAtwjBJjZZ29lEEO) | [Blondumb](https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl) | [On The Run](https://open.spotify.com/album/0yDGgiZxrwjKz61n19iynC) | 2:41 |
 | 9 | [All In Place](https://open.spotify.com/track/0OHNlrrhZmZV0OKXGKCUAN) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5Jkcs2WoO1mkEAUFGrQBAN) | 4:03 |
 | 10 | [Out Of Touch](https://open.spotify.com/track/6Pk7Pb9ObxH1vnzVFjjdPp) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [JAVU](https://open.spotify.com/artist/1oRKE0KZFaQt3yjkEwf9p7) | [Out Of Touch](https://open.spotify.com/album/1hRqbtk55TcWcBLZKCCSq2) | 2:42 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 94 | [one layer](https://open.spotify.com/track/2zssJVZYx0uuRKYIA0GFTv) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [MACHONA](https://open.spotify.com/album/7sgyhOomisC9gj68vuz8oj) | 1:21 |
 | 95 | [So Sad](https://open.spotify.com/track/7btVxzWmEnBuxdunhWWhUI) | [Caleb Dusart](https://open.spotify.com/artist/4SixvIlbUqTp1t2rwu3LNq) | [So Sad](https://open.spotify.com/album/6wwYS0ioHc4aflATeHTaLG) | 1:39 |
 
-Snapshot ID: `MTY1NTg4MDQzMSwwMDAwMDA0NjAwMDAwMTgxOGEyYTM4ZDMwMDAwMDE4MThhMjhhMDM3`
+Snapshot ID: `MTY1NTk2MzUyNiwwMDAwMDA0NzAwMDAwMTgxOGYxZTI0NTIwMDAwMDE4MThmMWNmZjBl`
