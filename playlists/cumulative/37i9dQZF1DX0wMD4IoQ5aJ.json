@@ -962,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Deseable",
+        "url": "https://open.spotify.com/album/0e5TXcaLggVbVsaBhU0iGo"
+      },
+      "artists": [
+        {
+          "name": "Joe Franzoni",
+          "url": "https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149464,
+      "name": "Deseable",
+      "url": "https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP"
+    },
+    {
+      "album": {
         "name": "Desofa",
         "url": "https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc"
       },
@@ -2258,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "Rejuvenate",
+        "url": "https://open.spotify.com/album/3ZVehffzLcTBCsO8fqmDBg"
+      },
+      "artists": [
+        {
+          "name": "BlauDisS",
+          "url": "https://open.spotify.com/artist/71YgYh2rcHCeOSB9pVqYT3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Rejuvenate",
+      "url": "https://open.spotify.com/track/0yqLtGV1aM6EJcxqWvq95z"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3"
       },
@@ -3019,6 +3055,24 @@
       "duration_ms": 162613,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl"
+    },
+    {
+      "album": {
+        "name": "Traffic Lights",
+        "url": "https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG"
+      },
+      "artists": [
+        {
+          "name": "Slow Ted",
+          "url": "https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Traffic Lights",
+      "url": "https://open.spotify.com/track/3MdKptGeHema5frxISyDAW"
     },
     {
       "album": {

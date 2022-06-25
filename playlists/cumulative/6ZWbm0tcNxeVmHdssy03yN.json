@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1-2 many",
+        "url": "https://open.spotify.com/album/4IUxwesBp887oEfXKHwIRa"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132210,
+      "name": "1-2 many",
+      "url": "https://open.spotify.com/track/3PJ0DfFRIR024NdCcLsqhz"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/1uSWRTC4TePcb0FvcTAl7M"
       },
@@ -1317,7 +1339,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 258750,
       "name": "Around The Wrld",
       "url": "https://open.spotify.com/track/05y1FQNdRudEmvb1l81Hae"
@@ -3709,7 +3731,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 210959,
       "name": "Cancelled - Single Edit",
       "url": "https://open.spotify.com/track/0viPfd3zObsb3HbdbzVV2y"
@@ -3891,7 +3913,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 349160,
       "name": "Carrusel/Suzie Kamikaze",
       "url": "https://open.spotify.com/track/1a0OqzoPnHbwIXsFWvd522"
@@ -3989,7 +4011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 171424,
       "name": "Caught By Surprise",
       "url": "https://open.spotify.com/track/6chTO1y9r9ZgmGsGWbqAX6"
@@ -4087,6 +4109,24 @@
       "duration_ms": 182648,
       "name": "Chances",
       "url": "https://open.spotify.com/track/7M7LJps0aYV65KBO1SK7AQ"
+    },
+    {
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/5K9feHoiTR7to5WZ6Y7UeI"
+      },
+      "artists": [
+        {
+          "name": "Lucila Ruiu",
+          "url": "https://open.spotify.com/artist/5gH3fVr85QCZg3KTYQB3m4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234732,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/3D3M20xGtKIxd1TBXGv7db"
     },
     {
       "album": {
@@ -5345,7 +5385,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 131351,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6XQHvN0W6OZnKB1b1wNnge"
@@ -5825,7 +5865,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 209142,
       "name": "dayaway",
       "url": "https://open.spotify.com/track/6Fk8wkBXvJdjf6A2vcEZJa"
@@ -6876,6 +6916,28 @@
     },
     {
       "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/1GNrVAo06KJY7SF8jY5leY"
+      },
+      "artists": [
+        {
+          "name": "Yaz",
+          "url": "https://open.spotify.com/artist/3zndnfRPOvKMshWivaeyHq"
+        },
+        {
+          "name": "SaxONLY",
+          "url": "https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/7aBFkYFwfSI1rAnlABHHgy"
+    },
+    {
+      "album": {
         "name": "Downtime",
         "url": "https://open.spotify.com/album/4dtKY2kGyoaq7lQBTPUpN4"
       },
@@ -7570,6 +7632,24 @@
     },
     {
       "album": {
+        "name": "En Esta Vida",
+        "url": "https://open.spotify.com/album/4aBFIcpPRSZWhiiFqg9kUZ"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2QMp4nZmVM8BQDWSTW0T3A"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223483,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/1VTUey6VKiIDvIo8lRCYgW"
+    },
+    {
+      "album": {
         "name": "Enemies (feat. theMIND)",
         "url": "https://open.spotify.com/album/61lsfX283OHvHLuXir3zhN"
       },
@@ -7789,7 +7869,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 253376,
       "name": "Everything",
       "url": "https://open.spotify.com/track/5nTx2HH2VF4D02SS67WThI"
@@ -9120,6 +9200,28 @@
     },
     {
       "album": {
+        "name": "Fugitivo Vol. 13",
+        "url": "https://open.spotify.com/album/6RugcX5pOtB7BQnaQCkKOY"
+      },
+      "artists": [
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
+        },
+        {
+          "name": "Dirty Suc",
+          "url": "https://open.spotify.com/artist/5zziunXg44b8BEQnVx7W2e"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Fugitivo Vol. 13",
+      "url": "https://open.spotify.com/track/4hkrjTCLpcIg0qimDao2HJ"
+    },
+    {
+      "album": {
         "name": "Fugitivo Vol. 4",
         "url": "https://open.spotify.com/album/2Sa8gmZ1eMCq9636dCOyfp"
       },
@@ -10280,6 +10382,28 @@
     },
     {
       "album": {
+        "name": "Hard Feelings",
+        "url": "https://open.spotify.com/album/4H9fegM1nJ0Gpotwgn0VUS"
+      },
+      "artists": [
+        {
+          "name": "loyalties",
+          "url": "https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG"
+        },
+        {
+          "name": "Mr. Carter Davis",
+          "url": "https://open.spotify.com/artist/6Vp9Q8MOsG9bntHeyW8y22"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194069,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/2ECtHKXqVGcvgNcjJ0OwYE"
+    },
+    {
+      "album": {
         "name": "Hard To Pretend",
         "url": "https://open.spotify.com/album/5Fsylr7LnyfzzGhDeRJN8e"
       },
@@ -10527,6 +10651,24 @@
       "duration_ms": 186187,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2oyS7PFg3dwDiHqhT4avpV"
+    },
+    {
+      "album": {
+        "name": "Heist",
+        "url": "https://open.spotify.com/album/3bGSFsl256V64GFl5FyTAt"
+      },
+      "artists": [
+        {
+          "name": "December Streets",
+          "url": "https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "Heist",
+      "url": "https://open.spotify.com/track/2HTmvgJFvvjxwThEZNokUT"
     },
     {
       "album": {
@@ -12279,7 +12421,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 263500,
       "name": "Ikaw Lang",
       "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
@@ -12567,7 +12709,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 358937,
       "name": "iNumber",
       "url": "https://open.spotify.com/track/4wfoPlyDSnWVSkesFZL6K9"
@@ -12737,6 +12879,24 @@
       "duration_ms": 307201,
       "name": "It's Real!",
       "url": "https://open.spotify.com/track/6VafQWHnXPog8wEQYyafMD"
+    },
+    {
+      "album": {
+        "name": "IYKTYK",
+        "url": "https://open.spotify.com/album/2lggXpJn0MuWzpCcLzO6QD"
+      },
+      "artists": [
+        {
+          "name": "Anansi",
+          "url": "https://open.spotify.com/artist/3xojIhDorv16J3t2Twxci5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "IYKTYK",
+      "url": "https://open.spotify.com/track/5rwN6JhVSAIZOyxLO9CcTb"
     },
     {
       "album": {
@@ -13496,6 +13656,24 @@
     },
     {
       "album": {
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/6tlFQrjunXHu3Qg41MLuIo"
+      },
+      "artists": [
+        {
+          "name": "Angie Foster",
+          "url": "https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "La Nave",
+      "url": "https://open.spotify.com/track/2WNoJSTBcBvLbEbvMc0Qz9"
+    },
+    {
+      "album": {
         "name": "La peau sur les os",
         "url": "https://open.spotify.com/album/3SyWa7UQAZofLWqlkSeIeL"
       },
@@ -13843,7 +14021,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 266895,
       "name": "Lerato - Ben Mono Remix",
       "url": "https://open.spotify.com/track/0aA8PyLmQkUaVnTDdVGReh"
@@ -14069,7 +14247,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 184357,
       "name": "LIFE BEFORE DEATH - DEMO 4 UNICEF",
       "url": "https://open.spotify.com/track/7xAVbnGYr7e8OxmqT8kZyL"
@@ -14603,6 +14781,24 @@
       "duration_ms": 195451,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX"
+    },
+    {
+      "album": {
+        "name": "LONERS ANTHEM",
+        "url": "https://open.spotify.com/album/34zxLXckaHvHXtheuNUcrq"
+      },
+      "artists": [
+        {
+          "name": "WHO SHOT SCOTT",
+          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "LONERS ANTHEM",
+      "url": "https://open.spotify.com/track/5TJlSKnKnvPcp48BXhHWik"
     },
     {
       "album": {
@@ -15499,7 +15695,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202021,
       "name": "Maple",
       "url": "https://open.spotify.com/track/06KzGdapzbIF7D3ATwVC4u"
@@ -15727,7 +15923,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 176013,
       "name": "Menina Sapeca",
       "url": "https://open.spotify.com/track/3qklTE70XBmH70qB1Undk6"
@@ -15749,7 +15945,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 219506,
       "name": "MENTE DE AGUA",
       "url": "https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL"
@@ -16311,6 +16507,24 @@
       "duration_ms": 227866,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/5c38uvbdvtrco6KyvjFRHZ"
+    },
+    {
+      "album": {
+        "name": "Mmutla",
+        "url": "https://open.spotify.com/album/2No7GgFKmpZWIHvaM73CPQ"
+      },
+      "artists": [
+        {
+          "name": "Tshepang Ramoba",
+          "url": "https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379828,
+      "name": "Mmutla",
+      "url": "https://open.spotify.com/track/1xOcUmvfl2mIcV7xsWdhWz"
     },
     {
       "album": {
@@ -18022,6 +18236,24 @@
     },
     {
       "album": {
+        "name": "Okay To Make A Change",
+        "url": "https://open.spotify.com/album/1vQYOdeP9ftJRwLPA8Vcs6"
+      },
+      "artists": [
+        {
+          "name": "Michael Dunstan",
+          "url": "https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Okay To Make A Change",
+      "url": "https://open.spotify.com/track/5vF5uuRQcyVSLAOouLERCZ"
+    },
+    {
+      "album": {
         "name": "Old Blue Car",
         "url": "https://open.spotify.com/album/6FKBzaQvLsKPdiwqoFTy4K"
       },
@@ -18033,7 +18265,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Old Blue Car",
       "url": "https://open.spotify.com/track/5pbFEH8jw5qlHnGxvU4dGr"
@@ -18537,6 +18769,24 @@
       "duration_ms": 157693,
       "name": "Opposites Attract",
       "url": "https://open.spotify.com/track/3u1VVczCH5NzYxJV3gZaYn"
+    },
+    {
+      "album": {
+        "name": "OPTION",
+        "url": "https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180149,
+      "name": "OPTION",
+      "url": "https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD"
     },
     {
       "album": {
@@ -21333,7 +21583,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 231127,
       "name": "Sake Of Money",
       "url": "https://open.spotify.com/track/6wW2laKk7TH8tiACllXGmo"
@@ -23843,7 +24093,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214727,
       "name": "Surrender To Me",
       "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ"
@@ -24550,6 +24800,24 @@
     },
     {
       "album": {
+        "name": "The Gang",
+        "url": "https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "The Gang",
+      "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
+    },
+    {
+      "album": {
         "name": "The Girl Who Looked Like Summer",
         "url": "https://open.spotify.com/album/23EcJWzNSrptpg1BhMYhUm"
       },
@@ -25019,6 +25287,32 @@
       "duration_ms": 184715,
       "name": "thinking bout u",
       "url": "https://open.spotify.com/track/2IwNc1KuXOLCJhpzkqKMKV"
+    },
+    {
+      "album": {
+        "name": "Invasion",
+        "url": "https://open.spotify.com/album/0kwb6FQTJBdWaqRFfyGrTg"
+      },
+      "artists": [
+        {
+          "name": "SCNE",
+          "url": "https://open.spotify.com/artist/3ZAQJmjweQmskGIKhLYgOX"
+        },
+        {
+          "name": "D7",
+          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Third Wheel (feat. D7 & AJ Tracey)",
+      "url": "https://open.spotify.com/track/1Wky4fXqFdUYLpSwNPElsT"
     },
     {
       "album": {
@@ -25770,6 +26064,28 @@
     },
     {
       "album": {
+        "name": "Try (Mosca Remix)",
+        "url": "https://open.spotify.com/album/6xmABq7tjnvUGK6h1v249f"
+      },
+      "artists": [
+        {
+          "name": "Gazelle",
+          "url": "https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU"
+        },
+        {
+          "name": "Dj Invizable",
+          "url": "https://open.spotify.com/artist/1RPxEZn5dt2blPZ0zVJquR"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341380,
+      "name": "Try - Mosca Remix",
+      "url": "https://open.spotify.com/track/3vukxw4bLJJz50EtxQZqif"
+    },
+    {
+      "album": {
         "name": "Tu y Yo (feat. Sebastian Javier)",
         "url": "https://open.spotify.com/album/27hnwMGP9aGwPvQVmcIFXU"
       },
@@ -26385,7 +26701,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 147476,
       "name": "Viciado em Voc\u00ea",
       "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
@@ -27579,7 +27895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 160000,
       "name": "WHO",
       "url": "https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM"
@@ -28069,7 +28385,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 121293,
       "name": "Yo Soy Especial",
       "url": "https://open.spotify.com/track/6YdReylRpMbY70LwoMnu5U"

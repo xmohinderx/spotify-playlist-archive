@@ -262,6 +262,28 @@
     },
     {
       "album": {
+        "name": "Big Ego",
+        "url": "https://open.spotify.com/album/2LmPtObumlZ7rpNp4kLgjS"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        },
+        {
+          "name": "ZJ Chrome",
+          "url": "https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119247,
+      "name": "Big Ego",
+      "url": "https://open.spotify.com/track/1ZE5dkGdspewNigU0POFx8"
+    },
+    {
+      "album": {
         "name": "BIG FOOD",
         "url": "https://open.spotify.com/album/3aTuyA4OWgKwKXhnT8Lra8"
       },
@@ -493,6 +515,24 @@
       "duration_ms": 206666,
       "name": "C'est dos\u00e9",
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "album": {
@@ -729,7 +769,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
@@ -805,7 +845,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 166159,
       "name": "Foreplay",
       "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"

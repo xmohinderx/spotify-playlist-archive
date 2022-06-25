@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-169 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+171 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
 | [Maremotos \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/6PuDWQvcwl55r3yVJRjgMF) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Maremotos \(Ao Vivo Quando A Terra Era Redonda\)](https://open.spotify.com/album/4iK4k80Au5YG4NIEHPZs43) | 3:28 | 2022-01-14 | 2022-02-05 |
 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 | 2022-02-18 |  |
-| [Me Escutar](https://open.spotify.com/track/26dgnXrpQjctV5QNIUsGEt) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Me Escutar](https://open.spotify.com/album/11QUQua6w4c2QgZxWcPzxj) | 2:00 | 2022-06-10 |  |
+| [Me Escutar](https://open.spotify.com/track/26dgnXrpQjctV5QNIUsGEt) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Me Escutar](https://open.spotify.com/album/11QUQua6w4c2QgZxWcPzxj) | 2:00 | 2022-06-10 | 2022-06-25 |
 | [Me Leva](https://open.spotify.com/track/68MYCFMYcrYDxrjcspj0C7) | [Chula Rock Band](https://open.spotify.com/artist/3BAlYFunKDeXI5FeTzhIUg) | [Me Leva](https://open.spotify.com/album/33gv5MklLKldDaGCDcB1zx) | 2:36 | 2022-05-27 |  |
 | [Me Leva Aonde For](https://open.spotify.com/track/7A1WUVon3M5EvKArn6cYFX) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Me Leva Aonde For](https://open.spotify.com/album/1StJM4HkWcpmH8cnWCPCnN) | 3:13 | 2022-01-14 | 2022-02-19 |
 | [Me Reencontrar](https://open.spotify.com/track/3wh1nOURrx9LhDZMTk1xiA) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG) | [Me Reencontrar](https://open.spotify.com/album/5nWYamBHJfYJ0BXXBKhszD) | 2:26 | 2022-01-14 |  |
@@ -131,7 +131,7 @@
 | [O Que Fazer](https://open.spotify.com/track/12aZo49DuRM8CtQz0ye9Re) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe), [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7) | [O Que Fazer](https://open.spotify.com/album/0CsZwptuoW0hWUCxZ0GdnV) | 2:51 | 2022-02-18 | 2022-03-05 |
 | [O Que Me Faz?](https://open.spotify.com/track/5hR1g8yO81j6tgSXEeTGau) | [Tributo Ao Tempo](https://open.spotify.com/artist/3yIiGpuO5YzQfzqIPbONbY), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [O Que Me Faz?](https://open.spotify.com/album/26lqAUZY9uGGoye38GIYnP) | 3:45 | 2022-05-20 |  |
 | [O Ritmo do Algoritmo](https://open.spotify.com/track/3S4bzlWq0v0opO2kqw5Z1D) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [O Ritmo do Algoritmo](https://open.spotify.com/album/7i5stT2RY9HmuaBCHf8aox) | 3:40 | 2022-01-14 | 2022-04-23 |
-| [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 | 2022-06-10 |  |
+| [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 | 2022-06-10 | 2022-06-25 |
 | [ousadia](https://open.spotify.com/track/515xHX1Jv1hMDc9XdWp1Hv) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [ousadia](https://open.spotify.com/album/7cvBGkj0PeuIMmJco8zu7J) | 3:09 | 2022-03-11 | 2022-04-02 |
 | [Outono](https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Outono](https://open.spotify.com/album/4cm6Omv3PJEVPQmQmjrNfz) | 4:15 | 2022-01-14 |  |
 | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/track/0YxoElqRCPLeIzWW34DWA5) | [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3) | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/album/33WgImZgWqrsiMiizY1cJ2) | 2:41 | 2022-02-04 |  |
@@ -143,6 +143,7 @@
 | [Por Quem os Sinos Dobram](https://open.spotify.com/track/5IIFSYPhm5CwzFGOVlob6R) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Origens](https://open.spotify.com/album/35puEaRN9d2hF8RpOSVWS8) | 3:34 | 2022-05-20 | 2022-06-11 |
 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 | 2022-01-14 |  |
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 |  |
+| [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 | 2022-06-24 |  |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 |  |
 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 |  |
@@ -156,6 +157,7 @@
 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 |  |
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 | 2022-02-05 |
+| [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 |  |
 | [Sonho Médio](https://open.spotify.com/track/5DyIhtiRFqZMn4MTdgxUT5) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 1](https://open.spotify.com/album/0CecY6LCUP61MGvefKOtdq) | 2:19 | 2022-06-17 |  |
 | [Spoilers](https://open.spotify.com/track/1dvutwpbpitL6z4RzYDygC) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z), [Os Spoilers](https://open.spotify.com/artist/1k6BAtf7c3dMFNOVQxFTAA) | [Spoilers](https://open.spotify.com/album/0JeLSp5jmrzrpjQgO5QJ8D) | 2:49 | 2022-01-14 | 2022-01-29 |
 | [SUCKERPUNCH](https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M) | [Seventeen Sunsets](https://open.spotify.com/artist/6AcY1a52SmTceyc9D5THcT) | [falling down \(falling out\)](https://open.spotify.com/album/5ngaI9j92OqREwOl6QglzT) | 3:45 | 2022-01-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,189 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,211 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 2 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
 | 3 | [Fobia](https://open.spotify.com/track/1KOO2nipJQq4aMF3IHsP2U) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Fobia](https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq) | 3:06 |
 | 4 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 |
-| 5 | [Me Escutar](https://open.spotify.com/track/26dgnXrpQjctV5QNIUsGEt) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Me Escutar](https://open.spotify.com/album/11QUQua6w4c2QgZxWcPzxj) | 2:00 |
+| 5 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 |
 | 6 | [Loser](https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Loser](https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq) | 2:39 |
 | 7 | [Meninas Más](https://open.spotify.com/track/52N4tStHw0W4ghxJJK6pbp) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Meninas Más](https://open.spotify.com/album/58wbbnZvMAKM1aVwT8RME5) | 3:08 |
 | 8 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 |
-| 9 | [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 |
+| 9 | [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 |
 | 10 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
 | 11 | [Sonho Médio](https://open.spotify.com/track/5DyIhtiRFqZMn4MTdgxUT5) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 1](https://open.spotify.com/album/0CecY6LCUP61MGvefKOtdq) | 2:19 |
 | 12 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 |
 | 75 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY1NTQzNDg2MCwwMDAwMDE1ZjAwMDAwMTgxNmY5YjU2NjIwMDAwMDE4MGQ3YzIzNDU5`
+Snapshot ID: `MTY1NjA5ODY0MywwMDAwMDE2MTAwMDAwMTgxOTcyYmRjNjkwMDAwMDE4MGQ3YzIzNDU5`

@@ -98,6 +98,28 @@
     },
     {
       "album": {
+        "name": "2T1BB (feat. Yung Ouzo)",
+        "url": "https://open.spotify.com/album/3sCR3ePqo2k2QKUILGWTRa"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186789,
+      "name": "2T1BB (feat. Yung Ouzo)",
+      "url": "https://open.spotify.com/track/5UueGx6aALmUslrPdWOB9K"
+    },
+    {
+      "album": {
         "name": "50 Kilo",
         "url": "https://open.spotify.com/album/3vaWPm5ofwyFRCGcnknmJF"
       },
@@ -3557,7 +3579,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 126959,
       "name": "G\u00d6NDER GELS\u0130N",
       "url": "https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2"

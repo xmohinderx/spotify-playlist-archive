@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-265 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+267 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-11-10 |  |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2021-11-10 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-02-02 |  |
+| [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2021-11-10 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-11-10 |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-11-10 |  |
@@ -149,6 +150,7 @@
 | [Liquid Dream \- Piano Version](https://open.spotify.com/track/3ISWnR8CHeuUaghZXPbfRa) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [Liquid Dream \- Piano Version](https://open.spotify.com/album/5J3aYIH6tZuEVQuf1Jvl92) | 3:22 | 2021-11-10 |  |
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2021-11-10 |  |
 | [Lost For Words](https://open.spotify.com/track/4sfOO8SiLK78BqfpDYMdGX) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [Lost For Words](https://open.spotify.com/album/16KoakttQ46usBrczdma3Z) | 3:07 | 2021-11-10 |  |
+| [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 | 2022-06-24 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2021-11-10 |  |
 | [Mellow Mountain](https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow Mountain](https://open.spotify.com/album/02JiI8N8HBuoTWwR624r7v) | 3:17 | 2021-11-10 |  |
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2021-11-10 |  |

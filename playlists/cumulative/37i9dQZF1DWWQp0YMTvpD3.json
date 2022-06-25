@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 275510,
       "name": "Alla Prima",
       "url": "https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Cloud Number Five",
+        "url": "https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB"
+      },
+      "artists": [
+        {
+          "name": "Dia Louge",
+          "url": "https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Cloud Number Five",
+      "url": "https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C"
+    },
+    {
+      "album": {
         "name": "Curves",
         "url": "https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj"
       },
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 173575,
       "name": "Fly Hat",
       "url": "https://open.spotify.com/track/1JCcF3m9ljycX3Yd0I8r3S"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 169142,
       "name": "Shades of Purple",
       "url": "https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj"
@@ -3433,10 +3451,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 112641,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6"
+    },
+    {
+      "album": {
+        "name": "Sunset Paradise",
+        "url": "https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T"
+      },
+      "artists": [
+        {
+          "name": "Nino The Dino",
+          "url": "https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Where the sand is",
+      "url": "https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn"
     },
     {
       "album": {

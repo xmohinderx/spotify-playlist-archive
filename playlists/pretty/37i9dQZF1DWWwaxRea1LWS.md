@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Bringing you into the dark 80s Upside Down,  with some of Stranger Things’ Lucas personal picks\. Cover: Caleb McLaughlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079,877 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081,162 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

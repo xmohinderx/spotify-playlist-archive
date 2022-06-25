@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 128444,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/2Vld4tt2tCLlTI86owjykK"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 148586,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4bOqzJLaYv9qZNOWNQgJNm"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 174743,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2jLcPJdLkf2Kw5hEsAy6tZ"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 208840,
       "name": "Hashish de blaa",
       "url": "https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 167832,
       "name": "HET",
       "url": "https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65"
@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 181120,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/1E08Ym6iYOonl5L107Eh5X"
@@ -2275,6 +2275,28 @@
       "duration_ms": 160480,
       "name": "I Wanna Dance with Somebody (feat. The High)",
       "url": "https://open.spotify.com/track/6wa9YlQMYlnur0kdTDgwl8"
+    },
+    {
+      "album": {
+        "name": "I'll Be Gone",
+        "url": "https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9"
+      },
+      "artists": [
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z"
     },
     {
       "album": {
@@ -2477,7 +2499,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 123483,
       "name": "JH5GLIMPI",
       "url": "https://open.spotify.com/track/5sRmrySDs6LREVMmj32QM0"
@@ -2707,7 +2729,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 187214,
       "name": "Life Like This",
       "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
@@ -3756,6 +3778,24 @@
     },
     {
       "album": {
+        "name": "Rakt In",
+        "url": "https://open.spotify.com/album/6IzmBJnkOPwpK3ZNT3LOUl"
+      },
+      "artists": [
+        {
+          "name": "Mange Makers",
+          "url": "https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132538,
+      "name": "Rakt In",
+      "url": "https://open.spotify.com/track/2u8IipnJOEDdDLyLUv3g9c"
+    },
+    {
+      "album": {
         "name": "Rampage (Free Fire Rampage Theme Song)",
         "url": "https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb"
       },
@@ -3899,7 +3939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 126545,
       "name": "Ride Or Die - LIZOT Remix",
       "url": "https://open.spotify.com/track/15p0l0UpbazlOWtSfB4RyT"
@@ -4399,7 +4439,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 139809,
       "name": "SNE",
       "url": "https://open.spotify.com/track/7pgbgIwcoKAzp5n7NXxAUw"
@@ -4605,7 +4645,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Stad i ljus (feat. Oscar Zia)",
       "url": "https://open.spotify.com/track/1k5qjbZeQXh2BSkvnQs44q"
@@ -4725,7 +4765,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 147998,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/634p8hqXIcJUM8D9aId57Y"
@@ -4911,7 +4951,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Svensson Style",
       "url": "https://open.spotify.com/track/6u68dQ1oJYFCX4KOUkrZt0"
@@ -5061,7 +5101,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 148625,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/2HHqmiQsZ3L9nJtdC7BKPm"
@@ -5405,7 +5445,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 189850,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/4ZlDeQReZkKrXrwaBOs8oX"
@@ -5445,7 +5485,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 178812,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
@@ -5731,7 +5771,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 147258,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV"
@@ -5907,7 +5947,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 183588,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4"
@@ -6069,7 +6109,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 131142,
       "name": "World in Your Eyes",
       "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"

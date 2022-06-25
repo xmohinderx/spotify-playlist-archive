@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-172 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+173 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 |  |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-02-18 |  |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2022-02-18 |  |
-| [Amanhã](https://open.spotify.com/track/6dGdz2BG7ZhQz4euJxcfo9) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Amanhã](https://open.spotify.com/album/2hlLndsKhLp6wM30IzwtoA) | 3:16 | 2022-02-18 |  |
+| [Amanhã](https://open.spotify.com/track/6dGdz2BG7ZhQz4euJxcfo9) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Amanhã](https://open.spotify.com/album/2hlLndsKhLp6wM30IzwtoA) | 3:16 | 2022-02-18 | 2022-06-25 |
 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 | 2022-02-18 |  |
 | [Another Wake](https://open.spotify.com/track/0YwgnE2yI600aenbcJdqgq) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 2:18 | 2022-02-18 |  |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2022-02-18 |  |
@@ -82,6 +82,7 @@
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-02-18 |  |
 | [Inner Stratosphere](https://open.spotify.com/track/6OS7UqSSBlawxCDcQQlyJG) | [Cinnamon Glass](https://open.spotify.com/artist/6BzNyyP6Cp3gzqHFZmdeeq) | [Inner Stratosphere](https://open.spotify.com/album/6B5FnLsJz46HFA7RRpLfoh) | 3:15 | 2022-02-18 |  |
 | [Islets](https://open.spotify.com/track/7MH9IXZQ3Ykz3BVg6JpVy5) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Islets](https://open.spotify.com/album/1xs3ykLMsmz9KYiAMTXOjL) | 3:11 | 2022-02-18 |  |
+| [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2022-06-24 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2022-02-18 |  |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-02-18 |  |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2022-02-18 |  |

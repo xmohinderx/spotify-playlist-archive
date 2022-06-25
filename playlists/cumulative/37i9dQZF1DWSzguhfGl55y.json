@@ -168,6 +168,28 @@
     },
     {
       "album": {
+        "name": "Yo, Picasso",
+        "url": "https://open.spotify.com/album/0MLK80rpqaqJYH6EYp0OyH"
+      },
+      "artists": [
+        {
+          "name": "Fatoni",
+          "url": "https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt"
+        },
+        {
+          "name": "Dexter",
+          "url": "https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "Authitenzit\u00e4t",
+      "url": "https://open.spotify.com/track/0TubqhyX2cofKl4ZI8mBHL"
+    },
+    {
+      "album": {
         "name": "#Beste",
         "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
       },
@@ -197,7 +219,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211026,
       "name": "Bis die Sonne rauskommt",
       "url": "https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE"
@@ -273,7 +295,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 322133,
       "name": "Da Draussen",
       "url": "https://open.spotify.com/track/02BwWUWmyuH1hrMBxJVHVp"
@@ -331,7 +353,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 251466,
       "name": "Die Da!?!",
       "url": "https://open.spotify.com/track/1bSYWaCau3CbOUdfkBagGO"
@@ -375,7 +397,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 317977,
       "name": "Dies das",
       "url": "https://open.spotify.com/track/0tb1OZ9wBO6bjy2DgTanNa"
@@ -451,7 +473,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Eines Tages",
       "url": "https://open.spotify.com/track/3PFjIAljdzO7uV1VDtedbU"
@@ -469,7 +491,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 224080,
       "name": "Endboss",
       "url": "https://open.spotify.com/track/2JGloz8S7kkUi57c892mnv"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 266573,
       "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
       "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
@@ -825,7 +847,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 168000,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/1EebWRQAfXwltoDXH2QVK5"
@@ -923,7 +945,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 215933,
       "name": "Mit freundlichen Gr\u00fc\u00dfen",
       "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
@@ -975,7 +997,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 323253,
       "name": "Neuruppin",
       "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
@@ -997,7 +1019,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
@@ -1163,7 +1185,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 230546,
       "name": "Poesie Album",
       "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
@@ -1319,7 +1341,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Stumm (Xenja)",
       "url": "https://open.spotify.com/track/2i7JKHuJsmbVIle3b7rxCx"
@@ -1373,10 +1395,32 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 241973,
       "name": "Urlaub f\u00fcrs Gehirn",
       "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/6dJll3j2Ai1hfOkH866Qf5"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Yasha",
+          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Verstrahlt (feat. Yasha)",
+      "url": "https://open.spotify.com/track/1L3eWOPIr3QP5yRXpYXLao"
     },
     {
       "album": {
@@ -1391,7 +1435,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 301173,
       "name": "Walpurgisnacht",
       "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
@@ -1507,7 +1551,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214293,
       "name": "Zeiten \u00e4ndern dich",
       "url": "https://open.spotify.com/track/5Z4BxkR8AqMlzmrQxhYmSQ"

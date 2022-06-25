@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201601,
       "name": "A Donde Quiero Estar",
       "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 161953,
       "name": "Alcoh\u00f3lica Funcional",
       "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
@@ -476,6 +476,42 @@
     },
     {
       "album": {
+        "name": "Capricho",
+        "url": "https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "Capricho",
+      "url": "https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q"
+    },
+    {
+      "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219822,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
+    },
+    {
+      "album": {
         "name": "CHTM",
         "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
       },
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 177426,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
@@ -661,7 +697,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 194218,
       "name": "Despues De Las 12",
       "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 162178,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH"
@@ -1171,6 +1207,28 @@
       "duration_ms": 150615,
       "name": "Mamixhula",
       "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
+    },
+    {
+      "album": {
+        "name": "Masoquista",
+        "url": "https://open.spotify.com/album/73YWwyUtJaENgk27l5NVCY"
+      },
+      "artists": [
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs"
+        },
+        {
+          "name": "Kyke",
+          "url": "https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210562,
+      "name": "Masoquista",
+      "url": "https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC"
     },
     {
       "album": {
@@ -1931,7 +1989,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183058,
       "name": "Que Te Parece",
       "url": "https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP"
@@ -2087,7 +2145,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 267854,
       "name": "Relatividad",
       "url": "https://open.spotify.com/track/2zkpeuVLL6CrQjzRqc6GUR"
@@ -2109,6 +2167,24 @@
       "duration_ms": 210041,
       "name": "Respira",
       "url": "https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7"
+    },
+    {
+      "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A"
+      },
+      "artists": [
+        {
+          "name": "Lezlie",
+          "url": "https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161981,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"
     },
     {
       "album": {
@@ -2159,7 +2235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 228442,
       "name": "Se Jodi\u00f3",
       "url": "https://open.spotify.com/track/4z7RsNkzKOG3Ki8eUKDnzY"
@@ -2276,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
+    },
+    {
+      "album": {
         "name": "Fosis Met Amor",
         "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
       },
@@ -2309,7 +2403,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 204500,
       "name": "Solo Dime Que S\u00ed",
       "url": "https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa"
@@ -2335,6 +2429,28 @@
       "duration_ms": 202400,
       "name": "Sopa de Letritas",
       "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
+    },
+    {
+      "album": {
+        "name": "Suena Tu Canto",
+        "url": "https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Suena Tu Canto",
+      "url": "https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh"
     },
     {
       "album": {
@@ -2633,7 +2749,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 184285,
       "name": "UwU (Como T\u00fa)",
       "url": "https://open.spotify.com/track/0maqTDdo65Y09Cp1wuHNZM"
@@ -2731,7 +2847,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 140600,
       "name": "Walking Dogs",
       "url": "https://open.spotify.com/track/2CWoyl5VCiVwxuUwfFow8R"
@@ -2811,6 +2927,24 @@
       "duration_ms": 196363,
       "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
       "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor qu\u00e9 se fue?",
+        "url": "https://open.spotify.com/album/5UX921anluxjvfwKu7EiUS"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145233,
+      "name": "\u00bfPor qu\u00e9 se fue?",
+      "url": "https://open.spotify.com/track/4HpNEIfi16VenKhhSRKSeU"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Kim Loaiza
+> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: KAROL G
 
 175 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 

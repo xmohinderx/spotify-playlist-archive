@@ -1,15 +1,15 @@
 {
   "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with James Hype.",
-  "num_followers": 3550684,
+  "num_followers": 3551579,
   "original_name": "Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQ2MCwwMDAwMDE4ZTAwMDAwMTgxNmZkMjQ1MTQwMDAwMDE4MTNlOGNiMDM4",
+  "snapshot_id": "MTY1NjA0MzI2MCwwMDAwMDE4ZjAwMDAwMTgxOTNkZWM4ZTYwMDAwMDE4MTNlOGNiMDM4",
   "tracks": [
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
@@ -85,7 +101,131 @@
       "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 385436,
+      "name": "Running (feat. Meg Myers)",
+      "url": "https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Call Me (with R3HAB & Timmy Trumpet)",
+        "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Call Me (with R3HAB & Timmy Trumpet)",
+      "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
@@ -113,107 +253,7 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Meg Myers",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 385436,
-      "name": "Running (feat. Meg Myers)",
-      "url": "https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Call Me (with R3HAB & Timmy Trumpet)",
-        "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 178309,
-      "name": "Call Me (with R3HAB & Timmy Trumpet)",
-      "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
@@ -233,7 +273,7 @@
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
@@ -297,7 +337,7 @@
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Where Did You Go?",
         "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
@@ -317,7 +357,7 @@
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
@@ -337,7 +377,7 @@
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "WET TENNIS",
         "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
@@ -353,7 +393,7 @@
       "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
@@ -397,7 +437,7 @@
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Human (feat. Echoes)",
         "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0"
@@ -457,7 +497,7 @@
       "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "go (goddard. Remix)",
         "url": "https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv"
@@ -537,7 +577,7 @@
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Don't Forget My Love",
         "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
@@ -557,7 +597,7 @@
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
@@ -573,7 +613,7 @@
       "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "My Heart Goes (La Di Da) (feat. Topic)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
@@ -633,7 +673,7 @@
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -713,7 +753,7 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
@@ -753,7 +793,7 @@
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
@@ -777,7 +817,7 @@
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/78A5G8w0ps7yE4RUZ9EEp2"
@@ -797,7 +837,7 @@
       "url": "https://open.spotify.com/track/5RyJJffcUX3bwEfJRUfUkc"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Shinigami Eyes",
         "url": "https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Fall Into Me (feat. Dylan Matthew)",
         "url": "https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
@@ -853,7 +893,7 @@
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
@@ -873,7 +913,7 @@
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
@@ -893,7 +933,7 @@
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
@@ -917,7 +957,7 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl"
@@ -941,7 +981,7 @@
       "url": "https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
@@ -961,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5"
@@ -977,7 +1017,7 @@
       "url": "https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Rampampam",
         "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
@@ -993,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki"
@@ -1013,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
@@ -1033,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
@@ -1061,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
@@ -1077,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Sun Came Up",
         "url": "https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i"
@@ -1097,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Young Right Now",
         "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
@@ -1117,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "I Wish (feat. Mabel)",
         "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
@@ -1137,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
@@ -1165,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "You Give Me A Feeling",
         "url": "https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12"
@@ -1185,7 +1225,7 @@
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Talk About",
         "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
@@ -1205,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "In Da Getto",
         "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
@@ -1225,7 +1265,7 @@
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Paper Planes",
         "url": "https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4"
@@ -1245,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Black Magic",
         "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
@@ -1261,7 +1301,7 @@
       "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
@@ -1277,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
@@ -1297,7 +1337,7 @@
       "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
@@ -1313,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Love Tonight (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
@@ -1333,7 +1373,7 @@
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
@@ -1353,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
@@ -1373,7 +1413,7 @@
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Let Them Know",
         "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
@@ -1389,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW"
@@ -1405,47 +1445,7 @@
       "url": "https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Sicko Drop",
-        "url": "https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Schillist",
-          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
-        }
-      ],
-      "duration_ms": 147976,
-      "name": "Sicko Drop",
-      "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Close Your Eyes - Spotify Singles",
         "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
@@ -1485,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Impossible (feat. John Martin)",
         "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"

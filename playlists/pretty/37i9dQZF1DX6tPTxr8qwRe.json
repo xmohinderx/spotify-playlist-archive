@@ -1,13 +1,45 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: emlyn",
-  "num_followers": 282223,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Leah Kate",
+  "num_followers": 282295,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDA4ZTAwMDAwMTgxNmZkMzJmNTYwMDAwMDE4MTRiNTBkYTFi",
+  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDA4ZjAwMDAwMTgxOTNkZGRlYjUwMDAwMDE4MTg4ZjY5NGMz",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Twinkle Twinkle Little Bitch",
+        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle Little Bitch",
+      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 179262,
       "name": "temporary funeral",
       "url": "https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "hold the applause",
+        "url": "https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 149230,
+      "name": "hold the applause",
+      "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -41,20 +89,36 @@
       "url": "https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
+      "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "I've Got A Bad Side",
-        "url": "https://open.spotify.com/album/5CY5RFnrmyGMHcp3EWhhFM"
+        "name": "Hot Killer",
+        "url": "https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy"
       },
       "artists": [
         {
-          "name": "ADONA",
-          "url": "https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 168034,
-      "name": "I've Got A Bad Side",
-      "url": "https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM"
+      "duration_ms": 138730,
+      "name": "Hot Killer",
+      "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Angry Woman",
+        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 153002,
+      "name": "Angry Woman",
+      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
     },
     {
       "added_at": "2022-05-20 05:04:53",
@@ -73,20 +137,36 @@
       "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
     },
     {
-      "added_at": "2022-05-27 20:57:32",
+      "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
+      "duration_ms": 186600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "I THINK YOU TURNED ME",
+        "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 132250,
+      "name": "I THINK YOU TURNED ME",
+      "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -103,6 +183,38 @@
       "duration_ms": 137500,
       "name": "Could've Just Left Me Alone",
       "url": "https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I've Got A Bad Side",
+        "url": "https://open.spotify.com/album/5CY5RFnrmyGMHcp3EWhhFM"
+      },
+      "artists": [
+        {
+          "name": "ADONA",
+          "url": "https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ"
+        }
+      ],
+      "duration_ms": 168034,
+      "name": "I've Got A Bad Side",
+      "url": "https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM"
+    },
+    {
+      "added_at": "2022-05-27 20:57:32",
+      "album": {
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -857,22 +969,6 @@
       "url": "https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Found You On The Internet",
-        "url": "https://open.spotify.com/album/3VUlO3W9Ncy8XM7YjsSVxP"
-      },
-      "artists": [
-        {
-          "name": "HAVEN",
-          "url": "https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Found You On The Internet",
-      "url": "https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0"
-    },
-    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Bloodline",
@@ -983,22 +1079,6 @@
       "duration_ms": 199038,
       "name": "Thing of Beauty",
       "url": "https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Hayloft II",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
       "added_at": "2022-02-25 05:00:00",

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-135 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+136 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2021-11-11 |  |
 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 | 2022-04-22 |  |
 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 | 2021-11-11 |  |
+| [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 | 2022-06-24 |  |
 | [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2021-11-11 | 2022-05-14 |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2021-11-11 |  |
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-02-16 |  |

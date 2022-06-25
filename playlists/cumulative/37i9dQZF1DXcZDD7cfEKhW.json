@@ -1544,6 +1544,32 @@
     },
     {
       "album": {
+        "name": "Discoteca (Deorro Remix)",
+        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "Discoteca (Deorro Remix)",
+      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
+    },
+    {
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },

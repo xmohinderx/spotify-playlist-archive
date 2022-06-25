@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 182331,
       "name": "Abu Dhabi",
       "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 215111,
       "name": "Audemars",
       "url": "https://open.spotify.com/track/3doVrLRkbLOBQUosLxiw9S"
@@ -1061,6 +1061,28 @@
       "duration_ms": 148602,
       "name": "Avicii",
       "url": "https://open.spotify.com/track/7c2MzLZB8k59aH2CEIYIMY"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/4bngTiOsS3NEZ7oZZ0oTlU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "Avioane",
+      "url": "https://open.spotify.com/track/03mXnJSw8J9cTugYxiWnrS"
     },
     {
       "album": {
@@ -1837,7 +1859,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -2763,7 +2785,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 159600,
       "name": "CONTACT FATAL",
       "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
@@ -3351,6 +3373,24 @@
       "duration_ms": 221203,
       "name": "DEAD RIGHT NOW",
       "url": "https://open.spotify.com/track/3grVoZ10bm2jUGpo7BxpuF"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Defectul Meu",
+      "url": "https://open.spotify.com/track/23S8qffmiX68DFEoaFXQz6"
     },
     {
       "album": {
@@ -4650,6 +4690,28 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Femeile Mele",
+      "url": "https://open.spotify.com/track/0Y2TXtrBp6ECdY6WyMKcpj"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -5469,6 +5531,32 @@
       "duration_ms": 191958,
       "name": "Grapejuice",
       "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Nutu",
+          "url": "https://open.spotify.com/artist/4XthM4j258MHfNErQh0VdH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141745,
+      "name": "Greu de Ucis",
+      "url": "https://open.spotify.com/track/0A5Rg866S2d9CIz5s4KzvL"
     },
     {
       "album": {
@@ -6414,6 +6502,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Imi Fac Dansul",
+      "url": "https://open.spotify.com/track/4tEj23wI6LX8Mx3skjpNvX"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -6473,7 +6579,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -6622,6 +6728,32 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "NMW Yanni",
+          "url": "https://open.spotify.com/artist/72Xogl9AkYHurmrMyW5NZe"
+        },
+        {
+          "name": "NMW Umberto",
+          "url": "https://open.spotify.com/artist/3DJ2pwk1vqbMC88FZEzgDD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Inimi de Bagabonti",
+      "url": "https://open.spotify.com/track/684zOy7ApVbDMB3DLTM5O1"
+    },
+    {
+      "album": {
         "name": "CORDIAL",
         "url": "https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm"
       },
@@ -6687,7 +6819,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 153000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3sUYXrTxaiX1iZehE4OP6b"
@@ -8636,6 +8768,28 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/0eNEHzEWdGZE8iHqzzbME2"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -9305,7 +9459,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185000,
       "name": "Nefiu",
       "url": "https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c"
@@ -9577,6 +9731,24 @@
       "duration_ms": 177031,
       "name": "Oare",
       "url": "https://open.spotify.com/track/2dAmNhVPH2jaM6pnGCc1Kt"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Ochii Peste Cap",
+      "url": "https://open.spotify.com/track/7hR7oc3ztiZHcjzxCVYaPQ"
     },
     {
       "album": {
@@ -10003,7 +10175,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -10570,6 +10742,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Prea Gagiu",
+      "url": "https://open.spotify.com/track/0Owa67CcizuE3BJSSrUE7i"
+    },
+    {
+      "album": {
         "name": "CORDIAL",
         "url": "https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm"
       },
@@ -10687,7 +10877,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 283176,
       "name": "Prophet",
       "url": "https://open.spotify.com/track/34pl8lSTHPoBvqIPhB10Ev"
@@ -10835,6 +11025,28 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Rava",
+          "url": "https://open.spotify.com/artist/7ex1YGUU10hCnb0Et7fnfl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "R8",
+      "url": "https://open.spotify.com/track/3ebpNleTdiwOScycScPJgH"
     },
     {
       "album": {
@@ -11931,7 +12143,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -12373,7 +12585,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -12835,7 +13047,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 184430,
       "name": "Supertare",
       "url": "https://open.spotify.com/track/3OB4p09aI3QvXreC8WSIfx"
@@ -13141,10 +13353,32 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 139780,
       "name": "Tarabanele",
       "url": "https://open.spotify.com/track/4xd1Qg8JbuxXAc5fJQI5P5"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139780,
+      "name": "Tarabanele",
+      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
     },
     {
       "album": {
@@ -13819,6 +14053,24 @@
       "duration_ms": 308755,
       "name": "TSU",
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165191,
+      "name": "Ture Noaptea",
+      "url": "https://open.spotify.com/track/6v7IZ74mou1UiyQf3dGq9h"
     },
     {
       "album": {
@@ -14755,7 +15007,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

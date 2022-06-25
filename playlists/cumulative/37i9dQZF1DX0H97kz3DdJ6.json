@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214500,
       "name": "Amenizar",
       "url": "https://open.spotify.com/track/2CcBndSk67PNfDZNlP1Lxw"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 237666,
       "name": "Baby Me Liga",
       "url": "https://open.spotify.com/track/6DkGdk9OPZlQc8BCo0Qr1Z"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 171612,
       "name": "Eu Me Odeio Mil Milh\u00f5es",
       "url": "https://open.spotify.com/track/3KxCsY1SZGDnLrFve2CDtE"
@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/1DNyuaNJXGNHOF8iF2nPG3"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167411,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/197guZOTz2ist1ccYRY0JO"
+    },
+    {
+      "album": {
         "name": "Paralelo",
         "url": "https://open.spotify.com/album/47L7kWkSr4lbgFfnAdjgYd"
       },
@@ -1401,6 +1419,28 @@
       "duration_ms": 150909,
       "name": "tempestade",
       "url": "https://open.spotify.com/track/4S6nAoxoOEve9gsTd2Fe4q"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Dif\u00edcil Pra N\u00f3s",
+        "url": "https://open.spotify.com/album/5Qa3CVlRwpLzJTlN6NBxc6"
+      },
+      "artists": [
+        {
+          "name": "Sadstation",
+          "url": "https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h"
+        },
+        {
+          "name": "Edu4rd",
+          "url": "https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "T\u00e3o Dif\u00edcil Pra N\u00f3s",
+      "url": "https://open.spotify.com/track/7wI2dHN8AyuS8zvPnGfS6z"
     },
     {
       "album": {

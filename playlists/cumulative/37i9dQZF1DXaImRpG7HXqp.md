@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-273 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+276 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Chapters](https://open.spotify.com/track/02kxDb12BNImueRyxxfZYs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Chapters](https://open.spotify.com/album/0fqY4NYKhi3DcCpyFPoCDE) | 3:28 | 2021-12-08 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2021-12-08 | 2022-06-10 |
 | [Chiara](https://open.spotify.com/track/2ebDPxcvmDGVyvXeIMnjWk) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:32 | 2021-12-08 |  |
+| [Chinar Es \(Arr\. by João Kouyoumdjian\)](https://open.spotify.com/track/2NIOzaefQJpBxnuMMaI8Om) | [Komitas](https://open.spotify.com/artist/4Yiwp7GT4REEHykKPHSWv3), [João Kouyoumdjian](https://open.spotify.com/artist/097DtxFwNclp8H7VUPsRx1) | [Gakavig Fantasy: Armenian Music Arranged & Composed for Classical Guitar](https://open.spotify.com/album/7gnyqhBCrjcYap8XFfry1D) | 2:57 | 2022-06-24 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-05-27 |  |
 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 | 2021-12-08 |  |
 | [Consuelo](https://open.spotify.com/track/7sLspn56JPVQPEaEcXEK7l) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Whitestone](https://open.spotify.com/album/27s31ruaJOf6k92c8OrVhJ) | 2:41 | 2021-12-08 | 2022-06-10 |
@@ -135,6 +136,7 @@
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
+| [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 |  |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-08 | 2022-06-03 |
@@ -162,6 +164,7 @@
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 |  |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 |  |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 |  |
+| [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 |  |
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 |  |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2021-12-08 |  |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2021-12-08 | 2022-04-22 |

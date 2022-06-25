@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-262 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+266 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Failed the Test](https://open.spotify.com/track/4Qp7Gjxh7G0BlVccDsS0VI) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Failed the Test](https://open.spotify.com/album/4qgKi4Q0d8uSVvf0U1KN4C) | 2:52 | 2021-06-18 | 2021-10-14 |
 | [Fake Luv](https://open.spotify.com/track/25uvOTvWRlClx8dDbIDLUm) | [thankgoditswknd](https://open.spotify.com/artist/67SFFOfdKGX7us81eILLTm) | [Fake Luv](https://open.spotify.com/album/02BYQGthBJbgKsMYrnZtfP) | 1:56 | 2022-05-20 |  |
 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 | 2021-11-10 |  |
+| [Far From Here](https://open.spotify.com/track/217ChWMhQc6TWGBa350i7m) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 1:52 | 2022-06-24 |  |
 | [ficus](https://open.spotify.com/track/2QBsNCb5Ih9bjHtvrsVkef) | [killtino](https://open.spotify.com/artist/3R6MCwWHzfbzkPqBIp4Pyg) | [ficus](https://open.spotify.com/album/7ur1AExkPSE4YsO1Kr4apo) | 2:49 | 2021-09-10 |  |
 | [Filamento](https://open.spotify.com/track/0h17Z7xCj791Q6tYLy9Vt8) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Brizna](https://open.spotify.com/album/5MwVgzNW3j5XmJcIYtGmt6) | 1:38 | 2021-04-26\* | 2022-05-14 |
 | [Final Call](https://open.spotify.com/track/1gyxf3SMn2fTGb1NjAkjCi) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 | 2021-04-26\* | 2022-05-14 |
@@ -113,6 +114,7 @@
 | [Horse Power](https://open.spotify.com/track/5YfxM8YEdO9iC3SFrKgbxn) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Midas Touch](https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE) | 2:40 | 2021-04-26\* | 2021-08-26 |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2021-06-04 | 2021-08-26 |
 | [Hunky](https://open.spotify.com/track/1WG1j4x1MbGDp0Qp8dYmjs) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:57 | 2021-04-26\* | 2022-05-14 |
+| [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [I Can't Quit](https://open.spotify.com/track/7i1hH7B5B00wSvydWeahTN) | [Anno Domini Beats](https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP), [Beats By Dillin](https://open.spotify.com/artist/2uUiUwzgBC8V5OAbNskTrG) | [Beats By Dillin, Vol\. 5](https://open.spotify.com/album/6Pd00u7UkMBkjFzXN5gu3C) | 3:33 | 2022-04-22 |  |
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 | 2021-08-26 |  |
@@ -155,6 +157,7 @@
 | [Monday 7AM](https://open.spotify.com/track/53medhlG5jux2pCprP02h2) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Up & Down](https://open.spotify.com/album/15tBEZCHqURPIvdglYShoD) | 3:14 | 2021-06-04 | 2021-08-26 |
 | [Mono](https://open.spotify.com/track/7H6I12bFL1XSD2NLUthuq8) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Sublime](https://open.spotify.com/album/56pBm2WN9oVK9vAnb3MXX4) | 3:27 | 2021-08-26 | 2021-10-14 |
 | [Moonlight](https://open.spotify.com/track/1ChMnHnidWk1DSCDdsj6EM) | [biasonthebeat](https://open.spotify.com/artist/4jau7k1m1HToVUgZygnwsQ) | [Moonlight](https://open.spotify.com/album/0SgemJayqG1RE7u7Mubpfc) | 2:59 | 2022-04-22 |  |
+| [Mortal Combat](https://open.spotify.com/track/5H7PA4uJFSHXYJMo7nPirq) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 2:48 | 2022-06-24 |  |
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2021-11-10 |  |
 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 | 2021-09-10 |  |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-04-26\* | 2022-05-14 |
@@ -222,6 +225,7 @@
 | [Step on Soil](https://open.spotify.com/track/3bhXsjM1vXQyEmePGDOSeT) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:45 | 2022-06-10 |  |
 | [Stories](https://open.spotify.com/track/3vPR3IuSWlGH7KbdFoY2N6) | [Decto](https://open.spotify.com/artist/7tovP8BnEWcis29zWFlEO9) | [Odyssey](https://open.spotify.com/album/7FE98zZhyJxjZtR4oJVYvr) | 3:04 | 2022-04-08 |  |
 | [Summertimes](https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:44 | 2021-04-26\* |  |
+| [Superhero Theme](https://open.spotify.com/track/2sDSg8rCbar5NAUwjwqZi2) | [Inteus](https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN) | [Superhero Theme](https://open.spotify.com/album/6RZsn0BYGAQ2yBgtsqG5ns) | 2:01 | 2022-06-24 |  |
 | [Sus](https://open.spotify.com/track/16gVNJoxte9CR8Tc16QkjU) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [BROOKLYN](https://open.spotify.com/album/3YSri8vnihJfhMmLohwEhJ) | 1:38 | 2022-04-22 |  |
 | [Sweeping Grounds](https://open.spotify.com/track/2xkdCkb2yZAjvj8YlIF3bs) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Sweeping Grounds](https://open.spotify.com/album/4c9pGOnqLMtXZ3aMgTCNZk) | 2:40 | 2022-05-13 |  |
 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 | 2021-09-10 |  |

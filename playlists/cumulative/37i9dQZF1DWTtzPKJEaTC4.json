@@ -4872,6 +4872,24 @@
     },
     {
       "album": {
+        "name": "WHATUP",
+        "url": "https://open.spotify.com/album/6mPWY9kVPFlpXTtxdwFUuO"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148108,
+      "name": "WHATUP",
+      "url": "https://open.spotify.com/track/7vr9frLcyCM4m6A4KS1sex"
+    },
+    {
+      "album": {
         "name": "Small Groups: 1941-1945",
         "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
       },

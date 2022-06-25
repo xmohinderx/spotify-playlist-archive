@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "it's scary hours...\u26c8 cover: Tamia",
+  "description": "it's scary hours...\u26c8 cover: Miguel",
   "name": "mid:nite storm ",
   "published_playlist_ids": [
     "5JxuVXVwLcumgmoRyl2uUE"
@@ -89,6 +89,24 @@
       "duration_ms": 191173,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/3BdkiVzzAPNAxWFvdGjiEs"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/5nG0fq8CrXrT2PulnMak1I"
     },
     {
       "album": {
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 156943,
       "name": "Coming Down (with Ari Lennox)",
       "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
@@ -529,6 +547,28 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "album": {
+        "name": "Not Tonight EP",
+        "url": "https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Lil' Cease",
+          "url": "https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275946,
+      "name": "Crush on You (feat. Lil' Cease) - Remix",
+      "url": "https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV"
     },
     {
       "album": {
@@ -787,7 +827,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 253965,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0bNAtZ59KgGe9qw0e2uhKf"
@@ -943,7 +983,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 444026,
       "name": "Final Warning (featuring Aaliyah) (feat. Aaliyah)",
       "url": "https://open.spotify.com/track/7A2RieWcxM2VOWY25aU4Qj"
@@ -1350,6 +1390,32 @@
     },
     {
       "album": {
+        "name": "Honey EP",
+        "url": "https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333600,
+      "name": "Honey (feat. Mase & The Lox) - Bad Boy Remix",
+      "url": "https://open.spotify.com/track/4fT89rIpn1BOJh6hvdp3n7"
+    },
+    {
+      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -1585,6 +1651,28 @@
       "duration_ms": 339866,
       "name": "I Used to Love Him (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX"
+    },
+    {
+      "album": {
+        "name": "Ill Na Na",
+        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
     },
     {
       "album": {
@@ -1853,7 +1941,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 162000,
       "name": "Moments Ago",
       "url": "https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P"
@@ -1893,7 +1981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -2013,6 +2101,24 @@
       "duration_ms": 242586,
       "name": "On the Hotline",
       "url": "https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "album": {

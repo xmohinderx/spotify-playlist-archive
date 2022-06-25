@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,845 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,066 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
+| 1 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
 | 2 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
 | 3 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
 | 4 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 35 | [Glimpse](https://open.spotify.com/track/7jUhGHxJ0sR6qZLEIJDHee) | [Dead Soft](https://open.spotify.com/artist/6NayGIgExrNwxUk6MHnMPN) | [Glimpse](https://open.spotify.com/album/5O0iuSsMdJY2vaECjU2NdG) | 2:36 |
 | 36 | [Take Me Away](https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Take Me Away](https://open.spotify.com/album/4bf2plTcwmLaWZqBbSO5oe) | 2:17 |
 | 37 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Ink](https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
-| 38 | [Get on It](https://open.spotify.com/track/2wz3HNHmp5Dh10XDNH06ha) | [Brotherkenzie](https://open.spotify.com/artist/2wy3BoEJGIQdvrkChuNGOS) | [Get on It](https://open.spotify.com/album/3MRjkCRpSB8URlgMsF6Ir2) | 2:04 |
+| 38 | [GET ON IT](https://open.spotify.com/track/2wz3HNHmp5Dh10XDNH06ha) | [Brotherkenzie](https://open.spotify.com/artist/2wy3BoEJGIQdvrkChuNGOS) | [GET ON IT](https://open.spotify.com/album/3MRjkCRpSB8URlgMsF6Ir2) | 2:04 |
 | 39 | [Get My Things & Go](https://open.spotify.com/track/2fJJGcHxMc9nnZ62Ob5thN) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Get My Things & Go](https://open.spotify.com/album/7FMxjnRo3zT6HYprB2lv0H) | 2:50 |
 | 40 | [All That We Are](https://open.spotify.com/track/7rwjvrRERCvxdfB0p7UZ8P) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1) | [Welcome To The Show](https://open.spotify.com/album/0l9XSM566KYzfpjfpVT3pP) | 3:59 |
 | 41 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 53 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 |
 | 54 | [ERROR](https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:57 |
 
-Snapshot ID: `MTY1NjAyMTY2MCwwMDAwMDMyMDAwMDAwMTgxOTI5NTMxZGQwMDAwMDE4MThjMDY2OWU1`
+Snapshot ID: `MTY1NjEwODI1MCwwMDAwMDMyMTAwMDAwMTgxOTdiZTc2MGUwMDAwMDE4MThjMDY2OWU1`

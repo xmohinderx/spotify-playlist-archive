@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/2r3VXU9V3fKvRysjsVy766"
+      },
+      "artists": [
+        {
+          "name": "Reel Mood",
+          "url": "https://open.spotify.com/artist/1O3qb3qngNizhIxjy9hFxO"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP"
+    },
+    {
+      "album": {
         "name": "Addicted to You",
         "url": "https://open.spotify.com/album/6Zqc8k6f22Zh3yEEwmKifP"
       },
@@ -1865,7 +1887,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 209600,
       "name": "HEART ATTACK (feat. lau.ra)",
       "url": "https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr"

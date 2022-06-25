@@ -480,6 +480,32 @@
     },
     {
       "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/6shcZMo2r7iXp5UOeUQ92V"
+      },
+      "artists": [
+        {
+          "name": "Klyn",
+          "url": "https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm"
+        },
+        {
+          "name": "JG",
+          "url": "https://open.spotify.com/artist/4H0H0ZdeSMxAMrYhWHUogD"
+        },
+        {
+          "name": "Savage TV",
+          "url": "https://open.spotify.com/artist/69bnICoeTmnTXMXzR0HV60"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/367RiCIZdYGqD4Ib1j5x1G"
+    },
+    {
+      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/3jqd57ft9JoXiJnIJreNHb"
       },
@@ -603,7 +629,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
@@ -858,6 +884,36 @@
     },
     {
       "album": {
+        "name": "Hugo Boss",
+        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Hugo Boss",
+      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
       },
@@ -1109,7 +1165,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 147740,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/3wKfelws5Mak6BpV8HG0dc"

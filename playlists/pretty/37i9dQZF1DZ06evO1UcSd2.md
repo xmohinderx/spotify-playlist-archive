@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,500 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,542 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 47 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
 | 48 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
 | 49 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 |
-| 50 | [Soy El Eddy](https://open.spotify.com/track/6MwfWNCVXvUYjmVFyy5jeo) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/6Dn0Qlszolwh3AqMMc6vqq) | 4:16 |
+| 50 | [Soy el Eddy](https://open.spotify.com/track/57adcqVBwYVjelcepFTGGJ) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/2zzfiVjLx8NcdPu1lQ3yZB) | 4:16 |
 
-Snapshot ID: `Mjc1OTk5MzAsMDAwMDAwMDA4MzQxMjc3MTljNWI1MjM4Njg4ZTdlZDQ2YWUzYTA0Yw==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDA3MmJmYjRlOTdlOGIyODcxZjQ3ODdiODQxYTkxNzg0Zg==`

@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 168199,
       "name": "Abendruhe",
       "url": "https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 262786,
       "name": "Contreaux n 2",
       "url": "https://open.spotify.com/track/24gu9GaUkYQ4AzezRi0P7Q"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 196330,
       "name": "Happiness Does Not Wait - 2021 Version",
       "url": "https://open.spotify.com/track/6bk5cN36w1yP6OGkzVwdRz"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 326346,
       "name": "Holding on (Eventide)",
       "url": "https://open.spotify.com/track/6rnAwqFxh6XfbhGLbtnoS4"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Loom - Sunrise Session II",
       "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
@@ -1662,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK"
+      },
+      "artists": [
+        {
+          "name": "Las Desorden",
+          "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO"
+    },
+    {
+      "album": {
         "name": "Procyon",
         "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
       },
@@ -1783,6 +1801,24 @@
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "album": {
+        "name": "Senescence",
+        "url": "https://open.spotify.com/album/6HuZbUCZcimxQfPf3xsCTL"
+      },
+      "artists": [
+        {
+          "name": "Anders Schill Paulsen",
+          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142645,
+      "name": "Senescence",
+      "url": "https://open.spotify.com/track/7pQkpJimqzPhaHr0NkUfbN"
     },
     {
       "album": {
@@ -1927,7 +1963,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 108690,
       "name": "S\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
@@ -2137,7 +2173,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Tired Mind",
       "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
@@ -2329,6 +2365,24 @@
       "duration_ms": 233120,
       "name": "You Will Never Walk Alone - Glowworm Rework",
       "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
+    },
+    {
+      "album": {
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7hmlhGsyxU0"

@@ -4,7 +4,7 @@
 
 > 由抑壓到釋放，由自憐到自信，尋覓真愛同時又不忘調情色誘，從藍奕邦近20年創作的字裡行間，找到異類們成為大器之路上所流出的血與汗。
 
-50 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+51 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [因愛之罪名](https://open.spotify.com/track/4O8ZHulJzX2Xsbnk13Cf5Z) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 5:02 | 2022-04-07 | 2022-06-24 |
 | [女神](https://open.spotify.com/track/47MN8iVKji2TUL2DOnXpgJ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:16 | 2022-06-23 |  |
 | [守口如瓶](https://open.spotify.com/track/3rZVW1QkoFmrEeZvV5qhzp) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [仲間](https://open.spotify.com/album/6YVD5g8jj29N54Rx4WdgEY) | 3:23 | 2022-06-23 |  |
+| [密室裡的絲襪](https://open.spotify.com/track/58U5nTp0hgVZ9WOFhahLk4) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [好風光](https://open.spotify.com/album/2olyf0rTeI1FNoU8mSTPAx) | 3:52 | 2022-06-24 |  |
 | [就改天](https://open.spotify.com/track/0DF6ogOpB1CYZF0PlG7WdR) | [Miss Ko](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [皇后區的皇后](https://open.spotify.com/album/0SKfepOzVmrior4EWnZOPe) | 4:52 | 2022-04-07 | 2022-06-24 |
 | [尼斯](https://open.spotify.com/track/0e0mQ0D5oPkGeTOvTWqVfg) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [尼斯](https://open.spotify.com/album/5623cWq9MXmzS6E6YUWxcf) | 4:05 | 2022-06-23 |  |
 | [山下見](https://open.spotify.com/track/6Ac2ZurqwniZr1SjDF7hjK) | [Retroll Hip Hop 重操嘻哈](https://open.spotify.com/artist/7HErCBVlWOcsEp5kDGrDZe) | [山下見](https://open.spotify.com/album/0QYSISifW68Ozh59N93rT6) | 4:05 | 2022-04-07 | 2022-06-24 |

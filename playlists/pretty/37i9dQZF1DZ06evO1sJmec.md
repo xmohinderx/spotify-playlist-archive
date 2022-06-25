@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,672 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,434 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Bleeding Me](https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 8:17 |
 | 50 | [The Shortest Straw](https://open.spotify.com/track/2Aqz0jTeEsS6DZbQYqHRGh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:35 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDA3MWE0MWE3MDhiZmIzMzMxZjQ1MTUyMGY0ODk3YTJkZg==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDAyOWQ1NGYwM2Q3OGZhMWFhMDlkNjUzMzM5NjBlN2MwMw==`

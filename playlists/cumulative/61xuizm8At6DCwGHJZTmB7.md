@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-166 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+168 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2022-04-04 |  |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 |  |
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
+| [Come Lord Jesus \- Live](https://open.spotify.com/track/2iWbZK7IgywTcBzfjOcL9B) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Come Lord Jesus \(Live\)](https://open.spotify.com/album/3c7y1XgJrqgpGPqwhgeCz4) | 13:07 | 2022-06-24 |  |
 | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/track/2Qg5fWJ1z176U0lVH8nY9O) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Come To Jesus \(Rest In Him\)](https://open.spotify.com/album/4YuF1KBGzAG4QKQGlaqlGC) | 4:25 | 2022-05-25 |  |
 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 | 2022-02-17 | 2022-03-16 |
 | [Communion \- Live](https://open.spotify.com/track/66zwB70pTK6JQXGZV65sV3) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 6:20 | 2022-03-15 |  |
@@ -173,6 +174,7 @@
 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 | 2022-02-17 |  |
 | [Wildfire \- Live](https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Housefires VII \(Live\)](https://open.spotify.com/album/2yEbZPmuoM5cXTxZoxpkFC) | 6:20 | 2022-02-17 | 2022-03-16 |
 | [Wouldn't It Be Like You \- Live At TRIBL Night](https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Wouldn’t It Be Like You \(Live At TRIBL Night\)](https://open.spotify.com/album/7hWops1UXOLyD7zNwKFecI) | 6:44 | 2022-02-17 | 2022-05-21 |
+| [Yesterday, Today, And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 | 2022-06-24 |  |
 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 | 2022-04-05 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

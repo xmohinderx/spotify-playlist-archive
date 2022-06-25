@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 70655,
+  "num_followers": 70692,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAyMTUwNywwMDAwMDAwZDAwMDAwMTgwZGZjMjdmZTEwMDAwMDE3ZmIzNTBlMmVk",
+  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDAwZTAwMDAwMTgxOTNkZGRlY2IwMDAwMDE3ZmIzNTBlMmVk",
   "tracks": [
     {
       "added_at": "2022-04-20 20:41:21",
@@ -307,6 +307,22 @@
       "duration_ms": 199923,
       "name": "Weed Instead of Roses",
       "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Tulip Drive",
+        "url": "https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk"
     },
     {
       "added_at": "2022-04-20 20:41:21",

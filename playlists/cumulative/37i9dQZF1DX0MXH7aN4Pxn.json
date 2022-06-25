@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 159184,
       "name": "About You",
       "url": "https://open.spotify.com/track/2dzmO8gQgQQBFchqng9MKx"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 254130,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 182950,
       "name": "Around",
       "url": "https://open.spotify.com/track/6NMWO6rsZIvHadBzveLkQr"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 150704,
       "name": "Baby Boy - Star.One Remix",
       "url": "https://open.spotify.com/track/5bHdPYsiDhc8poXiUVWVbh"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 197419,
       "name": "Better Off Without You (Joel Corry Remix feat. Shift K3Y)",
       "url": "https://open.spotify.com/track/62g4tZ0Co9HWGpxXG8mG5F"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 220490,
       "name": "Calling",
       "url": "https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 202204,
       "name": "Can't You See - Radio Edit",
       "url": "https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF"
@@ -879,10 +879,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 217774,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/4E8A1xYxVFzI1Mb0ayWG0n"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Lonely (feat. Yebba) [Claptone Remix]",
+        "url": "https://open.spotify.com/album/7kDHIbujnNBfCxe0KhYkZ3"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216714,
+      "name": "Don't Leave Me Lonely (feat. Yebba) - Claptone Remix",
+      "url": "https://open.spotify.com/track/6LCsZ8ARrIq0n9nr6gM2ru"
     },
     {
       "album": {
@@ -941,7 +967,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
@@ -1003,7 +1029,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 228612,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7soydniaZqM6zwvwYKE36F"
@@ -1069,7 +1095,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 201415,
       "name": "Estoy Feliz",
       "url": "https://open.spotify.com/track/0fs4ssA0G8S7q1W4QhxOFS"
@@ -1091,7 +1117,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 167102,
       "name": "Every Single Time (with Silky)",
       "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
@@ -1671,7 +1697,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -2695,7 +2721,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Love Me Like",
       "url": "https://open.spotify.com/track/6SuoOshbOUAcRJ6kFsLLfN"
@@ -2981,7 +3007,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 166309,
       "name": "Move (feat. KAMILLE)",
       "url": "https://open.spotify.com/track/0BIVLvVkiWqXN6G94tgSMG"
@@ -3051,7 +3077,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
@@ -3161,7 +3187,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 176626,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/6rWQnz8mMm8iEr8xq1WoAR"
@@ -3201,7 +3227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 179070,
       "name": "New Chic",
       "url": "https://open.spotify.com/track/2Kxm9OKOunznvGkZrNGgL0"
@@ -3355,7 +3381,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 180495,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/0ch3dHZLfhjbGJ2d8KbVA3"
@@ -3713,7 +3739,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 165656,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/13fM4MVYK4T0TpcNxSa9qF"
@@ -3775,7 +3801,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 173104,
       "name": "Rely",
       "url": "https://open.spotify.com/track/2OmwAeV7OLkd6XkzHqVYeG"
@@ -3909,7 +3935,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 168761,
       "name": "Searching",
       "url": "https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ"
@@ -4037,7 +4063,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
@@ -4139,7 +4165,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
@@ -4179,7 +4205,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6glBnAWP0d0jNPeCMfAT3C"
@@ -4259,7 +4285,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 141946,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/588WlnobfkRMN1riVEOA2G"
@@ -4387,7 +4413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 155640,
       "name": "The Chant - Majestic Remix",
       "url": "https://open.spotify.com/track/53uh4ooi1x2Tcp2AdDZ7nq"
@@ -4409,7 +4435,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 146412,
       "name": "The Music",
       "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
@@ -4679,7 +4705,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 144579,
       "name": "Waiting (feat. Pablo Bravas)",
       "url": "https://open.spotify.com/track/6R0y6rfttQZqKmbKI9A2VG"
@@ -4851,7 +4877,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 141875,
       "name": "What's It Gonna Be?",
       "url": "https://open.spotify.com/track/149YPbrwTk0C1FFCnUhsJk"
@@ -5187,7 +5213,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 176718,
       "name": "You Stole My Eyes",
       "url": "https://open.spotify.com/track/3EvWvgZLOZp5tZ3uojSChg"
@@ -5231,7 +5257,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 188500,
       "name": "Yup - Radio Edit",
       "url": "https://open.spotify.com/track/5LJtg2pS5VbWaxKpCH1QQl"

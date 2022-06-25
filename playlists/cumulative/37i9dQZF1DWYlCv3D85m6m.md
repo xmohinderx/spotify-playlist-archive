@@ -2,9 +2,9 @@
 
 ### [This Is TWICE](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m)
 
-> One in a million!
+> One in a million! NAYEON's first solo mini album is here!
 
-101 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
+102 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2022-03-24 |  |
 | [Perfect World](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:02 | 2022-03-24 |  |
 | [PIECES OF LOVE](https://open.spotify.com/track/4xBdYia1CdzUHjguICASZr) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 4:01 | 2022-03-24 |  |
+| [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-24 |  |
 | [PROMISE](https://open.spotify.com/track/3vA8ZdIqvRARF2pVKlnAWD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 4:19 | 2022-03-24 |  |
 | [PUSH & PULL \(JIHYO, SANA, DAHYUN\)](https://open.spotify.com/track/7rY4s8axCW9tQXboPQ46nJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:25 | 2022-03-24 |  |
 | [QUEEN](https://open.spotify.com/track/5SxmB43X7hhvjtNkZ77VN4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:13 | 2022-03-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Las estrellas del mundo urbano seducidas por el Regional Mexicano. Alex Luna, DAAZ & Christian Nodal en portada.",
+  "description": "Las estrellas del mundo urbano seducidas por el Regional Mexicano. Christian Nodal & vf7 en portada.",
   "name": "Flow Tumbado",
   "published_playlist_ids": [
     "5TyDG9DduIJJ2Y3h0GMvYM"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 215092,
       "name": "100 A\u00f1os - Con Calibre 50",
       "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 184213,
       "name": "Aprendiendo A Amar",
       "url": "https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 226186,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34"
@@ -1191,6 +1191,28 @@
       "duration_ms": 170014,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/58WXC3QURdSwYs7SD2aMtB"
+    },
+    {
+      "album": {
+        "name": "Pensar en Ti (Remix)",
+        "url": "https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242553,
+      "name": "Pensar en Ti (Remix)",
+      "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
     },
     {
       "album": {
@@ -1514,6 +1536,28 @@
     },
     {
       "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "album": {
         "name": "Un Tequila",
         "url": "https://open.spotify.com/album/2cH1qVHAkGchJIejSugZjt"
       },
@@ -1559,6 +1603,28 @@
       "duration_ms": 124270,
       "name": "Vivimos Lo Bueno",
       "url": "https://open.spotify.com/track/4MzDvhpsZlzUikAYfuDWLZ"
+    },
+    {
+      "album": {
+        "name": "Ya acab\u00f3 (Con Becky G)",
+        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176458,
+      "name": "Ya acab\u00f3 - Con Becky G",
+      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
       "album": {

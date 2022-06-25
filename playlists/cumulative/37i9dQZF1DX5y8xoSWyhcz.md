@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Cautious Clay
 
-874 songs - 1 day 20 hr 39 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+876 songs - 1 day 20 hr 45 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-05-27 |  |
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2021-12-17 | 2022-04-09 |
 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 | 2022-02-18 | 2022-05-20 |
-| [cruise control](https://open.spotify.com/track/72uh8sdfHtUQcD1asTVOqf) | [Chakky](https://open.spotify.com/artist/6OVdtD62dqKYHBz10L7h5q) | [cruise control](https://open.spotify.com/album/1CsMgEIO593nWdRmCobzL1) | 3:00 | 2022-02-14 |  |
+| [cruise control](https://open.spotify.com/track/72uh8sdfHtUQcD1asTVOqf) | [Chakky](https://open.spotify.com/artist/6OVdtD62dqKYHBz10L7h5q) | [cruise control](https://open.spotify.com/album/1CsMgEIO593nWdRmCobzL1) | 3:00 | 2022-02-14 | 2022-06-25 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 |  |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-01-30 | 2021-02-27 |
 | [crybaby](https://open.spotify.com/track/4HRf7m1LQyUggiOl1YunVc) | [Krash Krinny](https://open.spotify.com/artist/4QIgLYZfUb6UD5kfWjnnXV) | [Boneyard Blues](https://open.spotify.com/album/2uQc5xDcHbdOxsfgbDKNu6) | 3:02 | 2021-02-20 | 2021-03-14 |
@@ -204,6 +204,7 @@
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 |  |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-05-03 | 2021-05-29 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2022-01-07 | 2022-02-12 |
+| [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 | 2022-06-24 |  |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-05-22 |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-02-04 | 2022-03-19 |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-06-05 | 2021-06-27 |
@@ -354,7 +355,7 @@
 | [Hotmail](https://open.spotify.com/track/2MAARIzSi5c1A7XgeG3qX7) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Hotmail](https://open.spotify.com/album/1irlxT7n8Fgh1s93imxOiw) | 3:33 | 2021-07-31 | 2021-08-14 |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-03-27 | 2021-06-12 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
-| [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 |  |
+| [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-23 | 2021-11-13 |
 | [hurts 2 hate somebody](https://open.spotify.com/track/4kogvO1p1DILtlDNyQtIYN) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [hurts 2 hate somebody](https://open.spotify.com/album/1qRPUP3VBOSdZcHfR6VfN8) | 3:03 | 2020-11-07 | 2021-01-23 |
 | [Hurts To Be Young](https://open.spotify.com/track/59DVeWN5Y6PFuMtcUNO8pC) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Hurts To Be Young](https://open.spotify.com/album/3uXIGMV8pW0SlsL4Dwn0aJ) | 3:12 | 2021-05-29 | 2021-06-05 |
@@ -661,6 +662,7 @@
 | [Shady](https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Shady](https://open.spotify.com/album/1ZKO2za2kGt7e1dGOh8nIc) | 2:55 | 2020-11-14 | 2021-01-30 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-16 |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2020-10-29\* | 2021-02-06 |
+| [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-28 | 2021-11-10 |
 | [Shut It Up!](https://open.spotify.com/track/7MvZSYL3SmiaHIXcjfhAvM) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Shut It Up!](https://open.spotify.com/album/0uz9UTudURoUl1B7elaXMw) | 1:52 | 2022-03-11 | 2022-04-02 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-10 |  |

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Amedeo",
+        "url": "https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137747,
+      "name": "Amedeo",
+      "url": "https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9"
+    },
+    {
+      "album": {
         "name": "Touching The Void",
         "url": "https://open.spotify.com/album/755rSJmOkxaIp0XWbyxc6n"
       },

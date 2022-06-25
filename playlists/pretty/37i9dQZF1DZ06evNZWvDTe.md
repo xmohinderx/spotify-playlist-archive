@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,341 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,348 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 29 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
 | 30 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 |
 | 31 | [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 |
-| 32 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 |
+| 32 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 |
 | 33 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 |
 | 34 | [Always on My Mind \(feat\. Obrafour\)](https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:47 |
 | 35 | [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 |
-| 36 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 |
+| 36 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 |
 | 37 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 |
 | 38 | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/track/0jVd212WpucXRGRR6m5Quc) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kelvynboy](https://open.spotify.com/artist/1ILezeIGUwWL0L3UT6vnEF), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/album/76Q4XFRm6azY8a1FzE8Dpw) | 3:50 |
 | 39 | [Jaara \(feat\. Medikal\)](https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 44 | [Angels and Demons](https://open.spotify.com/track/0y0zAsjxaoGvV7HQm3QrwB) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 2:28 |
 | 45 | [Far Away](https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Koredo Bello](https://open.spotify.com/artist/7oF3zto0IUEEL5Jsczcmvd), [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:36 |
 | 46 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 |
-| 47 | [Fa Hooki Me](https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fa Hooki Me](https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ) | 3:06 |
-| 48 | [Bumper](https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bumper](https://open.spotify.com/album/7Cbxz4Z0qDSP4Vgbtajtya) | 2:58 |
+| 47 | [Bumper](https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bumper](https://open.spotify.com/album/7Cbxz4Z0qDSP4Vgbtajtya) | 2:58 |
+| 48 | [Fa Hooki Me](https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fa Hooki Me](https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ) | 3:06 |
 | 49 | [It's My Life](https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [It's My Life](https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud) | 3:45 |
 | 50 | [Love Yourself](https://open.spotify.com/track/5YOvMsGOPTHvRCcctSlVNM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:00 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDAyZjk4YjkwNGQ1YjAyMTk3MzQ2YzVjODljZTlmM2U4ZQ==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDA5YWMwYTM5Y2E2OTliOGUyZjE2YmVjNjkxNDg2MjFhYw==`

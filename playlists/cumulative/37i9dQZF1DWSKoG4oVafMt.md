@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-367 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+369 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Lv](https://open.spotify.com/track/4XvN6Ft0qGBbtRpsQ7ifdY) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:56 | 2022-02-01 | 2022-02-12 |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2021-12-02 | 2022-04-06 |
 | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5YRF192d5rE7xk6cT1H6wN) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/4ohGfpncGicmnQ3gPHeIlt) | 4:20 | 2022-02-15 | 2022-04-06 |
+| [Maahi Ve \- From "Khao Piyo Aish Karo"](https://open.spotify.com/track/43TBtfmutJ3PtoZ1JFYUSU) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maahi Ve \(From "Khao Piyo Aish Karo"\)](https://open.spotify.com/album/2A5hjp8xz9eqX4oo5epl4C) | 2:31 | 2022-06-24 |  |
 | [Mafioso](https://open.spotify.com/track/43LCLweOOR8a3InLT4QVBa) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sonia Aulakh](https://open.spotify.com/artist/1c3PnMjRlyaMpQ6V0sbJ63) | [Mafioso](https://open.spotify.com/album/6CWGvQ8Ug61BApJqQzNDRN) | 2:32 | 2022-03-18 | 2022-04-06 |
 | [Magic](https://open.spotify.com/track/2c1QWruUy84qPY8R2rJubV) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Magic](https://open.spotify.com/album/54Sq4PeS6zeLVQ5jfm0Jv9) | 2:56 | 2022-04-04 | 2022-04-29 |
 | [Magical Love](https://open.spotify.com/track/0O6WqAy44ODPOwqXhNEa2O) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Magical Love](https://open.spotify.com/album/26goyU4KwUGCEVJtrk3NSw) | 3:59 | 2022-01-28 | 2022-02-12 |
@@ -373,6 +374,7 @@
 | [Yenkan](https://open.spotify.com/track/3pGQnLxiD0m7ZoQXGf6FG3) | [Karaj Randhawa](https://open.spotify.com/artist/39HFvmMOlyMJAsfDgaN8y0) | [Shikari](https://open.spotify.com/album/6xo8xhZJuEzeXhNbCCEEzH) | 3:00 | 2022-05-09 | 2022-05-20 |
 | [You N’ I](https://open.spotify.com/track/4hg7dDYEK3Mc1fLVBPbzpl) | [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [You N’ I](https://open.spotify.com/album/4oppIoX5vEptnhXE3VcU3x) | 2:48 | 2022-04-11 | 2022-04-29 |
 | [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 | 2022-01-08 | 2022-04-06 |
+| [Zaruri Nai](https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Zaruri Nai](https://open.spotify.com/album/2ohc2qpaaUPHlLLhxj1q7V) | 2:30 | 2022-06-24 |  |
 | [Zindagi](https://open.spotify.com/track/1IsbvmZLFPfe0P8XCNBtOX) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Zindagi](https://open.spotify.com/album/6FTS94l96Gerr6Yfk9Yqpz) | 2:35 | 2022-03-18 | 2022-04-06 |
 | [Zindagi](https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Zindagi](https://open.spotify.com/album/2I1WtJkNisBQFcWWNrGRLN) | 2:35 | 2022-05-31 |  |
 

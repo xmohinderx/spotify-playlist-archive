@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-161 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+163 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,13 +23,14 @@
 | [Berceuse Andalouse](https://open.spotify.com/track/0iEaYbbs0Py0s8TgwZLpSd) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 2:11 | 2020-10-20\* |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* |  |
 | [Bibo No Aozora](https://open.spotify.com/track/2DPCymMTTu2SbGsPe7wPSU) | [evighet.](https://open.spotify.com/artist/2jv3T5ewJ2FaezIjkWEQQz) | [Bibo No Aozora](https://open.spotify.com/album/03Xgef5UP1nAoXxpvLxwYc) | 3:18 | 2020-10-20\* |  |
+| [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Andrew Panes](https://open.spotify.com/artist/6GNBpeYmCO3UmEAktjn9JC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 |  |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2020-10-20\* |  |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2020-10-20\* |  |
 | [Broken and Beautiful](https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [A Gentle Invitation](https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw) | 3:29 | 2020-10-20\* |  |
 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 | 2020-10-20\* | 2021-10-21 |
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 |  |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2021-01-30 |  |
-| [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2021-04-22 |  |
+| [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2021-04-22 | 2022-06-25 |
 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 | 2021-09-18 |  |
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2021-12-23 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-06-18 |  |
@@ -47,6 +48,7 @@
 | [Echoes \- Stripped](https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 3:39 | 2020-10-20\* | 2021-11-17 |
 | [Elegi For Cello](https://open.spotify.com/track/7dQKHDJim4QKJ1yBJjJHER) | [Elena Falwell](https://open.spotify.com/artist/6UAIuJD5BiwwPfxdsVDXBh) | [Elegi For Cello](https://open.spotify.com/album/4EzVBLVXTaZSv3mmaj7zKB) | 2:43 | 2020-10-20\* |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2020-10-20\* |  |
+| [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 | 2022-06-24 |  |
 | [Enigma Variations: Nimrod](https://open.spotify.com/track/7G26YVx3IowgdA1Fzb58bi) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 3:09 | 2020-10-20\* |  |
 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2020-10-20\* |  |

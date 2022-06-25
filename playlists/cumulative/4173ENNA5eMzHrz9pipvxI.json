@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: DVBBS",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Be With You (with Dubdogz)",
+        "url": "https://open.spotify.com/album/1Ya9IXkQAFmUq5JZHryk6R"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231147,
+      "name": "Be With You (with Dubdogz)",
+      "url": "https://open.spotify.com/track/5DTE1lWuGcmWUIgUROCR8S"
+    },
+    {
+      "album": {
         "name": "Bed (with KSHMR)",
         "url": "https://open.spotify.com/album/2EXPBbrWHILHbqVSZzzO9N"
       },
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 158095,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/6L8m03xqrhwyLZ5ptN28CE"
@@ -151,7 +173,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 189677,
       "name": "Chupa - Sevenn Hybrid Techno Remix",
       "url": "https://open.spotify.com/track/25WOUSnf9Pi6SsmzCZQbtC"
@@ -173,10 +195,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201428,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Stop",
+        "url": "https://open.spotify.com/album/4bpbB90Pa4ysE6HXPRGBmh"
+      },
+      "artists": [
+        {
+          "name": "Modica",
+          "url": "https://open.spotify.com/artist/4JBAp8XqtTAClQNiG3FQzZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/2UQLfwDr9o4T0p9W9l595f"
     },
     {
       "album": {
@@ -217,7 +257,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 141562,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/7CGhmBhly2zi3uonHCJNvy"
@@ -246,6 +286,32 @@
     },
     {
       "album": {
+        "name": "Falling For You (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/6r8enUYxEhVniaJXE6Jr5m"
+      },
+      "artists": [
+        {
+          "name": "Siks",
+          "url": "https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153512,
+      "name": "Falling For You (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/77VDh4qkhreJw2Y5fEA7vO"
+    },
+    {
+      "album": {
         "name": "Feel My Love (feat. Joe Taylor)",
         "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
       },
@@ -265,10 +331,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 172820,
       "name": "Feel My Love (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
+    },
+    {
+      "album": {
+        "name": "Feel My Love (feat. Joe Taylor) [Festival Mix]",
+        "url": "https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Feel My Love (feat. Joe Taylor) - Festival Mix",
+      "url": "https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E"
     },
     {
       "album": {
@@ -356,6 +448,32 @@
     },
     {
       "album": {
+        "name": "Hip Hop (Cheyenne Giles Remix)",
+        "url": "https://open.spotify.com/album/7HLLwqI59c7FbFgpANzjwi"
+      },
+      "artists": [
+        {
+          "name": "Neon Steve",
+          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250476,
+      "name": "Hip Hop - Cheyenne Giles Remix",
+      "url": "https://open.spotify.com/track/4mKNXf9FmBR31z5OExWLTk"
+    },
+    {
+      "album": {
         "name": "I Feel Love",
         "url": "https://open.spotify.com/album/228hFLATGeVTOzseVUg3uV"
       },
@@ -375,10 +493,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 160021,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/3ObNGJI7f3uofM9PY60cFW"
+    },
+    {
+      "album": {
+        "name": "I Feel You",
+        "url": "https://open.spotify.com/album/25jZxmJzHVLyosaY8V5BOZ"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "D-Groov",
+          "url": "https://open.spotify.com/artist/1plmayGv4JinxVkZg17xMp"
+        },
+        {
+          "name": "Galck",
+          "url": "https://open.spotify.com/artist/1DC2PWaBBPDboe4WJeh16b"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/3aqC1Dni0Q52AuUBmQUPWe"
     },
     {
       "album": {
@@ -518,6 +662,36 @@
     },
     {
       "album": {
+        "name": "Keep On Rising (feat. Michelle Shellers) [KVSH & Gancci Remix]",
+        "url": "https://open.spotify.com/album/0QFqKYBN6BqCE7mp6KwYTV"
+      },
+      "artists": [
+        {
+          "name": "Ian Carey",
+          "url": "https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Gancci",
+          "url": "https://open.spotify.com/artist/2uyQkIb1755w342Vf3eFtx"
+        },
+        {
+          "name": "Michelle Shellers",
+          "url": "https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Keep On Rising (feat. Michelle Shellers) [KVSH & Gancci Remix]",
+      "url": "https://open.spotify.com/track/1Cu8A0xpvYNTznkHyMtBOL"
+    },
+    {
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/05QCZJpeL2wMupisZfR7Il"
       },
@@ -540,6 +714,64 @@
     },
     {
       "album": {
+        "name": "Life Like This",
+        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187214,
+      "name": "Life Like This",
+      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
+    },
+    {
+      "album": {
+        "name": "Like Before",
+        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+    },
+    {
+      "album": {
+        "name": "Live For Tonight",
+        "url": "https://open.spotify.com/album/50BDrTs6oCJgQZKExpmbXZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136451,
+      "name": "Live For Tonight",
+      "url": "https://open.spotify.com/track/0mXSF2v4L3C80ZhvWMhtwE"
+    },
+    {
+      "album": {
         "name": "Livin Without Maybes (feat. Gor Sujyan)",
         "url": "https://open.spotify.com/album/77k0fkGfzltD42kZrWROIA"
       },
@@ -555,10 +787,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 216942,
       "name": "Livin Without Maybes (feat. Gor Sujyan)",
       "url": "https://open.spotify.com/track/1uD3wXUK4grtaml6uAywkX"
+    },
+    {
+      "album": {
+        "name": "Lost In My Feelings",
+        "url": "https://open.spotify.com/album/5wYjKRNZ71Bf1s7h9Tb9Np"
+      },
+      "artists": [
+        {
+          "name": "LennyMendy",
+          "url": "https://open.spotify.com/artist/5AH8sDoAuqf0vp9hSex10V"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "Lost In My Feelings",
+      "url": "https://open.spotify.com/track/4vanNayphiMxeC45m1h9CU"
     },
     {
       "album": {
@@ -599,6 +853,68 @@
       "duration_ms": 177096,
       "name": "Lucid - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/23e3Wo1NkyvRpYRfC406HX"
+    },
+    {
+      "album": {
+        "name": "Man In The Moon",
+        "url": "https://open.spotify.com/album/3jBcgU7qG05qaXVPFZ2hQr"
+      },
+      "artists": [
+        {
+          "name": "Hugo Doche",
+          "url": "https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Man In The Moon",
+      "url": "https://open.spotify.com/track/1MCsyzdFdNgPb5I3ZtqryJ"
+    },
+    {
+      "album": {
+        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
+        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
+      },
+      "artists": [
+        {
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215648,
+      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
+      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+    },
+    {
+      "album": {
+        "name": "Mirror Mirror (feat. TELLER)",
+        "url": "https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "TELLER",
+          "url": "https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272646,
+      "name": "Mirror Mirror (feat. TELLER)",
+      "url": "https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA"
     },
     {
       "album": {
@@ -669,7 +985,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 139166,
       "name": "No Love, No Life",
       "url": "https://open.spotify.com/track/5ito7KV8kZzuA7SLFV0oMw"
@@ -807,7 +1123,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 168281,
       "name": "Radio Rockin'",
       "url": "https://open.spotify.com/track/63mpXqIbjHiTx2sZCUjnKV"
@@ -902,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/6mv9mMdXg5hwCYHghC2s2P"
+      },
+      "artists": [
+        {
+          "name": "NYELLA",
+          "url": "https://open.spotify.com/artist/5DL438s5ikD49TBIBQ8ZKF"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241048,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/22DrogYQ3xLnMIvrWh1fJj"
+    },
+    {
+      "album": {
         "name": "SCARS",
         "url": "https://open.spotify.com/album/5Iw6Vei8AjSApCmbsXp5tj"
       },
@@ -917,7 +1251,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 162899,
       "name": "SCARS",
       "url": "https://open.spotify.com/track/2WuYnh05YeOU3LQ9ayWOVh"
@@ -1052,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Telling",
+        "url": "https://open.spotify.com/album/5lelLjF5lfeOjn5TjoAeM6"
+      },
+      "artists": [
+        {
+          "name": "Tineway",
+          "url": "https://open.spotify.com/artist/06pAeCc5gtHxKRnRNPpso4"
+        },
+        {
+          "name": "Ytan",
+          "url": "https://open.spotify.com/artist/3O7AKXgsS7qFR7PQnRJe4b"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Telling",
+      "url": "https://open.spotify.com/track/7icDRzCiGiydoNkjpNBRaG"
+    },
+    {
+      "album": {
         "name": "The Arcade",
         "url": "https://open.spotify.com/album/5bleoWAzFDGpa4Zteq8orQ"
       },
@@ -1067,7 +1423,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 131076,
       "name": "The Arcade",
       "url": "https://open.spotify.com/track/1TTfaunbAky697aZKRCJBH"
@@ -1110,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/4wJfdOVIK5YnrSAWKw5TM4"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168182,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/37WojeNKqWZYDcOhzRsZx2"
+    },
+    {
+      "album": {
         "name": "Trouble So Hard (feat. MELLY OHH)",
         "url": "https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61"
       },
@@ -1125,7 +1499,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 200463,
       "name": "Trouble So Hard (feat. MELLY OHH)",
       "url": "https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV"
@@ -1191,7 +1565,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 182996,
       "name": "We Don\u2019t Need - MistaJam Remix",
       "url": "https://open.spotify.com/track/5Iy8pAEdAJljnpbAMKfKNd"
@@ -1335,6 +1709,24 @@
       "duration_ms": 175500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/6HJ4OjaIGlqvemigb7WzBF"
+    },
+    {
+      "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/7qHQRUBuyy6BDDsvCXld3D"
+      },
+      "artists": [
+        {
+          "name": "Capsm",
+          "url": "https://open.spotify.com/artist/1ye1tViQhcSJN3j7Z5gdsU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223907,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/16DVBIrhbbmFi5Mj56sLIe"
     }
   ],
   "url": "https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI"

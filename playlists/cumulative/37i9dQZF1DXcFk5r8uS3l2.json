@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 185280,
       "name": "Ain't Gotta Worry Child",
       "url": "https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 242990,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
@@ -699,6 +699,24 @@
       "duration_ms": 226454,
       "name": "Fight the Good Fight",
       "url": "https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM"
+    },
+    {
+      "album": {
+        "name": "Hard to Kill",
+        "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "Fireman",
+      "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
     },
     {
       "album": {
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 246453,
       "name": "Harder To Blame",
       "url": "https://open.spotify.com/track/6Qfd1lfuOpHwyyccBXAHH6"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 232346,
       "name": "I Feel A Sin Coming On",
       "url": "https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202933,
       "name": "I Ran Down Every Dream",
       "url": "https://open.spotify.com/track/43UMMNyNRnDao4nqqXz5SL"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 380600,
       "name": "In Every Heart",
       "url": "https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 314608,
       "name": "Jet Black Cadillac",
       "url": "https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF"
@@ -1311,6 +1329,24 @@
       "duration_ms": 230000,
       "name": "King Bee",
       "url": "https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7"
+    },
+    {
+      "album": {
+        "name": "L'hotel Serein",
+        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252363,
+      "name": "L'hotel Serein",
+      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
       "album": {
@@ -1527,7 +1563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 229626,
       "name": "Man On Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
@@ -1707,7 +1743,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 139399,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII"
@@ -2227,7 +2263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 176722,
       "name": "Stranger Blues (feat. Dashawn Hickman)",
       "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
@@ -2389,7 +2425,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 218453,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA"
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 216716,
       "name": "Watch Me Change",
       "url": "https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm"
@@ -2743,7 +2779,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 208362,
       "name": "Why Do I Cry Anymore",
       "url": "https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM"
@@ -2827,7 +2863,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX"

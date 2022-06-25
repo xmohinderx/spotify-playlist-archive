@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,644 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,696 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/3BTYvOdXNu6CEKExO8jX6F) | 4:18 |
-| 2 | [Just](https://open.spotify.com/track/2ERACqZg1bTQjxQ5f44V5O) | [John Park](https://open.spotify.com/artist/68YoHhkUgN6UGJAmU84e3l) | [Begin Again Open MIC EPISODE\. 20](https://open.spotify.com/album/3Jk2DVpsofUEqO3n2jtKA1) | 3:29 |
+| 2 | [Just](https://open.spotify.com/track/2ERACqZg1bTQjxQ5f44V5O) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Begin Again Open MIC EPISODE\. 20](https://open.spotify.com/album/3Jk2DVpsofUEqO3n2jtKA1) | 3:29 |
 | 3 | [Say something](https://open.spotify.com/track/162vlRyHVRWaE0JIIIVCgW) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Begin Again Open MIC EPISODE\. 20](https://open.spotify.com/album/3Jk2DVpsofUEqO3n2jtKA1) | 3:50 |
 | 4 | [IN THE NAME OF LOVE](https://open.spotify.com/track/65jb3iJLY1RjqKi4Gc2rkM) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Begin Again Open MIC EPISODE\. 20](https://open.spotify.com/album/3Jk2DVpsofUEqO3n2jtKA1) | 3:29 |
 | 5 | [Imagine](https://open.spotify.com/track/4HZ6YCDuFapuudcmp1IScD) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Begin Again Open MIC EPISODE\. 19](https://open.spotify.com/album/6VMr6eyRSbYR9C2hcg8fnB) | 3:18 |

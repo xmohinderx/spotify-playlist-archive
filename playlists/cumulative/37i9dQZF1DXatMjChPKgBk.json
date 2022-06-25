@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 238003,
       "name": "Chocolate - Acoustic Version",
       "url": "https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 176539,
       "name": "Crying My Eyes Out",
       "url": "https://open.spotify.com/track/1e6McS5TlhjM3NRJMLfYPr"
@@ -3325,7 +3325,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 282426,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/1BP2TBbe9vLbGfzjxGcIXg"
@@ -3517,7 +3517,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
@@ -4243,7 +4243,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
@@ -4485,7 +4485,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 177093,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1"
@@ -4579,7 +4579,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
@@ -4908,6 +4908,24 @@
     },
     {
       "album": {
+        "name": "Waiting Is A Waste",
+        "url": "https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177980,
+      "name": "Waiting Is A Waste",
+      "url": "https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC"
+    },
+    {
+      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
       },
@@ -5139,7 +5157,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 241720,
       "name": "Words",
       "url": "https://open.spotify.com/track/2dNjHVd9urrtILcZBK70r1"
@@ -5157,7 +5175,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 213066,
       "name": "Worldstop",
       "url": "https://open.spotify.com/track/2x2sIzphml58Tkb6IN6FEA"

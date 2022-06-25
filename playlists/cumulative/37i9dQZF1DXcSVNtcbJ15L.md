@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-64 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+66 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 | 2022-04-29 |  |
 | [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 | 2022-04-29 |  |
 | [BECKSTAR](https://open.spotify.com/track/7yqLFVLpu9i41mQvMkQNUv) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BECKSTAR](https://open.spotify.com/album/38m3QTMDvnfTMz12tAZmBa) | 2:21 | 2022-04-29 |  |
-| [Com Você](https://open.spotify.com/track/1DpeR4mARvKqjLakvmISxa) | [Clarê](https://open.spotify.com/artist/3tCje10vtuMxVbrL64EsMF) | [Com Você](https://open.spotify.com/album/4cWeVMCz1c5n7kVS0nzEgp) | 3:03 | 2022-04-29 |  |
+| [Com Você](https://open.spotify.com/track/1DpeR4mARvKqjLakvmISxa) | [Clarê](https://open.spotify.com/artist/3tCje10vtuMxVbrL64EsMF) | [Com Você](https://open.spotify.com/album/4cWeVMCz1c5n7kVS0nzEgp) | 3:03 | 2022-04-29 | 2022-06-25 |
 | [Como Se Fosse a Primeira Vez](https://open.spotify.com/track/7feU3MT0RImQ1pC2DJHbCw) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Como Se Fosse a Primeira Vez](https://open.spotify.com/album/0y13SIfG3kpyhMJWx01kYK) | 2:16 | 2022-04-29 |  |
 | [Copacabana](https://open.spotify.com/track/2tyvnpNAEWSH7ZMLxDwnFV) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Copacabana](https://open.spotify.com/album/059xp13b7fffD12Rdc2XDs) | 2:23 | 2022-04-29 |  |
 | [Coquinha de Café](https://open.spotify.com/track/2wKsVwVQzc9tp9zdNRmwB1) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Guilherme Galeno](https://open.spotify.com/artist/31aLhhJNZBcilYlPCXxdGv) | [Coquinha de Café](https://open.spotify.com/album/3HQ8wBouWUkLeljTZLKmtO) | 3:22 | 2022-04-29 |  |
@@ -35,6 +35,7 @@
 | [Liga pra Mim](https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma) | [Liga pra Mim](https://open.spotify.com/album/4kJq6ltzbq9VJw0Bwgq32O) | 2:42 | 2022-04-29 |  |
 | [Luzes da Cidade](https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luzes da Cidade](https://open.spotify.com/album/2be4Abf3oT5rIfeNvcINIX) | 2:30 | 2022-05-27 |  |
 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 | 2022-04-29 |  |
+| [Matcha](https://open.spotify.com/track/6ngy530qeyAJ78ucSAtM7c) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Matcha](https://open.spotify.com/album/1ez2X9giPDe7IWaDjndNbH) | 2:49 | 2022-06-24 |  |
 | [Me Tira O Sossego](https://open.spotify.com/track/2os0PZg85oglHfJtBfpz6t) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1) | [Me Tira O Sossego](https://open.spotify.com/album/2es0GKloxQo0T6EOQtwBF2) | 2:44 | 2022-04-29 |  |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-04-29 |  |
 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 | 2022-04-29 |  |
@@ -67,6 +68,7 @@
 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 | 2022-04-29 |  |
 | [Terça de Tarde](https://open.spotify.com/track/2XyHmHCOvNogoRiWBA1L1I) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde](https://open.spotify.com/album/0hEmoFuvmyY7UOTUElgLmu) | 1:49 | 2022-04-29 |  |
 | [Terça de Tarde 2](https://open.spotify.com/track/3MlMMabvVmUVrAGHekqAOn) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde 2](https://open.spotify.com/album/7y3db4Z73wTyMTCacTcUtL) | 2:16 | 2022-04-29 |  |
+| [Tão Sem Graça!](https://open.spotify.com/track/28JOaLfd5WnRPlT4dNDgCz) | [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [O Amor Me Deixa...](https://open.spotify.com/album/1QIzh4aquIHhjljm06jqUr) | 2:11 | 2022-06-24 |  |
 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 | 2022-04-29 |  |
 | [VERÃO DA LATA](https://open.spotify.com/track/4wUmnHlr4iogXJJEinjX5q) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [VERÃO DA LATA](https://open.spotify.com/album/5cgpuZRjShzDMoHav6aT7X) | 2:12 | 2022-04-29 |  |
 | [Viajei \(Céu Azul\)](https://open.spotify.com/track/1v8d01YpILuG1zEbjoYVBl) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Viajei \(Céu Azul\)](https://open.spotify.com/album/5FvBLrkA6aphReFKdbeIMz) | 1:56 | 2022-04-29 |  |

@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 264466,
       "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 257075,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/2IyEK9FhWzs3zYqHDPtuYW"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044?",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 205478,
       "name": "\u308f\u305f\u3057\u306eLife",
       "url": "https://open.spotify.com/track/3aFQiQbnIL9upNOOKc54tN"
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 228900,
       "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"
@@ -2419,6 +2419,24 @@
       "duration_ms": 249079,
       "name": "\u5973\u3001\u6df1\u591c\u306e\u9eba\u5c4b\u306b\u3066",
       "url": "https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV"
+    },
+    {
+      "album": {
+        "name": "\u5c11\u3057\u6ce3\u304f",
+        "url": "https://open.spotify.com/album/5ybAA6CJFxuDRZLmJEoB5D"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311100,
+      "name": "\u5c11\u3057\u6ce3\u304f",
+      "url": "https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8"
     },
     {
       "album": {

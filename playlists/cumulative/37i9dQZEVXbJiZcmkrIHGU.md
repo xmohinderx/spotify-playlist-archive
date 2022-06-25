@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,094 songs - 2 day 6 hr 49 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,095 songs - 2 day 6 hr 52 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,7 +918,7 @@
 | [Sterne](https://open.spotify.com/track/2u6bOElAumW6DiNbOv69we) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Sterne](https://open.spotify.com/album/5koMDAqkq4ZgR43myw4B8K) | 3:00 | 2021-09-12 | 2021-09-14 |
 | [Sterne unterm Dach](https://open.spotify.com/track/0Gj6aUE3y9Pcjm9Lr3IcH9) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Sterne unterm Dach](https://open.spotify.com/album/67ZVpfdHvk7v0ti7lQ5Y8w) | 3:05 | 2021-09-12 | 2021-09-19 |
 | [Sterne unterm Dach](https://open.spotify.com/track/1edUWAS1x66v10yguQ6qkO) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Sterne unterm Dach](https://open.spotify.com/album/79buLixbJhOcdu11no49SE) | 3:05 | 2021-09-19 | 2021-10-10 |
-| [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 |  |
+| [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-25 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-02-15 | 2022-03-01 |
 | [STILLE](https://open.spotify.com/track/5yM7wZmgKUwsFg5OdOohYf) | [Genetikk](https://open.spotify.com/artist/41LLNWUptvfbQ9Q7oCefmg), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [STILLE](https://open.spotify.com/album/4u9HExBYY5qnFptD29EjMv) | 3:13 | 2021-12-18 | 2021-12-19 |
 | [STIMMEN](https://open.spotify.com/track/60XfOcNsPZt5H7gwq3mxXv) | [Musso](https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ) | [STIMMEN](https://open.spotify.com/album/28kPPyIIUJBOD6M711dXZG) | 2:46 | 2021-11-14 | 2021-11-14 |
@@ -926,6 +926,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [Strassengeschichten](https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Strassengeschichten](https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F) | 2:46 | 2022-01-22 | 2022-01-30 |
 | [Suche nach mehr](https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Suche nach mehr](https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA) | 2:36 | 2021-07-18 | 2021-07-19 |
+| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-24 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-18 | 2022-05-18 |
 | [Super Soaker \(feat\. Joshi Mizu\)](https://open.spotify.com/track/31KExRv5Wk7kBGhBJ9Kaxb) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [Super Soaker \(feat\. Joshi Mizu\)](https://open.spotify.com/album/4rewu82WK6OEgB62dVrzdc) | 2:30 | 2022-06-11 | 2022-06-13 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-16 | 2022-06-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Indie music antimatter. Cover: Bakar",
+  "description": "Indie music antimatter. Cover: Groupthink",
   "name": "anti pop",
   "published_playlist_ids": [
     "6mIA8qAabkwc8qms18iOYE"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 135000,
       "name": "11:45 in Nolita",
       "url": "https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB"
@@ -233,6 +233,24 @@
       "duration_ms": 181699,
       "name": "99",
       "url": "https://open.spotify.com/track/0tSODck0WpgVJH29GTNpp8"
+    },
+    {
+      "album": {
+        "name": "99' pollen",
+        "url": "https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191627,
+      "name": "99' pollen",
+      "url": "https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY"
     },
     {
       "album": {
@@ -1106,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152230,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
+    },
+    {
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1972,6 +2008,28 @@
     },
     {
       "album": {
+        "name": "BOLD Willow Tree",
+        "url": "https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV"
+      },
+      "artists": [
+        {
+          "name": "Meech",
+          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
+        },
+        {
+          "name": "SAINT LYOR",
+          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216576,
+      "name": "BOLD Willow Tree",
+      "url": "https://open.spotify.com/track/5rPPJNrsX05TaWrvKPusB2"
+    },
+    {
+      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -2473,7 +2531,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 143360,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE"
@@ -3546,6 +3604,28 @@
     },
     {
       "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
         "name": "CRASH COURSE",
         "url": "https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ"
       },
@@ -4115,7 +4195,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 156466,
       "name": "Dirty Pillow",
       "url": "https://open.spotify.com/track/4nyrnbpzTMyP1kfxydwjRV"
@@ -4299,7 +4379,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 152475,
       "name": "Don't Like U",
       "url": "https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz"
@@ -6613,7 +6693,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
@@ -8255,7 +8335,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 175180,
       "name": "In Situ",
       "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
@@ -12376,6 +12456,24 @@
     },
     {
       "album": {
+        "name": "Cloud Paint",
+        "url": "https://open.spotify.com/album/3ihhpCQwkkson9Lz3NQ6OI"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199299,
+      "name": "Pelican Freestyle",
+      "url": "https://open.spotify.com/track/6sNfqqGpSImTscoZNrsCBe"
+    },
+    {
+      "album": {
         "name": "peppermint",
         "url": "https://open.spotify.com/album/0lY0zMy831JbNwgM1wv2rK"
       },
@@ -12497,6 +12595,28 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ"
+    },
+    {
+      "album": {
+        "name": "JUST MY LUCK",
+        "url": "https://open.spotify.com/album/71PRKOPWHQpHkIZim7bE99"
+      },
+      "artists": [
+        {
+          "name": "dev soter",
+          "url": "https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy"
+        },
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "PILOT",
+      "url": "https://open.spotify.com/track/6p2RUPU8EUHfdNq4hnGX0B"
     },
     {
       "album": {
@@ -13051,7 +13171,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 177439,
       "name": "Pure Androgyny",
       "url": "https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r"
@@ -14217,6 +14337,24 @@
       "duration_ms": 213053,
       "name": "Set it on Fire",
       "url": "https://open.spotify.com/track/0OSFDCHge2YXQb6045oIfi"
+    },
+    {
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163909,
+      "name": "Sex Is A Sport",
+      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
     },
     {
       "album": {
@@ -16975,7 +17113,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 131412,
       "name": "TIME OF DAY",
       "url": "https://open.spotify.com/track/3pQy3FYvbkXQonhmR0TAf6"
@@ -17870,6 +18008,24 @@
     },
     {
       "album": {
+        "name": "VIII. Handle It",
+        "url": "https://open.spotify.com/album/5gQhsCFCKvNpWwXnReYMOV"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "VIII. Handle It",
+      "url": "https://open.spotify.com/track/3dCEeEnpGK4IdYTEvpWyRp"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous Me To...",
         "url": "https://open.spotify.com/album/5FWK6nPo20qWr9OAaRyqhk"
       },
@@ -18587,6 +18743,24 @@
       "duration_ms": 152000,
       "name": "Wrong with u",
       "url": "https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105779,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Gostosinho Tu Cai e os funks mais 🔑 do Brasil\. Foto: MC Pepeu, DJ Swat
+> Baile No Morro e os funks mais 🔑 do Brasil\. Foto: MC Tairon, Mc Vitin da Igrejinha
 
 90 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 

@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Lou Phelps
+> La crème de la crème of Montréal's music scene\. Photo: Marci
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,119 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,165 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ce n'est que de l'eau](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Ce n'est que de l'eau](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 |
-| 2 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 |
+| 1 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 |
+| 2 | [Ce n'est que de l'eau](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Ce n'est que de l'eau](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 |
 | 3 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 |
-| 4 | [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 |
+| 4 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 |
 | 5 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 |
-| 6 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 |
-| 7 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 |
-| 8 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
-| 9 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 |
-| 10 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 |
-| 11 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:57 |
-| 12 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 |
-| 13 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 |
-| 14 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 |
-| 15 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 |
+| 6 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
+| 7 | [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 |
+| 8 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 |
+| 9 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:57 |
+| 10 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 |
+| 11 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 |
+| 12 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 |
+| 13 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 |
+| 14 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 |
+| 15 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 |
 | 16 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 |
 | 17 | [Boca Chica \- Bon Voyage Version](https://open.spotify.com/track/3VMYiD1rXYi6UScWqCBWND) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Bon Voyage](https://open.spotify.com/album/24pk86x4quyve0rILcnBPt) | 3:18 |
 | 18 | [Jaune](https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z) | [Baladeur](https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST) | [Jaune](https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [East Angus 1998](https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN) | [Lizzy & the Fanatics](https://open.spotify.com/artist/7l4sVkNSc4v6058rs4GnJr) | [East Angus 1998](https://open.spotify.com/album/7JsmNAXZRIncXqlvu1qkZx) | 3:54 |
 | 100 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 |
 
-Snapshot ID: `MTY1NTQ4MTA5MiwwMDAwMDFmZTAwMDAwMTgxNzI1Y2NhZWUwMDAwMDE4MTY4YzliZTc2`
+Snapshot ID: `MTY1NjA0MzIwMCwwMDAwMDFmZjAwMDAwMTgxOTNkZGRlZGYwMDAwMDE4MTkyY2NlOTI2`

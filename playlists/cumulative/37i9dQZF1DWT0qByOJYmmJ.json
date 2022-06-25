@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+    },
+    {
+      "album": {
         "name": "Aroma a Nostalgia",
         "url": "https://open.spotify.com/album/0aFc2irUha46ey5dF7tXKy"
       },
@@ -601,7 +619,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 158500,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/5KUTr1CV83xYKzHOBAOGEr"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 199930,
       "name": "F\u00fagate",
       "url": "https://open.spotify.com/track/5Dxa6WHmUO66ZTnsPuB5tv"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 217466,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 177450,
       "name": "La Vida Nos Hizo En Pares",
       "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
@@ -1128,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
+      "album": {
         "name": "Lo Que Sol\u00edamos Ser",
         "url": "https://open.spotify.com/album/63mnX0i7TXaoderNVMGVUj"
       },
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 216192,
       "name": "L\u00e1grimas y Lluvia",
       "url": "https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf"
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 268160,
       "name": "ni\u00f1o,",
       "url": "https://open.spotify.com/track/3q5nnXfQNGbQARV5vC86Fw"
@@ -1393,7 +1429,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 193654,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
@@ -1535,10 +1571,36 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/40DH5E7Qxv3Z2hDcvyf1kw"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        },
+        {
+          "name": "Edoardo Leds",
+          "url": "https://open.spotify.com/artist/5z2v7F21UQXrFvKjrvXOqf"
+        },
+        {
+          "name": "Champ Jr.",
+          "url": "https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195780,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1gV85meLWo6kDR78DhVl9p"
     },
     {
       "album": {
@@ -1691,7 +1753,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
@@ -1713,7 +1775,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 177818,
       "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
       "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
@@ -1767,7 +1829,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 189885,
       "name": "QUN",
       "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
@@ -1789,6 +1851,28 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
+        "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        },
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
+      "url": "https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb"
     },
     {
       "album": {
@@ -1825,7 +1909,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 245783,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7"
@@ -1883,7 +1967,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
@@ -1923,6 +2007,24 @@
       "duration_ms": 251433,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
+    },
+    {
+      "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
     },
     {
       "album": {
@@ -2071,7 +2173,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"

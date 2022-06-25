@@ -1,13 +1,61 @@
 {
-  "description": "It's summer so it's Surfaces, obvs",
-  "num_followers": 194945,
+  "description": "make it pop! cover: Dhruv",
+  "num_followers": 195042,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDBhZDAwMDAwMTgxNmZkMzJmNDYwMDAwMDE4MTRhYjEyMDIw",
+  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDBhZTAwMDAwMTgxOTNkZGRlZGEwMDAwMDE4MThjODBmZDc0",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 148865,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/6VZXTCIXbgypt0erc2U1Uk"
+    },
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
@@ -23,6 +71,126 @@
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Hang Around",
+        "url": "https://open.spotify.com/album/0MvIJlGFttUP85ySMqpJbq"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Hang Around",
+      "url": "https://open.spotify.com/track/7daRchta9Ken9nB9WcLt2s"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 226937,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY"
+        }
+      ],
+      "duration_ms": 105779,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "The Band CAMINO",
+        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182658,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "not this time",
+        "url": "https://open.spotify.com/album/7j3N8YpNnd3wheFpNoJVmy"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "duration_ms": 158009,
+      "name": "not this time",
+      "url": "https://open.spotify.com/track/5zaDIJxDKZouDM7jP6hwIb"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -55,22 +223,6 @@
       "duration_ms": 136940,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "I Think I Like You",
-      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -123,22 +275,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Dry Spell",
         "url": "https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK"
       },
@@ -151,6 +287,22 @@
       "duration_ms": 207427,
       "name": "Dry Spell",
       "url": "https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -347,22 +499,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Chelsea's Coming Over",
         "url": "https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql"
       },
@@ -507,22 +643,6 @@
       "duration_ms": 202386,
       "name": "OLDER",
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Leap of Faith",
-        "url": "https://open.spotify.com/album/2ABlekgQfB52vzJv4ZSBDz"
-      },
-      "artists": [
-        {
-          "name": "Alex Alexander",
-          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/4qgEdEx2VbNCXQOsV9Qem7"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -775,18 +895,18 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/75F9DShI8jtDKXmvYP1kl3"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+      "duration_ms": 162987,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/7y9EejfRa4hJihEO70QOIV"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -819,22 +939,6 @@
       "duration_ms": 173218,
       "name": "sunburn",
       "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Pity Party",
-        "url": "https://open.spotify.com/album/75F9DShI8jtDKXmvYP1kl3"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 162987,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/7y9EejfRa4hJihEO70QOIV"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -903,38 +1007,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "all about you!",
-        "url": "https://open.spotify.com/album/5qn8Sux7IeHARBSgFDeLpr"
-      },
-      "artists": [
-        {
-          "name": "Pacific",
-          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
-        }
-      ],
-      "duration_ms": 266527,
-      "name": "all about you!",
-      "url": "https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "WHO HURT YOU?",
-        "url": "https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p"
-      },
-      "artists": [
-        {
-          "name": "Benicio Bryant",
-          "url": "https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC"
-        }
-      ],
-      "duration_ms": 142535,
-      "name": "WHO HURT YOU?",
-      "url": "https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "hate my favorite band",
         "url": "https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE"
       },
@@ -947,22 +1019,6 @@
       "duration_ms": 174033,
       "name": "hate my favorite band",
       "url": "https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 150756,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -983,26 +1039,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "It Doesn\u2019t Matter (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/6otl8UZ12KSpqHz9DP4SVL"
-      },
-      "artists": [
-        {
-          "name": "Jack Cullen",
-          "url": "https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 148132,
-      "name": "It Doesn\u2019t Matter (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4F7OOfDDI5ps49NiNS1nNY"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob"
       },
@@ -1015,22 +1051,6 @@
       "duration_ms": 165773,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Potion",
-        "url": "https://open.spotify.com/album/124qyryekaVBZATC3KjQHv"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Potion",
-      "url": "https://open.spotify.com/track/5MRvyJZtnXXTuWfEUIkSAS"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1063,26 +1083,6 @@
       "duration_ms": 155840,
       "name": "That's What Makes Me Love You",
       "url": "https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Imaginary Friends",
-        "url": "https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Hey Violet",
-          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
-        }
-      ],
-      "duration_ms": 172971,
-      "name": "Imaginary Friends",
-      "url": "https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8"
     },
     {
       "added_at": "2022-06-10 04:00:00",

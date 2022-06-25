@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-217 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+218 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-11-12 |  |
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2021-11-12 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-11-12 |  |
+| [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2022-06-24 |  |
 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 2:34 | 2021-11-12 |  |
 | [Head & Heart](https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Head & Heart](https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG) | 2:47 | 2021-11-12 |  |
 | [Heart of Gold \(615 Sessions\)](https://open.spotify.com/track/13G8xlZ1lAJkrIBGdMzlMy) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Heart of Gold \(615 Sessions\)](https://open.spotify.com/album/05LaBjh9C5CuaYhG9NGbEm) | 1:45 | 2021-11-12 |  |
@@ -133,7 +134,7 @@
 | [Losing My Religion \(Cover\)](https://open.spotify.com/track/1wJNpWv8GbyEVAxoxlf3gT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:43 | 2021-11-12 |  |
 | [Lost in the Light](https://open.spotify.com/track/0bgqXYJld8cSkAW72VfVDM) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Covers](https://open.spotify.com/album/3kFjHkhnVGtpmCSB4rOO4z) | 4:34 | 2021-11-12 |  |
 | [Love Hurts](https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Covers](https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV) | 3:16 | 2021-11-12 |  |
-| [Love Song to a Stranger](https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Love Song to a Stranger](https://open.spotify.com/album/4hr2AtZvyXNmtmzr5g1YdY) | 4:28 | 2021-11-12 |  |
+| [Love Song to a Stranger](https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Love Song to a Stranger](https://open.spotify.com/album/4hr2AtZvyXNmtmzr5g1YdY) | 4:28 | 2021-11-12 | 2022-06-25 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/4z7LkcJsYe8AaZXI3TWOHT) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [Love Will Tear Us Apart](https://open.spotify.com/album/1v2BVhOLte39KIo0TfOm5E) | 3:43 | 2021-11-12 | 2022-01-06 |
 | [Love Yourself, Out of the Woods, Roses \- Acoustic Mashup](https://open.spotify.com/track/1rNuKbtlRfq7DBeLBSzrmz) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Love Yourself, Out of the Woods, Roses \(Acoustic Mashup\)](https://open.spotify.com/album/2LwXhrAYh4viJKQcJUi9Be) | 3:57 | 2021-11-12 |  |
 | [Lover](https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Lover](https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj) | 2:43 | 2021-11-12 |  |

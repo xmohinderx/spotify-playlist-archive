@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-234 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+237 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Buena Vista \- Chill Club mix](https://open.spotify.com/track/3eocMql9ADDvLHChY8AYE1) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/5X8f43K30RXxQSHson7met) | 4:57 | 2021-08-10 | 2022-03-17 |
 | [Bó mù](https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6) | [SHÚ\-DÀO](https://open.spotify.com/artist/2pK7SnKX2ZCMVWU7ulHSWP) | [Yin Garden](https://open.spotify.com/album/1oOykGqWPNtuAygrvvCvfw) | 3:12 | 2021-08-10 | 2022-03-17 |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-03-16 |  |
+| [Cerebrum](https://open.spotify.com/track/1JGKFXOPgY1fiMU1OcZsUS) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Cerebrum](https://open.spotify.com/album/0hRPwJ4UeSMAAvGKcvONlG) | 2:13 | 2022-06-24 |  |
 | [Cinta Perdida 3](https://open.spotify.com/track/4S3kIY4rMzRfDf8Ida8Nly) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:16 | 2022-03-16 |  |
 | [Clear Sky](https://open.spotify.com/track/3rvNNaoCyHMQpTxvaPM2ko) | [Sunscreen](https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2) | [Sunbed Chill Out \(Best Of 2014\-2016\)](https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R) | 5:53 | 2022-01-12 | 2022-03-03 |
 | [Clementine](https://open.spotify.com/track/7ebe1xN7k4WLIP6ERROxEB) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Clementine](https://open.spotify.com/album/4bNYz34i2RM9VRcQjPwQ8v) | 2:55 | 2022-03-16 | 2022-05-20 |
@@ -116,6 +117,7 @@
 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 | 2022-03-16 |  |
 | [Jellyfish](https://open.spotify.com/track/7vYcLw0KYqkmOSbf2ZJjIQ) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Jellyfish](https://open.spotify.com/album/2iNZBRvSIHxPVCsgdv8CYS) | 3:33 | 2022-03-16 |  |
 | [Jenny's Song](https://open.spotify.com/track/3ilIWRIvIgFJR90O7oqoL1) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Electric Love Chill](https://open.spotify.com/album/0KusiX6m9geP5PGvoFxlIc) | 3:06 | 2022-01-12 | 2022-01-24 |
+| [Jim Bell](https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Aso EP](https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U) | 3:28 | 2022-06-24 |  |
 | [Kakau](https://open.spotify.com/track/5arMNfAdDTkzRVNiAS7BIm) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Kakau](https://open.spotify.com/album/1NUrfXS7FNW2vC90xs3IhT) | 2:31 | 2022-06-17 |  |
 | [Keep On Shining, Keep On Moving \- Ambient Mix](https://open.spotify.com/track/3Tvu1UD14uCvRwBkEnubdl) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Keep On Shining, Keep On Moving](https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl) | 2:59 | 2021-08-10 | 2022-03-17 |
 | [Kingdom 8](https://open.spotify.com/track/0xbt52iPJMXdiCIb1lut4M) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kingdom 8](https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w) | 1:30 | 2022-03-16 | 2022-05-19 |
@@ -158,6 +160,7 @@
 | [Oceans \- Chill Out Version](https://open.spotify.com/track/3yGj8IMMKYBANeJKMcFPw0) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 3:55 | 2021-08-10 | 2022-03-17 |
 | [Oh La La](https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9) | [Red Hot Viper](https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk) | [Oh La La](https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc) | 3:14 | 2021-08-10 | 2022-03-17 |
 | [Once In A Dream \- Chill Original](https://open.spotify.com/track/5tuNgB2oA7edy3Nw9mIQ6W) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:34 | 2021-08-10 | 2022-03-17 |
+| [one more rainy day with you](https://open.spotify.com/track/1Ig5yQvxcUhFB9LlbtFxNb) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu), [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [one more rainy day with you](https://open.spotify.com/album/1ZGpu7Qjn7ZhiBNG3gJD2E) | 2:21 | 2022-06-24 |  |
 | [Open Me Slowly](https://open.spotify.com/track/1DDXDrp9MHoL5rESiyyrLi) | [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6) | [Driftwood](https://open.spotify.com/album/7rpKRo2Wd80NYMd0rz4VJR) | 5:41 | 2021-08-10 | 2022-01-09 |
 | [Orbital](https://open.spotify.com/track/3lDXuK6i2Ra7aE1gSP1vXH) | [Franklin Perry](https://open.spotify.com/artist/5TIYHpHa1svyujIDc014rE) | [Orbital](https://open.spotify.com/album/4oX8VawqEFWZR0lohqqgk3) | 2:38 | 2022-03-16 |  |
 | [Patio Groove](https://open.spotify.com/track/5usVzIWJyYcwYeSjfPA7T2) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Rock Solid](https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI) | 3:53 | 2021-08-10 | 2022-03-17 |

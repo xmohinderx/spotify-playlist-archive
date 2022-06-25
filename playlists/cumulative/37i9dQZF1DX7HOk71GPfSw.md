@@ -2,9 +2,9 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> spotify hyperpop playlist Cover: Tony Velour
+> spotify hyperpop playlist Cover: glaive
 
-1,311 songs - 2 day 11 hr 28 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,316 songs - 2 day 11 hr 42 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [goodbye](https://open.spotify.com/track/3uei6XAS8fOqtHtW86RXl5) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [goodbye](https://open.spotify.com/album/5MRO1Vq0qmRhBI22OROFdh) | 2:14 | 2021-01-23 | 2021-02-26 |
 | [goodbye](https://open.spotify.com/track/0wBJKM6BUwb1mawb9GHR8h) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [goodbye](https://open.spotify.com/album/7HFVnisso5dIPbsYeQoP1y) | 2:36 | 2021-01-08 | 2021-02-10 |
 | [Goofies](https://open.spotify.com/track/6Svm4519iwSrzORtCNgG0Q) | [Lux Vimdor](https://open.spotify.com/artist/5MSARlILztDOl23Gc3mqI8) | [Goofies](https://open.spotify.com/album/1n5yhuZuiwF0PNVf5p2dCr) | 2:57 | 2021-11-12 | 2022-02-24 |
+| [GOSSIP](https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [GOSSIP](https://open.spotify.com/album/4Boajrtj2qjs8DKjYLpXoF) | 3:20 | 2022-06-24 |  |
 | [gossip girls](https://open.spotify.com/track/5AIbMoxC0aBvbHlpwJbNKl) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [gossip girls](https://open.spotify.com/album/0Q5Qzp1jkMJWwd1IynikA4) | 1:52 | 2021-05-15 | 2021-12-20 |
 | [Got My Number](https://open.spotify.com/track/10pb48uTPwADEC9yb7j2ty) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/3IcJmQcFPkitObupYRNgd7) | 2:54 | 2020-10-13\* | 2020-10-16 |
 | [GOTH GF](https://open.spotify.com/track/6uD1Of3Jh8eiOIpyuvyZ2q) | [plainfacedgirl](https://open.spotify.com/artist/56ndcMHyMOYHVclwDDHXcs), [sawcy\_boy](https://open.spotify.com/artist/1OYydThWYMx7OqEFMoNYsT) | [SAWCY GIRL](https://open.spotify.com/album/0ltPCVVhlcx3CfGkle1WGC) | 2:03 | 2021-09-18 | 2021-11-13 |
@@ -754,6 +755,7 @@
 | [midwest](https://open.spotify.com/track/1PaXxkVPwqSzg765s8XAsu) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [midwest](https://open.spotify.com/album/105u7fM5A46aCVdqsrcYJZ) | 1:51 | 2022-06-10 |  |
 | [Mile High Club](https://open.spotify.com/track/0ku3go0J40aUwBycKipoKA) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Mile High Club](https://open.spotify.com/album/6pMGro2oQh4gNL4ChkcO68) | 2:45 | 2021-03-31 | 2021-11-13 |
 | [Mineral Love](https://open.spotify.com/track/17GfDsowFdLra4pAXxWhPY) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Grow!](https://open.spotify.com/album/27ZZm8eGgMN0Tct8G1UcI7) | 3:44 | 2021-04-24 | 2021-09-14 |
+| [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 |  |
 | [Mirages](https://open.spotify.com/track/0cIWsUGZwsIjvaA7U8M9lX) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Mirages](https://open.spotify.com/album/5tq97PeEt3EVz1dnrZdah4) | 2:08 | 2021-05-15 | 2021-09-24 |
 | [Mirror](https://open.spotify.com/track/0arGWICwhTVlwuFWVrunwC) | [Fax Gang](https://open.spotify.com/artist/2QX6NMloD3kcn9vBijOM9r) | [Aethernet](https://open.spotify.com/album/2zj5EpUo4TsjvnCAPonE5L) | 2:57 | 2021-02-26 | 2021-07-11 |
 | [mirror](https://open.spotify.com/track/21dEUzcrZsLckBDp3YH5sU) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [mitsu](https://open.spotify.com/artist/1E5aTp3aCIdNpXWNfzwF1K) | [mirror](https://open.spotify.com/album/0zhk6WzKnOa7sMXmt1z8Uw) | 3:19 | 2021-07-26 | 2021-09-20 |
@@ -805,6 +807,7 @@
 | [No Smoke \(feat\. DC The Don\)](https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK IN ACTION 2.0](https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE) | 3:26 | 2021-12-17 | 2022-02-26 |
 | [No Time](https://open.spotify.com/track/59fTPIBNbhQTQ1HGt1XVlu) | [Yayoyanoh](https://open.spotify.com/artist/0fzgjxZTQn4E7y3MGPI3AC) | [No Time](https://open.spotify.com/album/41xFqYm9XIfIbzNELXqklZ) | 3:17 | 2020-12-11 | 2021-01-08 |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2021-02-10 | 2021-02-26 |
+| [none](https://open.spotify.com/track/5EmRpHqKTMQVFl7KCNbQCw) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [none](https://open.spotify.com/album/0yAdgSeCETSbzjPtYN90F1) | 1:52 | 2022-06-24 |  |
 | [nosebleed](https://open.spotify.com/track/2B4T6pxZZSqMJHsHz2Lg8x) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [curse/nosebleed](https://open.spotify.com/album/5PvTzqHtkf6O9cCKDo3lm6) | 2:09 | 2022-03-11 | 2022-04-29 |
 | [Not Enough](https://open.spotify.com/track/663dTAlkLbA51yPkn1ZbFN) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Not Enough](https://open.spotify.com/album/7u760wNLiHt4eY1mlh9tMl) | 1:58 | 2020-10-13\* | 2020-11-14 |
 | [Not Okay \- Machine World Remix](https://open.spotify.com/track/6ztKvSGWzYpe2hSVLaPL0e) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 1:44 | 2021-05-08 | 2021-05-15 |
@@ -1001,6 +1004,7 @@
 | [Secretive!](https://open.spotify.com/track/6FcBDJCvcljKy0X44dexR0) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Secretive!](https://open.spotify.com/album/4g6SsqBQbmgJQSBs5PRXkD) | 2:22 | 2021-02-26 | 2021-05-19 |
 | [Secretive! \(umru Remix\)](https://open.spotify.com/track/3t2I7IXB1xiOE4jy6kSAYf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Secretive! \(umru Remix\)](https://open.spotify.com/album/5YVWKa06SIeEo9Aq7UzQou) | 2:58 | 2021-06-09 | 2021-09-09 |
 | [Security!](https://open.spotify.com/track/4XJlKNehaCUUeviadnz1Fg) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 2:35 | 2021-02-10 | 2021-02-26 |
+| [See You Go](https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 4:05 | 2022-06-24 |  |
 | [selective altruism](https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [selective altruism](https://open.spotify.com/album/794UU4K5mVMCdraXNCSnvB) | 3:23 | 2022-06-10 |  |
 | [Self Defense](https://open.spotify.com/track/0LGEep2AyBWAGLgVKWH6XP) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Stretch 2](https://open.spotify.com/album/0EENZAipASKMdo404CPRwE) | 2:20 | 2021-05-08 | 2021-05-15 |
 | [Self Destruct](https://open.spotify.com/track/4ysFUHV0U6cxRECKZat00X) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Self Destruct \(feat\. Wuki\)](https://open.spotify.com/album/0fmFrDxcDUO2EUkdgnazA8) | 2:15 | 2021-02-10 | 2021-02-26 |
@@ -1232,6 +1236,7 @@
 | [ur all mine .](https://open.spotify.com/track/4HaS5qL8zJchrnBn7sHU5L) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [ur all mine .](https://open.spotify.com/album/7IiOWOagQGJTs549Aa6rzg) | 1:46 | 2021-07-17 | 2022-01-13 |
 | [urgent](https://open.spotify.com/track/2PgYKZXLezQxPJmfPOuL9r) | [Brendan Kush](https://open.spotify.com/artist/5uuxFVRgOLR3lmiRDgNlQN), [Edacity](https://open.spotify.com/artist/31Snnb2ekYZzWclciKTZDu), [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [urgent](https://open.spotify.com/album/7oy0y8oH0j6qanr1aIOREp) | 2:16 | 2022-01-21 | 2022-04-29 |
 | [Vandalize Music](https://open.spotify.com/track/4pkUyTuJRUptO0FcmJwJEu) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Vandalize Music](https://open.spotify.com/album/0hTFNfmKcEJNsUF3e54WEH) | 7:00 | 2020-12-11 | 2021-01-08 |
+| [verdant green](https://open.spotify.com/track/460h55NFlMCLiX1LWZKp5V) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [verdant green](https://open.spotify.com/album/06Deua7SVhPE66kBV0dmrS) | 3:10 | 2022-06-24 |  |
 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 | 2021-02-10 | 2021-02-26 |
 | [viBrAte](https://open.spotify.com/track/4CNXyGGebqSxKC515yy9s4) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [viBrAte](https://open.spotify.com/album/3N5jKNcb82G2JvD6CEMgU0) | 2:19 | 2021-10-08 | 2022-01-13 |
 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 | 2022-05-20 |  |

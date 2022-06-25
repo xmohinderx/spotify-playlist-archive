@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 203984,
       "name": "busy",
       "url": "https://open.spotify.com/track/6r8qsydGDCWTdyYPAgqHrw"
@@ -873,6 +873,28 @@
       "duration_ms": 187000,
       "name": "Cheatcode",
       "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
+    },
+    {
+      "album": {
+        "name": "Prismata (Dark)",
+        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
     },
     {
       "album": {
@@ -1241,6 +1263,40 @@
       "duration_ms": 132800,
       "name": "ELIMINATE",
       "url": "https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N"
+    },
+    {
+      "album": {
+        "name": "Escape (feat. Hayla) [Subtronics Remix]",
+        "url": "https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "Escape (feat. Hayla) - Subtronics Remix",
+      "url": "https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx"
     },
     {
       "album": {
@@ -2327,7 +2383,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 195200,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6GpLFDZhw5svOfUVOfW97H"
@@ -2498,6 +2554,32 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Thrashout",
+          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163941,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
+    },
+    {
+      "album": {
         "name": "Own The Night",
         "url": "https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3"
       },
@@ -2535,7 +2617,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 232315,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe"
@@ -2685,7 +2767,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 209142,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads"
@@ -2729,7 +2811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185142,
       "name": "R2",
       "url": "https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n"
@@ -2867,7 +2949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 236800,
       "name": "RETURN TO DUST",
       "url": "https://open.spotify.com/track/0VaeBuGMjBjhjrQP0d8xbE"
@@ -2977,7 +3059,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 207272,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/7rjmFwiYQ3Fx1DaKBmBgIo"
@@ -3210,6 +3292,32 @@
     },
     {
       "album": {
+        "name": "Prismata (Dark)",
+        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX"
+    },
+    {
+      "album": {
         "name": "Space EP",
         "url": "https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3"
       },
@@ -3383,7 +3491,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 228576,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ"
@@ -3517,6 +3625,28 @@
       "duration_ms": 185800,
       "name": "THE SHOOTV",
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
+    },
+    {
+      "album": {
+        "name": "The Uprising",
+        "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197735,
+      "name": "The Uprising",
+      "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
     },
     {
       "album": {
@@ -3845,7 +3975,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211862,
       "name": "Watch Me - Jon Casey",
       "url": "https://open.spotify.com/track/22tYNfFswhekyfe3VACcgr"

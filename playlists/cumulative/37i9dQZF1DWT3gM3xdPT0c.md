@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-149 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+151 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [leaving the city](https://open.spotify.com/track/0QdlI30DozlVnyCk52uveP) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 2:53 | 2022-03-04 | 2022-04-06 |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-03-04 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2022-03-04 | 2022-05-27 |
+| [Little Light](https://open.spotify.com/track/2Ppf66x921uNDrwKyUyhg2) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Little Light](https://open.spotify.com/album/64GHlOsZrUrLnquyALCuXX) | 4:29 | 2022-06-24 |  |
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2022-03-04 |  |
 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 | 2022-03-04 |  |
 | [Long Gone](https://open.spotify.com/track/7oZeBMWwQtci8I9QfeUsmh) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 2:26 | 2022-03-04 |  |
@@ -125,6 +126,7 @@
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-03-04 | 2022-05-27 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-04 |  |
+| [Spinning](https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Spinning](https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY) | 1:39 | 2022-06-24 |  |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-03-04 |  |
 | [Still So Beautiful](https://open.spotify.com/track/1Oqj6onkV4tLjPSwd06Xg7) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Still So Beautiful](https://open.spotify.com/album/11r4IMk5xSdUYchjpIo2Bb) | 2:31 | 2022-03-04 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 |  |

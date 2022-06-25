@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Tasha Layton",
+  "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Micah Tyler",
   "name": "Top Christian Contemporary",
   "published_playlist_ids": [
     "4vhwseXb2IJBghYVawMgmp"
@@ -165,6 +165,24 @@
       "duration_ms": 266200,
       "name": "Amazing Grace / My Chains Are Gone",
       "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
+    },
+    {
+      "album": {
+        "name": "Arms of Jesus",
+        "url": "https://open.spotify.com/album/1OcJ1cepVZ0UPbqCeLxKPc"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201268,
+      "name": "Arms of Jesus",
+      "url": "https://open.spotify.com/track/4b0MZa0sxGyKgvY7W2rZq1"
     },
     {
       "album": {
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202283,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 267320,
       "name": "I Am Yours (Acoustic)",
       "url": "https://open.spotify.com/track/1UVTNCocUvpEH68QRh30Bu"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 228886,
       "name": "I Believe It Now",
       "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
@@ -1517,6 +1535,24 @@
       "duration_ms": 218765,
       "name": "I Cry Jesus",
       "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/4IhedX9kU7sC6Wyn961Vlz"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/2ABtXR684ZxI9PjcFSyj5Y"
     },
     {
       "album": {
@@ -2019,7 +2055,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 204480,
       "name": "Mamas (with Hillary Scott)",
       "url": "https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA"
@@ -2251,6 +2287,24 @@
       "duration_ms": 402803,
       "name": "Old Church Basement (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206576,
+      "name": "On And On - Radio",
+      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
     },
     {
       "album": {
@@ -2609,7 +2663,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 216610,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
@@ -2779,6 +2833,24 @@
       "duration_ms": 200440,
       "name": "Sunday Sermons",
       "url": "https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs"
+    },
+    {
+      "album": {
+        "name": "My Jesus",
+        "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Sunday Sermons",
+      "url": "https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1"
     },
     {
       "album": {
@@ -2964,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "album": {
         "name": "The Love Of Jesus",
         "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
       },
@@ -3119,7 +3209,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201000,
       "name": "Walking Free",
       "url": "https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7"

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-50 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+51 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 | 2022-06-06 |  |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 |  |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 |  |
-| [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 |  |
+| [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 | 2022-06-25 |
 | [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 |  |
 | [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 | 2022-06-06 |  |
 | [Kiisa](https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Chuny Adech](https://open.spotify.com/album/2kLX8zNWi2URRm7Mvxw2ib) | 3:24 | 2022-06-06 |  |
@@ -35,6 +35,7 @@
 | [Mpulira](https://open.spotify.com/track/2Stgu3JrecN6iC1qDEvOOk) | [Iryn Namubiru](https://open.spotify.com/artist/3wL9WpeM5kjkIw3CxIRIDf) | [Mpulira](https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl) | 4:18 | 2022-06-06 |  |
 | [Muchuzi](https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:22 | 2022-06-06 |  |
 | [Mukama Yamba](https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Mukama Yamba](https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy) | 4:04 | 2022-06-06 |  |
+| [Mulisa Omusubbawa](https://open.spotify.com/track/5Efm581hRW2myabSJPwFba) | [Edrine Matovu](https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd), [Aldo Onyango](https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI) | [Mulisa Omusubbawa](https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB) | 4:18 | 2022-06-24 |  |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-06-06 |  |
 | [Ndi Mukyala](https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:33 | 2022-06-06 |  |
 | [Niko Tayari](https://open.spotify.com/track/6aGRoz8dTzxypGDVBaoDYH) | [Daddy Cabu](https://open.spotify.com/artist/10RsOjLENonmgQAiBBbFXe), [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [Niko Tayari](https://open.spotify.com/album/0K34dlSrXSokGh4VG9X2EL) | 3:00 | 2022-06-06 |  |

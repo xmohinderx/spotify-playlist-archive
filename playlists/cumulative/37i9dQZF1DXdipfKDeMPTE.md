@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-260 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+265 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2022-05-20 | 2022-06-10 |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 |  |
 | [Break](https://open.spotify.com/track/0r9lZcq4khAYHolIT4IAGr) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [Break](https://open.spotify.com/album/0MBfs6wwiujJjBJvIFLuw6) | 1:55 | 2022-05-20 |  |
+| [Bronco](https://open.spotify.com/track/6guKuoVFVI7s1VTZqjHk3K) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5) | [Bronco](https://open.spotify.com/album/6XqkrUjPorwLnmy3rEj0k1) | 1:36 | 2022-06-24 |  |
 | [Buda Nights](https://open.spotify.com/track/27VtLMIpNopyAezShebYCF) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Buda Nights](https://open.spotify.com/album/5j9EPMmck4PWNp7FsfoNdP) | 2:37 | 2022-05-20 |  |
 | [cab driver](https://open.spotify.com/track/5SjIaEZGCRBppzTGLMRObw) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [cab driver](https://open.spotify.com/album/0zdts9MVKHAoQ7OqkFt39z) | 2:36 | 2022-05-20 |  |
 | [Calicall](https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [Calicall](https://open.spotify.com/album/7f0iQN9EVtjX2qzBTJM0lO) | 1:38 | 2022-05-20 | 2022-06-10 |
@@ -59,6 +60,7 @@
 | [Cloud Forest](https://open.spotify.com/track/706cJyM8Qzk9nSBWqdgsTg) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Cloud Forest](https://open.spotify.com/album/2XC5mBmoAx2ts6V62NsmCp) | 2:40 | 2022-05-20 |  |
 | [Cloud Surfing](https://open.spotify.com/track/6iTEM8WzzFkRkmgO7r5JUL) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Cloud Surfing](https://open.spotify.com/album/5KyFDwjz3hxtoJDBnjsBb0) | 1:41 | 2022-05-20 |  |
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-05-20 |  |
+| [Coffee Break](https://open.spotify.com/track/23UKeemGHRBC176rqCdXFf) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Coffee Break](https://open.spotify.com/album/1sSjxVFT7qGDpAXtvsIwzc) | 2:25 | 2022-06-24 |  |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2022-05-20 |  |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-05-20 | 2022-05-27 |
 | [Concrete Jungle](https://open.spotify.com/track/1KVGi88GgnpBrzMyxQ294K) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Concrete Jungle](https://open.spotify.com/album/4NB4pDVROwqFP8NapsjNQa) | 2:05 | 2022-05-20 |  |
@@ -126,6 +128,7 @@
 | [jazzy nights](https://open.spotify.com/track/4NIaxyesiDfbwJPB15KO32) | [heavn](https://open.spotify.com/artist/5Zmt0Jc6Ob5Tg8ubHRz9DF) | [jazzy nights](https://open.spotify.com/album/5fiGAtxqhWE9OCL5bFO7LK) | 1:33 | 2022-05-20 |  |
 | [JETTDIFF](https://open.spotify.com/track/6zUjSJadplBcpspvtxvyPd) | [phaedra verona](https://open.spotify.com/artist/44TkSNjWlVMCXzOmh0rPSY) | [JETTDIFF](https://open.spotify.com/album/09sHYLgYhnqPHbqstI0yvd) | 2:38 | 2022-05-20 |  |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-05-20 |  |
+| [Just Thinking](https://open.spotify.com/track/2t7Wg0h8l2yshHjrrbszqx) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Just Thinking](https://open.spotify.com/album/2KtWrcJGMpBZWs4F5X7g08) | 2:12 | 2022-06-24 |  |
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2022-05-20 |  |
 | [Keep Warm](https://open.spotify.com/track/520cdEWRrkom8TpyI2FeFP) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Keep Warm](https://open.spotify.com/album/15ki4Z5IWbuJ7uJsyzhV0J) | 1:11 | 2022-05-20 | 2022-05-27 |
 | [Komori Uta](https://open.spotify.com/track/0uI7PWd0jx5hO5gFNjSJ6X) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Komori Uta](https://open.spotify.com/album/1A77yvU3WvZkVD2YGZ4KO1) | 2:27 | 2022-05-20 |  |
@@ -196,6 +199,7 @@
 | [Pillow Head](https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY) | [Dreamy Vibes](https://open.spotify.com/artist/5md3j6tShlKtrcokmLIJJw) | [Pillow Head](https://open.spotify.com/album/30TMwmHW2rtrlqOFEapBSI) | 2:21 | 2022-05-20 |  |
 | [Pink Elephants](https://open.spotify.com/track/6Owf9tXo9S2GZiVDXG7xrK) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:51 | 2022-05-20 |  |
 | [Play Around](https://open.spotify.com/track/2Ps6WExRuBd0MSC8HzRd6w) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Taste Rich Tears](https://open.spotify.com/album/2435nz7QGJqGTvZ4fUHtEa) | 1:39 | 2022-05-20 |  |
+| [po33\_bounce](https://open.spotify.com/track/6RFjBcQZOtweKdV6CfA385) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe) | [po33\_bounce](https://open.spotify.com/album/3O6gek2PBYC43yLappjI8h) | 1:17 | 2022-06-24 |  |
 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 | 2022-05-20 |  |
 | [Portions](https://open.spotify.com/track/6KVu21hEiGs8nMluA60bWx) | [Brian Leaf](https://open.spotify.com/artist/7HsVoQC013rTyF0PUJQTz4) | [Portions](https://open.spotify.com/album/0pwehKV8DvdHxZHE0kXSRO) | 2:00 | 2022-05-20 |  |
 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 | 2022-05-20 |  |
@@ -263,6 +267,7 @@
 | [Villi’s Dream](https://open.spotify.com/track/3L3Bqylf4R6dz8gEWgk7Gn) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Fantasque](https://open.spotify.com/album/73b18tIjK8WMaDXkFc2rZ6) | 2:33 | 2022-05-20 |  |
 | [Wanna Be with You](https://open.spotify.com/track/6cvfVUemxTmzsF2RZMiwIU) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Inner Life](https://open.spotify.com/album/2No65mBSMvbckMBPkf0OqS) | 2:14 | 2022-06-17 |  |
 | [Waxing](https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT) | [The Fibbers](https://open.spotify.com/artist/5n43zVDWitfC3uklfrNgQT) | [Waxing](https://open.spotify.com/album/6O7UB1QfYDyuh4fDyTbVs8) | 2:27 | 2022-05-20 |  |
+| [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 |  |
 | [Windmill](https://open.spotify.com/track/3b9dGQOud5zYbwsiKy03Rn) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Windmill](https://open.spotify.com/album/1eMRlViP3OSEHzKNVe1NUs) | 1:41 | 2022-05-20 |  |
 | [Won't Forget](https://open.spotify.com/track/6wHgTRz4AdaQ2Z82CiZvJn) | [Toppis Tom](https://open.spotify.com/artist/5Wd9JTpUMvXCit3ugNv0FV) | [Fellow Friend](https://open.spotify.com/album/2jBg3GOh3xl7b49XY2npN6) | 1:54 | 2022-05-20 | 2022-05-27 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |

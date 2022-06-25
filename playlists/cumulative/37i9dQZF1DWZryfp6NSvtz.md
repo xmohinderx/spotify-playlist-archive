@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: ONE OK ROCK
 
-1,285 songs - 3 day 2 hr 7 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,286 songs - 3 day 2 hr 11 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 | 2022-04-28 | 2022-05-06 |
 | [Get in the Car](https://open.spotify.com/track/2CWJDVIBBIFQlJvesGdxvP) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Get in the Car](https://open.spotify.com/album/0wuVKMqNcc5Dzsvs8oNtqM) | 3:28 | 2022-03-24 | 2022-04-01 |
 | [Get My Things & Go](https://open.spotify.com/track/2fJJGcHxMc9nnZ62Ob5thN) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Get My Things & Go](https://open.spotify.com/album/7FMxjnRo3zT6HYprB2lv0H) | 2:50 | 2022-06-23 |  |
-| [Get on It](https://open.spotify.com/track/2wz3HNHmp5Dh10XDNH06ha) | [Brotherkenzie](https://open.spotify.com/artist/2wy3BoEJGIQdvrkChuNGOS) | [Get on It](https://open.spotify.com/album/3MRjkCRpSB8URlgMsF6Ir2) | 2:04 | 2022-06-23 |  |
+| [GET ON IT](https://open.spotify.com/track/2wz3HNHmp5Dh10XDNH06ha) | [Brotherkenzie](https://open.spotify.com/artist/2wy3BoEJGIQdvrkChuNGOS) | [GET ON IT](https://open.spotify.com/album/3MRjkCRpSB8URlgMsF6Ir2) | 2:04 | 2022-06-23 |  |
 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 | 2022-01-20 | 2022-01-28 |
 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 | 2022-02-24 | 2022-03-04 |
 | [Ghost](https://open.spotify.com/track/3uzfPguUqOgJb5z6TvAWxF) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [Ghost](https://open.spotify.com/album/6muKJ0I1CaMCbXItAotJRd) | 2:33 | 2021-12-16 | 2022-01-07 |
@@ -933,7 +933,8 @@
 | [Satellite](https://open.spotify.com/track/0lgvqpT2iQ5pQx2IBBtCMu) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [The Second Principle](https://open.spotify.com/album/2zbLsqlj4m61R0xBpMx3Dw) | 3:29 | 2022-04-22 | 2022-04-29 |
 | [Saturation \(Strange Love\)](https://open.spotify.com/track/3USDxKVLG1hbnAnY3zGXL4) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [Saturation \(Strange Love\)](https://open.spotify.com/album/6IxQJ1qcKfSmDWVZ4Nniox) | 3:55 | 2022-04-14 | 2022-04-22 |
 | [Save Me from Myself](https://open.spotify.com/track/72JETKVAqfC7yX09OvfYOm) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Save Me from Myself](https://open.spotify.com/album/6pDwGlXF2GPESFDaeeA7Iu) | 3:04 | 2022-03-10 | 2022-03-18 |
-| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 |  |
+| [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-24 |  |
+| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 | 2022-06-25 |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-06 | 2022-01-14 |
 | [Say Something](https://open.spotify.com/track/2RDIy0A9tcA4WUiRNuRlJ9) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Say Something](https://open.spotify.com/album/3Wh43fDW2Yssfm8dTKmOmr) | 2:01 | 2022-03-03 | 2022-03-11 |
 | [Science](https://open.spotify.com/track/03VfWGwIaVKB2r040uVn7E) | [The Dodies](https://open.spotify.com/artist/1oeeG4DsdsUOLJrF7DCwMs) | [Floating in Limbo](https://open.spotify.com/album/68NBknh35jOcknoKW6k7n9) | 3:01 | 2022-04-22 | 2022-04-29 |

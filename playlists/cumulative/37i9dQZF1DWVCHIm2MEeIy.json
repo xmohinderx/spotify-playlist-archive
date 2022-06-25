@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "10 West (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/5R8aXQjmotxHyYszO0oVcR"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Ralf Hildenbeutel",
+          "url": "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370746,
+      "name": "10 West",
+      "url": "https://open.spotify.com/track/2LHhjFYwkh0xsoMFyL1V6N"
+    },
+    {
+      "album": {
         "name": "A Call Out For Love",
         "url": "https://open.spotify.com/album/0etWkVuK3tK4Vmfc3Moduv"
       },
@@ -85,7 +111,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 416128,
       "name": "All The Little Things",
       "url": "https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2"
@@ -237,7 +263,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 273170,
       "name": "Attach\u00e9 (Edit)",
       "url": "https://open.spotify.com/track/0gG9nJ5flFX2qpzvp17ApI"
@@ -350,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Black Gravity",
+        "url": "https://open.spotify.com/album/51IS35faOEcOaL70NJ4Yh8"
+      },
+      "artists": [
+        {
+          "name": "Marcus Meinhardt",
+          "url": "https://open.spotify.com/artist/4yVEkQ8vCUQtJFRioN4Zhj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416933,
+      "name": "Black Gravity",
+      "url": "https://open.spotify.com/track/4b1fewh792yrZz0SvwE8Zq"
+    },
+    {
+      "album": {
         "name": "Blaze",
         "url": "https://open.spotify.com/album/0yzwuCt5GjlnUgNDROF4ls"
       },
@@ -391,7 +435,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 323149,
       "name": "Bodycheck",
       "url": "https://open.spotify.com/track/0yuhIiOMzFAPJzb54Ci0sd"
@@ -475,7 +519,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 511990,
       "name": "Can I",
       "url": "https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb"
@@ -533,7 +577,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
@@ -613,7 +657,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw"
@@ -1007,7 +1051,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
@@ -1025,7 +1069,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 382265,
       "name": "En Route to Atlanta",
       "url": "https://open.spotify.com/track/5ubs1jwENWd53GCdfSOuuW"
@@ -1279,7 +1323,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 338740,
       "name": "Go - Anfisa Letyago Remix",
       "url": "https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7"
@@ -1453,7 +1497,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 241790,
       "name": "HOME",
       "url": "https://open.spotify.com/track/5PMHTWprDQND43PU27PN9F"
@@ -1493,6 +1537,24 @@
       "duration_ms": 229577,
       "name": "Hottest Record in the World",
       "url": "https://open.spotify.com/track/4zUqroe9fG1TOV9yKJVgVW"
+    },
+    {
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "album": {
@@ -1693,7 +1755,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"
@@ -1805,7 +1867,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 216149,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/757JuM40p8TmQhT41WVLsS"
@@ -1907,7 +1969,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 367078,
       "name": "Love Is What",
       "url": "https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI"
@@ -1969,7 +2031,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Luna",
       "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
@@ -1995,7 +2057,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 384761,
       "name": "Magic Nights - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/4ff0BdLgicfCTBRpIt3jd4"
@@ -2151,7 +2213,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 450285,
       "name": "NEON RATS",
       "url": "https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv"
@@ -2205,7 +2267,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 326400,
       "name": "Nova Two",
       "url": "https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ"
@@ -2245,7 +2307,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 383872,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/5mPdbkpDQTlqt56HPptRhe"
@@ -2405,7 +2467,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 338295,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/1lfVngSLGVB7016sN7aT4P"
@@ -2535,7 +2597,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 408866,
       "name": "Radix",
       "url": "https://open.spotify.com/track/500IbSzCDw1kwSCQJTI1HO"
@@ -2553,7 +2615,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 468203,
       "name": "Rave Girl",
       "url": "https://open.spotify.com/track/0Q8O9vyX1X6tajbwXIYiFX"
@@ -2629,7 +2691,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 345273,
       "name": "Rejection - Martin Waslewski Remix",
       "url": "https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl"
@@ -2851,7 +2913,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 411676,
       "name": "Siren - Original Mix",
       "url": "https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR"
@@ -2927,7 +2989,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 432786,
       "name": "Solemn",
       "url": "https://open.spotify.com/track/6KnYwwqn1RzjVoeiizR7ET"
@@ -3145,7 +3207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 428814,
       "name": "That Breeze",
       "url": "https://open.spotify.com/track/1OjIjbnrxj6D3HQFnIMZdh"
@@ -3235,7 +3297,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 398563,
       "name": "The Key",
       "url": "https://open.spotify.com/track/0EJ2QK50aalqkMgARQIb5y"
@@ -3451,7 +3513,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 357120,
       "name": "Trust the Process",
       "url": "https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE"
@@ -3477,6 +3539,24 @@
       "duration_ms": 435884,
       "name": "ULM",
       "url": "https://open.spotify.com/track/4kC93I6ekm3jH02l7YPWaQ"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/5gOnkV7tKvosDQ4gkBsQEo"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345489,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
     },
     {
       "album": {
@@ -3557,7 +3637,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 226771,
       "name": "VIBIN",
       "url": "https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC"

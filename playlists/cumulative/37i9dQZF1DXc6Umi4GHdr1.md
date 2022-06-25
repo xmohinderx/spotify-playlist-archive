@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-110 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+113 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2021-12-10 |  |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-13 |  |
 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 | 2022-03-03 |  |
+| [Contemplacion](https://open.spotify.com/track/5VwqDvZOyX2MVPlfr0jLmd) | [Classical Guitar Masters](https://open.spotify.com/artist/7ctJVvTo1OFEHP1YgNAKzm) | [Simple Guitar Classics](https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma) | 3:43 | 2022-06-24 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-10 |  |
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 |  |
 | [Das Gebirge](https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Das Gebirge](https://open.spotify.com/album/6CraOjno7t4Lr9buQoXOIw) | 2:34 | 2022-05-27 |  |
@@ -56,6 +57,7 @@
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-03 |  |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2022-03-03 |  |
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2021-12-10 |  |
+| [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 | 2022-04-22 |
 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 | 2021-12-10 |  |
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 | 2022-05-27 |
@@ -93,6 +95,7 @@
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
+| [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 |  |
 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 | 2022-05-27 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 |  |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 |  |

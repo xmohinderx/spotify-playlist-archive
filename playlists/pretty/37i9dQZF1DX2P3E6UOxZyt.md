@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,751 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,853 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 18 | [零米距離](https://open.spotify.com/track/4s5Zo94S9qBeiUcXHF91fp) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [零米距離](https://open.spotify.com/album/5JXMpRfrSoOyaWd7fAhGM1) | 2:44 |
 | 19 | [演算法](https://open.spotify.com/track/7as27DSfspb7LHRWAp1Vz0) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [演算法](https://open.spotify.com/album/5Hw44nHiOlLRueHKgnp74i) | 4:19 |
 | 20 | [Yoohoo](https://open.spotify.com/track/1czNiios6D4whvN5oXkek7) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Yoohoo](https://open.spotify.com/album/6CugJfTrHJm6FJDpnn3Njl) | 2:45 |
-| 21 | [朋友 \(feat\. 壞特?te\)](https://open.spotify.com/track/3cfBqHxoVxSx65sNZwazzx) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [壞特?te](https://open.spotify.com/artist/4AqWijZy8GEVtymfyhaqkw) | [朋友 \(feat\. 壞特?te\)](https://open.spotify.com/album/79rppoueEhSnEycOTfmKmg) | 3:09 |
+| 21 | [朋友 \(feat\. 壞特 ?te\)](https://open.spotify.com/track/3cfBqHxoVxSx65sNZwazzx) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [壞特?te](https://open.spotify.com/artist/4AqWijZy8GEVtymfyhaqkw) | [朋友 \(feat\. 壞特 ?te\)](https://open.spotify.com/album/79rppoueEhSnEycOTfmKmg) | 3:09 |
 | 22 | [我陪你好嗎 \- bilibili & Disney《正義的算法》插曲](https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [我陪你好嗎 \(bilibili & Disney《正義的算法》插曲\)](https://open.spotify.com/album/77Iijl8ZaBdEdlREnaHMjM) | 3:29 |
 | 23 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
 | 24 | [你是我平行時空的巧遇](https://open.spotify.com/track/14ilwetmdS6oUmbtBCvvRG) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [生存法則](https://open.spotify.com/album/2WtwxC5NNElvkYrr7zsSDc) | 4:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [也許是你拯救了我](https://open.spotify.com/track/6ZA2UiI5G71MRjmLLeedL5) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [也許是你拯救了我](https://open.spotify.com/album/3S6julQkPoIutwzonlMkzw) | 3:56 |
 | 60 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 |
 
-Snapshot ID: `MTY1NjAzMjk4MCwwMDAwMDAwMGEyMTMzNWViYmQwZGY3OGYwMmI0ODJlYWYwNjQ1Njdl`
+Snapshot ID: `MTY1NjExOTQ0NCwwMDAwMDAwMGEyMTMzNWViYmQwZGY3OGYwMmI0ODJlYWYwNjQ1Njdl`

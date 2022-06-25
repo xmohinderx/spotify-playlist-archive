@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "album": {
         "name": "Bem Perto",
         "url": "https://open.spotify.com/album/5eCegiIOKs5WcJ77rqCRoS"
       },
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 156416,
       "name": "O Calor T\u00e1 De Matar",
       "url": "https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w"

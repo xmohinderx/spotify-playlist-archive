@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New collaboration from Eartheater &amp; LSDXOXO, plus the latest cuts from Joel Corry, Azzecca, TDJ, niina, Ayra Star, Noizu, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,532 likes - 165 songs - 10 hr 20 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,536 likes - 165 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 164 | [She Abunai \- Baauer Remix](https://open.spotify.com/track/0dIpabtxHZ3Vji9kWXp4CU) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [She Abunai \(Baauer Remix\)](https://open.spotify.com/album/75BYrth6kGwkjfxdKU7hFP) | 2:18 |
 | 165 | [Busy](https://open.spotify.com/track/5MMx0OKy2DN6GWPodrqxtw) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:59 |
 
-Snapshot ID: `NjE2MyxmMTdmMmM1NzFjOTgyMTg3MWViZTAwZGJhODFhYjI2YjQyNzI3OTJk`
+Snapshot ID: `NjE2NSxhZTM3MTUxNzNiNzU4MzI2Y2M0Mzk0OGFhMTIxNDU1ZmFlNDAwZTZk`

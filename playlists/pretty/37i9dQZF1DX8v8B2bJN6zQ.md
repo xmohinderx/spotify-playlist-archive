@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,692 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,723 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 |
-| 2 | [Humanity \- Synthatic Remix](https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB) | [Phanatic](https://open.spotify.com/artist/3rXo1ftXCIJPhThJP73LV4), [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Humanity \(Synthatic Remix\)](https://open.spotify.com/album/2RrjZmY3sLeX0itnL8z3qs) | 5:49 |
-| 3 | [Move](https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Move](https://open.spotify.com/album/701NIOuSdFkNVkYDESPEWa) | 2:56 |
-| 4 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 |
-| 5 | [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 |
+| 2 | [Move](https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Move](https://open.spotify.com/album/701NIOuSdFkNVkYDESPEWa) | 2:56 |
+| 3 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 |
+| 4 | [Last One](https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Last One](https://open.spotify.com/album/0hu6xWo3nW9dveTBMeDKDE) | 2:31 |
+| 5 | [Astronauta](https://open.spotify.com/track/7pJJrnSCxd0et4zhHFsJiJ) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Astronauta](https://open.spotify.com/album/23j75jqckSwFHI3qKYiE83) | 5:44 |
 | 6 | [Resistência](https://open.spotify.com/track/4HLBbEY2ZUFXq3Ygy3wN16) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Resistência](https://open.spotify.com/album/4xHZ6oFXaheV5IS8ssm6go) | 4:07 |
 | 7 | [Matrix Bug](https://open.spotify.com/track/12PL4nFHOV7KxVCfcvSsDM) | [Sterium](https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Matrix Bug](https://open.spotify.com/album/3L2NZnqEuDQRaFcn3BU726) | 4:28 |
 | 8 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MTY1NTQzNDg2MCwwMDAwMDAyNTAwMDAwMTgxNmY5YjU2N2EwMDAwMDE3OTM3OWE1ODk4`
+Snapshot ID: `MTY1NjAzOTY2MCwwMDAwMDAyNjAwMDAwMTgxOTNhN2RhNGYwMDAwMDE3OTM3OWE1ODk4`

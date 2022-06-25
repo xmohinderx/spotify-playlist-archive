@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Brincando com Fogo",
+        "url": "https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Brincando com Fogo",
+      "url": "https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI"
+    },
+    {
+      "album": {
         "name": "Bumbunka",
         "url": "https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW"
       },
@@ -648,6 +666,28 @@
     },
     {
       "album": {
+        "name": "Garota California",
+        "url": "https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Garota Calif\u00f3rnia",
+      "url": "https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S"
+    },
+    {
+      "album": {
         "name": "geada",
         "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
       },
@@ -983,7 +1023,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 154285,
       "name": "Moreno",
       "url": "https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD"
@@ -1423,6 +1463,10 @@
         {
           "name": "Luka G",
           "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
         }
       ],
       "date_added": "2022-03-18",
@@ -1625,7 +1669,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 121600,
       "name": "Toma Cuidado",
       "url": "https://open.spotify.com/track/6NXcJBwuVHkXklcJnZPf7X"

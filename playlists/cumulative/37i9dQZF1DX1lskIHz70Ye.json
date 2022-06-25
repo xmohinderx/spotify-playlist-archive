@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Eterna Saudade",
+        "url": "https://open.spotify.com/album/3EJga8fieg3iJktxWBVA2k"
+      },
+      "artists": [
+        {
+          "name": "Michael Marc",
+          "url": "https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289679,
+      "name": "Eterna Saudade",
+      "url": "https://open.spotify.com/track/4gpGRoXsgyNoC5V91LRM0r"
+    },
+    {
+      "album": {
         "name": "Etude Number 3 Op.60",
         "url": "https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8"
       },
@@ -1439,6 +1457,28 @@
       "duration_ms": 183139,
       "name": "Por Mi Algun Dia Vendras",
       "url": "https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw"
+    },
+    {
+      "album": {
+        "name": "T\u00e1rrega: Preludio No. 3",
+        "url": "https://open.spotify.com/album/3X1sZmEBYuVDwutGnrUm7D"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Jes\u00fas \u00c1ngel",
+          "url": "https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36900,
+      "name": "Preludio No. 3",
+      "url": "https://open.spotify.com/track/2VCUwRLBHxqTscPd3NfOCP"
     },
     {
       "album": {

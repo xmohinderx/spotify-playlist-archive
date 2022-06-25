@@ -2078,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        },
+        {
+          "name": "VinDon",
+          "url": "https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ"
+    },
+    {
+      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/4sZni6V6NvVYhfUFGqKuR3"
       },

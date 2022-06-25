@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQ+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: MAS",
+  "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQ+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: thekayetan",
   "name": "Pride Polska",
   "published_playlist_ids": [
     "5XlG8Doc1gwzAGNsy2t9Pq"
@@ -357,6 +357,28 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+    },
+    {
+      "album": {
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
     },
     {
       "album": {
@@ -1351,6 +1373,24 @@
       "duration_ms": 234106,
       "name": "TU\u017b PRZED P\u00d3\u0141NOC\u0104",
       "url": "https://open.spotify.com/track/3QsWorTM8pMtw6ti7Mb35s"
+    },
+    {
+      "album": {
+        "name": "tw\u00f3j zapach",
+        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "tw\u00f3j zapach",
+      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
     },
     {
       "album": {

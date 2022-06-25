@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Tim Bernardes
 
-224 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+225 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2021-12-24 | 2022-06-04 |
 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM \(Lado A\)](https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ) | 5:03 | 2022-01-27 | 2022-03-09 |
 | [Banho de Cheiro](https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Banho de Cheiro](https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5) | 3:13 | 2022-04-29 |  |
+| [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 |  |
 | [Bem Perto](https://open.spotify.com/track/2hfFYdOgMkSNndT6uXG6v3) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Bem Perto](https://open.spotify.com/album/5eCegiIOKs5WcJ77rqCRoS) | 3:43 | 2022-05-13 | 2022-06-18 |
 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 | 2021-12-24 |  |
 | [Bença](https://open.spotify.com/track/3IyHot1hbizbIjvCkRrLHT) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:27 | 2021-12-24 | 2022-04-16 |
@@ -139,7 +140,7 @@
 | [não há voz que alcance](https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Todas as coisas do coração](https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W) | 4:01 | 2022-04-29 | 2022-06-04 |
 | [Não Identificado](https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf) | [Ayrton Montarroyos](https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h) | [Caetano Veloso Além do "Transa"](https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX) | 3:22 | 2021-12-24 |  |
 | [O Amor Em Tempos de Cólera](https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE), [Virginie Boutaud](https://open.spotify.com/artist/3lWgqQkjOSmD4T0btnkzQj) | [Será Que Você Vai Acreditar?](https://open.spotify.com/album/3CS4E5hgs9Rd1EViJ3yYy5) | 3:48 | 2021-12-24 |  |
-| [O Calor Tá De Matar](https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w) | [Bernardo Valença](https://open.spotify.com/artist/2b7OB2l6CqyJtmCmj4FgdC) | [O Calor Tá De Matar](https://open.spotify.com/album/0vsZ9pFRetnUSoOZq5C0lm) | 2:36 | 2022-06-17 |  |
+| [O Calor Tá De Matar](https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w) | [Bernardo Valença](https://open.spotify.com/artist/2b7OB2l6CqyJtmCmj4FgdC) | [O Calor Tá De Matar](https://open.spotify.com/album/0vsZ9pFRetnUSoOZq5C0lm) | 2:36 | 2022-06-17 | 2022-06-25 |
 | [O Homem do Leme \- Deluxe Edition](https://open.spotify.com/track/6pg3mVH6MY7GMoykTuytyl) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Canções D' Além Mar \(Deluxe Edition\)](https://open.spotify.com/album/1oudSNjaKN20uDDQa28jnI) | 4:21 | 2022-06-03 |  |
 | [O Santo](https://open.spotify.com/track/1zxm61HerdbLuLS0vYC1rB) | [Tuia](https://open.spotify.com/artist/615dqZYNvr6ZImSbS7e1wk), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Semente Que o Amor Dará](https://open.spotify.com/album/36zbE3XAgAy3nocVJ2CUJb) | 4:17 | 2022-04-15 | 2022-04-21 |
 | [O Sopro do Fole](https://open.spotify.com/track/3u2zL0NVgyrGn0dJI5n5zM) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z) | [O Sopro do Fole](https://open.spotify.com/album/3v6uTEyHsueFdVlJ5bWrNR) | 3:24 | 2022-04-29 |  |

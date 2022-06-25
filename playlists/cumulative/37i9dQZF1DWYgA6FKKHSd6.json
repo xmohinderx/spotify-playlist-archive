@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 307493,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/62UvwY9URklShrC79EU8GJ"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 254642,
       "name": "Around the World",
       "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 249320,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 237005,
       "name": "Dare 2 Dream",
       "url": "https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 261092,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 259019,
       "name": "Essence",
       "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202129,
       "name": "Frobidden Fruit",
       "url": "https://open.spotify.com/track/1YYtVHoUXAs5QmUhNhaHFV"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 197489,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 122520,
       "name": "Lift Every Voice And Sing",
       "url": "https://open.spotify.com/track/1lC7uRdflKjT17PVHEXgYb"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/6kRGkRQHf8vWPAJ791dEgq"
@@ -1870,6 +1870,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236273,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+    },
+    {
+      "album": {
         "name": "Prime Time",
         "url": "https://open.spotify.com/album/1bdElAX11hV0fGE7kDYilG"
       },
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/02IFnwB9sOwXYNm3z4NBRN"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 242379,
       "name": "Straight to the Point",
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
@@ -2731,7 +2749,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/463sMWdEGB9NTvu988dd2R"

@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Betty (Fake It Till You Make It)",
+        "url": "https://open.spotify.com/album/0eev2GV1vEAVZQfRHMleRT"
+      },
+      "artists": [
+        {
+          "name": "Lateshift",
+          "url": "https://open.spotify.com/artist/1DCmLEfKCHDUG4ZplWUaQN"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126250,
+      "name": "Betty (Fake It Till You Make It)",
+      "url": "https://open.spotify.com/track/6ZR1ndajXwoCrjmVmmkgBF"
+    },
+    {
+      "album": {
         "name": "Birds That Flew and Ships That Sailed",
         "url": "https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0"
       },
@@ -463,6 +481,24 @@
       "duration_ms": 336290,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8"
+    },
+    {
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "album": {
@@ -636,6 +672,28 @@
     },
     {
       "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
         "name": "Dance Around It",
         "url": "https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh"
       },
@@ -731,6 +789,24 @@
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
+    },
+    {
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153096,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
     },
     {
       "album": {
@@ -1175,7 +1251,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
@@ -1219,6 +1295,24 @@
       "duration_ms": 188360,
       "name": "Heartbeat Changes",
       "url": "https://open.spotify.com/track/5fcMjLsEtBOJLk1kRv2j9W"
+    },
+    {
+      "album": {
+        "name": "Her Body Is Bible",
+        "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Her Body Is Bible",
+      "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
     },
     {
       "album": {
@@ -1269,7 +1363,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 189267,
       "name": "High Water",
       "url": "https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf"
@@ -1327,7 +1421,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 198226,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0dRNcDDeWJlbKfSzaA1KDf"
@@ -1731,7 +1825,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
@@ -1897,7 +1991,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 172794,
       "name": "made for you",
       "url": "https://open.spotify.com/track/3OVfWzWkl7RqsOkysmc5kg"
@@ -1951,7 +2045,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 177511,
       "name": "My Love - Edit",
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
@@ -2225,7 +2319,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -2557,7 +2651,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 170720,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
@@ -2583,7 +2677,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
@@ -2915,7 +3009,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 232500,
       "name": "These Are the Days (Live from the Tenk)",
       "url": "https://open.spotify.com/track/7b1nQhvFPFmNGxjairx1yW"
@@ -3261,7 +3355,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"

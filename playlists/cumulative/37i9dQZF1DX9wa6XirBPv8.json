@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
@@ -1063,10 +1063,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 200200,
       "name": "My Favorite Accident",
       "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+    },
+    {
+      "album": {
+        "name": "Discovering the Waterfront (Reissue)",
+        "url": "https://open.spotify.com/album/3Kjjhj3BItSKPMU4IznHuj"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "My Heroine",
+      "url": "https://open.spotify.com/track/2i4yyBwHqj91tSHu0gIeUg"
     },
     {
       "album": {
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 187880,
       "name": "Situations",
       "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 217120,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/3VGjUGJ5H3N61ggpyORS0n"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 205706,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0"

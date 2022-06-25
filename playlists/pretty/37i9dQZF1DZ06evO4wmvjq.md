@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 50 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 50 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 24 | [Untitled Organ](https://open.spotify.com/track/6MHzbrNqD3Eug0RMlHpDXq) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Reed Streams](https://open.spotify.com/album/1gpm3DIj8irskyRyDCJbbS) | 20:07 |
 | 25 | [The Soul of Patrick Lee](https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:48 |
 | 26 | [Embroidery](https://open.spotify.com/track/3stUfG4xfDXJfp3PCzlPoo) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 22:24 |
-| 27 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 |
-| 28 | [Quijote](https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:33 |
+| 27 | [Quijote](https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:33 |
+| 28 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 |
 | 29 | [St\. Francis and the Birds](https://open.spotify.com/track/2w12QnKw0mWjxxwRuyGef2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [For the Birds: The Birdsong Project, Vol\. I](https://open.spotify.com/album/6c8aHa89kWTsrcz0iw7fgS) | 4:49 |
 | 30 | [M \- Music I \- Inside C \- Curved E\-Entrances](https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 2:11 |
-| 31 | [Eastern Man](https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:28 |
-| 32 | [Tango Ladeado](https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 3:27 |
+| 31 | [Tango Ladeado](https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 3:27 |
+| 32 | [Eastern Man](https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:28 |
 | 33 | [Dorian Reeds](https://open.spotify.com/track/170vQmvQoA8Cs9x9ZQnMe8) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Reed Streams](https://open.spotify.com/album/1gpm3DIj8irskyRyDCJbbS) | 14:56 |
 | 34 | [Keyboard Study 2 \- Remastered 2021](https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb) | [Germ](https://open.spotify.com/artist/3bTFWvJpEbzM9paWzHiyzo), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Pierre Mariétan](https://open.spotify.com/artist/2FoNW6HW8Sp5drduFETzf3) | [Keyboard Study 2 / Initiative 1+ Systèmes \(Remastered 2021\)](https://open.spotify.com/album/40WbzVRHo9AzfzKAl7cdPD) | 24:01 |
 | 35 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 37 | [Havana Man](https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 6:25 |
 | 38 | [Part I \- Live 1974](https://open.spotify.com/track/7msH0Iwj6RHhWMQJcw1dem) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 6:49 |
 | 39 | [Slow Melody In Bhairavi](https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 3:16 |
-| 40 | [See Them Out There](https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 2:51 |
-| 41 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 |
+| 40 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 |
+| 41 | [See Them Out There](https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 2:51 |
 | 42 | [Ides of March](https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 11:03 |
 | 43 | [Delay](https://open.spotify.com/track/6OftP5FpB3hY91MHEixb7o) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 12:39 |
 | 44 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 49 | [Long Bus Ride](https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 1:42 |
 | 50 | [Part IV \- Live 1974](https://open.spotify.com/track/48RZKN0TQ6qtc7tihgDyy9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 4:44 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDBkYTMyNThmMTBlMGU0OGRjYjdiNjVmODg2M2E3Njc2Zg==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDBjNjExN2Y4YmEzY2UwOWNiMDBlZWY4NmM1ODc5OWRkNw==`

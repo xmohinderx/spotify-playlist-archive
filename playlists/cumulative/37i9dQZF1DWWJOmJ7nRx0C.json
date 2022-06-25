@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: I Prevail",
+  "description": "The hardest songs, loud. Very loud. Cover: Sleeping With Sirens",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 161860,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/34O6gpg1ljVP1NNvAJIOJQ"
@@ -319,10 +319,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 154461,
       "name": "Around The Sun (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf"
+    },
+    {
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce"
     },
     {
       "album": {
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183016,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 213774,
       "name": "BURIED ALIVE",
       "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
@@ -1302,6 +1320,50 @@
     },
     {
       "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Conditional Love",
+      "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
+    },
+    {
+      "album": {
+        "name": "Crosses (feat. Spencer Chamberlain of Underoath)",
+        "url": "https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Spencer Chamberlain",
+          "url": "https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209021,
+      "name": "Crosses (feat. Spencer Chamberlain of Underoath)",
+      "url": "https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8"
+    },
+    {
+      "album": {
         "name": "Crows",
         "url": "https://open.spotify.com/album/3znRrQWLKE2aMx73TERj8M"
       },
@@ -1349,7 +1411,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 193545,
       "name": "Cutting It Close",
       "url": "https://open.spotify.com/track/1jipnlJGT2EWWg9LoSY1De"
@@ -1371,7 +1433,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 275247,
       "name": "Cyberhex",
       "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
@@ -1585,7 +1647,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 209828,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
@@ -1899,7 +1961,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214175,
       "name": "Empty",
       "url": "https://open.spotify.com/track/6gw8oHxB3u5naUO7tc7Zmg"
@@ -2019,6 +2081,24 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "album": {
+        "name": "A Hero's Journey",
+        "url": "https://open.spotify.com/album/5tupOm4z6F3B4UMmfliBi3"
+      },
+      "artists": [
+        {
+          "name": "Capital Theatre",
+          "url": "https://open.spotify.com/artist/4ISF1JXAPlRrDtZu9EgIcv"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288048,
+      "name": "Fait Accompli",
+      "url": "https://open.spotify.com/track/2WVIffmLGZUz96nOsNgFHP"
     },
     {
       "album": {
@@ -2977,7 +3057,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201185,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6BYZGyIwoHBy8i4zcS2ABM"
@@ -3053,6 +3133,24 @@
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "album": {
+        "name": "Ketamine",
+        "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172019,
+      "name": "Ketamine",
+      "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
     },
     {
       "album": {
@@ -4030,6 +4128,28 @@
     },
     {
       "album": {
+        "name": "Patient Number 9 (feat. Jeff Beck)",
+        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -4153,6 +4273,24 @@
       "duration_ms": 157969,
       "name": "Piggy",
       "url": "https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE"
+    },
+    {
+      "album": {
+        "name": "Plagued",
+        "url": "https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Plagued",
+      "url": "https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC"
     },
     {
       "album": {
@@ -4410,6 +4548,24 @@
     },
     {
       "album": {
+        "name": "Repent",
+        "url": "https://open.spotify.com/album/4zln7Tl4bTG5BqD4FdhQq9"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223875,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/2QkGCfsLjFmOyTXqraOoZN"
+    },
+    {
+      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -4536,6 +4692,24 @@
     },
     {
       "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
+    },
+    {
+      "album": {
         "name": "A New Horizon",
         "url": "https://open.spotify.com/album/7fY3AgsW1hS5ZXIaUdrm4d"
       },
@@ -4641,6 +4815,24 @@
       "duration_ms": 162985,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7pTRGbXC1DLFJblKPmd2o7"
+    },
+    {
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
     },
     {
       "album": {
@@ -5196,6 +5388,24 @@
     },
     {
       "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/0wofJfBcNtk7PG9sveFeoa"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209548,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/3l3SHjft9MKZt4Yq3CktJo"
+    },
+    {
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd) [Heavy Edit]",
         "url": "https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2"
       },
@@ -5237,6 +5447,24 @@
       "duration_ms": 191626,
       "name": "Strangest Faces",
       "url": "https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7"
+    },
+    {
+      "album": {
+        "name": "StuckintheMiddle",
+        "url": "https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT"
+      },
+      "artists": [
+        {
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198515,
+      "name": "StuckintheMiddle",
+      "url": "https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv"
     },
     {
       "album": {
@@ -5323,7 +5551,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 284093,
       "name": "Sweet Dreams of Otherness",
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
@@ -5353,6 +5581,24 @@
       "duration_ms": 168289,
       "name": "Swerve (feat. FEVER 333 & Sueco)",
       "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4bf2plTcwmLaWZqBbSO5oe"
+      },
+      "artists": [
+        {
+          "name": "New Medicine",
+          "url": "https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X"
     },
     {
       "album": {
@@ -5762,7 +6008,7 @@
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206631,
+      "duration_ms": 206586,
       "name": "TIRED OF WINNING",
       "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
     },
@@ -5997,7 +6243,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240546,
       "name": "Voices",
       "url": "https://open.spotify.com/track/1MAgyApG5ey1xaXbziJ4ji"
@@ -6164,6 +6410,24 @@
     },
     {
       "album": {
+        "name": "We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"
+    },
+    {
+      "album": {
         "name": "What's Coming To Me",
         "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
       },
@@ -6193,7 +6457,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
@@ -6211,7 +6475,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 170500,
       "name": "when we were broken",
       "url": "https://open.spotify.com/track/2DA2R8axDHMeq1JSbbm10M"
@@ -6341,7 +6605,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"

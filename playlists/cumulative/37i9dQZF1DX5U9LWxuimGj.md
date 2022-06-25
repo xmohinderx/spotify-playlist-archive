@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-85 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+86 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 | 2021-12-10 |  |
 | [Caminando](https://open.spotify.com/track/4A2WUGWWhMomNd3SshZK2E) | [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Alamo Country Band](https://open.spotify.com/album/5rIcbhlN8jUeXVAPZYWaTv) | 3:50 | 2021-12-10 |  |
 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 | 2021-12-10 |  |
+| [Chevy Bel Air](https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q) | 2:57 | 2022-06-24 |  |
 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-10 |  |
 | [Cowboy Cumbia \(Bilingual\)](https://open.spotify.com/track/3j9R13BrWuygVOgOeIu2qe) | [Javier Molina](https://open.spotify.com/artist/2vSsnnmsA8tgIKAR13k8ZO) | [Cowboy Cumbia \(20th Anniversary Edition\)](https://open.spotify.com/album/6PJa8XuD1rafZnJR5PnFRq) | 4:22 | 2021-12-10 |  |
 | [Crying \(Bilingual Version\)](https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B) | [Veronique Medrano](https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h) | [Crying](https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B) | 3:17 | 2021-12-10 |  |

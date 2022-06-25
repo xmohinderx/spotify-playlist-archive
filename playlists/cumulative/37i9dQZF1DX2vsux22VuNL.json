@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele pop misturado com hip hop ou funk pura brisa. Foto: Luccas Carlos",
+  "description": "Aquele pop misturado com hip hop ou funk pura brisa. Foto: Vit\u00e3o",
   "name": "brisa",
   "published_playlist_ids": [
     "6jQhl9g0LTyG58hELgK7FX"
@@ -253,6 +253,28 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "album": {
+        "name": "Aquela Sorte",
+        "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Aquela Sorte",
+      "url": "https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1"
     },
     {
       "album": {
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 128000,
       "name": "Encaixa",
       "url": "https://open.spotify.com/track/0ktKLa4sJ9Jc7AVUXeBvkd"
@@ -969,7 +991,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 130332,
       "name": "Lance Indefinido",
       "url": "https://open.spotify.com/track/4l0lPQVCCmOeZ1gkS1ZRZt"
@@ -1095,10 +1117,50 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 168260,
       "name": "Madrugadas",
       "url": "https://open.spotify.com/track/3WO8zBeGsmFiOkcLgXl1kb"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/0XY8ApnifhMHaRbnzUV8s3"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231055,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/7JhEJ3NzaPtzCNQ2BU9UGT"
+    },
+    {
+      "album": {
+        "name": "Maldade",
+        "url": "https://open.spotify.com/album/4iIW6out3SneOyGUTBgBEr"
+      },
+      "artists": [
+        {
+          "name": "LOH",
+          "url": "https://open.spotify.com/artist/4KTD83i1qBDT0WOWUzXIyd"
+        },
+        {
+          "name": "Batooke Native",
+          "url": "https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181683,
+      "name": "Maldade",
+      "url": "https://open.spotify.com/track/3ett476N4uKnHngC8sTrJz"
     },
     {
       "album": {

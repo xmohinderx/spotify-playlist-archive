@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 156004,
       "name": "Bad Kid Great God",
       "url": "https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 147000,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 108037,
       "name": "BOTS (freestyle)",
       "url": "https://open.spotify.com/track/73csrPe5BOciEL8EQX6C0p"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 203416,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/219hPUdlYNhtlHXMJ5Jqjf"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 124080,
       "name": "Crown",
       "url": "https://open.spotify.com/track/59DnReCyRq55fJUBXhNaMy"
@@ -2805,7 +2805,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 184893,
       "name": "Don't Lose Heart (feat. Lynnea)",
       "url": "https://open.spotify.com/track/2rwqUtoUUjPZ01I4PpLj8x"
@@ -4573,7 +4573,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 165629,
       "name": "I GET THIS?",
       "url": "https://open.spotify.com/track/5eFvHwmGYSPuJogHddWqKI"
@@ -4759,7 +4759,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3h5kGTuLeiPiO5p2aw6Io8"
@@ -4857,7 +4857,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
@@ -5661,17 +5661,17 @@
       },
       "artists": [
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        },
-        {
           "name": "Vic Lucas",
           "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 238895,
       "name": "Look at Me Now",
       "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
@@ -6151,7 +6151,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 174811,
       "name": "Muzzle",
       "url": "https://open.spotify.com/track/205gltq1f8eo49aii55f81"
@@ -6231,7 +6231,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240952,
       "name": "my year",
       "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
@@ -6517,7 +6517,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 159000,
       "name": "No One's Gonna Save Me",
       "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
@@ -6807,7 +6807,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211500,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/1CYddBLXud7wVxcM2en4e3"
@@ -6965,7 +6965,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 239999,
       "name": "On The Go (feat. Bryann T)",
       "url": "https://open.spotify.com/track/2WBLES2aiTe2lK9A6yAyoK"
@@ -7231,7 +7231,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L"
@@ -7721,7 +7721,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 143512,
       "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
       "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
@@ -8065,7 +8065,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
@@ -8105,7 +8105,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 169903,
       "name": "RESPECT",
       "url": "https://open.spotify.com/track/7KUeFWTXZAiq1v5Y0lBxaK"
@@ -8769,7 +8769,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240000,
       "name": "Spiritual Violence",
       "url": "https://open.spotify.com/track/1LhgxsjhWN17o46oOcepqd"
@@ -9241,7 +9241,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz"
@@ -9285,7 +9285,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 128000,
       "name": "Tested",
       "url": "https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8"
@@ -10325,7 +10325,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 188720,
       "name": "Waves",
       "url": "https://open.spotify.com/track/23PRXbBw9oy3qYEcpH8EA4"
@@ -10487,7 +10487,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 212991,
       "name": "We Go On",
       "url": "https://open.spotify.com/track/6QgOkpZuQeXir9VuZ1XQpS"
@@ -11057,7 +11057,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/7zTN5XcEXUHOI3m3jk0iZF"

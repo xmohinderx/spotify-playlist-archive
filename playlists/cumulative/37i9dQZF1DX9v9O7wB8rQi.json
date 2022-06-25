@@ -532,24 +532,6 @@
     },
     {
       "album": {
-        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
-        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
-          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
-        }
-      ],
-      "date_added": "2022-06-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133000,
-      "name": "SAC_2045",
-      "url": "https://open.spotify.com/track/4V1EswwC6Sf14IGnNMWIMC"
-    },
-    {
-      "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
         "url": "https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ"
       },
@@ -565,6 +547,32 @@
       "duration_ms": 133999,
       "name": "SAC_2045",
       "url": "https://open.spotify.com/track/3XYbwvKYLfkFF8k8D14K6d"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50",
+          "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"
+        },
+        {
+          "name": "\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "SAC_2045",
+      "url": "https://open.spotify.com/track/4V1EswwC6Sf14IGnNMWIMC"
     },
     {
       "album": {
@@ -651,6 +659,14 @@
         {
           "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
           "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50",
+          "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"
+        },
+        {
+          "name": "\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs"
         }
       ],
       "date_added": "2022-06-21",
@@ -684,6 +700,10 @@
         "url": "https://open.spotify.com/album/2ZHTUlPwmJvDHUJVbQnJik"
       },
       "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
         {
           "name": "\u6238\u7530\u4fe1\u5b50",
           "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"

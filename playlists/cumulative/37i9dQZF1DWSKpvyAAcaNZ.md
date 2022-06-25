@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Fantastic Negrito
 
-169 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+170 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 |  |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 |  |
 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-12-17 | 2022-06-18 |
+| [Be Enough](https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Be Enough](https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px) | 4:12 | 2022-06-24 |  |
 | [Better Feeln' Better Days](https://open.spotify.com/track/3zkdaLqbeTXcIyJnMAwA35) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 3:43 | 2021-12-17 | 2022-06-04 |
 | [Better Way](https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn) | [Kim Logan](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Better Way](https://open.spotify.com/album/1Q3V2eobeVSrN3CQP78sWK) | 4:04 | 2021-12-17 |  |
 | [Black Crow](https://open.spotify.com/track/6f8wMPrnGpIF6qU6afkOIZ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Black Crow](https://open.spotify.com/album/3tLk6wfBk0xHptDaImOv8Y) | 4:30 | 2021-12-17 |  |

@@ -4,7 +4,7 @@
 
 > Focus to the sound of soft electronic music.
 
-178 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+181 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Delphina](https://open.spotify.com/track/7yi2ZzgcknbtVih0sNyBDv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ) | 5:14 | 2022-04-15 |  |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2022-04-15 | 2022-05-27 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-04-15 |  |
+| [Deseable](https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Deseable](https://open.spotify.com/album/0e5TXcaLggVbVsaBhU0iGo) | 2:29 | 2022-06-24 |  |
 | [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 | 2022-04-15 |  |
 | [Desolation](https://open.spotify.com/track/56w2iwPI8KID8XTbBaalUv) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Desolation](https://open.spotify.com/album/16SzYaCAzPsKUaNd0HuvQ1) | 2:42 | 2022-04-15 |  |
 | [Dimensions](https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Dimensions](https://open.spotify.com/album/6908Dm8onq9f0UfdmhFzg2) | 3:16 | 2022-04-15 |  |
@@ -133,6 +134,7 @@
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-15 |  |
 | [Reach](https://open.spotify.com/track/1HWy19J4EI51m1RR9iqzn5) | [Jox Talay](https://open.spotify.com/artist/0qDTl4Bh2K6djIvLh91QQP) | [Reach](https://open.spotify.com/album/2koR8FUMFEEaDRH61Irgvt) | 3:26 | 2022-04-15 |  |
 | [Reflections](https://open.spotify.com/track/4TbcZUOwyywPPC1gbpnLqW) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/0QD0AJntZBIYlwSwpLNNmd) | 5:56 | 2022-04-15 |  |
+| [Rejuvenate](https://open.spotify.com/track/0yqLtGV1aM6EJcxqWvq95z) | [BlauDisS](https://open.spotify.com/artist/71YgYh2rcHCeOSB9pVqYT3) | [Rejuvenate](https://open.spotify.com/album/3ZVehffzLcTBCsO8fqmDBg) | 2:51 | 2022-06-24 |  |
 | [Reverie](https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [Reverie](https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3) | 3:14 | 2022-04-15 | 2022-06-10 |
 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 | 2022-04-15 |  |
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2022-04-15 |  |
@@ -175,6 +177,7 @@
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-04-15 |  |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-15 | 2022-06-10 |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-15 |  |
+| [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2022-04-15 |  |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2022-04-15 |  |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-06-10 |

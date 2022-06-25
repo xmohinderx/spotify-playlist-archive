@@ -1,12 +1,12 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7185,
+  "num_followers": 7186,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAxNzk0MCwwMDAwMDA1YzAwMDAwMTgxOTI1YzZlODcwMDAwMDE4MTkyMDEwOGZi",
+  "snapshot_id": "MTY1NjA2MTEzOCwwMDAwMDA1ZDAwMDAwMTgxOTRlZjk4MzEwMDAwMDE4MTkyMDEwOGZi",
   "tracks": [
     {
       "added_at": "2022-06-23 20:59:00",
@@ -55,6 +55,22 @@
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+    },
+    {
+      "added_at": "2022-06-24 08:58:58",
+      "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 193584,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -1031,26 +1047,6 @@
       "duration_ms": 200682,
       "name": "New Level // SUPERWATER",
       "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
-    },
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/5rdeeVtJoaWrNjJSFevwHB"
-      },
-      "artists": [
-        {
-          "name": "T4 Choyce",
-          "url": "https://open.spotify.com/artist/08oxpy9AeiGdX7hKfo1ccU"
-        },
-        {
-          "name": "J Raven",
-          "url": "https://open.spotify.com/artist/5eTK1i7V5DC9bSYpNhoUM0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1Z0n7t6tK0v5jVd4fEPHBa"
     },
     {
       "added_at": "2021-11-11 20:59:00",

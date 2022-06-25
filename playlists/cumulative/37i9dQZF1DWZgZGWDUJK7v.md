@@ -4,7 +4,7 @@
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Under the Oak Tree\(상수리 나무 아래\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-63 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+64 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-09 |  |
 | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/track/67Ouhn0JV62GyxpLBDXfVZ) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/album/5uRHJ5gqXFB7q4Je5PlhLR) | 3:50 | 2022-05-09 |  |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-14 |  |
+| [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 | 2022-06-24 |  |
 | [The day, you left](https://open.spotify.com/track/6XwYhpviRrXo0gcxE9whmC) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [The day, you left](https://open.spotify.com/album/7lvmg9mp90fdnTOSHQ0Bmi) | 3:35 | 2022-05-09 |  |
 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 | 2022-05-09 |  |
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2022-05-09 |  |

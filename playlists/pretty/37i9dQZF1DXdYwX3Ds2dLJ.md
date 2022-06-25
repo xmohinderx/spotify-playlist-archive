@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,641 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 22 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 |
 | 23 | [Gotta Go](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | 3:41 |
 | 24 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 |
-| 25 | [At the end](https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI) | [CHUNG HA](https://open.spotify.com/artist/3FNZuxzePrdtvpqtLDINZH) | [Hotel Del Luna OST Part.6](https://open.spotify.com/album/1U3PIfgY7PqNd7DDeX29P6) | 3:44 |
+| 25 | [At the end](https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hotel Del Luna OST Part.6](https://open.spotify.com/album/1U3PIfgY7PqNd7DDeX29P6) | 3:44 |
 | 26 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 |
 | 27 | [Love U](https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:10 |
 | 28 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 31 | [Be Yourself](https://open.spotify.com/track/509VlYwebt36Tn80X5y4vC) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Be Yourself](https://open.spotify.com/album/5JGB7sxVshd2D4WSSFTEXt) | 3:25 |
 | 32 | [My Friend](https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [My Friend](https://open.spotify.com/album/21Rd8YU3BI7P4PVtfsf9ji) | 2:29 |
 | 33 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 |
-| 34 | [My Love](https://open.spotify.com/track/5PacHWbW1rFLDt2r0Ilb4u) | [CHUNG HA](https://open.spotify.com/artist/3FNZuxzePrdtvpqtLDINZH) | [Dr\. Romantic 2 OST Part.8](https://open.spotify.com/album/2DrdSTXRKyA9C4QAZfaVoa) | 3:40 |
+| 34 | [My Love](https://open.spotify.com/track/5PacHWbW1rFLDt2r0Ilb4u) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Dr\. Romantic 2 OST Part.8](https://open.spotify.com/album/2DrdSTXRKyA9C4QAZfaVoa) | 3:40 |
 | 35 | [Loveship](https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Loveship](https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ) | 4:19 |
 | 36 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
 | 37 | [FAST](https://open.spotify.com/track/5qz2JLETV6S7nWakMB37ki) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [FAST](https://open.spotify.com/album/1tnhaRf0aRqIrmdyCPPIYc) | 3:04 |

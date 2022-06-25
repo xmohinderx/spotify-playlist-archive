@@ -2946,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Lull",
+        "url": "https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac"
+      },
+      "artists": [
+        {
+          "name": "Sleepless Eye",
+          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Lull",
+      "url": "https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF"
+    },
+    {
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/7GcnCnJe3p1hOUE2lpgVHS"
       },
@@ -4059,6 +4077,24 @@
       "duration_ms": 138857,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH"
+    },
+    {
+      "album": {
+        "name": "Mindful",
+        "url": "https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Verci",
+          "url": "https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168111,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
     },
     {
       "album": {

@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Getsuei",
+        "url": "https://open.spotify.com/album/7wImlh1GGjFobn5I00H2B6"
+      },
+      "artists": [
+        {
+          "name": "Ryohei Shimoyama",
+          "url": "https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260420,
+      "name": "Getsuei",
+      "url": "https://open.spotify.com/track/5VVHPMx47waVZE7rNutKd4"
+    },
+    {
+      "album": {
         "name": "Giardino del respiro",
         "url": "https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ"
       },

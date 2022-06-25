@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 245697,
       "name": "Dicomoz",
       "url": "https://open.spotify.com/track/4LByBaP3YMsvNgba2fJ6JL"
@@ -255,6 +255,24 @@
       "duration_ms": 202320,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+    },
+    {
+      "album": {
+        "name": "Ilumina Se\u00f1or A M\u00e9xico",
+        "url": "https://open.spotify.com/album/1xSrVuzjzj8yoSrB4WAH3V"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "El Corrido De Monterrey",
+      "url": "https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU"
     },
     {
       "album": {

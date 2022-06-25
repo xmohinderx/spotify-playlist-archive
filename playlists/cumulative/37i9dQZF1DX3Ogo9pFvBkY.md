@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-655 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+656 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Creeping into Dusk](https://open.spotify.com/track/6NBjJ9EPr0FyxhbFeCqwwM) | [A Dancing Beggar](https://open.spotify.com/artist/728YMd5rIL5FkGaRLNdAv8) | [Follow The Dark as If It Were Light](https://open.spotify.com/album/6VRg2NbI3EiWql4S9zmctY) | 5:33 | 2019-05-26\* | 2019-06-29 |
 | [Cristales](https://open.spotify.com/track/2y4BjmOnbJB2SfgXpPK859) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Alter Ego EP](https://open.spotify.com/album/4NYzqT293AyVwWVxoKC9yP) | 1:43 | 2020-01-09 |  |
 | [Crossing Paths](https://open.spotify.com/track/2UNKk7IG25ykiRphSfEH5C) | [Curved Mirror](https://open.spotify.com/artist/3kGZSkar6fss8HWhrh4Kvj) | [Crossing Paths](https://open.spotify.com/album/0miVfRekvyWVevDk8dGqFJ) | 5:26 | 2020-10-08 | 2021-07-23 |
+| [Crossover](https://open.spotify.com/track/08cjGj3SvKyG8JMo2Hnero) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Crossover](https://open.spotify.com/album/4o3GUDTM9OstkAetCHOq7u) | 3:32 | 2022-06-24 |  |
 | [Crystal Caves](https://open.spotify.com/track/7dXXZTESEoAUB316nR7E9T) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Crystal Caves](https://open.spotify.com/album/4RdSFcmzaf3oktYdRiAIQO) | 3:47 | 2020-12-24 | 2021-06-16 |
 | [Crystal Rainbow](https://open.spotify.com/track/38KA0V0itQdu90o81fF216) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Crystal Rainbow](https://open.spotify.com/album/1gIS9yjql6sT3bQmRYZuMk) | 3:39 | 2020-10-08 | 2021-05-05 |
 | [Crystal Shores](https://open.spotify.com/track/0gUAGl4nHShy1dzHikQKKU) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Crystal Shores](https://open.spotify.com/album/06r3HcyF5QIGmEafU1R4mW) | 2:50 | 2019-06-29 | 2021-07-23 |

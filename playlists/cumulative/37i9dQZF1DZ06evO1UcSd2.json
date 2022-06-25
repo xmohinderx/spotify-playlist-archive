@@ -997,6 +997,28 @@
     {
       "album": {
         "name": "\u00bfY Quienes Somos?",
+        "url": "https://open.spotify.com/album/2zzfiVjLx8NcdPu1lQ3yZB"
+      },
+      "artists": [
+        {
+          "name": "La Duda",
+          "url": "https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256217,
+      "name": "Soy el Eddy",
+      "url": "https://open.spotify.com/track/57adcqVBwYVjelcepFTGGJ"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Quienes Somos?",
         "url": "https://open.spotify.com/album/6Dn0Qlszolwh3AqMMc6vqq"
       },
       "artists": [
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 256218,
       "name": "Soy El Eddy",
       "url": "https://open.spotify.com/track/6MwfWNCVXvUYjmVFyy5jeo"

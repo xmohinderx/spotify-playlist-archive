@@ -1648,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Little Light",
+        "url": "https://open.spotify.com/album/64GHlOsZrUrLnquyALCuXX"
+      },
+      "artists": [
+        {
+          "name": "Wanderer's Trove",
+          "url": "https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269388,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/2Ppf66x921uNDrwKyUyhg2"
+    },
+    {
+      "album": {
         "name": "Little Memories",
         "url": "https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0"
       },
@@ -2261,6 +2279,24 @@
       "duration_ms": 147692,
       "name": "Seven Trees",
       "url": "https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P"
+    },
+    {
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn \u00d6hrwall",
+          "url": "https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99266,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO"
     },
     {
       "album": {

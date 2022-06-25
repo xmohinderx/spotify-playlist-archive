@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-160 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+161 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Melody For My Best Friend](https://open.spotify.com/track/1IA0lgqrDrqXbiQgbo8oB2) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Melody For My Best Friend](https://open.spotify.com/album/3W6OOmwDnWm6SMPl26r7tV) | 2:48 | 2022-06-17 |  |
 | [Melrose](https://open.spotify.com/track/1mk7RZAYrpp1twu6bqI5aG) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Melrose](https://open.spotify.com/album/6C8FoeSpYvqRZkWMLw90L8) | 1:55 | 2022-06-17 |  |
 | [Midwinter](https://open.spotify.com/track/3U0Jz4y4SiseCKtL6jdDOZ) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Midwinter](https://open.spotify.com/album/38fLpzIszQjCAZ2FTIuTi7) | 2:50 | 2022-06-17 |  |
+| [Mind Valleys](https://open.spotify.com/track/3rg9zyTqRc76vDIWC2Jkb0) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Mind Valleys](https://open.spotify.com/album/1VHtmHga3tiIDviQohWtjS) | 2:34 | 2022-06-24 |  |
 | [Miniatura No.21 \- Errante](https://open.spotify.com/track/4N4mZfdElgywkFTxIpxuJ1) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.21 \- Errante](https://open.spotify.com/album/2fEc0oJa7PQtOiimmZHau1) | 1:38 | 2022-06-17 |  |
 | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/track/3bep5fkZPBmpmznIf4O5zQ) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/album/2QeXqjceWP6rlejPPLpAMy) | 2:14 | 2022-06-17 |  |
 | [Mirage](https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Mirage](https://open.spotify.com/album/4F9QGuVlR08gdhYyJfqdid) | 3:03 | 2022-06-17 |  |

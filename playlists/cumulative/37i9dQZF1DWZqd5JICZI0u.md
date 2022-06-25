@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-381 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+383 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 | 2021-04-14 |  |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2020-12-24 |  |
 | [Assonnato](https://open.spotify.com/track/4SO82a7foP5oVqb9cspxd5) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [Assonnato](https://open.spotify.com/album/6mjmPm2enQLom4hwJg3B3G) | 3:04 | 2020-12-03 |  |
+| [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2020-09-30\* | 2021-09-14 |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-19 |  |
 | [Auriga](https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y) | [Boris Wilde](https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE) | [Clusters](https://open.spotify.com/album/1y0KC5V5fkivO8IH323prK) | 2:58 | 2022-06-16 |  |
@@ -285,6 +286,7 @@
 | [Reverie](https://open.spotify.com/track/7fLwX9QXiSgBSxQXmaSO6Y) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Reverie](https://open.spotify.com/album/11pRFzgN1thRcxE0PmbZn2) | 3:59 | 2021-11-10 |  |
 | [Rivers](https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Into The Unknown](https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ) | 3:22 | 2020-10-27 |  |
 | [Ruby](https://open.spotify.com/track/0JH9zw05M791JyLuLifxpw) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 4](https://open.spotify.com/album/5iXA5WyskcohumbTodwGLl) | 2:47 | 2020-09-30\* | 2021-01-06 |
+| [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
 | [sailing dreams](https://open.spotify.com/track/4rvuy58or74YCum7qXpPxZ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/3B4iWokKVm3QNjw7WTeYH8) | 3:03 | 2022-03-30 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-10-13 |  |
 | [Sajda](https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Sajda](https://open.spotify.com/album/0UlB8zVbHEuhwEj4YYH2ip) | 3:40 | 2021-12-17 |  |

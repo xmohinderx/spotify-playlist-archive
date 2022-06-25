@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Endurance",
+        "url": "https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5"
+      },
+      "artists": [
+        {
+          "name": "Aerian",
+          "url": "https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149225,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ"
+    },
+    {
+      "album": {
         "name": "Flare In\u00e9vitable",
         "url": "https://open.spotify.com/album/4lkf9FvLdBo4UDUxl4alCL"
       },

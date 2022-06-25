@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-449 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+451 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 |  |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* |  |
 | [Chill Kingdom](https://open.spotify.com/track/7lxPJaeT21LyiC7Pu4eSNX) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Chill Kingdom](https://open.spotify.com/album/3YPivgJnzq2dZbKNu8xZy9) | 3:47 | 2019-05-26\* | 2019-06-19 |
+| [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* |  |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
@@ -121,6 +122,7 @@
 | [Ether](https://open.spotify.com/track/2MlOFHc3MfkTIRVGGCM4HL) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Ether](https://open.spotify.com/album/0En8WtheZ8I01DambEhbn5) | 3:09 | 2019-06-27 |  |
 | [Ether](https://open.spotify.com/track/49fKIKnEXvfCEy2HWwKwVG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ether](https://open.spotify.com/album/2n6SmFMb8x9HHyiPAGLOXd) | 5:10 | 2019-05-26\* | 2019-06-19 |
 | [Ethereal Glow](https://open.spotify.com/track/381cpx26XrMnGOIn4faioN) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Ethereal Glow](https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw) | 2:31 | 2022-05-05 |  |
+| [Eulogy](https://open.spotify.com/track/0yS587osB0zPG0JB01roTg) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Eulogy](https://open.spotify.com/album/2qZy8wp8au2NuByaBvaIB0) | 2:27 | 2022-06-24 |  |
 | [Euphoria](https://open.spotify.com/track/2srKKTOmWUOEUZogGDTCIm) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Euphoria](https://open.spotify.com/album/7Bs1tiV1SjNSRzm2ZvJeVV) | 3:30 | 2019-06-19\* | 2019-06-27 |
 | [Event Horizon](https://open.spotify.com/track/7lSHfDPdyGdRyG234h5ToK) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 5:10 | 2019-06-27 | 2020-12-24 |
 | [Everest](https://open.spotify.com/track/5OHNiEcJSvVv2gB8dd5ntH) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 3:03 | 2019-05-26\* | 2019-06-19 |

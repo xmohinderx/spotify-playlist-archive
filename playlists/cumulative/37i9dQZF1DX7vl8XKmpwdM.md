@@ -2,9 +2,9 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Beast
+> Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-52 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+53 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Sivakumar Pondati \- From "Sivakumarin Sabadham"](https://open.spotify.com/track/6XPgCW18GiGg0scbMcdxgX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Gana Michael](https://open.spotify.com/artist/0imvlXJqHQo2ztGqrvIUVI) | [Sivakumar Pondati \(From "Sivakumarin Sabadham"\)](https://open.spotify.com/album/66vXy7SyZYMwMCXpOiES3C) | 3:16 | 2021-12-01 |  |
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-12-01 |  |
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-03 |  |
+| [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-06-24 |  |
 | [Two Two Two](https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 2:56 | 2022-04-28 |  |
 | [Uruttu](https://open.spotify.com/track/56kHBD2biMor1AHSCE40bA) | [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz), [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Uruttu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/3hHZsklIyfzfx3bqsywRnQ) | 3:34 | 2021-12-02 |  |
 | [Vaadi Vaasal \- From "The Legend"](https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaadi Vaasal \(From "The Legend"\)](https://open.spotify.com/album/2xc1j2STHlCyX00edTUkOc) | 4:18 | 2022-05-23 |  |

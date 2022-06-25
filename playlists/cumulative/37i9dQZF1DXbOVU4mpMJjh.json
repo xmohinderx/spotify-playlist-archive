@@ -13,7 +13,7 @@
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
+          "name": "BLOSSOM DEARIE",
           "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 242066,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T"
@@ -3321,6 +3321,36 @@
       "duration_ms": 168906,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5sn5E8HsUitOsC70O26l4i"
+    },
+    {
+      "album": {
+        "name": "On the Trail",
+        "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Sophia Tomelleri",
+          "url": "https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261236,
+      "name": "Nico's Dream",
+      "url": "https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb"
     },
     {
       "album": {

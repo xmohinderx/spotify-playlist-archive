@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Chevy Bel Air",
+        "url": "https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177416,
+      "name": "Chevy Bel Air",
+      "url": "https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1"
+    },
+    {
+      "album": {
         "name": "Country'd Look Good On You",
         "url": "https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO"
       },

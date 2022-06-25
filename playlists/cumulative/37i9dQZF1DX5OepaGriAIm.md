@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["It’s A Good Day"](https://open.spotify.com/track/0zIqs8nFS5eHLgL0ZprFuP) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Kay Starr: the Best of The Standard Transcriptions](https://open.spotify.com/album/76OGDz0wNcsSAaNAu3t4Zx) | 1:59 | 2021-12-02 |  |
-| ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2021-12-02 |  |
+| ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2021-12-02 |  |
 | ['S Wonderful / They Can't Take That Away From Me](https://open.spotify.com/track/0BWN2pCgTEIqiryperxynR) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/7jLFJn7CGyMBJFauVQ26ol) | 3:00 | 2021-12-02 |  |
 | ['Tis Autumn](https://open.spotify.com/track/2crI4VDWhG7m66Bc2afjJw) | [Barbara Carroll](https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n) | [Ladies Of Jazz](https://open.spotify.com/album/2vi1qiiUtDUvdIOG3pEpDk) | 3:25 | 2021-12-02 |  |
 | [12 Stars](https://open.spotify.com/track/2FjOGQaDBoR2rcEkSDA5jL) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/4XhG0Qxth2pJsb3efESk9S) | 2:59 | 2022-02-10 |  |

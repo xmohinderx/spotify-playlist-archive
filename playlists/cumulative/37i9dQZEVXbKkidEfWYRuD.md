@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-734 songs - 1 day 10 hr 34 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+735 songs - 1 day 10 hr 37 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BOMB](https://open.spotify.com/track/3UmNBB7JCoVOo88xZJUsxR) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [BOMB](https://open.spotify.com/album/5XWAziTsC6dMurKzU0LaL1) | 2:19 | 2021-03-27 | 2021-03-29 |
 | [BOMB](https://open.spotify.com/track/5H4gHz16ELn3tFgvVIfApZ) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:19 | 2021-04-11 | 2021-04-13 |
 | [Bon Voyage](https://open.spotify.com/track/3U8JCs5aH9wLpQR08BuPJA) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2021-11-28 |
+| [BONES](https://open.spotify.com/track/3QslPNyh3s8UdAtNX3c2Fy) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [BONES](https://open.spotify.com/album/6N3UZW3lXx4yo2PqChk0lO) | 2:34 | 2022-06-24 |  |
 | [Brooklyn](https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3), [TumaniYO](https://open.spotify.com/artist/6GSMqHdLtTCTR9pv5ytaTo) | [Brooklyn](https://open.spotify.com/album/10x0aQuG6ziJIPt0FhFJ0Z) | 3:13 | 2021-08-01 | 2021-10-23 |
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2021-04-11 | 2021-04-15 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-17 |
@@ -493,7 +494,7 @@
 | [Капли](https://open.spotify.com/track/0LwPFTgtNaQrfyWHM42Z83) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Капли](https://open.spotify.com/album/2G5WhV5vAbitKizDrCX8ry) | 2:40 | 2022-04-16 | 2022-04-25 |
 | [Карманы](https://open.spotify.com/track/4VMD5B8Om6Oo7fFhMOcyGg) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:12 | 2021-12-18 | 2021-12-19 |
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
-| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 |  |
+| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 | 2022-06-25 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |

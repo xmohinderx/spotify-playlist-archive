@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-86 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+88 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Beyond the Horizon](https://open.spotify.com/track/1i1H08SnaptEAMlZcESXL8) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 2:04 | 2022-02-28 |  |
 | [Changes](https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Changes](https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol) | 2:41 | 2022-04-08 |  |
 | [Chill Spa Music](https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Guitar Meditation](https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX) | 2:13 | 2022-04-08 |  |
+| [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-02-28 |  |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-02-28 |  |
@@ -55,6 +56,7 @@
 | [Memories \(Top Gun\)](https://open.spotify.com/track/0wzH9CWSAl0UNrqODUiwkw) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:48 | 2022-02-28 |  |
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-28 |  |
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
+| [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |
 | [Nightsky](https://open.spotify.com/track/6zmG3oMYGljGbfCNxrYBSZ) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Nightsky](https://open.spotify.com/album/4u9zBt4isiVIeJfVXYsxAn) | 2:32 | 2022-04-21 |  |

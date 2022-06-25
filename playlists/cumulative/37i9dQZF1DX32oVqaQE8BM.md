@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-324 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+327 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [La Laguna](https://open.spotify.com/track/7dDviLCnlH4PQoGVXRN5EL) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [La Laguna](https://open.spotify.com/album/2xsXpy2JlXVUK0rXMznEyJ) | 3:27 | 2021-11-10 |  |
 | [Labyrinth](https://open.spotify.com/track/3v8jOgxDHSeWVjSoVwnFk8) | [Yes, Then Zero](https://open.spotify.com/artist/5Wnkwg7NwgYbN47ht2zDpZ) | [Labyrinth](https://open.spotify.com/album/2pcpnoBV2AyeC6G06r0853) | 2:15 | 2021-11-10 |  |
 | [lacklustre](https://open.spotify.com/track/0bRe3hevnmR3Rh4PBXHwZf) | [Lysergic Teaparty](https://open.spotify.com/artist/4cDvlS7pC7dFcg3leCFHNK) | [split visions](https://open.spotify.com/album/7Fl3HxD3wGQZ66MLzLflca) | 1:52 | 2021-11-10 | 2022-04-15 |
+| [Laid Back](https://open.spotify.com/track/4RSqg42O3PdvhC7NWWDgi7) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Laid Back](https://open.spotify.com/album/4aPS6xJ3NI4AMUpzxq7gYQ) | 2:08 | 2022-06-24 |  |
 | [Laponia](https://open.spotify.com/track/1UWszS2YSzYNxUNv14e2x4) | [J&Mock](https://open.spotify.com/artist/1YXxp9FBi4cEJSvFgU4ydk) | [Laponia](https://open.spotify.com/album/6d6UbXOpNqgyJ8AE8P5TRP) | 2:32 | 2021-11-10 |  |
 | [Last Summer](https://open.spotify.com/track/6Bqz6Yl5ZjMgR4AUVCIL77) | [Ajiro](https://open.spotify.com/artist/33DMJIaq5YdW41SvVQPk1w) | [A Great Place](https://open.spotify.com/album/0dJcjVO6bnDHyUyuLuGrBw) | 1:34 | 2022-05-13 |  |
 | [Legends of the Windwalker Prince](https://open.spotify.com/track/4xVzuqZOPhJDOBuD7lOQTe) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 2:38 | 2021-11-10 | 2022-01-22 |
@@ -175,6 +176,7 @@
 | [Mellow Workday](https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt) | [Arctic T](https://open.spotify.com/artist/2Rw27XZ3vKwMqr11yhHwDw) | [Mellow Workday](https://open.spotify.com/album/4NyDnXoaMFuenXHEOWZ5LE) | 2:07 | 2021-11-10 | 2022-06-03 |
 | [Memories](https://open.spotify.com/track/3CoaPoaxpeQbBg5xFMLvIt) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Memories](https://open.spotify.com/album/55Ctbx0cQWtzd0vflIP1al) | 2:18 | 2022-05-27 |  |
 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 2:33 | 2021-11-10 | 2022-05-11 |
+| [Mercurial](https://open.spotify.com/track/1XsNK59EhoEqsM9UFX8p1K) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Mercurial](https://open.spotify.com/album/0oUcdGpuH2QXsVrxrrMcGW) | 2:34 | 2022-06-24 |  |
 | [messy mind](https://open.spotify.com/track/36Ul3Fj7A8TSIy6zxTkKYm) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [messy mind](https://open.spotify.com/album/4tjj0qVs5jqFfO1cmRwDPm) | 1:24 | 2021-11-10 |  |
 | [Midnight Sessions](https://open.spotify.com/track/7u0N11DPQKRk2qN0zcZzAC) | [Yungie x 2](https://open.spotify.com/artist/41zvwhWE9oBEaaaAKFqpn9) | [Midnight Sessions](https://open.spotify.com/album/2BxmMhK7o7OvFWT280Nutt) | 2:17 | 2022-01-21 |  |
 | [midnight slushee](https://open.spotify.com/track/6aPaDaf5QBxN3wBg4abYNx) | [sergeant rivers](https://open.spotify.com/artist/61MbaqO16BaExSacDkAbQA) | [stormy summer stories](https://open.spotify.com/album/2u7sprLEATxfN8TQpZrsh6) | 1:57 | 2021-11-10 |  |
@@ -182,6 +184,7 @@
 | [Mighty Might](https://open.spotify.com/track/2iDYpYIRq62fxZe9ELa7GV) | [Sonny & Son](https://open.spotify.com/artist/4DMVwXj7mxd9LPJwMmdf8V) | [Mighty Might](https://open.spotify.com/album/3ZORzjnp4ZzYWO4AHjvZMD) | 2:44 | 2021-11-10 | 2022-06-03 |
 | [Mind Massage](https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mind Massage](https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a) | 2:24 | 2022-06-03 |  |
 | [Miyako](https://open.spotify.com/track/5aCdHO6JC7MqExMCPjLHUG) | [DJ Daww](https://open.spotify.com/artist/41avBfwtlGgskYqrJOGGM6) | [Miyako](https://open.spotify.com/album/6H6yWpYPxyrwQN8B4FXCzf) | 2:14 | 2021-11-10 | 2022-01-22 |
+| [mode station](https://open.spotify.com/track/12BJChhHFzQDnT8FnrGHXb) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mode station](https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb) | 3:06 | 2022-06-24 |  |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-04-15 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 |  |
 | [Morning Dew](https://open.spotify.com/track/7s58sYNKRFrmmg1jrVI4zv) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO), [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor), [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Morning Dew](https://open.spotify.com/album/0UezO0jwUObQ6dfl0Lk4XT) | 1:54 | 2022-01-21 |  |

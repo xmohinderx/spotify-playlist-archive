@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 38044,
+  "num_followers": 38075,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDA0ZjAwMDAwMTgxNmZkMzJmNDIwMDAwMDE4MTFiN2I3YTAw",
+  "snapshot_id": "MTY1NjA0MzMyMCwwMDAwMDA1MDAwMDAwMTgxOTNkZmIzMjcwMDAwMDE4MTFiN2I3YTAw",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 199493,
       "name": "I Like It When It's Stormy",
       "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
-    },
-    {
-      "added_at": "2022-05-27 04:02:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 296645,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -175,6 +175,26 @@
       "duration_ms": 249106,
       "name": "Strong as Steel",
       "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "In Blood",
+        "url": "https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Casablanca",
+          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
+        },
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "duration_ms": 245930,
+      "name": "In Blood",
+      "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1247,22 +1267,6 @@
       "duration_ms": 227434,
       "name": "Poor Black Children",
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Move Into The Light",
-        "url": "https://open.spotify.com/album/3C35eldU8vnhAa8UTUFX1Q"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "Move Into The Light",
-      "url": "https://open.spotify.com/track/2ndX8xxdVrgFn698rfqao5"
     },
     {
       "added_at": "2021-08-13 04:01:00",

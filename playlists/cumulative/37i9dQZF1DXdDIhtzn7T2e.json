@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Tulip Drive",
+        "url": "https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk"
+    },
+    {
+      "album": {
         "name": "Outlaw Trails",
         "url": "https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP"
       },

@@ -1,13 +1,29 @@
 {
-  "description": "One in a million!",
-  "num_followers": 1059988,
+  "description": "One in a million! NAYEON's first solo mini album is here! ",
+  "num_followers": 1060654,
   "original_name": "This Is TWICE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjc2NywwMDAwMDAwMGQ0ZWU1M2VkY2ZiYWU0ZTk0NGM2ZTU4YjUzMmY3YjYx",
+  "snapshot_id": "MTY1NjExOTIzNiwwMDAwMDAwMDMyNjllNzg5YzIxZTlmMjEzM2I1ODk3ZjZhZjc1OTE0",
   "tracks": [
+    {
+      "added_at": "2022-06-24 05:04:16",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+    },
     {
       "added_at": "2022-03-24 04:37:52",
       "album": {

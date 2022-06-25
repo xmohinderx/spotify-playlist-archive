@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Mha Iri
 
-371 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+372 songs - 1 day 10 hr 34 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Smile \(Solomun Remix\) \- Radio Edit](https://open.spotify.com/track/63B2YBX69c9GaQ2Svk25Il) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Smile \(Solomun Remix\)](https://open.spotify.com/album/6mqjtlB23keZ7qoAcar2WW) | 4:20 | 2022-06-02 | 2022-06-24 |
 | [Solace](https://open.spotify.com/track/6UgBaEXuexQCA0yNmmrw9W) | [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL) | [Blue Horizon](https://open.spotify.com/album/08ITVuW6fxTNgynQE0Zz85) | 6:06 | 2022-05-05 | 2022-05-20 |
 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 | 2022-04-14 | 2022-04-29 |
+| [Solo \- Solomun Remix](https://open.spotify.com/track/4R4rVCp8EBHjxwtvSqN8Fd) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Solo \(Solomun Remix\)](https://open.spotify.com/album/6hHFaktvrCyykpLb7XAvTD) | 8:11 | 2022-06-24 |  |
 | [Something To Save \- Radio Edit](https://open.spotify.com/track/2y18y42IEQlAsUHoRWSduw) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Something To Save](https://open.spotify.com/album/2TRPdBwGBtgpwgdl3KFy1C) | 3:47 | 2022-04-28 | 2022-05-13 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-23 |  |
 | [Sora](https://open.spotify.com/track/36RtAq9ZTTmlOfJnn5dN9j) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Sora](https://open.spotify.com/album/1yNAiP4NfF0O8KkCW979fr) | 6:19 | 2022-04-14 | 2022-04-22 |

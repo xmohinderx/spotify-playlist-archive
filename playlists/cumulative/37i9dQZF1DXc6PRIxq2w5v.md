@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-89 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+90 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 | 2022-03-22 |  |
 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 | 2022-03-22 |  |
 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 | 2022-03-22 |  |
+| [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 | 2022-06-24 |  |
 | [Alívio](https://open.spotify.com/track/2sW3N7yxNRdSQJwGvbCw3I) | [Rodolfo Queiroz](https://open.spotify.com/artist/2tHHhgW6BXwtlwUcBcATjt), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ) | [Alívio](https://open.spotify.com/album/4onqbTvMLqTsOqYoXKbI7c) | 3:38 | 2022-03-22 | 2022-04-27 |
 | [AQUI TÁ MEU CORAÇÃO \(feat\. MellowBeatz\)](https://open.spotify.com/track/7oHFW8VPbPafn7EjNNT0KV) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ENTRE CÉU E ONDAS \- Vol.1](https://open.spotify.com/album/0dSOUXMV0pLaFCnY93aIdN) | 2:31 | 2022-04-01 |  |
 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 | 2022-03-22 |  |
@@ -94,7 +95,7 @@
 | [Viver e Mais Nada](https://open.spotify.com/track/25a5YDqyV67rID2wPHFvoB) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Biorki](https://open.spotify.com/artist/1sIQXKcs888Hpux3MQTxWm) | [Viver e Mais Nada](https://open.spotify.com/album/3ADkicTIlWZ2RM09pJ5pB2) | 2:55 | 2022-03-22 | 2022-04-02 |
 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 | 2022-03-22 |  |
 | [Você Sabe](https://open.spotify.com/track/27jTj00B4DJ0bNfiJPq4dL) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [Você Sabe](https://open.spotify.com/album/1dh9NENSgqanbE9PUe1WtH) | 3:04 | 2022-03-22 |  |
-| [Xaxaxa](https://open.spotify.com/track/7cK0cV8Hw5KD3F6EuS81qU) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Xaxaxa](https://open.spotify.com/album/30tzDIMQYDXBvDLXJ7AETj) | 1:36 | 2022-04-26 |  |
+| [Xaxaxa](https://open.spotify.com/track/7cK0cV8Hw5KD3F6EuS81qU) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Xaxaxa](https://open.spotify.com/album/30tzDIMQYDXBvDLXJ7AETj) | 1:36 | 2022-04-26 | 2022-06-25 |
 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 | 2022-03-22 |  |
 | [Êxodo Mental](https://open.spotify.com/track/4xQJZ7P1w28duY4IJu08kY) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Até O Final](https://open.spotify.com/album/0ikC2XTMDa5dzL5BJ3nnni) | 3:06 | 2022-04-26 | 2022-05-14 |
 

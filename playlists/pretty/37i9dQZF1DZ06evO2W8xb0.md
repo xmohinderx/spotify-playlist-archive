@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 48 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842 likes - 48 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 20 | [Enia Lasan](https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:10 |
 | 21 | [Egba \(Juju Yoruba\)](https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:24 |
 | 22 | [Gbe Bemi Oluwa](https://open.spotify.com/track/1cvpTxtzz7QXNk6ptyfUNX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 |
-| 23 | [Isokan/Ka Ma Mosi](https://open.spotify.com/track/2pGxqJMvokWeI6bUUdxXcj) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 18](https://open.spotify.com/album/1cVqfnT493osb77rsvxenZ) | 7:08 |
-| 24 | [Ija Pari, Pt\. 2](https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:31 |
+| 23 | [Ija Pari, Pt\. 2](https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:31 |
+| 24 | [Isokan/Ka Ma Mosi](https://open.spotify.com/track/2pGxqJMvokWeI6bUUdxXcj) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 18](https://open.spotify.com/album/1cVqfnT493osb77rsvxenZ) | 7:08 |
 | 25 | [Olomi Gbo Temi](https://open.spotify.com/track/5trq0eR9YenZqpqZl35M62) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Enia Lasan](https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s) | 3:03 |
 | 26 | [Moti Pinu Laye Mi Medley, Part\. 1](https://open.spotify.com/track/38UJmmcG2Z0owGXz5TArtF) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Moti Pinu Laye Mi](https://open.spotify.com/album/24uw9hm06urQF3Vscg9bKc) | 17:03 |
 | 27 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 41 | [Bonus Track](https://open.spotify.com/track/5aabOGm40vt2ibeVN0SLr9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 2:57 |
 | 42 | [Ki Oluwa So Ipade Wa](https://open.spotify.com/track/7gNdq3CRaeDz56htUR1mxa) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 19](https://open.spotify.com/album/5NCGXv1sa4xIZR0iduICFp) | 2:58 |
 | 43 | [Mo Ti Wa E](https://open.spotify.com/track/1MO0ImHhswv2NahAIw5BMC) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 13](https://open.spotify.com/album/0tSO1qWWk1hfdNhM9mBezw) | 6:18 |
-| 44 | [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 |
-| 45 | [Iba Folouwa](https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 3:50 |
+| 44 | [Iba Folouwa](https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 3:50 |
+| 45 | [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 |
 | 46 | [Olowo Laiye Mo](https://open.spotify.com/track/6Bil8uU8Ds2kUvEQn0x1co) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 14](https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1) | 3:02 |
-| 47 | [Oro Nipa Lace](https://open.spotify.com/track/0mc5jZILqNvxXHwX9ePFJz) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 6:06 |
-| 48 | [Ota Mi Dehin](https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:06 |
+| 47 | [Ota Mi Dehin](https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:06 |
+| 48 | [Oro Nipa Lace](https://open.spotify.com/track/0mc5jZILqNvxXHwX9ePFJz) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 6:06 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDAwYzZkNDQ4NzljZWM5OWU0MGZhN2Y5ZTk3MDk2ODQwYQ==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDA3OTJjMjc1YTg5OWUzYmQ2NzVjYTM1NTY4MDhkMjY2Nw==`

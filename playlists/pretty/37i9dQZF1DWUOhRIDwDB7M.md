@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,900 likes - 232 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,891 likes - 232 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 231 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 |
 | 232 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 |
 
-Snapshot ID: `MTY1MTc2MTgwMCwwMDAwMDAxYTAwMDAwMTgwOTRhY2U1YTMwMDAwMDE3MGM0YmM5ZjVk`
+Snapshot ID: `MTY1NjA4MTQ1OCwwMDAwMDAxYjAwMDAwMTgxOTYyNWEzOWYwMDAwMDE4MTk2MWQyZWUy`

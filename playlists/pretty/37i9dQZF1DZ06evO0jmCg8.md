@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,726 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,776 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Silverwing](https://open.spotify.com/track/32Y1ojAK8U4Ccyr1B99gVz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Burning Bridges \(Reissue\)](https://open.spotify.com/album/4qwaehBoGexegfX44egeEE) | 4:06 |
 | 50 | [Dark Insanity](https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:16 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDAyOWYzNDdjYjlmNDc1ZjU2Mjg0Yzc1MzI1NDJkNDQyOA==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDAyYjQyNzhjMTUxZjcxYTBkMDY3YmQ3NTQzZjMyZDUyOQ==`

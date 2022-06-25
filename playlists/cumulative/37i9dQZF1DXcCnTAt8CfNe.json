@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Amedeo",
+        "url": "https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137747,
+      "name": "Amedeo",
+      "url": "https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9"
+    },
+    {
+      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q"
       },
@@ -2947,6 +2965,24 @@
       "duration_ms": 155030,
       "name": "Soledad natural",
       "url": "https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ"
+    },
+    {
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y"
+      },
+      "artists": [
+        {
+          "name": "Wandercole",
+          "url": "https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Somewhere In Between",
+      "url": "https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq"
     },
     {
       "album": {

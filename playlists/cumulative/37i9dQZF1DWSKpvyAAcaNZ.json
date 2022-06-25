@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Be Enough",
+        "url": "https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252161,
+      "name": "Be Enough",
+      "url": "https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq"
+    },
+    {
+      "album": {
         "name": "A Light That Never Dies",
         "url": "https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE"
       },

@@ -4,7 +4,7 @@
 
 > Get on top of Bollywood's newest and all time hits \- Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more\. Listen to Bollywood's best only on this playlist!
 
-168 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
+169 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [Shashi](https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB), [DJ Khushi](https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Madhubanti](https://open.spotify.com/artist/4x4Q6d60hC0ZuLloMeCLoS) | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 3:07 | 2020-10-27 |  |
 | [Care Ni Karda \(From "Chhalaang"\)](https://open.spotify.com/track/6e5DH8YHXdM40ROnD76hZd) | [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Care Ni Karda \(From "Chhalaang"\)](https://open.spotify.com/album/5swh8K8fhN6dR6dVxk1aox) | 3:12 | 2020-11-05 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-03-08 |  |
+| [Chaand Baaliyan \- Girl Let Me Tell You](https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Chaand Baaliyan \(Girl Let Me Tell You\)](https://open.spotify.com/album/2fV058poX4pEmnytGPP80J) | 2:15 | 2022-06-24 |  |
 | [Chaka Chak \(From "Atrangi Re"\)](https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Chaka Chak \(From "Atrangi Re"\)](https://open.spotify.com/album/7bpePuWB0HBjVcosNkaVWd) | 4:29 | 2022-01-13 |  |
 | [Chandigarh Mein](https://open.spotify.com/track/3Eb4VbsbXMpS5Mk9HWTDia) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Chandigarh Mein \(From "Good Newwz"\)](https://open.spotify.com/album/5HjF2YHiOiQWQDeTsSXhnM) | 3:25 | 2021-01-25\* | 2021-08-27 |
 | [Channa Mereya](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 | 2021-08-10 |  |

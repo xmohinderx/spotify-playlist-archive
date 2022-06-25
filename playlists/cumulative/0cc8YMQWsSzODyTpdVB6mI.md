@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-56 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+57 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 | 2022-06-13 |  |
 | [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 |  |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |
+| [Space Birds](https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [TONG](https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB) | [Space Birds](https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE) | 2:41 | 2022-06-24 |  |
 | [Spikes \- Edit](https://open.spotify.com/track/04ZcgSFH3tPDyjJ0Ij3S4f) | [Razante](https://open.spotify.com/artist/3dB9mmLX2lYKa4bfEUPUYA) | [Spikes \(Edit\)](https://open.spotify.com/album/2ZkHjP93wimpyM0gGn1MWf) | 3:44 | 2022-05-04 |  |
 | [Stolen Car](https://open.spotify.com/track/5vVWrefc29nd8RdBu7wdfv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Stolen Car](https://open.spotify.com/album/3b0iQA7R2HhxAlexKYyfbM) | 3:14 | 2021-11-05 |  |
 | [Surf You](https://open.spotify.com/track/7iBPGBKUezy2EuH1eA82ut) | [Archil & Leon](https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI) | [Surf You](https://open.spotify.com/album/5qo2UbCeU262V9qWLfjedL) | 3:35 | 2022-05-16 |  |

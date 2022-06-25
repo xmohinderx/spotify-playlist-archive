@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,016 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,039 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 44 | [Concédeme](https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:57 |
 | 45 | [Vuelve Por Favor](https://open.spotify.com/track/7f6C5WsOj6ElA8jltRRO4H) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda 89](https://open.spotify.com/artist/6obOm55X77MaT63vvPielg) | [Vuelve Por Favor](https://open.spotify.com/album/1zpIxfxGOIscfiAzHR39mD) | 3:30 |
 | 46 | [El Borrego](https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:01 |
-| 47 | [El Dia Que Me Vaya](https://open.spotify.com/track/315dRf7ewuvsGN0RORRsya) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Dia Que Me Vaya](https://open.spotify.com/album/5rQlz3Jw0MWSfbzsTRvHZG) | 3:25 |
+| 47 | [Dos Pasajes](https://open.spotify.com/track/1x272X0ADt2g0OIpoIL6Du) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Échenle Coco](https://open.spotify.com/album/68BWXXM5TnonHxNwOXz4lm) | 2:22 |
 | 48 | [Amor Imposible](https://open.spotify.com/track/5e9meF6UEQVNIooWW7bQYy) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:55 |
-| 49 | [Dos Pasajes](https://open.spotify.com/track/1x272X0ADt2g0OIpoIL6Du) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Échenle Coco](https://open.spotify.com/album/68BWXXM5TnonHxNwOXz4lm) | 2:22 |
+| 49 | [El Dia Que Me Vaya](https://open.spotify.com/track/315dRf7ewuvsGN0RORRsya) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Dia Que Me Vaya](https://open.spotify.com/album/5rQlz3Jw0MWSfbzsTRvHZG) | 3:25 |
 | 50 | [Echenle Coco](https://open.spotify.com/track/78qo4xf0zpQoiAmDgaPc8m) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Echenle Coco](https://open.spotify.com/album/2gLLeyl5n5retBUegmM4zi) | 2:19 |
 
-Snapshot ID: `Mjc1OTk5MzEsMDAwMDAwMDBhZGFkZTQ2NmYyYTdmMWI2NDNlNjg4ZGVjMWM4YTQzYg==`
+Snapshot ID: `Mjc2MDE0MzcsMDAwMDAwMDBlOGNkNmMwZjlhNTMyYzgxOGYzZTZkZWZhMjA3OTliZg==`

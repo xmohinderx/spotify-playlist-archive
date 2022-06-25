@@ -1,13 +1,61 @@
 {
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Xavier Omar",
-  "num_followers": 21333,
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Brent Faiyaz",
+  "num_followers": 21349,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQ2MSwwMDAwMDAzMTAwMDAwMTgxNmZkMjRiOTkwMDAwMDE4MTZmMTE1MzIx",
+  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDAzMjAwMDAwMTgxOTNkZGRlYmYwMDAwMDE4MTkzMzhhZjc2",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "PRICE OF FAME",
+        "url": "https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 379004,
+      "name": "PRICE OF FAME",
+      "url": "https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/0gogCIBdXMS2ZR3FtWqAav"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87"
+    },
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
@@ -43,6 +91,74 @@
       "duration_ms": 216000,
       "name": "Bad Idea (feat. Blxst)",
       "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "LOML",
+        "url": "https://open.spotify.com/album/5r1IWOZF1s6xQqy2woGoqy"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 160155,
+      "name": "LOML",
+      "url": "https://open.spotify.com/track/2KxTXcUzEM0IInF3blAtoh"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 176110,
+      "name": "what u need (angelica's place)",
+      "url": "https://open.spotify.com/track/6IHhMTAMUWWa1k4mfSBdzW"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/2NpEJjSIzohW1BGm4sBkhq"
+      },
+      "artists": [
+        {
+          "name": "Jhonni Blaze",
+          "url": "https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23"
+        }
+      ],
+      "duration_ms": 147048,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/15FdDuufWadAY8prAlTlth"
     },
     {
       "added_at": "2022-06-03 05:00:00",
@@ -687,38 +803,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
-    },
-    {
-      "added_at": "2022-05-06 04:32:58",
-      "album": {
-        "name": "OH MY GOD",
-        "url": "https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF"
-      },
-      "artists": [
-        {
-          "name": "Niels",
-          "url": "https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg"
-        }
-      ],
-      "duration_ms": 186529,
-      "name": "OH MY GOD",
-      "url": "https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "All The Diamonds",
         "url": "https://open.spotify.com/album/7BS3XuM7AMdWyznozmhYqK"
       },
@@ -735,102 +819,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
       },
       "artists": [
         {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 151133,
-      "name": "Lullaby (feat. Syd)",
-      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 167561,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "82 Moons",
-        "url": "https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 264828,
-      "name": "Lovin' you",
-      "url": "https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/7kTB0TcBJLcEDlfeG9HFTS"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        }
-      ],
-      "duration_ms": 145965,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/4jmFQAiHWGmgUBIuWY74be"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/6N7BbixouvGZuD4VmjpIY7"
-      },
-      "artists": [
-        {
-          "name": "Malik Moses",
-          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
-        }
-      ],
-      "duration_ms": 164189,
-      "name": "Marvin",
-      "url": "https://open.spotify.com/track/4B9pkP1vAVHU35xHFekMTo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/1ZN9S3bFT4e0r56FyOmF4I"
-      },
-      "artists": [
-        {
-          "name": "Alex Mali",
-          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/0SyCWDjhJuqcglYm79x1So"
+      "duration_ms": 172946,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
     },
     {
       "added_at": "2022-04-29 04:00:00",

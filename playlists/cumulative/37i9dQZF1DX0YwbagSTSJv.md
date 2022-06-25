@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-112 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+113 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 | 2021-12-23 |  |
 | [Small Sprites](https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe) | [Along We Tumble](https://open.spotify.com/artist/1afeM9wpVryFnkVrmhk8Kz) | [Eigenvalues](https://open.spotify.com/album/7u87pvBz1KLsYvem6j5pa9) | 3:16 | 2021-12-23 |  |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2021-12-23 |  |
+| [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-12-23 |  |
 | [Submergine](https://open.spotify.com/track/3yrsdIc6YMb3Zau5U39BDJ) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Submergine](https://open.spotify.com/album/590lRZbZFXlJgmtdkpOtmO) | 3:09 | 2021-12-23 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-82 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+86 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,11 @@
 | [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-03 |  |
 | [Adam and Meshell](https://open.spotify.com/track/2lkuN8OSDJ1EnVPPsHdMOc) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Adam and Meshell](https://open.spotify.com/album/1idAqCkBhL5Ijhp76BEwfX) | 2:47 | 2022-05-20 |  |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-03-09 |  |
+| [All Of Me](https://open.spotify.com/track/6tYTSK8xIplPOYSsdldDn0) | [Zenith String Quartet](https://open.spotify.com/artist/3LBNK6SEclYFZ8k4V59XhQ) | [All Of Me](https://open.spotify.com/album/1OMtqqOHouDPqZ4H4wxz6M) | 3:39 | 2022-06-24 |  |
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-03-09 |  |
 | [Are We Safe Here?](https://open.spotify.com/track/5OeLXyhjckLq6w8l6skNcP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-03-09 |  |
 | [Awakened Dream](https://open.spotify.com/track/7LojpF7q06ijTdp1I4Bwvh) | [Franki Love](https://open.spotify.com/artist/5mDUumCBWXr3v5EXqTYwpY) | [The Moon](https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi) | 3:02 | 2022-06-03 |  |
+| [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 | 2022-06-24 |  |
 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 | 2022-03-09 |  |
 | [Berlin in the Spring](https://open.spotify.com/track/4NENWUAP1fsHXox2icF2nh) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:48 | 2022-05-27 |  |
 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 | 2022-03-09 |  |
@@ -61,6 +63,7 @@
 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 | 2022-03-09 |  |
 | [Ondulante](https://open.spotify.com/track/0eDBnFUrIsOq7wf2d7vvr0) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 3:00 | 2022-03-09 |  |
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-03-09 |  |
+| [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 |  |
 | [Première Lumière](https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Première Lumière](https://open.spotify.com/album/637ZAa38xb2KJ4oWPy4goX) | 2:38 | 2022-03-09 |  |
 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 | 2022-03-09 |  |
 | [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 | 2022-06-10 |  |
@@ -90,5 +93,6 @@
 | [Where Heroes Come to Die](https://open.spotify.com/track/1paOx5tHH937AcHuWjgEa8) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:51 | 2022-03-09 |  |
 | [Winter Has Come](https://open.spotify.com/track/16bZwkDgXGLeys3cS1Mn5f) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 6 \(Music from the HBO® Series\)](https://open.spotify.com/album/29zyqYXwLn4nNTPkRNSOuJ) | 3:14 | 2022-03-09 |  |
 | [Winterfell \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/6NTKYkRWHOMZz4O8N3NMZS) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:43 | 2022-03-09 |  |
+| [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

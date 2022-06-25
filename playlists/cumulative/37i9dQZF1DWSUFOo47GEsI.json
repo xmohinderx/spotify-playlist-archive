@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Etoile",
+        "url": "https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT"
+      },
+      "artists": [
+        {
+          "name": "Eztebe Matia",
+          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135751,
+      "name": "Etoile",
+      "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
+    },
+    {
+      "album": {
         "name": "Et\u00e9reo",
         "url": "https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE"
       },
@@ -2543,6 +2561,24 @@
       "duration_ms": 187833,
       "name": "Lost For Words",
       "url": "https://open.spotify.com/track/4sfOO8SiLK78BqfpDYMdGX"
+    },
+    {
+      "album": {
+        "name": "Lull",
+        "url": "https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac"
+      },
+      "artists": [
+        {
+          "name": "Sleepless Eye",
+          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Lull",
+      "url": "https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF"
     },
     {
       "album": {

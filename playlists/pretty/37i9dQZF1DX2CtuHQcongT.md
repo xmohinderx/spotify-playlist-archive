@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,031 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,084 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 9 | [Run and sword](https://open.spotify.com/track/31vDFvrGujnxGVQEJU7pK4) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SOUL REVERSE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7lMCPGfWgHF4HvOOMzdNfm) | 3:11 |
 | 10 | [BATTLE FIELD \- SPACE HARRIER\(ARCADE\)](https://open.spotify.com/track/0gAcj9wGZuv01nUHjnHI13) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SPACE HARRIER II 〜SPACE HARRIER COMPLETE COLLECTION〜 ORIGINAL SOUNDTRACK\(Bonus Track\)](https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9) | 1:19 |
 | 11 | [Sonic Boom](https://open.spotify.com/track/1twTnc9iVMunHG4AZiHa2m) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SONIC THE HEDGEHOG CD Original Soundtrack \(20th Anniversary Edition\)](https://open.spotify.com/album/0F64g7rDH1jsy8rm8zBl9Q) | 3:13 |
-| 12 | [シェンムー 〜莎木〜](https://open.spotify.com/track/6v3TYRkoUtTZqzDZr6pgsf) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [シェンムー I&II サウンドコレクション](https://open.spotify.com/album/6LqTG8mOknstph2xy7OASf) | 3:59 |
+| 12 | [シェンムー \~莎木\~](https://open.spotify.com/track/6v3TYRkoUtTZqzDZr6pgsf) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [シェンムー I&II サウンドコレクション](https://open.spotify.com/album/6LqTG8mOknstph2xy7OASf) | 3:59 |
 | 13 | [檄!帝国華撃団 \(サクラ大戦\)](https://open.spotify.com/track/3xmpts65r8x4Qbihmajp5f) | [横山智佐\(真宮寺さくら\)](https://open.spotify.com/artist/454TypxqTDdRWW2fQA6I8s), [帝国歌劇団](https://open.spotify.com/artist/5rzLYYBGxe9ldBnFnU9zz6) | [セガ・サウンド・セレクション 2](https://open.spotify.com/album/5QWwnIzwj6bYTvw15czn28) | 3:00 |
 | 14 | [Outride a Crisis \- SUPER HANG\-ON](https://open.spotify.com/track/3TPZKsEv3O4lNgD43SfpXI) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SUPER HANG\-ON 20th Anniversary Collection\(Bonus Track\)](https://open.spotify.com/album/07umjinN5gs1WyNipJTBPN) | 5:09 |
 | 15 | [深志桜 Deep Aim Blossoms](https://open.spotify.com/track/4YhSFtfEUc1Ad0YiYUrGII) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [戦国大戦 音曲集](https://open.spotify.com/album/0bJbkXLJ66m1DqJzXiLfOZ) | 3:37 |

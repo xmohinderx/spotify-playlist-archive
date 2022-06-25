@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Cabulosa",
+        "url": "https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Couto",
+          "url": "https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167842,
+      "name": "Cabulosa",
+      "url": "https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr"
+    },
+    {
+      "album": {
         "name": "Cartas (feat. Luccas Carlos) (feat. Paiva Prod)",
         "url": "https://open.spotify.com/album/1NOfFitxHCDTeTZMsU1yGR"
       },
@@ -947,7 +969,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 159117,
       "name": "Nem Vi Passar",
       "url": "https://open.spotify.com/track/5dnAo4hcNPTGztt7lIFxfO"
@@ -1386,6 +1408,28 @@
     },
     {
       "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky"
+      },
+      "artists": [
+        {
+          "name": "Ramaciote",
+          "url": "https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk"
+        },
+        {
+          "name": "NBEATZ",
+          "url": "https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Sof\u00e1",
+      "url": "https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3"
+    },
+    {
+      "album": {
         "name": "Sol, Eu e Voc\u00ea",
         "url": "https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE"
       },
@@ -1415,7 +1459,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 150000,
       "name": "Solst\u00edcio",
       "url": "https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6"

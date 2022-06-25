@@ -2,9 +2,9 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: LÜCY \(Taiwan\)
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Romantic Echoes \(Indonesia\)
 
-223 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+224 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Misteri](https://open.spotify.com/track/4PClCnwEKx130WNvnciXIp) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Misteri](https://open.spotify.com/album/1F7wUeq5xJ33WlXlZncrJK) | 4:57 | 2022-03-24 | 2022-04-01 |
 | [Moon Rabbit](https://open.spotify.com/track/07qfTt65zfK4rQ7WHeiEOm) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [OK, Vincent](https://open.spotify.com/album/2Styr5P5rDnyYdxMZvzfNb) | 3:30 | 2022-03-24 | 2022-06-24 |
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-31 | 2022-06-10 |
+| [My Summertime](https://open.spotify.com/track/4u9Pz63jjw4Us1yQx7mDzL) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [My Summertime](https://open.spotify.com/album/2PMoJIyudoJWvcMGxfhJ4x) | 2:45 | 2022-06-23 |  |
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2022-06-23 |  |
 | [Mấy Khi](https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Mấy Khi](https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0) | 3:00 | 2022-03-31 | 2022-05-07 |
 | [Một Người Nhẹ Nhàng Hơn](https://open.spotify.com/track/4aTkykH6ro3r1sJXkNZPAF) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Một Người Nhẹ Nhàng Hơn](https://open.spotify.com/album/5u92DK6JVnzTUG3TJO9p5s) | 4:01 | 2022-06-16 |  |

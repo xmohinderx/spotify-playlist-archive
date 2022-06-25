@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-73 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
+74 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [邊一個發明了返工](https://open.spotify.com/track/2QlHbeBKT1CvNc6WH89f8N) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [介乎法國與旺角的詩意](https://open.spotify.com/album/60xo1x3awwTPu5JLu458oN) | 2:58 | 2022-04-11 |  |
 | [那誰 \- 2012 Live Version](https://open.spotify.com/track/1NnmM3eCjvcAZWnPtzjQ7X) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [This Land Was Made For You And Me Live 2012](https://open.spotify.com/album/6L8Vtb4XWqhuLi0yN69VlX) | 3:58 | 2022-04-11 |  |
 | [那陣時不知道](https://open.spotify.com/track/1IpZbWmIcs6kAAioo6X3G7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [那陣時不知道](https://open.spotify.com/album/11Y7PDKRFwCoEyp0LocHy9) | 2:28 | 2022-04-11 |  |
+| [陪狗散步](https://open.spotify.com/track/0skCtn6jTR41EKNOkKwqTV) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:33 | 2022-06-24 |  |
 | [陽光燦爛的日子](https://open.spotify.com/track/1oswnM5CTaRxVOSa4nZYQT) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [This Is Not The End Is The Beginning](https://open.spotify.com/album/487SVY50aH2F8KRSTyrV3g) | 3:37 | 2022-04-11 |  |
 | [隨風](https://open.spotify.com/track/5AGW3yn6JO3uq03iALUVcJ) | [新青年理髮廳](https://open.spotify.com/artist/41r9gkPKkgcWFHnPuFbAtP) | [隨風](https://open.spotify.com/album/3n3k7kMWANOTX1XhnHMO8W) | 4:27 | 2022-04-11 |  |
 | [難查字](https://open.spotify.com/track/5yyHR5rWWzhBUrpZ2WDe06) | [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [小人物語](https://open.spotify.com/album/4P75o6czVyA5OhBKtnyzB4) | 4:20 | 2022-04-11 |  |

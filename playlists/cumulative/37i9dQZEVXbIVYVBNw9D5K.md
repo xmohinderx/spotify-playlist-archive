@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-456 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+457 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [10 NUMARA](https://open.spotify.com/track/6GDpxEOvaXS0nbqSrFtDAQ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [10 NUMARA](https://open.spotify.com/album/6wtGyjOP42EhS1G29OIJFN) | 1:58 | 2021-10-17 | 2022-06-23 |
 | [200 MİLYAR](https://open.spotify.com/track/3Z14anmq3j3aKSVd81sCQz) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [200 MİLYAR](https://open.spotify.com/album/5TXdEcUOwCGqvWWVQdtybe) | 2:06 | 2022-06-11 |  |
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2022-05-14 | 2022-05-23 |
+| [2T1BB \(feat\. Yung Ouzo\)](https://open.spotify.com/track/5UueGx6aALmUslrPdWOB9K) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [2T1BB \(feat\. Yung Ouzo\)](https://open.spotify.com/album/3sCR3ePqo2k2QKUILGWTRa) | 3:06 | 2022-06-24 |  |
 | [50 Kilo](https://open.spotify.com/track/5w9eH1mVty5J0pRQJTkFr9) | [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK), [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [50 Kilo](https://open.spotify.com/album/3vaWPm5ofwyFRCGcnknmJF) | 3:00 | 2021-07-11 | 2021-07-17 |
 | [80 Kere](https://open.spotify.com/track/4CFYUqMwzV3ENIeLEpj2MU) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ) | [80 Kere](https://open.spotify.com/album/7fyM6D2LVNs7J3s44n0SJE) | 2:39 | 2021-09-12 | 2021-10-09 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-14 | 2022-01-15 |
@@ -191,7 +192,7 @@
 | [Gökyüzü Limit](https://open.spotify.com/track/0M32M4AGy7cSa9hk0PE6Rc) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gökyüzü Limit](https://open.spotify.com/album/391uE8gkkv8IrAAHHhEoV5) | 3:00 | 2022-01-29 | 2022-01-31 |
 | [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 |  |
 | [Gönder Gelsin](https://open.spotify.com/track/00qZC0FlaCP0BiefyKDqnt) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gönder Gelsin](https://open.spotify.com/album/2sSQdOlLIFPJPxXJPtTJgR) | 2:47 | 2021-06-24 | 2021-07-04 |
-| [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 |  |
+| [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 | 2022-06-25 |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |
 | [GÖRÜN NE HALİNİZ VARSA](https://open.spotify.com/track/0GpwiBOL0bNvkouVvUoBZf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:05 | 2022-03-20 | 2022-03-26 |
 | [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 | 2022-04-12 | 2022-06-05 |

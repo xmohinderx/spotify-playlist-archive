@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-114 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+115 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ba Ba Boom](https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:19 | 2021-03-02 |  |
 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 | 2021-03-02 |  |
 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 | 2021-03-02 | 2022-06-24 |
-| [Better Must Come](https://open.spotify.com/track/2m40aeOjqcHvBlsYShpiFu) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Tighten Up, Vol\. 5](https://open.spotify.com/album/5yI0aW1ngnWXpk3tOKxGHz) | 2:48 | 2021-03-02 |  |
+| [Better Must Come](https://open.spotify.com/track/2m40aeOjqcHvBlsYShpiFu) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Tighten Up, Vol\. 5](https://open.spotify.com/album/5yI0aW1ngnWXpk3tOKxGHz) | 2:48 | 2021-03-02 | 2022-06-25 |
 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 | 2021-03-02 |  |
 | [Blackman's Word \(Black Man's Pride\)](https://open.spotify.com/track/5KYdwJCvwGsAeTwUJn8ZIe) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1) | 2:49 | 2021-03-02 | 2022-01-17 |
 | [Blood & Fire](https://open.spotify.com/track/7dIxOUb5q5ylvf7w0qtFZZ) | [Niney](https://open.spotify.com/artist/5Q4ixwdKI9GiCVbxicAseE) | [Trojan Presents: Original Reggae](https://open.spotify.com/album/6mHQh1BnJzUtYrt7uBVeC2) | 3:04 | 2021-03-02 | 2022-06-19 |
@@ -87,6 +87,7 @@
 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 | 2021-03-02 |  |
 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 | 2021-03-02 | 2022-02-06 |
 | [Reggae Merengue](https://open.spotify.com/track/0fzHYp3K1F1JKyQJM3Xy21) | [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:13 | 2021-03-02 |  |
+| [Return Of Django](https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:30 | 2021-03-02 |  |
 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 | 2021-03-02 | 2022-03-03 |
 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 | 2021-03-02 |  |
 | [Samfie Man](https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of The Pioneers](https://open.spotify.com/album/59qX9UWoEoXW5wpuv8FMks) | 2:57 | 2021-03-02 |  |

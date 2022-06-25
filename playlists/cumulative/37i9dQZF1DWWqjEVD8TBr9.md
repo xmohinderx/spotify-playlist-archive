@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-104 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
+105 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [My Side](https://open.spotify.com/track/0H4OkBB1np7bWkCP4EnkiB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:36 | 2022-03-18 |  |
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-03-18 |  |
 | [N/S](https://open.spotify.com/track/1YXrdkQxSzDI3eh08Fmp9j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:44 | 2022-03-18 |  |
+| [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-24 |  |
 | [Pacemaker](https://open.spotify.com/track/53StevmjK3N3aYHwoxRsBQ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:10 | 2022-03-18 |  |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-18 |  |
 | [Placebo](https://open.spotify.com/track/0I7YEuT1gfVfNmUEDqoRs0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:54 | 2022-03-18 |  |

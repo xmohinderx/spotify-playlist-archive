@@ -4,13 +4,14 @@
 
 > Let these country tunes light up your day
 
-65 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+66 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Friend With Weed](https://open.spotify.com/track/6NaIoL9AXmj7Lirhaxyplw) | [Kyle Daniel](https://open.spotify.com/artist/1sMZfMdtizSlYjtZgQFXaz) | [A Friend With Weed](https://open.spotify.com/album/4eJ8jfDaJqkc1RHpiSKWq1) | 2:58 | 2021-04-20 |  |
 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 | 2021-04-20 |  |
 | [All Time High](https://open.spotify.com/track/3TEbThqomZVo8Fpe5TiWfW) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:52 | 2021-04-20 |  |
+| [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 |  |
 | [Boys From Oklahoma](https://open.spotify.com/track/3R2TX8QbAKYE6ldlrnirrY) | [Boys From Oklahoma](https://open.spotify.com/artist/71l8QhJo5TLQzFbGJursbf) | [Outlaw Trails](https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP) | 5:01 | 2021-04-20 |  |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2021-04-20 |  |
 | [Don't Bogart Me \(aka Don't Bogart That Joint\)](https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS) | [The Fraternity Of Man](https://open.spotify.com/artist/1e3oBLWpiu34xzdzOIdNzS) | [Easy Rider \(Music From The Soundtrack\)](https://open.spotify.com/album/53Eub84MQoBDpOV1KVNQaf) | 3:06 | 2021-04-20 |  |

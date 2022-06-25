@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,706 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,227 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 59 | [POLTERGEIST](https://open.spotify.com/track/7MJ1uKHspGlEng5tuHoQLE) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [POLTERGEIST](https://open.spotify.com/album/20K8uAeyCqqcz0zkI4aKj8) | 2:20 |
 | 60 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 |
 | 61 | [BLOOD FLAME](https://open.spotify.com/track/1YT2jbHmwiYLi2qxRF2F2f) | [BADTRIP MUSIC](https://open.spotify.com/artist/6JtratuaBrBvw0iqRBu6pr), [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC), [KRiQ](https://open.spotify.com/artist/5MZaqoZgG16y591Hg5eNSN), [Лукамор](https://open.spotify.com/artist/1EBCEPqO5c8MHVRZKYO9n3), [Gxxrx Okxmi](https://open.spotify.com/artist/6TZB3UrKoPVww7pGm5FQIO), [sillicium](https://open.spotify.com/artist/5P7IaTkm7DkO2WdGPFbuWI), [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [BLOOD FLAME](https://open.spotify.com/album/19xn3tQAst5EhUDkM1mdBq) | 3:01 |
-| 62 | [GHETTO THUG](https://open.spotify.com/track/0b2LNusHLgUdW9XKo4ZDSW) | [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U), [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [GHETTO THUG](https://open.spotify.com/album/65iGwfQuJNWwcvSFUbcwRe) | 2:44 |
+| 62 | [GHETTO THUG](https://open.spotify.com/track/0b2LNusHLgUdW9XKo4ZDSW) | [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U), [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [GHETTO THUG](https://open.spotify.com/album/65iGwfQuJNWwcvSFUbcwRe) | 2:44 |
 | 63 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 |
 | 64 | [BREAKDOWN](https://open.spotify.com/track/49koCgN91HKGyBjYWwIQic) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [BREAKDOWN](https://open.spotify.com/album/5JbAm1Q2xoIn3JMF9t1jhz) | 2:26 |
 | 65 | [ADRENALIN](https://open.spotify.com/track/1xoigddYLuUFszTRCoPvkr) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [ADRENALIN](https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw) | 1:58 |

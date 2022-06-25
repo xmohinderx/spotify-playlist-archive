@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-262 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+268 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Birch](https://open.spotify.com/track/3dOoEWVJqCZruubyO0W0Dt) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Birch](https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL) | 1:52 | 2021-11-11 | 2022-05-20 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2021-11-11 |  |
 | [Bloke](https://open.spotify.com/track/10hUkqbTHRVqoNiPHq8pdi) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:46 | 2021-11-11 |  |
+| [Bongo](https://open.spotify.com/track/1GAfF3ySbJ75jmgtHIxg2o) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Bongo](https://open.spotify.com/album/6LXfeDzhuHOlZi4yKZxCPy) | 2:26 | 2022-06-24 |  |
 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 | 2021-11-11 |  |
 | [bread & wine](https://open.spotify.com/track/53ycakt4shH4wnZveJnagh) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [bread & wine](https://open.spotify.com/album/5aA70VXMAqXyuMUhZO65vZ) | 1:56 | 2021-11-11 |  |
 | [Brooklyn](https://open.spotify.com/track/6dtGKLkb3KjWffRKNDfrYu) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Brooklyn](https://open.spotify.com/album/7CWgOASiOuI951TPGGzbWX) | 1:53 | 2021-11-11 |  |
@@ -49,6 +50,7 @@
 | [City Beatbox](https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [City Beatbox](https://open.spotify.com/album/376zKL3VyAGdByEgktt1td) | 1:58 | 2021-11-11 |  |
 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 | 2021-11-11 |  |
 | [cold fizzies](https://open.spotify.com/track/0Tstl9VZP9x3FvSC3CcTNI) | [rolla skates](https://open.spotify.com/artist/4QSJisGHde3JpGjDHZ8czQ) | [cold fizzies](https://open.spotify.com/album/6rccqvf6mYKTpBh0kkUVsn) | 2:14 | 2021-11-11 |  |
+| [Colinas Desde El Alba](https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Colinas Desde El Alba](https://open.spotify.com/album/6AFCsm5CtiUULUoQkpV8hW) | 2:02 | 2022-06-24 |  |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2021-11-11 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2021-11-11 | 2022-06-03 |
 | [Constant Attention](https://open.spotify.com/track/7MV8YZCECT0CbS27e01pPC) | [Glowfi](https://open.spotify.com/artist/4v46lA8nHrwjONVAKc49on) | [Constant Attention](https://open.spotify.com/album/1k7NN2vZO9nJcte0HQHXCK) | 2:51 | 2021-11-11 | 2022-04-08 |
@@ -67,6 +69,7 @@
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2021-11-11 |  |
 | [Fantasy](https://open.spotify.com/track/602YfZUMO4FM5NcEzKf3SL) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Fantasy](https://open.spotify.com/album/2KHytBna06YLkLBK0tVmKR) | 2:29 | 2022-05-13 |  |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2021-11-11 |  |
+| [favourite times](https://open.spotify.com/track/6RQhze0txBPStTSoGOd4nR) | [JeMeNeZ](https://open.spotify.com/artist/6VKOJ18yv76jy2D3Kjw4nG) | [favourite times](https://open.spotify.com/album/6zhTWiMPF0ubjL84PHNnUv) | 1:52 | 2022-06-24 |  |
 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 | 2021-11-11 |  |
 | [Fifth Avenue](https://open.spotify.com/track/7LiU8KqXyhzNOKaEZQncG5) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO), [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor), [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Fifth Avenue](https://open.spotify.com/album/1INSdX2d0aneKaFqCsN4Rl) | 1:44 | 2021-11-11 |  |
 | [Flavors of Oro](https://open.spotify.com/track/4O7Tbtvbf1U25lMhkBa2wd) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Floaty Boi](https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB) | 2:48 | 2022-02-04 |  |
@@ -75,6 +78,7 @@
 | [For My Lady](https://open.spotify.com/track/6xGgMpySXg8CfzxapgyBXF) | [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z) | [For My Lady](https://open.spotify.com/album/39WIrERkwZ0s3P3XG669Zb) | 2:42 | 2022-05-13 |  |
 | [Frontside Smokeflip](https://open.spotify.com/track/4RHR237B71Bwl8ldOa2Jyi) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Frontside Smokeflip](https://open.spotify.com/album/2BllATRPs1aOaaMsdKg8Ei) | 2:10 | 2022-04-22 |  |
 | [frozen grapes](https://open.spotify.com/track/5vMkAdCEgGVbPqmyFR9fB8) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:35 | 2021-11-11 |  |
+| [Full Circle](https://open.spotify.com/track/4PYtxcZhOSoXiYpcDJbvPZ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Full Circle](https://open.spotify.com/album/326mwc7rrYRFnxATCTTWVC) | 3:02 | 2022-06-24 |  |
 | [Funkophomatic](https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:40 | 2021-11-11 |  |
 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 | 2021-11-11 |  |
 | [Gary Valentine](https://open.spotify.com/track/68pKz8cONemO0EHd4DITfn) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Gary Valentine](https://open.spotify.com/album/7DjXakUEVv3FZ9TW21sGIK) | 2:20 | 2022-06-10 |  |
@@ -169,6 +173,7 @@
 | [PALMTREES](https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [PALMTREES](https://open.spotify.com/album/19TpbK79ZyrZUzgv2dwdfK) | 2:10 | 2021-11-11 |  |
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2021-11-11 |  |
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2021-11-11 |  |
+| [Pepper's Ghost](https://open.spotify.com/track/6bb3qbtaO6r4JsC3uWwPUp) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Pepper's Ghost](https://open.spotify.com/album/1g6r0yCwvPkpsFvigrqVXo) | 4:08 | 2022-06-24 |  |
 | [Perspective](https://open.spotify.com/track/673JYsOrXLLviHKtcilXYv) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Perspective](https://open.spotify.com/album/1PvbnfUzYTg6CWiqTyWtxC) | 2:58 | 2021-11-11 |  |
 | [Perspectives](https://open.spotify.com/track/0cAx7XcK0FgWXNr2FD7xhc) | [Strident Mink](https://open.spotify.com/artist/5LdZvm0qSRPEJMemgPAS0p) | [Perspectives](https://open.spotify.com/album/2v9je3MdmSHblU18SJ1eYD) | 1:24 | 2021-11-11 |  |
 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 | 2021-11-11 | 2022-05-27 |
@@ -195,6 +200,7 @@
 | [Selected](https://open.spotify.com/track/7G4scWFcZcwVE1jRLuXLsf) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Selected](https://open.spotify.com/album/6q0y2RlQ7wRpvz0B2LJXDW) | 3:10 | 2021-11-11 |  |
 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 | 2021-11-11 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2021-11-11 |  |
+| [Shoreline Shake](https://open.spotify.com/track/5FI1P3ol0riVBoJiWk4WuY) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Shoreline Shake](https://open.spotify.com/album/13dCpLXy9XRBLEriI8Gzli) | 2:40 | 2022-06-24 |  |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2021-11-11 |  |
 | [Smokes](https://open.spotify.com/track/2FGPAygk8Vsg13PZ51qINX) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [California Dreaming](https://open.spotify.com/album/14CfuAeDQUkihQCeA1c5G9) | 1:36 | 2021-11-11 | 2022-05-27 |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-11-11 |  |

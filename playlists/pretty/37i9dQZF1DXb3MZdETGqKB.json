@@ -1,13 +1,41 @@
 {
-  "description": "All new, all blues. Cover: Ben Harper",
-  "num_followers": 118187,
+  "description": "All new, all blues. Cover: G. Love",
+  "num_followers": 118236,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDBjMjAwMDAwMTgxNmZkMzJmNDcwMDAwMDE4MTYyOGU1NjY4",
+  "snapshot_id": "MTY1NjA0MzMyMCwwMDAwMDBjMzAwMDAwMTgxOTNkZmIzMmEwMDAwMDE4MTkxODI5MDI2",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Cam Kimbrough",
+          "url": "https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Chuck Treece",
+          "url": "https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Lemonades (feat. Cam Kimbrough, Luther Dickinson & Chuck Treece)",
+      "url": "https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019"
+    },
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
@@ -73,34 +101,6 @@
       "url": "https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Mississippi (feat. Alvin Youngblood Hart, R.L. Boyce & Speech)",
-        "url": "https://open.spotify.com/album/08FKzpmSLAl1KUu5MdmaSW"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Alvin Youngblood Hart",
-          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
-        },
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        },
-        {
-          "name": "Speech",
-          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Mississippi (feat. Alvin Youngblood Hart, R.L. Boyce & Speech)",
-      "url": "https://open.spotify.com/track/4QmpGQH2Iv6u9wxAdZn18l"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Yada Yada",
@@ -115,6 +115,30 @@
       "duration_ms": 155449,
       "name": "Yada Yada",
       "url": "https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Progeny",
+        "url": "https://open.spotify.com/album/4RWpRW36Af3RXqcJqmX7AR"
+      },
+      "artists": [
+        {
+          "name": "Kat Riggins",
+          "url": "https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        },
+        {
+          "name": "Busta Free",
+          "url": "https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v"
+        }
+      ],
+      "duration_ms": 273291,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1047,22 +1071,6 @@
       "duration_ms": 257665,
       "name": "Kind Hearted Woman",
       "url": "https://open.spotify.com/track/2BUMJVgm9JM80VyYKkRzQK"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4cKtG81r37U4b3vDHxPxRo"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG"
     }
   ],
   "unique_name": "Nu-Blue",

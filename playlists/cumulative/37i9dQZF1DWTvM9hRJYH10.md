@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
-192 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+193 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-01 |  |
 | [In Denial](https://open.spotify.com/track/0VbjCDupilMeIaOS7u11bT) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [In Denial](https://open.spotify.com/album/3faTxfyUZdmYeQJwv4Sbvj) | 3:37 | 2021-12-31 | 2022-01-08 |
+| [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 | 2022-06-24 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 |  |
 | [Jealous of the Sun](https://open.spotify.com/track/28RKuL2HO40ZQkrmOrL2C9) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Jealous of the Sun](https://open.spotify.com/album/2scEI8g9oSSqagxctpMQEj) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [Kinda](https://open.spotify.com/track/7k4eO6vkBNU9OO8LAonra4) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [Kinda](https://open.spotify.com/album/0ldOhc6vksH0Eja0Eai5Oi) | 2:26 | 2021-12-31 |  |

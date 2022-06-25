@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 267920,
       "name": "Consume (feat. Goon Des Garcons)",
       "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 163613,
       "name": "Devil Doesn\u2019t Bargain",
       "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Bulib\u00e1r\u00f3",
+        "url": "https://open.spotify.com/album/0ppmIqPRyJzuwoJzlrx0J9"
+      },
+      "artists": [
+        {
+          "name": "Kis Gr\u00f3fo",
+          "url": "https://open.spotify.com/artist/4KISID3Bz7BY5rlKomzYvg"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Mert a n\u00e9z\u00e9s\u00e9t, meg a j\u00e1r\u00e1s\u00e1t",
+      "url": "https://open.spotify.com/track/15sByB1Ctj4NcrqE9jTT5m"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 193542,
       "name": "Miafasz",
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 249672,
       "name": "Okari",
       "url": "https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH"
@@ -1491,6 +1509,28 @@
       "duration_ms": 183870,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385436,
+      "name": "Running (feat. Meg Myers)",
+      "url": "https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo"
     },
     {
       "album": {
@@ -1809,10 +1849,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
+    },
+    {
+      "album": {
+        "name": "\u041d\u041d\u0414",
+        "url": "https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow",
+          "url": "https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87259,
+      "name": "\u041d\u041d\u0414",
+      "url": "https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q"
     },
     {
       "album": {

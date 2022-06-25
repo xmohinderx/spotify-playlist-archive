@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,929 likes - 306 songs - 16 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,962 likes - 306 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,28 +18,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 8 | [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 |
 | 9 | [Incognito](https://open.spotify.com/track/5o8wzFKWubYHioQh5j5c5O) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Incognito](https://open.spotify.com/album/0xkI27l9SAdUOq3UIGmoJT) | 3:37 |
 | 10 | [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 |
-| 11 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 |
-| 12 | [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:52 |
-| 13 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 |
-| 14 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
-| 15 | [Illustratosphere](https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Illustratosphere](https://open.spotify.com/album/2trYEddNf9iBEBUzyUlS6s) | 3:30 |
-| 16 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
-| 17 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 |
-| 18 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 |
-| 19 | [Till Imorgon](https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Till Imorgon](https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra) | 3:42 |
-| 20 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 |
-| 21 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
-| 22 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 |
-| 23 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 |
-| 24 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 |
-| 25 | [Qujanaq](https://open.spotify.com/track/2U4vlFASmf5PIDgR3e7AGB) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Qujanaq](https://open.spotify.com/album/1NfgSeA8xv6YQMEOzhCWJg) | 3:04 |
-| 26 | [Zeus](https://open.spotify.com/track/2GYTptoTuIkLgybnQ8BwfA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Healing](https://open.spotify.com/album/0hYu8TXqNHB4qjl1AgDpge) | 3:27 |
-| 27 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 |
-| 28 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 |
-| 29 | [Universum](https://open.spotify.com/track/11n6DIKC31Y2sEBTPJqTt5) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Universum](https://open.spotify.com/album/3oxhR4GIOXG9kddsgnHkkq) | 2:46 |
-| 30 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 |
-| 31 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 |
-| 32 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 |
+| 11 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 |
+| 12 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 |
+| 13 | [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:52 |
+| 14 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 |
+| 15 | [Septima](https://open.spotify.com/track/4NtT9mMjIcNVOlxkzCkHc2) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Septima](https://open.spotify.com/album/1MS5ZvgvQxHAG9YohwuAvr) | 2:23 |
+| 16 | [Illustratosphere](https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Illustratosphere](https://open.spotify.com/album/2trYEddNf9iBEBUzyUlS6s) | 3:30 |
+| 17 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
+| 18 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 |
+| 19 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 |
+| 20 | [Till Imorgon](https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Till Imorgon](https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra) | 3:42 |
+| 21 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 |
+| 22 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
+| 23 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 |
+| 24 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 |
+| 25 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 |
+| 26 | [Qujanaq](https://open.spotify.com/track/2U4vlFASmf5PIDgR3e7AGB) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Qujanaq](https://open.spotify.com/album/1NfgSeA8xv6YQMEOzhCWJg) | 3:04 |
+| 27 | [Zeus](https://open.spotify.com/track/2GYTptoTuIkLgybnQ8BwfA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Healing](https://open.spotify.com/album/0hYu8TXqNHB4qjl1AgDpge) | 3:27 |
+| 28 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 |
+| 29 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 |
+| 30 | [Universum](https://open.spotify.com/track/11n6DIKC31Y2sEBTPJqTt5) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Universum](https://open.spotify.com/album/3oxhR4GIOXG9kddsgnHkkq) | 2:46 |
+| 31 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 |
+| 32 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 |
 | 33 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 |
 | 34 | [Ma constellation](https://open.spotify.com/track/6gIqp5x0pYgLnMDBLPkgao) | [Ema Jihne](https://open.spotify.com/artist/2jzsKZk6U18dc7so1MWB2l) | [A la belle etoile](https://open.spotify.com/album/6yXXgpjWUIaGEZoL5ZUgwu) | 2:00 |
 | 35 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 305 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 |
 | 306 | [Montañas Azules](https://open.spotify.com/track/6C5rLXFMuPObWazzfoBisf) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/4RO63cpWlUOBZCnGo5VRKa) | 4:47 |
 
-Snapshot ID: `MTY1NTM4MjMxMiwwMDAwMDA2YTAwMDAwMTgxNmM3OTg2YWUwMDAwMDE3MGM0ZDFiZjY2`
+Snapshot ID: `MTY1NjA2ODc2NCwwMDAwMDA2YjAwMDAwMTgxOTU2M2Y0YWIwMDAwMDE3MGM0ZDFiZjY2`

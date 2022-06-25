@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 140571,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/1H2DnpRik7Rg2UFgkHrtr1"
@@ -1867,6 +1867,24 @@
       "duration_ms": 135000,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID"
+    },
+    {
+      "album": {
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121212,
+      "name": "Bla bla (Intro)",
+      "url": "https://open.spotify.com/track/1RzLeCw0rSqGcH9QIYzYTg"
     },
     {
       "album": {
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
@@ -4563,7 +4581,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
@@ -6403,7 +6421,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183764,
       "name": "Heaven med dig",
       "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
@@ -7113,7 +7131,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -7465,7 +7483,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -8099,7 +8117,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -8171,7 +8189,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
@@ -9343,7 +9361,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
@@ -10905,7 +10923,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -11281,7 +11299,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "Oh, vilken h\u00e4rlig da'",
       "url": "https://open.spotify.com/track/1Taqw1VEHl8Gy9qAZtRLAq"
@@ -13030,6 +13048,24 @@
     },
     {
       "album": {
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131243,
+      "name": "Selfmade",
+      "url": "https://open.spotify.com/track/4Hf6kEGsZmIdTzar565Gn1"
+    },
+    {
+      "album": {
         "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
         "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
       },
@@ -13677,7 +13713,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 189560,
       "name": "Sol, vind och vatten",
       "url": "https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y"
@@ -13839,7 +13875,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 183826,
       "name": "Sommaren \u00e4r kort",
       "url": "https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR"
@@ -13879,7 +13915,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3"
@@ -15849,7 +15885,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 141333,
       "name": "Ut med allt",
       "url": "https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ"
@@ -16091,7 +16127,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 195518,
       "name": "Vi ska aldrig g\u00e5 hem",
       "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
@@ -16820,6 +16856,28 @@
     },
     {
       "album": {
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Window Shopper",
+      "url": "https://open.spotify.com/track/0GnAxELwpk29L6w8pTtiRA"
+    },
+    {
+      "album": {
         "name": "Window Shopper",
         "url": "https://open.spotify.com/album/1kUpXT3OAzoiy7l1KtsX9y"
       },
@@ -16835,7 +16893,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 156034,
       "name": "Window Shopper",
       "url": "https://open.spotify.com/track/7IA61hZr2za83qAfeyC49u"

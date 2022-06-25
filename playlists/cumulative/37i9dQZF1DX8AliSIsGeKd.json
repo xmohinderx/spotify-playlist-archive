@@ -5754,6 +5754,28 @@
     },
     {
       "album": {
+        "name": "Solo (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6hHFaktvrCyykpLb7XAvTD"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491533,
+      "name": "Solo - Solomun Remix",
+      "url": "https://open.spotify.com/track/4R4rVCp8EBHjxwtvSqN8Fd"
+    },
+    {
+      "album": {
         "name": "Something To Save",
         "url": "https://open.spotify.com/album/2TRPdBwGBtgpwgdl3KFy1C"
       },

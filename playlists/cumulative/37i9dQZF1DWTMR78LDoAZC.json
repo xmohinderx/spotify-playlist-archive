@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Alt + Indie + LGBTQQIA+ = Fire Playlist. Cover: MUNA",
+  "description": "The cool, indie/alt LGBTQQIA+ artists. Cover: serpentwithfeet",
   "name": "Alternative Pride",
   "published_playlist_ids": [
     "1o8ms1O56QTOUykDBE7miG"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 176318,
       "name": "death proof",
       "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Down For Fun",
       "url": "https://open.spotify.com/track/6e64gN1ZnscVz01WsLeMWG"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/5I67IXwHIMi0svzyp7GxUe"
@@ -1077,6 +1077,24 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0"
     },
     {
       "album": {
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 154814,
       "name": "Nothing Surprises Me",
       "url": "https://open.spotify.com/track/2hR2QaeQ29c11a9NNCsyVN"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 176732,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 199066,
       "name": "Start up Nation",
       "url": "https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 227139,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,342 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,400 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 16 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
 | 17 | [Little Melody](https://open.spotify.com/track/0qxH67J4QDaho2g4T0b5n1) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Solo Suites](https://open.spotify.com/album/6yZr9kTMjd7wF4SOy74683) | 6:13 |
 | 18 | [Blossom's Blues](https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Blossom's Blues](https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w) | 3:27 |
-| 19 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angélique Kidjo](https://open.spotify.com/artist/04JDhE0Y7HESpSrnuwMwl3) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 |
+| 19 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 |
 | 20 | [Us](https://open.spotify.com/track/2hsbJHiMjljKFNtd5OGshn) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5BWHI6HIlttptflig3odJ7) | 3:56 |
 | 21 | [Soulful](https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Soulful](https://open.spotify.com/album/5ZPmWiHGNH6yU0jdD1LUAU) | 4:58 |
 | 22 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 |

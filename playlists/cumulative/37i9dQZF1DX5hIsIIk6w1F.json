@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Pailita.",
+  "description": "Este Flow tiene otro Flow. Foto: Tunechikidd.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -23,6 +23,28 @@
       "duration_ms": 170571,
       "name": "12:30",
       "url": "https://open.spotify.com/track/4vpXjguMioKefak80ytICn"
+    },
+    {
+      "album": {
+        "name": "A Lo Mat\u00f3n",
+        "url": "https://open.spotify.com/album/5DA6GY3MdU4yMword7ipLx"
+      },
+      "artists": [
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188992,
+      "name": "A Lo Mat\u00f3n",
+      "url": "https://open.spotify.com/track/7vxnJ22SO4yVdjbhI7pbe5"
     },
     {
       "album": {
@@ -77,7 +99,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 203294,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7nKQUWSFg7HvTxdqSv4ocF"
@@ -739,7 +761,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185483,
       "name": "Extra\u00f1o",
       "url": "https://open.spotify.com/track/1dtshNfCOXGeW6AyfnWyED"
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 215152,
       "name": "La Baby",
       "url": "https://open.spotify.com/track/1wAqUzbZqCnxy7zk7wwmyV"
@@ -1173,7 +1195,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 284728,
       "name": "Lento - Remix",
       "url": "https://open.spotify.com/track/3ZYCBiwVFOJkRxPWhNJ6BX"
@@ -1195,6 +1217,28 @@
       "duration_ms": 200000,
       "name": "Locura y Maldad",
       "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+    },
+    {
+      "album": {
+        "name": "Lokita",
+        "url": "https://open.spotify.com/album/2tLtGNCPCET6mi2lz9A3BL"
+      },
+      "artists": [
+        {
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Falsetto",
+          "url": "https://open.spotify.com/artist/0D32yLpOpAgkcrGs4C14LO"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Lokita",
+      "url": "https://open.spotify.com/track/6v68kcCo2A9Oc0dep5aJ66"
     },
     {
       "album": {
@@ -2344,6 +2388,40 @@
     },
     {
       "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/4uePRLsrizKav02ugx8Yvk"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278709,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/3AmapHSIVmvhxdOsp9IjMs"
+    },
+    {
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/4OwkPWtn9O1h6KQ2iaLY6K"
       },
@@ -2424,6 +2502,32 @@
     },
     {
       "album": {
+        "name": "TAY PAPO",
+        "url": "https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173561,
+      "name": "TAY PAPO",
+      "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
+    },
+    {
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1QUKJdJRL3NzqVXzR35juV"
       },
@@ -2454,6 +2558,32 @@
     },
     {
       "album": {
+        "name": "Techeka",
+        "url": "https://open.spotify.com/album/6X3hE2745bY00oHEjAC5HK"
+      },
+      "artists": [
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Claps",
+          "url": "https://open.spotify.com/artist/4LvpFsMRq1A6yGVD7D2X6c"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165771,
+      "name": "Techeka",
+      "url": "https://open.spotify.com/track/2FrZqlR1PrcznpyO7SGSpz"
+    },
+    {
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/1TY3iADyTQie9RCkyhUFVH"
       },
@@ -2469,7 +2599,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202628,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5h5FwHunbpCsyDKY0P3FKA"

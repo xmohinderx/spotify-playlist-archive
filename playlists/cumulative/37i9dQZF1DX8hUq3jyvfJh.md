@@ -4,7 +4,7 @@
 
 > Jojo Maronttinni e mais mulheres para serem ouvidas no máximo volume.
 
-281 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
+282 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Vida É](https://open.spotify.com/track/0icPpnwOI8C7ktibqe3ToX) | [Héloa](https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi) | [A Vida É](https://open.spotify.com/album/7iJMNT3OcsvsVt6kjvinMZ) | 3:40 | 2022-05-04 | 2022-06-01 |
 | [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 | 2022-04-06 | 2022-05-05 |
 | [Acenda a Luz](https://open.spotify.com/track/3Vhg88cJ59iBJwbXUGsdXq) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [Acenda a Luz](https://open.spotify.com/album/2MJtwr2U9lQzOcERqBycgf) | 3:17 | 2022-02-03 | 2022-03-09 |
-| [Acordei Gostosa](https://open.spotify.com/track/3DF2hiwPhS7EP6FgkKfLSZ) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au) | [Acordei Gostosa](https://open.spotify.com/album/494lhtXRIh9ZAIRiwhqQVY) | 1:56 | 2022-06-01 |  |
+| [Acordei Gostosa](https://open.spotify.com/track/3DF2hiwPhS7EP6FgkKfLSZ) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au) | [Acordei Gostosa](https://open.spotify.com/album/494lhtXRIh9ZAIRiwhqQVY) | 1:56 | 2022-06-01 | 2022-06-25 |
 | [aff...](https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [aff...](https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo) | 2:44 | 2022-03-08 | 2022-04-07 |
 | [Afrodate \(Dreadlov\)](https://open.spotify.com/track/4l3SjjrXJIz8cDs2EsM672) | [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Deusa Dulov \(Vol\. 1\)](https://open.spotify.com/album/2Epz79X2Hwk7DKRTlUgKu9) | 2:34 | 2022-02-03 | 2022-03-09 |
 | [AINDA](https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [AINDA](https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC) | 2:08 | 2022-03-08 |  |
@@ -82,6 +82,7 @@
 | [Dança](https://open.spotify.com/track/4jc9V5h85Yt5HNNmd3WK2D) | [Nara Couto](https://open.spotify.com/artist/0E8Tq0Ix04PzANZuqMcho5) | [Dança](https://open.spotify.com/album/6TzMKSnJ1rLY9vLPqpcdIv) | 4:32 | 2022-05-04 | 2022-06-01 |
 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 | 2022-03-08 | 2022-04-07 |
 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 | 2022-03-08 | 2022-04-07 |
+| [De Onde Eu Venho](https://open.spotify.com/track/5lB9tRMWNPDSAvvcWCfuP2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [De Onde Eu Venho](https://open.spotify.com/album/1AeaL5VuVyBVFYbtMIVKx8) | 4:13 | 2022-06-24 |  |
 | [Deixa Eu Relaxar](https://open.spotify.com/track/4HSeyQx2HQdcB7jHk4TWPl) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz) | [Dádiva](https://open.spotify.com/album/3UwWM00hkyWFb0CrukEUkR) | 3:27 | 2022-05-04 | 2022-06-01 |
 | [Delta Estácio Blues](https://open.spotify.com/track/5L9mMwhST1cthsoD0MPkZm) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Delta Estácio Blues](https://open.spotify.com/album/54Tpakfx5cDasE9X9EHOu3) | 2:26 | 2022-02-03 | 2022-03-09 |
 | [Dentro da Minha Cabeça](https://open.spotify.com/track/36cBC9BZNm68EmHDdK7DSf) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Imaculada](https://open.spotify.com/album/5QlWNJLkUpqYRdJQKkJsQ2) | 2:51 | 2022-02-03 | 2022-03-09 |

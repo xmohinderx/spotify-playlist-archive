@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-216 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+218 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2021-12-09 |  |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-09 |  |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2021-12-09 |  |
+| [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 | 2022-06-24 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2021-12-09 |  |
 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-12-09 |  |
 | [at peace](https://open.spotify.com/track/5iLY3nwMD7WIm9p8q5tpWm) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:34 | 2021-12-09 |  |
@@ -171,6 +172,7 @@
 | [Skymning](https://open.spotify.com/track/1nP7LJuu4QMet7xKll1gVh) | [Björnlandet](https://open.spotify.com/artist/5u5mZ8WatCUPXwXfFePPSz) | [Skymning](https://open.spotify.com/album/4FTompXigT36dvBOx8vU5J) | 2:11 | 2021-12-09 |  |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2021-12-09 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-09 |  |
+| [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 |  |
 | [Somnolence](https://open.spotify.com/track/2T9BgAmZQT2dLqllKA5UPj) | [Zak Brady](https://open.spotify.com/artist/5sKrAIJIFlKVRkuFyG03aS) | [Somnolence](https://open.spotify.com/album/3wYmN89JOq65AStF3FqMjR) | 3:12 | 2021-12-09 |  |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-09 |  |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2021-12-09 |  |

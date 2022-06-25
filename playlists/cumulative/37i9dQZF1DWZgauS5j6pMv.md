@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: Cory Henry
+> The best of today's funk\. Cover: Dabeull
 
-175 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+176 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 | 2022-04-29 |  |
 | [Give It up \(Don't Take Part in the Madness\) \- Abstract Orchestra Remix](https://open.spotify.com/track/4JyAYQAtaexWAjvu1zFEqU) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Abstract Orchestra](https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Give It Up \(Don't Take Part in the Madness\) \[Abstract Orchestra Remix\]](https://open.spotify.com/album/3ISsFYJgRBaxWdseqzBENc) | 4:17 | 2021-06-04 | 2022-01-29 |
 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 | 2022-05-06 |  |
+| [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2022-06-24 |  |
 | [God Made Me Funky](https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Crystal Monee Hall](https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY), [Wil Blades](https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Colin Hogan](https://open.spotify.com/artist/427GXhbmgjZ3W23hCzZMuB) | [God Made Me Funky](https://open.spotify.com/album/3Jo1vXDO4TFhKVsGDdfZnQ) | 3:15 | 2022-04-01 |  |
 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 | 2022-04-08 |  |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 |  |

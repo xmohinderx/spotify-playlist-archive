@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-114 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+116 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2022-03-03 |  |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Esta Tarde Vi Llover](https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb) | 2:23 | 2022-03-03 |  |
 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 | 2022-03-03 |  |
+| [Eterna Saudade](https://open.spotify.com/track/4gpGRoXsgyNoC5V91LRM0r) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eterna Saudade](https://open.spotify.com/album/3EJga8fieg3iJktxWBVA2k) | 4:49 | 2022-06-24 |  |
 | [Etude Number 3 Op.60](https://open.spotify.com/track/3JvAVOKhKA7HwhzZTPwTtN) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Etude Number 3 Op.60](https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8) | 2:31 | 2022-03-03 |  |
 | [Fiesta](https://open.spotify.com/track/683QlW2OnQJXNtcsarxpax) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Fiesta](https://open.spotify.com/album/40Cig41xhbZ29eO9LEODpT) | 2:36 | 2022-03-03 |  |
 | [For Robin](https://open.spotify.com/track/7lwUo7t0ytwVXd06j49BGE) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [For Robin](https://open.spotify.com/album/58dJ10zLmAwYFu07nXuNt4) | 3:05 | 2022-03-03 |  |
@@ -85,6 +86,7 @@
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2022-03-03 |  |
 | [Popurri Revolucionario](https://open.spotify.com/track/3IoOITvmTADnF8t8alXoWP) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 7:12 | 2022-03-03 | 2022-05-27 |
 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 | 2022-03-03 |  |
+| [Preludio No\. 3](https://open.spotify.com/track/2VCUwRLBHxqTscPd3NfOCP) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: Preludio No\. 3](https://open.spotify.com/album/3X1sZmEBYuVDwutGnrUm7D) | 0:36 | 2022-06-24 |  |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-03 |  |
 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-03-03 |  |
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2022-03-03 |  |

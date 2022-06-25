@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-296 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+297 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alone and Together](https://open.spotify.com/track/1rdFI1lGwGZucoxDRqHW9U) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 2:44 | 2020-10-20\* |  |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2020-10-20\* |  |
 | [Amanda](https://open.spotify.com/track/4SHDRSDsjbftsEuzxcPbny) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Amanda](https://open.spotify.com/album/6VRpCNA9flJiEnFjRKCSVj) | 1:17 | 2020-10-20\* |  |
+| [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 | 2022-06-24 |  |
 | [And Then Stillness](https://open.spotify.com/track/733fxItPfz9T3xTeiP9gle) | [Mabelle Jonsson](https://open.spotify.com/artist/5aAGDGHMxeND8iwylX046x) | [Touching The Void](https://open.spotify.com/album/755rSJmOkxaIp0XWbyxc6n) | 2:00 | 2020-10-20\* |  |
 | [Andare Lentamente](https://open.spotify.com/track/5foXZOVwYZ9Xs0P61JHHqF) | [Spacious Minds](https://open.spotify.com/artist/1Whq2mxIJ5AjZWxQY19S7V) | [Andare Lentamente](https://open.spotify.com/album/0fjDEGWTfCMf9B9mnjgENQ) | 2:26 | 2021-04-15 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2022-02-04 |

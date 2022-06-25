@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keep it low-key with all of today's chill pop. Cover: Montell Fish",
+  "description": "Keep it low-key with all of today's chill pop. Cover: Taylor Swift",
   "name": "Chill Pop",
   "published_playlist_ids": [
     "6isU2kXFblpGeacMELfavp"
@@ -2454,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/1VOogKF0JFYVcfDPcxoESS"
       },
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 163360,
       "name": "Colours Of You - Nick And Charlie Version",
       "url": "https://open.spotify.com/track/4WkcqpMX3f697pJqwRYbAQ"
@@ -3927,7 +3945,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
@@ -5633,7 +5651,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 169160,
       "name": "Fresh Water",
       "url": "https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg"
@@ -6491,6 +6509,24 @@
       "duration_ms": 133226,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP"
+    },
+    {
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "album": {
@@ -9258,6 +9294,24 @@
     },
     {
       "album": {
+        "name": "Light Of My Life",
+        "url": "https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU"
+      },
+      "artists": [
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Light Of My Life",
+      "url": "https://open.spotify.com/track/4FXo9YwwZMXyl1lzZUg5js"
+    },
+    {
+      "album": {
         "name": "Light On",
         "url": "https://open.spotify.com/album/4uRuM5mq316R7PdLsmJmBK"
       },
@@ -9879,7 +9933,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 169765,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
@@ -12158,6 +12212,24 @@
     },
     {
       "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247419,
+      "name": "Palladium",
+      "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
+    },
+    {
+      "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
@@ -12840,6 +12912,24 @@
     },
     {
       "album": {
+        "name": "Ready to Go",
+        "url": "https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc"
+    },
+    {
+      "album": {
         "name": "Ready Yet",
         "url": "https://open.spotify.com/album/4knfsmh2fTyMokMqHlBMdF"
       },
@@ -13209,7 +13299,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 240226,
       "name": "Run (feat. Ed Sheeran) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"
@@ -14139,7 +14229,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 154560,
       "name": "Social Stamina",
       "url": "https://open.spotify.com/track/2FuB4re85DbgICpRi8IEEU"
@@ -16129,6 +16219,24 @@
       "duration_ms": 199542,
       "name": "This Summer",
       "url": "https://open.spotify.com/track/6esheCKKzDlgyms0c1wOhv"
+    },
+    {
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4X9LKWIzfcFX6aTjmskhWP"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/7q9YKaWxCfnAggtc92Snxa"
     },
     {
       "album": {

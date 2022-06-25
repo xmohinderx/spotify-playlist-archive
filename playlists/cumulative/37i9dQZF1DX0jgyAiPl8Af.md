@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-280 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+285 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2021-12-08 | 2022-04-22 |
 | [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2022-06-10 |  |
 | [Cypress Castles](https://open.spotify.com/track/2f7VpoODTaBAeQMeGHqjRI) | [Fathomsong](https://open.spotify.com/artist/3koJbZXIy6hN5sOp9OMZFj) | [Effervescence](https://open.spotify.com/album/508xVNABZUOxcFBfEFeep5) | 2:35 | 2021-12-08 | 2022-05-11 |
+| [Cándida Sonata](https://open.spotify.com/track/4KoaZlljNMxtkFYVI9JRR1) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Cándida Sonata](https://open.spotify.com/album/0TxBfjer0Zm5m8Y8TtCl7V) | 2:46 | 2022-06-24 |  |
 | [Dark Green](https://open.spotify.com/track/6yLylBz8N89N2VbStc61wW) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Red Cliff](https://open.spotify.com/album/7Mri2V8TsAD6Qh2kBtaQuJ) | 3:00 | 2022-05-27 |  |
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2021-12-08 |  |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2021-12-08 |  |
@@ -177,6 +178,7 @@
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2021-12-08 |  |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2021-12-08 | 2022-05-11 |
 | [Mountain Train](https://open.spotify.com/track/56PyPh8da7AnBnHkSvICfG) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Mountain Train](https://open.spotify.com/album/6WPjFsCNnKId7wQkP9RDlg) | 2:46 | 2021-12-08 |  |
+| [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 |  |
 | [Mudanças](https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V) | [Ogden Rhone](https://open.spotify.com/artist/0EBhni5PCPCZpF93k9chyo) | [De Nieuwe Kerk](https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt) | 2:56 | 2021-12-08 |  |
 | [My Hidden Treasure](https://open.spotify.com/track/39O2ZVUHRX2HukoEsbUyPx) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [My Hidden Treasure](https://open.spotify.com/album/1Ecf1rib8FEc9X9rbvmN1B) | 4:04 | 2021-12-08 |  |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2021-12-08 | 2022-06-17 |
@@ -245,13 +247,16 @@
 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 | 2021-12-08 |  |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2021-12-08 | 2022-04-06 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |
+| [Soleil Levant](https://open.spotify.com/track/5vhZfWLpcbV4X08gvBhWlN) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Soleil Levant](https://open.spotify.com/album/0nscFDssNLcPBtY02kSdz3) | 2:42 | 2022-06-24 |  |
 | [Solus](https://open.spotify.com/track/3T8Q3pKqqpyz7E2U3VKiwn) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Solus](https://open.spotify.com/album/05Vck1mdBEKe5cPczGEmcl) | 4:01 | 2021-12-08 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2021-12-08 |  |
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 |  |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2021-12-08 |  |
+| [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 |  |
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-05-11 |
 | [Spring Awakening](https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:43 | 2021-12-08 |  |
 | [Spring sun](https://open.spotify.com/track/5MHaEZ4fKUkGRfqAWrLcyi) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Spring Sun](https://open.spotify.com/album/5hyIXz4iIe2ljbGiXcSte1) | 4:58 | 2022-05-27 |  |
+| [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2022-06-24 |  |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2021-12-08 | 2022-04-22 |
 | [Stranger On The Shore](https://open.spotify.com/track/2kz53IKDZ9ThMan8HAGWmR) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Stranger On The Shore](https://open.spotify.com/album/4jWKKbl7D4CfH2keibNJpx) | 2:10 | 2022-06-17 |  |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-08 |  |

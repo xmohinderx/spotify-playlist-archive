@@ -4,11 +4,11 @@
 
 > Relax to vocal and instrumental jazz.
 
-277 songs - 1 day 0 hr 10 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+278 songs - 1 day 0 hr 15 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2022-04-14 |  |
+| ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2022-04-14 |  |
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-04-14 |  |
 | [A Foggy Day](https://open.spotify.com/track/2ntBZKDYj8NgS4nS15gnZe) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 9:04 | 2022-04-14 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-04-14 |  |
@@ -25,7 +25,7 @@
 | [Angel Eyes](https://open.spotify.com/track/4Z3UHUWnGLHD0qhf6gSjCO) | [The Gold Lounge Band](https://open.spotify.com/artist/48Nj97YVTWCC0YVPT4T8oz) | [Blues in the Closet](https://open.spotify.com/album/6ib4xbdkzivzXm1VpJs38T) | 5:37 | 2022-04-14 |  |
 | [April In Paris \- 2007 Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 6:43 | 2022-04-14 | 2022-05-25 |
 | [April Sun](https://open.spotify.com/track/3yOz7TaRPisAzcZN8rVV2a) | [Beyond the Seasons](https://open.spotify.com/artist/4WRpr2P8GeFhThBTdk5Qb0) | [April Sun](https://open.spotify.com/album/0J0va02C0WsrxBkoSFNX2C) | 3:43 | 2022-04-14 | 2022-04-28 |
-| [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2022-04-14 |  |
+| [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2022-04-14 | 2022-06-25 |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2022-04-14 | 2022-04-27 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-04-14 |  |
 | [Ballad for Bernt](https://open.spotify.com/track/5cILsTw9kLRveV0cfjCx1a) | [Krzysztof Komeda\-Trzciński](https://open.spotify.com/artist/52aTOhPMsD9Rt9BVeVrZwx), [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives 04](https://open.spotify.com/album/17EJqOUzXWNQoDcgCLflCp) | 3:25 | 2022-04-14 |  |
@@ -178,6 +178,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/4FCwx5XYXU5WQhfstq7Hdq) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Breakfast on the Morning Tram](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) | 4:38 | 2022-04-14 |  |
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2022-04-14 |  |
 | [New York, New York](https://open.spotify.com/track/5sn5E8HsUitOsC70O26l4i) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [New York New York 1970\-72](https://open.spotify.com/album/6MxJ8JBBE3cf8W3IVoP6mq) | 2:48 | 2022-04-14 | 2022-05-03 |
+| [Nico's Dream](https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 4:21 | 2022-06-23 |  |
 | [Night And Day](https://open.spotify.com/track/7elvLJgwfx0XhmPv1A6VX6) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Night And Day](https://open.spotify.com/album/5yglxByn88hqATkjlMeAUL) | 4:38 | 2022-04-14 | 2022-05-25 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-05-31 |  |
 | [Nutty](https://open.spotify.com/track/59SSp2gvGhJAOpjrP9GxvU) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Mønk](https://open.spotify.com/album/39iofgNbJqHFHeWS1vIcj4) | 9:29 | 2022-04-14 |  |

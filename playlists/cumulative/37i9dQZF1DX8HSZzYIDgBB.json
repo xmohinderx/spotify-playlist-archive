@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Buscabulla en portada.",
+  "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Tonga Conga y Vanessa Zamora en portada.",
   "name": "Indie AlterLatino",
   "published_playlist_ids": [
     "14AX2AOMCBOX7NLvLNkMVH"
@@ -629,6 +629,28 @@
       "duration_ms": 190204,
       "name": "donde nadie m\u00e1s Respira",
       "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
+    },
+    {
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "album": {
@@ -1396,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "Mi palabra (feat. Ana Tijoux)",
+        "url": "https://open.spotify.com/album/6TYads3TGRVoUwdIVIJRzh"
+      },
+      "artists": [
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240265,
+      "name": "Mi palabra (feat. Ana Tijoux)",
+      "url": "https://open.spotify.com/track/7tkJLOBu9s6UnOUE114hUS"
+    },
+    {
+      "album": {
         "name": "Miel de Aguacate",
         "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
       },
@@ -1487,7 +1531,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 194306,
       "name": "Naranjita s\u00ed carnal",
       "url": "https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha"
@@ -2169,7 +2213,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 146807,
       "name": "Tambaleo",
       "url": "https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6"

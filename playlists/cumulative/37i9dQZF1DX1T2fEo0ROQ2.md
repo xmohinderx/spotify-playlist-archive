@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-306 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+307 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Free](https://open.spotify.com/track/1oMGaPrJdpS0IwiBqOwK1n) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 2:14 | 2022-05-26 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-05-26 |  |
 | [Geminism](https://open.spotify.com/track/3g4VzxY3cmFDJSCW3z9SPX) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Geminism](https://open.spotify.com/album/7gXtCOL60In5MPjuYzSxpr) | 3:52 | 2022-05-26 |  |
+| [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-06-24 |  |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2022-05-26 |  |
 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 | 2022-05-26 |  |
 | [Hayalleri](https://open.spotify.com/track/0feH4LbdaWztmwvvBiIHvT) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Hayalleri](https://open.spotify.com/album/5z8hSsFtMMtTlRFWVmm7gW) | 2:15 | 2022-05-26 |  |
@@ -209,7 +210,7 @@
 | [Perpetual](https://open.spotify.com/track/2KZGLxJoQdI7EdE7xzuuxQ) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Perpetual](https://open.spotify.com/album/6BoHZEMa5FSN77fUUs587v) | 3:02 | 2022-05-26 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2022-05-26 |  |
 | [Phoenix](https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Risen](https://open.spotify.com/album/2hZg7Z1DPU6XR2ofF1ljtj) | 2:13 | 2022-05-26 |  |
-| [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-05-26 |  |
+| [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-05-26 | 2022-06-25 |
 | [Poetic Anthems](https://open.spotify.com/track/7EsBJypTRh9ptstfZtvShL) | [Morton Stuyvesant](https://open.spotify.com/artist/2WzGyDmxHByHHzuJSXFxb8) | [Poetic Anthems](https://open.spotify.com/album/13sA2BR3OUWwBtPNtK2ChO) | 3:20 | 2022-05-26 |  |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/5lpojl4X0KKpWtrG6bMYuL) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 6:48 | 2022-05-26 |  |
 | [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 |  |

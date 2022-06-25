@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Edgardo Nuñez en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida & Los Gemelos de Sinaloa en portada.
 
 112 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 

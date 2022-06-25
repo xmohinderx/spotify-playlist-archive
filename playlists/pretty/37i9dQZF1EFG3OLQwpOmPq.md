@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 71 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 489 likes - 71 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 11 | [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 |
 | 12 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 13 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
-| 14 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 |
-| 15 | [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 |
+| 14 | [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 |
+| 15 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 |
 | 16 | [K.](https://open.spotify.com/track/1n4ngnAbnYsfvMRuDB6du3) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [K.](https://open.spotify.com/album/13cjffeJAT5ITEH07iWsP5) | 3:06 |
 | 17 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
 | 18 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 59 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
 | 60 | [Blue](https://open.spotify.com/track/4FSVM0jbDn8cspWfuJ3srv) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Blue](https://open.spotify.com/album/1yATfEBCy2ZuTSDpixl6VM) | 2:10 |
 | 61 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 |
-| 62 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 |
-| 63 | [love notes and hate mail](https://open.spotify.com/track/2UbMXiSOvDNT9YTQVb2fZV) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 3:18 |
+| 62 | [love notes and hate mail](https://open.spotify.com/track/2UbMXiSOvDNT9YTQVb2fZV) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 3:18 |
+| 63 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 |
 | 64 | [Running in Place](https://open.spotify.com/track/4fJPDl0e9eftGofdO2cZea) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Running in Place](https://open.spotify.com/album/7JQP3efrsVzxkB3mimXxAB) | 3:08 |
 | 65 | [No Matter the Miles](https://open.spotify.com/track/2rHIarcktKShfbSTnd3V7c) | [Taylor Dukes](https://open.spotify.com/artist/4IKsiLmD4PNTbwVaEg3NSV), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb), [Caitlin Eadie](https://open.spotify.com/artist/280gGNu14wG60HkEvvJ3p8) | [No Matter the Miles](https://open.spotify.com/album/1Dk3FGYitZV8U4CDI222hJ) | 3:05 |
 | 66 | [Welcome To The Dark Side](https://open.spotify.com/track/6lCWOGO78tWFPiEgzFB2j6) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [Welcome To The Dark Side](https://open.spotify.com/album/09e9JBmn3fH1rXHp9GmGOf) | 2:23 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc2MDA1MDMsMDAwMDAwMDA5NmJmYjA3NzIyOGU2OTMyOGM5OTZjNjI2YWY2MWMxNA==`
+Snapshot ID: `Mjc2MDIwMDIsMDAwMDAwMDA4Mzc0ZTE1NWNjYWMxZjViMWE1NzNlNzAyYjQ5ZTFjYw==`

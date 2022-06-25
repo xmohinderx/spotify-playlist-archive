@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Yorghaki, marcos g
+> Fresh Latin pop on the rise\. Cover: GALE
 
-120 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+121 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cuando Sube el Sol](https://open.spotify.com/track/6kehs9Uc57B6w76X9fx5sN) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [32 de Diciembre](https://open.spotify.com/album/16x7J2cLd1CYhtM6lR9tbQ) | 3:01 | 2022-05-06 |  |
 | [Cómo Le Haces](https://open.spotify.com/track/0Vou3YugmY9I6pu52uxaYT) | [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp), [Randy Class](https://open.spotify.com/artist/1YR8xgyH1ahXGsTDPsxZZl) | [Cómo Le Haces](https://open.spotify.com/album/2foCDHK6cMCIfCgtXzDlak) | 3:34 | 2022-03-21 | 2022-06-13 |
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-03-21 |  |
-| [De Cero](https://open.spotify.com/track/02APyozcjYXixWTVkOQS7q) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [De Cero](https://open.spotify.com/album/4cf8d97ipj16xHc2vmK6jv) | 3:34 | 2022-05-06 |  |
+| [De Cero](https://open.spotify.com/track/02APyozcjYXixWTVkOQS7q) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [De Cero](https://open.spotify.com/album/4cf8d97ipj16xHc2vmK6jv) | 3:34 | 2022-05-06 | 2022-06-25 |
 | [De Frente](https://open.spotify.com/track/5T0DhxjhBrdrG1H6JTsLpA) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De Frente](https://open.spotify.com/album/4Rztmpw4IDbZcTLzcCgxY0) | 3:29 | 2022-03-21 | 2022-05-07 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-21 | 2022-04-02 |
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-03-21 | 2022-04-16 |
@@ -55,6 +55,7 @@
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-03-21 | 2022-04-21 |
 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-04-01 |  |
 | [Guay](https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Guay](https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR) | 3:17 | 2022-04-14 | 2022-05-21 |
+| [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2022-06-24 |  |
 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 | 2022-03-21 | 2022-05-21 |
 | [Háblame Claro](https://open.spotify.com/track/5zMbxpqETt0qsKL1lXgiVJ) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Háblame Claro](https://open.spotify.com/album/605tY0qzMFZDxM77IM1plm) | 2:30 | 2022-05-06 |  |
 | [i've been thinking lately](https://open.spotify.com/track/31Vk0Aqq53QqD0BXbdl33S) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [i've been thinking lately](https://open.spotify.com/album/23vQflCpxGtbyjQuNZ0zQ1) | 3:02 | 2022-06-17 |  |

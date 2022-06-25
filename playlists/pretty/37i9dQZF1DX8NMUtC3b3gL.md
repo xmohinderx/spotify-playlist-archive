@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,314 likes - 127 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,368 likes - 127 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 122 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 | 123 | [wheredidyougo](https://open.spotify.com/track/1IOyxXUpGlJFKlVOmtAYRn) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [shortstories](https://open.spotify.com/album/2Am9QrlMjX0QTnkAOayeeI) | 1:45 |
 | 124 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 |
-| 125 | [Pienso en ti](https://open.spotify.com/track/68gE83oU6RHJhueRremnVI) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n) | [Pienso en ti](https://open.spotify.com/album/7tfDDfseRhiLBEdBjps2j3) | 2:13 |
+| 125 | [Pienso en ti](https://open.spotify.com/track/68gE83oU6RHJhueRremnVI) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07), [Pacifico Beats](https://open.spotify.com/artist/12cXod2nNIxSDhbITtXZ0d) | [Pienso en ti](https://open.spotify.com/album/7tfDDfseRhiLBEdBjps2j3) | 2:13 |
 | 126 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 | 127 | [Manito](https://open.spotify.com/track/3czR3Xu0Ld5moQlOntRH4E) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Manito](https://open.spotify.com/album/755BUKp9HmjQUi1t1E8G5H) | 2:03 |
 

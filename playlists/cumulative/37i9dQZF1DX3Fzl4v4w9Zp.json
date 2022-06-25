@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Kyshona",
+  "description": "Keep your finger on the pulse of Americana. Cover: Ondara",
   "name": "The Pulse of Americana",
   "published_playlist_ids": [
     "1H5Sok0MEuwSOB35Thab6M"
@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+    },
+    {
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG"
       },
@@ -377,6 +395,24 @@
       "duration_ms": 182761,
       "name": "Been Worryin'",
       "url": "https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "album": {
@@ -788,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "album": {
         "name": "Country Coming Down",
         "url": "https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR"
       },
@@ -843,6 +897,24 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39"
+    },
+    {
+      "album": {
+        "name": "Claim Your Prize",
+        "url": "https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu"
+      },
+      "artists": [
+        {
+          "name": "John Moreland",
+          "url": "https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285261,
+      "name": "Claim Your Prize",
+      "url": "https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb"
     },
     {
       "album": {
@@ -977,6 +1049,28 @@
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
+    },
+    {
+      "album": {
+        "name": "'Flicted",
+        "url": "https://open.spotify.com/album/7DmETOdm0xy9UCAwWP2xe8"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298230,
+      "name": "Days Ahead (feat. Danielle Haim)",
+      "url": "https://open.spotify.com/track/5ESkRyWJPU5AThTvPa6Yfd"
     },
     {
       "album": {
@@ -1227,7 +1321,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
@@ -1531,7 +1625,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
@@ -1567,7 +1661,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 271426,
       "name": "Get What You Want",
       "url": "https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y"
@@ -2142,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254401,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R"
+    },
+    {
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -2298,6 +2410,24 @@
     },
     {
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "I\u2019m On Your Side",
+      "url": "https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL"
+    },
+    {
+      "album": {
         "name": "From Dreams to Dust",
         "url": "https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS"
       },
@@ -2313,6 +2443,24 @@
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf"
+    },
+    {
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
     },
     {
       "album": {
@@ -2349,7 +2497,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 142853,
       "name": "Jubilee",
       "url": "https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY"
@@ -2718,6 +2866,24 @@
     },
     {
       "album": {
+        "name": "Inside Problems",
+        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Make a Picture",
+      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl"
       },
@@ -2928,6 +3094,24 @@
     },
     {
       "album": {
+        "name": "Fables in a Foreign Land",
+        "url": "https://open.spotify.com/album/4oGR0FeyIITUvlPQ9BWhnE"
+      },
+      "artists": [
+        {
+          "name": "John Doe",
+          "url": "https://open.spotify.com/artist/4uyMcYXJM1rO5fvC9lOKwF"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205151,
+      "name": "Never Coming Back",
+      "url": "https://open.spotify.com/track/4bg1Z7DB1mmqsTxjhoTXxR"
+    },
+    {
+      "album": {
         "name": "Play Loud",
         "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },
@@ -2979,7 +3163,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 214866,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w"
@@ -3586,6 +3770,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -3707,6 +3909,24 @@
       "duration_ms": 246306,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6IzFGv9kIlHlOamtyDsGW4"
+    },
+    {
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/3JqWFMXFdMXUS1mwpfOKHX"
     },
     {
       "album": {
@@ -4455,7 +4675,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 250992,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O"
@@ -4575,7 +4795,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 195194,
       "name": "Ugly Faces",
       "url": "https://open.spotify.com/track/4XblwOWPMkornESGqDlYnr"
@@ -5089,7 +5309,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 246000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"

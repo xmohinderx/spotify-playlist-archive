@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/1YYodDIyxN0i5Xwsstvkpi)
+55 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/1YYodDIyxN0i5Xwsstvkpi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 | 2022-06-01 |  |
 | [Rolling One](https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 4:03 | 2022-06-01 |  |
 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 | 2022-06-01 |  |
-| [Soy El Eddy](https://open.spotify.com/track/6MwfWNCVXvUYjmVFyy5jeo) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/6Dn0Qlszolwh3AqMMc6vqq) | 4:16 | 2022-06-01 |  |
+| [Soy el Eddy](https://open.spotify.com/track/57adcqVBwYVjelcepFTGGJ) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/2zzfiVjLx8NcdPu1lQ3yZB) | 4:16 | 2022-06-24 |  |
+| [Soy El Eddy](https://open.spotify.com/track/6MwfWNCVXvUYjmVFyy5jeo) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/6Dn0Qlszolwh3AqMMc6vqq) | 4:16 | 2022-06-01 | 2022-06-25 |
 | [Soy La Suerte](https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 | 2022-06-01 |  |
 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 | 2022-06-01 |  |
 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 | 2022-06-01 |  |

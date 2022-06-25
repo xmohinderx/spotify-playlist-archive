@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-188 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+193 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2022-04-08 | 2022-05-27 |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2022-04-08 | 2022-05-27 |
 | [Back in Time](https://open.spotify.com/track/06ebw65TXHJKCCyLtTFRS5) | [Synth Experiment](https://open.spotify.com/artist/30VM2eiFpTUVf4SofL3veT) | [To the Sun](https://open.spotify.com/album/4wiuIwkqHzSpZas5ySVu7w) | 2:53 | 2022-04-08 | 2022-05-27 |
+| [Base de Rap Boombap](https://open.spotify.com/track/39une7hhwJWCPMgQ1CwMRa) | [AesUno](https://open.spotify.com/artist/6XhXfXQZNqlcxxo4VN5ZyV), [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5) | [Base de Rap Boombap](https://open.spotify.com/album/3tgWYDhnQloU9SpBaSBG9v) | 2:29 | 2022-06-24 |  |
 | [Better Together](https://open.spotify.com/track/3ZO2JrKZIxtk8DZN8YVLHP) | [North Polo](https://open.spotify.com/artist/1HCLXZk93Ezf3V9ZwubETv) | [Better Together](https://open.spotify.com/album/0pI1ZdcRCAz99blamoXobq) | 2:29 | 2022-04-08 | 2022-05-27 |
 | [Boarding](https://open.spotify.com/track/1tZR5quUNfqPsaBcO3ba9Y) | [Vanzeroy](https://open.spotify.com/artist/1vY5PJoeKYe3EGaq7xAcbv) | [Boarding](https://open.spotify.com/album/0S2AT8Pt2QfrMO6ZsdYq0k) | 2:08 | 2022-04-08 | 2022-05-27 |
 | [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 | 2022-05-20 |  |
@@ -61,6 +62,7 @@
 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 | 2022-04-08 |  |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-08 |  |
 | [Existence](https://open.spotify.com/track/6zOP2sc9YDUM65NIVmVUZj) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [Existence](https://open.spotify.com/album/1wQSWnHg5SeEIE1MRegKoX) | 1:54 | 2022-04-08 | 2022-05-27 |
+| [Far From Here](https://open.spotify.com/track/217ChWMhQc6TWGBa350i7m) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 1:52 | 2022-06-24 |  |
 | [Favela Blast](https://open.spotify.com/track/5lh5FpuqYBsnHUxmSY8SaD) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Scorpio](https://open.spotify.com/album/0UI9wErplZRJ4Xj0N5rx63) | 3:16 | 2022-05-26 |  |
 | [Feel the Same](https://open.spotify.com/track/36LKO32SaXOkakBfSrBdaB) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:35 | 2022-04-08 | 2022-05-27 |
 | [Fish Fry](https://open.spotify.com/track/3X3BewGLYG3qc5fsMmskZb) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:09 | 2022-04-08 | 2022-05-27 |
@@ -79,6 +81,7 @@
 | [Have Your Fun](https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:17 | 2022-06-03 |  |
 | [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-05-26 |  |
 | [How Does It Feel](https://open.spotify.com/track/0xmPtIIpkzi0sqBXTqPYwj) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [How Does It Feel](https://open.spotify.com/album/7iBIMGsXdqSKVQHG7UPLwU) | 2:25 | 2022-04-08 |  |
+| [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [Hypocrisy](https://open.spotify.com/track/34Fimf5dcnJeuX8OfCTIZz) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 3:05 | 2022-04-08 | 2022-05-27 |
 | [In Reality](https://open.spotify.com/track/5cuq5rEehD4lyRSTXrac0l) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:19 | 2022-04-08 | 2022-05-27 |
 | [In the Dash](https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:01 | 2022-06-03 |  |
@@ -103,6 +106,7 @@
 | [Minitaur](https://open.spotify.com/track/45IdK1igL6mw8JQHW7KTgs) | [Tigerblood Jewel](https://open.spotify.com/artist/4bJFkS1uMrGFdHdovQ3eIj) | [Minitaur](https://open.spotify.com/album/3mTxqA0qqnn1tqoDoKmS4V) | 2:32 | 2022-04-08 | 2022-05-27 |
 | [Monday 7AM](https://open.spotify.com/track/53medhlG5jux2pCprP02h2) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Up & Down](https://open.spotify.com/album/15tBEZCHqURPIvdglYShoD) | 3:14 | 2022-05-26 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-08 | 2022-05-27 |
+| [Mortal Combat](https://open.spotify.com/track/5H7PA4uJFSHXYJMo7nPirq) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 2:48 | 2022-06-24 |  |
 | [Motion](https://open.spotify.com/track/1i7pXVXPz6pxrHbJPlUVwp) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Motion](https://open.spotify.com/album/669olmt16llkZlgDbnKGXp) | 2:47 | 2022-04-08 | 2022-05-27 |
 | [Moving On](https://open.spotify.com/track/1t1keIK37KvyBbVNaAQtX7) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Moving On](https://open.spotify.com/album/4BIlilYEkxadJEyZqF84nw) | 2:21 | 2022-04-08 | 2022-05-27 |
 | [Naomi](https://open.spotify.com/track/0tLb7gryamtrnSwN6GvaI2) | [Diamond Rainclouds](https://open.spotify.com/artist/5PPvxImj1EsRW9mj9YmnEL) | [Naomi](https://open.spotify.com/album/4OF2T6TeoZzKOz6Ydj0kz7) | 3:04 | 2022-04-08 | 2022-05-20 |
@@ -116,6 +120,7 @@
 | [No Motivation](https://open.spotify.com/track/5JxFvaS1t2swlhhcuqIYyn) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Let Me Be](https://open.spotify.com/album/0b2BeiQYPBLKxyKJiMg180) | 2:30 | 2022-04-08 | 2022-05-20 |
 | [no way out](https://open.spotify.com/track/3qQPNvl3EJjDdIBw11jtdS) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:54 | 2022-04-08 | 2022-05-27 |
 | [noah's arcade](https://open.spotify.com/track/0Vseq98pqRvXIyxnARrbKZ) | [sharkus aurelius](https://open.spotify.com/artist/2EigNwqFy797MmEf3AbuRs) | [disposable camera](https://open.spotify.com/album/4Yh8KVaiiZ4Ub4NRpwkaqn) | 2:08 | 2022-04-08 | 2022-05-27 |
+| [Obi\-Wan Kenobi \(Star Wars Lofi\)](https://open.spotify.com/track/6Si3GJ6Coe38IDld7kYsHF) | [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Obi\-Wan Kenobi \(Star Wars Lofi\)](https://open.spotify.com/album/6q5fQh22Pc1woJgHMF2kWo) | 2:00 | 2022-06-24 |  |
 | [Ocean](https://open.spotify.com/track/1bFbRcEr176gytK7jpXZy3) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Ocean](https://open.spotify.com/album/1w48jnVbZhaB1li8zGFFXz) | 2:21 | 2022-04-08 |  |
 | [Odd Fellow](https://open.spotify.com/track/2ldIlcTS1lUQRI3BVbUl76) | [Broadfield](https://open.spotify.com/artist/31xnUAGInYfZnWxtB0BTZ3) | [Odd Fellow](https://open.spotify.com/album/1rYGac7jCEPPvYVrZw0r9t) | 2:35 | 2022-04-08 | 2022-05-27 |
 | [Office Hours](https://open.spotify.com/track/1wT08JjKyu3iUj52fAQAZz) | [Assistant Manager](https://open.spotify.com/artist/15sr5wzsH17p3tFje4h9Tl) | [Office Hours](https://open.spotify.com/album/5sqwRtt3nAnfnlAKITRF1c) | 1:58 | 2022-04-08 | 2022-05-27 |

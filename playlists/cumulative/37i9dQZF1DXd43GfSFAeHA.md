@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dafencii
 
-107 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+108 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,10 @@
 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2022-05-08 |  |
 | [Baghdad Drill](https://open.spotify.com/track/60uzhZIfzwoMnJZ3eZ3tuk) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Baghdad Drill](https://open.spotify.com/album/3Hm4AUiaym0kardXgz1qJl) | 3:10 | 2022-06-23 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-05-08 |  |
-| [BARRIERE](https://open.spotify.com/track/4sZgpQXq80i0r7DOSkH25S) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:24 | 2022-06-17 |  |
+| [BARRIERE](https://open.spotify.com/track/4sZgpQXq80i0r7DOSkH25S) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:24 | 2022-06-17 | 2022-06-25 |
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2022-05-08 |  |
 | [Batal Men El Waraa](https://open.spotify.com/track/3tcrbd01g8TFAiC2DFUu9Z) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Batal Men El Waraa](https://open.spotify.com/album/6WsGicBXJZydM2npkNgZI7) | 3:15 | 2022-05-08 | 2022-06-10 |
-| [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-05-08 |  |
+| [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-05-08 | 2022-06-25 |
 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 | 2022-05-08 |  |
 | [Briya](https://open.spotify.com/track/79wJvtTKL8iHMz4yWpfjzO) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:00 | 2022-05-08 |  |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-05-08 |  |
@@ -33,6 +33,7 @@
 | [El Hob Ebn Wes5a](https://open.spotify.com/track/0RsGwcEEqxDMhNA0jahQFV) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:46 | 2022-05-08 |  |
 | [Ezayak](https://open.spotify.com/track/27az6aDS4zWJ3yRU7gXJVH) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Ezayak](https://open.spotify.com/album/2xl5oVu3n8v9nAZDbmgi41) | 3:14 | 2022-05-08 |  |
 | [Fahmek](https://open.spotify.com/track/3EZxxyB3IcZGi7ALxkywRy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 3:03 | 2022-05-08 |  |
+| [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 | 2022-06-24 |  |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-05-08 |  |
 | [Fi Bali](https://open.spotify.com/track/5qQCl5LhHzUXOW8ngCsCjq) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Fi Bali](https://open.spotify.com/album/5NhcEhXwj3dMqIovtmkQg1) | 2:26 | 2022-05-08 |  |
 | [Floos](https://open.spotify.com/track/1y96NItQSfB8hH6pUSo99K) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:37 | 2022-05-08 |  |

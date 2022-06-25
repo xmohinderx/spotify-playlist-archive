@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > dove cameron if you're reading this my phone number is +46730...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,814 likes - 457 songs - 1 day 0 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,857 likes - 457 songs - 1 day 0 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

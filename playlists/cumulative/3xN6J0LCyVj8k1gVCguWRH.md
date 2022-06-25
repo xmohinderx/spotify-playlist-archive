@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,476 songs - 3 day 14 hr 0 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,477 songs - 3 day 14 hr 3 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Fancy](https://open.spotify.com/track/3PyophwfgOqcTcL9ZTmfXk) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Fancy](https://open.spotify.com/album/5J9YfYw8g7zr5hIsI10OAr) | 3:04 | 2021-04-23 | 2021-05-05 |
 | [Far Away](https://open.spotify.com/track/0Ba6ovlMwl9KnVaXIoRCnL) | [Laszlo](https://open.spotify.com/artist/5TNtLxHWJJqONApGbexje2) | [The Sky Is Falling...Again](https://open.spotify.com/album/3DA1fRXqWoWiyAVoj0Vr2x) | 3:43 | 2020-04-21 | 2020-05-06 |
 | [far from here](https://open.spotify.com/track/4xwNklyoThP5kOnoR1RN1d) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [far from here](https://open.spotify.com/album/3MTRpU32AhuJOv98Ck8s6Q) | 3:14 | 2021-04-30 | 2021-05-16 |
+| [Fastest Alone](https://open.spotify.com/track/6X5pvJz2oSwMk6JbXBiMBy) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Fastest Alone](https://open.spotify.com/album/59VlLSLopsyTZOGwiodbug) | 3:45 | 2022-06-24 |  |
 | [Faustian Bargain](https://open.spotify.com/track/0CMhN2Qs7xnr4pe80wysXS) | [BLDF](https://open.spotify.com/artist/3EyTTCdYTEhEqsnLIlcbxC) | [Less Is More, More or Less.](https://open.spotify.com/album/7IWbyR4OdiRH1OsyJZIEhU) | 2:28 | 2021-07-10 | 2021-07-25 |
 | [Feed Me Diamonds](https://open.spotify.com/track/5a0Qr1j8hxoFSEbKDA86fg) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [Feed Me Diamonds](https://open.spotify.com/album/00cbHBHp40rtdOoJGvrcrQ) | 3:34 | 2020-05-17 | 2020-05-24 |
 | [Feel](https://open.spotify.com/track/1uTzmyDOyV3ZmHEBqatKpF) | [Myyora](https://open.spotify.com/artist/3Q6v2TwbQyqfJ00kUqsIaE) | [Feel](https://open.spotify.com/album/1qOLQ97v2nfa6WYl1o2Q1q) | 2:42 | 2021-10-04 | 2021-10-20 |
@@ -892,7 +893,7 @@
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2021-10-08 | 2021-10-23 |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-08-20 |  |
-| [My Head](https://open.spotify.com/track/4HC480g0BPfdzlbk3DEgE3) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [My Head](https://open.spotify.com/album/2pPpQd5PLRiJ8QprZiYlFZ) | 2:14 | 2022-06-22 |  |
+| [My Head](https://open.spotify.com/track/4HC480g0BPfdzlbk3DEgE3) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [My Head](https://open.spotify.com/album/2pPpQd5PLRiJ8QprZiYlFZ) | 2:16 | 2022-06-22 |  |
 | [My Melody](https://open.spotify.com/track/33g3QdjmnRfk877s5j1SrV) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [My Melody](https://open.spotify.com/album/2fQjgO30ltKJrtKO0kUEvH) | 2:36 | 2020-04-10 | 2020-04-20 |
 | [My Muse](https://open.spotify.com/track/17MAaNfrT7tgK9l9YDELqi) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [My Muse](https://open.spotify.com/album/1rwlxgGl3IPrRTK0qssaYc) | 3:29 | 2020-08-02 | 2020-08-20 |
 | [My Own Thing](https://open.spotify.com/track/2ySRRtrAwDUF4FipiF1Djt) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [My Own Thing](https://open.spotify.com/album/6RQhltF3miWYkdfDT0JIbG) | 3:01 | 2021-08-28 | 2021-09-11 |

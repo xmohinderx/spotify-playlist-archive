@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-154 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+156 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2021-11-10 |  |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-17 |  |
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-11-10 |  |
+| [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
 | [Aurora](https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Aurora](https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1) | 3:13 | 2021-11-10 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 |  |
@@ -141,6 +142,7 @@
 | [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 |  |
 | [Sown from Luleå](https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K) | [Howard Lieberman](https://open.spotify.com/artist/6X3He75SSgFfKl09gJYBCZ) | [Modules](https://open.spotify.com/album/1FgzNTRzrMEPA08RirWMfj) | 3:58 | 2021-11-10 | 2022-04-22 |
 | [Standing Wave](https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Teegarden C](https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR) | 4:08 | 2022-04-06 |  |
+| [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Still](https://open.spotify.com/track/3MAn3fACQt6uwlEaE9IGNN) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Still](https://open.spotify.com/album/6NiOGqYGcLd9q7bWw1NPEm) | 3:12 | 2021-11-10 |  |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2021-11-10 |  |
 | [Sunscape](https://open.spotify.com/track/6UFrx6aIfTd6KWEW0lRkD9) | [Beyond The Last Star](https://open.spotify.com/artist/4FyxCX5Fab17TzC7lmzjJI) | [Beyond The Last Star](https://open.spotify.com/album/6HB8IHuSbf5k1ufN8LRAv4) | 2:45 | 2021-11-10 |  |

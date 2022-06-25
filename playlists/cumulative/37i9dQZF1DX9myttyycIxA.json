@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185109,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 150022,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4DsIr33zhVrXj06YYFM3JZ"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 227492,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/2W0Jv4zgTdHVrT4VtnoycW"
@@ -2367,7 +2367,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 160397,
       "name": "Doja Cat",
       "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
@@ -2493,7 +2493,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 188179,
       "name": "Eat Men Eat",
       "url": "https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq"
@@ -3203,6 +3203,24 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp"
+    },
+    {
+      "album": {
+        "name": "Give It Away",
+        "url": "https://open.spotify.com/album/2GoYefIW9m1a2yFRmaBYdv"
+      },
+      "artists": [
+        {
+          "name": "Blue Dahlia",
+          "url": "https://open.spotify.com/artist/2Ls6NaK9OMltk9EYI3UPcw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300625,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2"
     },
     {
       "album": {
@@ -6546,6 +6564,42 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
+    },
+    {
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
+    {
+      "album": {
         "name": "Sailboat",
         "url": "https://open.spotify.com/album/4aNcOIkxmGSpuVK01wQgD5"
       },
@@ -8044,6 +8098,24 @@
     },
     {
       "album": {
+        "name": "Trading Doses",
+        "url": "https://open.spotify.com/album/3LDWBlzWbvuVlgYnHkFPmq"
+      },
+      "artists": [
+        {
+          "name": "Anthony Green",
+          "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171861,
+      "name": "Trading Doses",
+      "url": "https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg"
+    },
+    {
+      "album": {
         "name": "Transients",
         "url": "https://open.spotify.com/album/149kG0Ln8mP316svShU5fk"
       },
@@ -8373,6 +8445,24 @@
       "duration_ms": 286012,
       "name": "Unrequited Love (& other clich\u00e9s)",
       "url": "https://open.spotify.com/track/1K0AENxzuLi4M420wUlvPT"
+    },
+    {
+      "album": {
+        "name": "untangle me",
+        "url": "https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105702,
+      "name": "untangle me",
+      "url": "https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh"
     },
     {
       "album": {

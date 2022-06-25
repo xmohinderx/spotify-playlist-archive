@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-63 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+64 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dogger Bank\-1 m/s\-WSW](https://open.spotify.com/track/4XbaZdbGwYkw76x9sMKM5D) | [Dorset Chamber Players](https://open.spotify.com/artist/06aPIRLW0mYovQapVxfesM) | [Dogger Bank\-1 m/s\-WSW](https://open.spotify.com/album/0RDKBwgDOwv4jGUHjb9hyh) | 2:34 | 2022-06-10 |  |
 | [Eaux](https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:31 | 2022-06-10 |  |
 | [Elevated Pastures](https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux) | [Chinyami](https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd) | [Elevated Pastures](https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm) | 3:33 | 2022-06-10 |  |
+| [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 | 2022-06-24 |  |
 | [Flare Inévitable](https://open.spotify.com/track/2P3LnLs7poXbWyKrf6KNav) | [Karin Reverdi](https://open.spotify.com/artist/2cUUKmjuAiKJqKyPP4VZbP) | [Flare Inévitable](https://open.spotify.com/album/4lkf9FvLdBo4UDUxl4alCL) | 2:40 | 2022-06-10 |  |
 | [Forever Yours](https://open.spotify.com/track/2nWSjphOxjauRxeR1siMMU) | [Sophie Deas](https://open.spotify.com/artist/702DXZGY75IDtJoJ3dXweg) | [Evening Songs](https://open.spotify.com/album/2Qo5gQN9HRFoyusNrM7NIw) | 2:50 | 2022-06-10 |  |
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-06-10 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Indie music antimatter. Cover: Bakar",
-  "num_followers": 648713,
+  "description": "Indie music antimatter. Cover: Groupthink",
+  "num_followers": 648876,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkxODk0NiwwMDAwMzQ1YjAwMDAwMTgxOGM3NWU4YzcwMDAwMDE4MTY5N2RmMDJm",
+  "snapshot_id": "MTY1NjA0ODEyMCwwMDAwMzQ1YzAwMDAwMTgxOTQyOGYxMTMwMDAwMDE4MThjZDM0OGYx",
   "tracks": [
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/5xf9dOicHkp1tRHzb4PFFg"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 163909,
+      "name": "Sex Is A Sport",
+      "url": "https://open.spotify.com/track/60KObg7fLDbnHmgmmG8X5m"
+    },
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
@@ -25,36 +41,76 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2022-06-21 19:04:36",
+      "added_at": "2022-06-24 05:22:00",
       "album": {
-        "name": "lost boy",
-        "url": "https://open.spotify.com/album/6O9G1x68fqHh2dYgziAhmY"
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
       "artists": [
         {
-          "name": "Billy Marchiafava",
-          "url": "https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 151111,
-      "name": "lost boy",
-      "url": "https://open.spotify.com/track/5jhkfOJBGQvyM0sYxPFJmn"
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
-        "name": "Me and Your Boyfriend",
-        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
+        "name": "5 minutes til dawn",
+        "url": "https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
         }
       ],
-      "duration_ms": 126142,
-      "name": "Me and Your Boyfriend",
-      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
+      "duration_ms": 156144,
+      "name": "5 minutes til dawn",
+      "url": "https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5"
+    },
+    {
+      "added_at": "2022-06-21 19:04:36",
+      "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -75,6 +131,22 @@
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+    },
+    {
+      "added_at": "2022-06-21 19:04:36",
+      "album": {
         "name": "Down the Bottle",
         "url": "https://open.spotify.com/album/3P2pczdAyjLZ4vuM1ljaNV"
       },
@@ -87,6 +159,74 @@
       "duration_ms": 165403,
       "name": "Down the Bottle",
       "url": "https://open.spotify.com/track/0azW93j6ED7Da83IDAtDDn"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "Cloud Paint",
+        "url": "https://open.spotify.com/album/3ihhpCQwkkson9Lz3NQ6OI"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        }
+      ],
+      "duration_ms": 199299,
+      "name": "Pelican Freestyle",
+      "url": "https://open.spotify.com/track/6sNfqqGpSImTscoZNrsCBe"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "VIII. Handle It",
+        "url": "https://open.spotify.com/album/5gQhsCFCKvNpWwXnReYMOV"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "VIII. Handle It",
+      "url": "https://open.spotify.com/track/3dCEeEnpGK4IdYTEvpWyRp"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "JUST MY LUCK",
+        "url": "https://open.spotify.com/album/71PRKOPWHQpHkIZim7bE99"
+      },
+      "artists": [
+        {
+          "name": "dev soter",
+          "url": "https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy"
+        },
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "PILOT",
+      "url": "https://open.spotify.com/track/6p2RUPU8EUHfdNq4hnGX0B"
+    },
+    {
+      "added_at": "2022-06-21 19:04:36",
+      "album": {
+        "name": "lost boy",
+        "url": "https://open.spotify.com/album/6O9G1x68fqHh2dYgziAhmY"
+      },
+      "artists": [
+        {
+          "name": "Billy Marchiafava",
+          "url": "https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "lost boy",
+      "url": "https://open.spotify.com/track/5jhkfOJBGQvyM0sYxPFJmn"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -127,6 +267,22 @@
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
+        "name": "Saboteur",
+        "url": "https://open.spotify.com/album/6BVbM8crC7I1aywQv8g9sf"
+      },
+      "artists": [
+        {
+          "name": "Ruby Red",
+          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
+        }
+      ],
+      "duration_ms": 210583,
+      "name": "No Feeling Is Forever",
+      "url": "https://open.spotify.com/track/68V71NzNC6GRaCaE9S8bcO"
+    },
+    {
+      "added_at": "2022-06-21 19:04:36",
+      "album": {
         "name": "Keep It Simple, Stupid!",
         "url": "https://open.spotify.com/album/31T0jT90WLFd2SQecMTrD9"
       },
@@ -145,52 +301,20 @@
       "url": "https://open.spotify.com/track/4dN2Z5ncmkmOhzsaoqDHtS"
     },
     {
-      "added_at": "2022-06-21 19:04:36",
+      "added_at": "2022-06-24 05:22:00",
       "album": {
-        "name": "5 minutes til dawn",
-        "url": "https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p"
       },
       "artists": [
         {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY"
         }
       ],
-      "duration_ms": 156144,
-      "name": "5 minutes til dawn",
-      "url": "https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Saboteur",
-        "url": "https://open.spotify.com/album/6BVbM8crC7I1aywQv8g9sf"
-      },
-      "artists": [
-        {
-          "name": "Ruby Red",
-          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
-        }
-      ],
-      "duration_ms": 210583,
-      "name": "No Feeling Is Forever",
-      "url": "https://open.spotify.com/track/68V71NzNC6GRaCaE9S8bcO"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+      "duration_ms": 105779,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -227,26 +351,6 @@
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
         "name": "ZIG ZAGGING",
         "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
       },
@@ -279,6 +383,58 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "99' pollen",
+        "url": "https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        }
+      ],
+      "duration_ms": 191627,
+      "name": "99' pollen",
+      "url": "https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY"
+    },
+    {
+      "added_at": "2022-06-24 05:22:00",
+      "album": {
+        "name": "BOLD Willow Tree",
+        "url": "https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV"
+      },
+      "artists": [
+        {
+          "name": "Meech",
+          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
+        },
+        {
+          "name": "SAINT LYOR",
+          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
+        }
+      ],
+      "duration_ms": 216576,
+      "name": "BOLD Willow Tree",
+      "url": "https://open.spotify.com/track/5rPPJNrsX05TaWrvKPusB2"
+    },
+    {
+      "added_at": "2022-06-21 19:04:36",
+      "album": {
+        "name": "Me and Your Boyfriend",
+        "url": "https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 126142,
+      "name": "Me and Your Boyfriend",
+      "url": "https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -327,22 +483,6 @@
       "duration_ms": 169215,
       "name": "chosen",
       "url": "https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -475,26 +615,6 @@
       "duration_ms": 175312,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/00S56mM2szrRreAaglglag"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Pure Androgyny",
-        "url": "https://open.spotify.com/album/6Hf0off8InwP1Y0cgT50dt"
-      },
-      "artists": [
-        {
-          "name": "BEGINNERS",
-          "url": "https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3"
-        },
-        {
-          "name": "Torii Wolf",
-          "url": "https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Pure Androgyny",
-      "url": "https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -775,22 +895,6 @@
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
-        "name": "TIME OF DAY",
-        "url": "https://open.spotify.com/album/5PBfJD3OGp8045tw9uf7oi"
-      },
-      "artists": [
-        {
-          "name": "dev soter",
-          "url": "https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy"
-        }
-      ],
-      "duration_ms": 131412,
-      "name": "TIME OF DAY",
-      "url": "https://open.spotify.com/track/3pQy3FYvbkXQonhmR0TAf6"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
         "name": "WDYWTBWYGU",
         "url": "https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu"
       },
@@ -963,22 +1067,6 @@
       "duration_ms": 258661,
       "name": "Pushin' Thru It",
       "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     },
     {
       "added_at": "2022-06-21 19:04:36",
@@ -2423,22 +2511,6 @@
     {
       "added_at": "2022-06-21 19:04:36",
       "album": {
-        "name": "Don't Like U",
-        "url": "https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa"
-      },
-      "artists": [
-        {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
-        }
-      ],
-      "duration_ms": 152475,
-      "name": "Don't Like U",
-      "url": "https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
         "name": "Ain't Gon Stop Me",
         "url": "https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT"
       },
@@ -2491,54 +2563,6 @@
       "duration_ms": 106102,
       "name": "Romanticist",
       "url": "https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Flight Tag",
-        "url": "https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0"
-      },
-      "artists": [
-        {
-          "name": "Flowerboy",
-          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "11:45 in Nolita",
-      "url": "https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Alpha Games",
-        "url": "https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 175180,
-      "name": "In Situ",
-      "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
-    },
-    {
-      "added_at": "2022-06-21 19:04:36",
-      "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/77Wq66HlKZgyKOtN5Whdbr"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Dirty Pillow",
-      "url": "https://open.spotify.com/track/4nyrnbpzTMyP1kfxydwjRV"
     }
   ],
   "unique_name": "anti pop",

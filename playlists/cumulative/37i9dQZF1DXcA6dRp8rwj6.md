@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\.  \(Cover: Drake\)
+> The hottest Hip\-Hop of today all over the world\.  \(Cover: Eminem, Snoop Dogg
 
-504 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+506 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [LUVMIND.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 | 2022-02-10 | 2022-03-11 |
 | [Forever Young](https://open.spotify.com/track/3JswK0tQ0uzK2lCorvSqaX) | [Tobio](https://open.spotify.com/artist/1blwd72jvfbVUrFjFoaKtM) | [Tobio Outside](https://open.spotify.com/album/4RncfoIn8xFPqgwA4ZljTE) | 2:59 | 2022-02-10 | 2022-03-04 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-24 | 2022-03-18 |
+| [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-24 |  |
 | [froyo \(feat\. Warren Hue\)](https://open.spotify.com/track/1pEewu35ctFmfOQ6ObwQuq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 5:09 | 2022-04-22 | 2022-06-03 |
 | [Full Speed](https://open.spotify.com/track/2eZFeyNpv4eQAZPRsUxLGw) | [Bbvdoll](https://open.spotify.com/artist/1U85TieK4aHvLGLf6b3I81) | [Full Speed](https://open.spotify.com/album/0OS0qlWKs709xlUessbaL3) | 2:22 | 2022-03-18 | 2022-04-01 |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-09 |  |
@@ -360,6 +361,7 @@
 | [Rambo](https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rambo](https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr) | 3:31 | 2022-01-20 | 2022-01-28 |
 | [Rari \(feat\. Future\)](https://open.spotify.com/track/0M52bTppxI3QQxan8ftIsY) | [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rari \(Chapter 1\)](https://open.spotify.com/album/32BftvliX0Sk0FfPCqKY2l) | 2:05 | 2022-05-05 | 2022-06-17 |
 | [Re\-Up](https://open.spotify.com/track/271mso7HsG1tnN5n5zrW40) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [Re\-Up](https://open.spotify.com/album/7n0EryWqOSzJBcBPh3OL78) | 3:03 | 2022-03-18 | 2022-04-08 |
+| [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 |  |
 | [Rebuild The World \(feat\. GARY & BILL STAX\)](https://open.spotify.com/track/1MHQj1DDhsDNbpdDV6J7Fk) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Rebuild The World](https://open.spotify.com/album/2KPlOg9JNDqtwWDrzbGrDv) | 3:06 | 2022-06-02 | 2022-06-24 |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEONE](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2022-02-10 | 2022-03-11 |
 | [Revive like a dog](https://open.spotify.com/track/6xRSxr4RaSKiVVdCcr5M1J) | [PENTO](https://open.spotify.com/artist/5bBvXMwNu88fxzf47RErB3), [Ian Ka$h](https://open.spotify.com/artist/0WlRUcYhuk4rkUm4zEpXu1) | [Delorean](https://open.spotify.com/album/2qbF9klnDVk5upQDrtFITN) | 2:50 | 2022-06-16 | 2022-06-24 |

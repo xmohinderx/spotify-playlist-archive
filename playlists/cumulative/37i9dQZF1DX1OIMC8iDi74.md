@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-211 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+212 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-21 | 2022-02-01 |
 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 | 2022-02-01 |  |
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2022-02-01 |  |
-| [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-02-01 |  |
+| [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-02-01 | 2022-06-25 |
 | [ASTRAL](https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [ASTRAL](https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx) | 3:28 | 2021-11-19 | 2022-02-02 |
 | [Atom Mirror](https://open.spotify.com/track/2vV2bD9Iqf22nHuFzrzz28) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [Atom Mirror](https://open.spotify.com/album/1cwS6NQ9FAmexXEyziFsOL) | 2:48 | 2021-12-14 | 2022-02-02 |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-11-19 | 2022-02-02 |
@@ -53,6 +53,7 @@
 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 | 2022-02-01 | 2022-06-17 |
 | [East Bridge](https://open.spotify.com/track/1ppxq2JdEEAUL5K8imMVTj) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Sejo](https://open.spotify.com/artist/0KPmCqiU6iscwxQo62WBXN) | [East Bridge](https://open.spotify.com/album/0Qa4PNGOp2K9lbrEF9DeNy) | 3:31 | 2021-11-19 | 2022-02-02 |
 | [Echelon](https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Echelon](https://open.spotify.com/album/77ZmYo3i76tieicsQ5VmbR) | 3:02 | 2022-01-21 | 2022-02-01 |
+| [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 |  |
 | [enough](https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [enough](https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw) | 2:38 | 2021-11-19 |  |
 | [Eternal](https://open.spotify.com/track/1Bhy4eBv3f3m7cXQxyQVZ6) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [R3VXS](https://open.spotify.com/artist/2utEH3EfW0uJCHSDyXnJjB) | [Eternal](https://open.spotify.com/album/1GykPsowuX6anZe67MflnU) | 2:24 | 2021-11-19 | 2022-02-02 |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-19 | 2022-02-02 |

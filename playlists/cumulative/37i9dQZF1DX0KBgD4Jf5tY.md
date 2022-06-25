@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Loggia West Milano
 
-263 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+264 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bella e Psicopatica](https://open.spotify.com/track/5MwFh8UUSy6nALBKAhliQy) | [Ventitre](https://open.spotify.com/artist/3SGhpZwfDJbFfHksZix32m) | [Bella e Psicopatica](https://open.spotify.com/album/1sVQQpSpvzBLW7SA7H7p5P) | 3:00 | 2022-01-06 | 2022-02-18 |
 | [Besame macho](https://open.spotify.com/track/0B7iH1Czlu8yKHqszC6EEx) | [Eda Marì](https://open.spotify.com/artist/4BuJlU0xsHWI8gPnrSyvCs) | [Besame macho](https://open.spotify.com/album/0e1zJ9roidnR6X6zRhn15L) | 3:31 | 2022-01-06 | 2022-02-18 |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-04-08 | 2022-05-28 |
+| [blade runner](https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY) | [testacoda](https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp), [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [buonanotte, testacoda](https://open.spotify.com/album/1ekB54uglaS54Iw67CdeNZ) | 2:49 | 2022-06-24 |  |
 | [Bomba](https://open.spotify.com/track/3mg4r2ELAzcbeoIq3KVlV9) | [Gamaar](https://open.spotify.com/artist/1rheAe1ouvsfFn7pKGDiVx) | [Bomba](https://open.spotify.com/album/4bPXDfYwoxJoElrGcsq1Vr) | 4:19 | 2022-05-27 |  |
 | [BONSAI](https://open.spotify.com/track/0t5pfQg3YluLCUB9KGP4iO) | [Tauri](https://open.spotify.com/artist/4DBNbqTyqDLvkZuC0M9tEb) | [BONSAI](https://open.spotify.com/album/11vS8icAKCTxdKeqv1NToR) | 2:49 | 2022-01-06 | 2022-02-18 |
 | [BUBU](https://open.spotify.com/track/5MpQSICU6w2Wu39FXSxPQK) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [BUBU](https://open.spotify.com/album/6PzcJMgNttqjxcuf8mZNzV) | 4:31 | 2022-01-06 | 2022-02-18 |
@@ -163,7 +164,7 @@
 | [non bevo più caffè](https://open.spotify.com/track/3PzljMGulBNrtqpOx7W2AG) | [Mariangela Tria](https://open.spotify.com/artist/1cNCpk5ae58rvv9lhGqotR) | [non bevo più caffè](https://open.spotify.com/album/33ScURcGo2o1IL3nbk3yLE) | 2:18 | 2022-01-06 | 2022-02-18 |
 | [Non ci credo che ti penso ancora](https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Non ci credo che ti penso ancora](https://open.spotify.com/album/6PIzJhvykPulWFW1Z5HcbL) | 2:21 | 2022-03-17 | 2022-04-20 |
 | [Non imparo mai](https://open.spotify.com/track/4kfcMfRe0UuENCkO25EXgE) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Non imparo mai](https://open.spotify.com/album/7rKE1oS8ui351iS0y75EjJ) | 2:48 | 2022-01-06 | 2022-02-26 |
-| [NON MI MANCHERÀ](https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN) | [KLEN SHEET](https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb), [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [NON MI MANCHERÀ](https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI) | 4:39 | 2022-05-19 |  |
+| [NON MI MANCHERÀ](https://open.spotify.com/track/4DCFKVrzCozNnViabJHLqN) | [KLEN SHEET](https://open.spotify.com/artist/6OjU7XIpsUSL4yvrlKSIkb), [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [NON MI MANCHERÀ](https://open.spotify.com/album/6Wu3HEdVUbmwZ2BICF09KI) | 4:39 | 2022-05-19 | 2022-06-25 |
 | [NON TORNO + INDIETRO](https://open.spotify.com/track/7KGLXBqsrWV8BSENQSHmau) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [NON TORNO + INDIETRO](https://open.spotify.com/album/3U138Lx2pacyQfOlib1Rvc) | 2:15 | 2022-02-17 | 2022-03-04 |
 | [non è giusto x me](https://open.spotify.com/track/53AQEs95pYSoBeOJXkvvvU) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ), [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [non è giusto x me](https://open.spotify.com/album/6yj68pJiY2jiGUDlA1DVaq) | 2:39 | 2022-06-02 |  |
 | [Nonostante le parole](https://open.spotify.com/track/63488gHoJfdGGuuJqn4prE) | [Andrea Lombardo](https://open.spotify.com/artist/2lXM4yC9ini3XKHIHWEQsL) | [Nonostante le parole](https://open.spotify.com/album/14DrN72Pae0ls1iAl66y1x) | 3:25 | 2022-01-06 | 2022-02-18 |

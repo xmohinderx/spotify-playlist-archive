@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Bat Caves",
+        "url": "https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO"
+      },
+      "artists": [
+        {
+          "name": "Captain XY",
+          "url": "https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "Bat Caves",
+      "url": "https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk"
+    },
+    {
+      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6bP6mC9lB42UR2SWc1DLLD"
       },

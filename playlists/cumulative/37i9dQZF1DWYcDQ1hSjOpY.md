@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-292 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+294 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Lorimor](https://open.spotify.com/track/4Dduhh8xWr0XCBoVJthchN) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Lorimor](https://open.spotify.com/album/5BlMYaGM6uoxCXfzHkZida) | 2:19 | 2021-11-10 |  |
 | [Loved by the Stars](https://open.spotify.com/track/4MOl4gLMjcYOK2CtFfwOfK) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Loved by the Stars](https://open.spotify.com/album/4BUzTk4FYRdisXmcEPU5jE) | 2:24 | 2021-11-10 | 2022-03-25 |
 | [Lowering Mind](https://open.spotify.com/track/5tfnG31hpSaIGTFLVUdlEx) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Humility](https://open.spotify.com/album/0sUwuNy0E8I5xVWKXLy3XI) | 4:12 | 2021-11-10 |  |
+| [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 | 2022-06-24 |  |
 | [Luminous](https://open.spotify.com/track/3KbmeqpwQMymXHdhzaAFms) | [Invisible Motion](https://open.spotify.com/artist/55kth4t5W6MGCPvW8ueDae) | [Luminous](https://open.spotify.com/album/7GcnCnJe3p1hOUE2lpgVHS) | 2:58 | 2021-11-10 |  |
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-02-09 |  |
 | [Magnetic View](https://open.spotify.com/track/6ZF8463e4x5adudYv6VPMp) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Delta Dreams](https://open.spotify.com/album/7FNZSjLNWtEFWfv7FJkaQf) | 3:37 | 2021-11-10 |  |
@@ -233,6 +234,7 @@
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2021-11-10 |  |
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-24 |  |
+| [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Kai Carney](https://open.spotify.com/artist/3auOPI2xcAVuyR6ULTIlqM) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 | 2022-06-16 |  |
 | [Saturated Evenings](https://open.spotify.com/track/7oigJ0Iei2PLS2vwA3gnib) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Saturated Evenings](https://open.spotify.com/album/7eJEukYUhvEnLJMH9z3e9c) | 3:37 | 2021-11-10 |  |
 | [Scenery In Dreams](https://open.spotify.com/track/7A9Y0w3bfhnc4YLAlmiKcc) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Scenery In Dreams](https://open.spotify.com/album/7h6Acv69Aso0ihWXIfYsou) | 2:38 | 2021-11-10 |  |

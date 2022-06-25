@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-105 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+108 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cambio de Corazòn](https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Cambio de Corazòn](https://open.spotify.com/album/0VVUv5a4PJngb9Hb8qe648) | 1:44 | 2022-06-17 |  |
 | [Chartres](https://open.spotify.com/track/7qrmODD2bTNoMzqn31vSjE) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Tachibana Bay](https://open.spotify.com/album/6o1qA16sjgZwcFrp819vHx) | 3:41 | 2022-06-17 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-06-17 |  |
+| [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-06-24 |  |
 | [Como Fue](https://open.spotify.com/track/4sqW8VHxYBVdEftuQYF0Tz) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Como Fue](https://open.spotify.com/album/3YNVNcF8L4GZDfdA2l5Vos) | 1:58 | 2022-06-17 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2022-06-17 |  |
 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 | 2022-06-17 |  |
@@ -85,7 +86,7 @@
 | [Sabucina](https://open.spotify.com/track/6CKg1LYxqHbnzUcffxWfQt) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Viento de siroco](https://open.spotify.com/album/43qd0LuoNcxwHsSJBDfk8V) | 4:14 | 2022-06-17 |  |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-06-17 |  |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-06-17 |  |
-| [Se Ela Perguntar](https://open.spotify.com/track/1kvkbzzDc1YqgX8B1HSLdo) | [Dilermando Reis](https://open.spotify.com/artist/6jV11251JZCZ5BU1kTGCVH), [Panos Megarchiotis](https://open.spotify.com/artist/2KxHkdbc2w29KhuQyNVQ9i) | [Violão Brasileiro \(20th Century Brazilian Music for Guitar\)](https://open.spotify.com/album/0XE7HgG4OgGYUCqc6PLZPZ) | 3:18 | 2022-06-17 |  |
+| [Se Ela Perguntar](https://open.spotify.com/track/1kvkbzzDc1YqgX8B1HSLdo) | [Dilermando Reis](https://open.spotify.com/artist/6jV11251JZCZ5BU1kTGCVH), [Panos Megarchiotis](https://open.spotify.com/artist/2KxHkdbc2w29KhuQyNVQ9i) | [Violão Brasileiro \(20th Century Brazilian Music for Guitar\)](https://open.spotify.com/album/0XE7HgG4OgGYUCqc6PLZPZ) | 3:18 | 2022-06-17 | 2022-06-25 |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-06-17 |  |
 | [Sierra Blanca](https://open.spotify.com/track/7siStEUpB8qicWuum3Ly2u) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Sierra Blanca](https://open.spotify.com/album/4sAhmphKQOaGLsQqhsmem4) | 2:33 | 2022-06-17 |  |
 | [Silva](https://open.spotify.com/track/0OGklcrx4tR6kMuK4dDoK8) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Silva](https://open.spotify.com/album/3IvvUji5JDqhVyBk1PvU6V) | 1:50 | 2022-06-17 |  |
@@ -102,6 +103,7 @@
 | [The Gastruck](https://open.spotify.com/track/4IJnVCZll8ikwz0bKUbuvH) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [The Gastruck](https://open.spotify.com/album/25xzlHNAAhJSiZUQL9XkqK) | 2:28 | 2022-06-17 |  |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2022-06-17 |  |
 | [Trafalgar](https://open.spotify.com/track/6Klz0YteuP0CQmHvqHNFkd) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Trafalgar](https://open.spotify.com/album/1bFDU1We8vz1qZTETrhGYk) | 3:23 | 2022-06-17 |  |
+| [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 | 2022-06-24 |  |
 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 | 2022-06-17 |  |
 | [Uma Valsa e dois Amores](https://open.spotify.com/track/4DMdVTsX30OCuKZMWSNnO0) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Uma Valsa e dois Amores](https://open.spotify.com/album/7uCzTmgWQgau9Y3OSCnZet) | 3:33 | 2022-06-17 |  |
 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 | 2022-06-17 |  |
@@ -109,6 +111,7 @@
 | [Venecia](https://open.spotify.com/track/03tFups6fAAso68zTzwtpc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Venecia](https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh) | 3:18 | 2022-06-17 |  |
 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 | 2022-06-17 |  |
 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 | 2022-06-17 |  |
+| [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-06-24 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-06-17 |  |
 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 | 2022-06-17 |  |
 | [Zorica](https://open.spotify.com/track/6cj0JUDGyVNpNUD8B04k5k) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/3XTBwXoDQoe4zAZvP7igxW) | 3:46 | 2022-06-17 |  |

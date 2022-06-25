@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 167619,
       "name": "blood",
       "url": "https://open.spotify.com/track/6TGg7MdLQ6Sw35vsGVUTIB"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
@@ -3111,7 +3111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 151973,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/0QrfZiv1ARuht0oPwWeyJ2"
@@ -3221,7 +3221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ"
@@ -3239,7 +3239,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3831W9bQFWQyiH2F9Y2G0U"
@@ -3261,7 +3261,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 154285,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0CBP40V5xkzhQqAOHRQmsB"
@@ -4807,7 +4807,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 142862,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/3pXqrcwP59B4gGMAkn66Wg"
@@ -5959,7 +5959,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 200625,
       "name": "Swish Swish - Valentino Khan Remix",
       "url": "https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR"
@@ -6039,7 +6039,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 204354,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1OEnLtZknEai6HRxJpR589"
@@ -6387,7 +6387,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 188640,
       "name": "U",
       "url": "https://open.spotify.com/track/4GGr9JefrXSJe14EfR5PIv"
@@ -6681,6 +6681,28 @@
       "duration_ms": 187510,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/3SWT9eHwRgEnVTzqE6yDiA"
+    },
+    {
+      "album": {
+        "name": "Winter Summer",
+        "url": "https://open.spotify.com/album/4Gf3zFl4xUzN11HbjzIwz2"
+      },
+      "artists": [
+        {
+          "name": "Jhn McFly",
+          "url": "https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c"
+        },
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132378,
+      "name": "Winter Summer",
+      "url": "https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Green Velvet.",
-  "num_followers": 556267,
+  "num_followers": 556418,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgyMjQ0NiwwMDAwMDEzOTAwMDAwMTgxODZiNTZmMzYwMDAwMDE4MTZlNzFmOGM1",
+  "snapshot_id": "MTY1NjA0MzI2MCwwMDAwMDEzYTAwMDAwMTgxOTNkZWM4ZGMwMDAwMDE4MTZlNzFmOGM1",
   "tracks": [
     {
       "added_at": "2022-06-03 04:00:00",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
     },
     {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "OoooH",
+        "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        }
+      ],
+      "duration_ms": 202017,
+      "name": "OoooH",
+      "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
+    },
+    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "Hella",
@@ -47,6 +67,26 @@
       "duration_ms": 172800,
       "name": "Hella",
       "url": "https://open.spotify.com/track/45InXApu4gOT5EzXwBgkKH"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Mirror Mirror (feat. TELLER)",
+        "url": "https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "TELLER",
+          "url": "https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt"
+        }
+      ],
+      "duration_ms": 272646,
+      "name": "Mirror Mirror (feat. TELLER)",
+      "url": "https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -73,6 +113,22 @@
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
       "added_at": "2022-06-21 14:40:24",
       "album": {
         "name": "Chiquetere",
@@ -91,6 +147,58 @@
       "duration_ms": 163488,
       "name": "Chiquetere (feat. Rafa Villalba)",
       "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Hag\u00fce",
+        "url": "https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "Hag\u00fce",
+      "url": "https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "La Murga (Michael's Midnight Mix)",
+        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 206971,
+      "name": "La Murga - Michael's Midnight Mix",
+      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Eastern Dub",
+        "url": "https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Sammy Porter",
+          "url": "https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7"
+        }
+      ],
+      "duration_ms": 178629,
+      "name": "Eastern Dub",
+      "url": "https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -127,6 +235,46 @@
       "duration_ms": 149406,
       "name": "Get Down Low (Dip)",
       "url": "https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Foggy Geezer",
+        "url": "https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 184842,
+      "name": "Foggy Geezer",
+      "url": "https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Adidas & Pearls",
+        "url": "https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Adidas & Pearls",
+      "url": "https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -201,6 +349,22 @@
       "url": "https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "El Oh Vee Ee",
+        "url": "https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "El Oh Vee Ee",
+      "url": "https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "All Good",
@@ -237,6 +401,22 @@
       "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/4nP6NnjdbIapDZXwc3M9NN"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/3l3RsIHCP7WkjxeBGSy3ep"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Moon Groove",
@@ -267,6 +447,26 @@
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Feel Alive / Be My Love",
+        "url": "https://open.spotify.com/album/3aKodtgO1n014PgiOyg8Xj"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "David Herrlich",
+          "url": "https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/1xj3p0T92qspXHlDTMeyFN"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -349,22 +549,6 @@
       "url": "https://open.spotify.com/track/0WbB2lzpZD5Up5ufK0CIyg"
     },
     {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "La Murga (Michael's Midnight Mix)",
-        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 206971,
-      "name": "La Murga - Michael's Midnight Mix",
-      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Ritmo",
@@ -411,6 +595,22 @@
       "duration_ms": 177780,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/2QJXVB6YAdrQxz4nsOol67"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/228gxHWEjaZGS9OXOeINmr"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -539,6 +739,22 @@
       "duration_ms": 214036,
       "name": "For The Same Man - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 187791,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/1EmhWg1fKL7uNZNPXKPvFI"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -749,26 +965,6 @@
       "url": "https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "OoooH",
-        "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        }
-      ],
-      "duration_ms": 202017,
-      "name": "OoooH",
-      "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
-    },
-    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "Overload",
@@ -869,42 +1065,6 @@
       "url": "https://open.spotify.com/track/2O7lNYqE0OPcG7tuyzudxq"
     },
     {
-      "added_at": "2022-06-10 14:37:31",
-      "album": {
-        "name": "Movements, Pt.3",
-        "url": "https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2"
-      },
-      "artists": [
-        {
-          "name": "The Deepshakerz",
-          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/3oRPMjrptefomD6Q2hy2JA"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Wildside",
-        "url": "https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J"
-      },
-      "artists": [
-        {
-          "name": "Yousef",
-          "url": "https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF"
-        },
-        {
-          "name": "Penny F.",
-          "url": "https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd"
-        }
-      ],
-      "duration_ms": 249448,
-      "name": "Wildside",
-      "url": "https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "F*ck",
@@ -919,22 +1079,6 @@
       "duration_ms": 174677,
       "name": "F*ck",
       "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW"
-      },
-      "artists": [
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -991,22 +1135,6 @@
       "duration_ms": 241889,
       "name": "Bouncer",
       "url": "https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -1253,26 +1381,6 @@
       "url": "https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Pink Shoes",
-        "url": "https://open.spotify.com/album/4NEHGFE8a44yBMA4Dy5qwK"
-      },
-      "artists": [
-        {
-          "name": "Black Caviar",
-          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
-        },
-        {
-          "name": "Lee Wilson",
-          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
-        }
-      ],
-      "duration_ms": 231685,
-      "name": "Pink Shoes",
-      "url": "https://open.spotify.com/track/6dSJ3T3dMTGMvMdAkvEBxl"
-    },
-    {
       "added_at": "2022-04-15 15:02:33",
       "album": {
         "name": "Rainfall (Praise You)",
@@ -1287,26 +1395,6 @@
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2022-05-06 04:01:00",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/5U9Y2k94WQVKhQS7M7Bc6g"
-      },
-      "artists": [
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/1WSqdinidUBLI5Eh5gQ5xD"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -1549,22 +1637,6 @@
       "url": "https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R"
     },
     {
-      "added_at": "2022-04-29 12:27:06",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7"
-      },
-      "artists": [
-        {
-          "name": "Jaded",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 224548,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp"
-    },
-    {
       "added_at": "2022-03-25 17:23:15",
       "album": {
         "name": "Sete",
@@ -1605,22 +1677,6 @@
       "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Gimme More",
@@ -1651,22 +1707,6 @@
       "duration_ms": 204639,
       "name": "Radar",
       "url": "https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Over Think It",
-        "url": "https://open.spotify.com/album/5WNFzvNVwv9ztpxnQnOnQL"
-      },
-      "artists": [
-        {
-          "name": "French Original",
-          "url": "https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Over Think It",
-      "url": "https://open.spotify.com/track/7v6jd6uV0C3wIAXfcX2Zuj"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -1809,22 +1849,6 @@
       "url": "https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Wasting Time",
-        "url": "https://open.spotify.com/album/4CuSM5CQQKVwm29LXBnvEo"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 223450,
-      "name": "Wasting Time",
-      "url": "https://open.spotify.com/track/7qIU50XAzFBYENwo5L5AeV"
-    },
-    {
       "added_at": "2022-03-25 18:51:15",
       "album": {
         "name": "Feel Me",
@@ -1839,22 +1863,6 @@
       "duration_ms": 220312,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/6ZDVabmemwAPrbGwnCKgAE"
-    },
-    {
-      "added_at": "2022-01-14 11:21:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     }
   ],
   "unique_name": "Operator",

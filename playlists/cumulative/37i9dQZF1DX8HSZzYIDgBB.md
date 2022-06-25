@@ -2,9 +2,9 @@
 
 ### [Indie AlterLatino](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Los nuevos sonidos y fusiones de música Alternativa Latina, con Buscabulla en portada.
+> Los nuevos sonidos y fusiones de música Alternativa Latina, con Tonga Conga y Vanessa Zamora en portada.
 
-125 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+127 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 |  |
 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 | 2021-10-05 | 2022-05-10 |
 | [donde nadie más Respira](https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [donde nadie más Respira](https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE) | 3:10 | 2021-10-05 |  |
+| [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 | 2022-06-24 |  |
 | [El Benson](https://open.spotify.com/track/6kccUvdoGBKRtVb4PRhQgf) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Benson](https://open.spotify.com/album/3ZTgcWOo0s8HjcBJlj1g75) | 4:29 | 2021-10-05 | 2022-04-23 |
 | [El Cabrón \- Radio Edit](https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Carlo Maver](https://open.spotify.com/artist/2RgKeXFc9O23jlpLmAYbnA) | [El Cabrón](https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq) | 3:42 | 2021-10-05 |  |
 | [El Ciclo de las Mareas](https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G) | [Los Pilotos](https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4), [Mula](https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp) | [Alianza Atlántica](https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT) | 4:29 | 2021-10-05 |  |
@@ -78,11 +79,12 @@
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-05 | 2022-04-10 |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/1whuGreIX1sYRDeT28nhyp) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [De Algo Hay Que Morir](https://open.spotify.com/album/2MF220KUPbPWEjh59nPFEK) | 4:00 | 2021-10-05 | 2022-04-21 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB) | 3:48 | 2022-03-30 |  |
+| [Mi palabra \(feat\. Ana Tijoux\)](https://open.spotify.com/track/7tkJLOBu9s6UnOUE114hUS) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Mi palabra \(feat\. Ana Tijoux\)](https://open.spotify.com/album/6TYads3TGRVoUwdIVIJRzh) | 4:00 | 2022-06-24 |  |
 | [Miel de Aguacate](https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi) | [Bicho Blanco](https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw) | [Miel de Aguacate](https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ) | 3:57 | 2022-01-13 |  |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-18 |  |
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-01-14 | 2022-04-23 |
 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 | 2022-03-04 |  |
-| [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 | 2022-03-04 |  |
+| [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 | 2022-03-04 | 2022-06-25 |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-04-18 |  |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-02-25 |  |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-05 |  |
@@ -117,7 +119,7 @@
 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 | 2022-02-18 |  |
 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 | 2022-03-18 |  |
 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 | 2022-05-27 |  |
-| [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 | 2022-03-30 |  |
+| [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 | 2022-03-30 | 2022-06-25 |
 | [Tenías Que Avisar](https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [Lucas Beguerie](https://open.spotify.com/artist/3v7EPGIjdVJkMmG9G18lkv) | [Tenías Que Avisar](https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ) | 2:33 | 2022-03-18 |  |
 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-18 |  |
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 |  |

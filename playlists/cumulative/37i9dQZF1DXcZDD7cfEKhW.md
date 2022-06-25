@@ -4,7 +4,7 @@
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Lizzo.
 
-321 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/19uNHWTaOVDySWkMTC6J3e)
+322 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/19uNHWTaOVDySWkMTC6J3e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Deal With It \(feat\. Kelis\) \- 220 Kid Remix](https://open.spotify.com/track/261rpE5bM0eX0fCjjRY09V) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Deal With It \(feat\. Kelis\) \[Remixes\]](https://open.spotify.com/album/1KnQkqQi1ZETaAbSbbDY3t) | 2:26 | 2021-03-06 | 2022-04-21 |
 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc) | 3:16 | 2020-10-24 | 2022-01-19 |
 | [Diamonds \- Joel Corry Remix](https://open.spotify.com/track/5rxT1ueHIJum2Ond5yOe1N) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Diamonds \(Joel Corry Remix\)](https://open.spotify.com/album/3wjkxqJQTQdD90VpY3S0xW) | 3:15 | 2020-10-13\* | 2022-05-28 |
+| [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 | 2022-06-24 |  |
 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 | 2022-02-25 |  |
 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 | 2021-09-14 |  |
 | [Don't Play \- Shane Codd Remix](https://open.spotify.com/track/5vtpbL92YS66BVXOOcr9e5) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Don't Play \(Shane Codd Remix\)](https://open.spotify.com/album/43SWh8k7Gt8CmXw73dPNG6) | 3:01 | 2021-03-01 | 2022-04-23 |

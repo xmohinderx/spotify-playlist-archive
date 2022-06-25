@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Precious Pepala",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: ROSIE",
   "name": "Next Gen Singer-Songwriters",
   "published_playlist_ids": [
     "5yqeqnGwA3WW1b3xVN4nfp"
@@ -41,6 +41,24 @@
       "duration_ms": 188376,
       "name": "26",
       "url": "https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl"
+    },
+    {
+      "album": {
+        "name": "A song I wrote after therapy",
+        "url": "https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG"
+      },
+      "artists": [
+        {
+          "name": "Harry Hudson",
+          "url": "https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185043,
+      "name": "A song I wrote after therapy",
+      "url": "https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9"
     },
     {
       "album": {
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
@@ -405,6 +423,24 @@
       "duration_ms": 171560,
       "name": "Brooklyn - Stripped",
       "url": "https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "album": {
@@ -1897,7 +1933,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 187293,
       "name": "Mr. Forgettable",
       "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
@@ -2005,7 +2041,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 187906,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ"
@@ -2380,6 +2416,24 @@
     },
     {
       "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170892,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ"
+    },
+    {
+      "album": {
         "name": "saw ur mom at the grocery store",
         "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
       },
@@ -2629,6 +2683,24 @@
       "duration_ms": 202800,
       "name": "Something Greater",
       "url": "https://open.spotify.com/track/7rHQU2YxurHZZv2KgH2bmu"
+    },
+    {
+      "album": {
+        "name": "Something I Hate",
+        "url": "https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171713,
+      "name": "Something I Hate",
+      "url": "https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd"
     },
     {
       "album": {
@@ -3253,7 +3325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 229565,
       "name": "When It Ends",
       "url": "https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii"

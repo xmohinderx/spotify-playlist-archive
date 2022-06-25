@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-86 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
+87 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [我想行開下](https://open.spotify.com/track/1gqiMq3X8QPXNhPrGULUZL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [我想行開下](https://open.spotify.com/album/6t5kaD0AQppsm06nKToYGq) | 2:29 | 2022-04-13 |  |
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2022-04-13 |  |
 | [撐著](https://open.spotify.com/track/3beXcn7mFyG0X9aQKABOO6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:37 | 2022-04-13 |  |
+| [擇善固執](https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 | 2022-06-24 |  |
 | [救命歌](https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [救命歌](https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL) | 4:19 | 2022-04-13 |  |
 | [新年快樂](https://open.spotify.com/track/2qfbVADQ4FbqlGj55T8t5U) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [新年快樂](https://open.spotify.com/album/32elQ6WhPVOADzfHMnzode) | 3:50 | 2022-04-13 |  |
 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 | 2022-04-13 |  |

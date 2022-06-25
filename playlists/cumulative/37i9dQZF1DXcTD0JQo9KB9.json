@@ -858,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Petit Fours",
+        "url": "https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217338,
+      "name": "\u64c7\u5584\u56fa\u57f7",
+      "url": "https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ"
+    },
+    {
+      "album": {
         "name": "\u6551\u547d\u6b4c",
         "url": "https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL"
       },

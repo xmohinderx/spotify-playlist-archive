@@ -402,6 +402,28 @@
     },
     {
       "album": {
+        "name": "Ici & Ailleurs (Vol. 2)",
+        "url": "https://open.spotify.com/album/6Utodg0Pwxpuee6VNOyjSq"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Marie-Pierre Langlamet",
+          "url": "https://open.spotify.com/artist/1tdbU4lrcDEmUiwzkkHR7K"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Danzas Argentinas: No. 2, Danza de la moza donosa - Arr. for Harp",
+      "url": "https://open.spotify.com/track/1NNCarpdbkQH3pzGEn8Gwt"
+    },
+    {
+      "album": {
         "name": "Passaggio",
         "url": "https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ"
       },

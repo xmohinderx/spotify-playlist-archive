@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u98a8\u5149",
+        "url": "https://open.spotify.com/album/2olyf0rTeI1FNoU8mSTPAx"
+      },
+      "artists": [
+        {
+          "name": "Pong Nan",
+          "url": "https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232085,
+      "name": "\u5bc6\u5ba4\u88e1\u7684\u7d72\u896a",
+      "url": "https://open.spotify.com/track/58U5nTp0hgVZ9WOFhahLk4"
+    },
+    {
+      "album": {
         "name": "\u7687\u540e\u5340\u7684\u7687\u540e",
         "url": "https://open.spotify.com/album/0SKfepOzVmrior4EWnZOPe"
       },

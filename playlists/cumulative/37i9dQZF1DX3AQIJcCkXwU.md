@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-96 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+98 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-04-04 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-04-04 |  |
 | [Doors of Perception](https://open.spotify.com/track/0BZaQ6SYMgGEz1lmgRB9uK) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gunjan](https://open.spotify.com/artist/3p00mlIL7KcUqbdvNVGbzm) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:16 | 2022-04-04 |  |
+| [Dost](https://open.spotify.com/track/4rBV5pcd8Lt29HwWIhfVDD) | [Navin Chopade](https://open.spotify.com/artist/1GSnvlnX8iWLIgRnEmPE3y) | [Dost](https://open.spotify.com/album/02czJKLz9Ksy9cgH32BlbR) | 4:51 | 2022-06-24 |  |
 | [Exodus](https://open.spotify.com/track/3im1UzhMzKGFMRd0lZs9Mf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Anand Bhate](https://open.spotify.com/artist/6yt6lSPt2kG2HAZXLJDsPw), [Rekha Sawhney](https://open.spotify.com/artist/4ZvAVxhGJM51hJk3NAwdQj) | [Viceroy's House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BqDnHcyvW4wRpskiyYs3q) | 4:04 | 2022-04-04 |  |
 | [Finding Balance \- Ambient Mix](https://open.spotify.com/track/5vVldrjvYThNX1zzIpP5ja) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 5:15 | 2022-04-04 |  |
 | [Flora & Fauna](https://open.spotify.com/track/3UCQg1vf06upgr2VhPU94q) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [Flora & Fauna](https://open.spotify.com/album/5RA2DiWNVd07dyOz5arrhr) | 4:14 | 2022-04-04 |  |
@@ -41,6 +42,7 @@
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-04-04 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
 | [Indian Song](https://open.spotify.com/track/7yAAcErAnwMpDOlVYEaTpl) | [Fold The Sun](https://open.spotify.com/artist/5SOUv2efO5CO6gerIKJlQJ) | [Indian Song](https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB) | 3:30 | 2022-04-04 |  |
+| [Indigo Sky](https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:32 | 2022-06-24 |  |
 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 | 2022-04-04 |  |
 | [Jal](https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Jal](https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb) | 4:43 | 2022-05-05 |  |
 | [Jodi Tare Nai Chini Go \- Instrumental](https://open.spotify.com/track/7cEZxN0bwOoJC61Bu2KLzn) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Tejas Vinchurkar](https://open.spotify.com/artist/0tg9ZOHpgLqgTeFgO843Y8) | [The Magic of Tagore \- Instrumentals](https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs) | 4:46 | 2022-04-04 |  |

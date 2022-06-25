@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-201 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+203 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2022-02-11 | 2022-06-23 |
 | [Alaska](https://open.spotify.com/track/6hxdw7ZDj7dmhpEo1TB0Fh) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Alaska](https://open.spotify.com/album/7b5SamKOOk1ryczb0JSVUk) | 1:48 | 2022-02-11 |  |
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2021-10-12 | 2022-02-12 |
-| [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2022-02-11 | 2022-06-23 |
+| [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2022-02-11 |  |
 | [another LOOK](https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF) | [francesco MG](https://open.spotify.com/artist/3jsOcrGsjDdIRR7EobZMDr) | [another LOOK](https://open.spotify.com/album/52v3M4zfMlRUQjkALjohRU) | 1:57 | 2021-10-26 | 2022-02-12 |
 | [anti\-skate](https://open.spotify.com/track/2UCDo9LZZE9IDsDihDIa62) | [cruzcamra](https://open.spotify.com/artist/5U5yZ3Xe35tZQtKBSAicl6) | [anti\-skate](https://open.spotify.com/album/13AsfNnBW30ZQ6GxOmv5Rh) | 2:23 | 2021-10-12 | 2022-02-12 |
 | [Antidote](https://open.spotify.com/track/6NmZ0JkijOwrH8WOyZIQZG) | [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Antidote](https://open.spotify.com/album/4rrVdwu8qaZNUKBqKUKD3k) | 3:18 | 2019-10-04 | 2022-02-12 |
@@ -48,6 +48,7 @@
 | [Chill](https://open.spotify.com/track/1VfRjbEeCviSrNH2fqFi7c) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Chill](https://open.spotify.com/album/2uoAdcg5qM474JnnlIPuI6) | 2:54 | 2019-10-04 | 2022-02-12 |
 | [Chips N' Drinks](https://open.spotify.com/track/5oRUfTipJwKIbzbfpGbOkz) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Bakansu](https://open.spotify.com/album/051zJOY0HpLk5hNrykYfhs) | 3:04 | 2019-10-04 | 2022-02-12 |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 | 2022-06-23 |
+| [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2022-06-24 |  |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 |  |
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
@@ -61,7 +62,7 @@
 | [Felt so Good \- Original Mix](https://open.spotify.com/track/5R9xOXlSWmiIyZEAvyjSAW) | [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G), [Lafreq](https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki) | [Felt so Good](https://open.spotify.com/album/60MW6WIVRNsfu1LTndQtWr) | 7:04 | 2022-05-27 |  |
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2022-02-11 |  |
 | [Fly Away](https://open.spotify.com/track/6DJxApYHiBvNG9kJe94r4z) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Fly Away](https://open.spotify.com/album/2GOKji1DkqfhO7SqImkSoN) | 2:52 | 2022-02-12 |  |
-| [Fly Hat](https://open.spotify.com/track/1JCcF3m9ljycX3Yd0I8r3S) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Fly Hat](https://open.spotify.com/album/1y1cCINNGNQsvwTbcvCMhZ) | 2:53 | 2022-06-10 |  |
+| [Fly Hat](https://open.spotify.com/track/1JCcF3m9ljycX3Yd0I8r3S) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Fly Hat](https://open.spotify.com/album/1y1cCINNGNQsvwTbcvCMhZ) | 2:53 | 2022-06-10 | 2022-06-25 |
 | [foggy afternoons](https://open.spotify.com/track/29aEQCuc0s6E0kcFreV46L) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:02 | 2021-10-12 | 2022-02-12 |
 | [Follow the Sun \- JordanXL Remix](https://open.spotify.com/track/0Yw2oKRVSUtQfQbZGtarJU) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po), [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Follow the Sun \(Remixes\) \- Single](https://open.spotify.com/album/67nMpCUL8SDP6CC6DPzVaz) | 3:29 | 2019-10-04 | 2022-02-12 |
 | [Fool 4 You](https://open.spotify.com/track/49dTuuSZfC6676ARFbkjQQ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Fool 4 You](https://open.spotify.com/album/4wRiP3qKS7MPIctQJrnFgv) | 4:14 | 2019-10-04 | 2022-02-12 |
@@ -136,7 +137,7 @@
 | [Scent/Sweat](https://open.spotify.com/track/0F0p5ui6cpPUsjiSsPNHcs) | [Pheeyownah](https://open.spotify.com/artist/3uHNiWNGDKPU2dIA7Q7en9) | [Scent/Sweat](https://open.spotify.com/album/0bceiqvN5qQm0RqT2X3weZ) | 3:36 | 2019-10-04 | 2022-02-12 |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-10-12 | 2022-02-12 |
 | [Severance](https://open.spotify.com/track/7vHkT0MHqz0cyRcGjR6OtA) | [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM) | [Anachronism](https://open.spotify.com/album/5nPPBh5zmauom6cBkrOXSv) | 4:08 | 2019-10-04 | 2022-02-12 |
-| [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 |  |
+| [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 | 2022-06-25 |
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-10-12 | 2022-02-12 |
 | [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 | 2022-02-11 |  |
 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 | 2022-02-11 |  |
@@ -193,7 +194,8 @@
 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 | 2021-10-12 | 2022-02-12 |
 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 | 2021-07-20 | 2022-02-12 |
 | [Wanderer \- Chill Mix](https://open.spotify.com/track/1QoZXDJVp516a9QCNvnmZL) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Wanderer](https://open.spotify.com/album/1dX5KiQVkYcayFZFFSbq82) | 2:21 | 2022-02-11 |  |
-| [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 |  |
+| [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 | 2022-06-25 |
+| [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-10-12 | 2022-02-12 |
 | [Wish We Had History](https://open.spotify.com/track/32rW37r60HLUJj8qlleba7) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wish We Had History](https://open.spotify.com/album/0bH31JVkxjZKgTeXCCNPsK) | 3:40 | 2019-10-04 | 2022-02-12 |
 | [with you](https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:58 | 2021-10-12 | 2022-02-12 |

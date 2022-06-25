@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Zara Larsson
+> Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-280 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+282 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Call Your Girlfriend](https://open.spotify.com/track/1P0h5mzonDDnntjobrHJsw) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Call Your Girlfriend](https://open.spotify.com/album/1ET8uKlskrO9yfPOL654UU) | 3:07 | 2022-03-11 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/6dLJcxHBJvift9UIKwMy55) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Can't Feel My Face](https://open.spotify.com/album/0Olhook3bctGZesshPROlZ) | 2:32 | 2021-12-24 | 2022-04-16 |
 | [Can't Feel My Face](https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:21 | 2021-12-24 |  |
+| [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2022-06-24 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-12-17 |  |
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2021-12-17 |  |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 |  |
@@ -118,6 +119,7 @@
 | [Heartless \- Recorded At RAK Studios, London](https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Spotify Singles](https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub) | 3:44 | 2021-12-17 |  |
 | [Heat Waves \(Acoustic\)](https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Heat Waves \(Acoustic\)](https://open.spotify.com/album/6OV0ZnJFjoYz7cbNWPy8qx) | 2:21 | 2022-01-07 |  |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2021-12-17 |  |
+| [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 | 2022-06-24 |  |
 | [Here](https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:20 | 2021-12-17 |  |
 | [Heroes](https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Heroes](https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ) | 3:28 | 2021-12-17 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-04-08 |  |

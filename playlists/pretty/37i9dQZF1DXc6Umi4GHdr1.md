@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,466 likes - 97 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,464 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,18 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 82 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 |
 | 83 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 |
 | 84 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
-| 85 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 |
-| 86 | [The beauty](https://open.spotify.com/track/1N35jodnlu7EdXVRn6xUSk) | [Juri van Saal](https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA) | [The beauty](https://open.spotify.com/album/2WckICyFQx4UBmaPNeDqik) | 2:52 |
-| 87 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 |
-| 88 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 |
-| 89 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 |
-| 90 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 |
-| 91 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 |
-| 92 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
-| 93 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 |
-| 94 | [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 |
-| 95 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
-| 96 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 |
-| 97 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 |
+| 85 | [Contemplacion](https://open.spotify.com/track/5VwqDvZOyX2MVPlfr0jLmd) | [Classical Guitar Masters](https://open.spotify.com/artist/7ctJVvTo1OFEHP1YgNAKzm) | [Simple Guitar Classics](https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma) | 3:43 |
+| 86 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 |
+| 87 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 |
+| 88 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 |
+| 89 | [The beauty](https://open.spotify.com/track/1N35jodnlu7EdXVRn6xUSk) | [Juri van Saal](https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA) | [The beauty](https://open.spotify.com/album/2WckICyFQx4UBmaPNeDqik) | 2:52 |
+| 90 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 |
+| 91 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 |
+| 92 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 |
+| 93 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 |
+| 94 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 |
+| 95 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
+| 96 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 |
+| 97 | [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 |
+| 98 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
+| 99 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 |
+| 100 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 |
 
-Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDA0MjAwMDAwMTgxNmVmNWEwOTIwMDAwMDE3OWYxOGNkZjI5`
+Snapshot ID: `MTY1NjA2OTE5OSwwMDAwMDA0MzAwMDAwMTgxOTU2YTk4MTEwMDAwMDE3OWYxOGNkZjI5`

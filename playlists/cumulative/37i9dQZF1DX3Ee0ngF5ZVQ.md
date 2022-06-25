@@ -4,7 +4,7 @@
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Grace Tyler
 
-296 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+299 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 | 2021-12-17 | 2022-05-28 |
 | [Cuz I'm Country](https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Cuz I'm Country](https://open.spotify.com/album/03ccca7v1ES41IFLaSeSq6) | 3:13 | 2022-04-08 |  |
 | [Damn I Need a Drink](https://open.spotify.com/track/39o414yDjRtRy5la1JSoUA) | [Cory Michael](https://open.spotify.com/artist/1k5u7BdZYkZPJJaIMJivsZ) | [Damn I Need a Drink](https://open.spotify.com/album/73s6nWYz7v9knI8ryE1b09) | 3:05 | 2021-12-17 |  |
+| [Dance Hall Hell](https://open.spotify.com/track/5G2VgMq3PRET97pQ9zZkTc) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:33 | 2022-06-24 |  |
 | [Danced All Night Long](https://open.spotify.com/track/3Kqz6fQwqNjvebOaPPslFt) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Danced All Night Long](https://open.spotify.com/album/5G5OQaWKa8I4oUrC5dmLB9) | 4:04 | 2022-03-11 | 2022-03-19 |
 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 |  |
 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 |  |
@@ -92,7 +93,7 @@
 | [Don't Hold Your Breath](https://open.spotify.com/track/120dlF8jwNeOKgjmLsL25m) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Don't Hold Your Breath](https://open.spotify.com/album/6G12HHIVDRBxhwVEHf6xJz) | 3:46 | 2022-03-11 |  |
 | [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 |  |
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 |  |
-| [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 |  |
+| [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 |  |
 | [Easy on the Eyes](https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:35 | 2022-05-27 |  |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 |  |
@@ -107,6 +108,7 @@
 | [Fly Tonight](https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe) | [Trent Cowie Band](https://open.spotify.com/artist/4U82Z5ImPvKQF1wgZdhBZE) | [Fly Tonight](https://open.spotify.com/album/0l2J5TE9wOFBgNp106gloM) | 3:11 | 2022-02-11 |  |
 | [Follow](https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Follow](https://open.spotify.com/album/1UUV1hZtczlx2uFDG8XyrF) | 3:06 | 2022-01-28 |  |
 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 |  |
+| [Free Man](https://open.spotify.com/track/6Mg5RPaHV9OkzmXJQxWBdm) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Free Man](https://open.spotify.com/album/7k5gdTDJnY0xPozkMyHHJ3) | 2:57 | 2022-06-24 |  |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-25 |  |
 | [Game Of Fools](https://open.spotify.com/track/7n5D9ZWCCmKIkNyZSV2i3i) | [Ryan Wilcox](https://open.spotify.com/artist/3yVjN3hZbqNkZzNMsnL0r1), [The Sunday Shakes](https://open.spotify.com/artist/3v8xBzqxJg4K2GkpiPUtqG), [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Game Of Fools](https://open.spotify.com/album/6lY8fQM8ly0ZrwhDopnoFH) | 3:39 | 2021-12-17 | 2022-05-28 |
 | [Gas Station Roses](https://open.spotify.com/track/4spypQZyNiTGlrSxIrKllD) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [See You Next Time](https://open.spotify.com/album/2vaiHCp8YbaF34ldDDsUrP) | 3:17 | 2021-12-17 |  |
@@ -190,6 +192,7 @@
 | [Miles and Miles of You](https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/5G5NGWji2d6bSjnNzpxr90) | 4:01 | 2022-01-21 |  |
 | [Movin' On](https://open.spotify.com/track/0JPRXF8h2ysd2qXJQQa4GK) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Movin' On](https://open.spotify.com/album/73tJeurEWxJl6mWH3udrha) | 3:26 | 2022-05-13 |  |
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 |  |
+| [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |
@@ -288,7 +291,7 @@
 | [When I See You](https://open.spotify.com/track/3q1K2sy4cleHRdaSWpwmlt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6I6ykKV4SbTOK7ecmTtjDw) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 | 2021-12-17 | 2022-05-20 |
 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 | 2021-12-17 | 2022-03-19 |
-| [Where the Lonely Go](https://open.spotify.com/track/3ExEYtIdVTuIebZsoc8l2v) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:31 | 2022-01-28 |  |
+| [Where the Lonely Go](https://open.spotify.com/track/3ExEYtIdVTuIebZsoc8l2v) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:31 | 2022-01-28 | 2022-06-25 |
 | [Where the Wildflowers Lay](https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 2:47 | 2021-12-17 |  |
 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 | 2021-12-17 |  |
 | [Whiskey](https://open.spotify.com/track/6XHyGwW1pu2vIVhtt8M5uf) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:01 | 2021-12-17 |  |

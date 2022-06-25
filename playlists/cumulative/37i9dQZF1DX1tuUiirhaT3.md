@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-194 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+196 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 | 2021-12-17 |  |
 | [Ringlo](https://open.spotify.com/track/7nIeAAVVaug5sJqCADGDuw) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Serenity](https://open.spotify.com/album/6F8YYRYpK7XvPhfpQUmxi9) | 2:13 | 2021-12-17 |  |
 | [Ripples](https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu) | [Cotton Duo](https://open.spotify.com/artist/1kIGV2gyUr4qbx4o1jHVZ6) | [Ripples](https://open.spotify.com/album/4mKdlYkk85ECsIpO2CIBeu) | 2:05 | 2021-12-17 |  |
+| [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 | 2022-06-24 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2021-12-17 |  |
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2022-05-25 |  |
 | [Sandy Beaches](https://open.spotify.com/track/1EdUVLHbFfHcTvKVXDBjcR) | [Gusta](https://open.spotify.com/artist/3YyQ36sYQ4pqoO8M4gRNHa) | [Green Hill](https://open.spotify.com/album/0Dx0yofDqO7Y0nxgVPaaKC) | 3:18 | 2021-12-17 |  |
@@ -201,6 +202,7 @@
 | [Wide Transfers](https://open.spotify.com/track/04XwIlZo2CWJU0OUdnVFFw) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Wide Transfers](https://open.spotify.com/album/3gURbHWPKttLCK2tQCs0Q6) | 3:40 | 2021-12-17 |  |
 | [Winter Petals](https://open.spotify.com/track/5rXxMpRv4tcWmMioTcTSrS) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/51EtJKhNA69gKvzS4Ne7RA) | 4:04 | 2021-12-17 |  |
 | [Wonders Of Space](https://open.spotify.com/track/1uYSvR0oisaumzxuJ0YYf8) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:22 | 2021-12-17 |  |
+| [Yume](https://open.spotify.com/track/4Op6vVWnv5tYcnWAGXMLbv) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Yume](https://open.spotify.com/album/1Qr9WSp95JGVu1AqSJdar7) | 2:26 | 2022-06-24 |  |
 | [Zephyr](https://open.spotify.com/track/003fWGezqoXij6iO4VUUEB) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Zephyr](https://open.spotify.com/album/0rEhK3dBpjWBQvjmtSsuLH) | 2:37 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

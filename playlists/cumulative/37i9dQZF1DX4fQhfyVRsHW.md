@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+105 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2022-05-25 |  |
 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 | 2022-05-25 |  |
 | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/track/4oetcmOX3Se7HSEzFuymZ4) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/album/5DE6bYPWsWnnSYfDRTXIf6) | 3:09 | 2022-05-25 |  |
+| [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 | 2022-06-24 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-05-25 |  |
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2022-05-25 |  |
 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 | 2022-05-25 |  |

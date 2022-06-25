@@ -788,6 +788,32 @@
     },
     {
       "album": {
+        "name": "Parker: Ornithology (Arr. for Recorder and Ensemble)",
+        "url": "https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Lucie Horsch",
+          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+        },
+        {
+          "name": "Fuse",
+          "url": "https://open.spotify.com/artist/3aOhOu4KcHWCMcubPH35Dk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Ornithology (Arr. for Recorder and Ensemble)",
+      "url": "https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF"
+    },
+    {
+      "album": {
         "name": "Baroqueswing Vol. II",
         "url": "https://open.spotify.com/album/180MM5RltxV7A4JtjWFupO"
       },

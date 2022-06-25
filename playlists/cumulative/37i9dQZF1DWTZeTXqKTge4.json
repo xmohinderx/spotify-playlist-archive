@@ -232,6 +232,28 @@
     },
     {
       "album": {
+        "name": "6 PIASSES",
+        "url": "https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI"
+      },
+      "artists": [
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175975,
+      "name": "6 PIASSES",
+      "url": "https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x"
+    },
+    {
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe"
       },
@@ -2391,7 +2413,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 151991,
       "name": "Maison S\u00e9rieuse",
       "url": "https://open.spotify.com/track/3NxGzIj7N31sQPrAqec8Vq"
@@ -3397,7 +3419,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183664,
       "name": "Ride Or Die - Reprise",
       "url": "https://open.spotify.com/track/7iYygd04ltJSykEUFrU9HL"
@@ -4045,6 +4067,28 @@
       "duration_ms": 186000,
       "name": "Trois",
       "url": "https://open.spotify.com/track/7FifBy3Tu7kxliPg331kLA"
+    },
+    {
+      "album": {
+        "name": "Tudo Bem",
+        "url": "https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT"
     },
     {
       "album": {

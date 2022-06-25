@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-265 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+266 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Welcome](https://open.spotify.com/track/0fHPGTQ8LdkUP0yxgKBl76) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Gentle Side Of John Coltrane](https://open.spotify.com/album/0hc0DLxQyod6p5UdCjNOJS) | 5:32 | 2022-04-29 | 2022-06-18 |
 | [What's New \- Remastered](https://open.spotify.com/track/4q8jquFyiFcOdebPpXG5Ee) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Swing, Swang, Swingin'](https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk) | 5:19 | 2022-01-17 | 2022-02-19 |
 | [What's New In Baltimore?](https://open.spotify.com/track/0dW2aSS9ccD9vYJAENTkQh) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Frank Zappa Meets The Mothers Of Prevention](https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr) | 5:19 | 2022-06-17 |  |
+| [WHATUP](https://open.spotify.com/track/7vr9frLcyCM4m6A4KS1sex) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [WHATUP](https://open.spotify.com/album/6mPWY9kVPFlpXTtxdwFUuO) | 2:28 | 2022-06-24 |  |
 | [Where Or When](https://open.spotify.com/track/2AFLjcssAvJq62eeHZ0Q4q) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 3:20 | 2021-12-10 | 2022-01-14 |
 | [Wherever You Go](https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Just What You Need](https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z) | 4:37 | 2022-03-18 | 2022-04-29 |
 | [White Christmas \- Live / 1948](https://open.spotify.com/track/1ZdrZWcHz6bQvP0O3UiZIx) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Bird After Dark](https://open.spotify.com/album/78okwKHPlJKtrd3jOIJdqs) | 4:59 | 2021-12-10 | 2022-01-14 |

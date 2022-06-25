@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-98 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+99 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Fairy Tale/Going Home](https://open.spotify.com/track/6EisZy9HeWEkhteJiegVPX) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [The Princess And The Frog](https://open.spotify.com/album/1gq7uhfNW4QMeRr9msV68P) | 4:17 | 2021-10-07 |  |
 | [Farewell](https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \(English Version\)](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 4:48 | 2021-10-07 |  |
 | [Fate And Destiny](https://open.spotify.com/track/28ZWbsG75mfJyW1XGlAanb) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Brave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10hnrpEpYtqX0d223buyyr) | 4:17 | 2021-10-07 |  |
+| [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Feed the Birds \(From "Mary Poppins"\)](https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A) | 4:21 | 2022-06-24 |  |
 | [Field Trip](https://open.spotify.com/track/4GjD1FcG5UkQUuHE4pI1Fa) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 0:57 | 2021-10-07 |  |
 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 | 2021-10-07 |  |
 | [Finding Nemo](https://open.spotify.com/track/2JpsSmsRTBeE2v4D55HVCT) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:19 | 2021-10-07 |  |

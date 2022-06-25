@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 137895,
       "name": "1989",
       "url": "https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 206036,
       "name": "22 Carats",
       "url": "https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT"
@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Back2Roadz",
+        "url": "https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Back2Roadz",
+      "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
+    },
+    {
+      "album": {
         "name": "Bad n Rude (feat. WSTRN)",
         "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
       },
@@ -357,6 +375,24 @@
       "duration_ms": 149126,
       "name": "Bernie Mac",
       "url": "https://open.spotify.com/track/3Z8WVPojr7RFPqkntdZVNR"
+    },
+    {
+      "album": {
+        "name": "Best Service",
+        "url": "https://open.spotify.com/album/0RQygMsoc89lkY23Mbdjvw"
+      },
+      "artists": [
+        {
+          "name": "Ramz",
+          "url": "https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166349,
+      "name": "Best Service",
+      "url": "https://open.spotify.com/track/5244Ci4k7GqEFBhTCm5nMr"
     },
     {
       "album": {
@@ -564,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2N4OkjYnMQ5zfY8QiulKmm"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167234,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/02FFVT1DXOxvAiKYQ0EWob"
+    },
+    {
+      "album": {
         "name": "Bow Down",
         "url": "https://open.spotify.com/album/2YddCSvbNRpQiQA3EujzpB"
       },
@@ -713,7 +767,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 150857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/3V6smv7JlVHAPnp8xegMAd"
@@ -942,6 +996,28 @@
     },
     {
       "album": {
+        "name": "Deal Or No Deal (feat. Mabel)",
+        "url": "https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Deal Or No Deal (feat. Mabel)",
+      "url": "https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I"
+    },
+    {
+      "album": {
         "name": "Denial",
         "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
       },
@@ -953,7 +1029,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 180000,
       "name": "Denial",
       "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
@@ -1037,7 +1113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 197738,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/5VzpAMUOFLlDnhBnx28y9X"
@@ -1077,6 +1153,24 @@
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
+    },
+    {
+      "album": {
+        "name": "DL4V",
+        "url": "https://open.spotify.com/album/5zUdVfoMZZy3h5tIxLWYEv"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "DL4V",
+      "url": "https://open.spotify.com/track/5FW38WD2dg30PgXsOv2ICm"
     },
     {
       "album": {
@@ -1746,6 +1840,28 @@
     },
     {
       "album": {
+        "name": "In Disguise (feat. Bakar)",
+        "url": "https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158219,
+      "name": "In Disguise (feat. Bakar)",
+      "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
@@ -2081,7 +2197,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
@@ -2444,6 +2560,24 @@
     },
     {
       "album": {
+        "name": "My 24th Birthday",
+        "url": "https://open.spotify.com/album/5Q8Ac801if6yJwkbrFmV5D"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383032,
+      "name": "My 24th Birthday",
+      "url": "https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U"
+    },
+    {
+      "album": {
         "name": "Connecting the Dots",
         "url": "https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX"
       },
@@ -2649,7 +2783,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 189541,
       "name": "Off The Rip",
       "url": "https://open.spotify.com/track/3wuCtrTYC963qrU30bIKse"
@@ -3050,6 +3184,24 @@
     },
     {
       "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
+      "album": {
         "name": "Reasonable",
         "url": "https://open.spotify.com/album/2xfgn7HrLEx3XSlWKS3vjO"
       },
@@ -3267,7 +3419,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 152612,
       "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
       "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"

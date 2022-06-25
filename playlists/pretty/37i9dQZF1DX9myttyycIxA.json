@@ -1,13 +1,45 @@
 {
   "description": "Underground indie rock gems. Cover: boyish",
-  "num_followers": 257424,
+  "num_followers": 257557,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ1MzQ2MCwwMDAwMDExNjAwMDAwMTgxNzBiNzI2OTUwMDAwMDE4MTAyMGZmMzIz",
+  "snapshot_id": "MTY1NjA1Mjk4MCwwMDAwMDExNzAwMDAwMTgxOTQ3MzE5N2YwMDAwMDE4MTAyMGZmMzIz",
   "tracks": [
+    {
+      "added_at": "2022-06-24 06:43:00",
+      "album": {
+        "name": "untangle me",
+        "url": "https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "duration_ms": 105702,
+      "name": "untangle me",
+      "url": "https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh"
+    },
+    {
+      "added_at": "2022-06-24 06:43:00",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
     {
       "added_at": "2022-05-27 06:40:00",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2022-06-17 08:11:00",
@@ -89,20 +137,36 @@
       "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
     },
     {
-      "added_at": "2022-05-27 06:40:00",
+      "added_at": "2022-06-24 06:43:00",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d"
+        "name": "Trading Doses",
+        "url": "https://open.spotify.com/album/3LDWBlzWbvuVlgYnHkFPmq"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Anthony Green",
+          "url": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I"
         }
       ],
-      "duration_ms": 185109,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
+      "duration_ms": 171861,
+      "name": "Trading Doses",
+      "url": "https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg"
+    },
+    {
+      "added_at": "2022-05-27 06:40:00",
+      "album": {
+        "name": "Freight Yard",
+        "url": "https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP"
+      },
+      "artists": [
+        {
+          "name": "The Garden",
+          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Freight Yard",
+      "url": "https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO"
     },
     {
       "added_at": "2022-06-17 08:11:00",
@@ -125,6 +189,22 @@
       "url": "https://open.spotify.com/track/55M24NpVbhdI5k3VW86RKc"
     },
     {
+      "added_at": "2022-06-10 04:16:00",
+      "album": {
+        "name": "Ur Name on a Grain of Rice (demo)",
+        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 270978,
+      "name": "Ur Name on a Grain of Rice - demo",
+      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
+    },
+    {
       "added_at": "2022-05-27 06:40:00",
       "album": {
         "name": "Blue Skies",
@@ -139,38 +219,6 @@
       "duration_ms": 183644,
       "name": "Clear",
       "url": "https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2022-06-17 08:11:00",
-      "album": {
-        "name": "Eat Men Eat",
-        "url": "https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4"
-      },
-      "artists": [
-        {
-          "name": "black midi",
-          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "Eat Men Eat",
-      "url": "https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq"
     },
     {
       "added_at": "2022-05-20 05:46:00",
@@ -205,6 +253,22 @@
       "url": "https://open.spotify.com/track/3A2HGVAzXJ2CTx84ZzKvn6"
     },
     {
+      "added_at": "2022-06-24 06:43:00",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR"
+    },
+    {
       "added_at": "2022-06-10 04:16:00",
       "album": {
         "name": "Typical Music",
@@ -235,6 +299,22 @@
       "duration_ms": 216500,
       "name": "You Have Got to Be Kidding Me",
       "url": "https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Superstar Baby",
+        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
+      },
+      "artists": [
+        {
+          "name": "sundiver ca",
+          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
+        }
+      ],
+      "duration_ms": 162434,
+      "name": "Soundtrack for Your Backseat",
+      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
     },
     {
       "added_at": "2022-06-10 04:16:00",
@@ -285,22 +365,6 @@
       "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
     },
     {
-      "added_at": "2022-06-10 04:16:00",
-      "album": {
-        "name": "Ur Name on a Grain of Rice (demo)",
-        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 270978,
-      "name": "Ur Name on a Grain of Rice - demo",
-      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
-    },
-    {
       "added_at": "2022-06-17 08:11:00",
       "album": {
         "name": "2002",
@@ -317,20 +381,20 @@
       "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
     },
     {
-      "added_at": "2022-05-27 06:40:00",
+      "added_at": "2022-06-24 06:43:00",
       "album": {
-        "name": "Freight Yard",
-        "url": "https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP"
+        "name": "Give It Away",
+        "url": "https://open.spotify.com/album/2GoYefIW9m1a2yFRmaBYdv"
       },
       "artists": [
         {
-          "name": "The Garden",
-          "url": "https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz"
+          "name": "Blue Dahlia",
+          "url": "https://open.spotify.com/artist/2Ls6NaK9OMltk9EYI3UPcw"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Freight Yard",
-      "url": "https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO"
+      "duration_ms": 300625,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2"
     },
     {
       "added_at": "2022-06-02 14:16:47",
@@ -347,22 +411,6 @@
       "duration_ms": 254886,
       "name": "Low Era",
       "url": "https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Superstar Baby",
-        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
-      },
-      "artists": [
-        {
-          "name": "sundiver ca",
-          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
-        }
-      ],
-      "duration_ms": 162434,
-      "name": "Soundtrack for Your Backseat",
-      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
     },
     {
       "added_at": "2022-05-20 05:46:00",
@@ -687,22 +735,6 @@
       "duration_ms": 187115,
       "name": "invisible string",
       "url": "https://open.spotify.com/track/1BuayMZGxH5A0NasB4bESi"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Doja Cat",
-        "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 160397,
-      "name": "Doja Cat",
-      "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
     },
     {
       "added_at": "2022-05-20 05:46:00",
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/2Sq7Bt3s2vPY9HgWYlTbEX"
-      },
-      "artists": [
-        {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
-        }
-      ],
-      "duration_ms": 227492,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/2W0Jv4zgTdHVrT4VtnoycW"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
         "name": "Poolside",
         "url": "https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 162005,
       "name": "I Should",
       "url": "https://open.spotify.com/track/7930Kiq8h1MRuzYJ7yu4Mo"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Dream, Ivory",
-        "url": "https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY"
-      },
-      "artists": [
-        {
-          "name": "Dream, Ivory",
-          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
-        }
-      ],
-      "duration_ms": 150022,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4DsIr33zhVrXj06YYFM3JZ"
     }
   ],
   "unique_name": "undercurrents",

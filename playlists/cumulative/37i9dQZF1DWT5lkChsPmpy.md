@@ -4,10 +4,11 @@
 
 > Lounge and chill out music for your workday.
 
-280 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+284 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 | 2022-06-24 |  |
 | [a dream within a dream](https://open.spotify.com/track/1rKHH7gbLbz8scfvt6JMAP) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [a dream within a dream](https://open.spotify.com/album/3V9fsUWgxv4byvZJocF9kH) | 2:33 | 2022-01-21 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2021-11-10 | 2022-01-22 |
 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-11-10 | 2022-06-10 |
@@ -22,6 +23,7 @@
 | [answers](https://open.spotify.com/track/3lNL8vedNh9gm8MVyqCRxt) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [the calling](https://open.spotify.com/album/481Cyy68YdctjM2RPoujpA) | 2:03 | 2021-11-10 |  |
 | [Antigua](https://open.spotify.com/track/1JNq5aFGwPOuO2PNru97j9) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Antigua](https://open.spotify.com/album/4Dq22fGSVyIqW4BSQiAKqz) | 2:41 | 2021-11-10 |  |
 | [Anywhere With You](https://open.spotify.com/track/73SKouRCNSHqPTLTBOJKOq) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Anywhere With You](https://open.spotify.com/album/3hNlPn59m504e5pHgRRrlN) | 2:21 | 2021-11-10 |  |
+| [Apple trees are always in bloom](https://open.spotify.com/track/2LC4ycXEoKxWVOgiNUkU9P) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Apple trees are always in bloom](https://open.spotify.com/album/1llIxpvPVsCKyejHPXjLR2) | 2:01 | 2022-06-24 |  |
 | [Avalanche](https://open.spotify.com/track/0VMEBEpEWY56jW7ud5aT94) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe) | [Avalanche](https://open.spotify.com/album/1Y2H8LXdK9uu2rfk1em2Lg) | 1:44 | 2022-04-15 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 |  |
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-10 |  |
@@ -111,6 +113,7 @@
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2021-11-10 | 2022-05-11 |
 | [Gold and Light](https://open.spotify.com/track/4vJDrxpfX5TD1G4jES9xRT) | [J Gov](https://open.spotify.com/artist/5PhC3eQ7MXDtQK6PhcuoTx) | [Gold and Light](https://open.spotify.com/album/1gURTKUnT8apUKPZ1Yjast) | 4:08 | 2022-05-27 |  |
 | [Golden Route](https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Golden Route](https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a) | 1:58 | 2022-05-10 |  |
+| [Gravitas](https://open.spotify.com/track/2hQC4gj82U2rTYwJQJfzOr) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [Gravitas](https://open.spotify.com/album/130JuZMPUz0p17S7MfxeSC) | 3:17 | 2022-06-24 |  |
 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 | 2021-11-10 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-11-10 |  |
 | [Harbour Lights](https://open.spotify.com/track/63p27rwgiswytuzemnUdwJ) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS), [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Harbour Lights](https://open.spotify.com/album/5oQwdAqQV8a4kXS1nVOxsW) | 2:59 | 2022-05-20 |  |
@@ -163,6 +166,7 @@
 | [Mellow Apricot](https://open.spotify.com/track/3oaQCIkZDZ63S1XDRMS1M4) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Mellow Apricot](https://open.spotify.com/album/0wJERxcVbXD01mgOQgswuy) | 2:07 | 2022-01-21 |  |
 | [Mellow Workday](https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt) | [Arctic T](https://open.spotify.com/artist/2Rw27XZ3vKwMqr11yhHwDw) | [Mellow Workday](https://open.spotify.com/album/4NyDnXoaMFuenXHEOWZ5LE) | 2:07 | 2021-11-10 |  |
 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 2:33 | 2021-11-10 |  |
+| [Mercurial](https://open.spotify.com/track/1XsNK59EhoEqsM9UFX8p1K) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Mercurial](https://open.spotify.com/album/0oUcdGpuH2QXsVrxrrMcGW) | 2:34 | 2022-06-24 |  |
 | [Midmood](https://open.spotify.com/track/2VcVGxzQZYcmMd62BAz8oQ) | [Mass Collective](https://open.spotify.com/artist/4DuVANXxz6d5FdRUu2c7Mc) | [Upright Town](https://open.spotify.com/album/63JWLvAzoTUK0CJFXuoeyc) | 1:48 | 2021-11-10 | 2022-05-20 |
 | [Midnight Sessions](https://open.spotify.com/track/7u0N11DPQKRk2qN0zcZzAC) | [Yungie x 2](https://open.spotify.com/artist/41zvwhWE9oBEaaaAKFqpn9) | [Midnight Sessions](https://open.spotify.com/album/2BxmMhK7o7OvFWT280Nutt) | 2:17 | 2022-01-21 |  |
 | [midnight slushee](https://open.spotify.com/track/6aPaDaf5QBxN3wBg4abYNx) | [sergeant rivers](https://open.spotify.com/artist/61MbaqO16BaExSacDkAbQA) | [stormy summer stories](https://open.spotify.com/album/2u7sprLEATxfN8TQpZrsh6) | 1:57 | 2021-11-10 |  |

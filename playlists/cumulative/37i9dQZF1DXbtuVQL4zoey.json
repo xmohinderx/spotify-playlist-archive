@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Acrylic",
+        "url": "https://open.spotify.com/album/1v8SwfuVFz6qiNfceWzoaD"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145619,
+      "name": "Acrylic",
+      "url": "https://open.spotify.com/track/5slcOZGvvt488R61ph95IP"
+    },
+    {
+      "album": {
         "name": "Agua de Coco",
         "url": "https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla"
       },
@@ -237,6 +255,24 @@
       "duration_ms": 122949,
       "name": "bad habit",
       "url": "https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy"
+    },
+    {
+      "album": {
+        "name": "Barbizon",
+        "url": "https://open.spotify.com/album/1ASrsg7s6KOE7l2KQFuhcD"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Barbizon",
+      "url": "https://open.spotify.com/track/4O4Ti02mZ5mAb9nZhWup8B"
     },
     {
       "album": {
@@ -886,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Colinas Desde El Alba",
+        "url": "https://open.spotify.com/album/6AFCsm5CtiUULUoQkpV8hW"
+      },
+      "artists": [
+        {
+          "name": "Cielomoto",
+          "url": "https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Colinas Desde El Alba",
+      "url": "https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du"
+    },
+    {
+      "album": {
         "name": "Escapades, Vol. 1",
         "url": "https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj"
       },
@@ -1009,6 +1063,28 @@
       "duration_ms": 184007,
       "name": "Cruising Avenues",
       "url": "https://open.spotify.com/track/3pb6lOqe10g5OXtTyZA3Vb"
+    },
+    {
+      "album": {
+        "name": "Daiquiri",
+        "url": "https://open.spotify.com/album/2NLbM9792a08XFlMGTCoa4"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        },
+        {
+          "name": "Cold Busted",
+          "url": "https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146030,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/4frKqpptdMc64k9rvkLYFD"
     },
     {
       "album": {
@@ -1215,6 +1291,28 @@
       "duration_ms": 138000,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB"
+    },
+    {
+      "album": {
+        "name": "Early Rio",
+        "url": "https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": "Viktor Minsky",
+          "url": "https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160843,
+      "name": "Early Rio",
+      "url": "https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d"
     },
     {
       "album": {
@@ -1609,7 +1707,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 160982,
       "name": "Good Dog",
       "url": "https://open.spotify.com/track/6EQhgTDwXZ4OudcdZzutM2"
@@ -2084,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "JazzJoint",
+        "url": "https://open.spotify.com/album/1HrIClYxvKNhJJ6LaRNin6"
+      },
+      "artists": [
+        {
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117400,
+      "name": "JazzJoint",
+      "url": "https://open.spotify.com/track/1BcKCvfTMW3gVOw0TAkAqI"
+    },
+    {
+      "album": {
         "name": "straight no chaser",
         "url": "https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX"
       },
@@ -2376,6 +2492,24 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/1r4TDoXNFW4Kus4PUNqXr3"
+      },
+      "artists": [
+        {
+          "name": "Wolly",
+          "url": "https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91058,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/09SnJEZccx2iIMfp28khni"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/1Omky8JC4CVX4ibENhNJDK"
       },
@@ -2395,6 +2529,24 @@
       "duration_ms": 124238,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/5orLqIYGR3zFg1Y044RFIC"
+    },
+    {
+      "album": {
+        "name": "Lost in Rio",
+        "url": "https://open.spotify.com/album/0cqzGd9WAqOckWYrGjlFBD"
+      },
+      "artists": [
+        {
+          "name": "middt",
+          "url": "https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113772,
+      "name": "Lost in Rio",
+      "url": "https://open.spotify.com/track/0Zxq7f36EGiRX56FRj64wA"
     },
     {
       "album": {
@@ -3436,6 +3588,46 @@
     },
     {
       "album": {
+        "name": "Reeds",
+        "url": "https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1"
+      },
+      "artists": [
+        {
+          "name": "d'Addario",
+          "url": "https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108828,
+      "name": "Reeds",
+      "url": "https://open.spotify.com/track/569xsJRzYIWE6u8X9gAQRp"
+    },
+    {
+      "album": {
+        "name": "restart",
+        "url": "https://open.spotify.com/album/0cKiK46dFhwPmOf2btXc5D"
+      },
+      "artists": [
+        {
+          "name": "SLACER",
+          "url": "https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW"
+        },
+        {
+          "name": "!nvite",
+          "url": "https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102844,
+      "name": "restart",
+      "url": "https://open.spotify.com/track/6QIipk6lLbSDVfkSCr2Gfp"
+    },
+    {
+      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1"
       },
@@ -3631,6 +3823,24 @@
       "duration_ms": 112963,
       "name": "Secret Village",
       "url": "https://open.spotify.com/track/6boOSC8VmhBre8fg6sCnau"
+    },
+    {
+      "album": {
+        "name": "Sem Calor",
+        "url": "https://open.spotify.com/album/0SZFWK3pJUdi9OC7F4zhhS"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Sem Calor",
+      "url": "https://open.spotify.com/track/4cLt1671HlBWnIb6ToetRF"
     },
     {
       "album": {
@@ -4118,6 +4328,24 @@
     },
     {
       "album": {
+        "name": "Summer Melange",
+        "url": "https://open.spotify.com/album/2ZfH8C7LUdMfxYZgywfF9S"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140364,
+      "name": "Summer Melange",
+      "url": "https://open.spotify.com/track/1PUFsHsuNM7R2DisPccFT7"
+    },
+    {
+      "album": {
         "name": "summer nights",
         "url": "https://open.spotify.com/album/0Uv8XIlEnaxMd5N1E0f7jH"
       },
@@ -4209,6 +4437,24 @@
       "duration_ms": 175215,
       "name": "Sundown Avenue",
       "url": "https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y"
+    },
+    {
+      "album": {
+        "name": "Sunflower Plaza",
+        "url": "https://open.spotify.com/album/3s40pZdRf3QWAXgBYR90Ke"
+      },
+      "artists": [
+        {
+          "name": "Lofi City Colours",
+          "url": "https://open.spotify.com/artist/6LVXwiOOvFdK6cr6I1IEEV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171529,
+      "name": "Sunflower Plaza",
+      "url": "https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW"
     },
     {
       "album": {
@@ -5027,7 +5273,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 130182,
       "name": "Whiskey Jazz",
       "url": "https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Protector 101, Le Cassette, A.L.I.S.O.N and more",
+  "description": "With Rosentwig, Memorex Memories, J+1 and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 205414,
       "name": "96 Cruisin",
       "url": "https://open.spotify.com/track/7yMfcUe5YzR8Ep2fvnpW3V"
@@ -707,10 +707,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 126375,
       "name": "Alleyways",
       "url": "https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX"
+    },
+    {
+      "album": {
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/6SF4DVwyKmgBlAK0HKhRj4"
+      },
+      "artists": [
+        {
+          "name": "J+1",
+          "url": "https://open.spotify.com/artist/66q9TLB3xM6Yn0kIFiftpd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126375,
+      "name": "Alleyways - Instrumental",
+      "url": "https://open.spotify.com/track/5zcn1Ud4lxR5CqdsvT8Cui"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 209032,
       "name": "always in my dreams",
       "url": "https://open.spotify.com/track/2HajW1soufpCGOcKAhr7zK"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 213612,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/7DX9gryBT8SwjfsHQwq8Ph"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 221223,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/1kVYYCg6fa4G9Gg0hqjOm9"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 304000,
       "name": "Breeze Bay",
       "url": "https://open.spotify.com/track/0zsYwY8ThFADNr77hPKh6g"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 198060,
       "name": "Buzz Lightyear - WRLD Remix",
       "url": "https://open.spotify.com/track/7cRWofb8ObVKlDDYaQy6lR"
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201600,
       "name": "Cerise de L'espace",
       "url": "https://open.spotify.com/track/2hGFuJ69IKoJjaHSIt1k6u"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 173901,
       "name": "City Life",
       "url": "https://open.spotify.com/track/7fwFqwOoj94VqixbEX2IGk"
@@ -2801,7 +2819,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 142000,
       "name": "Coast",
       "url": "https://open.spotify.com/track/4Wzd5oqsk4qh3xbotnK9Rx"
@@ -3871,7 +3889,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 242418,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2HAjEqXROW6F6US3sOCkQm"
@@ -4745,7 +4763,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC"
@@ -5451,6 +5469,32 @@
       "duration_ms": 277783,
       "name": "Flashbacks",
       "url": "https://open.spotify.com/track/4TR2q3InvCXMQyIsXGlrVZ"
+    },
+    {
+      "album": {
+        "name": "Flashing Sirens",
+        "url": "https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Tima",
+          "url": "https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4"
+        },
+        {
+          "name": "YOUTH 83",
+          "url": "https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Flashing Sirens",
+      "url": "https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ"
     },
     {
       "album": {
@@ -6424,6 +6468,24 @@
     },
     {
       "album": {
+        "name": "Falling into Place",
+        "url": "https://open.spotify.com/album/37SWbswE3jEairzfGWBHgH"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213132,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/3tjwjBfPO1pyjhnrI0J5Nq"
+    },
+    {
+      "album": {
         "name": "Hearts on Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28aD3pYs5bPZY4fdp89LF5"
       },
@@ -6681,7 +6743,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 254504,
       "name": "Home",
       "url": "https://open.spotify.com/track/4UGGGk1YpKeknVkAB7wc1d"
@@ -7217,7 +7279,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 140347,
       "name": "In the 42nd Street",
       "url": "https://open.spotify.com/track/06ANCcAnZnK0x1KGmodioE"
@@ -8413,7 +8475,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 256800,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI"
@@ -9105,6 +9167,24 @@
       "duration_ms": 379100,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4c37fNeMZH98oIqGYVGF0o"
+    },
+    {
+      "album": {
+        "name": "Cloud Highway",
+        "url": "https://open.spotify.com/album/5nioAvjQJjkWVONgdrU7cY"
+      },
+      "artists": [
+        {
+          "name": "Tonebox",
+          "url": "https://open.spotify.com/artist/3r5rHoyzqZHGJkU8fGZtNO"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Memory Uploaded",
+      "url": "https://open.spotify.com/track/389yYR7nF5F5yc79oQyYdD"
     },
     {
       "album": {
@@ -10061,7 +10141,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211435,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/5uqnPy6biJaQFZwdwYfvhH"
@@ -10539,7 +10619,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 181141,
       "name": "Now We'll Never Know",
       "url": "https://open.spotify.com/track/639OQHOaNPrJx6mJPawx8g"
@@ -11047,7 +11127,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 167203,
       "name": "Outlaw Star",
       "url": "https://open.spotify.com/track/4BVfCHuKVvcJqeZ71QrGft"
@@ -11989,7 +12069,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/4upoJ0awTJYCAIQbYlpMDl"
@@ -12051,7 +12131,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 235431,
       "name": "Retrovailles",
       "url": "https://open.spotify.com/track/6RbtxD93ImCSNeTGu6Ezjs"
@@ -12091,7 +12171,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 251076,
       "name": "Revel in Your Time - Miami Nights 1984 Remix",
       "url": "https://open.spotify.com/track/1NEWwMsKyxs10blVIk0Bju"
@@ -12185,6 +12265,24 @@
       "duration_ms": 235636,
       "name": "Risky Fulfillment",
       "url": "https://open.spotify.com/track/5oWEKSNLdVbp36tsxn6Ag5"
+    },
+    {
+      "album": {
+        "name": "Rivage",
+        "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244744,
+      "name": "Rivage",
+      "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
     },
     {
       "album": {
@@ -12563,7 +12661,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 333095,
       "name": "Sara",
       "url": "https://open.spotify.com/track/1nLXkcXVxhvsvk1wwO5YM3"
@@ -13930,6 +14028,24 @@
     },
     {
       "album": {
+        "name": "Harmful Species",
+        "url": "https://open.spotify.com/album/5aoaderRxyrO9LcoaN78gO"
+      },
+      "artists": [
+        {
+          "name": "Arcis",
+          "url": "https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199328,
+      "name": "Stella Polaris",
+      "url": "https://open.spotify.com/track/0a8dhUR2sFfIRgODmnjCJM"
+    },
+    {
+      "album": {
         "name": "Vanishings (Special Edition)",
         "url": "https://open.spotify.com/album/2uRAy7e1e4Cd8RJvv4fWZV"
       },
@@ -14799,7 +14915,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 248038,
       "name": "Thanks for Listening",
       "url": "https://open.spotify.com/track/67LEGM5ZaQUluwOevNKt84"
@@ -15463,7 +15579,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 256633,
       "name": "The Way I Could - Emil Rottmayer Remix",
       "url": "https://open.spotify.com/track/5Yky4q9TBmescPWPZaaF5u"

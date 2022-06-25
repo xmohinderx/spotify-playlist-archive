@@ -1,13 +1,33 @@
 {
-  "description": "The best of today's funk. Cover: Cory Henry",
-  "num_followers": 255298,
+  "description": "The best of today's funk. Cover: Dabeull",
+  "num_followers": 255432,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzOTQzNSwwMDAwMDA4NTAwMDAwMTgxNmZlMTI1MjkwMDAwMDE4MTYzNDRiZjg0",
+  "snapshot_id": "MTY1NjA0MzMyMCwwMDAwMDA4NjAwMDAwMTgxOTNkZmIzMjIwMDAwMDE4MThiZjBmMTll",
   "tracks": [
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Holybrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {

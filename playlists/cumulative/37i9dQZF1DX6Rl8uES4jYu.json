@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 200515,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3w4yYltBa2EX03Z8BhUcf7"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 180053,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 200058,
       "name": "Fine!",
       "url": "https://open.spotify.com/track/6DU4dKmXuvzgjgaX7R5bJB"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
@@ -2792,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194498,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
+    },
+    {
+      "album": {
         "name": "If I Should Die",
         "url": "https://open.spotify.com/album/2sPw0ZfarcTCQkH5jHCL72"
       },
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 185733,
       "name": "Macaroni Salad",
       "url": "https://open.spotify.com/track/5p8RR3x2fsDLxBhPAvi5Qh"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 255210,
       "name": "Make Me Feel Good (Alright with Me)",
       "url": "https://open.spotify.com/track/2aCxVSv3Hm0ppVxRn3TV26"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183096,
       "name": "More",
       "url": "https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 259174,
       "name": "Movin' Nowhere",
       "url": "https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73"
@@ -3003,7 +3021,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 177142,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 216224,
       "name": "Next Spot",
       "url": "https://open.spotify.com/track/2oGcLgE0gF1UTepHw9K69G"
@@ -3269,7 +3287,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 163263,
       "name": "Orange Tracksuit",
       "url": "https://open.spotify.com/track/7iy5y0YQX7MoFmP8G9Dyvg"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 335533,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/1neZaShtAp5G9SzhzreehI"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 179512,
       "name": "Pink Bandana",
       "url": "https://open.spotify.com/track/3yF7w6CMw65t3T9FRFULMY"
@@ -3571,7 +3589,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 208434,
       "name": "Preach",
       "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 195391,
       "name": "Puff Break (Believe That)",
       "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
@@ -4033,7 +4051,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 202666,
       "name": "Some Kind of Happy",
       "url": "https://open.spotify.com/track/4MUUeP1sB9aPT4IG45lLIg"
@@ -4335,7 +4353,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 201201,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
@@ -4469,7 +4487,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
@@ -5039,7 +5057,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/5rj2n6kHWczpjWce4Jsgvt"
@@ -5057,7 +5075,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 186080,
       "name": "Weekend Lover",
       "url": "https://open.spotify.com/track/6rNV70K6yK3qd19aNYtf8E"

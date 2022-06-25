@@ -1340,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "Tales Of Nature",
+        "url": "https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu"
+      },
+      "artists": [
+        {
+          "name": "George Memfri",
+          "url": "https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "Royal Whispers",
+      "url": "https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4"
+    },
+    {
+      "album": {
         "name": "Silent Mind",
         "url": "https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp"
       },
