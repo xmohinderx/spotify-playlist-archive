@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 154533,
       "name": "Como Chapulin",
       "url": "https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 153093,
       "name": "El Avestruz",
       "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
@@ -545,6 +545,24 @@
       "duration_ms": 154213,
       "name": "La Estrella de los Bailes - Live Version",
       "url": "https://open.spotify.com/track/4cr6dHRu6p7sAVCUDrEjTn"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "La Mano de Dios",
+      "url": "https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA"
     },
     {
       "album": {
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 150573,
       "name": "Porque Es Amor",
       "url": "https://open.spotify.com/track/1HpuLuxNb7xn0yAL9yRDL4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,079 likes - 129 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,100 likes - 129 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 104 | [Impasse des Bourdonnais](https://open.spotify.com/track/53JV92TTWHIllhui4TkoU2) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Impasse des Bourdonnais](https://open.spotify.com/album/2Kiy7znRPwbZjK1fQvOe0F) | 1:07 |
 | 105 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 |
 | 106 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 |
-| 107 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Andrew Panes](https://open.spotify.com/artist/6GNBpeYmCO3UmEAktjn9JC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 |
+| 107 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 |
 | 108 | [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 |
 | 109 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 |
 | 110 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 |

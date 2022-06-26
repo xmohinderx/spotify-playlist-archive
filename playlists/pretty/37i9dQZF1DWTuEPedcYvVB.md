@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,173 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,289 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 18 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
 | 19 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 2:13 |
 | 20 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
-| 21 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Bestsoundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 |
+| 21 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 |
 | 22 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 |
 | 23 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
 | 24 | [With Ease](https://open.spotify.com/track/4MdeF9881Pvt8nY8ZkgLs9) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Panic No Pain](https://open.spotify.com/album/7K0LNLvjx54vssCWX26PzR) | 3:29 |

@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring take van
+> ur on the list bb 🪐 featuring COBRAH
 
-278 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+282 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,11 @@
 | [beau.tiful\*\*](https://open.spotify.com/track/2oIkVbw4yq6NzknYeIRgMq) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [beau.tiful\*\*](https://open.spotify.com/album/2RoWze0TVIWv0R56AqHNC4) | 2:04 | 2022-06-10 |  |
 | [Beep Beep](https://open.spotify.com/track/35f2S6XoDYJI0iy3gVOOXV) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Beep Beep](https://open.spotify.com/album/1xc34LXKLHuh33GePtSv5o) | 2:37 | 2022-05-27 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 |  |
+| [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 | 2022-06-24 |  |
 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2021-10-29 | 2022-04-16 |
 | [Bluff](https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Bluff](https://open.spotify.com/album/0n7tJPogMxhFS8YNTFlF5l) | 3:07 | 2022-04-01 |  |
 | [Bottle of Bombay](https://open.spotify.com/track/7fxhjn01owKU2TZ2OJ7iG7) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Bottle of Bombay](https://open.spotify.com/album/6ulvGwN90v3vb6GS1EoNLz) | 2:16 | 2022-04-29 |  |
+| [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-06-24 |  |
 | [Break It Off](https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Break It Off](https://open.spotify.com/album/5q84FQfWp3Q7XnoMlzLRD3) | 1:35 | 2021-07-23 |  |
 | [Brick!](https://open.spotify.com/track/1DFkPT7Gb7qngvv1V8EmOv) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [Brick!](https://open.spotify.com/album/3zMZWhIhYCyyIetvrYAXJV) | 5:51 | 2022-06-17 |  |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-01-28 |  |
@@ -62,7 +64,7 @@
 | [complicated](https://open.spotify.com/track/2rJ2A9yjpqNQowZFvkJl8h) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [complicated](https://open.spotify.com/album/3cs1EKFpp7lQ73A6JfERLR) | 1:58 | 2022-01-07 | 2022-01-29 |
 | [conscience!!](https://open.spotify.com/track/18d7ElSn83SUH9X8MG5S0T) | [1kaze1](https://open.spotify.com/artist/5gJHOJtsAqjnKeLLiIW0IK) | [dig1w0rld](https://open.spotify.com/album/4qh7uYeqq5TKsrm3Z1QMbc) | 2:47 | 2022-04-08 | 2022-05-14 |
 | [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 | 2022-03-18 |  |
-| [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 |  |
+| [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 | 2022-06-26 |
 | [creation](https://open.spotify.com/track/0h64WdJ2JNMLgSh2M9ymEF) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [creation](https://open.spotify.com/album/2swnQoFyWwoqcUT9kVez5P) | 2:03 | 2021-11-12 | 2022-03-05 |
 | [crush](https://open.spotify.com/track/6kLhilDX44nCibecCJldjP) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [crush](https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4) | 2:28 | 2022-04-01 | 2022-06-04 |
 | [Cute Junglists Unite](https://open.spotify.com/track/6bAN460Tds1Oz4iFgNqpsc) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Cute Junglists Unite](https://open.spotify.com/album/038mvtK09nmcW654pSmUAh) | 3:58 | 2021-12-31 | 2022-06-18 |
@@ -102,6 +104,7 @@
 | [First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L) | [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [First Blue Sky](https://open.spotify.com/album/6bSCOFhuRmg0idv0QM5J1k) | 5:09 | 2021-10-05 | 2022-05-14 |
 | [fishlizard](https://open.spotify.com/track/4q0N84Svkt0GVjyDjf9XSh) | [Aiden Marceron](https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf) | [444aCordial\_\_mixtap3](https://open.spotify.com/album/1c71wBxbCW6BAdEJbRswb0) | 6:58 | 2021-11-10 | 2022-01-22 |
 | [Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [A Thousand Things I Could Tell You](https://open.spotify.com/album/3IreEWEWvL99tFkoCUT2zy) | 3:07 | 2022-01-29 |  |
+| [Floating Urn Two](https://open.spotify.com/track/3a3CpLMmRMIrztSzBuHbAO) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Floating Urn Two](https://open.spotify.com/album/7zLCRy9Wj3QtlY2BEqLMKs) | 8:15 | 2022-06-24 |  |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-02-04 | 2022-03-12 |
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2021-10-15 | 2022-03-05 |
 | [FOREVER 3021](https://open.spotify.com/track/79u9S15lDFJ5u578gbZ7no) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [FOREVER 3021](https://open.spotify.com/album/6IHjJzXtmalivjFMrgGuii) | 7:07 | 2022-01-14 | 2022-01-29 |
@@ -111,7 +114,7 @@
 | [FRESH](https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FRESH](https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz) | 2:31 | 2022-04-29 |  |
 | [Full Moon](https://open.spotify.com/track/7LNFCMklEjNQpaIucGl4Dy) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Full Moon / Haunta](https://open.spotify.com/album/0mBIjQQkHDWiX3CYonHWWB) | 6:03 | 2021-10-08 | 2022-03-12 |
 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 | 2022-06-17 |  |
-| [Future Retro](https://open.spotify.com/track/3mFuparWB4dLExR7kqWIVk) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Static](https://open.spotify.com/album/7MfssjcrTOYUYre8GcxDAj) | 4:44 | 2022-02-04 |  |
+| [Future Retro](https://open.spotify.com/track/3mFuparWB4dLExR7kqWIVk) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Static](https://open.spotify.com/album/7MfssjcrTOYUYre8GcxDAj) | 4:44 | 2022-02-04 | 2022-06-26 |
 | [Für Immer](https://open.spotify.com/track/5cvDc9SpzpQ9mYqJrMoeQW) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Immer](https://open.spotify.com/album/5xRDBOQLb6U0AlUxNCfauL) | 4:24 | 2022-02-18 | 2022-04-16 |
 | [get to u](https://open.spotify.com/track/685i0Q50zyccJaxVM5Qu3Y) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [get to u](https://open.spotify.com/album/21srAIuImPifkMVdYMLoNn) | 3:14 | 2022-04-15 | 2022-06-18 |
 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 | 2021-10-07 | 2022-06-04 |
@@ -120,7 +123,7 @@
 | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/album/1QYo6YHo7NPrVcHRiVybmo) | 1:46 | 2022-04-08 | 2022-06-18 |
 | [Girls just want to have fun](https://open.spotify.com/track/16aNHWdWoO9zobj4lqAoWV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Girls just want to have fun](https://open.spotify.com/album/7jhAHwxV5NennB3lL6fva4) | 2:14 | 2022-03-23 | 2022-04-09 |
 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 | 2022-03-04 |  |
-| [guessabelle](https://open.spotify.com/track/5vf5A8GZM1m2obl3vHmZFQ) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [guessabelle](https://open.spotify.com/album/725oq2BOUlctmIJxwzlmWd) | 8:58 | 2022-03-11 |  |
+| [guessabelle](https://open.spotify.com/track/5vf5A8GZM1m2obl3vHmZFQ) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [guessabelle](https://open.spotify.com/album/725oq2BOUlctmIJxwzlmWd) | 8:58 | 2022-03-11 | 2022-06-26 |
 | [Guest House](https://open.spotify.com/track/6grlBYKqpLsnZcoy9oa6tw) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 2:08 | 2022-04-01 | 2022-04-09 |
 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 | 2022-06-18 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-19 | 2022-04-16 |
@@ -183,7 +186,7 @@
 | [miss me](https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [miss me](https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG) | 3:33 | 2022-05-13 |  |
 | [miss u](https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh), [Lolo the Great](https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT) | [miss u](https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC) | 4:06 | 2022-04-08 | 2022-06-04 |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2021-08-12 |  |
-| [MOONLIGHT](https://open.spotify.com/track/3D3xADuIZsg9LGXCku7zls) | [Muddyoush](https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G) | [MOONLIGHT](https://open.spotify.com/album/6E6pwAcrC9Le88FQYPMAme) | 3:07 | 2022-03-17 |  |
+| [MOONLIGHT](https://open.spotify.com/track/3D3xADuIZsg9LGXCku7zls) | [Muddyoush](https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G) | [MOONLIGHT](https://open.spotify.com/album/6E6pwAcrC9Le88FQYPMAme) | 3:07 | 2022-03-17 | 2022-06-26 |
 | [More Sensuous](https://open.spotify.com/track/5rF2osPlyeyIwUOmS5MbQ4) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Pulsers](https://open.spotify.com/album/6cTwWowzWlQAF8CrhOKp8D) | 5:26 | 2021-10-15 | 2022-01-22 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-02-27 |  |
 | [Mr\. Kill Myself](https://open.spotify.com/track/3KBsdO1rkM9O0QASfvoA38) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:51 | 2021-07-23 | 2022-02-19 |
@@ -260,6 +263,7 @@
 | [tokyothrift](https://open.spotify.com/track/6q4po5Wr42seuLqBliuZr1) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [tokyothrift](https://open.spotify.com/album/32iH6ohhmZEEx0EFLbdUxh) | 2:42 | 2022-05-06 | 2022-06-18 |
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-14 | 2022-03-05 |
 | [Took a Turn](https://open.spotify.com/track/5E6feSh5A5dgPimSNJXcST) | [Louke Man](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-1](https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ) | 2:56 | 2022-01-07 |  |
+| [Trailblaze ☆](https://open.spotify.com/track/2VZHXVkuxqiaTCNROyWa7L) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Trailblaze ☆](https://open.spotify.com/album/6BmJEh1NR4XZdnCxh6GY9D) | 3:12 | 2022-06-24 |  |
 | [tricky](https://open.spotify.com/track/5SrhL5j49Y3fsmYe3UKsTS) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [tricky](https://open.spotify.com/album/5DuX4ru9MEd7Hb7wcnktJY) | 2:06 | 2021-11-19 | 2022-06-04 |
 | [Turquoise Hyperfizz](https://open.spotify.com/track/6OKkWaaLFy3yupHMFbrmW9) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/1WZcWo7WBsUdQRCoFwNjXJ) | 5:16 | 2022-06-10 |  |
 | [Unlimited Ammo](https://open.spotify.com/track/1c02EHsOzwz17YLMHe9SeK) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 2:02 | 2021-11-04 | 2022-01-22 |

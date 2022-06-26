@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With s\u00f8d ven, Secret Nation, Young Mister and more",
+  "description": "With s\u00f8d ven, Secret Nation, Boundary Run and more",
   "name": "NIGHT TRAVELER Radio",
   "published_playlist_ids": [
     "7516uBfjNbecLTG6tnzPU5"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 197371,
       "name": "15",
       "url": "https://open.spotify.com/track/66FmBx9jNIjm4WhTOPJMwi"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 222822,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/0RgamNB8GMKLGn5t8shiwo"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 206669,
       "name": "Arc - Stripped",
       "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 250000,
       "name": "Blood",
       "url": "https://open.spotify.com/track/4aw5jkgN8BQxa2H38SlpMn"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 168533,
       "name": "Blow My Cover",
       "url": "https://open.spotify.com/track/4NIUFVZMIbJ7D7XffrH45W"
@@ -1976,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Young Mister",
+        "url": "https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4"
+      },
+      "artists": [
+        {
+          "name": "Young Mister",
+          "url": "https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245832,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/6GHzlKjZ3hDatLhyk8LPAQ"
+    },
+    {
+      "album": {
         "name": "The Native Sessions (Live from ATX)",
         "url": "https://open.spotify.com/album/69OcfnCBFhQlgHHgYrWFcZ"
       },
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 205453,
       "name": "Civilized",
       "url": "https://open.spotify.com/track/3bQvM3YOC0CLeqZuKwHTZP"
@@ -2215,6 +2233,24 @@
       "duration_ms": 364208,
       "name": "Climb on Your Tears (feat. Aoife O'Donovan)",
       "url": "https://open.spotify.com/track/6Bdv1ZiGK5FylcvlrXSw2v"
+    },
+    {
+      "album": {
+        "name": "Chapter Six",
+        "url": "https://open.spotify.com/album/3iGkb3UF4WpHQz1sK2EBTi"
+      },
+      "artists": [
+        {
+          "name": "CHPTRS",
+          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239364,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4U02OP2Wt9v3141euGM4DA"
     },
     {
       "album": {
@@ -3641,7 +3677,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 194785,
       "name": "feel it all",
       "url": "https://open.spotify.com/track/4QVjQ9TwcZlTZuE2DrKfGA"
@@ -3677,7 +3713,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 131866,
       "name": "feel the same",
       "url": "https://open.spotify.com/track/5imUsSGjd1ok68w4HXh1My"
@@ -4013,7 +4049,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 340217,
       "name": "From the Dust",
       "url": "https://open.spotify.com/track/5rLNbVQ3IYDZ8vmFNWAa4a"
@@ -4445,7 +4481,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 175218,
       "name": "Gone!",
       "url": "https://open.spotify.com/track/0ZdALxNt3mWQoRGTWC3Z3V"
@@ -4539,7 +4575,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 243859,
       "name": "halogen",
       "url": "https://open.spotify.com/track/5OBJOlY6iHnYZXGAKeeLiB"
@@ -4687,7 +4723,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 230506,
       "name": "Heart Away",
       "url": "https://open.spotify.com/track/51K5zFXStvYJ20UNE4nEFM"
@@ -5523,7 +5559,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 160240,
       "name": "I Sunk In All The Memories",
       "url": "https://open.spotify.com/track/74zij4fAt78COJneFlbeYH"
@@ -5595,7 +5631,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 230840,
       "name": "I Will Fight for You",
       "url": "https://open.spotify.com/track/2t6KMr9G0u4fy1FiDWn4lC"
@@ -5887,7 +5923,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 204291,
       "name": "Infinite Space",
       "url": "https://open.spotify.com/track/2JnjqjmpctEcU7QRviEUTh"
@@ -6211,7 +6247,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 209785,
       "name": "Keep Me Safe",
       "url": "https://open.spotify.com/track/2yvuTd7WPX6WOW39FKHyBf"
@@ -6745,7 +6781,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 205500,
       "name": "Lose Ourselves",
       "url": "https://open.spotify.com/track/2IFZTQe05IUYNoik6yLPwJ"
@@ -6781,7 +6817,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 237012,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/6h3JuVibuWissgTLeueGFz"
@@ -6853,7 +6889,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 267125,
       "name": "love is so hard!",
       "url": "https://open.spotify.com/track/0Yu6DQYBpvztT117wT37aR"
@@ -6871,7 +6907,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 193645,
       "name": "Love Like You Care",
       "url": "https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn"
@@ -7231,7 +7267,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 215413,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/2WMF5i6ClS9GEeM34MHEji"
@@ -7909,7 +7945,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 249466,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/4fGgmcD5Ke4I4ZfJ1hZeiW"
@@ -9019,7 +9055,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 212356,
       "name": "Pick Me Up Tonight",
       "url": "https://open.spotify.com/track/5grQprnAJ5CkNvvIsa85Ki"
@@ -9037,7 +9073,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 255906,
       "name": "Pink Honey",
       "url": "https://open.spotify.com/track/0LOdpHnIf76VZOWbvOK5rK"
@@ -9327,7 +9363,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 174938,
       "name": "Ready to Fall",
       "url": "https://open.spotify.com/track/03vwpxUNLc06uOaGgA7yc3"
@@ -9561,7 +9597,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 196760,
       "name": "Run",
       "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
@@ -9901,7 +9937,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 216280,
       "name": "Serratona Skies",
       "url": "https://open.spotify.com/track/4kVzo23lGIng5yygw86Fqk"
@@ -10503,7 +10539,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 210196,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5Dr5M31BX8DYg6V4Qgk9Bw"
@@ -11683,7 +11719,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 357115,
       "name": "Through Different Eyes",
       "url": "https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3"
@@ -13093,6 +13129,24 @@
       "duration_ms": 239986,
       "name": "You Only Need Me When You\u2019re Blue",
       "url": "https://open.spotify.com/track/2XixmzqSRdX7Ua4bAQDeAL"
+    },
+    {
+      "album": {
+        "name": "You Should Go",
+        "url": "https://open.spotify.com/album/0Ki5eoqR6wOIaIaNuaxJX6"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244552,
+      "name": "You Should Go",
+      "url": "https://open.spotify.com/track/0OTYrKz6bfiNQbKT4etFn3"
     },
     {
       "album": {

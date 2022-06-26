@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-464 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+465 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [labtorlorekakiltam.mp3](https://open.spotify.com/track/0OsukLOsU4j2d698vrdTOC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 0:52 | 2022-03-12 | 2022-03-16 |
 | [Lassított Felvétel](https://open.spotify.com/track/215ivkVJmNk338IEwN66qC) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 2:47 | 2021-12-10 | 2022-01-29 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-28 | 2021-12-30 |
-| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 |  |
+| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-06-26 |
+| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 |  |
 | [Lej](https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 2:48 | 2021-03-27\* |  |
 | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ) | 3:15 | 2021-03-27\* | 2021-07-16 |
 | [Leszarom](https://open.spotify.com/track/1MKDxkCJRBcixRn4XRfFXP) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Leszarom](https://open.spotify.com/album/3g7XaPk4wlm011e95ukH7w) | 2:34 | 2022-04-02 | 2022-04-08 |

@@ -4238,6 +4238,28 @@
     },
     {
       "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/6s52jTyzBsamudBcHvEHSM"
+      },
+      "artists": [
+        {
+          "name": "BradBrooks",
+          "url": "https://open.spotify.com/artist/6M6rZlL20NFRT9T1kapWX4"
+        },
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4c7v2ZwjrBa2AFFbHEmywA"
+    },
+    {
+      "album": {
         "name": "Sweet Isolation",
         "url": "https://open.spotify.com/album/1foSNOxKYjwcWp1St0pcIl"
       },

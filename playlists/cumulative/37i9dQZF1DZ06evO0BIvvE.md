@@ -4,7 +4,7 @@
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
+63 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,16 +33,16 @@
 | [I'm Gonna Make It This Time](https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:22 | 2022-05-25 |  |
 | [It's Critical](https://open.spotify.com/track/4JRQg67LUxpcdGCXfvGIVi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 3:50 | 2022-05-25 |  |
 | [It's Too Late](https://open.spotify.com/track/5ByN27Jq2LtQIUBpgPybgP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:32 | 2022-05-25 |  |
-| [Jesus Boy \(You Only Look Like A Man\)](https://open.spotify.com/track/45A7dnrsLqR77AqKOjZPyL) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 4:17 | 2022-05-25 |  |
+| [Jesus Boy \(You Only Look Like A Man\)](https://open.spotify.com/track/45A7dnrsLqR77AqKOjZPyL) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 4:17 | 2022-05-25 | 2022-06-26 |
 | [July, July, July, July](https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 5:29 | 2022-05-25 |  |
-| [Lately](https://open.spotify.com/track/1Wi8nthUJS4cXyXpMnauyH) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 4:03 | 2022-06-02 |  |
+| [Lately](https://open.spotify.com/track/1Wi8nthUJS4cXyXpMnauyH) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 4:03 | 2022-06-02 | 2022-06-26 |
 | [Let 'Em In](https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 5:03 | 2022-05-25 |  |
 | [Let Me In](https://open.spotify.com/track/7gbew8whyzhuI2ygCoQROR) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 3:51 | 2022-05-29 | 2022-05-31 |
 | [Let the Dollar Circulate](https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:58 | 2022-05-25 |  |
 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 | 2022-05-25 |  |
 | [Let's Make a Baby](https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 7:10 | 2022-05-25 |  |
 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 | 2022-05-25 |  |
-| [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 | 2022-05-25 | 2022-06-20 |
+| [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 | 2022-05-25 |  |
 | [Malorie](https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 3:47 | 2022-05-25 |  |
 | [Me and Mrs Jones \(with Billy Paul\)](https://open.spotify.com/track/3An00Ze0w1MugizM3HGYtr) | [Chico & The Gypsies](https://open.spotify.com/artist/7EbSS8L1ZtVfwiMz40F1MI), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Chico & The Gypsies & International Friends](https://open.spotify.com/album/1j0sRFAO5QDtqAMVFOptn7) | 3:55 | 2022-05-25 |  |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2022-05-25 |  |
@@ -53,6 +53,7 @@
 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2022-05-25 |  |
 | [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 | 2022-05-29 |
 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 | 2022-05-25 |  |
+| [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 | 2022-06-25 |  |
 | [So Glad To See You Again](https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:43 | 2022-05-25 | 2022-06-19 |
 | [Sooner Or Later](https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2022-05-25 |  |
 | [Takin' It To The Streets](https://open.spotify.com/track/3IvVAzvF5S1p217Z1Rleh7) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 4:50 | 2022-05-25 |  |

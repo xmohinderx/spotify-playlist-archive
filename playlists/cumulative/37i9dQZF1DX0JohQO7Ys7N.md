@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3?si=LgxzKKNFR3uO4y90vt5wQw"> Emma Cheruto </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9?si=5g3uh90RQ4qZxy\-63eQnSg"> Umoja Sounds </a>
 
 77 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 

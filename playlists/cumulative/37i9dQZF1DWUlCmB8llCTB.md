@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+18](https://open.spotify.com/track/51TJh1UIuNYFWyhpSelRGc) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [+18](https://open.spotify.com/album/4dq0sUyRMMIKzqwbduS3SS) | 3:30 | 2022-06-10 |  |
+| [+18](https://open.spotify.com/track/51TJh1UIuNYFWyhpSelRGc) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [+18](https://open.spotify.com/album/4dq0sUyRMMIKzqwbduS3SS) | 3:30 | 2022-06-10 |  |
 | [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 | 2022-03-04 | 2022-05-07 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances](https://open.spotify.com/album/3jnnIq9TS7hOasZlEJsaFB) | 2:47 | 2021-12-24 | 2022-04-02 |
 | [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2021-12-24 |  |

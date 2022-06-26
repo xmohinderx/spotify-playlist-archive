@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 135483,
       "name": "A Higher Presence",
       "url": "https://open.spotify.com/track/5ZQ2hn58jULkkRLCbEH0ZY"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 211583,
       "name": "Afternoon Spirits",
       "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 170560,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/4dUdnalJalKkzu2fKDM3NF"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
@@ -711,6 +711,24 @@
       "duration_ms": 136326,
       "name": "Friends for Life",
       "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
+      },
+      "artists": [
+        {
+          "name": "Aiden Gaarder",
+          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
     },
     {
       "album": {
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Minism",
       "url": "https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 225110,
       "name": "Notes On Leave Taking",
       "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 212028,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 102300,
       "name": "The Art of Subtlety",
       "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"

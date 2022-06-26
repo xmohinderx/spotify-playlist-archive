@@ -246,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o"
+      },
+      "artists": [
+        {
+          "name": "Everlight",
+          "url": "https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg"
+        },
+        {
+          "name": "Skyler Wilson",
+          "url": "https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147808,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46"
+    },
+    {
+      "album": {
         "name": "At last",
         "url": "https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd"
       },
@@ -984,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "In het licht van de maan",
+        "url": "https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP"
+      },
+      "artists": [
+        {
+          "name": "Dardan Leistra",
+          "url": "https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Jij bent alles",
+      "url": "https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa"
+    },
+    {
+      "album": {
         "name": "Kiedy anio\u0142y \u015bpiewaj\u0105",
         "url": "https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu"
       },
@@ -1535,7 +1575,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 181411,
       "name": "Shasta - Meditation Mix",
       "url": "https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y"
@@ -1737,6 +1777,24 @@
       "duration_ms": 238573,
       "name": "Sown from Lulea\u030a",
       "url": "https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K"
+    },
+    {
+      "album": {
+        "name": "Ascendent",
+        "url": "https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4"
+      },
+      "artists": [
+        {
+          "name": "Antero Lehto",
+          "url": "https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Stargaze",
+      "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
     },
     {
       "album": {

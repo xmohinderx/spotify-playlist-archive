@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rosentwig, Memorex Memories, J+1 and more",
+  "description": "With A.L.I.S.O.N, Rosentwig, The Motion Epic and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 209500,
       "name": "1984",
       "url": "https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 126375,
       "name": "Alleyways",
       "url": "https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 126375,
       "name": "Alleyways - Instrumental",
       "url": "https://open.spotify.com/track/5zcn1Ud4lxR5CqdsvT8Cui"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 209032,
       "name": "always in my dreams",
       "url": "https://open.spotify.com/track/2HajW1soufpCGOcKAhr7zK"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Azur",
       "url": "https://open.spotify.com/track/7f8GsWEQdn6FGOPFQNWlS1"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 304000,
       "name": "Breeze Bay",
       "url": "https://open.spotify.com/track/0zsYwY8ThFADNr77hPKh6g"
@@ -2533,7 +2533,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Cerise de L'espace",
       "url": "https://open.spotify.com/track/2hGFuJ69IKoJjaHSIt1k6u"
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 173901,
       "name": "City Life",
       "url": "https://open.spotify.com/track/7fwFqwOoj94VqixbEX2IGk"
@@ -2953,6 +2953,24 @@
       "duration_ms": 256000,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/4AmgIcL9F0QcT4vw3h3mmO"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/1YbvjUhx31uz8L8Kq6O8Sd"
+      },
+      "artists": [
+        {
+          "name": "Von Kaiser",
+          "url": "https://open.spotify.com/artist/51nqW8CQPJuau5vYVCLnds"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/2io3gxWwBHf2rLneraNW07"
     },
     {
       "album": {
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 207466,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI"
@@ -4009,7 +4027,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 204006,
       "name": "Don't Grow Up",
       "url": "https://open.spotify.com/track/4K8forhC7VDhS6AOMVFFBB"
@@ -4459,7 +4477,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 211764,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2NO3nss5WoJFrL0i6xNMrH"
@@ -4727,7 +4745,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 198545,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
@@ -5095,7 +5113,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 323000,
       "name": "Fahrenheit",
       "url": "https://open.spotify.com/track/29J0OTJNBsJlbLGjVagx6I"
@@ -5491,7 +5509,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 162666,
       "name": "Flashing Sirens",
       "url": "https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ"
@@ -5628,6 +5646,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0fetZ9ZBZCMThapdxMvI5D"
+      },
+      "artists": [
+        {
+          "name": "Maximum Love",
+          "url": "https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227147,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7q2mR0lIxUL7rF0zmlBE1s"
+    },
+    {
+      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -5651,6 +5687,24 @@
       "duration_ms": 271733,
       "name": "Forever (feat. The Hacker & Electric Youth)",
       "url": "https://open.spotify.com/track/61aw1V0KLPD4XIjqNsGqo9"
+    },
+    {
+      "album": {
+        "name": "West Coast Dreams",
+        "url": "https://open.spotify.com/album/0yZCcEKr7uwSD5ziJhVP5Y"
+      },
+      "artists": [
+        {
+          "name": "The Motion Epic",
+          "url": "https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Forever Young (So Little Time)",
+      "url": "https://open.spotify.com/track/2aJ8iYKlxNItUKB6ceApIL"
     },
     {
       "album": {
@@ -6743,7 +6797,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 254504,
       "name": "Home",
       "url": "https://open.spotify.com/track/4UGGGk1YpKeknVkAB7wc1d"
@@ -6779,7 +6833,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 166588,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/76jvDw4SkNvBFJCXfsqSV6"
@@ -6957,7 +7011,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 274229,
       "name": "I Forgot About the Stars",
       "url": "https://open.spotify.com/track/1SAxzKDyBS4cBgiX7jU9xJ"
@@ -7131,7 +7185,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 230424,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3v9UL98FtyX7fEyPbACI7X"
@@ -7279,7 +7333,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 140347,
       "name": "In the 42nd Street",
       "url": "https://open.spotify.com/track/06ANCcAnZnK0x1KGmodioE"
@@ -8963,7 +9017,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 275454,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
@@ -9109,7 +9163,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 284016,
       "name": "Master Switch",
       "url": "https://open.spotify.com/track/3ZQuNkNLkH3Slaobm5bHLi"
@@ -9152,6 +9206,24 @@
     },
     {
       "album": {
+        "name": "Black Bay",
+        "url": "https://open.spotify.com/album/5epEOMFGZy4S1klixs7Mte"
+      },
+      "artists": [
+        {
+          "name": "Euan Ellis",
+          "url": "https://open.spotify.com/artist/1uivqPv0xxpaqrB8Ero5xJ"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Mellow Shrimp",
+      "url": "https://open.spotify.com/track/3Uiu7maDGKoKMn8tTHrgh1"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
       },
@@ -9181,7 +9253,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 242142,
       "name": "Memory Uploaded",
       "url": "https://open.spotify.com/track/389yYR7nF5F5yc79oQyYdD"
@@ -10937,7 +11009,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 232460,
       "name": "Our First House Was A Basement",
       "url": "https://open.spotify.com/track/1dMtMm7F5cRDx3DeAPysFv"
@@ -11188,6 +11260,24 @@
     },
     {
       "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/3VKGfIp0JGNAm1j7rxCO5h"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5ZZWGV8NuWHmV4r09IEv7A"
+    },
+    {
+      "album": {
         "name": "M O D E S",
         "url": "https://open.spotify.com/album/6brZd6OBdCwiL9Vb8Mf30g"
       },
@@ -11199,7 +11289,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 271200,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3tDqX5PVQNSEMhI2CIq3Wf"
@@ -11621,7 +11711,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 188218,
       "name": "Press Start to Begin Your Journey",
       "url": "https://open.spotify.com/track/2LxsujC7cjjnm4uX8pNcuF"
@@ -11975,7 +12065,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 209714,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/66xHLqlEzRamQdzlUouQt0"
@@ -12131,7 +12221,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 235431,
       "name": "Retrovailles",
       "url": "https://open.spotify.com/track/6RbtxD93ImCSNeTGu6Ezjs"
@@ -12279,7 +12369,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 244744,
       "name": "Rivage",
       "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
@@ -12825,7 +12915,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/72NO7H8ru3MQH6hApOaCzk"
@@ -13447,7 +13537,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 223724,
       "name": "Skyway",
       "url": "https://open.spotify.com/track/6NLd7wuYEBrTEJkqPbjv4C"
@@ -13797,7 +13887,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 184248,
       "name": "Spaceflight",
       "url": "https://open.spotify.com/track/5gOaikZDBwl7Ft0w9V2BCf"
@@ -14039,7 +14129,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 199328,
       "name": "Stella Polaris",
       "url": "https://open.spotify.com/track/0a8dhUR2sFfIRgODmnjCJM"
@@ -14697,7 +14787,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 159384,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu"
@@ -16017,7 +16107,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 271858,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/1k3Qn4UZW8cOIlIB3ghqCC"
@@ -16817,7 +16907,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 193628,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b"

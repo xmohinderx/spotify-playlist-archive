@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,628 likes - 118 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,711 likes - 125 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,10 +121,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 111 | [Phoenix Wright Ace Attorney](https://open.spotify.com/track/0I3nfnIvEJ8a2umI8qs0x2) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Phoenix Wright Ace Attorney](https://open.spotify.com/album/2gGmh1bcLPDt1voOMDoAds) | 2:15 |
 | 112 | [Summer Jam](https://open.spotify.com/track/6WTF575QHWkfPpZb6D8PCE) | [Beats In The Bank](https://open.spotify.com/artist/3CLnP7Npwjxv2t2gyjgnkR), [Jack Gillen](https://open.spotify.com/artist/1WGTtEF1QTo40VnIqEvWx8) | [Summer Jam](https://open.spotify.com/album/5rZJTEyL6redi4wLB6Aq9v) | 2:48 |
 | 113 | [Healing Properties \(Instrumental\)](https://open.spotify.com/track/6rYn94cWqS5YrEcEkhPWoH) | [Dfonk](https://open.spotify.com/artist/3gB7Y7q2B1ei9XKXnOwRlW), [Craig G](https://open.spotify.com/artist/6PHq7gqoQmOD05QBJ69IC0) | [Healing Properties \(Instrumental\)](https://open.spotify.com/album/1UNOhQI7gKpvkA5nuaVc3Y) | 3:03 |
-| 114 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
-| 115 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
-| 116 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 |
-| 117 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
-| 118 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 |
+| 114 | [Tick Count](https://open.spotify.com/track/3m7hTbbkYzUVZiJElAT0hV) | [Ph\-Wert](https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Tick Count](https://open.spotify.com/album/2A6q1iOmLF4UZgNtphbVA8) | 2:55 |
+| 115 | [Universal Unreal](https://open.spotify.com/track/3BUTu7gMvVlz8W0Qpya0YH) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Universal Unreal](https://open.spotify.com/album/0kcMVFZ6CtpWAuaIhuxEX1) | 2:26 |
+| 116 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 |
+| 117 | [Brand New Ride](https://open.spotify.com/track/278yaUyHB1jfFh0Hx0HqU1) | [Lingo](https://open.spotify.com/artist/4RcqZYDDLikC5uAIUD8Ptx) | [Summer Jams](https://open.spotify.com/album/54GJEBp5eYChvY43ctKkr8) | 4:05 |
+| 118 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 |
+| 119 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
+| 120 | [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 |
+| 121 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
+| 122 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
+| 123 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 |
+| 124 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
+| 125 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 |
 
-Snapshot ID: `MTY1NTQyNDAwMCwwMDAwMDAzZTAwMDAwMTgxNmVmNWEwOTQwMDAwMDE2ZDE1MWJjNmQ2`
+Snapshot ID: `MTY1NjA2NzIxNywwMDAwMDAzZjAwMDAwMTgxOTU0YzU4Y2QwMDAwMDE2ZDE1MWJjNmQ2`

@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 158223,
       "name": "CELINE 3X",
       "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
@@ -2157,6 +2157,24 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "Chop (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "Chop (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
     },
     {
       "album": {
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
@@ -3763,7 +3781,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv"
@@ -4050,6 +4068,24 @@
     },
     {
       "album": {
+        "name": "Free Your Love",
+        "url": "https://open.spotify.com/album/1N33v1m8lZtP4R0JODMCKG"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Moreland",
+          "url": "https://open.spotify.com/artist/2Fw9fDyePtjs2XDcCBLS8K"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193099,
+      "name": "Free Your Love",
+      "url": "https://open.spotify.com/track/7arw2XYpw5aJkGR7k9sujB"
+    },
+    {
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -4171,7 +4207,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -5057,7 +5093,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -5311,6 +5347,24 @@
       "duration_ms": 152280,
       "name": "Ich darf das",
       "url": "https://open.spotify.com/track/4txsSBdT4yVJtUj41YaQEB"
+    },
+    {
+      "album": {
+        "name": "If You Look for Me / What Is Wrong",
+        "url": "https://open.spotify.com/album/6fN0ZynLnTguF2hPr2rppS"
+      },
+      "artists": [
+        {
+          "name": "Y-DAPT",
+          "url": "https://open.spotify.com/artist/5rxKxOSeV4rmOFtX4jaKQz"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "If You Look for Me - Radio Edit",
+      "url": "https://open.spotify.com/track/0qVJUluZmo6yiTWlIymC8n"
     },
     {
       "album": {
@@ -6076,6 +6130,28 @@
     },
     {
       "album": {
+        "name": "KMN",
+        "url": "https://open.spotify.com/album/0NpkiX8PaxksZBBX7eJDMO"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "KMN",
+      "url": "https://open.spotify.com/track/4xBLgpxzMtaZxAE3fdycGN"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -6183,7 +6259,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 188106,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -6361,6 +6437,32 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
       "album": {
@@ -8623,7 +8725,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
@@ -8776,6 +8878,32 @@
     },
     {
       "album": {
+        "name": "In Liebe, Ion",
+        "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
+      },
+      "artists": [
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        },
+        {
+          "name": "SiraOne",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Powerade",
+      "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
+    },
+    {
+      "album": {
         "name": "Powerade",
         "url": "https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE"
       },
@@ -8879,6 +9007,24 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/5jsEezy9hIeLncVxwDl1ZJ"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/4vsDPNuvcN56CDpKKWzrkZ"
     },
     {
       "album": {
@@ -9085,6 +9231,32 @@
       "duration_ms": 192340,
       "name": "Reggae & Calypso (Russ Millions x Buni x YV x CH (GMD) x SwitchOTR x Gazo x RoseReal) - Remix",
       "url": "https://open.spotify.com/track/2cQyipGn0DEXYLgoeIwRFe"
+    },
+    {
+      "album": {
+        "name": "RENN RENN",
+        "url": "https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "RENN RENN",
+      "url": "https://open.spotify.com/track/5dYA3DGibUvGlEmTmariSy"
     },
     {
       "album": {
@@ -10363,7 +10535,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
@@ -11666,6 +11838,24 @@
     },
     {
       "album": {
+        "name": "If You Look for Me / What Is Wrong",
+        "url": "https://open.spotify.com/album/6fN0ZynLnTguF2hPr2rppS"
+      },
+      "artists": [
+        {
+          "name": "Y-DAPT",
+          "url": "https://open.spotify.com/artist/5rxKxOSeV4rmOFtX4jaKQz"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "What Is Wrong - Radio Edit",
+      "url": "https://open.spotify.com/track/3fDEAs0jfWUmLWKUH4KMZQ"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -11917,7 +12107,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

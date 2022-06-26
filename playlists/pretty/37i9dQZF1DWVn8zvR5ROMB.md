@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Jimmie Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,883 likes - 58 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,172 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-146 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+147 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Run To Heaven](https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:10 | 2021-10-01 |  |
 | [Save This Heart](https://open.spotify.com/track/44rtc66Yh6F8HxDDyKJoo9) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/5dR3GxLveYLBkq6utHAZmT) | 3:01 | 2021-10-01 |  |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Scrape Me Off the Ceiling](https://open.spotify.com/album/7ojJLIbIIlC7XqiONY0csB) | 3:00 | 2021-10-01 |  |
+| [Shallows \- Single Version](https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Shallows](https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V) | 3:19 | 2022-06-25 |  |
 | [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 | 2022-05-13 |  |
 | [Shiver](https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Shiver](https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB) | 3:32 | 2021-10-01 |  |
 | [Sing Along \- Demo](https://open.spotify.com/track/2KfEwhZO0XH8hpRq0qeGGt) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/1rvogFExMDIwuKKmUBru0A) | 4:03 | 2021-10-01 |  |

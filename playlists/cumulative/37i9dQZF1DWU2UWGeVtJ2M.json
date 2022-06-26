@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 207781,
       "name": "1000 Scars",
       "url": "https://open.spotify.com/track/0Sf4rStnY3H87N9kD1jFaD"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 173686,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 198170,
       "name": "Crush",
       "url": "https://open.spotify.com/track/7Gwq1C5FdI1PDnO7n4iIWY"
@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/4mvX5gtx89KvTmjGKS3YUK"
+      },
+      "artists": [
+        {
+          "name": "Julian Jacob",
+          "url": "https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/5JbwQffYY41WnmZiRw39aw"
+    },
+    {
+      "album": {
         "name": "Malleable EP",
         "url": "https://open.spotify.com/album/5YYiz5bHi70KHeaMJwbIXw"
       },
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 195168,
       "name": "Escape",
       "url": "https://open.spotify.com/track/0Rio1XB0bbSmUXSMZdwBx2"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 178635,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/4dxtD1otvF1JdycGwCK9ns"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 171701,
       "name": "Heart of Mine",
       "url": "https://open.spotify.com/track/4HJwDpcBcr8CcuPED5UunP"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 202876,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 113045,
       "name": "I'll Come Back to You",
       "url": "https://open.spotify.com/track/0vAZmBMWlpbEHf1Vk0FLMc"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 155454,
       "name": "Just a Phone Call Away",
       "url": "https://open.spotify.com/track/7gqq9KB1fvORR9dEWJ1y2F"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "letsnotcallitlove",
       "url": "https://open.spotify.com/track/0XwKXTgwaoh9Tr41AAm4kh"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 220577,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/13RpoUelvsqdFyUUqZfxwo"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "More",
       "url": "https://open.spotify.com/track/6tsmt6CZClKqODnIhhl9Rb"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 195398,
       "name": "Muse",
       "url": "https://open.spotify.com/track/5Jvw7jdQmO622XAjtxQ6H0"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 200433,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/0Zvl8iBGLBuvGGcnGYQ8SU"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 155042,
       "name": "on you",
       "url": "https://open.spotify.com/track/4CCYQcTyXmbLxnDVr0K9Zx"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 145333,
       "name": "Precious",
       "url": "https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 240852,
       "name": "Sailor",
       "url": "https://open.spotify.com/track/6AgOSBjpl8Xy8MabVdORG1"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 197227,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 197098,
       "name": "The Space Between Us",
       "url": "https://open.spotify.com/track/6OLWjfBXWoGS5ft8IFzcjq"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 263592,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/5kx5NtuqynfuDqUppK4qa4"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 195828,
       "name": "Traps",
       "url": "https://open.spotify.com/track/1sxgNMOBtQqAjliBB6oxeR"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 198624,
       "name": "Traumatized",
       "url": "https://open.spotify.com/track/2BEiZgGUo7qGqWjEUwiOn7"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 240000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 207428,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5Hje2TsqtKgPGADigZzpUr"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 207157,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 252838,
       "name": "You",
       "url": "https://open.spotify.com/track/6RNzBgaxbDLDdnq4jy4bNQ"

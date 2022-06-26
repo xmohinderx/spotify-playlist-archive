@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-67 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
+68 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 | 2022-05-25 |  |
 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 | 2022-06-14 | 2022-06-23 |
 | [Dengue Woman Blues](https://open.spotify.com/track/3L8DnKNfRS3vv13t1E5jc3) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/1Fcl4xWU6qGvkJ45lg3TfK) | 6:23 | 2022-05-25 | 2022-06-23 |
-| [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 | 2022-05-25 |  |
+| [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 | 2022-05-25 | 2022-06-26 |
 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 | 2022-05-25 | 2022-06-20 |
 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 | 2022-05-25 | 2022-06-04 |
 | [Down so Long](https://open.spotify.com/track/7oWzQGtcIKg0il8b4c6oM6) | [Ryan Lee Crosby](https://open.spotify.com/artist/2jbgitwQghH69jtgs7zwTT) | [Down so Long](https://open.spotify.com/album/11upoaPkaYHPwwbaIpZejv) | 3:39 | 2022-05-25 | 2022-06-06 |
@@ -42,9 +42,9 @@
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2022-05-25 |  |
 | [J.C's\. Blues](https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1) | [Michigan Curve](https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba) | [Bluesmen Don't Use Umbrellas](https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm) | 6:59 | 2022-05-25 |  |
 | [Jake's Blues](https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI) | [Johnnie Red Latham](https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U) | [Jake's Blues](https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I) | 3:56 | 2022-05-25 | 2022-06-25 |
-| [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 | 2022-05-25 | 2022-06-24 |
+| [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 | 2022-05-25 |  |
 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 | 2022-05-25 |  |
-| [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 | 2022-05-25 |  |
+| [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 | 2022-05-25 | 2022-06-26 |
 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 | 2022-05-25 |  |
 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 | 2022-05-25 |  |
 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 | 2022-05-25 | 2022-06-17 |
@@ -67,6 +67,7 @@
 | [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 | 2022-05-25 |  |
 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 | 2022-05-25 | 2022-06-24 |
 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 | 2022-05-25 |  |
+| [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 | 2022-06-14 |  |
 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 | 2022-05-25 |  |
 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 | 2022-05-25 |  |
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-05-25 |  |

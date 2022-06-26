@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-187 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+188 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-23 |  |
 | [Equal](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Equal](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 2:11 | 2021-12-23 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-12-23 |  |
+| [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 |  |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [For a while](https://open.spotify.com/track/0AGYeuTCEtwHWZ45RZNaHN) | [Ida Eline](https://open.spotify.com/artist/5KytELOgYZTg1s0VxUG9Nw) | [For a while](https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba) | 3:04 | 2021-12-23 |  |

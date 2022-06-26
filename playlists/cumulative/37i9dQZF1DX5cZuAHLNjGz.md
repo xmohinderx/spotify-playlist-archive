@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-109 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+110 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-05-29 |  |
 | [8 Raflaan \(Extended Version\) \[feat\. Gurlej Akhtar\]](https://open.spotify.com/track/0bNWc1OJVrZ5S0MtysDiBL) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(Extended Version\) \[feat\. Gurlej Akhtar\]](https://open.spotify.com/album/7Clb3HeoxYeH2Dbk1xH5si) | 3:33 | 2022-05-29 |  |
 | [Adhiya](https://open.spotify.com/track/5LEjxlKCcYH8irGpRtjbj0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Adhiya](https://open.spotify.com/album/6ClVAtYBeQ6zjy3RnzR0ZV) | 2:57 | 2022-05-29 |  |
+| [Ain't Died In Vain](https://open.spotify.com/track/5tXDVieP5trNSb9cco2ZRt) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Ain't Died In Vain](https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3) | 2:50 | 2022-06-25 |  |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-05-29 |  |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2022-05-29 |  |
 | [Baapu](https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 6:06 | 2022-06-20 |  |
@@ -89,7 +90,7 @@
 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 | 2022-05-29 |  |
 | [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2022-05-29 |  |
 | [Shinin'](https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Shinin'](https://open.spotify.com/album/5cFE6guiFfiFRHNxhkWTEv) | 3:15 | 2022-05-29 |  |
-| [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2022-06-01 |  |
+| [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2022-06-01 | 2022-06-26 |
 | [Sira](https://open.spotify.com/track/4GIcOw6sIY1esYTcBksP7L) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Sira](https://open.spotify.com/album/0K1bCtyj3QtFi7VHiuoqIb) | 2:52 | 2022-05-29 |  |
 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 | 2022-05-29 |  |
 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 | 2022-06-09 |  |

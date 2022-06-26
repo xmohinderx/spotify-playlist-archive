@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 299180,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507520,
+      "name": "I Am Hell (Sonata in C#)",
+      "url": "https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K"
+    },
+    {
+      "album": {
         "name": "Cancer Culture",
         "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
       },
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 287275,
       "name": "R\u00d8TTEN",
       "url": "https://open.spotify.com/track/5FSWDz91pGJWHu4F0TWJZS"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 403706,
       "name": "The Burning Red",
       "url": "https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU"

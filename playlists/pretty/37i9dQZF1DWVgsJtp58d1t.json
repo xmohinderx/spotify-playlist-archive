@@ -1,12 +1,12 @@
 {
   "description": "New releases, driving the current. Cover: Brent Faiyaz",
-  "num_followers": 35770,
+  "num_followers": 35852,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjExOTA2NywwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5",
+  "snapshot_id": "MTY1NjIwNTYyNCwwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -616,16 +616,16 @@
           "url": "https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
           "name": "Denzel Curry",
           "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         },
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
       "duration_ms": 185454,

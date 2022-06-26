@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-131 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+138 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bigtownsteelo](https://open.spotify.com/track/1HwpgBbUoeSnYAFUOSr1zO) | [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Bigtownsteelo](https://open.spotify.com/album/7c6TF2TR0tThJFpiv6X6xO) | 2:29 | 2022-05-13 | 2022-05-20 |
 | [Bikes](https://open.spotify.com/track/1xXQc2REQJrIWvpSljejP7) | [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [Bikes](https://open.spotify.com/album/21uOUcZD90UulgeEjy4vEc) | 1:25 | 2021-11-11 |  |
 | [Blueberry Crunchy Pie](https://open.spotify.com/track/4qPTD9PEuRmaW8ejft4IiB) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Blueberry Crunchy Pie](https://open.spotify.com/album/2COHFxKVyc1WsIdd0Ky14Z) | 2:24 | 2022-06-17 |  |
+| [Brand New Ride](https://open.spotify.com/track/278yaUyHB1jfFh0Hx0HqU1) | [Lingo](https://open.spotify.com/artist/4RcqZYDDLikC5uAIUD8Ptx) | [Summer Jams](https://open.spotify.com/album/54GJEBp5eYChvY43ctKkr8) | 4:05 | 2022-06-24 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2021-11-11 |  |
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2021-11-11 |  |
 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 | 2021-11-11 |  |
@@ -46,6 +47,7 @@
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2021-11-11 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2021-11-11 |  |
 | [Flunked](https://open.spotify.com/track/1zKF974S6JmaaqX6SwUdnH) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [Flunked](https://open.spotify.com/album/18Xuryl7R77FH98TD2tuLL) | 1:41 | 2021-11-11 |  |
+| [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 | 2022-06-24 |  |
 | [For U](https://open.spotify.com/track/2ytZZ2S64YvE9G5SgYEPkB) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [For U](https://open.spotify.com/album/1wAMBFJ7WkhMNlTiZpcfEa) | 1:46 | 2022-04-22 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-02-17 |  |
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 |  |
@@ -53,6 +55,7 @@
 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 | 2022-06-17 |  |
 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 | 2022-05-20 |  |
 | [Goodies](https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2) | [Psychedelicatessen](https://open.spotify.com/artist/1Aqsr5edFoWGrBBjdKvUk9) | [Goodies](https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt) | 1:24 | 2021-11-11 |  |
+| [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 | 2022-06-24 |  |
 | [Healing Properties \(Instrumental\)](https://open.spotify.com/track/6rYn94cWqS5YrEcEkhPWoH) | [Dfonk](https://open.spotify.com/artist/3gB7Y7q2B1ei9XKXnOwRlW), [Craig G](https://open.spotify.com/artist/6PHq7gqoQmOD05QBJ69IC0) | [Healing Properties \(Instrumental\)](https://open.spotify.com/album/1UNOhQI7gKpvkA5nuaVc3Y) | 3:03 | 2022-06-17 |  |
 | [High Blossom](https://open.spotify.com/track/3P9nPdI80qLU6i4PCu9utx) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [High Blossom](https://open.spotify.com/album/39ugvLGxxkcuJxlDJutvU9) | 2:29 | 2021-11-11 |  |
 | [Higher](https://open.spotify.com/track/646uaJeMJuuwKA5u769awi) | [Nuble](https://open.spotify.com/artist/2zBqV404liOJKn4DW0rYAa) | [Higher](https://open.spotify.com/album/4OJYXTQoqln2MHOuL91WCC) | 3:37 | 2021-11-11 |  |
@@ -81,6 +84,7 @@
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2021-11-11 |  |
 | [Marigold Express](https://open.spotify.com/track/5235VAsve3HlQYNQpqqCkh) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Marigold Express](https://open.spotify.com/album/0m7Wgz5yDCJBgEcJlZ7y3F) | 2:12 | 2021-11-11 |  |
 | [McCoy](https://open.spotify.com/track/2go8ClPo7rUZiVwTYjslUO) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [In Rainbows](https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O) | 3:43 | 2021-11-11 |  |
+| [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 | 2022-06-24 |  |
 | [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2021-11-11 |  |
 | [Miles](https://open.spotify.com/track/15mn6DKfYvoLRnu89LFDXJ) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Translation EP](https://open.spotify.com/album/5Ze1hIBeHeRnmp6d52VwCR) | 2:12 | 2021-11-11 |  |
 | [Mobilize](https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Mobilize](https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp) | 2:56 | 2021-11-11 |  |
@@ -131,13 +135,16 @@
 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 | 2022-05-13 |  |
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-05-20 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2021-11-11 |  |
+| [Tick Count](https://open.spotify.com/track/3m7hTbbkYzUVZiJElAT0hV) | [Ph\-Wert](https://open.spotify.com/artist/4wJm4uz3KH4gc5en3BdB5q), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Tick Count](https://open.spotify.com/album/2A6q1iOmLF4UZgNtphbVA8) | 2:55 | 2022-06-24 |  |
 | [Time Ticks On](https://open.spotify.com/track/0M0NOfHNnXKOcFdrYkh0Te) | [Dusty Milk](https://open.spotify.com/artist/3fkcH05xZueDPnK5OBVDF1), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Time Ticks On](https://open.spotify.com/album/5ejUkax5ouTkt0cvIGpuoq) | 2:12 | 2022-06-10 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 |  |
 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 | 2021-11-11 |  |
+| [Universal Unreal](https://open.spotify.com/track/3BUTu7gMvVlz8W0Qpya0YH) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Universal Unreal](https://open.spotify.com/album/0kcMVFZ6CtpWAuaIhuxEX1) | 2:26 | 2022-06-24 |  |
 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 | 2021-11-11 |  |
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2021-11-11 |  |
 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 | 2021-11-11 |  |
 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 | 2021-11-11 |  |
+| [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 | 2022-06-24 |  |
 | [Yoshi](https://open.spotify.com/track/4zDcINxFFVDoydWC6aTnGu) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Video Game](https://open.spotify.com/album/2gPfF174IL4VZNvvx04Sud) | 1:27 | 2021-11-11 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,551 likes - 63 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,676 likes - 63 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 2 | [Cicatrices](https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/2r7uyJrmDdQ3DwX0EzSfYm) | 3:00 |
 | 3 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 | 4 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
-| 5 | [La Isla del Encanto](https://open.spotify.com/track/5ZTqmIutlqPTWR7fJ2ipWp) | [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Blasfem On Air](https://open.spotify.com/album/1Kagas12BL4vvW4jfZNJHz) | 3:00 |
+| 5 | [La Isla del Encanto \(feat\. FERNANDOCOSTA\)](https://open.spotify.com/track/5ZTqmIutlqPTWR7fJ2ipWp) | [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Blasfem On Air](https://open.spotify.com/album/1Kagas12BL4vvW4jfZNJHz) | 3:00 |
 | 6 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |
 | 7 | [Nana](https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Nana](https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D) | 4:56 |
 | 8 | [Septiembre](https://open.spotify.com/track/6ECuR1jAciVqtBogJhXkF0) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Septiembre](https://open.spotify.com/album/3qIJnqD0B24GpgVy9UxZTt) | 3:39 |

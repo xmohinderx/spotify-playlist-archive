@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Miu Lê
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Văn Mai Hương
 
-70 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+71 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 | 2022-05-27 |  |
 | [Muốn Nói Với Em](https://open.spotify.com/track/1HDrKXya87GMQfAGPlqNS9) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/4xxZSGefRZ1LOryWzpQGEc) | 3:53 | 2022-05-27 |  |
 | [Muộn Rồi Mà Sao Còn](https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Muộn Rồi Mà Sao Còn](https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M) | 4:35 | 2022-05-27 |  |
+| [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-26 |  |
 | [một ngày tôi quên hết](https://open.spotify.com/track/2bxVMMRP6AHvUVXHQrIBy9) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Cẩm Vân](https://open.spotify.com/artist/4sB7Byv9cAeaPbR05YSQFR), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [một ngày tôi quên hết](https://open.spotify.com/album/0XhltjKp7yErYaQhtt8h7x) | 4:22 | 2022-05-27 | 2022-06-03 |
 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 | 2022-05-27 |  |
 | [Nàng Thơ](https://open.spotify.com/track/2LykruN1mQlg9nuUaE7dvQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Nàng Thơ](https://open.spotify.com/album/4UjOz9fuY8XfEOyOx8aeb3) | 4:14 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, DaBaby, YG and more\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,993 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,117 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 |
 | 7 | [Streets Cold](https://open.spotify.com/track/5vMaNdKl1anaj72qDUTggG) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Money](https://open.spotify.com/album/4ekzY1vQW95fqshfVqgEYS) | 3:09 |
 | 8 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |
-| 9 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
+| 9 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
 | 10 | [Bad Ass Bitches](https://open.spotify.com/track/6lhanwNaMxRtdLypNcXWDL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Bad Ass Bitches](https://open.spotify.com/album/59m6OpnjZhN7bCVAAnUPqO) | 1:58 |
 | 11 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 |
 | 12 | [Violence](https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Violence](https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3) | 3:54 |

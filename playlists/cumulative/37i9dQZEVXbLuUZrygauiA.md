@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-365 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+366 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Las Mulas De Moreno](https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:40 | 2022-06-22 |  |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-08 | 2022-03-02 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-14 | 2022-06-22 |
-| [Like Wooh Wooh](https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42) | 3:16 | 2022-05-27 |  |
+| [Like Wooh Wooh](https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/6dYXXdicdPdMe8PtjqBd42) | 3:16 | 2022-05-27 | 2022-06-26 |
+| [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-06-25 |  |
 | [Like You Do](https://open.spotify.com/track/3xo4Q43ei0ypZOvd2W1IqZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 4:00 | 2022-06-17 | 2022-06-23 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-03-15 | 2022-03-23 |
 | [Lluvia De Balas](https://open.spotify.com/track/6u4cUNsKhatptAgVy7saaj) | [Luisillo Camacho](https://open.spotify.com/artist/0Ft5p26juZSsRZeF4BMvJp) | [Puros Amigos](https://open.spotify.com/album/1H06JT9v4JNm3s5rdKcFfE) | 3:07 | 2022-05-13 | 2022-05-28 |

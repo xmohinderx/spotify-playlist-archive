@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Yoss Bones, Santa Salut, Almanegra, Zxmyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,833 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,940 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 40 | [DA KNOWLEDGE](https://open.spotify.com/track/63AIqDwBLmJyiVnxMfqCCa) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [DA KNOWLEDGE](https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1) | 2:48 |
 | 41 | [Los Guachos en La Esquina](https://open.spotify.com/track/23UlukMiAMAaxcR0szp4ov) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Los Guachos en La Esquina](https://open.spotify.com/album/5LrgtKWrRSv78s5IB67Keo) | 3:09 |
 | 42 | [Ilegal](https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ilegal](https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG) | 4:45 |
-| 43 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 |
+| 43 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 |
 | 44 | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/track/6LPVPZOlqNOPzE95g0QbGM) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/album/4JReHBiLBiHl2JWJ7kiX9L) | 2:53 |
 | 45 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
 | 46 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 |

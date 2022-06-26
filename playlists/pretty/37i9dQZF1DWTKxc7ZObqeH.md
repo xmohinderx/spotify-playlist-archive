@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,086 likes - 122 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,441 likes - 122 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-77 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+81 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Breezy](https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf) | [Richie Kruz](https://open.spotify.com/artist/1ulbjpM1Xqulg1o3sIhIH5) | [Breezy](https://open.spotify.com/album/3IaLEX2CgHRSci1W90e0Pq) | 2:54 | 2022-05-13 |  |
 | [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 |  |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-05-13 |  |
+| [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2022-05-13 |  |
 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 | 2022-05-13 |  |
 | [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 | 2022-05-13 |  |
@@ -36,6 +37,7 @@
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2022-05-13 |  |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2022-05-13 |  |
 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 | 2022-05-13 |  |
+| [Interweave](https://open.spotify.com/track/6LvmN1802Bk6Tcem36utnB) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Interweave](https://open.spotify.com/album/2HMXhnCNU1aDzIigeKLySH) | 2:20 | 2022-06-24 |  |
 | [Jules & Jen](https://open.spotify.com/track/5C0BlB1Tm53MOS3SOFUGnN) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 3:13 | 2022-05-13 |  |
 | [just jump](https://open.spotify.com/track/4M0sEJzmZoQy2hcvCbfEHp) | [Jens Wenig](https://open.spotify.com/artist/4U52OGCZcwbncL3VCuvk2r) | [into bloom](https://open.spotify.com/album/5ZRzmKDXIhbAfCCBo4Zfts) | 3:10 | 2022-05-13 |  |
 | [kind of wind](https://open.spotify.com/track/0DydsFKNIPPXn2wWmDGyR3) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 2:33 | 2022-05-13 |  |
@@ -64,8 +66,10 @@
 | [Self Control](https://open.spotify.com/track/5UmjHuYRItemped2xd3Qx4) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites](https://open.spotify.com/album/5wc1XEogSJeFO37RtAGaAc) | 3:40 | 2022-05-13 |  |
 | [Shiosai](https://open.spotify.com/track/16OeJvn6s38iUCNniIU4WQ) | [Isao Tsukamoto](https://open.spotify.com/artist/7pLs9v2GtcnQPBO5Jg8FQy) | [ARCHES](https://open.spotify.com/album/5mvZLtMuUS2H0ygEdjNyrt) | 2:32 | 2022-05-13 |  |
 | [Sigulda](https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa) | [Revolutions](https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T) | [Sigulda](https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS) | 4:26 | 2022-06-03 |  |
+| [Silent Relief](https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Silent Relief](https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh) | 2:40 | 2022-06-24 |  |
 | [So Smooth](https://open.spotify.com/track/4v0UsJ0beNVxLwml6yod9m) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Solus](https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw) | 2:13 | 2022-05-13 |  |
 | [Sonder](https://open.spotify.com/track/6jjmxiR8Yb8Nli4BQhk9e5) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Sonder, Vol\. 1](https://open.spotify.com/album/4EMuzrkru4Lx2cD3yu663Q) | 2:32 | 2022-05-13 |  |
+| [Split Vision](https://open.spotify.com/track/437FQCpke7wfl5YWb1xQth) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Split Vision](https://open.spotify.com/album/1VpV0IDzLpG3v8C2DSnkTf) | 3:33 | 2022-06-24 |  |
 | [Strong Kinds of Emotions](https://open.spotify.com/track/4IAuHbRSyRYfBWMPIFprRj) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 3:36 | 2022-05-13 |  |
 | [Sucked Back In the Game](https://open.spotify.com/track/0kCh1hmYmvY8Jo20Brub2X) | [Deep Mark](https://open.spotify.com/artist/1fBgQyqIUMiSAap0lST8L0) | [Sucked Back In the Game](https://open.spotify.com/album/3J2SALaJli4aR5f16G4QPQ) | 2:04 | 2022-05-13 |  |
 | [Summer Tales](https://open.spotify.com/track/40qA5hA8RuOpIe6RzPL9Wo) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:16 | 2022-05-13 |  |

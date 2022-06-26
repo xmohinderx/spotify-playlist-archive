@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 264466,
       "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 223083,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 218186,
       "name": "DRIP DRY",
       "url": "https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
@@ -1151,6 +1151,24 @@
       "duration_ms": 157933,
       "name": "PAPER DOLL",
       "url": "https://open.spotify.com/track/56k3tbMWCkxVIA71a7ozF2"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5kqmmevk2Ra1pKKLJ7otg9"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u5c71\u307f\u3064\u7d00",
+          "url": "https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0le2Ze3cfNvuItHgQHC3sk"
     },
     {
       "album": {
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 208981,
       "name": "\u305a\u308b\u304f\u306a\u3044?",
       "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 206548,
       "name": "\u30c0\u30fc\u30b8\u30ea\u30f3 - Bousi Studio Remix",
       "url": "https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 228900,
       "name": "\u30ca\u30a4\u30c8\u30c0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 295453,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
       "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 251741,
       "name": "\u591c\u884c\u6027 feat. \u8521\u5fe0\u6d69",
       "url": "https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 311100,
       "name": "\u5c11\u3057\u6ce3\u304f",
       "url": "https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"

@@ -872,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Etoile",
+        "url": "https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT"
+      },
+      "artists": [
+        {
+          "name": "Eztebe Matia",
+          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135751,
+      "name": "Etoile",
+      "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
+    },
+    {
+      "album": {
         "name": "Existence",
         "url": "https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH"
       },

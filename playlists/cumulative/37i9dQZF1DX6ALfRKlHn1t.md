@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-157 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+158 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2021-03-24 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-06-17 |  |
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 |  |
+| [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-24 |  |
 | [Golden Age](https://open.spotify.com/track/1bFjZtKMLAd63AILwrGl5l) | [Late Night Episode](https://open.spotify.com/artist/3ZvruFeycdpcMPS4EfESRk) | [Golden Age](https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z) | 2:52 | 2021-03-24 |  |
 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 | 2022-06-03 |  |
 | [Good Feeling](https://open.spotify.com/track/69mUNSadIZmIlrpAqss2oB) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Don't You Worry / Good Feeling](https://open.spotify.com/album/74ULHyuYbRNDVhLzp81L76) | 3:23 | 2021-03-24 |  |
@@ -161,7 +162,7 @@
 | [What I Got](https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 2:51 | 2021-03-24 |  |
 | [What You Know](https://open.spotify.com/track/6jrMVRReY24qzCfe1BRrww) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0gyRFAfY08NFv7N8RTFg9M) | 3:11 | 2021-03-24 | 2022-05-26 |
 | [Wherever You Go](https://open.spotify.com/track/4tRE4gy0sj65IBRvMOumfr) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wherever You Go \- Single](https://open.spotify.com/album/3iY9JmzInF273jVt2CL1Ou) | 3:31 | 2021-03-24 | 2022-06-23 |
-| [Wicked Heart](https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wicked Heart](https://open.spotify.com/album/6248uTiCGShjuOPDeUkDU1) | 3:18 | 2021-03-24 |  |
+| [Wicked Heart](https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wicked Heart](https://open.spotify.com/album/6248uTiCGShjuOPDeUkDU1) | 3:18 | 2021-03-24 | 2022-06-26 |
 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 | 2021-03-24 |  |
 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2021-03-24 | 2022-04-28 |
 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 | 2021-03-24 | 2022-04-27 |

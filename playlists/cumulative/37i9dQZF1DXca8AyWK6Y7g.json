@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 185895,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/7ckbcPoMTMOdnlBIsrHjDD"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
@@ -3745,7 +3745,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 182146,
       "name": "cloudbathing",
       "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
@@ -4299,7 +4299,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 186760,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/5SNZ7Iv54NzJgpb1hFxgXl"
@@ -4491,7 +4491,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 163462,
       "name": "cult leader",
       "url": "https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7"
@@ -5673,7 +5673,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
@@ -10162,6 +10162,24 @@
     },
     {
       "album": {
+        "name": "i\u2019m sorry if i hurt u sometimes",
+        "url": "https://open.spotify.com/album/6bu8s6iTjRQOLK9AAY32wV"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "i\u2019m sorry if i hurt u sometimes",
+      "url": "https://open.spotify.com/track/1MuVDCEjcyR6gWyOcXqIov"
+    },
+    {
+      "album": {
         "name": "Jackie Onassis",
         "url": "https://open.spotify.com/album/0yTuTdnNybyhwLTpgbl4Br"
       },
@@ -10547,7 +10565,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 156247,
       "name": "Kill You Boy",
       "url": "https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912"
@@ -12017,7 +12035,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -12433,6 +12451,24 @@
       "duration_ms": 146474,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ"
+    },
+    {
+      "album": {
+        "name": "This Is How The World Made Me",
+        "url": "https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Missing Somebody",
+      "url": "https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2"
     },
     {
       "album": {
@@ -15435,7 +15471,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
@@ -16129,7 +16165,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 163602,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"

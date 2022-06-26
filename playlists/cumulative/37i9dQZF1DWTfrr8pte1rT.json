@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 148112,
       "name": "All In My Head (feat. grandson)",
       "url": "https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 293274,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Crusade",
       "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Hayloft II (DNMO Mix)",
       "url": "https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 165703,
       "name": "Last One To Know - Curbi Remix",
       "url": "https://open.spotify.com/track/2gm7uyTVq6FqLfXHatUY2b"
@@ -2686,6 +2686,32 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Thrashout",
+          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163941,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
+    },
+    {
+      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK"
       },
@@ -3063,7 +3089,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
@@ -3524,6 +3550,32 @@
     },
     {
       "album": {
+        "name": "Prismata (Dark)",
+        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX"
+    },
+    {
+      "album": {
         "name": "Somewhere That I Belong",
         "url": "https://open.spotify.com/album/0kIfksZoQVQxItqd2j92s2"
       },
@@ -3561,7 +3613,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
@@ -3597,7 +3649,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 217458,
       "name": "Stigmata",
       "url": "https://open.spotify.com/track/2dmPVqFpmhNuggEB3niC9S"
@@ -3627,6 +3679,32 @@
       "duration_ms": 240608,
       "name": "Story Of My Life (feat. Trippie Redd) - Heavy Edit",
       "url": "https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym"
+    },
+    {
+      "album": {
+        "name": "Subliminal (Even the Ghosts are Laughing)",
+        "url": "https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        },
+        {
+          "name": "AFTERMYFALL",
+          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318428,
+      "name": "Subliminal (Even the Ghosts are Laughing)",
+      "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
     },
     {
       "album": {

@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Ahan",
+      "url": "https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv"
+    },
+    {
+      "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/6DTsQ3rzC6BXgfRxoqomFa"
       },
@@ -125,7 +147,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 278040,
       "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
       "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
@@ -143,7 +165,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 250666,
       "name": "Azan Nan Kpe",
       "url": "https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote"
@@ -299,7 +321,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -623,7 +645,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 268212,
       "name": "Jike'lemaweni",
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
@@ -975,7 +997,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 193013,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 277093,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 248466,
       "name": "The Great Curve",
       "url": "https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
@@ -1755,7 +1777,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Yaki Yaki",
       "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"

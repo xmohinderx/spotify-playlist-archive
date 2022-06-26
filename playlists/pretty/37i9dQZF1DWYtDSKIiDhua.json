@@ -1,6 +1,6 @@
 {
   "description": "The R&B tracks essential for your current mood. Cover: Giveon",
-  "num_followers": 71466,
+  "num_followers": 71742,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
       "duration_ms": 194886,
       "name": "Better",
       "url": "https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6"
+    },
+    {
+      "added_at": "2022-06-23 20:25:51",
+      "album": {
+        "name": "See You Tonight",
+        "url": "https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Milanio",
+          "url": "https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc"
+        },
+        {
+          "name": "Dane Amar",
+          "url": "https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV"
+        }
+      ],
+      "duration_ms": 185221,
+      "name": "See You Tonight",
+      "url": "https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD"
     },
     {
       "added_at": "2022-06-23 20:25:51",

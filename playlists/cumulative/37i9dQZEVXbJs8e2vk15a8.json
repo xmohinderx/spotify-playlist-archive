@@ -1160,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/7dtJi7bMzwn915s2yC82bz"
+      },
+      "artists": [
+        {
+          "name": "Artistas Varios Colab",
+          "url": "https://open.spotify.com/artist/6jsKi4HuQAUeLXjrlU5mOs"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281835,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/5ScRltS6KmeYTUiHULKNAx"
+    },
+    {
+      "album": {
         "name": "ESE CULITO",
         "url": "https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh"
       },
@@ -1903,10 +1921,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 196043,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/1GMq61rtAFhnn0K7GBJDkK"
+    },
+    {
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     },
     {
       "album": {
@@ -2227,6 +2263,24 @@
       "duration_ms": 228750,
       "name": "MEMORIAS",
       "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
+    },
+    {
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
     },
     {
       "album": {
@@ -3255,7 +3309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
@@ -3541,7 +3595,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 164516,
       "name": "Sufriendo",
       "url": "https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1"

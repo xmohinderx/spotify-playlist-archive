@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto (En Vivo)",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
+    },
+    {
+      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 220048,
       "name": "Se Termino",
       "url": "https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Blues \(우리들의 블루스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444,607 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,444,735 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [Im Yoon Seong](https://open.spotify.com/artist/37SmUSD0mZvNS6Lh1xXFfs) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
+| 1 | [Howling](https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V) | [임윤성](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [Insider \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1F9iWEozvamdo7yGTaC3PT) | 3:22 |
 | 2 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 |
 | 3 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 |
 | 4 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [With](https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU) | [Kim Taeri](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X), [Nam Joohyuk](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv), [Bona\(WJSN\)](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL), [Choi Hyunwook](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ), [Lee Joomyung](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) | [Twenty\-Five Twenty\-One OST](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) | 4:29 |
 | 100 | [Whisky on the Rock](https://open.spotify.com/track/6JZllw3leQQZBcWGUO3W30) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 |
 
-Snapshot ID: `MTY1NjExOTQ2NywwMDAwMDAwMDRlNTFhMDQ4NWVlNWNhNGIyMDllMTFmNGY1NGU2YmFi`
+Snapshot ID: `MTY1NjIwNTk4NywwMDAwMDAwMDRlNTFhMDQ4NWVlNWNhNGIyMDllMTFmNGY1NGU2YmFi`

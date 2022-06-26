@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,797 likes - 131 songs - 8 hr 20 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,822 likes - 122 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,23 +121,14 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 111 | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/track/07twUUK8jWUCVsrSoEgbLW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/album/1C9zDYqWpx7Lqcsu81DV6Y) | 2:36 |
 | 112 | [UN DIA \(ONE DAY\)](https://open.spotify.com/track/2WI0AMgzaEdKs2hcoN21vF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Vacation](https://open.spotify.com/album/2sqLIvbunhtQbmK0OyUjx2) | 3:52 |
 | 113 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 |
-| 114 | [Love Again](https://open.spotify.com/track/127MjyeDtYD30SlIAueSqR) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV) | [Love Again](https://open.spotify.com/album/20jgrsYb5T5pXiNF8mggXw) | 2:47 |
-| 115 | [Impossible Things](https://open.spotify.com/track/0jtPhTHhecbl4rQQgpdJcl) | [Bethany Sorenson](https://open.spotify.com/artist/4OZUZ4yeIl8vnkVoHpE28v) | [Impossible Things](https://open.spotify.com/album/6MCYanRHAkg2DyubYa5Dh4) | 4:04 |
-| 116 | [But The Weather](https://open.spotify.com/track/6JGQ2BRW9SoyvWkMKaQeIk) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [But The Weather](https://open.spotify.com/album/6QmPTH1f0OhVFdQO7xEoam) | 3:50 |
-| 117 | [Holy](https://open.spotify.com/track/0OAsTVd2oJ4oIYNKqbEyP4) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [Holy](https://open.spotify.com/album/5OuXVOGDiY3Og6vuDGMssj) | 4:08 |
-| 118 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 |
-| 119 | [Pink](https://open.spotify.com/track/1TyDvm0QokpBLekSqhcVSF) | [Comforts](https://open.spotify.com/artist/0DTo7Y75bhTLMs5vlUSaxM) | [Pink](https://open.spotify.com/album/0pMKqDogGoFVJuDersfQ0d) | 3:33 |
-| 120 | [There For You](https://open.spotify.com/track/0FGmQsqCgNEQsj7QS4GZJl) | [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [There For You](https://open.spotify.com/album/7LOHHh9uwWIPMjk4d4AZQ2) | 3:18 |
-| 121 | [Mushrooms](https://open.spotify.com/track/1j8KRfQKhY7OukytcAipiC) | [Ruth and Emilia](https://open.spotify.com/artist/6YdZN8VEkerAGuOtQkuFGR) | [I Had a Dream: Songs of an Immigrant](https://open.spotify.com/album/6dKgsRZcpQ6rAbSEH7QoBr) | 3:09 |
-| 122 | [Jump](https://open.spotify.com/track/3ZQiZ9mNXzwYQQJFuZVyqk) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Jump](https://open.spotify.com/album/0LqHA7bz8AZXMlhAcxVrIN) | 4:09 |
-| 123 | [Wake Up](https://open.spotify.com/track/0uhg5qCovt9kfBnfNO7rU7) | [Ryan O'Neill](https://open.spotify.com/artist/2nYd73dbyjISStc2mctJP1) | [Wake Up](https://open.spotify.com/album/1kWIyLrS0Rx0v54hEKqPko) | 2:57 |
-| 124 | [Joyce](https://open.spotify.com/track/6HbaRX0JyF1vinGfCFV8Cx) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Joyce](https://open.spotify.com/album/3pt68E8P61O0iGT372c1Mg) | 2:56 |
-| 125 | [Star \(feat\. Yogi\)](https://open.spotify.com/track/5p4QNyQvoZtKlp6f4e1X5I) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Star \(feat\. Yogi\)](https://open.spotify.com/album/2CYg0eTUZlemEt7sdhRaA0) | 4:21 |
-| 126 | [Hullabaloo](https://open.spotify.com/track/7kfKhEayenoX9YnaBXVY3g) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Hullabaloo](https://open.spotify.com/album/5zY8QAy8jGbkHHuEXY3irG) | 2:30 |
-| 127 | [Quien Eres](https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s) | [Judy Buendia](https://open.spotify.com/artist/21ujQ8j6gHJn9MoZXH5loj) | [Quien Eres](https://open.spotify.com/album/3NF8zAVmldN1oms4GcL0pm) | 2:04 |
-| 128 | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/track/5n8HwMlwjGp0VdurDGvOJM) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi), [yabé](https://open.spotify.com/artist/6LUl64133PPCqiyKZorEvL) | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/album/4IEg1BWzunj5kSuW45yJ17) | 4:11 |
-| 129 | [Without Me](https://open.spotify.com/track/5jlMa8TatNyCp8945hkvri) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Without Me](https://open.spotify.com/album/0J3SIEQLjkEXmGHw9dNWcD) | 4:01 |
-| 130 | [Happiness](https://open.spotify.com/track/6fFJ3c5SKxaDnEdpXkxZ8A) | [LVRRY J](https://open.spotify.com/artist/6gq5HvkBMs8UmxXnD3bbUH) | [Happiness](https://open.spotify.com/album/4DMC384Oxj11jTXAkS9lJD) | 3:33 |
-| 131 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 |
+| 114 | [There For You](https://open.spotify.com/track/0FGmQsqCgNEQsj7QS4GZJl) | [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [There For You](https://open.spotify.com/album/7LOHHh9uwWIPMjk4d4AZQ2) | 3:18 |
+| 115 | [Jump](https://open.spotify.com/track/3ZQiZ9mNXzwYQQJFuZVyqk) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Jump](https://open.spotify.com/album/0LqHA7bz8AZXMlhAcxVrIN) | 4:09 |
+| 116 | [Wake Up](https://open.spotify.com/track/0uhg5qCovt9kfBnfNO7rU7) | [Ryan O'Neill](https://open.spotify.com/artist/2nYd73dbyjISStc2mctJP1) | [Wake Up](https://open.spotify.com/album/1kWIyLrS0Rx0v54hEKqPko) | 2:57 |
+| 117 | [Joyce](https://open.spotify.com/track/6HbaRX0JyF1vinGfCFV8Cx) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Joyce](https://open.spotify.com/album/3pt68E8P61O0iGT372c1Mg) | 2:56 |
+| 118 | [Hullabaloo](https://open.spotify.com/track/7kfKhEayenoX9YnaBXVY3g) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Hullabaloo](https://open.spotify.com/album/5zY8QAy8jGbkHHuEXY3irG) | 2:30 |
+| 119 | [Quien Eres](https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s) | [Judy Buendia](https://open.spotify.com/artist/21ujQ8j6gHJn9MoZXH5loj) | [Quien Eres](https://open.spotify.com/album/3NF8zAVmldN1oms4GcL0pm) | 2:04 |
+| 120 | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/track/5n8HwMlwjGp0VdurDGvOJM) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi), [yabé](https://open.spotify.com/artist/6LUl64133PPCqiyKZorEvL) | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/album/4IEg1BWzunj5kSuW45yJ17) | 4:11 |
+| 121 | [Without Me](https://open.spotify.com/track/5jlMa8TatNyCp8945hkvri) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Without Me](https://open.spotify.com/album/0J3SIEQLjkEXmGHw9dNWcD) | 4:01 |
+| 122 | [Happiness](https://open.spotify.com/track/6fFJ3c5SKxaDnEdpXkxZ8A) | [LVRRY J](https://open.spotify.com/artist/6gq5HvkBMs8UmxXnD3bbUH) | [Happiness](https://open.spotify.com/album/4DMC384Oxj11jTXAkS9lJD) | 3:33 |
 
-Snapshot ID: `MzA2OSwyOTNlYzNiYTdmYmVhYTUxYmE1YmZjMDhmZDkwNDU0MTFhNmE3MjA0`
+Snapshot ID: `MzA3OCwxZGRhNmZiOWEyNjAwZDgzNjJhOWIyZjE1YzI4YzdiZjQ4YTU2NDBk`

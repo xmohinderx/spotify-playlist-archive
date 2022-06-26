@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 515111,
       "name": "Curve",
       "url": "https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 382194,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3XI5xmqIiDqdHF7vLZUnfL"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2020-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 447201,
       "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
       "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2020-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 225000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
@@ -3031,7 +3031,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 427658,
       "name": "Mdogo",
       "url": "https://open.spotify.com/track/4D05ikAdhRGPUn5coE8DKl"
@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "Run",
       "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
@@ -4779,6 +4779,24 @@
       "duration_ms": 468816,
       "name": "Stone Flower - Original",
       "url": "https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI"
+    },
+    {
+      "album": {
+        "name": "Storia Infinita - Chapter Three",
+        "url": "https://open.spotify.com/album/417hmxteoKV7nKVsWQ46jH"
+      },
+      "artists": [
+        {
+          "name": "Fran&co",
+          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418364,
+      "name": "Storia Infinita",
+      "url": "https://open.spotify.com/track/0L74Azd7cF1Rrt0Nkx9n0s"
     },
     {
       "album": {
@@ -5619,7 +5637,7 @@
       ],
       "date_added": "2020-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 499598,
       "name": "Zero Dark Thirty",
       "url": "https://open.spotify.com/track/7H2Y5DWXu15KR0cwvKIx3q"
@@ -5655,7 +5673,7 @@
       ],
       "date_added": "2019-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 450627,
       "name": "Zero One Lotus",
       "url": "https://open.spotify.com/track/5PCI2qhaJ9O4CojCKPjIPG"
@@ -5677,7 +5695,7 @@
       ],
       "date_added": "2021-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 410500,
       "name": "\u00dcbermod",
       "url": "https://open.spotify.com/track/5L0Zzom4fSF9vpgGXHCc8I"

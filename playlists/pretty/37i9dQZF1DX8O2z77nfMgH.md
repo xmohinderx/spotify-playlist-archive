@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,228 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,401 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [De Rumba](https://open.spotify.com/track/7s0xUU0lf8HThUrcH9NjGd) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [De Rumba](https://open.spotify.com/album/3n3geDTmitXddeTLm6GmKL) | 3:41 |
 | 19 | [MI WOMAN](https://open.spotify.com/track/49vVap9BA2EbPuFer5uw9l) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [MI WOMAN](https://open.spotify.com/album/20VB81oLTLjAgXAguNcaNt) | 2:56 |
 | 20 | [Kali](https://open.spotify.com/track/560oN6Cr5LUNNp2u3ORQo9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Kali](https://open.spotify.com/album/0K1GMEQqlu3HXC2LRbjRXV) | 2:39 |
-| 21 | [Ice On My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice On My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
+| 21 | [Ice on My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice on My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
 | 22 | [Ibiza](https://open.spotify.com/track/2g6C2LvQTxrqq3ncYWG9nO) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Luciano](https://open.spotify.com/artist/7pb926owWkly4sZus8Esnk) | [Ibiza](https://open.spotify.com/album/7nnxK28W7MA5Pe6ptn8mQ3) | 3:08 |
 | 23 | [Lo Noto](https://open.spotify.com/track/5ozRnErLmyoIyltM63Izyy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Lo Noto](https://open.spotify.com/album/4JD37LgOaBsFO5d1yWBSBK) | 5:07 |
 | 24 | [3 Likes](https://open.spotify.com/track/2xZfy3hwWCigMcQ6GYOZJI) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [teoh](https://open.spotify.com/artist/61wE1ArCFvqhi7aMMsawAw) | [Frijo](https://open.spotify.com/album/2K93k2IqAnN7F0jAlOxdO0) | 4:03 |

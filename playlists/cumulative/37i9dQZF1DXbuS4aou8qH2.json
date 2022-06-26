@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 183306,
       "name": "Aye Yai Yai (with Yung Bleu)",
       "url": "https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. WizKid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 193076,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 161344,
       "name": "Good Times (feat. Offset)",
       "url": "https://open.spotify.com/track/3j3Pdp9PvAhdJQ1asYh6hS"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 243293,
       "name": "Hennessy Tears",
       "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 136695,
       "name": "IN THE AIR",
       "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 158882,
       "name": "LEMME FIND OUT",
       "url": "https://open.spotify.com/track/2aMi7wkUtVZ7QTm6paGgox"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 122364,
       "name": "Let 'Em",
       "url": "https://open.spotify.com/track/6yPUwdZ7mpm00GJFgqi3WC"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/1xzUcOTO0neUmQ0Rnz96q3"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
@@ -1695,6 +1695,24 @@
       "duration_ms": 141346,
       "name": "poochie gown",
       "url": "https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6"
+    },
+    {
+      "album": {
+        "name": "PRICE OF FAME",
+        "url": "https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379004,
+      "name": "PRICE OF FAME",
+      "url": "https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH"
     },
     {
       "album": {
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 184347,
       "name": "Ride On It",
       "url": "https://open.spotify.com/track/5RRF6862TjrrWxaa1MFbmz"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
@@ -1925,6 +1943,28 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "album": {
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
     },
     {
       "album": {

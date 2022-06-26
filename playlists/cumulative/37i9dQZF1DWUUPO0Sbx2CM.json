@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 160775,
       "name": "Amazing Grace - HGHTS Remix",
       "url": "https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 380928,
       "name": "Anthem of Our Souls",
       "url": "https://open.spotify.com/track/3yDOQZjvEI3SVSCWeY5GcV"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 186974,
       "name": "Beautiful Chaos",
       "url": "https://open.spotify.com/track/0WnYgsf5qsiIoRArSrelF9"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 186200,
       "name": "Bigger Story",
       "url": "https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg"
@@ -461,10 +461,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 239109,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/6zLNRDotJGdEPuF1U0A6RP"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/349EARcBXYKZmwZklH2jGL"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212970,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/7t7DIWoyU902Qn5YNaKG84"
     },
     {
       "album": {
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Chasing Quiet",
       "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/5cdVjOTp2QPOmYlFuCtkAP"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 200350,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 145074,
       "name": "DYSFUNCTIONAL",
       "url": "https://open.spotify.com/track/1Ul8uZz3foXwCasaCPgVZb"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 214038,
       "name": "Electric",
       "url": "https://open.spotify.com/track/7AQxzmkhwBJwgSYr0qQTVf"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 211367,
       "name": "For The Ones We Love - Axel E Remix",
       "url": "https://open.spotify.com/track/7fGbnIBPPAB0YPhVIrKjFU"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 200133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 165080,
       "name": "Good Day (feat. Social Club Misfits)",
       "url": "https://open.spotify.com/track/382CUuS56h9lajPb215LuP"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 185426,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/7EixVppWsnZOvJJ4ZqET14"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 204271,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 196835,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 220200,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2sCLhumJK6miHTPJvl3IHE"
@@ -1985,10 +2003,32 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+    },
+    {
+      "album": {
+        "name": "If You Only Knew!",
+        "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "If You Only Knew!",
+      "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
     },
     {
       "album": {
@@ -2101,7 +2141,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 204927,
       "name": "King on the Inside",
       "url": "https://open.spotify.com/track/2NtGEO4J6TpOpXxhxpjQv5"
@@ -2293,7 +2333,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 174947,
       "name": "Little Bit More - Neon Feather Remix",
       "url": "https://open.spotify.com/track/71P3M3VFr6MNMxRp9vlNU3"
@@ -2413,7 +2453,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 222936,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
@@ -2515,7 +2555,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 254464,
       "name": "More Than Enough (Studio)",
       "url": "https://open.spotify.com/track/5Z5TKmLIeZZHazfNYajEcf"
@@ -2715,7 +2755,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 174573,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/16HcQdDA5srhtubE1iahCF"
@@ -2733,7 +2773,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 230120,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn"
@@ -3013,7 +3053,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 204776,
       "name": "Same God - Remix",
       "url": "https://open.spotify.com/track/5OCs8SURfADDJf5UZWHp4U"
@@ -3035,7 +3075,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 160909,
       "name": "Sanctuary - Harrison McQuade Remix",
       "url": "https://open.spotify.com/track/0yXUIcnTLiTla7fcGzIL8x"
@@ -3075,7 +3115,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
@@ -3207,7 +3247,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 221693,
       "name": "State Of Mind - Live",
       "url": "https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl"
@@ -3425,7 +3465,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
@@ -3447,7 +3487,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 207600,
       "name": "Through People Like Me - Chris Howland Remix",
       "url": "https://open.spotify.com/track/5q6iykOAJ0N2fe7wvj0r3A"
@@ -3615,7 +3655,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "Up Again (Lucky Rose Remix)",
       "url": "https://open.spotify.com/track/22gFNeEYuXuElY2QsLeMqx"
@@ -3717,7 +3757,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 172066,
       "name": "We Still Believe - Remix",
       "url": "https://open.spotify.com/track/3IyUixEWL1I5B5UavP8b8n"
@@ -3735,7 +3775,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 218965,
       "name": "Where the Light Dances",
       "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
@@ -3841,7 +3881,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 191517,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
@@ -3863,7 +3903,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 281005,
       "name": "Wind + Waves (Remix)",
       "url": "https://open.spotify.com/track/1WC5JP6agemSOQIfQcElzz"
@@ -3929,7 +3969,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 193809,
       "name": "Working On It",
       "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
@@ -3983,7 +4023,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 180977,
       "name": "You",
       "url": "https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u"
@@ -4037,7 +4077,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"

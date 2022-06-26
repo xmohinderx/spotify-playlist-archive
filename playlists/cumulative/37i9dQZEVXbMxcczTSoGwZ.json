@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 177120,
       "name": "666",
       "url": "https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 203991,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/7ozJ4D8Cy4DtoFRmoRZFVJ"
@@ -3119,7 +3119,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-28",
+      "date_removed": null,
       "duration_ms": 198992,
       "name": "Ei suomalaiset tanssi",
       "url": "https://open.spotify.com/track/36knYZNgwftBUhMZOzmtmE"
@@ -3627,7 +3627,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 207155,
       "name": "Esson baariin",
       "url": "https://open.spotify.com/track/2SNZVqgDiiuOUe2qPOW1m1"
@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -4387,7 +4387,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 233218,
       "name": "GoDdAmN",
       "url": "https://open.spotify.com/track/4PvlDeYk2aAk2dZATFxBWO"
@@ -4557,7 +4557,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 190848,
       "name": "haluun takas mun perhoset",
       "url": "https://open.spotify.com/track/3bIKi7iQ8lnX5oA8xILBon"
@@ -4609,7 +4609,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 185000,
       "name": "Hamilton",
       "url": "https://open.spotify.com/track/6tFwZLexH09mmn8RMHufhe"
@@ -6335,7 +6335,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 215280,
       "name": "Jenny (I Wanna Ruin Our Friendship)",
       "url": "https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv"
@@ -6613,7 +6613,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 168679,
       "name": "Juhannussimaa",
       "url": "https://open.spotify.com/track/3ij0v9XBzmFroP7HFuJPrk"
@@ -6823,7 +6823,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 183130,
       "name": "Kaikella on tarkoitus",
       "url": "https://open.spotify.com/track/32aGs7ETdVRBy7JsEKravb"
@@ -6917,7 +6917,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 205252,
       "name": "Kaikki paitsi syd\u00e4n",
       "url": "https://open.spotify.com/track/74efghIFJsznqDh0pHDZg4"
@@ -7987,7 +7987,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 183906,
       "name": "Kuuma kes\u00e4",
       "url": "https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf"
@@ -9597,7 +9597,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Mik\u00e4 kes\u00e4?",
       "url": "https://open.spotify.com/track/2lkdkMYCogQm5ef6tqYjz2"
@@ -9663,6 +9663,28 @@
       "duration_ms": 202736,
       "name": "Minne ikin\u00e4 s\u00e4 meet",
       "url": "https://open.spotify.com/track/5jvVMZK9HdLY31bNJwDEt0"
+    },
+    {
+      "album": {
+        "name": "Valmistaudu olemaan v\u00e4\u00e4r\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/3f4QLbL0KicOM6DALDILxj"
+      },
+      "artists": [
+        {
+          "name": "Kymppilinja",
+          "url": "https://open.spotify.com/artist/2iIiVyUXeYOzrWnPd3YEbP"
+        },
+        {
+          "name": "Mariska",
+          "url": "https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "Min\u00e4 (feat. Mariska)",
+      "url": "https://open.spotify.com/track/3gYHMSi0QXprEALlsYDgF5"
     },
     {
       "album": {
@@ -11021,7 +11043,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 197456,
       "name": "Omaa lomaa (feat. Portion Boys)",
       "url": "https://open.spotify.com/track/31Uejc1IcBfwXy7f5IepM3"
@@ -11417,6 +11439,24 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "N\u00e4in k\u00e4y rock & roll",
+        "url": "https://open.spotify.com/album/5fwbHpXstuT9wYFSTC2ESV"
+      },
+      "artists": [
+        {
+          "name": "Rauli Badding Somerjoki",
+          "url": "https://open.spotify.com/artist/41pdyfGuyQnEudG0jseanl"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158466,
+      "name": "Paratiisi",
+      "url": "https://open.spotify.com/track/5QFDqIgiyNkCiUVLM40CkD"
     },
     {
       "album": {
@@ -12223,7 +12263,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 164953,
       "name": "Rakkautta ja piikkilankaa",
       "url": "https://open.spotify.com/track/3u8gd2SedmlhbV3dA8u5Xz"
@@ -12549,7 +12589,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 165483,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/6mJnb88Q0RupbFaQPScT3R"
@@ -12705,6 +12745,24 @@
       "duration_ms": 243120,
       "name": "Saappaat",
       "url": "https://open.spotify.com/track/2ZkpSLweVJypeqIjNZpHnA"
+    },
+    {
+      "album": {
+        "name": "H\u00e4\u00e4v\u00e4ki Saapuu",
+        "url": "https://open.spotify.com/album/3DNI1mewqthygf7xxLaX5Z"
+      },
+      "artists": [
+        {
+          "name": "Elokuu",
+          "url": "https://open.spotify.com/artist/0LqzBv7bOc73BPn8du1K2o"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Saatilla",
+      "url": "https://open.spotify.com/track/6xf85mBVo3o0E4oZHurPcB"
     },
     {
       "album": {
@@ -14101,7 +14159,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 210434,
       "name": "Suomen muotoisen pilven alla",
       "url": "https://open.spotify.com/track/5QpGnKXlXiW1SNCYifJHXt"
@@ -14175,6 +14233,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Suvi",
+        "url": "https://open.spotify.com/album/0OoadqWRn0riK8OkTgAlaF"
+      },
+      "artists": [
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181896,
+      "name": "Suvi",
+      "url": "https://open.spotify.com/track/5W5OKASwBL7vEi2dPlFeh5"
     },
     {
       "album": {
@@ -14471,7 +14547,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 159432,
       "name": "S\u00e4\u00e4nt\u00f6i (feat. Stafa)",
       "url": "https://open.spotify.com/track/6BjYoI5TKTYEEZntqd13Ft"
@@ -16451,6 +16527,24 @@
     {
       "album": {
         "name": "Villiel\u00e4in",
+        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Villiel\u00e4in",
+      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
+    },
+    {
+      "album": {
+        "name": "Villiel\u00e4in",
         "url": "https://open.spotify.com/album/50hbFhnyr8QnsYfahCgqdl"
       },
       "artists": [
@@ -16461,7 +16555,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/6vmFYA9uGxkS7u8c651KnL"

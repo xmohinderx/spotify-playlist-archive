@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Ain't Died In Vain",
+        "url": "https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Ain't Died In Vain",
+      "url": "https://open.spotify.com/track/5tXDVieP5trNSb9cco2ZRt"
+    },
+    {
+      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 147741,
       "name": "Signed to God",
       "url": "https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA"

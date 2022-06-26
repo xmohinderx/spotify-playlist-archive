@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 158688,
       "name": "Back Tomorrow - GUZ Remix",
       "url": "https://open.spotify.com/track/4AkpGE7ndYDXH192s9vQTU"
@@ -1008,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210142,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8"
+    },
+    {
+      "album": {
         "name": "Burn This House",
         "url": "https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956"
       },
@@ -1109,7 +1127,7 @@
       },
       "artists": [
         {
-          "name": "Jaded",
+          "name": "JADED",
           "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
         }
       ],
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 210704,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3PkiB253ErJjaAfsiDm7Kk"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 195118,
       "name": "Carnaval de Paris",
       "url": "https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 152669,
       "name": "Dancing Clich\u00e9",
       "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 265373,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/1wDrVNnmrB4S46lvJ3WXPK"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 207426,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0yiDgx6WOtlJCVPQ5Q7Ob3"
@@ -2475,7 +2493,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 170039,
       "name": "Get This Feeling",
       "url": "https://open.spotify.com/track/3uqsEcdRWuZWkgQdhxwaxU"
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 167340,
       "name": "I\u2019ve Been Missing You",
       "url": "https://open.spotify.com/track/7tRNDdDcUQqrOPHfIIbzGd"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 187086,
       "name": "Jack Machine",
       "url": "https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx"
@@ -3495,7 +3513,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 174600,
       "name": "La candela viva",
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
@@ -3747,7 +3765,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 235200,
       "name": "Let's Talk About",
       "url": "https://open.spotify.com/track/4FtepXAk5Z9HkL4MsK9cWD"
@@ -4039,7 +4057,7 @@
       },
       "artists": [
         {
-          "name": "Jaded",
+          "name": "JADED",
           "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
         }
       ],
@@ -4873,7 +4891,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 261262,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/2gWFyWzAUvGwlt0V7B9WPs"
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 233836,
       "name": "Palm Beach Banga",
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
@@ -5103,7 +5121,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 198387,
       "name": "Power",
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
@@ -5245,7 +5263,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 249453,
       "name": "Relationship Is",
       "url": "https://open.spotify.com/track/3o0Cq92OL7QnXJUY4F6zBz"
@@ -5607,7 +5625,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 238357,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY"
@@ -6017,7 +6035,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
@@ -6155,7 +6173,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA"
@@ -6195,7 +6213,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -6437,7 +6455,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
@@ -6771,7 +6789,7 @@
       },
       "artists": [
         {
-          "name": "Jaded",
+          "name": "JADED",
           "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
         }
       ],
@@ -6975,7 +6993,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"

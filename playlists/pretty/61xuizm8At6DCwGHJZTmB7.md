@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 111,696 likes - 98 songs - 8 hr 59 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 111,708 likes - 98 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 |
 | 2 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
-| 3 | [Yesterday, Today, And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
+| 3 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
 | 4 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 |
 | 5 | [Alpha Omega \- Live](https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 5:54 |
 | 6 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 |

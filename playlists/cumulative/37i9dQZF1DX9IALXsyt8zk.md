@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-132 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+133 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [GOT'YA](https://open.spotify.com/track/4aLsggi5JL0YD8AmaSENHU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [GOT'YA](https://open.spotify.com/album/4phVHu6OqTgmLD9C14NAU3) | 3:18 | 2021-12-30 | 2022-01-07 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-30 |  |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-12-30 | 2022-05-06 |
+| [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-25 |  |
 | [i \(Feat\. DON MALIK\)](https://open.spotify.com/track/7IphAtdrtngWKPWRRHmDtC) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [i](https://open.spotify.com/album/1WWfi7sIM78ZN4st2ezuE4) | 2:59 | 2022-04-20 | 2022-06-18 |
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-18 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-12-30 | 2022-04-21 |

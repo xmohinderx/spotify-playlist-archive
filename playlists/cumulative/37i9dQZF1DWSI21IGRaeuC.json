@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 395120,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 422400,
       "name": "Dance Of The Shaman",
       "url": "https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 331642,
       "name": "Dangerous - Bailey Ibbs Remix",
       "url": "https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 421381,
       "name": "Free",
       "url": "https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu"
@@ -434,6 +434,28 @@
     },
     {
       "album": {
+        "name": "Lightspeed",
+        "url": "https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        },
+        {
+          "name": "GOUX",
+          "url": "https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382606,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q"
+    },
+    {
+      "album": {
         "name": "Kids Love Acid House",
         "url": "https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb"
       },
@@ -445,7 +467,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 420779,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 355151,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4pzKf9d5woftnKhWzELZoS"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 159374,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y"
@@ -669,7 +691,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 214595,
       "name": "Oh Really",
       "url": "https://open.spotify.com/track/1AhLqJ6z2aIV17F0ijJvJR"
@@ -727,7 +749,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 330233,
       "name": "Pasi De Dans",
       "url": "https://open.spotify.com/track/4pRKY2GJfRNH0Mytif1EZ1"
@@ -821,6 +843,24 @@
       "duration_ms": 203437,
       "name": "Roll Play",
       "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
+    },
+    {
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "album": {
@@ -1030,6 +1070,28 @@
     },
     {
       "album": {
+        "name": "The Attention Deficit Track",
+        "url": "https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228420,
+      "name": "The Attention Deficit Track - Edit",
+      "url": "https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm"
+    },
+    {
+      "album": {
         "name": "The Ciggie",
         "url": "https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7"
       },
@@ -1121,7 +1183,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 462868,
       "name": "Troll",
       "url": "https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9"
@@ -1175,7 +1237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 423934,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj"

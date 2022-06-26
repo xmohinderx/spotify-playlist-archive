@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,548 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,541 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 |
+| 1 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 |
 | 2 | [Sans moi](https://open.spotify.com/track/40T4zsCXatvHaSM7AIss0I) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Sans moi](https://open.spotify.com/album/2WcyqgoOMzKJeExjS0hiW6) | 3:38 |
 | 3 | [Ice](https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:23 |
 | 4 | [Quand qu'la bière me pousse dins mains](https://open.spotify.com/track/6l5K9XrmPEU4NQhcjggoZF) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [Quand qu'la bière me pousse dins mains](https://open.spotify.com/album/36G4yzXMHEvEGE9ptpZX3w) | 2:13 |

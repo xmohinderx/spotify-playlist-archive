@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-755 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+757 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-01-19 |  |
 | [Heavenly Father \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/2OZhWugxgM4wvjI3MXRhJg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:45 | 2022-01-19 |  |
 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-05-18 |  |
+| [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 | 2022-06-24 |  |
 | [Help \- Recorded at East West Studios](https://open.spotify.com/track/5FY4iA2mqnJiYwWh3JB2gA) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 3:42 | 2022-01-19 |  |
 | [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:09 | 2022-01-19 |  |
 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 | 2022-01-19 |  |
@@ -424,6 +425,7 @@
 | [Love So Soft \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 2:54 | 2022-01-19 |  |
 | [Love Somebody](https://open.spotify.com/track/7onurzG7nyLWQUGvdySaNS) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 5:10 | 2022-01-19 |  |
 | [Love Someone \(feat\. Sabina Ddumba\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0XxW0lU2ZgFvMzVF6F3Xb5) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Spotify Singles](https://open.spotify.com/album/4kcKkpeoD0ZcykltRXb0Ty) | 3:28 | 2022-01-19 |  |
+| [Love Sux – Spotify Singles](https://open.spotify.com/track/3ETIiuhw1yqp7ALasQPqdw) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 2:54 | 2022-06-24 |  |
 | [Love You Anymore \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/16ccm8UqDN07CBuE9pQ77B) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 4:12 | 2022-01-19 |  |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2022-01-19 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,770 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,852 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 31 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 |
 | 32 | [My Level](https://open.spotify.com/track/1Z9rBDVCdQSnL8ExSU79L3) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [My Level](https://open.spotify.com/album/6wSN6KxFGNG8avrcz2SSfX) | 3:19 |
 | 33 | [LOVE THYSELF \(feat\. Teedra Moses\)](https://open.spotify.com/track/6E19OB9wWtKm9t0quSD8y4) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:38 |
-| 34 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
+| 34 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 |
 | 35 | [LEVELS](https://open.spotify.com/track/0BTKi9jL3v8WkkUXa329lE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [LEVELS](https://open.spotify.com/album/3QWau9TzZ2MYgoTY5QYdp0) | 2:42 |
 | 36 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 |
 | 37 | [Way I Like](https://open.spotify.com/track/5msgUaS4MMn0gHpdsRemgU) | [TRP.P](https://open.spotify.com/artist/44W1i1CmiwzwvMMBKoRpEA) | [Way I Like](https://open.spotify.com/album/26puHppOKSVpHx0yyh8szX) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 |
 | 100 | [Girlfriend](https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Girlfriend](https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy) | 2:47 |
 
-Snapshot ID: `MTY1NjExOTA2NywwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5`
+Snapshot ID: `MTY1NjIwNTYyNCwwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5`

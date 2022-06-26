@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: Baco Exu do Blues, Luísa Sonza
 
-104 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+104 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-01-14 | 2022-03-26 |
 | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 | 2022-01-14 |  |
 | [Solinho](https://open.spotify.com/track/4sIFFlKwckHSuv3asqc49L) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Solinho](https://open.spotify.com/album/33llek0CGCOcGmALy12znK) | 2:06 | 2022-01-14 | 2022-02-19 |
-| [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:04 | 2022-06-24 |  |
+| [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:25 | 2022-06-24 |  |
 | [SORRIA](https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [SORRIA](https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs) | 3:01 | 2022-01-14 | 2022-05-07 |
 | [Tenho o Poder](https://open.spotify.com/track/1RbGo06dE8jfdWgrsNOamb) | [Larissa Manoela](https://open.spotify.com/artist/1454TL51gTbW2Vm5XCFhtv), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Tenho o Poder](https://open.spotify.com/album/0pS3OTwONyXAX4EBxSTTgM) | 3:11 | 2022-03-11 | 2022-04-07 |
 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 | 2022-01-14 |  |

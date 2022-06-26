@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: love\-sadKID
 
-232 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+233 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Sun For Someone](https://open.spotify.com/track/6zFgvkoo3TAYvl0wKiEy6I) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Breathe Deep](https://open.spotify.com/album/4PA3wV5p1TMLk2e27RuDGq) | 5:03 | 2021-11-12 | 2022-03-12 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2021-11-12 | 2022-06-25 |
 | [Sunflower](https://open.spotify.com/track/6C1u5c21S37nBvyu9d44YN) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Sunflower](https://open.spotify.com/album/1tTLeFvFpXow2T6qAvVefB) | 2:45 | 2022-03-18 |  |
+| [Superman](https://open.spotify.com/track/4c7v2ZwjrBa2AFFbHEmywA) | [BradBrooks](https://open.spotify.com/artist/6M6rZlL20NFRT9T1kapWX4), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s) | [Superman](https://open.spotify.com/album/6s52jTyzBsamudBcHvEHSM) | 3:16 | 2022-06-24 |  |
 | [Sweet Isolation](https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Sweet Isolation](https://open.spotify.com/album/1foSNOxKYjwcWp1St0pcIl) | 5:38 | 2022-05-20 |  |
 | [Sweet Memory, Pt\. 1](https://open.spotify.com/track/1WNFbMsWuGefzlGvOfluqB) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Dublin](https://open.spotify.com/artist/0TFsq4aXPtkGuboG5jjNGf), [Jazz Mafia Symphony](https://open.spotify.com/artist/7A2nbrx7r0Qe11UkyaBV7L) | [Family Business](https://open.spotify.com/album/5sUx84YHw7x4rH5wUnXPv3) | 6:13 | 2022-04-29 |  |
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2021-12-10 | 2022-02-19 |

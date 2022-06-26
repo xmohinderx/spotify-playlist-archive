@@ -1,12 +1,12 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Erica Banks",
-  "num_followers": 2227724,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
+  "num_followers": 2230112,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc4NDA2MCwwMDAwMDQ5YTAwMDAwMTgxODQ2YmI0YzUwMDAwMDE4MTZkZTIwMGMw",
+  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDQ5YjAwMDAwMTgxOTNkZGRlYjgwMDAwMDE4MTkyY2Y4MGY4",
   "tracks": [
     {
       "added_at": "2022-06-21 04:01:00",
@@ -43,34 +43,22 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Conceited",
-        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Diary of The Flow Queen",
-        "url": "https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2"
-      },
-      "artists": [
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
         {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 187875,
-      "name": "Trick",
-      "url": "https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe"
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -111,6 +99,54 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Throw a Lil Mo (Do It)",
+        "url": "https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Throw a Lil Mo (Do It)",
+      "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
         "name": "We Not Humping (Remix)",
         "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
       },
@@ -131,18 +167,34 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Throw a Lil Mo (Do It)",
-        "url": "https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo"
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
       "artists": [
         {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 125760,
-      "name": "Throw a Lil Mo (Do It)",
-      "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -175,50 +227,18 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
         }
       ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Gimme Head",
-        "url": "https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 179984,
-      "name": "Gimme Head",
-      "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+      "duration_ms": 123428,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -239,18 +259,74 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "8 Year Run",
+        "url": "https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea"
+      },
+      "artists": [
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "duration_ms": 130750,
+      "name": "8 Year Run",
+      "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Diary of The Flow Queen",
+        "url": "https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 187875,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -287,6 +363,90 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "GYHO",
+        "url": "https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm"
+      },
+      "artists": [
+        {
+          "name": "Amber Rose",
+          "url": "https://open.spotify.com/artist/207ytqBvodcHqwHP7Efu6w"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "GYHO",
+      "url": "https://open.spotify.com/track/47P3w42tJWC62ESBJNl05O"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Gimme Head",
+        "url": "https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "duration_ms": 179984,
+      "name": "Gimme Head",
+      "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+    },
+    {
+      "added_at": "2022-06-17 13:38:17",
+      "album": {
         "name": "The One (Sprite Limelight)",
         "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
@@ -299,42 +459,6 @@
       "duration_ms": 135733,
       "name": "The One (Sprite Limelight)",
       "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
-      },
-      "artists": [
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -355,26 +479,6 @@
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -431,26 +535,6 @@
       "duration_ms": 166365,
       "name": "Spring, Summer",
       "url": "https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -595,26 +679,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Big Energy (feat. DJ Khaled) [Remix]",
         "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
       },
@@ -635,26 +699,6 @@
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -691,22 +735,6 @@
       "duration_ms": 147789,
       "name": "Brand New Rolex",
       "url": "https://open.spotify.com/track/0rOc6dyoDZENV8mJQ2gnQz"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-06-17 13:38:17",
@@ -795,22 +823,6 @@
     {
       "added_at": "2022-06-17 13:38:17",
       "album": {
-        "name": "LL Cool J",
-        "url": "https://open.spotify.com/album/28tjTRoy8DLPOFntXpUxRk"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 193888,
-      "name": "LL Cool J",
-      "url": "https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
         "name": "Clap (feat. Latto)",
         "url": "https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk"
       },
@@ -843,30 +855,6 @@
       "duration_ms": 134780,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
-    },
-    {
-      "added_at": "2022-06-17 13:38:17",
-      "album": {
-        "name": "PTPOM (Shemix)",
-        "url": "https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        },
-        {
-          "name": "ShantiiP",
-          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
-        },
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "PTPOM - Shemix",
-      "url": "https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C"
     },
     {
       "added_at": "2022-06-17 13:38:17",

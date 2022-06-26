@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,896 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,183 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

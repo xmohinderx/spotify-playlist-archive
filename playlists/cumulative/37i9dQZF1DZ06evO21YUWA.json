@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 392866,
       "name": "Algebra Of Darkness",
       "url": "https://open.spotify.com/track/7DQ5iTUGwwb91LJH0RqKib"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 4168000,
       "name": "As Long as I Can Hold My Breath - By Night",
       "url": "https://open.spotify.com/track/6ScM7dC3yQRmcoxhI7MPyq"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 299733,
       "name": "Boy About 10",
       "url": "https://open.spotify.com/track/4aAkYp6k2sP2WsBiFyaF8J"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 265637,
       "name": "Coral",
       "url": "https://open.spotify.com/track/4f0dk1zybHCaFJcty6jKch"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 233773,
       "name": "Dream on",
       "url": "https://open.spotify.com/track/1zdF61aWVxqmQehEjYkfzf"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 249933,
       "name": "Eyes Are Mosaics",
       "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
@@ -571,6 +571,24 @@
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77613,
+      "name": "Faraon",
+      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
     },
     {
       "album": {
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 236466,
       "name": "How Vacantly You Stare at Me",
       "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Ice Floes In Eden",
       "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 62946,
       "name": "It's Steeper Near the Roses (For David Sylvian)",
       "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 221280,
       "name": "Ooze Out And Away, Onehow",
       "url": "https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 323733,
       "name": "Rue Casimir Delavigne (For Daniel Lentz)",
       "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
@@ -1160,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419546,
+      "name": "Smiling Apart",
+      "url": "https://open.spotify.com/track/4DWkWukoZhOfNbN4juMuPF"
+    },
+    {
+      "album": {
         "name": "Another Flower",
         "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
       },
@@ -1223,7 +1263,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 89813,
       "name": "Steal Away - Remastered 2004",
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
@@ -1329,7 +1369,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "The Chill Air - Remastered 2004",
       "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
@@ -1391,7 +1431,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 194453,
       "name": "The Pearl - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
@@ -1599,7 +1639,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 204106,
       "name": "You Again",
       "url": "https://open.spotify.com/track/2AukRdyCuqfBHnNUUI7uoE"

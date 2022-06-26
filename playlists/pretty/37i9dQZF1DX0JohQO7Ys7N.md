@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3?si=LgxzKKNFR3uO4y90vt5wQw"> Emma Cheruto </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9?si=5g3uh90RQ4qZxy\-63eQnSg"> Umoja Sounds </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,112 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,176 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Nice Car](https://open.spotify.com/track/1m7tvMnLjtzNiFxj5QKBTP) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Shift Happens](https://open.spotify.com/album/1kxF3nkx9EbPqT3p5g6dCC) | 3:48 |
 | 60 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 |
 
-Snapshot ID: `MTY1NjAxNzk0MCwwMDAwMDAxYTAwMDAwMTgxOTI1YzZlODcwMDAwMDE4MTkxMWZiNTI3`
+Snapshot ID: `MTY1NjA5MTUxNCwwMDAwMDAxYjAwMDAwMTgxOTZiZjE1MmMwMDAwMDE4MTk2YmQ3MzBi`

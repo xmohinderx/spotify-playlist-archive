@@ -1,13 +1,33 @@
 {
   "description": "The Real hip-hop. Cover: Chance The Rapper",
-  "num_followers": 1081377,
+  "num_followers": 1081584,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ3MzEyMCwwMDAwMDFhYzAwMDAwMTgxNzFlMzIzMGUwMDAwMDE4MTI3ZDcyNzAx",
+  "snapshot_id": "MTY1NjAzODY1OCwwMDAwMDFhZDAwMDAwMTgxOTM5ODkyOWEwMDAwMDE4MTI3ZDcyNzAx",
   "tracks": [
+    {
+      "added_at": "2022-06-24 02:44:18",
+      "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234089,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4"
+    },
     {
       "added_at": "2022-06-17 13:38:39",
       "album": {
@@ -127,6 +147,22 @@
       "duration_ms": 177788,
       "name": "Kind of Girl",
       "url": "https://open.spotify.com/track/7jLAeMiItnMaSOl8QGIMdL"
+    },
+    {
+      "added_at": "2022-06-24 02:44:18",
+      "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
       "added_at": "2022-06-17 13:38:39",
@@ -915,54 +951,6 @@
       "duration_ms": 172919,
       "name": "Emo Stick",
       "url": "https://open.spotify.com/track/1skLCDR1M1zPulz3lgiZJt"
-    },
-    {
-      "added_at": "2022-06-17 13:38:39",
-      "album": {
-        "name": "Continuance",
-        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Louis Baggage (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
-    },
-    {
-      "added_at": "2022-06-17 13:38:39",
-      "album": {
-        "name": "God Don't Make Mistakes",
-        "url": "https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 253125,
-      "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
-      "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
     }
   ],
   "unique_name": "Mind Right",

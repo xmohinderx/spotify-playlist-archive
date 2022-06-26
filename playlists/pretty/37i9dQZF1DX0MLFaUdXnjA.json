@@ -1,12 +1,12 @@
 {
   "description": "Keep it low-key with all of today's chill pop. Cover: Taylor Swift",
-  "num_followers": 1775220,
+  "num_followers": 1777521,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzI2MCwwMDAwMDExMDAwMDAwMTgxOTNkZWM5MGEwMDAwMDE4MTg5YTZiZGM5",
+  "snapshot_id": "MTY1NjE4MzAwMywwMDAwMDExMTAwMDAwMTgxOWMzMzE4OGYwMDAwMDE4MTg5YTZiZGM5",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "What's Been On Your Mind?",
-        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 172490,
-      "name": "What's Been On Your Mind?",
-      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Light Of My Life",
         "url": "https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU"
       },
@@ -195,18 +179,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Love of My Life",
-        "url": "https://open.spotify.com/album/2aH0R3lc7cJVwjiQTzoBYp"
+        "name": "What's Been On Your Mind?",
+        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
       },
       "artists": [
         {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 232186,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/2KC89XSvZn9EEk8Dt7VuG9"
+      "duration_ms": 172490,
+      "name": "What's Been On Your Mind?",
+      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -223,6 +207,22 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/7q9YKaWxCfnAggtc92Snxa"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Love of My Life",
+        "url": "https://open.spotify.com/album/2aH0R3lc7cJVwjiQTzoBYp"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/2KC89XSvZn9EEk8Dt7VuG9"
     },
     {
       "added_at": "2022-06-24 04:01:00",

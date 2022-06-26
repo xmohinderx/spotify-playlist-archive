@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: So It Goes H.K
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-135 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+138 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Broken Promise](https://open.spotify.com/track/4q8H4RpARg1R2CQYt4jukc) | [Tang.](https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx) | [Broken Promise](https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf) | 4:20 | 2022-05-26 | 2022-06-10 |
 | [Bunker Song](https://open.spotify.com/track/6SmLKD0TYw99C9qQvBKhYt) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Bunker Song](https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf) | 5:22 | 2022-05-26 | 2022-06-10 |
 | [By the Time](https://open.spotify.com/track/4V8pj7EUdmgTZwia2jyODJ) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [By the Time](https://open.spotify.com/album/34yWZHYLkQw6KWa1gHyqGe) | 3:12 | 2022-05-26 | 2022-06-10 |
+| [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-24 |  |
 | [caution tape](https://open.spotify.com/track/4kvxJvder2lfnQII57KmTR) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [caution tape](https://open.spotify.com/album/6xpY8pLdWXeTPvx9lqWyau) | 2:20 | 2022-05-26 | 2022-06-10 |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/2C4NU1PZKZQA6Qu5ej93qQ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Close my eyes 全部都係你](https://open.spotify.com/album/5bWvx8LCfaGYlJGk3n6Meg) | 3:10 | 2022-06-09 |  |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-26 |  |
@@ -49,6 +50,7 @@
 | [hypocritical](https://open.spotify.com/track/1pB2TGji7Df7lD4P1hlx2I) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [hypocritical](https://open.spotify.com/album/0myS8GbqDFVywteUX1Q2Ee) | 3:17 | 2022-06-02 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
 | [I'm not the one](https://open.spotify.com/track/3xqhWlBXXGrIYi1ayfYCqB) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [I'm not the one](https://open.spotify.com/album/0Vr2ZGzGQlXjQNvLAKbuL9) | 4:29 | 2022-05-26 |  |
+| [If I Would Have Known](https://open.spotify.com/track/6jn9lZE9wlNVap68nbYJ9Y) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [If I Would Have Known](https://open.spotify.com/album/1ER0gWPRaKzCcC9o7BGhta) | 3:21 | 2022-06-24 |  |
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 |  |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 |  |
 | [Lights Camera Action](https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [Harikiri](https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6) | [Lights Camera Action](https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG) | 2:14 | 2022-06-02 |  |
@@ -90,6 +92,7 @@
 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 | 2022-05-26 |  |
 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 | 2022-05-26 |  |
 | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/album/3mXyrQE4KOxpmYsEoh0yBQ) | 2:24 | 2022-05-26 |  |
+| [the world is coming to an end](https://open.spotify.com/track/04u0czCxTt1vRve8X8IuKb) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [the world is coming to an end](https://open.spotify.com/album/3YIpYfQ6CbfJT0eUunUwMP) | 3:55 | 2022-06-24 |  |
 | [TRIPPIN](https://open.spotify.com/track/5Zl1z10YibqcrDQhAeAYKw) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [TRIPPIN](https://open.spotify.com/album/7vNjpeuMAm22fVx44bqGZC) | 2:42 | 2022-05-26 | 2022-06-10 |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-05-26 |  |
 | [Two Of Us](https://open.spotify.com/track/6Gk4R6XmjbxPMy0rNFjAzU) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [KNOT](https://open.spotify.com/album/22qUrUMJwXtkB9tSyLBWac) | 5:15 | 2022-05-26 |  |

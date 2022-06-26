@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Alejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,209 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,321 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 26 | [Cheke](https://open.spotify.com/track/3mPbF5PObAaieo4FtoTi2Z) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [El Nuevo Testamento](https://open.spotify.com/album/5qDaJwOkMjgIfHLKXkcdon) | 3:13 |
 | 27 | [De Rumba](https://open.spotify.com/track/7s0xUU0lf8HThUrcH9NjGd) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [De Rumba](https://open.spotify.com/album/3n3geDTmitXddeTLm6GmKL) | 3:41 |
 | 28 | [3 Likes](https://open.spotify.com/track/2xZfy3hwWCigMcQ6GYOZJI) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [teoh](https://open.spotify.com/artist/61wE1ArCFvqhi7aMMsawAw) | [Frijo](https://open.spotify.com/album/2K93k2IqAnN7F0jAlOxdO0) | 4:03 |
-| 29 | [Ice On My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice On My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
+| 29 | [Ice on My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice on My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
 | 30 | [Lo Noto](https://open.spotify.com/track/5ozRnErLmyoIyltM63Izyy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Lo Noto](https://open.spotify.com/album/4JD37LgOaBsFO5d1yWBSBK) | 5:07 |
 | 31 | [Top Now \- Remix](https://open.spotify.com/track/5pg8n5K83tM320TKseOtI4) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Rvsell](https://open.spotify.com/artist/2xmDu3PEOUDICr2OpoKXUj), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Top Now \(Remix\)](https://open.spotify.com/album/7mKTboQGrtZDy1vDvr3VRc) | 3:53 |
 | 32 | [Estilo Cochino](https://open.spotify.com/track/6KSZID7WHo7DvKq3rUTLis) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Estilo Cochino](https://open.spotify.com/album/6O0dbJVWyTAQ7WzfZUD3pu) | 2:13 |

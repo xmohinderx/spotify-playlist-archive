@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2Nkgps2Df37Fw4eGIAOJw1"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 199768,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 212819,
       "name": "Closer Every Day",
       "url": "https://open.spotify.com/track/0k7QgrZl8uGvVT2E0ac2l6"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 216259,
       "name": "Do It Again (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/7zBGw9HjmWhcpscM2qSj9K"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 170237,
       "name": "Ready 2 Dance (with Biscits feat. Anelisa Lamola)",
       "url": "https://open.spotify.com/track/65rgchI8TW6KX4Zsesiu3i"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 183870,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -3453,6 +3453,32 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "Yo Por Ti",
+        "url": "https://open.spotify.com/album/7aEWCJNQbxmJTNF5VSUvIO"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Yo Por Ti",
+      "url": "https://open.spotify.com/track/31K3OZBhZqnulRkp7QsQPt"
     },
     {
       "album": {

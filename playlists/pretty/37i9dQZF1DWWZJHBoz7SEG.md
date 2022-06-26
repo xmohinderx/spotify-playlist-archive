@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Blessd y Rels B; Beyoncé, Duki, Imagine Dragons, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,911 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,941 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
 | 19 | [In My Feelings](https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [In My Feelings](https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At) | 2:54 |
 | 20 | [La Conga](https://open.spotify.com/track/3PEmOImLpBvwk6Ws3FExyq) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [La Conga](https://open.spotify.com/album/26H6rrll2DnUyLovMr9FZq) | 4:48 |
-| 21 | [Ice On My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice On My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
+| 21 | [Ice on My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice on My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
 | 22 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 |
 | 23 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 |
 | 24 | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |

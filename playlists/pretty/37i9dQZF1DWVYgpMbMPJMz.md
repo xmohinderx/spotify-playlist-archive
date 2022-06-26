@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Black Voices Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,107 likes - 98 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,123 likes - 98 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 7 | [Time and Time Again](https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Time and Time Again](https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc) | 5:16 |
 | 8 | [We Adore You](https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [REVERE: Brasil](https://open.spotify.com/album/7C1oFsJIw85C1Bi6zRkqwb) | 5:01 |
 | 9 | [Same God \- Radio Version](https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Same God \(Radio Version\)](https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5) | 4:24 |
-| 10 | [Yesterday, Today, And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
+| 10 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
 | 11 | [To Your Arms](https://open.spotify.com/track/2PICbElRrRVeIDcAreUeeC) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami) | 5:05 |
 | 12 | [In Jesus Name \(God of Possible\) \- Live](https://open.spotify.com/track/5eBNg5nAy9fw3dq9UO389L) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [In Jesus Name \(God of Possible\) \[Live\]](https://open.spotify.com/album/36UpsxvsA4iizloxTcYbE8) | 4:16 |
 | 13 | [Now Here \- In Studio](https://open.spotify.com/track/4hgrcAj2dsBf9Nen7IV3kg) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Now Here \(The Collection\)](https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc) | 3:42 |

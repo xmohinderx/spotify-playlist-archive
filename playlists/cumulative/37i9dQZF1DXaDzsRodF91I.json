@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 145573,
       "name": "Boss D.J.",
       "url": "https://open.spotify.com/track/7nT67qoRgqd5PxnlY9yjc7"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 201106,
       "name": "Can\u2019t Feel My Face",
       "url": "https://open.spotify.com/track/4dZEkHDfbTIOWaO5RP3F8e"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 241951,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/4t44u40vo1NHV6H4y0XmBV"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 212240,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 187404,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 249152,
       "name": "Every Teardrop Is a Waterfall",
       "url": "https://open.spotify.com/track/5m0YCRCIg3FYjGgA8gGKXv"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 181598,
       "name": "Forget Me Too",
       "url": "https://open.spotify.com/track/6E9Q1nAdi7S0LrogwfpKdZ"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 205127,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -865,6 +865,28 @@
       "duration_ms": 193632,
       "name": "How's It Gonna Be",
       "url": "https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2pJFftS8g9JPp57IJxHjiV"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "I Against I - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4VgtRoEKV5At6Ye31ZSzsW"
     },
     {
       "album": {
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 221238,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 232080,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/21u6zgstEm23O0P6NvVoIg"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 149380,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/6NtFxoIEN84Mu6AvNDaIXa"
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 202453,
       "name": "Los Angeles is burning",
       "url": "https://open.spotify.com/track/3FCrOGjsk0n0gpkrDxfskA"
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 211279,
       "name": "Reality Is a Ride on the Bus",
       "url": "https://open.spotify.com/track/325dEBL9MWkSl4xymaTckx"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 189506,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 337946,
       "name": "Shape of my Heart",
       "url": "https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK"
@@ -1637,7 +1659,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 150320,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/50ZvRtcsctYE4p7RX3DR6g"
@@ -1821,7 +1843,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 123900,
       "name": "We Are 138",
       "url": "https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA"
@@ -2185,7 +2207,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 207424,
       "name": "When the Angels Sing",
       "url": "https://open.spotify.com/track/1EH80N83sFOFhVRleeSoiG"
@@ -2225,7 +2247,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 257614,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO"

@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 160345,
       "name": "Concrete Jungle - Acoustic",
       "url": "https://open.spotify.com/track/4yxL6eoSsZ04lN0VezKgcr"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "Empty Streets (Acoustic Version)",
       "url": "https://open.spotify.com/track/7CO6vt2NYD2RvPWcELKvHT"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 213236,
       "name": "Everyday - Edit",
       "url": "https://open.spotify.com/track/6NbNiGJAhzdIoh7BVAxL5H"
@@ -2489,7 +2489,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 172060,
       "name": "Liability",
       "url": "https://open.spotify.com/track/4JyLFq2mHC8JPFTXHwYPWD"
@@ -2677,6 +2677,24 @@
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
+    },
+    {
+      "album": {
+        "name": "Love Like That",
+        "url": "https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
     },
     {
       "album": {
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 231748,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY"
@@ -4193,7 +4211,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
@@ -4355,7 +4373,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 179880,
       "name": "Taylor Swift 1989 Medley",
       "url": "https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3"
@@ -4571,7 +4589,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 226600,
       "name": "This Fire",
       "url": "https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P"
@@ -4701,7 +4719,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 208320,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/084opnma7Z8lJ8RQMTsMdt"
@@ -4975,6 +4993,28 @@
       "duration_ms": 222842,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/46vJQ8zGlk5ROgQAS7FggF"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
     },
     {
       "album": {

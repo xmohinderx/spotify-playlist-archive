@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,501 likes - 60 songs - 3 hr 3 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,502 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:05 |
+| 1 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 |
 | 2 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 |
 | 3 | [Move It](https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Move It](https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo) | 2:20 |
 | 4 | [How I Do It](https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [How I Do It](https://open.spotify.com/album/1M9bBhw0L43VhmhwksYYFo) | 2:08 |

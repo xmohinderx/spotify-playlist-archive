@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento do pop BR! Foto: Baco Exu do Blues, Luísa Sonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,073 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,315 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 28 | [Ritmo Agressivo](https://open.spotify.com/track/7ph7fCkl87MkX4i5vxIU9H) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ritmo Agressivo](https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0) | 2:31 |
 | 29 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 30 | [Bom Partido](https://open.spotify.com/track/1e0LqNTaqZvubsEJVNtsa8) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Guêrin](https://open.spotify.com/artist/61K0zrlTUrH4rSPDfImph8) | [Bom Partido](https://open.spotify.com/album/7DhFFsKXAReF0OEZ1KcEDc) | 2:34 |
-| 31 | [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:04 |
+| 31 | [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:25 |
 | 32 | [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 |
 | 33 | [Toma \- Ao Vivo](https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:33 |
 | 34 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 |

@@ -896,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Amin",
+        "url": "https://open.spotify.com/album/05pWzqivs016ZwbGoPmAY8"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124620,
+      "name": "Amin",
+      "url": "https://open.spotify.com/track/1RaKuNtBHJudTsw4xCzkAr"
+    },
+    {
+      "album": {
         "name": "Aus dem Licht in den Schatten zur\u00fcck",
         "url": "https://open.spotify.com/album/3HZlAyqo5eNLADmAagNn0s"
       },
@@ -3143,7 +3161,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 187826,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj"
@@ -6975,7 +6993,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 157802,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/10JJJSp5m16sa0PdpQhs9k"
@@ -8768,6 +8786,28 @@
     },
     {
       "album": {
+        "name": "KMN",
+        "url": "https://open.spotify.com/album/0NpkiX8PaxksZBBX7eJDMO"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "KMN",
+      "url": "https://open.spotify.com/track/4xBLgpxzMtaZxAE3fdycGN"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -9117,6 +9157,32 @@
       "duration_ms": 169191,
       "name": "Leere H\u00e4nde (feat. Sido & Samra)",
       "url": "https://open.spotify.com/track/5QEqzFV7R8KSSCJa37tfvs"
+    },
+    {
+      "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
       "album": {
@@ -10115,7 +10181,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
@@ -12996,6 +13062,32 @@
     },
     {
       "album": {
+        "name": "In Liebe, Ion",
+        "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
+      },
+      "artists": [
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        },
+        {
+          "name": "SiraOne",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Powerade",
+      "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
+    },
+    {
+      "album": {
         "name": "Powerade",
         "url": "https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE"
       },
@@ -13015,7 +13107,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF"
@@ -13147,6 +13239,24 @@
       "duration_ms": 165365,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/5nYkfmKEscQb8RdGfCYDln"
+    },
+    {
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/5jsEezy9hIeLncVxwDl1ZJ"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/4vsDPNuvcN56CDpKKWzrkZ"
     },
     {
       "album": {
@@ -13537,6 +13647,32 @@
       "duration_ms": 198613,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN"
+    },
+    {
+      "album": {
+        "name": "RENN RENN",
+        "url": "https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "RENN RENN",
+      "url": "https://open.spotify.com/track/5dYA3DGibUvGlEmTmariSy"
     },
     {
       "album": {
@@ -15487,7 +15623,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -15505,7 +15641,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"

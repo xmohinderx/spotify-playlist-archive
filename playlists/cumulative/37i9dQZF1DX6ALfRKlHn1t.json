@@ -1022,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z"
       },
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 198320,
       "name": "Wicked Heart",
       "url": "https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK"

@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 173097,
       "name": "A Keeper",
       "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
@@ -3861,7 +3861,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -4429,7 +4429,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 254407,
       "name": "Flight's Booked",
       "url": "https://open.spotify.com/track/23Z3bbYcl1PdcPJemLa4zc"
@@ -8098,6 +8098,28 @@
     },
     {
       "album": {
+        "name": "Late To Da Party (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Late To Da Party (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+    },
+    {
+      "album": {
         "name": "Leave The Door Open",
         "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
       },
@@ -8891,7 +8913,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
@@ -11654,6 +11676,36 @@
     },
     {
       "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/6aCgsxGrlsgB4sikENaxDH"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        },
+        {
+          "name": "Siffi",
+          "url": "https://open.spotify.com/artist/4qIyjEUFbCOERGj2lOCtJD"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        },
+        {
+          "name": "G\u00edsli P\u00e1lmi",
+          "url": "https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/1THPbdyufTiFuAvEMTx9nE"
+    },
+    {
+      "album": {
         "name": "Risar",
         "url": "https://open.spotify.com/album/7lDUQB45Tuy9LUac84gT5y"
       },
@@ -11979,7 +12031,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 298283,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/4mhxzwOdKdyM0HOeCutQWe"
@@ -12305,7 +12357,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -13925,7 +13977,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"
@@ -14497,7 +14549,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-212 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+213 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Basquiat](https://open.spotify.com/track/1YAl8UoW0jppOPAGugF2Kr) | [Milano The Don](https://open.spotify.com/artist/7lFbga7DROfkuO5gmC8Z6h) | [Basquiat](https://open.spotify.com/album/201wBJfMJljHsEJ3Gt0AZt) | 2:33 | 2021-11-19 | 2022-02-01 |
 | [Been That Ill](https://open.spotify.com/track/0ksOXKdoU7tm5maWw2Oe2T) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [Been That Ill](https://open.spotify.com/album/4d8MRjTHpXtJcDmbaj2OVG) | 2:55 | 2021-11-19 | 2022-02-01 |
 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 | 2021-11-19 |  |
-| [Better With You](https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Better With You](https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb) | 3:12 | 2022-02-01 |  |
+| [Better With You](https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Better With You](https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb) | 3:12 | 2022-02-01 | 2022-06-26 |
 | [Birdz \(with Smokepurpp\)](https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Birdz \(with Smokepurpp\)](https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai) | 2:42 | 2021-11-19 |  |
 | [Blame \(Tim Gunter Remix\)](https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO) | [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Tim Gunter](https://open.spotify.com/artist/0FIENxWAWlIBKgjGOoktIo), [LocateEmilio](https://open.spotify.com/artist/4AGZVmwi9IwFZ6y6TlMqLt) | [Blame \(Tim Gunter Remix\)](https://open.spotify.com/album/6NjGSlcPZwXDPRHcS7gVth) | 3:13 | 2022-02-01 |  |
 | [Blame \- Tisoki Remix](https://open.spotify.com/track/7cVaF9J51UOzVIKzIdLqNn) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Blame \(Remixes\)](https://open.spotify.com/album/7kFXvC0W4AYlU0nWAKBCvM) | 3:12 | 2021-11-19 | 2022-01-26 |
@@ -128,6 +128,7 @@
 | [Major](https://open.spotify.com/track/55dObqJybLWm9O06FBDLCP) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Major](https://open.spotify.com/album/4WUW44ZbWTQoi5bsJD3kl6) | 3:53 | 2021-11-19 | 2022-01-17 |
 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 | 2021-11-19 | 2022-01-21 |
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2021-11-19 | 2022-02-02 |
+| [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 |  |
 | [Me and You](https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Me and You](https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb) | 3:46 | 2022-02-01 |  |
 | [Mirage](https://open.spotify.com/track/3n43IT3mrmAr2haV5J28t6) | [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Mirage](https://open.spotify.com/album/1jhKHzMiStDEG4yoOnTh6Y) | 2:39 | 2021-11-19 | 2022-02-02 |
 | [Mistakes](https://open.spotify.com/track/1Ezrl79QX3LqBk9v3qIdCl) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Mistakes](https://open.spotify.com/album/0PMQBeEZ2vf4GoOdgxgmlZ) | 2:54 | 2021-11-19 | 2022-01-25 |

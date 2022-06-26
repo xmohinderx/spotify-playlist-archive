@@ -3176,6 +3176,28 @@
     },
     {
       "album": {
+        "name": "Lay It Down (feat. Bricc Baby)",
+        "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        },
+        {
+          "name": "Bricc Baby",
+          "url": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "Lay It Down (feat. Bricc Baby)",
+      "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/2AICKoS2vYrkwLjYEnyiYJ"
       },
@@ -3267,7 +3289,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 157741,
       "name": "Light",
       "url": "https://open.spotify.com/track/4GSw4yF9VovMBsegcAnLZy"
@@ -3399,7 +3421,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 158095,
       "name": "Lookin At Me",
       "url": "https://open.spotify.com/track/2O8vYJPpjxfHD1ZOl42T0d"
@@ -5089,6 +5111,28 @@
       "duration_ms": 203809,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5"
+    },
+    {
+      "album": {
+        "name": "Techno",
+        "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
     },
     {
       "album": {
