@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Andrez Babii
 
-339 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+340 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Proclamaré](https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [Proclamaré](https://open.spotify.com/album/4sBbudlj26HZyrnYA1OZAY) | 4:23 | 2022-02-25 | 2022-04-09 |
 | [Pura Alegría](https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Pura Alegría](https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk) | 3:06 | 2022-02-25 | 2022-03-26 |
 | [Que Es La Que Hay](https://open.spotify.com/track/4jfyliVzYqgRnNYWUpqQFH) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/7JeEQDrQoK8Y5SZDF7qebn) | 4:04 | 2022-04-15 | 2022-06-04 |
+| [Que Rico Es](https://open.spotify.com/track/0RjHLh4GPa1S2WFY6l3XcC) | [JonCarlos + Gabriella](https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47) | [Que Rico Es](https://open.spotify.com/album/5xDDrfOpPsoNqAJMKivsVk) | 2:58 | 2022-06-27 |  |
 | [Quiero \- Acústico](https://open.spotify.com/track/5PC43jeHj4E6ot2JHQK9wG) | [ManfLa](https://open.spotify.com/artist/4fm7dU6fmZzwsiUb4li3ba), [Josendry](https://open.spotify.com/artist/3ukiKvOPBnsY1vI1lxpHNe) | [Quiero \(Acústico\)](https://open.spotify.com/album/7IPQGNGqEAUdShRpJA9q6M) | 2:50 | 2022-02-25 | 2022-04-09 |
 | [Quiero Saber](https://open.spotify.com/track/0RuHawQ6vLF9r35L7HD2cl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Fe \(Deluxe Edition\)](https://open.spotify.com/album/0bKsoKI16zKzu8YtLQdFBJ) | 3:08 | 2022-03-04 | 2022-03-26 |
 | [Quédate Con Ese](https://open.spotify.com/track/11juh3PF1lfSNOpgnY0k9Z) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Quédate Con Ese](https://open.spotify.com/album/6WvJTzI5uvCgUXuQoJgy7f) | 3:35 | 2022-02-25 | 2022-04-09 |
@@ -329,7 +330,7 @@
 | [Valor](https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Valor](https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl) | 3:01 | 2022-06-24 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [Liana C](https://open.spotify.com/artist/0bWMcwNuS8D3lqJ8pI02Gu), [Eliana B](https://open.spotify.com/artist/5D6HYykPcKHbtHtqFenSq2) | [Vamos A Bailar](https://open.spotify.com/album/6epQ9ZRN1EJk8f76iJiJdL) | 3:29 | 2022-02-25 | 2022-03-16 |
 | [Vamos a Celebrar](https://open.spotify.com/track/7Bafk0VDGDsuZtWkro0isd) | [Jeff Mojica](https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg) | [Vamos a Celebrar](https://open.spotify.com/album/2h3imNmOCzaPhTr3EiQAdK) | 4:33 | 2022-02-25 | 2022-04-21 |
-| [Vamos a Ganar](https://open.spotify.com/track/4rqoCvmckSNxTXXI9xeqXz) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Vamos a Ganar](https://open.spotify.com/album/0tPCKR5VkqDVX8ifUeEnCr) | 2:41 | 2022-05-13 |  |
+| [Vamos a Ganar](https://open.spotify.com/track/4rqoCvmckSNxTXXI9xeqXz) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Vamos a Ganar](https://open.spotify.com/album/0tPCKR5VkqDVX8ifUeEnCr) | 2:41 | 2022-05-13 | 2022-06-27 |
 | [Vasija](https://open.spotify.com/track/4U1rtbu9BX7uRjRXWS30Oc) | [Yasaira Santiago](https://open.spotify.com/artist/5IS8jWZoNhitO7sE1sVDYy) | [Vasija](https://open.spotify.com/album/299c1rOPC9htZeiFS5eS97) | 3:44 | 2022-02-25 | 2022-04-21 |
 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 | 2022-02-25 | 2022-04-09 |
 | [Ven Puedes Entrar](https://open.spotify.com/track/05rUx4ssBP8ChKNexeP7l3) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Ven Puedes Entrar](https://open.spotify.com/album/0GfOQMnrTacqwVvaiXDD8U) | 5:46 | 2022-02-25 | 2022-04-08 |

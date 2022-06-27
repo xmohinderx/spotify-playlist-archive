@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Caamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,103 likes - 155 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,290 likes - 155 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

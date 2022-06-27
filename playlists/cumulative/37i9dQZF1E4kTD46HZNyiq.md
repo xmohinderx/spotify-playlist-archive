@@ -4,7 +4,7 @@
 
 > With sød ven, Secret Nation, Boundary Run and more
 
-726 songs - 1 day 23 hr 2 min - [published](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
+727 songs - 1 day 23 hr 5 min - [published](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Heartbeat](https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heartbeat](https://open.spotify.com/album/4kcrbLs822jesi8R1ok9ND) | 3:11 | 2022-06-06 |  |
 | [Heat and Dark](https://open.spotify.com/track/67qD5AzCPBZhwnFb1n75Oe) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:05 | 2022-01-14 | 2022-01-15 |
 | [Here Now](https://open.spotify.com/track/4DNJQD26B6pzHPFEssGiom) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/5zzVQgRaQKhp2nmIbM5sc9) | 3:14 | 2022-03-16 | 2022-03-17 |
+| [Here to You](https://open.spotify.com/track/1WAMaDAcysp2f5KqA70Syb) | [Tyler Brown Williams](https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7) | [Here to You](https://open.spotify.com/album/0oYNqLRnydqK5flEsSxrce) | 3:17 | 2022-06-27 |  |
 | [Here We Are Now](https://open.spotify.com/track/7ubMrn85hqdYGN8Ro82rsZ) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG) | [Here We Are Now](https://open.spotify.com/album/5GTYE8fDSfLcog7U45MlZ4) | 3:39 | 2022-03-15 | 2022-06-21 |
 | [Here's To Endings](https://open.spotify.com/track/6wXL3MalwBZSgdF2expmTW) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Welcome Back](https://open.spotify.com/album/5eLr7pwuHAUEnCCRyc9J7V) | 4:12 | 2022-03-09 | 2022-06-23 |
 | [Heroes / Dying](https://open.spotify.com/track/5dXkJaRsnCtg7qKU5lgZzg) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V) | 3:50 | 2021-12-11 | 2022-03-07 |
@@ -382,7 +383,7 @@
 | [Lost Myself](https://open.spotify.com/track/4up7yqCpwV07nEIguieeOE) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Lost Myself](https://open.spotify.com/album/3ZjjURJh7wK5oqIbCKplTj) | 3:33 | 2022-04-12 | 2022-06-14 |
 | [Love Is Complicated](https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid) | [Drive!Drive!](https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb) | [Love is Complicated](https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt) | 2:43 | 2022-06-12 | 2022-06-20 |
 | [love is so hard!](https://open.spotify.com/track/0Yu6DQYBpvztT117wT37aR) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [love is so hard!](https://open.spotify.com/album/5AHsddOw41Op3yc0Q3Fzv9) | 4:27 | 2021-12-04 |  |
-| [Love Like You Care](https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:13 | 2021-12-21 |  |
+| [Love Like You Care](https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:13 | 2021-12-21 | 2022-06-27 |
 | [Love Somebody](https://open.spotify.com/track/0X6bCalV2gGsvj53F9VdTb) | [The Catalina](https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj) | [Love Somebody](https://open.spotify.com/album/05igczQwZbM4wL5f9lT5ng) | 3:41 | 2022-03-15 | 2022-06-24 |
 | [Love Somebody](https://open.spotify.com/track/0NAFffKymnvpwgj6spex4Z) | [The Motion Epic](https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN) | [Boardwalk Arcadia](https://open.spotify.com/album/1zKFKJPx8NIYkhAcQMWC1h) | 4:07 | 2022-05-11 | 2022-06-14 |
 | [love somebody like you](https://open.spotify.com/track/0ltO5bci13M68sTnEctBxR) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [love somebody like you](https://open.spotify.com/album/13NYDkzyuRQC8aQLCcyl54) | 3:47 | 2022-02-19 | 2022-02-20 |
@@ -642,7 +643,7 @@
 | [Thoughts in Progress](https://open.spotify.com/track/5gW1n8D0sjqa5nDF6226VP) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/48XpsbZn6EBi2qKKG0Fr0n) | 3:57 | 2022-04-07 | 2022-04-08 |
 | [Thousand Stars](https://open.spotify.com/track/71S0HhZLwWXOo5wAc0ECak) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG), [The Hollow Men](https://open.spotify.com/artist/2n1XDJJ6HBSQvn4essanna) | [Thousand Stars](https://open.spotify.com/album/2mPZJhSgQCtGcYY6ouqxc0) | 2:56 | 2022-03-11 | 2022-06-22 |
 | [Thousand Stars \- Acoustic](https://open.spotify.com/track/08wxO8mUgYNhuMM58jeFO4) | [The Hollow Men](https://open.spotify.com/artist/2n1XDJJ6HBSQvn4essanna), [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG) | [Thousand Stars \(Acoustic\)](https://open.spotify.com/album/14MQObrQFAWyq1tjVWOuD3) | 3:02 | 2022-03-11 |  |
-| [Through Different Eyes](https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Three](https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe) | 5:57 | 2022-05-13 |  |
+| [Through Different Eyes](https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Three](https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe) | 5:57 | 2022-05-13 | 2022-06-27 |
 | [Through Your Eyes](https://open.spotify.com/track/4nyjfCCS8Z4ff1tXaz3p4X) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC), [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Through Your Eyes](https://open.spotify.com/album/2vWd4ZZPo7axv0UgzyR8Qc) | 3:47 | 2022-04-26 | 2022-04-27 |
 | [Thumbs](https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Thumbs](https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54) | 4:33 | 2022-03-10 | 2022-06-21 |
 | [Till The Morning](https://open.spotify.com/track/1qv1KWXiKeY12vmjor4LrD) | [RYLY](https://open.spotify.com/artist/56zbBNrJlFsdyGiHBwd0HB) | [Till The Morning](https://open.spotify.com/album/5vDvkC5vvT0wAthngRBuf9) | 3:35 | 2022-04-13 | 2022-06-23 |
@@ -692,7 +693,7 @@
 | [Whenever You're Around](https://open.spotify.com/track/6hVkpZkfQV82W6e31Xye37) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Demo Love](https://open.spotify.com/album/4cMLFycGikguo9tIh6fWUa) | 3:22 | 2022-03-10 | 2022-05-26 |
 | [Where Did The Time Go](https://open.spotify.com/track/5MK3ieVJOsl4cJxHALNawx) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Where Did The Time Go](https://open.spotify.com/album/28QqUNzHm0Us9E39qYXZZY) | 4:12 | 2022-03-30 | 2022-04-01 |
 | [Where Would I Be](https://open.spotify.com/track/3scvaJweRLLtqwN3uNrPeg) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Where Would I Be](https://open.spotify.com/album/6OCtDmz1AxPTGDMn5nopd0) | 4:34 | 2022-03-09 | 2022-06-23 |
-| [Where You Are](https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:31 | 2022-06-24 | 2022-06-25 |
+| [Where You Are](https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:31 | 2022-06-24 |  |
 | [Who You Run To](https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 4:34 | 2021-12-04 | 2022-03-09 |
 | [Who's Gonna Love You](https://open.spotify.com/track/7ftDul7Y8zExNX2XODGeEv) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 3:44 | 2022-03-21 | 2022-06-24 |
 | [Wide Awake](https://open.spotify.com/track/3trsYXfLT1UkKtncE84HlO) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 3:51 | 2022-02-05 | 2022-06-23 |

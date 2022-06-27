@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 268225,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1Rb7olpOry6c65F00zCteY"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 255606,
       "name": "Days Go By - 2019 Mix",
       "url": "https://open.spotify.com/track/7krY6FgUUGwTdvhD6kKBf7"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 213016,
       "name": "Heathen (Give Me More)",
       "url": "https://open.spotify.com/track/0smP8hay3KD1ikHQx9s0an"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 179560,
       "name": "Illuminate - Sub Focus & Wilkinson",
       "url": "https://open.spotify.com/track/7D5qMGajdfznFcXFArk5VE"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 303448,
       "name": "Love Is Not Enough - Hybrid Minds Remix",
       "url": "https://open.spotify.com/track/6sp6sZ3agNkxCwdK7zsdFy"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7iSUYpEq065PlyuWxzQWdf"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 205116,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/65X3Eszqv0tfOIeXfTuPbr"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6bUlKNTAOA2EUg4CQ4PtJb"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 301789,
       "name": "Portal",
       "url": "https://open.spotify.com/track/64KjiKPJkgmb44IRYVXLJ0"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 223016,
       "name": "Rhythm Is Changing",
       "url": "https://open.spotify.com/track/2QLrv4xxHYHshPS6lUBPV3"
@@ -2077,6 +2077,28 @@
       "duration_ms": 272840,
       "name": "Rock It (Wilkinson Remix)",
       "url": "https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY"
+    },
+    {
+      "album": {
+        "name": "Say It Loud",
+        "url": "https://open.spotify.com/album/0mVDGRoQRLIxd7EuX1tF2k"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "Say It Loud",
+      "url": "https://open.spotify.com/track/1ZTrdA4lyX7WJlvGju2lfR"
     },
     {
       "album": {
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -2175,10 +2197,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 205754,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/5gqN4RHveL1NS8ZMDt7FAB"
+    },
+    {
+      "album": {
+        "name": "Step Into Your Power",
+        "url": "https://open.spotify.com/album/5qZVnalqfY93hK9YTHTjTz"
+      },
+      "artists": [
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248982,
+      "name": "Step Into Your Power",
+      "url": "https://open.spotify.com/track/214dCanCpdq643MCUShfwX"
     },
     {
       "album": {
@@ -2383,7 +2427,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
@@ -2583,7 +2627,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 226206,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"

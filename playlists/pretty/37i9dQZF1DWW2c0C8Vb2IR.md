@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Charles Lloyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,027 likes - 37 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,066 likes - 37 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 22 | [Toyful, Toyful](https://open.spotify.com/track/0FNxHiyfiCRxLC7VsBHHPI) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Myslaure Augustin](https://open.spotify.com/artist/4dKRSfIp5KZvSwUwUiIXjj), [Bänz Oester](https://open.spotify.com/artist/6uEtd2aUQqnr9GRKDRrCiI), [Samuel Dühsler](https://open.spotify.com/artist/4fKcP6tcn0ymDQWlwNuP7t) | [Never Stop Playing](https://open.spotify.com/album/2zvknIoYxAT0Ud8tF8l7Nm) | 6:11 |
 | 23 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 |
 | 24 | [Le sablier](https://open.spotify.com/track/4US8lwaJpUGWyVuKUyFPYh) | [Fred Pallem](https://open.spotify.com/artist/4owo8I3tAEEVG8cTUbeMe7), [le Sacre du Tympan](https://open.spotify.com/artist/0QxfNHh4b2upSMcrZPBM7I) | [Le sablier](https://open.spotify.com/album/1fRJD7RzmY8Ygss3zq3T87) | 5:41 |
-| 25 | [Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/3aOhOu4KcHWCMcubPH35Dk) | [Parker: Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
+| 25 | [Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
 | 26 | [Landsdown](https://open.spotify.com/track/6lbuVBl5B06FqVc6v0dRwS) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Landsdown](https://open.spotify.com/album/6ivj7sRDxqcYDQ75rqxVJm) | 5:10 |
 | 27 | [Blues Orbit](https://open.spotify.com/track/5yjO6gK0xEB8Mq5rl9RtHQ) | [David Carbonara](https://open.spotify.com/artist/5lTaBMjp9Hv1bGMt4pT2tr), [Brian Scanlon](https://open.spotify.com/artist/5X9HJp5YgAALcKihzeag3X), [Kye Palmer](https://open.spotify.com/artist/53FsQXBvqkZFataoRn35cA) | [Blues Orbit](https://open.spotify.com/album/6kLvpzXfvGYuXsUHno5IoH) | 3:37 |
 | 28 | [VII](https://open.spotify.com/track/7CnHkH3qYVkqmrxFSfgcS5) | [Flux](https://open.spotify.com/artist/39BJ5fnR8MyUOjnTdnmAIX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Federico Casagrande](https://open.spotify.com/artist/3UIT7PDaIaJ33MxQeIwGyR) | [Flux](https://open.spotify.com/album/1YzQgEikphpS9EIkqKpGN3) | 2:44 |

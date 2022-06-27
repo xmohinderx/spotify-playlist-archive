@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 297088,
       "name": "Aa Jana",
       "url": "https://open.spotify.com/track/07bqsfUgjDqzi67EVsa6r8"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 311533,
       "name": "Aap Ki Yaad",
       "url": "https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 321720,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 275240,
       "name": "Azadi (Jinnah)",
       "url": "https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 362040,
       "name": "Bichar Kai Bhee",
       "url": "https://open.spotify.com/track/46ELwzT2CZwpjEkPeUR2Zk"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 247066,
       "name": "Bounce Billo",
       "url": "https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi"
@@ -413,6 +413,24 @@
       "duration_ms": 221387,
       "name": "Chaand Taaray",
       "url": "https://open.spotify.com/track/5wCbDxiqPoupS0DKNMpVm4"
+    },
+    {
+      "album": {
+        "name": "Dhaani",
+        "url": "https://open.spotify.com/album/21luKloROzEZKHzgbhye2U"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264480,
+      "name": "Chaaye Chaaye",
+      "url": "https://open.spotify.com/track/3sHBY3LxFISMtT0xpE0zUZ"
     },
     {
       "album": {
@@ -445,7 +463,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 388786,
       "name": "Chandni Raatein",
       "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"
@@ -488,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Sampooran",
+        "url": "https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316053,
+      "name": "Darbari",
+      "url": "https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC"
+    },
+    {
+      "album": {
         "name": "Dastaan",
         "url": "https://open.spotify.com/album/0mTMYs9KHiGJVcYP3jPsOw"
       },
@@ -499,7 +535,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 320052,
       "name": "Dastaan",
       "url": "https://open.spotify.com/track/6PWM8K2KJvWGZm1qbKCQpQ"
@@ -517,7 +553,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 319658,
       "name": "Deewana",
       "url": "https://open.spotify.com/track/13Nh7FZe0D6vBlAREaqfTR"
@@ -575,6 +611,24 @@
       "duration_ms": 278520,
       "name": "Dharkay Jiya",
       "url": "https://open.spotify.com/track/3nswj8jfjrhLCXH56qj8Ey"
+    },
+    {
+      "album": {
+        "name": "Rung",
+        "url": "https://open.spotify.com/album/6hyh4qo5rt47cea7PXfO7s"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277314,
+      "name": "Dholan",
+      "url": "https://open.spotify.com/track/6rIdE075IRJNDVGj2m4BSW"
     },
     {
       "album": {
@@ -661,7 +715,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 299473,
       "name": "Dil Ki Qasam",
       "url": "https://open.spotify.com/track/7CxTQe8fYITgjkkvydsrvX"
@@ -679,7 +733,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 271000,
       "name": "Dil Na Lagay",
       "url": "https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6"
@@ -733,7 +787,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 268822,
       "name": "Dupatta",
       "url": "https://open.spotify.com/track/0yfpjCf7E4uNENnqaaOw4I"
@@ -809,7 +863,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 223473,
       "name": "Gana No 1",
       "url": "https://open.spotify.com/track/0AEBUdJ9iVXs0MyHQtoBnI"
@@ -899,7 +953,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 279000,
       "name": "Ik Arzu",
       "url": "https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M"
@@ -917,7 +971,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 291099,
       "name": "Ik Chah",
       "url": "https://open.spotify.com/track/0hNiPGtdTVeZEhSTZlvbch"
@@ -953,7 +1007,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 308306,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/7HlCsOXMNxrFfoaccPsimt"
@@ -971,7 +1025,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 278997,
       "name": "Iss Baar Milo",
       "url": "https://open.spotify.com/track/2KLSJ69F54GDNtuj6p0jIx"
@@ -1007,7 +1061,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 262596,
       "name": "Jaanay Kyoon",
       "url": "https://open.spotify.com/track/0dLTxckJ1BihKit4jYUxMI"
@@ -1029,7 +1083,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 424505,
       "name": "Jal Pari",
       "url": "https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj"
@@ -1065,7 +1119,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Jeenay Do",
       "url": "https://open.spotify.com/track/7EBqm3AJz3wwr9An2yPQmB"
@@ -1083,7 +1137,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 302560,
       "name": "Jiya Na Jaye",
       "url": "https://open.spotify.com/track/4CFl8AjPYyA6AqSzM8f5SU"
@@ -1137,7 +1191,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 301586,
       "name": "Kahani Mohabbat Ki",
       "url": "https://open.spotify.com/track/3msj9nAjWXLfsL20vF0MDp"
@@ -1191,7 +1245,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 285946,
       "name": "Kaise Gaoun Mein",
       "url": "https://open.spotify.com/track/3oL80Ad5AcgT27GjiQEEys"
@@ -1227,7 +1281,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 276558,
       "name": "Khaireyan De Naal",
       "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 267826,
       "name": "Koi Aanay Wala Hai",
       "url": "https://open.spotify.com/track/3U7qMmrs5ICLKRTO8yJsgb"
@@ -1317,7 +1371,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 363520,
       "name": "Koi Naheen",
       "url": "https://open.spotify.com/track/3zksuExIFRXTtQrSyx3kkU"
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 284600,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI"
@@ -1465,7 +1519,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 290386,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ"
@@ -1611,7 +1665,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 382973,
       "name": "Mitwa",
       "url": "https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0"
@@ -1629,7 +1683,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 244750,
       "name": "Mona",
       "url": "https://open.spotify.com/track/4DDOtpRIvQcfsciohLVkXZ"
@@ -1705,7 +1759,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 341078,
       "name": "Na Ra Na Re",
       "url": "https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid"
@@ -1770,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "Suno Ke Mein Hun Jawan",
+        "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262979,
+      "name": "Neend Ayay Na",
+      "url": "https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B"
+    },
+    {
+      "album": {
         "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
         "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
       },
@@ -1782,6 +1854,24 @@
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220673,
+      "name": "Nishaan",
+      "url": "https://open.spotify.com/track/5K4yREYdmwEfIreEF67YKL"
+    },
+    {
+      "album": {
+        "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
+        "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
       "duration_ms": 271406,
       "name": "Ooncha",
       "url": "https://open.spotify.com/track/5gvwg5kSAipxmzu8BVbkyG"
@@ -1799,7 +1889,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 260124,
       "name": "Paheliyan",
       "url": "https://open.spotify.com/track/0UuYHiHNEhCiY8DWKKORfS"
@@ -1853,7 +1943,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 274786,
       "name": "Pardesy",
       "url": "https://open.spotify.com/track/1XS96LL96ZgNd4UAsLN1sD"
@@ -2019,7 +2109,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 240466,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/7LFAzQ8ICbxuNXc2bufYHO"
@@ -2113,7 +2203,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 427773,
       "name": "Sajan",
       "url": "https://open.spotify.com/track/0gurQg8FR6HPR1ZHQoVCgX"
@@ -2131,7 +2221,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 283133,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/0s7OaSGxQF046u0yI1cH4t"
@@ -2149,7 +2239,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 244586,
       "name": "Sali Tu Maney Nahi",
       "url": "https://open.spotify.com/track/0TjKYEnNKghcdci6kKyeFK"
@@ -2185,7 +2275,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 277680,
       "name": "Saqi Nama",
       "url": "https://open.spotify.com/track/0oAwve1WkYewyElOHFPddX"
@@ -2203,7 +2293,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 343480,
       "name": "Sar Kiye Yeh Pahar",
       "url": "https://open.spotify.com/track/56TNm1b4adFgXLQrfSWv0L"
@@ -2311,7 +2401,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 313980,
       "name": "Sukh",
       "url": "https://open.spotify.com/track/6Jk0heMbgKvKiWMFh99J2Z"
@@ -2329,7 +2419,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 230606,
       "name": "Suno Ke Main Hun Jawan",
       "url": "https://open.spotify.com/track/70sq6qW9JKw50CItgfStwf"
@@ -2354,6 +2444,24 @@
     },
     {
       "album": {
+        "name": "Klashinfolk",
+        "url": "https://open.spotify.com/album/2jKdGWECQ3XUyUpDYzmB4K"
+      },
+      "artists": [
+        {
+          "name": "Ali Azmat",
+          "url": "https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247573,
+      "name": "Tera Mera",
+      "url": "https://open.spotify.com/track/1L6Nkvk5JXpYebM04xDPEV"
+    },
+    {
+      "album": {
         "name": "Tera Tay Mera",
         "url": "https://open.spotify.com/album/19zcSjOX82VqlBetqjccRm"
       },
@@ -2365,7 +2473,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 285186,
       "name": "Tera Tay Mera",
       "url": "https://open.spotify.com/track/3A0AuGLgzjBd7tAxL0KFzj"
@@ -2383,7 +2491,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 302654,
       "name": "Tere Pyaar Main",
       "url": "https://open.spotify.com/track/7Me9Y1dq2DpjSwoWy1Z6aH"
@@ -2401,7 +2509,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 378613,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
@@ -2419,7 +2527,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 378880,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/4WP514flpoolRbY3n6osFI"
@@ -2437,7 +2545,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 299280,
       "name": "Titliyaan",
       "url": "https://open.spotify.com/track/5DfJKnZkzJvmQ6kQn4U7IJ"
@@ -2455,7 +2563,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 205640,
       "name": "Tu Jo Nahin",
       "url": "https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi"
@@ -2473,7 +2581,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 306106,
       "name": "Tum Mil Gaye",
       "url": "https://open.spotify.com/track/2D2o91sSKPo0s6TKAE0HGW"
@@ -2545,7 +2653,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 239880,
       "name": "Wanjli",
       "url": "https://open.spotify.com/track/3fXGCXG1Qglu4mDErbxU5G"
@@ -2606,6 +2714,24 @@
     },
     {
       "album": {
+        "name": "Social Circus",
+        "url": "https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K"
+      },
+      "artists": [
+        {
+          "name": "Ali Azmat",
+          "url": "https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318634,
+      "name": "Yaar Mera Yaar",
+      "url": "https://open.spotify.com/track/1k1s6MKwhzm8m7wGjF37Mb"
+    },
+    {
+      "album": {
         "name": "Haroon Ki Awaz",
         "url": "https://open.spotify.com/album/4eyWYh9SUzBnIt2sWEH49I"
       },
@@ -2635,7 +2761,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 316653,
       "name": "Ye Hai Meri Kahani",
       "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"

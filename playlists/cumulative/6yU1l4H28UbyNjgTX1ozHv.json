@@ -547,6 +547,24 @@
     {
       "album": {
         "name": "Girls Just Want To Have Fun (Acoustic)",
+        "url": "https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140442,
+      "name": "Girls Just Want To Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
+    },
+    {
+      "album": {
+        "name": "Girls Just Want To Have Fun (Acoustic)",
         "url": "https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn"
       },
       "artists": [
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 181860,
       "name": "Lovely Day - Acoustic",
       "url": "https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2"

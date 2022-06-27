@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,382 likes - 80 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,501 likes - 80 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

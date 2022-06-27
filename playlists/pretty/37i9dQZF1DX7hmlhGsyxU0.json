@@ -1,28 +1,28 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 78073,
+  "num_followers": 78150,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjIwNjIzMywwMDAwMDAwMGIzMTNmMTQ3YzQyNGUxNjI0NDgxYzM4NmMxMDBjOGRj",
+  "snapshot_id": "MTY1NjI5Mjg3MCwwMDAwMDAwMDBkYmEwOTMzZmM4MWFiNGFiNjE0YmVjZmQxMjhmMGM5",
   "tracks": [
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Three Days in Venice",
-        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 211697,
-      "name": "Eaux",
-      "url": "https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -55,42 +55,6 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Procyon",
-        "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Motifs in F# Major (Reimagined)",
-        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
-      },
-      "artists": [
-        {
-          "name": "Solar Sleeper",
-          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
-        },
-        {
-          "name": "rhubiqs",
-          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
-        }
-      ],
-      "duration_ms": 331287,
-      "name": "Motifs in F# Major - Reimagined",
-      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
         "name": "Composites",
         "url": "https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU"
       },
@@ -115,6 +79,74 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
+        "name": "Procyon",
+        "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 211697,
+      "name": "Eaux",
+      "url": "https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Motifs in F# Major (Reimagined)",
+        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+      },
+      "artists": [
+        {
+          "name": "Solar Sleeper",
+          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
+        },
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        }
+      ],
+      "duration_ms": 331287,
+      "name": "Motifs in F# Major - Reimagined",
+      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Happiness Does Not Wait (2021 Version)",
+        "url": "https://open.spotify.com/album/37qqmsQVOHPJWIEKpZmfax"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 196330,
+      "name": "Happiness Does Not Wait - 2021 Version",
+      "url": "https://open.spotify.com/track/6bk5cN36w1yP6OGkzVwdRz"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
         "name": "Made To Be Wanting",
         "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
       },
@@ -127,22 +159,6 @@
       "duration_ms": 183764,
       "name": "Made To Be Wanting",
       "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -163,50 +179,34 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "As a Gift",
-        "url": "https://open.spotify.com/album/1MpBhrvOpVf9peOZw03W7X"
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
       "artists": [
         {
-          "name": "Francis Wells",
-          "url": "https://open.spotify.com/artist/5cTbiMgshgMqKk35tOMrmg"
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
         }
       ],
-      "duration_ms": 169804,
-      "name": "As a Gift",
-      "url": "https://open.spotify.com/track/0CB3DuN8TUmdJ0Wk5T92Js"
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "World Sleep Day",
-        "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
+        "name": "Bad Signal",
+        "url": "https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o"
       },
       "artists": [
         {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+          "name": "Cuarto Silencioso",
+          "url": "https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i"
         }
       ],
-      "duration_ms": 203926,
-      "name": "Pure Imagination (arr. piano)",
-      "url": "https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 208676,
+      "name": "Bad Signal",
+      "url": "https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -227,6 +227,82 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Heavy Moon",
+        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kim-Sheng",
+          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
+        }
+      ],
+      "duration_ms": 277138,
+      "name": "In a Field of Silence",
+      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Loom (Sunrise Session II)",
+        "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Reykjav\u00edk Recording Orchestra",
+          "url": "https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loom - Sunrise Session II",
+      "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "World Sleep Day",
+        "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 203926,
+      "name": "Pure Imagination (arr. piano)",
+      "url": "https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -263,26 +339,202 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1EPU3KWYWEwLI9wyMVJSAh"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Cuarto Silencioso",
+          "url": "https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i"
         }
       ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+      "duration_ms": 154750,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/4gSOk75BfDZIU3CkD93wr7"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Alone II",
+        "url": "https://open.spotify.com/album/5fx0uZmXbxVp4a9vndEyVC"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 58820,
+      "name": "In In",
+      "url": "https://open.spotify.com/track/2jC7rpC6GDZkiHna1zueo8"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Costero",
+        "url": "https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 223985,
+      "name": "Borderland Sorrows",
+      "url": "https://open.spotify.com/track/3fBFR6OHUWCrMhni3rwTNR"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "As a Gift",
+        "url": "https://open.spotify.com/album/1MpBhrvOpVf9peOZw03W7X"
+      },
+      "artists": [
+        {
+          "name": "Francis Wells",
+          "url": "https://open.spotify.com/artist/5cTbiMgshgMqKk35tOMrmg"
+        }
+      ],
+      "duration_ms": 169804,
+      "name": "As a Gift",
+      "url": "https://open.spotify.com/track/0CB3DuN8TUmdJ0Wk5T92Js"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+      },
+      "artists": [
+        {
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+        }
+      ],
+      "duration_ms": 315644,
+      "name": "Until The End",
+      "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Swan Lake Story",
+        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+      },
+      "artists": [
+        {
+          "name": "W CELLO",
+          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+        },
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 170375,
+      "name": "Swan Lake Story, Op. 1",
+      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Holding on (Eventide)",
+        "url": "https://open.spotify.com/album/08JeAWQLu8Q3YNjsK1jGFG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Disch",
+          "url": "https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte"
+        }
+      ],
+      "duration_ms": 326346,
+      "name": "Holding on (Eventide)",
+      "url": "https://open.spotify.com/track/6rnAwqFxh6XfbhGLbtnoS4"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
+      },
+      "artists": [
+        {
+          "name": "Michael Coltham",
+          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
+        }
+      ],
+      "duration_ms": 228257,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -307,102 +559,6 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Alone II",
-        "url": "https://open.spotify.com/album/5fx0uZmXbxVp4a9vndEyVC"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 58820,
-      "name": "In In",
-      "url": "https://open.spotify.com/track/2jC7rpC6GDZkiHna1zueo8"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Happiness Does Not Wait (2021 Version)",
-        "url": "https://open.spotify.com/album/37qqmsQVOHPJWIEKpZmfax"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 196330,
-      "name": "Happiness Does Not Wait - 2021 Version",
-      "url": "https://open.spotify.com/track/6bk5cN36w1yP6OGkzVwdRz"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Costero",
-        "url": "https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 223985,
-      "name": "Borderland Sorrows",
-      "url": "https://open.spotify.com/track/3fBFR6OHUWCrMhni3rwTNR"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
-        }
-      ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
-      },
-      "artists": [
-        {
-          "name": "Michael Coltham",
-          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
-        }
-      ],
-      "duration_ms": 228257,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
         "name": "The Green Light (The Great Gatsby) [Piano Version]",
         "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
       },
@@ -419,90 +575,50 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh"
       },
       "artists": [
         {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+          "name": "JustJosh",
+          "url": "https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK"
+      "duration_ms": 258019,
+      "name": "Gravegarden",
+      "url": "https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Best of Scottish Fiddle",
-        "url": "https://open.spotify.com/album/6Jo9NjokJo56iX3xA5b3md"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
       },
       "artists": [
         {
-          "name": "Gavin Marwick",
-          "url": "https://open.spotify.com/artist/66eKtzxVryP0wbyciHZzoN"
-        },
-        {
-          "name": "The Iron Horse",
-          "url": "https://open.spotify.com/artist/5BZ9BFTjlwH9D8nhmUv2l3"
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
         }
       ],
-      "duration_ms": 197600,
-      "name": "The Sleeping Warrior",
-      "url": "https://open.spotify.com/track/6rDXmkM4ceZjDNzUItBaxB"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "len",
-        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
-      },
-      "artists": [
-        {
-          "name": "Flica",
-          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "len",
-      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Swan Lake Story",
-        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
-      },
-      "artists": [
-        {
-          "name": "W CELLO",
-          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
-        },
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Swan Lake Story, Op. 1",
-      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -531,90 +647,6 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh"
-      },
-      "artists": [
-        {
-          "name": "JustJosh",
-          "url": "https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Gravegarden",
-      "url": "https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1EPU3KWYWEwLI9wyMVJSAh"
-      },
-      "artists": [
-        {
-          "name": "Cuarto Silencioso",
-          "url": "https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/4gSOk75BfDZIU3CkD93wr7"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Loom (Sunrise Session II)",
-        "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Reykjav\u00edk Recording Orchestra",
-          "url": "https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loom - Sunrise Session II",
-      "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX"
-      },
-      "artists": [
-        {
-          "name": "Evalian Massey",
-          "url": "https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ"
-        }
-      ],
-      "duration_ms": 79008,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
         "name": "Everything Is Everything Else",
         "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
@@ -627,182 +659,6 @@
       "duration_ms": 281841,
       "name": "Everything Is Everything Else",
       "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Imbalances",
-        "url": "https://open.spotify.com/album/6daa8h8aXmYVTObmsggP7g"
-      },
-      "artists": [
-        {
-          "name": "Tomas Grut",
-          "url": "https://open.spotify.com/artist/0zqf0FWo88jD2rbfo0Pq6F"
-        }
-      ],
-      "duration_ms": 305142,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0HAWqi2ZtrgRHUACDDgMUT"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm"
-      },
-      "artists": [
-        {
-          "name": "David G\u00f3mez",
-          "url": "https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/4ra8I1VYO4tQum04Fakvev"
-      },
-      "artists": [
-        {
-          "name": "Kendra Logozar",
-          "url": "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
-        }
-      ],
-      "duration_ms": 212475,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/4SKjy2JBNZkvOMYDscQsxn"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/4MiW2j6INpbGhqafKsm0hL"
-      },
-      "artists": [
-        {
-          "name": "Jorge M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/3qmdFj0rr2joBgjdjZoZTr"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/5F4GQ620wejlERd2NmBDZd"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Senescence",
-        "url": "https://open.spotify.com/album/6HuZbUCZcimxQfPf3xsCTL"
-      },
-      "artists": [
-        {
-          "name": "Anders Schill Paulsen",
-          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
-        }
-      ],
-      "duration_ms": 142645,
-      "name": "Senescence",
-      "url": "https://open.spotify.com/track/7pQkpJimqzPhaHr0NkUfbN"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Longing For You",
-        "url": "https://open.spotify.com/album/2KExZFYR3KBQYtOVF4JSbt"
-      },
-      "artists": [
-        {
-          "name": "Old Inherited Piano",
-          "url": "https://open.spotify.com/artist/1rQ87wlgwARS4gWZyXI78S"
-        }
-      ],
-      "duration_ms": 136422,
-      "name": "Longing For You",
-      "url": "https://open.spotify.com/track/7dOGQ1L6i91F6Yc2IimWy8"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Holding on (Eventide)",
-        "url": "https://open.spotify.com/album/08JeAWQLu8Q3YNjsK1jGFG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Disch",
-          "url": "https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte"
-        }
-      ],
-      "duration_ms": 326346,
-      "name": "Holding on (Eventide)",
-      "url": "https://open.spotify.com/track/6rnAwqFxh6XfbhGLbtnoS4"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -827,38 +683,38 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Ad Infinitum",
-        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm"
       },
       "artists": [
         {
-          "name": "Vincent Isler",
-          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
+          "name": "David G\u00f3mez",
+          "url": "https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h"
         }
       ],
-      "duration_ms": 191482,
-      "name": "Ad Infinitum",
-      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
+      "duration_ms": 294146,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+        "name": "Best of Scottish Fiddle",
+        "url": "https://open.spotify.com/album/6Jo9NjokJo56iX3xA5b3md"
       },
       "artists": [
         {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+          "name": "Gavin Marwick",
+          "url": "https://open.spotify.com/artist/66eKtzxVryP0wbyciHZzoN"
         },
         {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+          "name": "The Iron Horse",
+          "url": "https://open.spotify.com/artist/5BZ9BFTjlwH9D8nhmUv2l3"
         }
       ],
-      "duration_ms": 315644,
-      "name": "Until The End",
-      "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
+      "duration_ms": 197600,
+      "name": "The Sleeping Warrior",
+      "url": "https://open.spotify.com/track/6rDXmkM4ceZjDNzUItBaxB"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -875,6 +731,38 @@
       "duration_ms": 232105,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Isler",
+          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
+        }
+      ],
+      "duration_ms": 191482,
+      "name": "Ad Infinitum",
+      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -911,6 +799,38 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
+        "name": "Imbalances",
+        "url": "https://open.spotify.com/album/6daa8h8aXmYVTObmsggP7g"
+      },
+      "artists": [
+        {
+          "name": "Tomas Grut",
+          "url": "https://open.spotify.com/artist/0zqf0FWo88jD2rbfo0Pq6F"
+        }
+      ],
+      "duration_ms": 305142,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0HAWqi2ZtrgRHUACDDgMUT"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Longing For You",
+        "url": "https://open.spotify.com/album/2KExZFYR3KBQYtOVF4JSbt"
+      },
+      "artists": [
+        {
+          "name": "Old Inherited Piano",
+          "url": "https://open.spotify.com/artist/1rQ87wlgwARS4gWZyXI78S"
+        }
+      ],
+      "duration_ms": 136422,
+      "name": "Longing For You",
+      "url": "https://open.spotify.com/track/7dOGQ1L6i91F6Yc2IimWy8"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
         "name": "Three Days in Venice",
         "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
       },
@@ -923,102 +843,6 @@
       "duration_ms": 139392,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Sigur R\u00f3s: Flj\u00f3tavik (Arr. for Violin and String Orchestra)",
-        "url": "https://open.spotify.com/album/2T0VS4edNYXmSZuYfElrFS"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        },
-        {
-          "name": "Dmitri Ensemble",
-          "url": "https://open.spotify.com/artist/4XYWZA2XeLzJ11ddDNwnNg"
-        },
-        {
-          "name": "Stephanie Gonley",
-          "url": "https://open.spotify.com/artist/6jArlkTGzRWdJsoEPutzQO"
-        },
-        {
-          "name": "Graham Ross",
-          "url": "https://open.spotify.com/artist/5ALngZTunHWltWc3XsQZFZ"
-        }
-      ],
-      "duration_ms": 260359,
-      "name": "Flj\u00f3tavik (Arr. for Violin and String Orchestra)",
-      "url": "https://open.spotify.com/track/02Jfqr0Fd6OhaBOLY3X0fS"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
-      },
-      "artists": [
-        {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
-        }
-      ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Heavy Moon",
-        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kim-Sheng",
-          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
-        }
-      ],
-      "duration_ms": 277138,
-      "name": "In a Field of Silence",
-      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Melody of Hope (2021 Version)",
-        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
-      },
-      "artists": [
-        {
-          "name": "Justus R\u00fcmenapp",
-          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
-        }
-      ],
-      "duration_ms": 111687,
-      "name": "Melody of Hope - 2021 Version",
-      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Parting",
-        "url": "https://open.spotify.com/album/18XE2H5QkQyOmildEwhnIJ"
-      },
-      "artists": [
-        {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        }
-      ],
-      "duration_ms": 293897,
-      "name": "Parting",
-      "url": "https://open.spotify.com/track/5gIxQgKK5izo6feBaF3irX"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -1039,34 +863,18 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Intet g\u00f8r ondt som k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/6vQszaWM5exHvYIhCliy7r"
+        "name": "len",
+        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
       },
       "artists": [
         {
-          "name": "Henrietta Dahlgard",
-          "url": "https://open.spotify.com/artist/7s7WGhcmkApV178JRqTgss"
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
         }
       ],
-      "duration_ms": 122370,
-      "name": "Intet g\u00f8r ondt som k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/20JNdYDOvrRLCLTUZixN9w"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Three Days in Venice",
-        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 187456,
-      "name": "Three Days in Venice",
-      "url": "https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g"
+      "duration_ms": 152000,
+      "name": "len",
+      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -1091,24 +899,24 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4MiW2j6INpbGhqafKsm0hL"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Jorge M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/3qmdFj0rr2joBgjdjZoZTr"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+      "duration_ms": 231529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/5F4GQ620wejlERd2NmBDZd"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK"
+        "name": "Focal Distance",
+        "url": "https://open.spotify.com/album/0OdHmtnbiLQ9H03GAIZv07"
       },
       "artists": [
         {
@@ -1116,29 +924,73 @@
           "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO"
+      "duration_ms": 142750,
+      "name": "Focal Distance",
+      "url": "https://open.spotify.com/track/1OwE8VSxCysMIKbkXjsYHo"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Best of Scottish Fiddle",
-        "url": "https://open.spotify.com/album/6Jo9NjokJo56iX3xA5b3md"
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
       },
       "artists": [
         {
-          "name": "Hudson Swan",
-          "url": "https://open.spotify.com/artist/5OoBUMLqcpMNSC2ynpz6nF"
-        },
-        {
-          "name": "The Hudson Swan Band",
-          "url": "https://open.spotify.com/artist/2OV1EjiV1qmDGRWbwsJyHC"
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
         }
       ],
-      "duration_ms": 344000,
-      "name": "The Fledgling",
-      "url": "https://open.spotify.com/track/3jhBmH1c9mEFDEo0Cjv3do"
+      "duration_ms": 187456,
+      "name": "Three Days in Venice",
+      "url": "https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Senescence",
+        "url": "https://open.spotify.com/album/6HuZbUCZcimxQfPf3xsCTL"
+      },
+      "artists": [
+        {
+          "name": "Anders Schill Paulsen",
+          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
+        }
+      ],
+      "duration_ms": 142645,
+      "name": "Senescence",
+      "url": "https://open.spotify.com/track/7pQkpJimqzPhaHr0NkUfbN"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "duration_ms": 146016,
+      "name": "November Sea",
+      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -1155,6 +1007,90 @@
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "First Time Of Heaven (Piano and Strings)",
+        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ward",
+          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
+        },
+        {
+          "name": "Kelly Lerner",
+          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "First Time Of Heaven - Piano and Strings",
+      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "My Son",
+        "url": "https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr"
+      },
+      "artists": [
+        {
+          "name": "Vuelto Ciego",
+          "url": "https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl"
+        }
+      ],
+      "duration_ms": 118250,
+      "name": "My Son",
+      "url": "https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Frankenthaler",
+        "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
+      },
+      "artists": [
+        {
+          "name": "Bromeliad",
+          "url": "https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3"
+        }
+      ],
+      "duration_ms": 105145,
+      "name": "Frankenthaler",
+      "url": "https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX"
+      },
+      "artists": [
+        {
+          "name": "Evalian Massey",
+          "url": "https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ"
+        }
+      ],
+      "duration_ms": 79008,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -1179,66 +1115,18 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
       "artists": [
         {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
         }
       ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "Leo Einaudi",
-          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
-        }
-      ],
-      "duration_ms": 146016,
-      "name": "November Sea",
-      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
-    },
-    {
-      "added_at": "2022-06-24 10:53:44",
-      "album": {
-        "name": "Estado de Alma",
-        "url": "https://open.spotify.com/album/2PXWb5M1h8sOTKVkLPEYJa"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Rodrigues",
-          "url": "https://open.spotify.com/artist/08RdfH80vtbHebX1sJ9dGc"
-        }
-      ],
-      "duration_ms": 151012,
-      "name": "Estrelinha",
-      "url": "https://open.spotify.com/track/5OMjzwf9FRa7aizpZe5ANU"
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2022-06-24 10:53:44",
@@ -1259,58 +1147,146 @@
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Focal Distance",
-        "url": "https://open.spotify.com/album/0OdHmtnbiLQ9H03GAIZv07"
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
       "artists": [
         {
-          "name": "Las Desorden",
-          "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 142750,
-      "name": "Focal Distance",
-      "url": "https://open.spotify.com/track/1OwE8VSxCysMIKbkXjsYHo"
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd"
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
       },
       "artists": [
         {
-          "name": "Nsee",
-          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
-        },
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
         }
       ],
-      "duration_ms": 141610,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G"
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2022-06-24 10:53:44",
       "album": {
-        "name": "First Time Of Heaven (Piano and Strings)",
-        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/4ra8I1VYO4tQum04Fakvev"
       },
       "artists": [
         {
-          "name": "Charlie Ward",
-          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
-        },
-        {
-          "name": "Kelly Lerner",
-          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
+          "name": "Kendra Logozar",
+          "url": "https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd"
         }
       ],
-      "duration_ms": 136521,
-      "name": "First Time Of Heaven - Piano and Strings",
-      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+      "duration_ms": 212475,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/4SKjy2JBNZkvOMYDscQsxn"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Voices (Pt. 1 & 2)",
+        "url": "https://open.spotify.com/album/3ZQ76t0fo1GxMP3FWUJaDu"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/3Cdzk02nbZWYs3qYD7ae5Q"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Intet g\u00f8r ondt som k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/6vQszaWM5exHvYIhCliy7r"
+      },
+      "artists": [
+        {
+          "name": "Henrietta Dahlgard",
+          "url": "https://open.spotify.com/artist/7s7WGhcmkApV178JRqTgss"
+        }
+      ],
+      "duration_ms": 122370,
+      "name": "Intet g\u00f8r ondt som k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/20JNdYDOvrRLCLTUZixN9w"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Sad Cello & Piano XXII",
+        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Czerny",
+          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Dead Heart",
+      "url": "https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry"
+      },
+      "artists": [
+        {
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK"
+    },
+    {
+      "added_at": "2022-06-24 10:53:44",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     }
   ],
   "unique_name": "Instrumental Reading",

@@ -1,12 +1,12 @@
 {
   "description": "With Tennis, Baths, Japanese Breakfast and more",
-  "num_followers": 15352,
+  "num_followers": 15361,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjIwNjU3OCwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
+  "snapshot_id": "MTY1NjI5MzI4MiwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Woman Is a Word",
+        "url": "https://open.spotify.com/album/64amv1W7ca9xTb4xTd85oZ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Woman Is a Word",
+      "url": "https://open.spotify.com/track/15LIoiA1EClYyI8WCn708z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
         "url": "https://open.spotify.com/album/6ns1P7lYWGBpQBWVAwIZzo"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 127725,
       "name": "Posing in Bondage",
       "url": "https://open.spotify.com/track/45R3FO8qwZcc9PwssP8Kaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 215586,
       "name": "silkspun",
       "url": "https://open.spotify.com/track/7e4yf2ICJQqfuiKyk3oaoC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kid Kruschev",
-        "url": "https://open.spotify.com/album/7mCzdpCV6JMpMmqyf2kLVL"
-      },
-      "artists": [
-        {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "And Saints",
-      "url": "https://open.spotify.com/track/5xF0VtCM7rFF5HjtfHmGZN"
     }
   ],
   "unique_name": "Grimes Radio",

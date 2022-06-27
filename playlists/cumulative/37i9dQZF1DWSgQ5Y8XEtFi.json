@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 157258,
       "name": "1539 N. Calvert",
       "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
@@ -153,10 +153,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 101783,
       "name": "ALL KILLER NO FILLER",
       "url": "https://open.spotify.com/track/6nfnDSD5Wa9LAD8jeN5tix"
+    },
+    {
+      "album": {
+        "name": "Floss",
+        "url": "https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N"
+      },
+      "artists": [
+        {
+          "name": "Injury Reserve",
+          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197558,
+      "name": "All This Money",
+      "url": "https://open.spotify.com/track/6zEPJJzojnfOrvfyuJiPtF"
     },
     {
       "album": {
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 156164,
       "name": "BOOSMOBIL",
       "url": "https://open.spotify.com/track/0HS5ztOkdJmUMHvJ3SudYL"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 150488,
       "name": "GETITRIGHTBACK",
       "url": "https://open.spotify.com/track/7FWaWGF9fHqtkqyKwmpztc"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 173294,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/2PqSNVmiEQpFkLoNPoDfwI"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 128524,
       "name": "Malto",
       "url": "https://open.spotify.com/track/28Y3DUUjSZILtwaHLp6xbl"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 170122,
       "name": "Pose (Bonus Track) (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/30YtmOd4KaKObRrLgSp54P"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Racked",
       "url": "https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 109788,
       "name": "Vaderz (feat. Bktherula)",
       "url": "https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 183745,
+  "num_followers": 183855,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA5NDc5NTYzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA5NTU2NzgyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Feberdr\u00f8mmer Xx Dubai",
         "url": "https://open.spotify.com/album/32zVjZoaLTFnbYW5XUQFnT"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/7bgknc0sSmkIWc2am7QDEv"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "STOR MAND (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 183883,
+      "name": "STOR MAND (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Mucki Bar",
         "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
@@ -41,27 +61,7 @@
       "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "STOR MAND",
-        "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 183883,
-      "name": "STOR MAND",
-      "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Stupid Man (feat. Gobs & Thomas Helmig)",
         "url": "https://open.spotify.com/album/18a8lBP1X7V6xKzOonbq4y"
@@ -85,39 +85,7 @@
       "url": "https://open.spotify.com/track/7AwNzjpMLHvlkbgOc5MVKI"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Smack / Bar La Hende Drik",
-        "url": "https://open.spotify.com/album/2opyUn8FLuSD4jAIzaWnRe"
-      },
-      "artists": [
-        {
-          "name": "GMG",
-          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Bar La Hende Drik",
-      "url": "https://open.spotify.com/track/2vFj5M4bYTF9rDcX9LIn6Z"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "hjem fra fabrikken",
         "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
@@ -133,7 +101,39 @@
       "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Smack / Bar La Hende Drik",
+        "url": "https://open.spotify.com/album/2opyUn8FLuSD4jAIzaWnRe"
+      },
+      "artists": [
+        {
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Bar La Hende Drik",
+      "url": "https://open.spotify.com/track/2vFj5M4bYTF9rDcX9LIn6Z"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
@@ -169,43 +185,7 @@
       "url": "https://open.spotify.com/track/5KFtLArXrvuHjiHsgQSkHz"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Bums For Eliten (feat. Artigeardit)",
-        "url": "https://open.spotify.com/album/5Mxtqs3DHtOuIH9RmE5Laf"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 191092,
-      "name": "Bums For Eliten (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/2CqyZKN63PyhoCo9TEdsr0"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "L\u00e5gsus For Evigt",
         "url": "https://open.spotify.com/album/5BsIA40eamUa23jQyAp3d1"
@@ -229,23 +209,7 @@
       "url": "https://open.spotify.com/track/1lARru9E0ESa5lZchy1Rvm"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "TODO O NADA",
-        "url": "https://open.spotify.com/album/1PxR2GB6fuKeKuxHzVELBb"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/559VzgNUKhAz3XrvjxSDhP"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -261,7 +225,7 @@
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -281,23 +245,7 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "DON'T PHASE ME",
-        "url": "https://open.spotify.com/album/2DqtTBPAHjMVadMOOSh9xk"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "DON'T PHASE ME",
-      "url": "https://open.spotify.com/track/0weqXPaf1MQkmLQHBUhnN7"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
@@ -317,23 +265,23 @@
       "url": "https://open.spotify.com/track/5PKfri2kHfgZUb07oB5mnc"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Hvor Har Du L\u00e6rt Det",
-        "url": "https://open.spotify.com/album/5kkb92eCnhK5bJPDKEUB2d"
+        "name": "DON'T PHASE ME",
+        "url": "https://open.spotify.com/album/2DqtTBPAHjMVadMOOSh9xk"
       },
       "artists": [
         {
-          "name": "GMG",
-          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Hvor Har Du L\u00e6rt Det",
-      "url": "https://open.spotify.com/track/7zBD2Y6xoOMgm4ftGHFWfW"
+      "duration_ms": 172386,
+      "name": "DON'T PHASE ME",
+      "url": "https://open.spotify.com/track/0weqXPaf1MQkmLQHBUhnN7"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
         "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
@@ -349,59 +297,55 @@
       "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+        "name": "TODO O NADA",
+        "url": "https://open.spotify.com/album/1PxR2GB6fuKeKuxHzVELBb"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+      "duration_ms": 157291,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/559VzgNUKhAz3XrvjxSDhP"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Hvor Har Du L\u00e6rt Det",
+        "url": "https://open.spotify.com/album/5kkb92eCnhK5bJPDKEUB2d"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 138750,
+      "name": "Hvor Har Du L\u00e6rt Det",
+      "url": "https://open.spotify.com/track/7zBD2Y6xoOMgm4ftGHFWfW"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+      "duration_ms": 266040,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
@@ -429,59 +373,95 @@
       "url": "https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Er Det For Sent? (feat. TopGunn) - Remix",
-        "url": "https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Josef",
-          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 149899,
-      "name": "Er Det For Sent? (feat. TopGunn) - Remix",
-      "url": "https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+        "name": "Bums For Eliten (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/5Mxtqs3DHtOuIH9RmE5Laf"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+      "duration_ms": 191092,
+      "name": "Bums For Eliten (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/2CqyZKN63PyhoCo9TEdsr0"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "f\u00f8ler mig selv 100",
+        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "f\u00f8ler mig selv 100",
+      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
@@ -501,7 +481,27 @@
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Er Det For Sent? (feat. TopGunn) - Remix",
+        "url": "https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj"
+      },
+      "artists": [
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+        },
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 149899,
+      "name": "Er Det For Sent? (feat. TopGunn) - Remix",
+      "url": "https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
@@ -521,75 +521,7 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "SEXY BACK",
-        "url": "https://open.spotify.com/album/4hGpzHBB7tQbG8ipVV5OsC"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 139043,
-      "name": "SEXY BACK",
-      "url": "https://open.spotify.com/track/3bdPWMmYVzi0Ri7yxX8J3b"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "f\u00f8ler mig selv 100",
-        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "f\u00f8ler mig selv 100",
-      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 151891,
-      "name": "Miami Vicer",
-      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "30 Somre",
-        "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 188063,
-      "name": "Hva S\u00e5 (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/1ehdHfMnt1HJlxB6kduTT8"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "BO4L",
         "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
@@ -609,23 +541,23 @@
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "INGEN ROSER UDEN TORNE",
-        "url": "https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
       },
       "artists": [
         {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 194560,
-      "name": "DRIPPY",
-      "url": "https://open.spotify.com/track/1y9Z6Wet8yF0aTQ50v5efu"
+      "duration_ms": 151891,
+      "name": "Miami Vicer",
+      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
@@ -645,7 +577,39 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "INGEN ROSER UDEN TORNE",
+        "url": "https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "DRIPPY",
+      "url": "https://open.spotify.com/track/1y9Z6Wet8yF0aTQ50v5efu"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -661,167 +625,23 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+        "name": "SEXY BACK",
+        "url": "https://open.spotify.com/album/4hGpzHBB7tQbG8ipVV5OsC"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+      "duration_ms": 139043,
+      "name": "SEXY BACK",
+      "url": "https://open.spotify.com/track/3bdPWMmYVzi0Ri7yxX8J3b"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Golazo (feat. Sivas)",
-        "url": "https://open.spotify.com/album/4eG8ObsNb2D2revUXTzHkW"
-      },
-      "artists": [
-        {
-          "name": "Xabski",
-          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
-        },
-        {
-          "name": "Sivas",
-          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
-        }
-      ],
-      "duration_ms": 132951,
-      "name": "Golazo (feat. Sivas)",
-      "url": "https://open.spotify.com/track/7LpgpLEA7ShgT5kkvpMb1K"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Hensigt",
-        "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Hensigt",
-      "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Livstegn",
-        "url": "https://open.spotify.com/album/2XeTcOAnwY6MkRYrl6JkSy"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Seebach",
-          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
-        }
-      ],
-      "duration_ms": 213021,
-      "name": "Livstegn",
-      "url": "https://open.spotify.com/track/2r9XlaCgwoflge9TxWVME1"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Op A V\u00e6ggen",
-        "url": "https://open.spotify.com/album/1vuI4ngP4rLqtg1SkycVAN"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Op A V\u00e6ggen",
-      "url": "https://open.spotify.com/track/1rhAnDeiinLzTE21CpMi9U"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
-    },
-    {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
@@ -841,7 +661,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
@@ -850,30 +670,158 @@
         {
           "name": "KESI",
           "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 156717,
-      "name": "Ik Noget Nyt",
-      "url": "https://open.spotify.com/track/5fwK4tlaTYfdTxHE8Zr21c"
+      "duration_ms": 188063,
+      "name": "Hva S\u00e5 (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/1ehdHfMnt1HJlxB6kduTT8"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "Smack / Bar La Hende Drik",
-        "url": "https://open.spotify.com/album/2opyUn8FLuSD4jAIzaWnRe"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
       "artists": [
         {
-          "name": "GMG",
-          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Smack",
-      "url": "https://open.spotify.com/track/6wHFL0oXCYFLWab25xf85h"
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "ErruDumEllaHvad",
+        "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 148942,
+      "name": "ErruDumEllaHvad",
+      "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Hensigt",
+        "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Hensigt",
+      "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Op A V\u00e6ggen",
+        "url": "https://open.spotify.com/album/1vuI4ngP4rLqtg1SkycVAN"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Op A V\u00e6ggen",
+      "url": "https://open.spotify.com/track/1rhAnDeiinLzTE21CpMi9U"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Livstegn",
+        "url": "https://open.spotify.com/album/2XeTcOAnwY6MkRYrl6JkSy"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 213021,
+      "name": "Livstegn",
+      "url": "https://open.spotify.com/track/2r9XlaCgwoflge9TxWVME1"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Golazo (feat. Sivas)",
+        "url": "https://open.spotify.com/album/4eG8ObsNb2D2revUXTzHkW"
+      },
+      "artists": [
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        },
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "duration_ms": 132951,
+      "name": "Golazo (feat. Sivas)",
+      "url": "https://open.spotify.com/track/7LpgpLEA7ShgT5kkvpMb1K"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -889,20 +837,80 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-06-25 13:39:23",
+      "added_at": "2022-06-26 11:06:22",
       "album": {
-        "name": "ErruDumEllaHvad",
-        "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 148942,
-      "name": "ErruDumEllaHvad",
-      "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Smack / Bar La Hende Drik",
+        "url": "https://open.spotify.com/album/2opyUn8FLuSD4jAIzaWnRe"
+      },
+      "artists": [
+        {
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Smack",
+      "url": "https://open.spotify.com/track/6wHFL0oXCYFLWab25xf85h"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+    },
+    {
+      "added_at": "2022-06-26 11:06:22",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
     }
   ],
   "unique_name": "Top 50 - Denmark",

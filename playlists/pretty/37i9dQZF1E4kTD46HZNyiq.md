@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With sød ven, Secret Nation, Boundary Run and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 4 | [Sailing Ships](https://open.spotify.com/track/7yTgEXrb0dob7LFSm5gueg) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Sailing Ships](https://open.spotify.com/album/7qzGBlv4PaIDHkdGQBUzdw) | 2:43 |
 | 5 | [You Should Go](https://open.spotify.com/track/0OTYrKz6bfiNQbKT4etFn3) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [You Should Go](https://open.spotify.com/album/0Ki5eoqR6wOIaIaNuaxJX6) | 4:04 |
 | 6 | [Isle of Strawberries](https://open.spotify.com/track/7zfTF24acTKL42XSfzGETi) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Will You Think of Me Later?](https://open.spotify.com/album/0Bb2UJXgxTgqUNC0z5QCyM) | 3:36 |
-| 7 | [Make It Me](https://open.spotify.com/track/6yBuSvfT1HVFdo2p5BUejp) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Barcelona](https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe) | 3:11 |
-| 8 | [comatose](https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [comatose](https://open.spotify.com/album/1eN3zVpTTBFcowHlRH2iIc) | 3:36 |
-| 9 | [Santa Barbara](https://open.spotify.com/track/647nqwKjXd2pYXmkvy6GIb) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [She's So Insane](https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ) | 2:37 |
+| 7 | [Where You Are](https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:31 |
+| 8 | [Make It Me](https://open.spotify.com/track/6yBuSvfT1HVFdo2p5BUejp) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Barcelona](https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe) | 3:11 |
+| 9 | [comatose](https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [comatose](https://open.spotify.com/album/1eN3zVpTTBFcowHlRH2iIc) | 3:36 |
 | 10 | [Ready to Fall](https://open.spotify.com/track/03vwpxUNLc06uOaGgA7yc3) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ready to Fall](https://open.spotify.com/album/4rbGgvXq14ILYQZmDsLrOC) | 2:54 |
-| 11 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 |
-| 12 | [Heartbeat](https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heartbeat](https://open.spotify.com/album/4kcrbLs822jesi8R1ok9ND) | 3:11 |
-| 13 | [Shoulder](https://open.spotify.com/track/2V423gFpb4yyokfl2KdevA) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [You In My Life](https://open.spotify.com/album/1ha5ny4dnXgp18uSlMxqvh) | 3:01 |
-| 14 | [mystery](https://open.spotify.com/track/5eeaotvfPFpLOHpuHdrloR) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [mystery](https://open.spotify.com/album/0YxYwgb2FnWEt3zXXAWgph) | 3:05 |
-| 15 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
+| 11 | [Santa Barbara](https://open.spotify.com/track/647nqwKjXd2pYXmkvy6GIb) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [She's So Insane](https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ) | 2:37 |
+| 12 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 |
+| 13 | [Heartbeat](https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heartbeat](https://open.spotify.com/album/4kcrbLs822jesi8R1ok9ND) | 3:11 |
+| 14 | [Shoulder](https://open.spotify.com/track/2V423gFpb4yyokfl2KdevA) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [You In My Life](https://open.spotify.com/album/1ha5ny4dnXgp18uSlMxqvh) | 3:01 |
+| 15 | [mystery](https://open.spotify.com/track/5eeaotvfPFpLOHpuHdrloR) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [mystery](https://open.spotify.com/album/0YxYwgb2FnWEt3zXXAWgph) | 3:05 |
 | 16 | [Marigolds](https://open.spotify.com/track/07oIgOa6p1MZZqD8XelNq2) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Marigolds](https://open.spotify.com/album/030qA9oqqINVeTJNS9mZKO) | 3:07 |
-| 17 | [Love Like You Care](https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:13 |
+| 17 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 18 | [Alright](https://open.spotify.com/track/5P5I2ge8gqFsfpR9Q2hR9j) | [Rightfield](https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14) | [Alright](https://open.spotify.com/album/5sg2rjdC6j33ajONziaXbV) | 3:21 |
 | 19 | [Sugarcane](https://open.spotify.com/track/2uWWjwCOyx1k8bKCYg2pH2) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Honey, Where Is My Home](https://open.spotify.com/album/68nnxd0cPg1DdGpWuedzMR) | 3:41 |
 | 20 | [Warm with You](https://open.spotify.com/track/0Pj6KjqwmJNdIOttPShZC9) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Warm With You](https://open.spotify.com/album/6Y3aUcxeYhAbv6CBgKXZ0R) | 4:07 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 40 | [halogen](https://open.spotify.com/track/5OBJOlY6iHnYZXGAKeeLiB) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [halogen](https://open.spotify.com/album/372NuVPlulqmxYa1ZOVHL5) | 4:03 |
 | 41 | [Infinite Space](https://open.spotify.com/track/2JnjqjmpctEcU7QRviEUTh) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Infinite Space](https://open.spotify.com/album/0DDFQDEKlvJO7ALrVE8AxA) | 3:24 |
 | 42 | [Lose Ourselves](https://open.spotify.com/track/2IFZTQe05IUYNoik6yLPwJ) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Lose Ourselves](https://open.spotify.com/album/5ApBHIYdpwvF3sRlAuE343) | 3:25 |
-| 43 | [Through Different Eyes](https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Three](https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe) | 5:57 |
+| 43 | [Close to Me](https://open.spotify.com/track/4U02OP2Wt9v3141euGM4DA) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Six](https://open.spotify.com/album/3iGkb3UF4WpHQz1sK2EBTi) | 3:59 |
 | 44 | [Losing My Mind](https://open.spotify.com/track/6h3JuVibuWissgTLeueGFz) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 3:57 |
 | 45 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
 | 46 | [Never Stop](https://open.spotify.com/track/4fGgmcD5Ke4I4ZfJ1hZeiW) | [Tyler Brown Williams](https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7) | [Never Stop](https://open.spotify.com/album/0heRIUrWLrUxk839a3tMAG) | 4:09 |
 | 47 | [Carolina](https://open.spotify.com/track/6GHzlKjZ3hDatLhyk8LPAQ) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Young Mister](https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4) | 4:05 |
-| 48 | [Heart Away](https://open.spotify.com/track/51K5zFXStvYJ20UNE4nEFM) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heart Away](https://open.spotify.com/album/6eNyApXXukqsxR8LDYbumB) | 3:50 |
-| 49 | [Close to Me](https://open.spotify.com/track/4U02OP2Wt9v3141euGM4DA) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Six](https://open.spotify.com/album/3iGkb3UF4WpHQz1sK2EBTi) | 3:59 |
+| 48 | [Here to You](https://open.spotify.com/track/1WAMaDAcysp2f5KqA70Syb) | [Tyler Brown Williams](https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7) | [Here to You](https://open.spotify.com/album/0oYNqLRnydqK5flEsSxrce) | 3:17 |
+| 49 | [Heart Away](https://open.spotify.com/track/51K5zFXStvYJ20UNE4nEFM) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heart Away](https://open.spotify.com/album/6eNyApXXukqsxR8LDYbumB) | 3:50 |
 | 50 | [love is so hard!](https://open.spotify.com/track/0Yu6DQYBpvztT117wT37aR) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [love is so hard!](https://open.spotify.com/album/5AHsddOw41Op3yc0Q3Fzv9) | 4:27 |
 
-Snapshot ID: `MTY1NjIwNjU3OCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY1NjI5MzI4MiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

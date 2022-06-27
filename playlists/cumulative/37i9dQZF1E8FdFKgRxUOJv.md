@@ -2,9 +2,9 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Teskey Brothers, The Head And The Heart, John Smith and more
+> With John Mayer, The Teskey Brothers, John Smith, The Brook & The Bluff and more
 
-992 songs - 2 day 13 hr 40 min - [published](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
+993 songs - 2 day 13 hr 43 min - [published](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Better Now](https://open.spotify.com/track/0YZMnz55bPSAYriyvujv41) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Better Now](https://open.spotify.com/album/2sQtAa8qvNEAdKwYgzmVPI) | 3:18 | 2019-12-06\* | 2020-02-10 |
 | [Better Now](https://open.spotify.com/track/0cmCJXoVxi0sUDyzlWMw1m) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [No One Else Can Wear Your Crown \(Deluxe\)](https://open.spotify.com/album/2PERPMWWY1pchfPKeNUJx8) | 3:18 | 2020-02-11 | 2020-02-14 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2020-03-04 | 2022-03-09 |
+| [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-06-27 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2020-03-07 | 2022-03-08 |
 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 | 2022-06-24 |  |
 | [Beyond \- Acoustic](https://open.spotify.com/track/51yjH6e35yHWJhPo9YPGD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/2tN477XTNdcH5jOb4BeNWH) | 4:11 | 2021-04-08 | 2022-03-01 |
@@ -198,7 +199,7 @@
 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 | 2020-05-06 | 2022-02-07 |
 | [Dead Ringer](https://open.spotify.com/track/0Rki21AYk4m80ITCe1E34i) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Dead Ringer](https://open.spotify.com/album/0kOhy5xpCIVQrIpO78RpYC) | 3:39 | 2022-06-21 | 2022-06-22 |
 | [Dead Ringer](https://open.spotify.com/track/20WriEHh4LCUqjoeoWeABm) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Dead Ringer](https://open.spotify.com/album/4ssgG6wzrYIPyGG9vMFohI) | 3:39 | 2019-12-07 | 2022-06-10 |
-| [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:42 | 2022-03-19 | 2022-06-22 |
+| [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:42 | 2022-03-19 |  |
 | [Didn't See It Coming](https://open.spotify.com/track/7GnXKlzSWy0oeKZwV8RiPE) | [My Brothers And I](https://open.spotify.com/artist/01pbsrLZgBLuMIoU10Ypyb) | [Didn't See It Coming](https://open.spotify.com/album/3cv5rsdpAwlsW5wpg76P87) | 4:31 | 2022-03-13 | 2022-06-22 |
 | [Difficult Love](https://open.spotify.com/track/4mJNzlooNUYYgWdhFqQeSc) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [A Pill for Loneliness](https://open.spotify.com/album/1JaCRg0kiQCxm2jxIby648) | 4:04 | 2019-12-13 | 2022-06-24 |
 | [Distant Land](https://open.spotify.com/track/6lTNaNt7gP9xxPJbSHrU1x) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Distant Land](https://open.spotify.com/album/4MnLVjCjr3fcG0SLoTrSnY) | 3:21 | 2022-05-08 | 2022-06-20 |
@@ -398,7 +399,7 @@
 | [I Don't Trust Myself \(With Loving You\)](https://open.spotify.com/track/7peh6LUcdNPcMdrSH4JPsM) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:52 | 2022-03-23 | 2022-06-22 |
 | [I Don't Wanna Be Okay Without You](https://open.spotify.com/track/0sUu11545VikLoNFLscCYY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Live in Peter's Attic](https://open.spotify.com/album/01rlx8V5ENqXORdRExGIUe) | 4:03 | 2020-04-05 | 2020-04-06 |
 | [I Don't Wanna Be Okay Without You](https://open.spotify.com/track/5HKv1sFHbXgmXBih203HxT) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Live in Peter's Attic](https://open.spotify.com/album/3LtdBk7jTtwYMbBCDfQZm6) | 4:03 | 2020-05-23 | 2020-08-20 |
-| [I Found Out](https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:53 | 2019-12-16 |  |
+| [I Found Out](https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:53 | 2019-12-16 | 2022-06-27 |
 | [I Found You](https://open.spotify.com/track/3CAqTfkRgmImhxYDjyL6S7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 2:31 | 2020-01-23 | 2022-04-17 |
 | [I Get Up](https://open.spotify.com/track/5i67g9X1FOzahW7ICwQS4m) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:23 | 2022-04-22 | 2022-04-24 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2021-07-20 | 2022-06-24 |
@@ -957,7 +958,7 @@
 | [Why Georgia](https://open.spotify.com/track/1c7UYTut2SBOPq64o2t0uN) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:28 | 2019-12-06\* | 2022-05-31 |
 | [Why You No Love Me](https://open.spotify.com/track/3hwjxbqGvTRUPi38fLgeM7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:15 | 2022-03-19 | 2022-03-21 |
 | [Wild \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/4rVW6XqAsSaf5vOwc8FREW) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:16 | 2020-11-08 | 2022-03-06 |
-| [Wild Blue](https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:12 | 2021-09-02 |  |
+| [Wild Blue](https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:12 | 2021-09-02 | 2022-06-27 |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2020-01-01 | 2022-03-05 |
 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 | 2022-02-10 | 2022-02-28 |
 | [Wildfire Love](https://open.spotify.com/track/37vN7LhPupLgQRHpmL6Id2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof), [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Imperfect Circle](https://open.spotify.com/album/55jKopASR7pMEHX3XFsDmh) | 3:32 | 2022-03-12 | 2022-06-06 |

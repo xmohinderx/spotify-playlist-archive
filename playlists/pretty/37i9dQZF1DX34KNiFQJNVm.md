@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Priscilla Alcantara com Emicida, Beyoncé, Péricles e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,160 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,181 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 15 | [Não Pensar Com o Coração \- Ao Vivo](https://open.spotify.com/track/5HuNRvirtnUnYwH8BI1f2G) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:44 |
 | 16 | [Todo Mundo Tem \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/67qlZmHMltO8PMYrN8xqfN) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Todo Mundo Tem \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2Cr8MwvcUx0wQurx8uSw43) | 2:56 |
 | 17 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
-| 18 | [Fé em Deus \(feat\. Mc Lele JP\)](https://open.spotify.com/track/2aTxCfNhDeJzQMtmHs0Jid) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Fé em Deus \(feat\. Mc Lele JP\)](https://open.spotify.com/album/51OqIcawvkAAH2bojg6ZYR) | 3:51 |
+| 18 | [Fé em Deus](https://open.spotify.com/track/2aTxCfNhDeJzQMtmHs0Jid) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Fé em Deus](https://open.spotify.com/album/51OqIcawvkAAH2bojg6ZYR) | 3:51 |
 | 19 | [Terra de Ninguém](https://open.spotify.com/track/5TeMdNtcbqoFcfak9OjGxz) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Terra de Ninguém](https://open.spotify.com/album/12XxRLjpK81SO2ipBmsYyU) | 4:14 |
 | 20 | [Loirinha do Olho Azul](https://open.spotify.com/track/3H8CK78otVlA7bDT6t84J1) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Loirinha do Olho Azul](https://open.spotify.com/album/0GTq6otih4AbcUqs4uJLmu) | 3:16 |
 | 21 | [Sonhei](https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sonhei](https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o) | 2:25 |

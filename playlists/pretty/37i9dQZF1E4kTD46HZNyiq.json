@@ -1,12 +1,12 @@
 {
   "description": "With s\u00f8d ven, Secret Nation, Boundary Run and more",
-  "num_followers": 1136,
+  "num_followers": 1137,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjIwNjU3OCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
+  "snapshot_id": "MTY1NjI5MzI4MiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's So Insane",
-        "url": "https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ"
-      },
-      "artists": [
-        {
-          "name": "The Millennial Club",
-          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
-        }
-      ],
-      "duration_ms": 157892,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/647nqwKjXd2pYXmkvy6GIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready to Fall",
         "url": "https://open.spotify.com/album/4rbGgvXq14ILYQZmDsLrOC"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 174938,
       "name": "Ready to Fall",
       "url": "https://open.spotify.com/track/03vwpxUNLc06uOaGgA7yc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She's So Insane",
+        "url": "https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ"
+      },
+      "artists": [
+        {
+          "name": "The Millennial Club",
+          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
+        }
+      ],
+      "duration_ms": 157892,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/647nqwKjXd2pYXmkvy6GIb"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marigolds",
         "url": "https://open.spotify.com/album/030qA9oqqINVeTJNS9mZKO"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B"
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
       "artists": [
         {
-          "name": "Perlo",
-          "url": "https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 193645,
-      "name": "Love Like You Care",
-      "url": "https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn"
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Three",
-        "url": "https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe"
+        "name": "Chapter Six",
+        "url": "https://open.spotify.com/album/3iGkb3UF4WpHQz1sK2EBTi"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
         }
       ],
-      "duration_ms": 357115,
-      "name": "Through Different Eyes",
-      "url": "https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3"
+      "duration_ms": 239364,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4U02OP2Wt9v3141euGM4DA"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here to You",
+        "url": "https://open.spotify.com/album/0oYNqLRnydqK5flEsSxrce"
+      },
+      "artists": [
+        {
+          "name": "Tyler Brown Williams",
+          "url": "https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7"
+        }
+      ],
+      "duration_ms": 197370,
+      "name": "Here to You",
+      "url": "https://open.spotify.com/track/1WAMaDAcysp2f5KqA70Syb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart Away",
         "url": "https://open.spotify.com/album/6eNyApXXukqsxR8LDYbumB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 230506,
       "name": "Heart Away",
       "url": "https://open.spotify.com/track/51K5zFXStvYJ20UNE4nEFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Six",
-        "url": "https://open.spotify.com/album/3iGkb3UF4WpHQz1sK2EBTi"
-      },
-      "artists": [
-        {
-          "name": "CHPTRS",
-          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
-        }
-      ],
-      "duration_ms": 239364,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4U02OP2Wt9v3141euGM4DA"
     },
     {
       "added_at": null,

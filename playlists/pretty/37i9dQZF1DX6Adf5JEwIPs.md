@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Pancho Barraza
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,091 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,110 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [El Discovery](https://open.spotify.com/track/6osid8f2nLcVrpa1Xd0emE) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Alucinando](https://open.spotify.com/album/7d8UxNZot940zNdnbMRlQt) | 2:54 |
 | 20 | [El Parrandero](https://open.spotify.com/track/0qNLLMiaNHaOPfS4PF1psA) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Parrandero](https://open.spotify.com/album/3ctrg1tQJdXY390ho5q3Iv) | 2:54 |
 | 21 | [GPI Gracias Por Invitar](https://open.spotify.com/track/6rv7UKGJbuBxKRmeLEk1Ae) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [GPI Gracias Por Invitar](https://open.spotify.com/album/1NAQcdLoHN5vAmYT9DABzN) | 2:36 |
-| 22 | [Aunque Soy Tóxico](https://open.spotify.com/track/3w0WzSP7wvCiai1EwAd6b3) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Aunque Soy Tóxico](https://open.spotify.com/album/72vfe2kH8msqpIBIHJj5jL) | 2:11 |
+| 22 | [Aunque Sea Tóxico](https://open.spotify.com/track/3w0WzSP7wvCiai1EwAd6b3) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Aunque Sea Tóxico](https://open.spotify.com/album/72vfe2kH8msqpIBIHJj5jL) | 2:11 |
 | 23 | [El Piquetito](https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Piquetito](https://open.spotify.com/album/1tj8rwJ06KkWtWYPR2Sgxc) | 2:50 |
 | 24 | [Te Estás Tardando](https://open.spotify.com/track/4cNJ5oxo7BgMvNjgJexv1s) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Te Estás Tardando](https://open.spotify.com/album/1EpQyQjhOvpwz4jXG3s0U6) | 2:26 |
 | 25 | [Regresa](https://open.spotify.com/track/4YBXOC63y9dngCimXqDS8t) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Regresa](https://open.spotify.com/album/5R7R4eTxOeYFLQxNXbrdRK) | 3:16 |

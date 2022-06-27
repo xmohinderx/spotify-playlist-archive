@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 183631,
       "name": "Airmax BW",
       "url": "https://open.spotify.com/track/2UhWINPqByHkdf0nsQnjJO"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 181957,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
@@ -6084,6 +6084,24 @@
     },
     {
       "album": {
+        "name": "Ik Ben Kachel",
+        "url": "https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr"
+      },
+      "artists": [
+        {
+          "name": "OBZ",
+          "url": "https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Ik Ben Kachel",
+      "url": "https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT"
+    },
+    {
+      "album": {
         "name": "Ik Ga Zwemmen",
         "url": "https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j"
       },
@@ -6095,7 +6113,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 179363,
       "name": "Ik Ga Zwemmen",
       "url": "https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi"
@@ -9285,7 +9303,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-27",
       "duration_ms": 150477,
       "name": "Okee Shordy",
       "url": "https://open.spotify.com/track/4RCKxit6c2kl7dwJPKT3hc"

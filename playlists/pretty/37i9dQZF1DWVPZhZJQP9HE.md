@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,536 likes - 94 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,560 likes - 94 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

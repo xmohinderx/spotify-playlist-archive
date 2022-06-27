@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-117 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+118 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |
 | [Freedom \- Acoustic](https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN), [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Freedom \(Acoustic\)](https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN) | 3:38 | 2022-01-21 |  |
+| [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 | 2022-06-26 |  |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn) | 2:33 | 2021-05-21 |  |
 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 | 2019-10-13 |  |
 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2019-10-13 |  |
@@ -67,7 +68,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2019-10-13 |  |
 | [Linger \(Acoustic\)](https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Linger \(Acoustic\)](https://open.spotify.com/album/1g1CPXonz2qCXUqZMqcqP4) | 2:46 | 2019-10-13 |  |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2019-10-13 |  |
-| [Lovely Day \- Acoustic](https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/21xpcm4980RyqV2Asq7PWv) | 3:01 | 2022-04-22 |  |
+| [Lovely Day \- Acoustic](https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/21xpcm4980RyqV2Asq7PWv) | 3:01 | 2022-04-22 | 2022-06-27 |
 | [Mad World \- Acoustic](https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Mad World \(Acoustic\)](https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i) | 3:00 | 2020-12-24 |  |
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2019-10-13 |  |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2019-10-13 |  |
