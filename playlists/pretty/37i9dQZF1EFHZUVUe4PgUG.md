@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 73 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 73 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 59 | [How Not to Love You](https://open.spotify.com/track/1dFUGlyxSCJUkxjbgFTAZW) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/2SfDOXc3iFB6kjjBVzuSOo) | 3:18 |
 | 60 | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/track/6kDXGEm0VGEbs0ZtFp2EUL) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [TOCANDO EL CIELO \(feat\. Felp 22\)](https://open.spotify.com/album/427hCecyt8ext6LkFXXw9c) | 3:40 |
 | 61 | [La Moto](https://open.spotify.com/track/1UBt22GcEFyXgJxJT4SVKT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:12 |
-| 62 | [Hombre](https://open.spotify.com/track/1OPfK9dAwuwxLdu4WzeX27) | [Sammi Sanchez](https://open.spotify.com/artist/1ipFOh7c2lNnTdXJiIKR87) | [Hombre](https://open.spotify.com/album/0sm5DYD1xyeGzIjqDKUeAp) | 3:05 |
-| 63 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 |
+| 62 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 |
+| 63 | [Hombre](https://open.spotify.com/track/1OPfK9dAwuwxLdu4WzeX27) | [Sammi Sanchez](https://open.spotify.com/artist/1ipFOh7c2lNnTdXJiIKR87) | [Hombre](https://open.spotify.com/album/0sm5DYD1xyeGzIjqDKUeAp) | 3:05 |
 | 64 | [Tiempo al Viento](https://open.spotify.com/track/2z9jQZxUOpuQqkWDgoHYCt) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:07 |
 | 65 | [Casi Casi](https://open.spotify.com/track/2twF3hXDFL25aZUDGajxff) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Alejandro Santamaria](https://open.spotify.com/album/7ltaTBhRZPxG2MFAW4h9by) | 3:15 |
 | 66 | [Loca Crazy](https://open.spotify.com/track/3HcnF7SQgTL6PG5UGGPnyv) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/4pzkeNg3MARIDjJkEWDX8u) | 2:36 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 72 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 73 | [Despiértate \- Reggaeton Acústico](https://open.spotify.com/track/0wnghfFTH9fta0DaWPX225) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Reguetón en Casa](https://open.spotify.com/album/7BOkdG3MOlq9JJlixTHinq) | 2:25 |
 
-Snapshot ID: `Mjc2MDQ4NjksMDAwMDAwMDA0Mjc5MGNjMzRmYjRjMjIyODA5ZTAzMTM4NDZmM2IxNg==`
+Snapshot ID: `Mjc2MDYzMDksMDAwMDAwMDA1OTQ0NmE5OTA5NDQwZjNiNWI3MzczZmVjY2MyYzhlMQ==`

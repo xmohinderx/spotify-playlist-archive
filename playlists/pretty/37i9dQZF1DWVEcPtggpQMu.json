@@ -1,49 +1,13 @@
 {
   "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf_iQ2KM0vD5dMKglw\">Sgi_Magalela</a> ",
-  "num_followers": 34751,
+  "num_followers": 34754,
   "original_name": "Aux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5NzU0MCwwMDAwMDRkNzAwMDAwMTgwZGU1NGM5MjEwMDAwMDE4MGRkNGU5ODcx",
+  "snapshot_id": "MTY1NjMyMzgyMiwwMDAwMDRkOTAwMDAwMTgxYTQ5N2Q1MjkwMDAwMDE4MGRkNGU5ODcx",
   "tracks": [
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "Something Sao Mizisa II",
-        "url": "https://open.spotify.com/album/5rOPUq2aYjYlDAm2sIny8u"
-      },
-      "artists": [
-        {
-          "name": "Sgi_Magalela",
-          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
-        },
-        {
-          "name": "Vareza",
-          "url": "https://open.spotify.com/artist/4k172h6rvNfwZJC0vKolEW"
-        }
-      ],
-      "duration_ms": 232829,
-      "name": "Ska Tlo Re Bora",
-      "url": "https://open.spotify.com/track/3z1WNViKcihcLGnqgzLwha"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "\"EHH Baby\" The Big Bang Theory",
-        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "Deposit",
-      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
-    },
     {
       "added_at": "2022-05-12 21:59:00",
       "album": {
@@ -87,6 +51,94 @@
       "duration_ms": 186357,
       "name": "Changed",
       "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
+    },
+    {
+      "added_at": "2022-02-10 21:59:00",
+      "album": {
+        "name": "Pirara",
+        "url": "https://open.spotify.com/album/56L5WYlzq8HHcJgMKxXcj3"
+      },
+      "artists": [
+        {
+          "name": "Sgi_Magalela",
+          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Pirara",
+      "url": "https://open.spotify.com/track/7bFqMWXwQk9NQ9KoRacTJW"
+    },
+    {
+      "added_at": "2022-04-22 05:51:38",
+      "album": {
+        "name": "Talk to Me Naace",
+        "url": "https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2"
+    },
+    {
+      "added_at": "2021-01-25 08:10:23",
+      "album": {
+        "name": "Big Time Sh'lappa",
+        "url": "https://open.spotify.com/album/3eINTO6mHkWunFleBKFldZ"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "duration_ms": 201326,
+      "name": "Big Time Sh'lappa",
+      "url": "https://open.spotify.com/track/6XAJRqHVGQ9F2w8BFOgMLK"
+    },
+    {
+      "added_at": "2022-05-19 21:59:00",
+      "album": {
+        "name": "Something Sao Mizisa II",
+        "url": "https://open.spotify.com/album/5rOPUq2aYjYlDAm2sIny8u"
+      },
+      "artists": [
+        {
+          "name": "Sgi_Magalela",
+          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
+        },
+        {
+          "name": "Vareza",
+          "url": "https://open.spotify.com/artist/4k172h6rvNfwZJC0vKolEW"
+        }
+      ],
+      "duration_ms": 232829,
+      "name": "Ska Tlo Re Bora",
+      "url": "https://open.spotify.com/track/3z1WNViKcihcLGnqgzLwha"
+    },
+    {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "\"EHH Baby\" The Big Bang Theory",
+        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "Deposit",
+      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
     },
     {
       "added_at": "2022-05-19 21:59:00",
@@ -133,38 +185,6 @@
       "url": "https://open.spotify.com/track/30pEdKovWCPxRCoRjkfyv4"
     },
     {
-      "added_at": "2022-04-22 05:51:38",
-      "album": {
-        "name": "Talk to Me Naace",
-        "url": "https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE"
-      },
-      "artists": [
-        {
-          "name": "ZULO",
-          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "SUPREME",
-      "url": "https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2"
-    },
-    {
-      "added_at": "2022-02-10 21:59:00",
-      "album": {
-        "name": "Pirara",
-        "url": "https://open.spotify.com/album/56L5WYlzq8HHcJgMKxXcj3"
-      },
-      "artists": [
-        {
-          "name": "Sgi_Magalela",
-          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Pirara",
-      "url": "https://open.spotify.com/track/7bFqMWXwQk9NQ9KoRacTJW"
-    },
-    {
       "added_at": "2022-04-22 05:35:40",
       "album": {
         "name": "Dear Rikhado, Love Riyadh",
@@ -179,26 +199,6 @@
       "duration_ms": 282622,
       "name": "Dear Rikhado, Love Riyadh",
       "url": "https://open.spotify.com/track/6batDbuoV8YSIXiLQkpb1W"
-    },
-    {
-      "added_at": "2021-01-25 08:10:23",
-      "album": {
-        "name": "Big Time Sh'lappa",
-        "url": "https://open.spotify.com/album/3eINTO6mHkWunFleBKFldZ"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        }
-      ],
-      "duration_ms": 201326,
-      "name": "Big Time Sh'lappa",
-      "url": "https://open.spotify.com/track/6XAJRqHVGQ9F2w8BFOgMLK"
     },
     {
       "added_at": "2021-10-07 21:59:00",
@@ -301,38 +301,6 @@
       "url": "https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS"
     },
     {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "The Archives",
-        "url": "https://open.spotify.com/album/5cPJVSLbWrl1Y9CPWZ20V4"
-      },
-      "artists": [
-        {
-          "name": "Elliot Smalls",
-          "url": "https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "MA",
-      "url": "https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx"
-    },
-    {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "Couldn't Have Said It Better, Pt. 3",
-        "url": "https://open.spotify.com/album/6eNaDkgGcqayM2qDL019Ea"
-      },
-      "artists": [
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Couldn't Have Said It Better, Pt. 3",
-      "url": "https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea"
-    },
-    {
       "added_at": "2021-03-18 22:00:00",
       "album": {
         "name": "Mntase",
@@ -365,26 +333,6 @@
       "url": "https://open.spotify.com/track/5PnPIZLpLL8Ci9rbihFKDq"
     },
     {
-      "added_at": "2021-10-04 12:50:44",
-      "album": {
-        "name": "Intentions (feat. Blxckie)",
-        "url": "https://open.spotify.com/album/6iuuF26a4hOtjB07oq8yjd"
-      },
-      "artists": [
-        {
-          "name": "Sliqe",
-          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Intentions (feat. Blxckie)",
-      "url": "https://open.spotify.com/track/62YE2rQA0dkNmuNJCEB5Bu"
-    },
-    {
       "added_at": "2021-10-14 21:59:00",
       "album": {
         "name": "PLAYBACK",
@@ -399,42 +347,6 @@
       "duration_ms": 192000,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7"
-    },
-    {
-      "added_at": "2021-06-03 21:59:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
-    },
-    {
-      "added_at": "2022-04-22 05:35:40",
-      "album": {
-        "name": "Something Sao Mizisa I (Extended Version)",
-        "url": "https://open.spotify.com/album/046a2tPk3FDV6zHHAGvWBB"
-      },
-      "artists": [
-        {
-          "name": "Sgi_Magalela",
-          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
-        },
-        {
-          "name": "Ecco the Beast",
-          "url": "https://open.spotify.com/artist/79Elket3S4dmzHuEhy9djc"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "They Gon' Know",
-      "url": "https://open.spotify.com/track/5nIwxDgLOgpcjPFadzgs6I"
     },
     {
       "added_at": "2022-04-30 05:02:51",
@@ -457,6 +369,66 @@
       "url": "https://open.spotify.com/track/79ERAQP6BwL7qcSDcqR1RC"
     },
     {
+      "added_at": "2022-03-31 21:59:00",
+      "album": {
+        "name": "Couldn't Have Said It Better, Pt. 3",
+        "url": "https://open.spotify.com/album/6eNaDkgGcqayM2qDL019Ea"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Couldn't Have Said It Better, Pt. 3",
+      "url": "https://open.spotify.com/track/2707FUsKLBJHDznDXAM1ea"
+    },
+    {
+      "added_at": "2021-10-04 12:50:44",
+      "album": {
+        "name": "Intentions (feat. Blxckie)",
+        "url": "https://open.spotify.com/album/6iuuF26a4hOtjB07oq8yjd"
+      },
+      "artists": [
+        {
+          "name": "Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Intentions (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/62YE2rQA0dkNmuNJCEB5Bu"
+    },
+    {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2IVWmWqvOi89ICkMc1kzxF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse",
+          "url": "https://open.spotify.com/artist/0hzHRPp0UkdwoSVhWqUWai"
+        },
+        {
+          "name": "VenomRaps",
+          "url": "https://open.spotify.com/artist/3SAqo6Io8ovagEFHDcsxMC"
+        },
+        {
+          "name": "Thekidsnextdoor",
+          "url": "https://open.spotify.com/artist/3RShIcV5kdBbcpH1XN5im0"
+        }
+      ],
+      "duration_ms": 178494,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/6bcJBoJLsdvISi6M5c3O79"
+    },
+    {
       "added_at": "2021-12-13 15:03:22",
       "album": {
         "name": "TALK SiKK",
@@ -473,6 +445,62 @@
       "url": "https://open.spotify.com/track/6MiROidErndwYe5sTt44EQ"
     },
     {
+      "added_at": "2022-03-31 21:59:00",
+      "album": {
+        "name": "The Archives",
+        "url": "https://open.spotify.com/album/5cPJVSLbWrl1Y9CPWZ20V4"
+      },
+      "artists": [
+        {
+          "name": "Elliot Smalls",
+          "url": "https://open.spotify.com/artist/6ee6gOLet09Kv10DhYzCQ2"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "MA",
+      "url": "https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx"
+    },
+    {
+      "added_at": "2021-06-03 21:59:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
+    },
+    {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "City Dreams",
+        "url": "https://open.spotify.com/album/3bHGs1INSpGpZt9uSwvwdQ"
+      },
+      "artists": [
+        {
+          "name": "Pervader",
+          "url": "https://open.spotify.com/artist/5RdDDjtLWX9sD7i6Mn4630"
+        },
+        {
+          "name": "Papta Mancane",
+          "url": "https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "City Dreams",
+      "url": "https://open.spotify.com/track/0qwYAfIDXhl2TuqmpXionb"
+    },
+    {
       "added_at": "2022-04-30 05:02:51",
       "album": {
         "name": "CAPE TOWN RADIO 2",
@@ -487,6 +515,46 @@
       "duration_ms": 180052,
       "name": "WHAT I LIKE",
       "url": "https://open.spotify.com/track/2fjyQGAFWVxjCTNG0AaRb0"
+    },
+    {
+      "added_at": "2022-04-22 05:35:40",
+      "album": {
+        "name": "Something Sao Mizisa I (Extended Version)",
+        "url": "https://open.spotify.com/album/046a2tPk3FDV6zHHAGvWBB"
+      },
+      "artists": [
+        {
+          "name": "Sgi_Magalela",
+          "url": "https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE"
+        },
+        {
+          "name": "Ecco the Beast",
+          "url": "https://open.spotify.com/artist/79Elket3S4dmzHuEhy9djc"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "They Gon' Know",
+      "url": "https://open.spotify.com/track/5nIwxDgLOgpcjPFadzgs6I"
+    },
+    {
+      "added_at": "2022-02-10 21:59:00",
+      "album": {
+        "name": "The Three Musketeers",
+        "url": "https://open.spotify.com/album/208XAyolLlLHOaLVEAQY9n"
+      },
+      "artists": [
+        {
+          "name": "Logical Rhymez",
+          "url": "https://open.spotify.com/artist/34U9SaAmcwFw644qQLr6Ie"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "God Save The King",
+      "url": "https://open.spotify.com/track/2PiCTC0IUYPZNx3UFei1DO"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -545,26 +613,6 @@
       "url": "https://open.spotify.com/track/7GYURd48860hGVj86oyxRz"
     },
     {
-      "added_at": "2022-02-10 21:59:00",
-      "album": {
-        "name": "The Three Musketeers",
-        "url": "https://open.spotify.com/album/208XAyolLlLHOaLVEAQY9n"
-      },
-      "artists": [
-        {
-          "name": "Logical Rhymez",
-          "url": "https://open.spotify.com/artist/34U9SaAmcwFw644qQLr6Ie"
-        },
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "God Save The King",
-      "url": "https://open.spotify.com/track/2PiCTC0IUYPZNx3UFei1DO"
-    },
-    {
       "added_at": "2021-09-02 22:17:51",
       "album": {
         "name": "Ntoni Na (feat. Blxckie & 25K)",
@@ -609,6 +657,22 @@
       "url": "https://open.spotify.com/track/1XEujV1o6sNolvXLYk3erB"
     },
     {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "Dues (Radio Version)",
+        "url": "https://open.spotify.com/album/2uQMFhKD4l2Vzux79pIkhM"
+      },
+      "artists": [
+        {
+          "name": "S B X",
+          "url": "https://open.spotify.com/artist/22iRXe7Ptsc5SiKfYXuK4Q"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Dues - Radio Version",
+      "url": "https://open.spotify.com/track/7kqrDBm2gEIt1QZI5VwMR6"
+    },
+    {
       "added_at": "2021-02-18 22:00:00",
       "album": {
         "name": "Mshimane 2.0",
@@ -635,6 +699,30 @@
       "duration_ms": 227827,
       "name": "Mshimane 2.0",
       "url": "https://open.spotify.com/track/2Ormc8TxYXrn3XKIzrmngh"
+    },
+    {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "Gameplay",
+        "url": "https://open.spotify.com/album/4lztN49NSwzerYm6S4EvV7"
+      },
+      "artists": [
+        {
+          "name": "Moreign",
+          "url": "https://open.spotify.com/artist/2GYCc9NkOgLtBObWYaAD99"
+        },
+        {
+          "name": "Amani Unsxned",
+          "url": "https://open.spotify.com/artist/0TUZk7EHxv6ocC0ee7AirJ"
+        },
+        {
+          "name": "A8trip The Poet",
+          "url": "https://open.spotify.com/artist/5MGiTMHfRXcut2QYXUg6Tf"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Gameplay",
+      "url": "https://open.spotify.com/track/1DDs6VrHyHXyavwhiZATbS"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -717,6 +805,22 @@
       "url": "https://open.spotify.com/track/3ZRBAl7ykKZtSFGlMXewp7"
     },
     {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/1HJJHGVSQIl2sXDkZzVrmn"
+      },
+      "artists": [
+        {
+          "name": "Angie Santana",
+          "url": "https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT"
+        }
+      ],
+      "duration_ms": 241319,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2Uf4R623uUfUX84lK3ePnA"
+    },
+    {
       "added_at": "2022-03-24 21:59:00",
       "album": {
         "name": "Calls On Me",
@@ -749,6 +853,38 @@
       "url": "https://open.spotify.com/track/0qHseRiLUEkuXR6YCspJnn"
     },
     {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "Episode Blues",
+        "url": "https://open.spotify.com/album/1HsySL0ZPCMwMwWiXyhoHX"
+      },
+      "artists": [
+        {
+          "name": "Orchid MusiQ",
+          "url": "https://open.spotify.com/artist/6poHluhYcLIL6jomFHY5pD"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "Episode Blues",
+      "url": "https://open.spotify.com/track/2kK0ZSBxx3U3hvXFXCz97a"
+    },
+    {
+      "added_at": "2021-10-29 07:40:50",
+      "album": {
+        "name": "The Pressure",
+        "url": "https://open.spotify.com/album/2vomt1RA0jLmhuGIys6AAK"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 261340,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/0MHnB8ECLzM4LEDjLLgdm8"
+    },
+    {
       "added_at": "2022-04-22 05:35:40",
       "album": {
         "name": "Trapiano, Vol. 1",
@@ -771,22 +907,6 @@
       "duration_ms": 190589,
       "name": "Bula Sekele",
       "url": "https://open.spotify.com/track/53zBbKEqPVgHk9t0xDPoE7"
-    },
-    {
-      "added_at": "2021-10-29 07:40:50",
-      "album": {
-        "name": "The Pressure",
-        "url": "https://open.spotify.com/album/2vomt1RA0jLmhuGIys6AAK"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 261340,
-      "name": "The Pressure",
-      "url": "https://open.spotify.com/track/0MHnB8ECLzM4LEDjLLgdm8"
     },
     {
       "added_at": "2022-02-24 21:59:00",
@@ -935,6 +1055,26 @@
       "duration_ms": 135426,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc"
+    },
+    {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "Tekky?",
+        "url": "https://open.spotify.com/album/2lUZyNwtlHN9rLiCV9zHyD"
+      },
+      "artists": [
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Tekky?",
+      "url": "https://open.spotify.com/track/69q9wUIcQAznSeMugywbAT"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -1139,6 +1279,22 @@
       "duration_ms": 160000,
       "name": "BABY BLUE 4\u2019s",
       "url": "https://open.spotify.com/track/1gFRWEKDNZAtrb1P4g7QHq"
+    },
+    {
+      "added_at": "2022-06-27 09:53:08",
+      "album": {
+        "name": "KODA",
+        "url": "https://open.spotify.com/album/2JErsheegLgiHuvw28JFqK"
+      },
+      "artists": [
+        {
+          "name": "JEDI SLANG",
+          "url": "https://open.spotify.com/artist/4JHxsJI4xQrttgFkTZsKwt"
+        }
+      ],
+      "duration_ms": 282638,
+      "name": "KODA (Kids on Drugs Again)",
+      "url": "https://open.spotify.com/track/2fwpTCKcjlbJgFmSGBrQ6l"
     },
     {
       "added_at": "2022-03-24 21:59:00",
@@ -1423,38 +1579,6 @@
     {
       "added_at": "2022-05-19 21:59:00",
       "album": {
-        "name": "Same Mistakes",
-        "url": "https://open.spotify.com/album/5qpwsn9z5dZ1Vbp6eTe11z"
-      },
-      "artists": [
-        {
-          "name": "Nanette",
-          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Same Mistakes",
-      "url": "https://open.spotify.com/track/0gtBAgvR7LPKXop9UEPgaA"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "Find It",
-        "url": "https://open.spotify.com/album/2HYknCRJPEglafSiZhbAwA"
-      },
-      "artists": [
-        {
-          "name": "Najma Williams",
-          "url": "https://open.spotify.com/artist/1eWwnAYdLXgymULRCYdirU"
-        }
-      ],
-      "duration_ms": 230916,
-      "name": "Find It",
-      "url": "https://open.spotify.com/track/7fzyAwrlcFWOVwQDHPOYcx"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
         "name": "Potion No.9",
         "url": "https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF"
       },
@@ -1471,114 +1595,6 @@
       "duration_ms": 154434,
       "name": "Potion No.9",
       "url": "https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW"
-    },
-    {
-      "added_at": "2022-05-05 21:59:00",
-      "album": {
-        "name": "Good Love (feat. Stino Le Thwenny & Caask Asid)",
-        "url": "https://open.spotify.com/album/4DaeN4JRCtDBWKqqzhuAik"
-      },
-      "artists": [
-        {
-          "name": "DJ Binnz",
-          "url": "https://open.spotify.com/artist/0yQomwd7iDWLEx3ijITA0d"
-        },
-        {
-          "name": "Stino Le Thwenny",
-          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
-        },
-        {
-          "name": "Caask Asid",
-          "url": "https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl"
-        }
-      ],
-      "duration_ms": 203003,
-      "name": "Good Love (feat. Stino Le Thwenny & Caask Asid)",
-      "url": "https://open.spotify.com/track/3lwMm6T9mFdppiPpgm9ewO"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "inertia",
-        "url": "https://open.spotify.com/album/5RlFwZLVeYur8csILcTA9p"
-      },
-      "artists": [
-        {
-          "name": "Mykey",
-          "url": "https://open.spotify.com/artist/11GCHRgivzz2xYBv5pKwRz"
-        }
-      ],
-      "duration_ms": 116298,
-      "name": "Cadavers",
-      "url": "https://open.spotify.com/track/3kJJH1oJfRLcs5FAgDCXxW"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "THE DOLLAR DISEASE",
-        "url": "https://open.spotify.com/album/6G4RZR7TRP6aIgZNTW7cUY"
-      },
-      "artists": [
-        {
-          "name": "Pr3tty Boy",
-          "url": "https://open.spotify.com/artist/19ilu0bDWXzkytEZ3Mfl6q"
-        }
-      ],
-      "duration_ms": 103389,
-      "name": "THE DOLLAR DISEASE",
-      "url": "https://open.spotify.com/track/6Zy8ekom9qNeCJtFRqz3Ac"
-    },
-    {
-      "added_at": "2022-04-22 05:51:38",
-      "album": {
-        "name": "MOKELENG",
-        "url": "https://open.spotify.com/album/0w69oa8ubUqciapCKE1TF1"
-      },
-      "artists": [
-        {
-          "name": "Hitbeat- SA",
-          "url": "https://open.spotify.com/artist/6WQsskZXhITbkO1oQQAKWh"
-        }
-      ],
-      "duration_ms": 124730,
-      "name": "Mokeleng",
-      "url": "https://open.spotify.com/track/266NCE6LteEH0uYbGRUkqh"
-    },
-    {
-      "added_at": "2022-04-14 21:59:00",
-      "album": {
-        "name": "Lonely Avenue",
-        "url": "https://open.spotify.com/album/0Q7CzyvcDrRcGv7jEj5JqR"
-      },
-      "artists": [
-        {
-          "name": "ZRi.",
-          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
-        },
-        {
-          "name": "Oxii.Moron",
-          "url": "https://open.spotify.com/artist/7DFMiNCuExlFetz1JTRu9B"
-        }
-      ],
-      "duration_ms": 135730,
-      "name": "Lonely Avenue",
-      "url": "https://open.spotify.com/track/1LI5UJRzh8QSrBpGEGlRRN"
-    },
-    {
-      "added_at": "2022-05-19 21:59:00",
-      "album": {
-        "name": "Next.",
-        "url": "https://open.spotify.com/album/2ncuXjvusmRBKIHbGjuDBt"
-      },
-      "artists": [
-        {
-          "name": "Angie Santana",
-          "url": "https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Next.",
-      "url": "https://open.spotify.com/track/3LjWJMHEZ1vX1suuLxBHil"
     }
   ],
   "unique_name": "Aux",

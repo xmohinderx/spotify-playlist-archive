@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,942 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,040 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 |
 | 100 | [Girlfriend](https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Girlfriend](https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy) | 2:47 |
 
-Snapshot ID: `MTY1NjI5MjEzMCwwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5`
+Snapshot ID: `MTY1NjM3ODY4MSwwMDAwMDAwMDRiNjk0M2QzN2M5ZWRhZTVlODVjNmYzOWExYjU0YTc5`

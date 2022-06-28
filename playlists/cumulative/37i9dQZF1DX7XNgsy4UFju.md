@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Gorillaz
 
-489 songs - 1 day 5 hr 9 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+490 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,8 @@
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-31 | 2022-01-10 |
 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 | 2022-02-04 | 2022-02-12 |
 | [Stilling](https://open.spotify.com/track/1itCSlhj2RCvTvhksivdu4) | [Cedric Noel](https://open.spotify.com/artist/6tdulbCmITkRtfAWMRueVY) | [Hang Time](https://open.spotify.com/album/1fQXgCPDtzysxgBO1VTxJH) | 3:24 | 2021-12-31 | 2022-01-15 |
-| [Stream](https://open.spotify.com/track/42j12jraWgoae4Q39MiUmt) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Stream](https://open.spotify.com/album/4fYWdQMUjmzeGLiCv8E0nM) | 2:48 | 2022-05-13 |  |
+| [Stop These Changes](https://open.spotify.com/track/53Vmc9RuOoAgq7tnCE4Y7t) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Little High Little Low](https://open.spotify.com/album/3DCwP2lk6lUlDVRtV3zjSV) | 4:29 | 2022-06-27 |  |
+| [Stream](https://open.spotify.com/track/42j12jraWgoae4Q39MiUmt) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Stream](https://open.spotify.com/album/4fYWdQMUjmzeGLiCv8E0nM) | 2:48 | 2022-05-13 | 2022-06-28 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-04-23 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-12-31 | 2022-01-29 |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-01 | 2022-04-23 |

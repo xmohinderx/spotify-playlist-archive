@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  水曜日のカンパネラ（WEDNESDAY CAMPANELLA）
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,764 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,771 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [織姫](https://open.spotify.com/track/78bW13NVk1xNbeRZuQ9Oqy) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 2:44 |
+| 1 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 |
 | 2 | [美人 \- From THE FIRST TAKE](https://open.spotify.com/track/3eRc3AWjXOqcNujw8U01ep) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [美人 \(From THE FIRST TAKE\)](https://open.spotify.com/album/0FvGjwgTAprCSK3cWzIlfS) | 2:37 |
 | 3 | [Honey](https://open.spotify.com/track/5fOLC1RDNcqkDLcemd3n3i) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 3:10 |
 | 4 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 |
-| 5 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 |
+| 5 | [織姫](https://open.spotify.com/track/78bW13NVk1xNbeRZuQ9Oqy) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 2:44 |
 | 6 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 |
 | 7 | [なんとなく最低な日々](https://open.spotify.com/track/5yvPNQ5yrBqbyBxQSgeWSu) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [祝典](https://open.spotify.com/album/2CoUwWsJBCVW5p0jSuURVh) | 4:14 |
 | 8 | [Your Love](https://open.spotify.com/track/0ZlacvDIHlKE1d6qzLjltK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Take Me Away](https://open.spotify.com/track/7vVJbmbtgGQjU5gB0tq6K7) | [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz) | [Take Me Away](https://open.spotify.com/album/08WtO6PR4PAgzDrSrvPrc0) | 2:54 |
 | 50 | [Pretty](https://open.spotify.com/track/2fI0XTQtwtTU2PCf1xFP30) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [Pretty](https://open.spotify.com/album/2znvO7eKY5hcWklq7jwHyP) | 3:04 |
 
-Snapshot ID: `MTY1NDAwOTIwMCwwMDAwMDAxYTAwMDAwMTgxMWFhMTdlNGEwMDAwMDE4MTFhNWQwZWYx`
+Snapshot ID: `MTY1NjI5Mzc3NSwwMDAwMDAxYjAwMDAwMTgxYTJjZDU5NzgwMDAwMDE4MTFhNWQwZWYx`

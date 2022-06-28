@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-848 songs - 1 day 19 hr 34 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+849 songs - 1 day 19 hr 37 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Abbi cura di te](https://open.spotify.com/track/0GNs56eb5LSYISdi3akjeR) | [Highsnob](https://open.spotify.com/artist/47RMRcPX8zWGaiMSZRuOd4), [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Abbi cura di te](https://open.spotify.com/album/6XSxwHFDbUJ45wNnn6JklQ) | 3:19 | 2022-02-04 | 2022-02-27 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-25 | 2022-04-21 |
 | [Abisso di xanax](https://open.spotify.com/track/3OKaCwKtsZ4Dqzm6foitxm) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 4:22 | 2021-10-17 | 2021-10-18 |
-| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-26 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-26 | 2022-06-28 |
 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/11j3iextfkiRGYrl1UsMwt) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:36 | 2022-04-02 | 2022-04-05 |
 | [Adesso](https://open.spotify.com/track/1v1ltuBMogS2CxJUW7yCyY) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:21 | 2022-05-14 | 2022-05-30 |
 | [ADESSO \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3HJgEynYg4p9EUmcEwk4qM) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [DJUNGLE](https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1) | 2:57 | 2021-05-09 | 2021-05-10 |
@@ -685,6 +685,7 @@
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-05-03 |
 | [Scegliere Bene](https://open.spotify.com/track/4sCo94hVNKTO2VTCfulT6s) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli \(ascendente Milano\)](https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g) | 2:55 | 2021-05-23 | 2021-05-24 |
 | [Scooby Doo](https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 2:59 | 2021-03-27\* | 2021-05-03 |
+| [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 | 2022-06-27 |  |
 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 | 2021-05-31 | 2022-02-02 |
 | [Scusa \- prod\. tha Supreme](https://open.spotify.com/track/7uBlznv2TJpvjHCzY7K8wO) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Scusa \(prod\. tha Supreme\)](https://open.spotify.com/album/0gLbuRK9otcxCNaDyDLfbA) | 3:02 | 2021-04-11 | 2021-04-18 |
 | [Se Rinasco](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-03-05 | 2022-03-11 |

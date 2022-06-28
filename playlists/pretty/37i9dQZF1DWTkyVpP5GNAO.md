@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,404 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,547 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

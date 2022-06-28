@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42169,
+  "num_followers": 42182,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg1MixmNmZmMTNjZDQ0OGIwNmEzZjY1ZGNiNTVkZTBmOWU1ZWU3MDk5MTZm",
+  "snapshot_id": "Mjg1Niw4YTE4YjdmYjRhNTI3Njk4NjM3NGI1MTQ3OTlmZTcyM2U3MjFhN2Y2",
   "tracks": [
+    {
+      "added_at": "2022-06-27 08:33:07",
+      "album": {
+        "name": "Hair Like You",
+        "url": "https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Hair Like You",
+      "url": "https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV"
+    },
     {
       "added_at": "2022-06-24 08:09:22",
       "album": {
@@ -403,38 +419,6 @@
       "duration_ms": 161421,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX"
-    },
-    {
-      "added_at": "2022-04-22 12:06:10",
-      "album": {
-        "name": "heartache",
-        "url": "https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi"
-      },
-      "artists": [
-        {
-          "name": "mynameisleonidas",
-          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "heartache",
-      "url": "https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a"
-    },
-    {
-      "added_at": "2022-04-18 08:53:17",
-      "album": {
-        "name": "Term\u00ednelo",
-        "url": "https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha"
-      },
-      "artists": [
-        {
-          "name": "Ivoh\u00e9",
-          "url": "https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Term\u00ednelo",
-      "url": "https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Nitti Gritti",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170509,
+      "name": "200 Mph",
+      "url": "https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg"
+    },
+    {
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -165,7 +191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
@@ -347,7 +373,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -683,7 +709,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 209026,
       "name": "Esta Noche De Travesura",
       "url": "https://open.spotify.com/track/5YsF9N9Gv7DswM0KPk4iby"
@@ -839,7 +865,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
@@ -1001,7 +1027,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 194733,
       "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
       "url": "https://open.spotify.com/track/2r7g6pdJiKexCTd1zar2H6"
@@ -1075,7 +1101,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 248013,
       "name": "Mayor Que Yo",
       "url": "https://open.spotify.com/track/0H26e1PgtkQ2aTRZEKWOOO"
@@ -1149,7 +1175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
@@ -1167,7 +1193,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 199400,
       "name": "Mera",
       "url": "https://open.spotify.com/track/4etu1vf1o3YYNUN0z4HiPs"
@@ -1259,7 +1285,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1329,7 +1355,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 243013,
       "name": "Mujeres In The Club",
       "url": "https://open.spotify.com/track/0N3pBL7paIxuOsyFVf6kyk"
@@ -1463,7 +1489,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 212733,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
@@ -2315,7 +2341,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 218106,
       "name": "Tu Quieres Duro",
       "url": "https://open.spotify.com/track/5QpUAyROQsLtNLPY5TJcFv"
@@ -2355,7 +2381,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 207480,
       "name": "Vamos Pa' la Calle",
       "url": "https://open.spotify.com/track/23mxI8WrJJx5SF1M5HirFX"

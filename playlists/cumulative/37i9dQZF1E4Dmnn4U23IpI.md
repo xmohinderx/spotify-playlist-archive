@@ -2,21 +2,21 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With A.L.I.S.O.N, Rosentwig, The Motion Epic and more
+> With A.L.I.S.O.N, Rosentwig, Memorex Memories and more
 
-908 songs - 2 day 16 hr 24 min - [published](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
+909 songs - 2 day 16 hr 28 min - [published](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 | 2021-12-02 | 2022-06-22 |
 | [1984](https://open.spotify.com/track/67sJp0ChEsa4mKXUFae0qq) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [1984](https://open.spotify.com/album/2Fm4S5muGDEJoqkEsa3saX) | 4:10 | 2022-04-22 | 2022-06-23 |
-| [1984](https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd) | [The Northern Lights](https://open.spotify.com/artist/1GpwgKzyUlA384o6IKrNIM) | [Dreamers, Pt\. 1](https://open.spotify.com/album/6ezV6vZg6bQPrYmJe9a6bx) | 3:29 | 2021-12-03 | 2022-06-26 |
+| [1984](https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd) | [The Northern Lights](https://open.spotify.com/artist/1GpwgKzyUlA384o6IKrNIM) | [Dreamers, Pt\. 1](https://open.spotify.com/album/6ezV6vZg6bQPrYmJe9a6bx) | 3:29 | 2021-12-03 |  |
 | [1987](https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [1987 EP](https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI) | 4:38 | 2021-12-01\* | 2022-06-24 |
 | [1988 Girls](https://open.spotify.com/track/4qm4hch0cwdKkiB2KhnFEf) | [Futurecop!](https://open.spotify.com/artist/10yA9Y6h5wbDaX5XuZuA9X) | [The Movie](https://open.spotify.com/album/1k8ulLhZl23FpwxgJXIkew) | 4:18 | 2022-03-31 | 2022-06-08 |
 | [1993](https://open.spotify.com/track/5ZH0Clyfb8ynYUyYjGTSZK) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [1993](https://open.spotify.com/album/1ja2Hj0eg6I18sDx4SzK5G) | 2:32 | 2022-04-03 |  |
 | [80's Girl](https://open.spotify.com/track/0pnUDyET3GULbTGOtgqOLE) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Sleepwalking](https://open.spotify.com/album/6U2FUoIegrcJidus6hEds8) | 3:56 | 2022-03-14 | 2022-06-09 |
 | [86'](https://open.spotify.com/track/1p1h49PKwqp2xNL5ytG61j) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 3:49 | 2022-04-10 | 2022-05-24 |
-| [96 Cruisin](https://open.spotify.com/track/7yMfcUe5YzR8Ep2fvnpW3V) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Unknown Frequency](https://open.spotify.com/album/6RCh0P5EGICz9vkXQMjnnW) | 3:25 | 2021-12-02 |  |
+| [96 Cruisin](https://open.spotify.com/track/7yMfcUe5YzR8Ep2fvnpW3V) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Unknown Frequency](https://open.spotify.com/album/6RCh0P5EGICz9vkXQMjnnW) | 3:25 | 2021-12-02 | 2022-06-28 |
 | [A Dystopian Fixation](https://open.spotify.com/track/2r4DcuJm0rAe5VCbvhsts0) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Into the Light](https://open.spotify.com/album/17GuWllPQt1qiwSQWMEgOM) | 4:59 | 2022-01-31 | 2022-06-21 |
 | [A Glowing Light, a Promise](https://open.spotify.com/track/1KjBsubnUzAU1dvxIEUky4) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 5:33 | 2022-03-09 | 2022-05-22 |
 | [A Light in the Dark](https://open.spotify.com/track/0E43ZA6jJLHShJA0vDDPyI) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Doubleboy](https://open.spotify.com/artist/5pW7z7jKT6YI37HP8lHWAJ) | [Club 707](https://open.spotify.com/album/2HghtZR1OgJ2043LxNUHEk) | 4:33 | 2022-03-19 | 2022-06-03 |
@@ -305,7 +305,7 @@
 | [For a while](https://open.spotify.com/track/0bqkzl926BwguaNHg6sYkN) | [Tom Carney](https://open.spotify.com/artist/6wozUHv8xE5HzGJWH4RaeH) | [Greed and desire](https://open.spotify.com/album/4wFt6Kg0hTb2M7aOEXFH3p) | 3:48 | 2022-06-21 | 2022-06-22 |
 | [Forever](https://open.spotify.com/track/7q2mR0lIxUL7rF0zmlBE1s) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Forever](https://open.spotify.com/album/0fetZ9ZBZCMThapdxMvI5D) | 3:47 | 2022-06-26 | 2022-06-27 |
 | [Forever \(feat\. The Hacker & Electric Youth\)](https://open.spotify.com/track/61aw1V0KLPD4XIjqNsGqo9) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 4:31 | 2022-04-10 | 2022-06-10 |
-| [Forever Young \(So Little Time\)](https://open.spotify.com/track/2aJ8iYKlxNItUKB6ceApIL) | [The Motion Epic](https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN) | [West Coast Dreams](https://open.spotify.com/album/0yZCcEKr7uwSD5ziJhVP5Y) | 4:03 | 2022-06-26 |  |
+| [Forever Young \(So Little Time\)](https://open.spotify.com/track/2aJ8iYKlxNItUKB6ceApIL) | [The Motion Epic](https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN) | [West Coast Dreams](https://open.spotify.com/album/0yZCcEKr7uwSD5ziJhVP5Y) | 4:03 | 2022-06-26 | 2022-06-28 |
 | [Forever Young, a Lie](https://open.spotify.com/track/6mxA6PXT6gMg0I0qlQPuCT) | [Thomas Barrandon](https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr) | [The New Born Between Mountain and Sea](https://open.spotify.com/album/6h4Q5YvqKqE1DtrEY5l3sP) | 4:30 | 2022-04-24 | 2022-06-02 |
 | [Forget](https://open.spotify.com/track/4wjw3p0bL7JaZcCGhU2DAN) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM), [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [FELT](https://open.spotify.com/album/01ncI2Fftcla2D0p7xhhvj) | 5:06 | 2022-04-04 | 2022-04-05 |
 | [Fractions \(feat\. Jessie Frye\)](https://open.spotify.com/track/2ulW5zd7SluGGWVZ1DMiTI) | [Wayfloe](https://open.spotify.com/artist/79QJSuBrbDVAtWerM3yGup), [Jessie Frye](https://open.spotify.com/artist/1UGJpKPVr7i3CqzuQPdEmi) | [Neon West](https://open.spotify.com/album/22pKdQcvzft2TYKbcttRcT) | 4:12 | 2022-03-15 | 2022-05-13 |
@@ -799,6 +799,7 @@
 | [The Cards](https://open.spotify.com/track/1yhvDqUtn7yWEx5aLq6o0Y) | [LAU](https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4) | [Believer](https://open.spotify.com/album/74lNj3qYmgDJA8Qb3rwu3P) | 3:34 | 2022-05-25 | 2022-05-26 |
 | [The Comeback Kid](https://open.spotify.com/track/6vvyavHx8WHdsw6vsuMwyR) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 5:21 | 2021-12-07 | 2022-06-22 |
 | [The Danger](https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 3:40 | 2022-04-08 | 2022-06-24 |
+| [The Dark](https://open.spotify.com/track/2RDSpkl3p1zXHoixZkVZ6A) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 3:53 | 2022-06-28 |  |
 | [The Deepest Blue](https://open.spotify.com/track/0T7vtBdwYwx6k7XsfJtNe8) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 4:35 | 2022-03-19 | 2022-06-03 |
 | [The Deepest Blue \(Dance with the Dead Remix\)](https://open.spotify.com/track/56C4hFDqiaQgpBMXeh2Z4C) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [The Deepest Blue](https://open.spotify.com/album/6vpk8Dt2mmrvtU2ncT7lpA) | 3:40 | 2022-04-11 | 2022-06-07 |
 | [The Driver](https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [The Night Hour](https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:06 | 2022-03-09 | 2022-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist Cover: glaive
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,462 likes - 125 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,734 likes - 125 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

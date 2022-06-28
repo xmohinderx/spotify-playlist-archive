@@ -2176,6 +2176,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Modern Blues Rock](/playlists/pretty/37i9dQZF1DX7Y7BqFok9IQ.md)
 - [Modern Chill Rock](/playlists/pretty/37i9dQZF1DX2UXfvEIZvDK.md)
 - [Modern Eclectic](/playlists/pretty/37i9dQZF1DX28npkgy2RE4.md)
+- [Modern Jam Band](/playlists/pretty/37i9dQZF1DWSk9DH2Upl3o.md)
 - [Modern Jazz](/playlists/pretty/37i9dQZF1DX377iwEnODkR.md)
 - [Modern Poetry](/playlists/pretty/37i9dQZF1DX26cFbtLr0Wn.md)
 - [Modern Psychedelia](/playlists/pretty/37i9dQZF1DX8gDIpdqp1XJ.md)

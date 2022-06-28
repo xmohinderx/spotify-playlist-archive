@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 202866,
       "name": "A Boogie Woogie Sunday",
       "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 183800,
       "name": "Barrelhouse Boogie",
       "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 221626,
       "name": "Boogie Woogie Blues",
       "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 217260,
       "name": "C-Jam Boogie",
       "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 181470,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 195746,
       "name": "Hastings St.",
       "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 286960,
       "name": "I Feel So Good (I Wanna Boogie)",
       "url": "https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c"
@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150571,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
+    },
+    {
+      "album": {
         "name": "Every Road I Take",
         "url": "https://open.spotify.com/album/5F59YDPXOLXek9VaCzUl09"
       },
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Roll 'Em, Pete (12-30-38)",
       "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 188360,
       "name": "Slider",
       "url": "https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 165619,
       "name": "Twelfth St. Boogie",
       "url": "https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj"

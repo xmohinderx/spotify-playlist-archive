@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren &amp; Blasterjaxx
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,803 likes - 145 songs - 7 hr 38 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,807 likes - 146 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,6 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 143 | [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 |
 | 144 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
 | 145 | [PYRO](https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [PYRO](https://open.spotify.com/album/1pUyOjLNNT79a8OhVFsD5x) | 2:28 |
+| 146 | [Crazy Love](https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW) | 3:06 |
 
-Snapshot ID: `NTE5NDksY2E3N2VkODVlNTg2ZTFkOTQ1M2I2MjM4MmNlN2MxMjEwNDZlODNhMw==`
+Snapshot ID: `NTE5NTAsYjRjMDUzN2Q1NDFhOTI4Nzc0ZTVhOTY2MjY0YmIyOWZjNWM0MTFjMw==`

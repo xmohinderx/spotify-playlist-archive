@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Tim Bernardes",
+  "description": "As belas novidades da MPB. Foto: Tom Z\u00e9",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 235456,
       "name": "Capit\u00f3lio De Beleza",
       "url": "https://open.spotify.com/track/7MfodDmc85cGX6WzQ7GMbU"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 180125,
       "name": "Cara de Segunda",
       "url": "https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh"
@@ -1802,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "L\u00edngua Brasileira",
+        "url": "https://open.spotify.com/album/2LzXqHfjvSnWUhRqhWbFYV"
+      },
+      "artists": [
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343743,
+      "name": "Hy-Brasil Terra Sem Mal",
+      "url": "https://open.spotify.com/track/1AfcJHMFq5pypv4MBfO9wb"
+    },
+    {
+      "album": {
         "name": "Imploro",
         "url": "https://open.spotify.com/album/6p47z1qdRYcH9R6zl3yaWv"
       },
@@ -2135,6 +2153,24 @@
       "duration_ms": 427326,
       "name": "Mariana Olhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/2RBpQ4S9HEDP6wNoJeoh2w"
+    },
+    {
+      "album": {
+        "name": "Marquinha",
+        "url": "https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137363,
+      "name": "Marquinha",
+      "url": "https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2"
     },
     {
       "album": {
@@ -2487,7 +2523,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 190592,
       "name": "Ningue\u0301m",
       "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
@@ -4513,7 +4549,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 204589,
       "name": "Vertigem",
       "url": "https://open.spotify.com/track/7n89SLMdyzUITl1JwgQ5QE"

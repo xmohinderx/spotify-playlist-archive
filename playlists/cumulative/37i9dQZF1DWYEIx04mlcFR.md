@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-155 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+156 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 | 2022-05-20 |  |
 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 | 2022-03-11 |  |
 | [Cicatrices](https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Cicatrices](https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84) | 3:14 | 2022-06-17 |  |
+| [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-27 |  |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-03-25 |  |
 | [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2021-12-10 | 2022-05-07 |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 |  |
@@ -76,7 +77,7 @@
 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 | 2021-12-10 | 2022-03-12 |
 | [me elegiste a mí <3](https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [me elegiste a mí <3](https://open.spotify.com/album/5BFyJckUm8cZwto6BozwFo) | 2:59 | 2022-04-22 |  |
 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 | 2022-03-11 |  |
-| [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 | 2022-04-22 |  |
+| [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 | 2022-04-22 | 2022-06-28 |
 | [mi canción favorita](https://open.spotify.com/track/0rDBd5DzUJoJMfBlko7WcK) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [mi canción favorita](https://open.spotify.com/album/40Vw2SofoKNXM26vPxaKk5) | 2:53 | 2021-12-10 | 2022-02-19 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-01-28 |  |
 | [Milk](https://open.spotify.com/track/6iqyYirdtDEyRddvYNLvLE) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/1GvXakoTv3Lwt318NAMoUz) | 3:41 | 2022-04-13 |  |

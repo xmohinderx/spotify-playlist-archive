@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Saskia\. Arte: Isu Kim
 
-119 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+120 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Fuga](https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Fuga](https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1) | 3:36 | 2022-01-14 |  |
 | [Fugir da Miragem](https://open.spotify.com/track/1pwYWr1LQ1D3l5Y9Xmgy3I) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Raíssa Leal](https://open.spotify.com/artist/72ig3Ygi4pm50DjZXJm0tY) | [Fugir da Miragem](https://open.spotify.com/album/12V2fGjtCL440oPef3NBDv) | 3:26 | 2022-01-07 |  |
 | [Fundo Azul](https://open.spotify.com/track/6hJ5xJA0c5P6C3wrdeqDvP) | [Guilherme Simon](https://open.spotify.com/artist/3Tp96mCSKhM8Uf6DsDLadW) | [Fundo Azul](https://open.spotify.com/album/4iIlN7xm4zlqxq10wX716A) | 3:05 | 2022-01-07 | 2022-02-19 |
+| [Good Times](https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Good Times](https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv) | 2:27 | 2022-06-27 |  |
 | [Guloso](https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7) | [Marela](https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9) | [Guloso](https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5) | 3:52 | 2022-04-29 |  |
 | [I Love U](https://open.spotify.com/track/6tseZ9t3jhmhXPYOcQnPxJ) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [INTENSA](https://open.spotify.com/album/3ZbLBHaFgZVmgIACf80ucp) | 3:03 | 2022-01-07 | 2022-01-29 |
 | [Imaginando Você](https://open.spotify.com/track/5Bhq9x8xbI9E3zNaJ0GLIv) | [Nando](https://open.spotify.com/artist/1OMDP7hWcTXihQ96nYbkDE), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [Imaginando Você](https://open.spotify.com/album/53KmpwZFFaDmIUuHPdIprt) | 2:21 | 2022-01-07 | 2022-03-12 |
@@ -102,7 +103,7 @@
 | [Sensus Plenior](https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL) | [Arthur Alva](https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32) | [Consciência Elementar I](https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3) | 3:04 | 2022-04-15 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 |  |
 | [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 | 2022-04-23 |
-| [Sofá 7 \- Demo](https://open.spotify.com/track/5jaRGv0vkI2lgfsHVhW4eM) | [A VIRGO](https://open.spotify.com/artist/70ZpXCpXVlf7XIbNJc3xBI) | [Sofá 7 Demos](https://open.spotify.com/album/0T4a8723JiAA5rTpUaSQxq) | 4:51 | 2022-01-07 |  |
+| [Sofá 7 \- Demo](https://open.spotify.com/track/5jaRGv0vkI2lgfsHVhW4eM) | [A VIRGO](https://open.spotify.com/artist/70ZpXCpXVlf7XIbNJc3xBI) | [Sofá 7 Demos](https://open.spotify.com/album/0T4a8723JiAA5rTpUaSQxq) | 4:51 | 2022-01-07 | 2022-06-28 |
 | [Somos um Fim](https://open.spotify.com/track/11oS5QyBFJT4u8QhEslrR3) | [Gaboardi](https://open.spotify.com/artist/6Gz6rPxHpaoaRdSgQvbj1r), [Kyssla](https://open.spotify.com/artist/21PfuPwFo3Qud4Eyg6nCoX) | [Somos um Fim](https://open.spotify.com/album/4rAKpsk1oiubQdtYZzGAE9) | 3:10 | 2022-01-07 |  |
 | [Sorte](https://open.spotify.com/track/6sOJ72MO2hRuARLUugRB8W) | [Carol Porto](https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1) | [Voos](https://open.spotify.com/album/0XajQuoQwXpMCIS0u0ugPb) | 2:58 | 2022-01-07 | 2022-01-15 |
 | [Status](https://open.spotify.com/track/7nvDaB3WP5Y6vFCbVkwkEM) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Status](https://open.spotify.com/album/2ftGO0p03UZNT4jwYwhG2T) | 4:12 | 2022-01-07 |  |

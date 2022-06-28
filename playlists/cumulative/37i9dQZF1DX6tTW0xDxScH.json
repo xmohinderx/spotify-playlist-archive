@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 210565,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/0W6XPogEpsX8BLZxU6AQDv"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 392106,
       "name": "I Had a Real Good Lover",
       "url": "https://open.spotify.com/track/1XMQ4v75bj65rHBCDwaBGc"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 204386,
       "name": "Reflections After Jane",
       "url": "https://open.spotify.com/track/2hhGE4ukKuNUsHAX9uqs0G"
@@ -1785,6 +1785,24 @@
       "duration_ms": 277093,
       "name": "Run It",
       "url": "https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy"
+    },
+    {
+      "album": {
+        "name": "Bert Jansch",
+        "url": "https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy"
+      },
+      "artists": [
+        {
+          "name": "Bert Jansch",
+          "url": "https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140273,
+      "name": "Running from Home - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5I4LTcEg5nFSnuMzAQumh5"
     },
     {
       "album": {
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 221877,
       "name": "Someone",
       "url": "https://open.spotify.com/track/3zBHER77TmCpe4IbjGH6Ty"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 203368,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/0lRrAowblrqtlInGwgC7oF"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 194911,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat"

@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-441 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+442 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [flygplansläge](https://open.spotify.com/track/2TcAeEJb8CKeRml6SSwmJf) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [ep med e4an](https://open.spotify.com/album/6twwDTYPvpwXonouvR4ltf) | 2:57 | 2022-05-20 | 2022-06-24 |
 | [FOREVER](https://open.spotify.com/track/3cDQCtkUOkdwxPjNRp652b) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:22 | 2022-06-09 | 2022-06-23 |
 | [Foxy \(feat\. PABI\)](https://open.spotify.com/track/4MiFfAn85FcJBKB52Ucux8) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Foxy \(feat\. PABI\)](https://open.spotify.com/album/1gztWrd3PxGKHBYtKwkZK3) | 2:12 | 2022-01-13 | 2022-03-04 |
+| [Fram och Tillbaka](https://open.spotify.com/track/51uJomQJxisIyjyXIErid0) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Fram och Tillbaka](https://open.spotify.com/album/2vVQ2qe1IMLBwcxUJijs95) | 2:38 | 2022-06-27 |  |
 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 | 2021-12-16 |  |
 | [För alltid \(feat\. Cherrie\)](https://open.spotify.com/track/5ifuPXMJyFzb6m0ypJn5ac) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 2:56 | 2022-03-10 | 2022-06-03 |
 | [För evigt](https://open.spotify.com/track/6i9bzIGdgfQiyw9S3QhSCy) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [För evigt](https://open.spotify.com/album/143MKTPgMmzi5emJl2sZhM) | 2:32 | 2022-05-05 | 2022-06-17 |
@@ -287,7 +288,7 @@
 | [NANANA](https://open.spotify.com/track/2fVeR3EDIfgd7Z5WIhv4UB) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [NANANA](https://open.spotify.com/album/3y6HYazrlBj2jA7xBq1CZU) | 2:57 | 2021-12-16 | 2022-01-14 |
 | [Nere](https://open.spotify.com/track/0eJDlTe9RKCmmA2qbqMHY1) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Nere](https://open.spotify.com/album/1J7cOxPTlmbGS4s1Yq6vi4) | 2:11 | 2022-01-13 | 2022-02-04 |
 | [Nia Mondo](https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Nia Mondo](https://open.spotify.com/album/7DLJtZ2jt4os2dgLZxmH5P) | 2:17 | 2021-12-16 | 2022-02-26 |
-| [NIKE](https://open.spotify.com/track/02DYgKZ989wMiB04nGrhYQ) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [NIKE](https://open.spotify.com/album/0d80U9t56GLD00gLWUxz3z) | 2:33 | 2022-06-17 |  |
+| [NIKE](https://open.spotify.com/track/02DYgKZ989wMiB04nGrhYQ) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [NIKE](https://open.spotify.com/album/0d80U9t56GLD00gLWUxz3z) | 2:33 | 2022-06-17 | 2022-06-28 |
 | [NINO](https://open.spotify.com/track/19iTH6bn50y1FrENi7aZEm) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [FI:VO](https://open.spotify.com/artist/58ENnwqOR5abhgrvdUvquj) | [NINO](https://open.spotify.com/album/3JLymRgDY4PY2X0pl4zGkk) | 3:09 | 2022-05-05 | 2022-05-27 |
 | [NKWASIASEM](https://open.spotify.com/track/7wOgeCsSkEiq15psiRN9QK) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH) | [NKWASIASEM](https://open.spotify.com/album/5LxE9kNzA6a1yz3XAXfH3G) | 3:31 | 2022-06-17 | 2022-06-24 |
 | [No Bammer Weed \(Snoop Dogg feat\. Näääk\) \- The Global Edition](https://open.spotify.com/track/2IR1f2ewkFOJSrSMrmouX8) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S) | [Snoop Dogg Presents Algorithm \(Global Edition\)](https://open.spotify.com/album/7byrahgNLbCzZgp9w5WBxW) | 4:41 | 2021-12-16 | 2022-01-07 |

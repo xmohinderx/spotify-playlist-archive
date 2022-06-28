@@ -62,7 +62,7 @@
 | [We Made It](https://open.spotify.com/track/4BpkEfYLfGyLx1ty2vhY2y) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [We Made It](https://open.spotify.com/album/2TfatdOH3uuyQr0iKFcn98) | 3:34 | 2020-12-01 |  |
 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 | 2020-12-01 |  |
 | [Whatcha Gon' Do](https://open.spotify.com/track/0UvDzKOeHFmRRkMPP12YQG) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [The Bookends](https://open.spotify.com/album/072RsvIeIJ20SQf5cTKTMA) | 3:27 | 2020-12-01 |  |
-| [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 | 2020-12-01 | 2022-06-27 |
-| [You Lucky Dog](https://open.spotify.com/track/3EiNMQyLU25u2hwZbdu0mB) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:14 | 2020-12-01 |  |
+| [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 | 2020-12-01 |  |
+| [You Lucky Dog](https://open.spotify.com/track/3EiNMQyLU25u2hwZbdu0mB) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 4:14 | 2020-12-01 | 2022-06-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

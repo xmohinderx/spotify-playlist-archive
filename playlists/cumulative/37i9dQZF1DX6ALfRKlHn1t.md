@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-158 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+159 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Feels Like Summer](https://open.spotify.com/track/6tNQw4RAj7oYogHXVzKJg8) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Feels Like Summer](https://open.spotify.com/album/6xvakWG4IcWw45p7rzs3mS) | 3:15 | 2021-03-24 | 2022-06-03 |
 | [Fever](https://open.spotify.com/track/4MzGM692jKGkNSQ7qzeTaJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Fever](https://open.spotify.com/album/1zhu7OpZFp2wJrPbyQHA37) | 4:06 | 2021-03-24 | 2022-04-28 |
 | [Firebird](https://open.spotify.com/track/29UccmEOSp9Zb4YTdPk8Ks) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC) | 3:41 | 2021-03-24 | 2022-04-28 |
-| [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 | 2021-03-24 |  |
+| [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 | 2021-03-24 | 2022-06-28 |
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2021-03-24 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-06-17 |  |
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 |  |
@@ -119,6 +119,7 @@
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2021-07-30 |  |
 | [Set On Fire](https://open.spotify.com/track/0IV5Hor3LGOLk1OlxxriAO) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Set On Fire](https://open.spotify.com/album/0kLqHd2okMviL6ZdXzaV8C) | 3:35 | 2021-03-24 |  |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-16 |  |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-27 |  |
 | [Shay](https://open.spotify.com/track/2JKseDsbR2QFeSqfbRxLGw) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Jamesy Boy & The Screw Loose Zoo](https://open.spotify.com/album/4ma22fqmqoyBRooyUNbNds) | 3:11 | 2021-11-19 |  |
 | [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2021-03-24 |  |
 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 | 2021-03-24 | 2022-04-27 |
@@ -147,7 +148,7 @@
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2021-03-24 |  |
 | [That's All I Need](https://open.spotify.com/track/60p2R7bCS2DW1mixI5HUv9) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [That's All I Need](https://open.spotify.com/album/5ftiJJN6Xz3pmtE197hyJS) | 3:33 | 2021-03-24 | 2022-04-27 |
 | [The Way It Was](https://open.spotify.com/track/1b91Hfg3v9vxqkAxRZCSEc) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [The Way It Was](https://open.spotify.com/album/4VRfCkxgVua6OCPlTn1ubu) | 3:49 | 2021-03-24 | 2022-04-27 |
-| [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 | 2021-03-24 |  |
+| [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 | 2021-03-24 | 2022-06-28 |
 | [Tijuana Sunrise](https://open.spotify.com/track/6A0vng1rw4wppz1BZ4cuaQ) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Tijuana Sunrise](https://open.spotify.com/album/4EBNQj8IjDNOoGS30Q3ZhW) | 3:38 | 2021-03-24 | 2022-06-25 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-03-24 |  |
 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 | 2022-02-04 |  |
@@ -162,7 +163,7 @@
 | [What I Got](https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 2:51 | 2021-03-24 |  |
 | [What You Know](https://open.spotify.com/track/6jrMVRReY24qzCfe1BRrww) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0gyRFAfY08NFv7N8RTFg9M) | 3:11 | 2021-03-24 | 2022-05-26 |
 | [Wherever You Go](https://open.spotify.com/track/4tRE4gy0sj65IBRvMOumfr) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wherever You Go \- Single](https://open.spotify.com/album/3iY9JmzInF273jVt2CL1Ou) | 3:31 | 2021-03-24 | 2022-06-23 |
-| [Wicked Heart](https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wicked Heart](https://open.spotify.com/album/6248uTiCGShjuOPDeUkDU1) | 3:18 | 2021-03-24 | 2022-06-26 |
+| [Wicked Heart](https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wicked Heart](https://open.spotify.com/album/6248uTiCGShjuOPDeUkDU1) | 3:18 | 2021-03-24 |  |
 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 | 2021-03-24 |  |
 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2021-03-24 | 2022-04-28 |
 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 | 2021-03-24 | 2022-04-27 |

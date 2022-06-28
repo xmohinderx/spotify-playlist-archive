@@ -4,7 +4,7 @@
 
 > With sød ven, Secret Nation, Boundary Run and more
 
-727 songs - 1 day 23 hr 5 min - [published](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
+728 songs - 1 day 23 hr 8 min - [published](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Heartbeat](https://open.spotify.com/track/7mPtXoZqVIRHSWjWzca85k) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Heartbeat](https://open.spotify.com/album/4kcrbLs822jesi8R1ok9ND) | 3:11 | 2022-06-06 |  |
 | [Heat and Dark](https://open.spotify.com/track/67qD5AzCPBZhwnFb1n75Oe) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:05 | 2022-01-14 | 2022-01-15 |
 | [Here Now](https://open.spotify.com/track/4DNJQD26B6pzHPFEssGiom) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/5zzVQgRaQKhp2nmIbM5sc9) | 3:14 | 2022-03-16 | 2022-03-17 |
-| [Here to You](https://open.spotify.com/track/1WAMaDAcysp2f5KqA70Syb) | [Tyler Brown Williams](https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7) | [Here to You](https://open.spotify.com/album/0oYNqLRnydqK5flEsSxrce) | 3:17 | 2022-06-27 |  |
+| [Here to You](https://open.spotify.com/track/1WAMaDAcysp2f5KqA70Syb) | [Tyler Brown Williams](https://open.spotify.com/artist/5xI8nUpNVKFiyrmcq4l9s7) | [Here to You](https://open.spotify.com/album/0oYNqLRnydqK5flEsSxrce) | 3:17 | 2022-06-27 | 2022-06-28 |
 | [Here We Are Now](https://open.spotify.com/track/7ubMrn85hqdYGN8Ro82rsZ) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG) | [Here We Are Now](https://open.spotify.com/album/5GTYE8fDSfLcog7U45MlZ4) | 3:39 | 2022-03-15 | 2022-06-21 |
 | [Here's To Endings](https://open.spotify.com/track/6wXL3MalwBZSgdF2expmTW) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Welcome Back](https://open.spotify.com/album/5eLr7pwuHAUEnCCRyc9J7V) | 4:12 | 2022-03-09 | 2022-06-23 |
 | [Heroes / Dying](https://open.spotify.com/track/5dXkJaRsnCtg7qKU5lgZzg) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V) | 3:50 | 2021-12-11 | 2022-03-07 |
@@ -482,6 +482,7 @@
 | [On the Train Ride Home](https://open.spotify.com/track/37adNHvszWoS1kINkE99Ja) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:47 | 2022-03-12 | 2022-03-24 |
 | [On the Train Ride Home](https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:47 | 2022-04-01 | 2022-06-15 |
 | [Once In A Lifetime \- Single Version](https://open.spotify.com/track/6cLYgEHXAcgTR5PLE5MeVc) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Once In A Lifetime](https://open.spotify.com/album/3XSUldXDCUgZrs2bGqkVEB) | 3:51 | 2021-12-02 | 2022-03-09 |
+| [One Day](https://open.spotify.com/track/0sgqIHSqqdivQaVYJyTqnP) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [One Day](https://open.spotify.com/album/5zVgIwR6Qch2Fh8E5eRpO2) | 3:21 | 2022-06-28 |  |
 | [One Phone Call](https://open.spotify.com/track/40pnG5wWFBMs8xrWtproNb) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Dog Years](https://open.spotify.com/album/5C33QGKq6Xy9FKCAFdV7Po) | 3:52 | 2022-06-01 | 2022-06-01 |
 | [Ordinary People](https://open.spotify.com/track/2UiZOMHWp9a7Yyw7m63pHP) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/6SidtwgeTlefV8bT1e8YU1) | 4:13 | 2022-03-16 | 2022-06-16 |
 | [Our House](https://open.spotify.com/track/761QedCA5199KP1aQjjqif) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Our House](https://open.spotify.com/album/6JNhnXGnzwDWEya582BQQv) | 2:45 | 2021-12-03 | 2022-02-28 |
@@ -680,7 +681,7 @@
 | [Weather Balloon \(Just Another Day\)](https://open.spotify.com/track/5Z6EusY6oc6pzBfpxrc5t8) | [Scott Ruth](https://open.spotify.com/artist/4pOiomYw0DRSNFPMLmKESa) | [Simple Life / Weather Balloon \(Just Another Day\)](https://open.spotify.com/album/7zcqMI8HfX1THAELQce6Z3) | 3:41 | 2022-06-12 | 2022-06-13 |
 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 | 2021-12-02 | 2022-03-08 |
 | [westside](https://open.spotify.com/track/10EGpDhTEwrSXkUcpmZz32) | [pink roses](https://open.spotify.com/artist/4KPrvW0HmBDFKs8PsXRwyp) | [westside](https://open.spotify.com/album/6lxwS3nYHZDvNBPlE3cVRs) | 3:02 | 2022-03-21 | 2022-06-21 |
-| [What a Mess](https://open.spotify.com/track/1P4TierG1w6L4wFxcpZBhh) | [Austin Blue](https://open.spotify.com/artist/7nUZN8xZKmQYsMDukn8QU9) | [Slow Me Down](https://open.spotify.com/album/05UWR7AntrFzkjh4XTSzeF) | 3:05 | 2022-03-09 | 2022-06-25 |
+| [What a Mess](https://open.spotify.com/track/1P4TierG1w6L4wFxcpZBhh) | [Austin Blue](https://open.spotify.com/artist/7nUZN8xZKmQYsMDukn8QU9) | [Slow Me Down](https://open.spotify.com/album/05UWR7AntrFzkjh4XTSzeF) | 3:05 | 2022-03-09 |  |
 | [What I Came Here For](https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [What I Came Here For](https://open.spotify.com/album/1SW9eGvdnTyLyR0sGLlNoZ) | 3:09 | 2022-03-02 | 2022-03-06 |
 | [What I Want](https://open.spotify.com/track/57As4lhkpp6tB422daefKK) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [tryhard](https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1) | 3:50 | 2022-03-22 | 2022-06-04 |
 | [What We've Been Missing](https://open.spotify.com/track/02onuEluWo2QjpxT0qGeOZ) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 4:10 | 2022-04-10 | 2022-06-23 |
@@ -693,7 +694,7 @@
 | [Whenever You're Around](https://open.spotify.com/track/6hVkpZkfQV82W6e31Xye37) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Demo Love](https://open.spotify.com/album/4cMLFycGikguo9tIh6fWUa) | 3:22 | 2022-03-10 | 2022-05-26 |
 | [Where Did The Time Go](https://open.spotify.com/track/5MK3ieVJOsl4cJxHALNawx) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Where Did The Time Go](https://open.spotify.com/album/28QqUNzHm0Us9E39qYXZZY) | 4:12 | 2022-03-30 | 2022-04-01 |
 | [Where Would I Be](https://open.spotify.com/track/3scvaJweRLLtqwN3uNrPeg) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Where Would I Be](https://open.spotify.com/album/6OCtDmz1AxPTGDMn5nopd0) | 4:34 | 2022-03-09 | 2022-06-23 |
-| [Where You Are](https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:31 | 2022-06-24 |  |
+| [Where You Are](https://open.spotify.com/track/5EVBUMvBVAxET8DFA3glyR) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:31 | 2022-06-24 | 2022-06-28 |
 | [Who You Run To](https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 4:34 | 2021-12-04 | 2022-03-09 |
 | [Who's Gonna Love You](https://open.spotify.com/track/7ftDul7Y8zExNX2XODGeEv) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 3:44 | 2022-03-21 | 2022-06-24 |
 | [Wide Awake](https://open.spotify.com/track/3trsYXfLT1UkKtncE84HlO) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 3:51 | 2022-02-05 | 2022-06-23 |

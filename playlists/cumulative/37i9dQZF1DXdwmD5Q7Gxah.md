@@ -4,7 +4,7 @@
 
 > every week find new tracks from artists u love, artists u will love, and old songs u forgot u loved\. cover: Djo
 
-1,704 songs - 3 day 19 hr 13 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,706 songs - 3 day 19 hr 19 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2019-09-20 | 2020-01-28 |
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-03-27 | 2020-08-20 |
 | [by the way](https://open.spotify.com/track/17xOw3AysUwcuQSlBF5MGk) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [by the way](https://open.spotify.com/album/0MPLvOSvvBVjwoh0vGye1u) | 3:44 | 2021-07-17 | 2021-08-14 |
-| [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-06-21 |  |
+| [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-06-21 | 2022-06-28 |
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-06-26 | 2021-12-02 |
 | [C U](https://open.spotify.com/track/6ImXK5OiLPL2e0KfikOur6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:00 | 2020-11-13 | 2021-05-15 |
 | [Cabin Fever](https://open.spotify.com/track/4P04T22VRDMfG7Yk0SMMxP) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Cabin Fever](https://open.spotify.com/album/5DfoMTrfErjlDnG79h6cKI) | 3:15 | 2020-07-24 | 2020-12-04 |
@@ -731,6 +731,7 @@
 | [I Don’t Think I Can Do This Again \(with Clairo\)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2019-08-23 | 2019-10-17 |
 | [I Eat Boys](https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Eat Boys](https://open.spotify.com/album/7pVckQv8uworjO5MOXuBUp) | 2:42 | 2021-04-02 | 2021-06-05 |
 | [I Fell in Love Again](https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [I Fell in Love Again](https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0) | 3:38 | 2022-01-21 | 2022-06-10 |
+| [I Guess](https://open.spotify.com/track/6h1pkexVwi0SHvF6ouvtIf) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [I Guess](https://open.spotify.com/album/22oY8Wbbdaby2fXeAlyxoa) | 2:54 | 2022-06-28 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-03-11 |
 | [I Hate You So Much](https://open.spotify.com/track/1KizhCVnkyDoHx3SErDhDB) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Hate You So Much](https://open.spotify.com/album/712HIhRNFIlZxdG1iVmDGJ) | 2:28 | 2020-02-12 | 2020-03-19 |
 | [I hope that u think of me](https://open.spotify.com/track/5lIhvIPhfRcH0AF8dKZJDf) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t) | 2:08 | 2022-01-07 |  |
@@ -753,7 +754,7 @@
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-04-10 | 2022-01-22 |
 | [i wanna slam my head against the wall](https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i wanna slam my head against the wall](https://open.spotify.com/album/19frp2ct1Jd1vE6biNvP7n) | 1:56 | 2021-03-18 | 2021-06-05 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-13 | 2022-01-08 |
-| [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 | 2022-06-17 |  |
+| [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 | 2022-06-17 | 2022-06-28 |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-05-03 | 2022-04-09 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2019-07-30\* | 2019-10-10 |
 | [I'll Just Dance](https://open.spotify.com/track/3Y3wmxmyrBkKBGWXfEjIsM) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [I'll Just Dance](https://open.spotify.com/album/2krExFjxvjUi1SU6Ek0Da3) | 2:41 | 2020-12-23 | 2021-03-06 |
@@ -1341,6 +1342,7 @@
 | [Snail](https://open.spotify.com/track/3qR0txhV0ztr0hNUJGAOG6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Snail](https://open.spotify.com/album/7sHwSoFWCWTdXe45t0vC27) | 3:00 | 2020-08-12 | 2021-01-12 |
 | [Snail \(feat\. Chloe Moriondo\)](https://open.spotify.com/track/6wZRVdKVHHSEHiAyTcwtV2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:50 | 2020-03-27 | 2020-04-22 |
 | [So Cold](https://open.spotify.com/track/29HrrHM34pVEPe1WXgT5Bs) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:51 | 2021-07-10 | 2021-12-02 |
+| [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-28 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-04 | 2022-04-16 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-01-14 | 2022-05-24 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 | 2020-05-14 |

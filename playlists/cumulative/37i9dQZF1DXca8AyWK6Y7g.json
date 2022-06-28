@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 185895,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/7ckbcPoMTMOdnlBIsrHjDD"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
@@ -8773,7 +8773,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 149230,
       "name": "hold the applause",
       "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
@@ -10565,7 +10565,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 156247,
       "name": "Kill You Boy",
       "url": "https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912"
@@ -12035,7 +12035,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -12407,7 +12407,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 138000,
       "name": "minnesota is a place that exists",
       "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
@@ -12483,7 +12483,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 199573,
       "name": "Missing Somebody",
       "url": "https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2"
@@ -12973,7 +12973,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 171033,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO"
@@ -16201,7 +16201,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 163602,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
@@ -16765,6 +16765,24 @@
       "duration_ms": 168650,
       "name": "Siddhartha",
       "url": "https://open.spotify.com/track/5XWOBkdPZZT1l8wJMiVAjB"
+    },
+    {
+      "album": {
+        "name": "sideways",
+        "url": "https://open.spotify.com/album/7xlnZU2UTVVS8w74QGuEhD"
+      },
+      "artists": [
+        {
+          "name": "MIXIE",
+          "url": "https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "sideways",
+      "url": "https://open.spotify.com/track/13ioHTU2uplzpkkvTUqfp2"
     },
     {
       "album": {
@@ -19109,7 +19127,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
@@ -21529,6 +21547,24 @@
       "duration_ms": 176707,
       "name": "Xbox Luvr",
       "url": "https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy"
+    },
+    {
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212315,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw"
     },
     {
       "album": {

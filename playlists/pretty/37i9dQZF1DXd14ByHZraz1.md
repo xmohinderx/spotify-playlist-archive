@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,648 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,724 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 8 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 |
 | 9 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 |
 | 10 | [Hanging Tree](https://open.spotify.com/track/5cZvvqthQVJCRXccaTIi6K) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Erjona Sylejmani](https://open.spotify.com/artist/4hPIBZfAdFw7xbOJodijWv) | [Hanging Tree](https://open.spotify.com/album/1xBRANluuhfC5N5RsPUI3I) | 2:32 |
-| 11 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 |
-| 12 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 |
-| 13 | [Desande](https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Desande](https://open.spotify.com/album/4NhkoRKK62JrNS0eznTYkU) | 3:42 |
-| 14 | [Harder](https://open.spotify.com/track/2YEfNfLGrHzps3NVUpfIqu) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Harder](https://open.spotify.com/album/6kErOOaFnYHlbv8GDs9Igv) | 2:00 |
-| 15 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 |
+| 11 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 |
+| 12 | [Desande](https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Desande](https://open.spotify.com/album/4NhkoRKK62JrNS0eznTYkU) | 3:42 |
+| 13 | [Harder](https://open.spotify.com/track/2YEfNfLGrHzps3NVUpfIqu) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Harder](https://open.spotify.com/album/6kErOOaFnYHlbv8GDs9Igv) | 2:00 |
+| 14 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 |
+| 15 | [Clap Your Hands](https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Clap Your Hands](https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ) | 3:21 |
 | 16 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 |
 | 17 | [Delusional](https://open.spotify.com/track/1thWqWBc3uujDYspY1XxcL) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Rhōden](https://open.spotify.com/artist/0tMqOIq4kYn7jXmzL1fRss), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Delusional](https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb) | 3:23 |
 | 18 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 59 | [Gimme Gimme](https://open.spotify.com/track/61PUqivooERiYjgLMw2UR2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/18AIQ8lzuMHEm9pfBtBGRK) | 2:27 |
 | 60 | [I Want Love \- Cat Dealers Remix](https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [I Want Love \(Cat Dealers Remix\)](https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS) | 3:41 |
 
-Snapshot ID: `MTY1MzAxNTY2MCwwMDAwMDEzZTAwMDAwMTgwZGY2OTQ2OTUwMDAwMDE4MGQ4YmY4NDQ4`
+Snapshot ID: `MTY1NjM1MjExNywwMDAwMDEzZjAwMDAwMTgxYTY0NzkzYzYwMDAwMDE4MGQ4YmY4NDQ4`

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Teskey Brothers, John Smith, The Brook & The Bluff and more
+> With John Mayer, The Teskey Brothers, Vampire Weekend, John Smith and more
 
 993 songs - 2 day 13 hr 43 min - [published](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
@@ -199,7 +199,7 @@
 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 | 2020-05-06 | 2022-02-07 |
 | [Dead Ringer](https://open.spotify.com/track/0Rki21AYk4m80ITCe1E34i) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Dead Ringer](https://open.spotify.com/album/0kOhy5xpCIVQrIpO78RpYC) | 3:39 | 2022-06-21 | 2022-06-22 |
 | [Dead Ringer](https://open.spotify.com/track/20WriEHh4LCUqjoeoWeABm) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Dead Ringer](https://open.spotify.com/album/4ssgG6wzrYIPyGG9vMFohI) | 3:39 | 2019-12-07 | 2022-06-10 |
-| [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:42 | 2022-03-19 |  |
+| [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:42 | 2022-03-19 | 2022-06-28 |
 | [Didn't See It Coming](https://open.spotify.com/track/7GnXKlzSWy0oeKZwV8RiPE) | [My Brothers And I](https://open.spotify.com/artist/01pbsrLZgBLuMIoU10Ypyb) | [Didn't See It Coming](https://open.spotify.com/album/3cv5rsdpAwlsW5wpg76P87) | 4:31 | 2022-03-13 | 2022-06-22 |
 | [Difficult Love](https://open.spotify.com/track/4mJNzlooNUYYgWdhFqQeSc) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [A Pill for Loneliness](https://open.spotify.com/album/1JaCRg0kiQCxm2jxIby648) | 4:04 | 2019-12-13 | 2022-06-24 |
 | [Distant Land](https://open.spotify.com/track/6lTNaNt7gP9xxPJbSHrU1x) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Distant Land](https://open.spotify.com/album/4MnLVjCjr3fcG0SLoTrSnY) | 3:21 | 2022-05-08 | 2022-06-20 |
@@ -877,7 +877,7 @@
 | [Thinking About You](https://open.spotify.com/track/49CJ4Klu0xxnj30DS0dpbS) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [In That Room](https://open.spotify.com/album/6i1Tfuso1BV4pRNMDtfybF) | 2:57 | 2022-03-11 | 2022-06-21 |
 | [This Feeling](https://open.spotify.com/track/3IBhpCAFOJxynTfrw0t2LN) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 4:28 | 2020-02-17 | 2021-04-14 |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2019-12-07 | 2022-03-09 |
-| [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 | 2020-04-10 | 2021-11-15 |
+| [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 | 2020-04-10 |  |
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2019-12-07 |  |
 | [This Too Shall Last \- Stripped](https://open.spotify.com/track/3dMbFkFmzhzZjxWFpfGvBW) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [This Too Shall Last \(Stripped\)](https://open.spotify.com/album/3C7estscFhFfY3th6v3JLr) | 4:39 | 2022-06-03 | 2022-06-04 |
 | [This World](https://open.spotify.com/track/7xHiQIxOPra9FpB6i2k3VP) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Now's The Time / This World](https://open.spotify.com/album/2Hd9uC27KfuVTRo4vECgQY) | 3:24 | 2022-03-14 | 2022-06-04 |

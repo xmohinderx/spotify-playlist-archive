@@ -157,7 +157,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 239973,
       "name": "At The Foot Of The Cross - Acoustic",
       "url": "https://open.spotify.com/track/31LmKMgaBngNroZmoJgvy1"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 428169,
       "name": "Even Louder (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 217701,
       "name": "Fighting for Us",
       "url": "https://open.spotify.com/track/2XEck4Y12kUyrRs6UAxJF8"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 282293,
       "name": "Heart Wide Open",
       "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 394186,
       "name": "Hidden (Live) [feat. Will Reagan]",
       "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
@@ -1468,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning, Live in Winston Salem",
+        "url": "https://open.spotify.com/album/1G2g0pbglGvBSWsjk0z93O"
+      },
+      "artists": [
+        {
+          "name": "Jason Upton",
+          "url": "https://open.spotify.com/artist/1vaOLxWPpsv5LVsSHBy9tF"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344933,
+      "name": "In Each Grain of Sand (Live)",
+      "url": "https://open.spotify.com/track/6tZ1vMQc957RRrNTjuQ4RJ"
+    },
+    {
+      "album": {
         "name": "Isn't He (This Jesus) [feat. Natalie Grant]",
         "url": "https://open.spotify.com/album/0wNGfoY7amKt82BKThdeKt"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 590437,
       "name": "Isn't He (This Jesus) [feat. Natalie Grant]",
       "url": "https://open.spotify.com/track/0AiQLGevpr9XOc9kIRjyuB"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 490441,
       "name": "It Is Finished / Surrounded - Medley/Live From Passion 2020",
       "url": "https://open.spotify.com/track/6w37AsKNfnOZF68O32wkT1"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 369322,
       "name": "Kindness - Live Session",
       "url": "https://open.spotify.com/track/23Ct3zjewKJyZeCFATpTeR"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 719169,
       "name": "Nothing Else / All I Need Is You - Medley / Live",
       "url": "https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 293986,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1tk77A21RXGJK1JaT3QkU2"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 211072,
       "name": "Overcome (Acoustic)",
       "url": "https://open.spotify.com/track/1b2JLmsUGCtjomD2LMK5Rj"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 572587,
       "name": "Prophesy Your Promise - Live",
       "url": "https://open.spotify.com/track/4xu0Ris8ylJnVPWgaypj6v"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 732553,
       "name": "Refiner",
       "url": "https://open.spotify.com/track/0bHcGi6iafYk4TUrqvDYya"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 230200,
       "name": "Safe",
       "url": "https://open.spotify.com/track/0zHIVxQLtHQFUrtySFKK5V"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 569320,
       "name": "Sanctuary - Live",
       "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 312106,
       "name": "Set My Heart - Live",
       "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 339480,
       "name": "Spirit of the Living God",
       "url": "https://open.spotify.com/track/4xuToNvDiZHnDQVujjK49s"
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 266669,
       "name": "Still God",
       "url": "https://open.spotify.com/track/1F9gR7ZewNPWR3QRGOZkkl"
@@ -3031,7 +3049,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 551026,
       "name": "There Is A Name (Live)",
       "url": "https://open.spotify.com/track/4kRES17Rch8ZEr4dJU7zRX"
@@ -3093,7 +3111,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 320683,
       "name": "This Is Love - Live",
       "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 629869,
       "name": "To the One",
       "url": "https://open.spotify.com/track/7AM6r9ky1mSwCYTBSwBezf"
@@ -3381,7 +3399,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 302466,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 277733,
       "name": "You Never Let Go",
       "url": "https://open.spotify.com/track/1b5863Da4fmbWu9EPZa5WS"

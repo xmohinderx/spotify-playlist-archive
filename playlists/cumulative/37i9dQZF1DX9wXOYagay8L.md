@@ -4,13 +4,14 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=zcGVv\-aQQ8u8hjaqpfFKNg">Manana</a>
 
-169 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+170 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 November](https://open.spotify.com/track/0xFrjHM0BH49huXC2n1fdk) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 4:35 | 2022-01-13 | 2022-05-27 |
 | [10K](https://open.spotify.com/track/77jr85pzR4YjCaK76WCPs0) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [10K](https://open.spotify.com/album/5buihYf725bWcbMHFboqwf) | 4:44 | 2022-06-09 |  |
 | [Amagama \- Outro](https://open.spotify.com/track/5svm683IVMIlIsUbnh09gP) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama \(Outro\)](https://open.spotify.com/album/4qoViDJuin6g4MihSrGxf6) | 2:37 | 2022-01-06 |  |
+| [Amagents](https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Amagents](https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK) | 3:43 | 2022-06-27 |  |
 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 | 2022-05-05 |  |
 | [Asambeni](https://open.spotify.com/track/7Lr10Tr4OI5SVin9D9VAhf) | [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Asambeni](https://open.spotify.com/album/2yfyvCwXbwco8UIjSeYq0T) | 2:57 | 2022-02-17 | 2022-03-25 |
 | [Balele](https://open.spotify.com/track/6WzAPWft8Rxhn91qoEQlmL) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:54 | 2021-09-30 |  |
@@ -88,7 +89,7 @@
 | [Madlamini](https://open.spotify.com/track/7xL81mAMW6zMBy9cj5Yzoh) | [Volume](https://open.spotify.com/artist/6oYSngKte6LsILQs3XddKi), [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ) | [Xam Deluxe](https://open.spotify.com/album/3B0fhhjBs3WFi8WFC0hp84) | 3:42 | 2021-12-02 | 2022-01-14 |
 | [MaGear](https://open.spotify.com/track/2ZrY5oRNMOLbmOKNGS9Ypo) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [MaGear](https://open.spotify.com/album/2vN1f32aIIHTRtJ44dQ4Ll) | 4:50 | 2022-06-23 |  |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-04-09 |
-| [MajikaJika](https://open.spotify.com/track/0dfahpHWTG567q6ZaMe1dw) | [Lumka](https://open.spotify.com/artist/2nGmkqAkKcmq9UuJH0rH2v) | [MajikaJika](https://open.spotify.com/album/5G5GQ9fU9fPQOaH4qsoNQv) | 3:52 | 2022-05-19 |  |
+| [MajikaJika](https://open.spotify.com/track/0dfahpHWTG567q6ZaMe1dw) | [Lumka](https://open.spotify.com/artist/2nGmkqAkKcmq9UuJH0rH2v) | [MajikaJika](https://open.spotify.com/album/5G5GQ9fU9fPQOaH4qsoNQv) | 3:52 | 2022-05-19 | 2022-06-28 |
 | [Make It Rain](https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw) | [Make It Rain](https://open.spotify.com/album/7Md9rkUbEYu5Jitqsimwcs) | 3:37 | 2022-02-24 | 2022-03-04 |
 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 | 2022-05-26 |  |
 | [Mamezala](https://open.spotify.com/track/6WgfG3YnKv0xjg646WLRrD) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Mamezala](https://open.spotify.com/album/175WAqrPQcqyLyjPLHvAlb) | 5:02 | 2021-11-04 |  |

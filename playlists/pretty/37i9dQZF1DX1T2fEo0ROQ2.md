@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,059 likes - 306 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,084 likes - 306 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 305 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 |
 | 306 | [Montañas Azules](https://open.spotify.com/track/6C5rLXFMuPObWazzfoBisf) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/4RO63cpWlUOBZCnGo5VRKa) | 4:47 |
 
-Snapshot ID: `MTY1NjA2ODc2NCwwMDAwMDA2YjAwMDAwMTgxOTU2M2Y0YWIwMDAwMDE3MGM0ZDFiZjY2`
+Snapshot ID: `MTY1NjMxNTE4MiwwMDAwMDA2ZTAwMDAwMTgxYTQxM2ZjZmMwMDAwMDE3MGM0ZDFiZjY2`

@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 176097,
       "name": "Body Pump - Lady Bee Remix",
       "url": "https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 128639,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b"
@@ -3369,7 +3369,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
@@ -3431,7 +3431,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 141841,
       "name": "Don't Even Know Your Name",
       "url": "https://open.spotify.com/track/6s3OlLs8Ey8LCol4xaDb6R"
@@ -6064,6 +6064,28 @@
     },
     {
       "album": {
+        "name": "I Confess (feat. ROM\u00c9O)",
+        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "ROM\u00c9O",
+          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "I Confess (feat. ROM\u00c9O)",
+      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
       },
@@ -6331,7 +6353,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
@@ -6605,7 +6627,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
@@ -6831,7 +6853,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
@@ -7073,7 +7095,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 238585,
       "name": "Last Thought (feat. MKLA)",
       "url": "https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk"
@@ -8417,7 +8439,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 142677,
       "name": "Monday Kind of Tuesday",
       "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
@@ -8783,7 +8805,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
@@ -8875,7 +8897,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 196523,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1LyTeIRYMHPA13p4b02NvV"
@@ -10461,7 +10483,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 279685,
       "name": "Pump the Brakes - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
@@ -11339,7 +11361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 210875,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
@@ -11829,7 +11851,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc"
@@ -11909,7 +11931,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 176640,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
@@ -12635,7 +12657,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
@@ -14273,7 +14295,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 206879,
       "name": "Aceptare",
       "url": "https://open.spotify.com/track/564KwnlvhMpMREj8WjnTVq"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 206000,
       "name": "Acepto Mi Destino",
       "url": "https://open.spotify.com/track/1gJgHG7wSGJqnAT0FNPZvV"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 170079,
       "name": "Albricias",
       "url": "https://open.spotify.com/track/1UyH3FwwJcr08leOkD7AK3"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 180586,
       "name": "Cabellitos de Mi Madre",
       "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 169880,
       "name": "Cruel Condena",
       "url": "https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 173933,
       "name": "El Final",
       "url": "https://open.spotify.com/track/4kvaFZySpHz2GZD1g8OIdn"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 169293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/3vuOUZqnlqkc7BljJq0NnL"
@@ -593,6 +593,24 @@
       "duration_ms": 170811,
       "name": "En la orilla del mar (Bolero version)",
       "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
+    },
+    {
+      "album": {
+        "name": "Mr. Estilo: Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/14vRSz45vJgQL932OHs3v0"
+      },
+      "artists": [
+        {
+          "name": "Frankie Figueroa",
+          "url": "https://open.spotify.com/artist/7nY4j5F8aXGaIACnaifjRb"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Eres Todo para Mi",
+      "url": "https://open.spotify.com/track/2Q1mrfEn4a12kYLp8g0Tos"
     },
     {
       "album": {
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 193619,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 171693,
       "name": "Kio",
       "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 210000,
       "name": "Penas",
       "url": "https://open.spotify.com/track/3tH1E46Yi2kcuDFVCD2vML"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 206908,
       "name": "Si No Est\u00e1s para Mi",
       "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 265960,
       "name": "Trompo de Juguete",
       "url": "https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 218720,
       "name": "Verdad Amarga",
       "url": "https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7"

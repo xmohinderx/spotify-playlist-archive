@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > The top country hits of the week across America! Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,832 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,985 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 49 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 |
 | 50 | [Note To Self](https://open.spotify.com/track/7ETfVO4Njvmf3oNPJy33zF) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Note to Self](https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN) | 3:15 |
 
-Snapshot ID: `MTY1NjA0MzIwMCwwMDAwMDBiZTAwMDAwMTgxOTNkZGRlY2EwMDAwMDE4MTFiZmMzMTZk`
+Snapshot ID: `MTY1NjM1ODA0MiwwMDAwMDBiZjAwMDAwMTgxYTZhMWZjYWUwMDAwMDE4MTFiZmMzMTZk`

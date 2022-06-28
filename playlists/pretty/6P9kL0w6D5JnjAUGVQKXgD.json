@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, ACRAZE, Ti\u00ebsto, Cherish",
-  "num_followers": 48480,
+  "num_followers": 48476,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTMwNyw1NGIyNTgzOTVjMWY5ZTEyM2NiYmRmYzQ3NTFmOGYzYzMyNWU2MzNk",
+  "snapshot_id": "MTMwOCxlZGQ2ZmI2ZjFlOGYxNjU2YzEzZmExNjFiMGQyZWFiZTFhZjJlYzU0",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
     },
     {
+      "added_at": "2021-07-14 08:40:04",
+      "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
+    },
+    {
       "added_at": "2022-06-18 15:42:02",
       "album": {
         "name": "Shivering (feat. Spiritbox)",
@@ -1055,22 +1071,6 @@
       "duration_ms": 221028,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
-    },
-    {
-      "added_at": "2021-07-14 08:40:04",
-      "album": {
-        "name": "This Is House",
-        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "This Is House",
-      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
       "added_at": "2021-08-27 15:43:05",
@@ -1173,6 +1173,30 @@
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
     },
     {
+      "added_at": "2022-06-22 15:41:03",
+      "album": {
+        "name": "Wake Up! (feat. Kaleta)",
+        "url": "https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Wake Up! (feat. Kaleta)",
+      "url": "https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1"
+    },
+    {
       "added_at": "2022-06-15 15:41:03",
       "album": {
         "name": "LIGHTWAVES",
@@ -1211,30 +1235,6 @@
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
-    },
-    {
-      "added_at": "2022-06-22 15:41:03",
-      "album": {
-        "name": "Wake Up! (feat. Kaleta)",
-        "url": "https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Wake Up! (feat. Kaleta)",
-      "url": "https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1"
     },
     {
       "added_at": "2022-06-17 15:44:04",
@@ -1921,20 +1921,24 @@
       "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
-      "added_at": "2022-06-22 15:41:03",
+      "added_at": "2022-06-27 15:41:03",
       "album": {
-        "name": "Pull Me Through",
-        "url": "https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL"
+        "name": "How It Makes You Feel",
+        "url": "https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM"
       },
       "artists": [
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
         }
       ],
-      "duration_ms": 182977,
-      "name": "Pull Me Through",
-      "url": "https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ"
+      "duration_ms": 526672,
+      "name": "How It Makes You Feel",
+      "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
     },
     {
       "added_at": "2021-06-25 17:34:07",

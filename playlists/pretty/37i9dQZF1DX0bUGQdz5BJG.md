@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,053 likes - 156 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,112 likes - 156 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

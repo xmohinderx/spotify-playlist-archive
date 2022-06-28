@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-195 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+196 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
+| [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 |  |
 | [Grit](https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Grit](https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU) | 4:43 | 2022-06-06 |  |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 |  |

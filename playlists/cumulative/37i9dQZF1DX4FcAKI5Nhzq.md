@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: LOONA
 
-583 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+584 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-06-01 | 2021-08-25 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-07 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
+| [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 |  |
 | [Hmph!](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) | [WJSN Chocome](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) | [Hmph!](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) | 3:19 | 2020-10-13\* | 2020-11-16 |
 | [Holiday Party](https://open.spotify.com/track/1oVEVmVaI590kt8bCZ90uU) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : Holiday](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) | 3:09 | 2021-08-11 | 2021-09-18 |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2020-10-19 | 2021-03-10 |

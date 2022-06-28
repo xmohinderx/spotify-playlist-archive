@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395426,
+      "name": "A Fight I Must Win",
+      "url": "https://open.spotify.com/track/6Yb6ofPLgbb5QhhuWQXtnk"
+    },
+    {
+      "album": {
         "name": "Black Earth (Reissue)",
         "url": "https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 272880,
       "name": "City of the Dead",
       "url": "https://open.spotify.com/track/3KTUAqTNYTeZBXcnAJdB1A"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 196706,
       "name": "Dark Insanity",
       "url": "https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 287733,
       "name": "Reason to Believe",
       "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"

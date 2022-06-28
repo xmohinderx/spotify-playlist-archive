@@ -690,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ"
+    },
+    {
+      "album": {
         "name": "Guloso",
         "url": "https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5"
       },
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 291578,
       "name": "Sof\u00e1 7 - Demo",
       "url": "https://open.spotify.com/track/5jaRGv0vkI2lgfsHVhW4eM"

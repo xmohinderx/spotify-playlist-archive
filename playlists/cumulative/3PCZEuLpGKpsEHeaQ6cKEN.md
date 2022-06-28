@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren &amp; Blasterjaxx
 
-157 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+158 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Club Addict](https://open.spotify.com/track/4bCmNtxTlcWaiYCRV5oTZX) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [Club Addict](https://open.spotify.com/album/6h9YS888ld8a40S1YjOfFk) | 2:39 | 2022-06-09 |  |
 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 | 2022-06-09 |  |
 | [Come Around Again](https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Come Around Again](https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC) | 2:49 | 2022-06-09 |  |
+| [Crazy Love](https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW) | 3:06 | 2022-06-27 |  |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2022-06-09 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-06-09 |  |
 | [Don't Speak](https://open.spotify.com/track/1JBoXrcRKIGE4NOfXDeHKY) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Don't Speak](https://open.spotify.com/album/4b4Gh9za4V6JP9OIZBpPj8) | 2:29 | 2022-06-09 |  |

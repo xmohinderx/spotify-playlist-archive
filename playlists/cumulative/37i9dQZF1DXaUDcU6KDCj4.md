@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Caamp
 
-597 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+598 songs - 1 day 12 hr 39 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Florida](https://open.spotify.com/track/5i48wjgGeMOncMkn9K3vrZ) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Florida](https://open.spotify.com/album/69zDUxDNPXej0q4nzvZ3yq) | 4:43 | 2021-11-19 | 2022-01-22 |
 | [Flyin \(like a fast train\)](https://open.spotify.com/track/5ItAruXMNgaAmxP2MmRHI7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 4:46 | 2022-04-15 |  |
 | [Flyin' Overhead](https://open.spotify.com/track/67djP6VPqGDjG5jJgBEuQb) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Flyin' Overhead](https://open.spotify.com/album/7weMOuQtaLZ5IM1FFpSv8v) | 4:51 | 2021-12-31 | 2022-01-15 |
+| [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2022-06-27 |  |
 | [For All Our Days That Tear The Heart](https://open.spotify.com/track/4UGEkt9RUpoDSxieleovYf) | [Jessie Buckley & Bernard Butler](https://open.spotify.com/artist/2iDj6XNvEPptqkADJUCozm) | [For All Our Days That Tear The Heart](https://open.spotify.com/album/4iJLcj6AnO8pZAabNcSfpD) | 5:00 | 2022-04-29 | 2022-06-25 |
 | [Forever \(New Feelings Version\)](https://open.spotify.com/track/0a3XINx8PuXVIwEiQoSdUd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 4:05 | 2022-03-04 | 2022-04-29 |
 | [Fort Dimanche](https://open.spotify.com/track/47g2cEftywynxNGzZEOepq) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Fort Dimanche](https://open.spotify.com/album/4BzO8Zbnva52t9BSLtlHRt) | 3:07 | 2021-12-03 | 2022-02-12 |

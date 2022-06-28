@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 32282,
+  "num_followers": 32361,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA3NDE4NSwwMDAwMDE5NTAwMDAwMTgxOTViNmFiMjkwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1NjMzMjEzOSwwMDAwMDE5NzAwMDAwMTgxYTUxNmJkNzAwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/74U35eUUi95rWLtLFG14Zw"
     },
     {
+      "added_at": "2022-06-27 12:13:03",
+      "album": {
+        "name": "Bonding Song (From \"777 Charlie - Kannada\")",
+        "url": "https://open.spotify.com/album/0qtKUl9U99V2UeEF4rXbbE"
+      },
+      "artists": [
+        {
+          "name": "Nobin Paul",
+          "url": "https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Bonding Song (From \"777 Charlie - Kannada\")",
+      "url": "https://open.spotify.com/track/35N6FryV4Fgs9I7f7uHRGD"
+    },
+    {
       "added_at": "2022-05-20 13:39:10",
       "album": {
         "name": "Dingar Billi (From \"Champion\")",
@@ -163,6 +183,30 @@
       "duration_ms": 277061,
       "name": "Dingar Billi (From \"Champion\")",
       "url": "https://open.spotify.com/track/32wAO9ieyLy10bN9gMNql4"
+    },
+    {
+      "added_at": "2022-06-27 12:15:39",
+      "album": {
+        "name": "Gowli",
+        "url": "https://open.spotify.com/album/3bysfkv5RNMA9QW6BySSCw"
+      },
+      "artists": [
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Madhwesh Bharadwaj",
+          "url": "https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH"
+        }
+      ],
+      "duration_ms": 251244,
+      "name": "Maha Rakkasa",
+      "url": "https://open.spotify.com/track/3dbyTXWN9o1hgLmg9N64Ff"
     },
     {
       "added_at": "2022-06-06 06:13:02",
@@ -219,6 +263,26 @@
       "duration_ms": 183722,
       "name": "Twenty One Hours Title Track",
       "url": "https://open.spotify.com/track/3eetgLmFQZ7FfQN0aLNV7v"
+    },
+    {
+      "added_at": "2022-06-27 12:15:39",
+      "album": {
+        "name": "Dear Vikram",
+        "url": "https://open.spotify.com/album/3p3KH5LQe5RTSAoVtnOyIl"
+      },
+      "artists": [
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        },
+        {
+          "name": "Siddarth Belmannu",
+          "url": "https://open.spotify.com/artist/60YUdKepbmyJm0Cmrhqs1g"
+        }
+      ],
+      "duration_ms": 227492,
+      "name": "Ararre Ararre Yeno Salige",
+      "url": "https://open.spotify.com/track/6SwDqEAOMBDjvE4BUOj7I2"
     },
     {
       "added_at": "2022-06-13 13:40:50",

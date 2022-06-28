@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Saucy Santana",
-  "num_followers": 588546,
+  "num_followers": 589122,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDBkYzAwMDAwMTgxOTNkZGRlYzMwMDAwMDE4MTZkMDc0NDRj",
+  "snapshot_id": "MTY1NjM3NjY5NCwwMDAwMDBkZDAwMDAwMTgxYTdiZTk4NGMwMDAwMDE4MTZkMDc0NDRj",
   "tracks": [
     {
       "added_at": "2022-06-21 04:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Imma Celebrity",
+        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 188965,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "We Not Humping (Remix)",
         "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
       },
@@ -221,20 +237,20 @@
       "url": "https://open.spotify.com/track/48JqhA9zo7QlanLa8e0bZE"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-06-28 00:38:14",
       "album": {
-        "name": "Imma Celebrity",
-        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/1f7TBi6D38CzFbaXUPmgvY"
       },
       "artists": [
         {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 188965,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/0rdhOCfkQkOoxgShrMh7gJ"
     },
     {
       "added_at": "2022-06-10 04:01:00",
@@ -455,6 +471,22 @@
       "duration_ms": 138730,
       "name": "Hot Killer",
       "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
+    },
+    {
+      "added_at": "2022-06-28 00:38:14",
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW"
     },
     {
       "added_at": "2022-05-27 04:01:00",

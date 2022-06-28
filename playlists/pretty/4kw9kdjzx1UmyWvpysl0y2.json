@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQ4OCwwZmIxYmRmZDM3MmRkN2EwNjE3MWZhMmY5NDA2MDM3OTEwYWM2OGYy",
+  "snapshot_id": "MzQ4OSxjYzVjNTA4M2ViZmQ5NWM3MTkxOTRjZmMyZTA3MjVjNmZhYTliNzRj",
   "tracks": [
+    {
+      "added_at": "2022-06-27 16:49:14",
+      "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "EMEL",
+          "url": "https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm"
+    },
     {
       "added_at": "2022-06-24 17:04:11",
       "album": {

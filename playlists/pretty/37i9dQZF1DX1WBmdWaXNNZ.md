@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,122 likes - 54 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,174 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,6 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 51 | [未来](https://open.spotify.com/track/4q8gfiDFF4YI7LRJa6GhBL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 3:18 |
 | 52 | [そしたら](https://open.spotify.com/track/2puoZAkFbPOwHpi0YyaQUJ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議/創造](https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK) | 2:48 |
 | 53 | [もしも](https://open.spotify.com/track/4kulXzzPedW6CrAQiU8cpa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [フィルム](https://open.spotify.com/album/7qRrk4lJ3aukVtTe2c7Qyq) | 3:27 |
-| 54 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 |
+| 54 | [喜劇 \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/4x4Nx7y7f4dZ2Bp3veS1kA) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [喜劇 \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/2g9XXfCHYDpSgaSdkM04uZ) | 3:54 |
+| 55 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 |
 
-Snapshot ID: `MTY0OTM0MzYwMCwwMDAwMDAxMjAwMDAwMTgwMDQ4YTE2NjIwMDAwMDE4MDAzNDEzMzBm`
+Snapshot ID: `MTY1NjM0MTk2NiwwMDAwMDAxMzAwMDAwMTgxYTVhY2FmZjQwMDAwMDE4MDAzNDEzMzBm`

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 144392,
       "name": "A-V8 Boogie",
       "url": "https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 127626,
       "name": "American Music",
       "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 167600,
       "name": "Baby I Don't Care",
       "url": "https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 166040,
       "name": "Bad News From Pretty Red Lips",
       "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 183573,
       "name": "Born to Rock",
       "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 192466,
       "name": "Chalk It Up to the Blues",
       "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
@@ -530,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Stomp",
+        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Casino",
+          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133693,
+      "name": "Debt With the Devil",
+      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
+    },
+    {
+      "album": {
         "name": "Don't Come Knocking on My Door",
         "url": "https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 154680,
       "name": "Evelina",
       "url": "https://open.spotify.com/track/4Lz9MQ6Je5niOfsT6xLVKO"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 126500,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 234293,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 121760,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/1m1p15XpCQLXkq04yym3xu"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Mac Attack",
       "url": "https://open.spotify.com/track/59wegmikZsRULAIESThR9H"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 127847,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 211948,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/6gldKmiWRakgio6WSudzq2"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 185986,
       "name": "Red Light (Spells Danger)",
       "url": "https://open.spotify.com/track/3fxkvUbO7w8CvHIGm4jnag"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 193053,
       "name": "Rockabilly Banjo",
       "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Rocket to the Moon",
       "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 136560,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 125093,
       "name": "Tiger Twist - 2007 Remaster",
       "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"

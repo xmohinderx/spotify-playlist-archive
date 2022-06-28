@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Dimitri Vegas, David Guetta, Nicole Scherzinger, & Aztek, Diplo & bbno$, Beyoncé and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,922,393 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,922,322 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

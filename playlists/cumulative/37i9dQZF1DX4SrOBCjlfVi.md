@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Lil Durk, DaBaby, YG and more\. Cover: Roddy Ricch
 
-960 songs - 1 day 21 hr 11 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+961 songs - 1 day 21 hr 13 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Good Friday](https://open.spotify.com/track/06sZ51gSjEQXBa0UXAp8F5) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Good Friday](https://open.spotify.com/album/6gFhfBgwuQrsHqp0qGbXj1) | 3:41 | 2022-04-15 | 2022-04-23 |
 | [GOOD MEMORIES](https://open.spotify.com/track/4URXPE1mb1Vo2pnQrMebcb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [GOOD MEMORIES](https://open.spotify.com/album/6G63wW97JmNxxGaxClYjL5) | 2:03 | 2022-05-06 | 2022-05-14 |
 | [Good Time](https://open.spotify.com/track/3bU77XsRmbVmNekjx3DocH) | [Tailz.](https://open.spotify.com/artist/49ckNZa4dIW3UluuEW2EC1) | [Good Time](https://open.spotify.com/album/3Sn0nCbC2LIcoPHDI7Y74A) | 2:34 | 2022-03-11 | 2022-03-18 |
+| [Good Times \(feat\. Offset\)](https://open.spotify.com/track/3j3Pdp9PvAhdJQ1asYh6hS) | [Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [LARRY \(Deluxe\)](https://open.spotify.com/album/2N0IPzR54y3sYnQJFT0bsA) | 2:41 | 2022-06-27 |  |
 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 | 2022-02-04 | 2022-02-19 |
 | [GOT A FEELING](https://open.spotify.com/track/3GziyZzAAapq3rPBukQUGB) | [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [STRICTLY 4 THE VOICELESS](https://open.spotify.com/album/0C9oAS2VMu6Rw5nonWb8wJ) | 2:03 | 2022-04-01 | 2022-04-09 |
 | [Got Damn](https://open.spotify.com/track/7J8YTp4JFQuQXTNLexx3g8) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [Got Damn](https://open.spotify.com/album/0FVa4hvcK17nUGjrhN4Hfy) | 1:46 | 2022-01-21 | 2022-01-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,437 likes - 106 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,445 likes - 106 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,33 +1,13 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 198997,
+  "num_followers": 199063,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjI5MTk0NSwwMDAwMDAwMGI0NDQ0ZTc3YmNkMDkwYTJhZTFlZmJjNmZhYmI4NGY3",
+  "snapshot_id": "MTY1NjM3ODUxMCwwMDAwMDAwMGRjYTY2NDQzYTc0YmJiNWQwNzY5N2QwMDgyOTdmOWE0",
   "tracks": [
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
-    },
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody",
       "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -135,22 +151,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
+        "name": "In My House",
+        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Girls",
+          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "You Rock My World",
-      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -339,18 +323,70 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "In My House",
-        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
       "artists": [
         {
-          "name": "Mary Jane Girls",
-          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 343933,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
+      "duration_ms": 337733,
+      "name": "You Rock My World",
+      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Afrodisiac",
+        "url": "https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Talk About Our Love (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "The Best of Donell Jones",
+        "url": "https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "U Know What's Up",
+      "url": "https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -375,18 +411,22 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "Be",
-        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 224160,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -411,38 +451,34 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "The Best of Donell Jones",
-        "url": "https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf"
+        "name": "Be",
+        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
       },
       "artists": [
         {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 240813,
-      "name": "U Know What's Up",
-      "url": "https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd"
+      "duration_ms": 224160,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
     },
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
       },
       "artists": [
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+      "duration_ms": 248933,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -459,26 +495,6 @@
       "duration_ms": 232942,
       "name": "T.O.N.Y.",
       "url": "https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Afrodisiac",
-        "url": "https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Talk About Our Love (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -519,38 +535,6 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Miss Thang",
-        "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Before You Walk Out of My Life",
-      "url": "https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -583,6 +567,38 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
+        "name": "Miss Thang",
+        "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Before You Walk Out of My Life",
+      "url": "https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
@@ -595,58 +611,6 @@
       "duration_ms": 254466,
       "name": "Kick, Push",
       "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -687,6 +651,42 @@
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
+        "name": "The Evolution of Robin Thicke",
+        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Lost Without U",
+      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
         "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
         "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
       },
@@ -711,38 +711,6 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -779,6 +747,38 @@
       "duration_ms": 315506,
       "name": "Just The Two Of Us",
       "url": "https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
+    },
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2022-06-01 04:00:00",

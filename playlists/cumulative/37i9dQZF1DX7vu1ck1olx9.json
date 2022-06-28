@@ -414,6 +414,28 @@
     },
     {
       "album": {
+        "name": "Doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "F.o.x",
+          "url": "https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK"
+    },
+    {
+      "album": {
         "name": "Siberia",
         "url": "https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl"
       },
@@ -479,7 +501,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 132944,
       "name": "feeling kind of sad",
       "url": "https://open.spotify.com/track/1kfqBNHMtJQnbGUUaDzdLB"
@@ -501,7 +523,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 130427,
       "name": "FLEETING",
       "url": "https://open.spotify.com/track/35IlMSTOjZ0JDIKeHhQUhM"
@@ -661,7 +683,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 163805,
       "name": "Haru",
       "url": "https://open.spotify.com/track/31TEA4ta7kwHu7gjaPacvr"
@@ -679,7 +701,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 127080,
       "name": "Heart Ache",
       "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
@@ -825,7 +847,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
@@ -935,7 +957,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 100811,
       "name": "Lofi Jazz Beat",
       "url": "https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 110789,
       "name": "makeitliveforever",
       "url": "https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO"
@@ -1073,7 +1095,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 189136,
       "name": "night walk",
       "url": "https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt"
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 225997,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 153233,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
@@ -1465,7 +1487,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 62000,
       "name": "something easy",
       "url": "https://open.spotify.com/track/3ERiZbndVXtCGXIREDHKgD"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 80000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
@@ -1867,7 +1889,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 181428,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL"
@@ -1961,7 +1983,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 121519,
       "name": "Wish You Were Mine",
       "url": "https://open.spotify.com/track/1eHx0urYJo0Tzo2DABMvkj"

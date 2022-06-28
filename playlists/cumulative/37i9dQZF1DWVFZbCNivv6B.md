@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Toser One.
 
-165 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+166 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [Cerda](https://open.spotify.com/track/2rdqyEyZMHYuLgkcMhvaHU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cerda](https://open.spotify.com/album/6A5HbXck2L3a4tL9A6w91Z) | 2:30 | 2022-06-06 |  |
 | [Colocados](https://open.spotify.com/track/2PNXAJsaHQQROOGAWv5Y8m) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [Colocados](https://open.spotify.com/album/4taNe2QMypVpxlTmikrLmz) | 4:35 | 2022-05-06 |  |
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-01-28 |  |
+| [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 |  |
 | [Conmigo No](https://open.spotify.com/track/3FPP7nkUq0Q0wbsVzv9IeA) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Conmigo No](https://open.spotify.com/album/5S0kbNFGP70HdyQEA7fO0G) | 3:45 | 2022-01-28 | 2022-04-23 |
 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 | 2022-02-18 |  |
 | [Cruella](https://open.spotify.com/track/2Q7A5uNAnFjoZMdAFgesyU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cruella](https://open.spotify.com/album/6d5YfXScfWlziWGQgu1RRs) | 2:37 | 2022-03-25 |  |
 | [Cuando Huele](https://open.spotify.com/track/4QhOpSey4O0bnYVzXBcjtz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cuando Huele](https://open.spotify.com/album/2zToNcX1Rn7Y1LQI8BP3HD) | 3:22 | 2022-01-28 | 2022-02-12 |
 | [Cuando Te Vas](https://open.spotify.com/track/4q9Rjz3WD5clmY2TIE3uPr) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cuando Te Vas](https://open.spotify.com/album/4iQwXt31sNhZ7Z7egRKu6M) | 2:46 | 2022-01-28 | 2022-04-29 |
-| [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2022-01-28 |  |
+| [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2022-01-28 | 2022-06-28 |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 | 2022-05-14 |
 | [Dangerous](https://open.spotify.com/track/76cdJNuDt1dgoUAg3Zsmbq) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Dangerous](https://open.spotify.com/album/5P6rDFKtvsQO8KsaviUVtq) | 3:35 | 2022-05-06 |  |
 | [De Callejón](https://open.spotify.com/track/0Z1ap3SVAzq7XjUgp6v9gH) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Luz & Sombra](https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8) | 3:51 | 2022-01-28 | 2022-05-14 |

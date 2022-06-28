@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "fly-\u96fb\u5f71\u300c\u5c11\u5e74\u7684\u4f60\u300d\u7247\u5c3e\u66f2",
+        "url": "https://open.spotify.com/album/75sHDtjuwNapWz36SqpFO8"
+      },
+      "artists": [
+        {
+          "name": "Yoyo Sham",
+          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "fly-\u96fb\u5f71\u300c\u5c11\u5e74\u7684\u4f60\u300d\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/0hkVJLQyaFdcNf5qP9WPH1"
+    },
+    {
+      "album": {
         "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
       },
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
       "url": "https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 268625,
       "name": "\u4e0d\u7528\u544a\u8a34\u6211 - \u6771\u68ee\u6232\u5287\u53f0\u97d3\u5287\u300c\u5de7\u514b\u529b\u300d\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "\u5982\u679c\u53ef\u4ee5 (Acapella) - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0y1TIod7QyhmY4RG0Ett2k"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 246357,
       "name": "\u5b8c ,(\u9996\u5531\u65bcXIANG YU YI YANG\u7dda\u4e0a\u6f14\u5531\u6703)[Live]",
       "url": "https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 205945,
       "name": "\u601d\u5ff5\u7684\u9031\u671f",
       "url": "https://open.spotify.com/track/5mcNY4fwlbXwoNjYBHcErx"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 233397,
       "name": "\u60f3\u548c\u4f60\u4e00\u8d77",
       "url": "https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 272082,
       "name": "\u6211\u5011\u597d\u597d\u7684",
       "url": "https://open.spotify.com/track/2QKkvbhZgKSkQPvTs6D1Ut"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 287010,
       "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
       "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
@@ -1047,6 +1065,24 @@
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
+    },
+    {
+      "album": {
+        "name": "\u6e38\u7267",
+        "url": "https://open.spotify.com/album/5TcwXy3ycGrJVAIyLHwCVf"
+      },
+      "artists": [
+        {
+          "name": "Zooey Wonder",
+          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "\u6211\u9023\u5feb\u6a02\u90fd\u4e0d\u6562\u4e86",
+      "url": "https://open.spotify.com/track/66x69ddxo6rH3KZoa5yNfO"
     },
     {
       "album": {
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 220414,
       "name": "\u6700\u60f3\u898b\u5230\u4f60 (\u4e09\u7acb\u83ef\u5287\u300a\u8ddf\u9bca\u9b5a\u63a5\u543b\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 259714,
       "name": "\u6709\u4f60\u7684\u65e5\u5e38",
       "url": "https://open.spotify.com/track/2H0uXyh62DBNc4nEsYnlmG"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 239711,
       "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
       "url": "https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx"

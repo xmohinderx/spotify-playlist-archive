@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-54 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
+55 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [創造](https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [創造](https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM) | 3:54 | 2022-04-07 |  |
 | [化物](https://open.spotify.com/track/5IOKl1EeyOw7Bjp9E84tdw) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf) | 2:27 | 2022-04-07 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-07 |  |
+| [喜劇 \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/4x4Nx7y7f4dZ2Bp3veS1kA) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [喜劇 \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/2g9XXfCHYDpSgaSdkM04uZ) | 3:54 | 2022-06-27 |  |
 | [地獄でなぜ悪い](https://open.spotify.com/track/61znEgS6PbjGHLmQcNr0xZ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 3:41 | 2022-04-07 |  |
 | [夢の外へ](https://open.spotify.com/track/6wlUtMxqW0E4V0ZzPtRMkt) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf) | 3:51 | 2022-04-07 |  |
 | [彼方](https://open.spotify.com/track/0X6YqzGOAaShLBr6HmnTxT) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [夢の外へ](https://open.spotify.com/album/16Qv1FdwQb59zNHBNG94lb) | 4:01 | 2022-04-07 |  |

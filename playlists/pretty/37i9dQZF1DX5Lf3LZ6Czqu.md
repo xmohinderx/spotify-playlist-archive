@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,482 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,541 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 70 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 |
 | 71 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 |
 
-Snapshot ID: `MTY1NTQzODUyMCwwMDAwMDAyYjAwMDAwMTgxNmZkMzJmNTMwMDAwMDE3ZDk1ZTlhYmE4`
+Snapshot ID: `MTY1NjM0MzE5MSwwMDAwMDAyYzAwMDAwMTgxYTViZjVmMGQwMDAwMDE3ZDk1ZTlhYmE4`

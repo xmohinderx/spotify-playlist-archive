@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,827 likes - 74 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,838 likes - 74 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

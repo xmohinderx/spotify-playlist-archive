@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-150 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
+152 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,11 +74,13 @@
 | [Brown Noise Snoozing](https://open.spotify.com/track/6HpHSbOQQdT94b2hKqHvlc) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Brown Noise in the Bedroom](https://open.spotify.com/album/10HKfIUPwczWd0ylU3rLJ2) | 3:44 | 2022-03-18 |  |
 | [Brown Noise Space Vessel](https://open.spotify.com/track/6lCUMe0Q52bTzACupusgFT) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Unwinding Noise](https://open.spotify.com/album/7bEN377z4nw9351vLVCL3D) | 2:42 | 2022-01-07 |  |
 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 | 2022-05-20 |  |
+| [Brown Noise Valley 220Hz](https://open.spotify.com/track/62BKIXTJOA8Vplgu6wOlUh) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Soft Brown Noise](https://open.spotify.com/album/4nTgcRgGKB2r5mTsqTNqPY) | 3:38 | 2022-06-27 |  |
 | [Brown Noise Waterfall](https://open.spotify.com/track/4D8NrgPfpaVDgYL5RGIJ66) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Calm Noise](https://open.spotify.com/album/6ZHA1t28vnQkY5Oj23WsVV) | 2:50 | 2022-01-07 | 2022-06-15 |
 | [Brown Noise Zen](https://open.spotify.com/track/3CTBLZaFX89g0ZJ737a6lF) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:41 | 2022-05-20 |  |
 | [Brown Sleep Noise](https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 | 2022-01-07 |  |
 | [Brown Wave Noise](https://open.spotify.com/track/0jLkaTUZXxDOSsFV1MdsHe) | [Wavelength Minds](https://open.spotify.com/artist/1XqT7nMi7H4WDGdzurdh0r) | [White Wave Noise](https://open.spotify.com/album/5wQmjZe4pXY44196xqidMV) | 2:28 | 2022-01-07 |  |
 | [Calming Brown Noise Flow](https://open.spotify.com/track/7huPpwlgmAraLo2Cgp2OVJ) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Relaxing Brown Noise Frequencies](https://open.spotify.com/album/0qk5cjVlzTT0edDWeJwI6P) | 3:35 | 2022-06-14 |  |
+| [Children's Brown Noise](https://open.spotify.com/track/6wffjjTQR9b6d2OFGlMPkS) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Chill with Brown Noise](https://open.spotify.com/album/6RjPRT1OYgQzXRJxbljbS9) | 3:39 | 2022-06-27 |  |
 | [City Sleep](https://open.spotify.com/track/4JM6SPP4klfw5guc4U78Bp) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Time for Bed](https://open.spotify.com/album/1v34jK6eEwiQIR9P590O0V) | 3:44 | 2022-01-07 |  |
 | [Clouds \(Brown Noise\)](https://open.spotify.com/track/2g5t61FK81Fg05dLT6jZ5j) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bedtime Brown Noise](https://open.spotify.com/album/1Vw1qEL9XX6yKjqnwgEf13) | 3:46 | 2022-06-14 |  |
 | [Cozy Brown Noise 125 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/5uCl0fZUTihAj5QXeEpgxu) | [Puffs Of Bliss](https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq) | [Cozy Brown Noise 125 Hz Q 0.5](https://open.spotify.com/album/29x19DdtjMVYKhhTPXWez2) | 2:51 | 2022-06-14 |  |
@@ -111,7 +113,7 @@
 | [In Harmony with Brown Noise](https://open.spotify.com/track/0D74jJ6XzbCWFtu4WlGW8A) | [ULXI](https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU) | [Brown Noise Calm](https://open.spotify.com/album/5Oab92us7Xu7CeVxkwGKPt) | 3:38 | 2022-05-20 |  |
 | [Incognito \- Brown Noise](https://open.spotify.com/track/4llrQQQaoqWzvZ0mezm1NE) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Soothing Brown Noises](https://open.spotify.com/album/2oBmJWimdbdQ1B8ytKo2o9) | 3:44 | 2022-01-07 |  |
 | [Kids Sleep Better with Brown Noise](https://open.spotify.com/track/4mjBJXhHwywloF1TW6sQ3Y) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Kids Sleep Better with Brown Noise](https://open.spotify.com/album/1RktS4KscksexB4f7u5b32) | 3:26 | 2022-06-14 |  |
-| [Lighthouse Storm](https://open.spotify.com/track/3wYcI5lwZNpLhEl3Pa1CVU) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 4:15 | 2022-01-07 |  |
+| [Lighthouse Storm](https://open.spotify.com/track/3wYcI5lwZNpLhEl3Pa1CVU) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 4:15 | 2022-01-07 | 2022-06-28 |
 | [Lo\-Air](https://open.spotify.com/track/4WIupOFPnMTMYf3DVBbQ62) | [WNX](https://open.spotify.com/artist/2AJugoQl9wyqJyt8pIFKJX) | [White Frequency](https://open.spotify.com/album/2Kz8CV80vNMKikEntDeSsL) | 3:20 | 2022-01-07 |  |
 | [Low Brown \(Noise\)](https://open.spotify.com/track/6tIFNVeEHqT3OagEeweOvt) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calm Sleep \(Noise\)](https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc) | 2:32 | 2022-01-07 |  |
 | [Lull Noise](https://open.spotify.com/track/7yuqyrGapb2mZkjPwXy3Pw) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Brown Bliss](https://open.spotify.com/album/6aunZLgFrK8aedHzoxm2Oz) | 3:24 | 2022-01-07 |  |

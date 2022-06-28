@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="http://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa">Desiree</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,683 likes - 70 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,696 likes - 70 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

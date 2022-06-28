@@ -950,6 +950,32 @@
     },
     {
       "album": {
+        "name": "Merch",
+        "url": "https://open.spotify.com/album/5NexntZMObc9laiYBG8s48"
+      },
+      "artists": [
+        {
+          "name": "DUNNOWHO",
+          "url": "https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Multi",
+          "url": "https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155594,
+      "name": "Merch",
+      "url": "https://open.spotify.com/track/3eHQUipnS6lCIWRhKa8Fs3"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M"
       },

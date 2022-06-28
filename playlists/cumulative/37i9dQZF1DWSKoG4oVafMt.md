@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-369 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+370 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 | 2022-05-11 |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 |  |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
+| [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 |  |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 |  |
 | [Chabbi](https://open.spotify.com/track/2uRrLcVJCgARzYxWL24AbF) | [Rico](https://open.spotify.com/artist/3JrGyrmqkOo417urhPrMcf), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/0V3JwNUon6yzdrDn3zsgLY) | 4:31 | 2022-02-07 | 2022-02-12 |
 | [Chabbi](https://open.spotify.com/track/5LMWRn5OfcH7F02Wu3oBaN) | [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG), [Hiba Nawab](https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k) | [Chabbi](https://open.spotify.com/album/2dkekukYqNwp0OM1UjVcjt) | 4:31 | 2022-01-18 | 2022-01-19 |

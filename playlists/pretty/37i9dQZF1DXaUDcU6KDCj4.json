@@ -1,12 +1,12 @@
 {
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Caamp",
-  "num_followers": 725290,
+  "num_followers": 725485,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzMyMCwwMDAwMDI3NzAwMDAwMTgxOTNkZmIzMmEwMDAwMDE4MTg5M2ZkNjE5",
+  "snapshot_id": "MTY1NjMzODUxOSwwMDAwMDI3ODAwMDAwMTgxYTU3ODE1ODcwMDAwMDE4MTg5M2ZkNjE5",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -571,6 +571,26 @@
       "duration_ms": 253851,
       "name": "If You Were Someone I Loved",
       "url": "https://open.spotify.com/track/4j7qvSFUp2o1v0htlTVIAB"
+    },
+    {
+      "added_at": "2022-06-27 14:01:59",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0"
+      },
+      "artists": [
+        {
+          "name": "Sam Johnston",
+          "url": "https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl"
+        },
+        {
+          "name": "Emma Klein",
+          "url": "https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8"
+        }
+      ],
+      "duration_ms": 273413,
+      "name": "For a While",
+      "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
     },
     {
       "added_at": "2022-06-24 04:02:00",

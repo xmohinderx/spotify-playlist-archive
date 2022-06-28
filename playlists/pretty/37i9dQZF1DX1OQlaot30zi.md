@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Shablo, Geolier, Coez, Shiva e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,349 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,373 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 |
-| 2 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 |
+| 1 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 |
+| 2 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 |
 | 3 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
 | 4 | [BABE](https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:02 |
 | 5 | [I soldi e la droga \(feat\. Lazza\)](https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [Atteggiamento \(Bonus Track\)](https://open.spotify.com/track/0XlTMea3unL7XPuVpQa1mE) | [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Il ragazzo \(Deluxe\)](https://open.spotify.com/album/5BNaYbR9umqE4r0qrIV6iC) | 2:15 |
 | 75 | [ORO NEL FANGO](https://open.spotify.com/track/2tV0m08GvDWePTG16OSJ6z) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [NIIK](https://open.spotify.com/artist/6isvm42EcLmapQrseJ80GK) | [ORO NEL FANGO](https://open.spotify.com/album/2qu47GWwrWj88Cnjg6L7Ey) | 2:13 |
 
-Snapshot ID: `MTY1NjAyMTY2MCwwMDAwMDEzYzAwMDAwMTgxOTI5NTMxYzQwMDAwMDE4MTkwZDZiMmRh`
+Snapshot ID: `MTY1NjMzMjkxNywwMDAwMDEzZDAwMDAwMTgxYTUyMjk5YTIwMDAwMDE4MTkwZDZiMmRh`

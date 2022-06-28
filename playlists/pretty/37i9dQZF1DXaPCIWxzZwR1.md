@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,902 likes - 94 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,175 likes - 94 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

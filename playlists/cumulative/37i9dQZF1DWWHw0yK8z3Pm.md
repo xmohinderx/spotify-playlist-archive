@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Digging Roots
 
-117 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+118 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bad Omen](https://open.spotify.com/track/3F0e0A7yNrwneqaLHUpY2I) | [Steve Dawson](https://open.spotify.com/artist/1aXW72EBb24vfYA2FnhDf2) | [Bad Omen](https://open.spotify.com/album/02wMdNPvlHyDhTe6CIQUXX) | 4:38 | 2022-05-13 | 2022-06-04 |
 | [Be My Witness \(feat\. Madison Cunningham\)](https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:22 | 2022-05-13 |  |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-05-13 |  |
-| [Big Winner](https://open.spotify.com/track/75YuTb8bJxKWvG2XoFUdiv) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Big Winner](https://open.spotify.com/album/2RqwUCA2scfelXCOSH29rt) | 3:53 | 2022-05-13 |  |
+| [Big Winner](https://open.spotify.com/track/75YuTb8bJxKWvG2XoFUdiv) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Big Winner](https://open.spotify.com/album/2RqwUCA2scfelXCOSH29rt) | 3:53 | 2022-05-13 | 2022-06-28 |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-13 |  |
 | [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2022-05-13 |  |
 | [Broken Record](https://open.spotify.com/track/7JLELSaYvnK7lm4NHuRVEO) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [Broken Record](https://open.spotify.com/album/7ykEG2RL9QFSLFWBl7TbnH) | 3:18 | 2022-05-13 |  |
@@ -55,6 +55,7 @@
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 |  |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 |  |
+| [Hot Sun](https://open.spotify.com/track/7boU5TwZT4PNnBFKvj64i0) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/5zsMjaSXlfETTQhVwDHnMj) | 3:01 | 2022-06-27 |  |
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 |  |
 | [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 | 2022-05-13 |  |
 | [I'm Not Alone](https://open.spotify.com/track/0DQ9q4oTx0W01x0Nqd8f9I) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0) | 5:07 | 2022-05-13 |  |

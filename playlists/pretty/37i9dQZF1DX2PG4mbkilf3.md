@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,332 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,386 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 98 | [Spell on Me](https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq), [Hunter Yerrell](https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI) | [Spell on Me](https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S) | 2:42 |
 | 99 | [Back to You](https://open.spotify.com/track/1M1pCtHsfELKBeFCNd20im) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa) | [Exes & O's](https://open.spotify.com/album/0J5rmovLwIyGzUgiGAOIoR) | 2:28 |
 
-Snapshot ID: `MTY1NjA0NDg1OCwwMDAwMDI4OTAwMDAwMTgxOTNmNzJjYWQwMDAwMDE4MTkzNjFjMGVk`
+Snapshot ID: `MTY1NjM1MjQxMCwwMDAwMDI4YTAwMDAwMTgxYTY0YzBhMzQwMDAwMDE4MTkzNjFjMGVk`

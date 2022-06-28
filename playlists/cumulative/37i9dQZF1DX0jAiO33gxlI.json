@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 148235,
       "name": "Mesmo Que Demore",
       "url": "https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 259475,
       "name": "Mundo Cruel",
       "url": "https://open.spotify.com/track/18zRtGahrGQ45ZMh4lsDs1"
@@ -3374,6 +3374,32 @@
     },
     {
       "album": {
+        "name": "Sementinha do Mal",
+        "url": "https://open.spotify.com/album/6APEhDxAI5GmMfVXgywtYy"
+      },
+      "artists": [
+        {
+          "name": "Febre90s",
+          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Sementinha do Mal",
+      "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
+    },
+    {
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -4001,6 +4027,28 @@
       "duration_ms": 163750,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/08eTiYPPqFp7VvsN87taLJ"
+    },
+    {
+      "album": {
+        "name": "WILLY",
+        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "WILLY",
+      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: SEKAI NO OWARI",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: \u83c5\u7530\u5c06\u6689(Masaki Suda)",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -1314,6 +1314,28 @@
     },
     {
       "album": {
+        "name": "living dead!!",
+        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148842,
+      "name": "living dead!!",
+      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
+    },
+    {
+      "album": {
         "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
         "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
       },
@@ -1383,7 +1405,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 245974,
       "name": "MELODY (prod.by BREIMEN)",
       "url": "https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn"
@@ -1459,10 +1481,32 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 214008,
       "name": "MoonWalker",
       "url": "https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit"
+    },
+    {
+      "album": {
+        "name": "Mystery Train (feat. Wez Atlas)",
+        "url": "https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        },
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Mystery Train - feat. Wez Atlas",
+      "url": "https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps"
     },
     {
       "album": {
@@ -1858,6 +1902,24 @@
     },
     {
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
+    },
+    {
+      "album": {
         "name": "SCIENTIST (Japanese ver.)",
         "url": "https://open.spotify.com/album/4Fv22ltDAUSeyboT0e7xnK"
       },
@@ -1953,6 +2015,24 @@
       "duration_ms": 285831,
       "name": "Simple",
       "url": "https://open.spotify.com/track/2VUQEplQ848X6lFLzBxQT8"
+    },
+    {
+      "album": {
+        "name": "SLEEPLESS",
+        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "SLEEPLESS",
+      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     },
     {
       "album": {
@@ -2381,7 +2461,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
@@ -2565,7 +2645,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 170326,
       "name": "YOUNG TOWN",
       "url": "https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m"
@@ -2833,7 +2913,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 180320,
       "name": "\u3057\u3088\u3063\u304b\u3002(feat.meiyo)",
       "url": "https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF"
@@ -3689,7 +3769,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 217693,
       "name": "\u30ca\u30ab\u30de",
       "url": "https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8"
@@ -4064,6 +4144,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30c3\u30d7\u30eb",
+        "url": "https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164909,
+      "name": "\u30ea\u30c3\u30d7\u30eb",
+      "url": "https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30f3\u30ba",
         "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
       },
@@ -4421,7 +4519,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 227573,
       "name": "\u5618\u5bdd",
       "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
@@ -4447,6 +4545,24 @@
       "duration_ms": 216400,
       "name": "\u5922\u306e\u307e\u305f\u5922 feat. tofubeats",
       "url": "https://open.spotify.com/track/2qzV8U4qIdaRjlq68eC8dt"
+    },
+    {
+      "album": {
+        "name": "\u5922\u55b0",
+        "url": "https://open.spotify.com/album/0ITHjOTVymCdDZiCryNms7"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "\u5922\u55b0",
+      "url": "https://open.spotify.com/track/09eGoLGb5TkQhprZWHOakY"
     },
     {
       "album": {
@@ -4901,7 +5017,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 228214,
       "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
@@ -5053,6 +5169,24 @@
       "duration_ms": 250880,
       "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
+    },
+    {
+      "album": {
+        "name": "\u6843\u6e90\u90f7",
+        "url": "https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u6843\u6e90\u90f7",
+      "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
     },
     {
       "album": {
@@ -5305,6 +5439,24 @@
       "duration_ms": 214245,
       "name": "\u7729\u5149",
       "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u6700\u5f37 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257915,
+      "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
     },
     {
       "album": {

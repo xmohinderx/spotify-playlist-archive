@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167884,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y"
+    },
+    {
+      "album": {
         "name": "Canada Gedi",
         "url": "https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G"
       },

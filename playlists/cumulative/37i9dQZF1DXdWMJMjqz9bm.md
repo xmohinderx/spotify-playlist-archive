@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: Arden Jones
 
-295 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+296 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/track/5VVwf9cFRB54BwuRTTUzk5) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/album/2nS3UeRJjodBMCufr2u3DX) | 2:09 | 2022-03-11 | 2022-06-04 |
 | [commas](https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [commas](https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7) | 2:20 | 2022-03-11 | 2022-05-21 |
 | [Company](https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Company](https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg) | 2:35 | 2022-04-15 |  |
+| [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:17 | 2022-06-27 |  |
 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 | 2022-04-04 |  |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-16 | 2022-02-26 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-19 |  |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 280026,
       "name": "1973",
       "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 228266,
       "name": "A Moment Like This",
       "url": "https://open.spotify.com/track/6Far9mixuLOSu0Y5ectjfA"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 188386,
       "name": "Accidentally In Love",
       "url": "https://open.spotify.com/track/4FXdIM78OBdw7KIY2jeM8D"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 239986,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 220373,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 268120,
       "name": "Big Girls Don't Cry (Personal)",
       "url": "https://open.spotify.com/track/2ZpOQ2MJxce0xf1eKhobMR"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 210506,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/2OuNgtXKeCSORKqdl0MxKk"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 236106,
       "name": "Footprints in the Sand - Single Mix",
       "url": "https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5IaR621NoOM6i5KTcuNRHM"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
@@ -809,6 +809,24 @@
       "duration_ms": 279373,
       "name": "Handbags And Gladrags",
       "url": "https://open.spotify.com/track/5JAhtB4S0NrArDlH9knyPU"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2zL05F00c8OnJuAd765hEQ"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/2DWO9x9rhszjJsabuPqp8P"
     },
     {
       "album": {
@@ -949,7 +967,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 245360,
       "name": "Human",
       "url": "https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 205866,
       "name": "If You Come Back",
       "url": "https://open.spotify.com/track/46OimynUrkutuu5oBIoAFV"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 235266,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 227280,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/0bD7MJ0ypZlZ15UsQToYnN"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Please Don't Let Me Go",
       "url": "https://open.spotify.com/track/4t4Uc6yNnnzBhatmarfV4Y"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 259186,
       "name": "Queen of My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/3LaOU1rxGZFPRC4I602Z3O"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 250106,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/2gjVAoahTI3FH9IhCsOZ5p"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 252466,
       "name": "The Closest Thing to Crazy",
       "url": "https://open.spotify.com/track/4FXzCVsRurpgAYuRyaD8Y4"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 209373,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/4mGDeChO9f1Tds6cUEOHSn"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 205360,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 304013,
       "name": "The Voice Within",
       "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "There You'll Be",
       "url": "https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5j82yGNCjpk6R50LgR4hHG"
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR"

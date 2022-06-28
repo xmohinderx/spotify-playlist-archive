@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: t\-low
 
-124 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+125 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Am I Wrong \- Drill Remix](https://open.spotify.com/track/3eAMVkEZHK3rGBJqL4trvQ) | [RedHead Beats](https://open.spotify.com/artist/2zmIsdUFVh0cwvAiEZIMgO) | [Am I Wrong \(Drill Remix\)](https://open.spotify.com/album/5WTnzokVAK3mDSHCd9JWEy) | 3:38 | 2022-06-16 |  |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-09 | 2022-06-24 |
 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 | 2022-06-09 |  |
+| [Baby dont hurt me](https://open.spotify.com/track/7ojcbtGjkGDlX5rxJyIDLy) | [Kapa Boy](https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI) | [Baby dont hurt me](https://open.spotify.com/album/6wa4P0rzzVArBxQf0SFve3) | 1:28 | 2022-06-27 |  |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-06-09 | 2022-06-14 |
 | [Beautiful Girl](https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Beautiful Girl](https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk) | 2:59 | 2022-06-09 |  |
 | [Beichte](https://open.spotify.com/track/2uQ30aq82tR0xeZskWjTgN) | [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM) | [Beichte](https://open.spotify.com/album/2BGAYuoMkZXBj89XkH2srG) | 2:57 | 2022-06-09 | 2022-06-24 |
@@ -35,7 +36,7 @@
 | [Crashen](https://open.spotify.com/track/5STeQZH1Ahz3h0X9Njaij7) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Benzo Diaries](https://open.spotify.com/album/0HbiTa5jQDKUGTitnI84p1) | 2:58 | 2022-06-09 | 2022-06-14 |
 | [deadline.](https://open.spotify.com/track/0W2nFlmRInfrXoDAKLvJBq) | [vito](https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw) | [deadline.](https://open.spotify.com/album/3oXqffnm5xaqI8aaBKy2bh) | 2:04 | 2022-06-09 | 2022-06-24 |
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-23 |  |
-| [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-20 |  |
+| [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-20 | 2022-06-28 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-09 |  |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-09 |  |
 | [Dunkelblau](https://open.spotify.com/track/018xarXmBSWkxODkNHf78I) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Dunkelblau](https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf) | 3:47 | 2022-06-16 | 2022-06-24 |

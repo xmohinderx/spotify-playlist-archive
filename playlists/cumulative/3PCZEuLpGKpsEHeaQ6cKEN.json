@@ -500,6 +500,28 @@
     },
     {
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186184,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu"
+    },
+    {
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC"
       },

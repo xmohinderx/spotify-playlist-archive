@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-57 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+58 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 |  |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 | 2021-11-05 |  |
-| [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 |  |
+| [Hair Like You](https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Hair Like You](https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV) | 2:58 | 2022-06-27 |  |
+| [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 | 2022-06-28 |
 | [Heat](https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM) | [IMBER](https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN) | [Heat](https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ) | 3:51 | 2022-06-03 |  |
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 |  |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
@@ -61,7 +62,7 @@
 | [Surf You](https://open.spotify.com/track/7iBPGBKUezy2EuH1eA82ut) | [Archil & Leon](https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI) | [Surf You](https://open.spotify.com/album/5qo2UbCeU262V9qWLfjedL) | 3:35 | 2022-05-16 |  |
 | [Synchronise](https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Synchronise](https://open.spotify.com/album/1ELHpKQWozs7pR6Y6L4QAA) | 4:47 | 2022-06-10 |  |
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
-| [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 |  |
+| [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 |  |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
