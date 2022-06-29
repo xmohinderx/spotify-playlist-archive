@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
+    {
+      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 214520,
       "name": "Car Therapy",
       "url": "https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg"
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
@@ -4499,7 +4517,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 212727,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
@@ -5035,7 +5053,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 186101,
       "name": "facetime after sex",
       "url": "https://open.spotify.com/track/5aFtC3Uc43XhA9XWEXRRox"
@@ -5793,7 +5811,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 219013,
       "name": "Funny Girl",
       "url": "https://open.spotify.com/track/0reRPFzKIUVpwkXFE7Qt2w"
@@ -7309,7 +7327,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 209087,
       "name": "Hollywood Forever Cemetery",
       "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
@@ -7345,7 +7363,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC"
@@ -9159,7 +9177,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 197466,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
@@ -9397,7 +9415,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
@@ -10363,7 +10381,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -13139,7 +13157,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 172525,
       "name": "Parliaments",
       "url": "https://open.spotify.com/track/5tpDX58ps1R79zczsYiz8n"
@@ -15231,7 +15249,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 143715,
       "name": "So Long",
       "url": "https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew"
@@ -16195,7 +16213,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 182561,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF"
@@ -16813,7 +16831,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
@@ -16871,7 +16889,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB"
@@ -17189,7 +17207,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 229714,
       "name": "The Night Has Missed Me",
       "url": "https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF"
@@ -17911,7 +17929,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
@@ -18593,7 +18611,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 201253,
       "name": "Ur Mum",
       "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
@@ -19347,7 +19365,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
@@ -19405,7 +19423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb"
@@ -19621,7 +19639,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 178134,
       "name": "Window",
       "url": "https://open.spotify.com/track/3uTs3FopDp2M8oG4HpqtBh"

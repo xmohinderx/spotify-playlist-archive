@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
 
-56 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+57 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 | 2021-11-15 |  |
 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 | 2022-01-04 |  |
 | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC) | 3:28 | 2022-03-19 |  |
+| [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-06-28 |  |
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-11-15 |  |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-15 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2021-11-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 32361,
+  "num_followers": 32444,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMzMjEzOSwwMDAwMDE5NzAwMDAwMTgxYTUxNmJkNzAwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1NjQxOTgyMiwwMDAwMDE5ODAwMDAwMTgxYWE1MGFjOTIwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -51,6 +51,26 @@
       "duration_ms": 221000,
       "name": "Honey Bunny - From \"Trivikrama\"",
       "url": "https://open.spotify.com/track/68Ij3M9Ux9H2n5AXEDGPyj"
+    },
+    {
+      "added_at": "2022-06-28 12:37:02",
+      "album": {
+        "name": "Maaya Gange (From \"Banaras\")",
+        "url": "https://open.spotify.com/album/217yRMaetQAa0Ay6xA91ta"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 275039,
+      "name": "Maaya Gange (From \"Banaras\")",
+      "url": "https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN"
     },
     {
       "added_at": "2022-06-06 06:13:02",

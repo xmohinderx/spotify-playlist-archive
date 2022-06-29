@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Shitty Gay Song About You](https://open.spotify.com/track/3zIlUCqCQhqCQFJIveJSfE) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [A Shitty Gay Song About You](https://open.spotify.com/album/11UXrGWMLG7F2TOl7rUzDB) | 1:55 | 2022-02-20 |  |
+| [A Shitty Gay Song About You](https://open.spotify.com/track/3zIlUCqCQhqCQFJIveJSfE) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/11UXrGWMLG7F2TOl7rUzDB) | 1:55 | 2022-02-20 |  |
 | [All I Have Is I](https://open.spotify.com/track/2cLrli2NE987jrCHJe4e0l) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [All I Have Is I](https://open.spotify.com/album/3KBzyQJ9hCybruGbPcjczp) | 3:25 | 2021-10-05 |  |
 | [Am I Here](https://open.spotify.com/track/7FGLcc2GCS80mQbQ9rIIiQ) | [Jay Page](https://open.spotify.com/artist/5UAp6OV20EOh2PLm1c7vY3) | [Split](https://open.spotify.com/album/36akr9DjkQJ6Usnd7nGEZ9) | 3:29 | 2021-10-05 | 2022-06-17 |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-05-31 |  |

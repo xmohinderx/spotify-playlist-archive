@@ -1,12 +1,12 @@
 {
   "description": "Mode: Turnt",
-  "num_followers": 6237653,
+  "num_followers": 6238159,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0NjEyNiwwMDAwMDRmYzAwMDAwMTgxYTVlYzI5MmUwMDAwMDE4MTZlMDZmZTBh",
+  "snapshot_id": "MTY1NjQ0NTk0OCwwMDAwMDRmZDAwMDAwMTgxYWJkZjUzYjIwMDAwMDE4MTZlMDZmZTBh",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -755,6 +755,50 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "Bory300",
+          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
+        }
+      ],
+      "duration_ms": 118249,
+      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "added_at": "2022-06-28 19:52:28",
+      "album": {
+        "name": "Bad Ass Bitches",
+        "url": "https://open.spotify.com/album/59m6OpnjZhN7bCVAAnUPqO"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 118466,
+      "name": "Bad Ass Bitches",
+      "url": "https://open.spotify.com/track/6lhanwNaMxRtdLypNcXWDL"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
       },
@@ -807,34 +851,6 @@
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
-        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Dougie B",
-          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
-        },
-        {
-          "name": "Bory300",
-          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
-        }
-      ],
-      "duration_ms": 118249,
-      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
-      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 281379,
       "name": "We Go Up (feat. Fivio Foreign) - Extended",
       "url": "https://open.spotify.com/track/2RVDUGoVt5Xp8vFnONxhFx"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Superghetto",
-        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 195756,
-      "name": "Hoochie Mama",
-      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
     },
     {
       "added_at": "2022-06-24 04:01:00",

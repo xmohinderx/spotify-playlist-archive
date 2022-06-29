@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1UlNZOsBRA68xckzhZFqmq)
+55 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1UlNZOsBRA68xckzhZFqmq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [絶体絶命](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [絶体絶命](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 | 2022-06-09 |  |
 | [英雄 運命の詩 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:42 | 2022-06-09 |  |
 | [英雄 運命の詩 \-Instrumental\-](https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:43 | 2022-06-09 |  |
-| [雨、キミを連れて](https://open.spotify.com/track/5NdITLzyhOFoVZAkMs9zoL) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:14 | 2022-06-09 |  |
+| [雨、キミを連れて](https://open.spotify.com/track/5NdITLzyhOFoVZAkMs9zoL) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:14 | 2022-06-09 | 2022-06-29 |
+| [雨、キミを連れて](https://open.spotify.com/track/3S4iNos3MGzmixgZIuQVYr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:15 | 2022-06-28 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

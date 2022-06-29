@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,790 likes - 210 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,844 likes - 210 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 209 | [The Tower of Embellion](https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:56 |
 | 210 | [Next To Me \- And The Stars](https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Sky Full Of Stars](https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR) | 4:28 |
 
-Snapshot ID: `MTY1NjA2ODcwOSwwMDAwMDA4MzAwMDAwMTgxOTU2MzFiNjMwMDAwMDE2Y2Y2ODZiMTNj`
+Snapshot ID: `MTY1NjQzMTE4NCwwMDAwMDA4NDAwMDAwMTgxYWFmZTA5MTgwMDAwMDE4MWFhZmRkY2Jm`

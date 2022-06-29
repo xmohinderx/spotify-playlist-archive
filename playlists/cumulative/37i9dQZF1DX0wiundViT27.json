@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A dose of high energy, feel-good rock tunes. Press play and let the good vibes come your way.",
-  "name": "Rock Me UP!",
+  "description": "A dose of high-energy, feel-good rock tunes.",
+  "name": "Rock Me Up",
   "published_playlist_ids": [
     "31BtjWZOch0vZk8cRSyrqF"
   ],
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/5JtPGzRgrWxkXX9LoROq3d"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 225680,
       "name": "Afraid of Heights",
       "url": "https://open.spotify.com/track/0qlgfcFAsrlNCD4tBGVAY9"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 203273,
       "name": "Be Legendary",
       "url": "https://open.spotify.com/track/2mVFo8BJ6ZPh82QAOpCUbT"
@@ -221,6 +221,28 @@
       "duration_ms": 203733,
       "name": "Beating Heart Baby",
       "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "album": {
+        "name": "Bittersweet (Feat. Dashboard Confessional)",
+        "url": "https://open.spotify.com/album/2TEE1RnUqjfSdOK5gxuswa"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168566,
+      "name": "Bittersweet (Feat. Dashboard Confessional)",
+      "url": "https://open.spotify.com/track/3aouFaljxig7RLEmPLFtnj"
     },
     {
       "album": {
@@ -271,7 +293,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 234093,
       "name": "Bloodfeather",
       "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
@@ -487,7 +509,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 223560,
       "name": "Curse the Weather",
       "url": "https://open.spotify.com/track/4Avvd1ZV1CX4zLzeMVp8RO"
@@ -563,7 +585,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
@@ -759,7 +781,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
@@ -835,7 +857,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 237106,
       "name": "Fire Alarm",
       "url": "https://open.spotify.com/track/7owfaYY6CFwqQAv2Xih9CY"
@@ -929,7 +951,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 175680,
       "name": "GREAT NIGHT (feat. Shovels & Rope)",
       "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0"
@@ -1277,7 +1299,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
@@ -1733,7 +1755,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "My Friends Over You",
       "url": "https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt"
@@ -1773,7 +1795,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
@@ -1816,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
+    },
+    {
+      "album": {
         "name": "Nothing Left",
         "url": "https://open.spotify.com/album/7Ga5rDDpZcRVkjTx4fVrm5"
       },
@@ -1831,7 +1871,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 122222,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/3PoiPLGqcvVnZUGAzaStv9"
@@ -1867,7 +1907,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 220533,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/51EhqjwJH9AmtnQhxVGv1F"
@@ -2051,7 +2091,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 181499,
       "name": "Put A Record On",
       "url": "https://open.spotify.com/track/2IEbyYtElSG0IU0WZXFA2N"
@@ -2087,10 +2127,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 237560,
       "name": "Ready For Something",
       "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+    },
+    {
+      "album": {
+        "name": "SZNZ: Summer",
+        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
     },
     {
       "album": {
@@ -2231,7 +2289,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
@@ -2253,6 +2311,24 @@
       "duration_ms": 206276,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "album": {
+        "name": "Something Loud",
+        "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196618,
+      "name": "Something Loud",
+      "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
     },
     {
       "album": {
@@ -2293,7 +2369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
@@ -2689,7 +2765,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
@@ -2707,7 +2783,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
@@ -2743,7 +2819,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"

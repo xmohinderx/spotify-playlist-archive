@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,546 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,543 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 18 | [Fresstyle QCLTUR](https://open.spotify.com/track/5jwtijEfm9w7Bdl6W86fZ5) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Freestyle QCLTUR](https://open.spotify.com/album/0GYLKE1KZlRXqBBdaUU26q) | 2:03 |
 | 19 | [Luna](https://open.spotify.com/track/2YYO9A2TUoExzcqtNymnf0) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/0zsHr5Wht2ttnClr5JYDda) | 4:17 |
 | 20 | [J'ai pu d'chums](https://open.spotify.com/track/2Wu7su85tTfzLraSPW1fKo) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [J'ai pu d'chums](https://open.spotify.com/album/6wOSrT09L5uzcuC4IY81fr) | 2:49 |
-| 21 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [Zeg P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/6murJEPwblfrbWNFYt4Lx8) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
+| 21 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
 | 22 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 |
 | 23 | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/track/7z2cUfglgcQ9K89YdMlDOP) | [Sainte\-Croix](https://open.spotify.com/artist/6DXllKnZVeC1AJOMWt7vig), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/album/3M6B8jtdB22egiajOkp1GJ) | 2:09 |
 | 24 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 |

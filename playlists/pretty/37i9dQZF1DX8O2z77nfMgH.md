@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,537 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,615 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [Pensar en Ti \(Remix\)](https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pensar en Ti \(Remix\)](https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK) | 4:02 |
 | 8 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 |
 | 9 | [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
-| 10 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Zeta](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
+| 10 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
 | 11 | [Se Enamoró de un Reggaetonero](https://open.spotify.com/track/0dlEA0Yhxsd09QWncDvaXF) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 2:15 |
 | 12 | [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 |
 | 13 | [Sin Miedo](https://open.spotify.com/track/3AmapHSIVmvhxdOsp9IjMs) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Criss J.](https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe) | [Sin Miedo](https://open.spotify.com/album/4uePRLsrizKav02ugx8Yvk) | 4:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Pasha Chrisye\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,665 likes - 64 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,670 likes - 64 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

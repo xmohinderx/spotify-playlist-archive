@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "The Battle for Everything",
+        "url": "https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 228311,
       "name": "A Drop In the Ocean",
       "url": "https://open.spotify.com/track/0vxlqUrmgsiyAWOHaAfnSK"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 186584,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/68A8M94uf0m5bM5sxf3Tn8"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 269666,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/6HIgbYCr7gh2bhj00948fK"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 215546,
       "name": "Fallin' For You",
       "url": "https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 184440,
       "name": "Favorite T-Shirt",
       "url": "https://open.spotify.com/track/55p8TQ1ggGYOO1gLQrC52D"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 215903,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/5yR5ydZdVoSXBh6Dy4JhAS"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
@@ -693,10 +711,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 207123,
       "name": "I Love You Will Still Sound The Same",
       "url": "https://open.spotify.com/track/6KRddNr4XlooytDWtefT7L"
+    },
+    {
+      "album": {
+        "name": "Halfway Down The Sky",
+        "url": "https://open.spotify.com/album/70AhQk68A2rIuwqNxKEWZY"
+      },
+      "artists": [
+        {
+          "name": "Splender",
+          "url": "https://open.spotify.com/artist/13C1r67pHZXIokdommj2dF"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236760,
+      "name": "I Think God Can Explain",
+      "url": "https://open.spotify.com/track/3YW5qaMNCsMnta8L0j1btB"
     },
     {
       "album": {
@@ -755,7 +791,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
@@ -791,7 +827,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
@@ -827,7 +863,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 169354,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/3xj7CICKpCDxxMJ5ilRbTY"
@@ -953,7 +989,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3iT4vWUWxqsn4hFTkEaJCi"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
@@ -1195,7 +1231,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 225293,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/57Wjcff1bw8TueYvFip4NN"
@@ -1213,7 +1249,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Never Stop (Wedding Version)",
       "url": "https://open.spotify.com/track/5himtcBG5IetEOAYuB1Lu1"
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 178826,
       "name": "No Matter Where You Are",
       "url": "https://open.spotify.com/track/2XW4AAjfBQTzp7Oe1tU702"
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ"
@@ -1539,10 +1575,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2Ei3G9yrF32h7XmZ9likpn"
+      },
+      "artists": [
+        {
+          "name": "Fra Lippo Lippi",
+          "url": "https://open.spotify.com/artist/1Oi99c5Uoxbg8nJT8WprBw"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261640,
+      "name": "Stitches and Burns",
+      "url": "https://open.spotify.com/track/7psTNaKmJxmF33orqN4a9P"
     },
     {
       "album": {
@@ -1593,7 +1647,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 176853,
       "name": "The Best You Had",
       "url": "https://open.spotify.com/track/1CohLMdkpi0odYnMxqLYqd"
@@ -1629,7 +1683,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 265666,
       "name": "The Fight Is Over",
       "url": "https://open.spotify.com/track/32HEYzKmuHGYciowA94G8C"
@@ -1705,7 +1759,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 210826,
       "name": "To Begin Again",
       "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"
@@ -1741,7 +1795,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 224546,
       "name": "Try",
       "url": "https://open.spotify.com/track/0dSchkfNB8SzYj8Bx7bcCW"
@@ -1759,7 +1813,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 238283,
       "name": "Tulog Na",
       "url": "https://open.spotify.com/track/0SXASazFDcMabUee9uP9TL"
@@ -1835,7 +1889,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 235106,
       "name": "Wanted Man",
       "url": "https://open.spotify.com/track/2dMkrhsWFVP2rHZmTEKkeh"
@@ -1929,7 +1983,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 228933,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
@@ -1965,7 +2019,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

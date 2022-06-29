@@ -1,12 +1,12 @@
 {
   "description": "All-new releases by Latin artists! Cover: Alejo",
-  "num_followers": 501455,
+  "num_followers": 501491,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDNhNjAwMDAwMTgxOTNkZGRlZGEwMDAwMDE4MTg3Njc5ODg2",
+  "snapshot_id": "MTY1NjQwMjQ3MiwwMDAwMDNhNzAwMDAwMTgxYTk0N2VkOTIwMDAwMDE4MTg3Njc5ODg2",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -267,7 +267,7 @@
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Proyecto Zeta",
+        "name": "Proyecto Z",
         "url": "https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ"
       },
       "artists": [
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
+        "name": "Si Tu Te Fuiste",
+        "url": "https://open.spotify.com/album/2FKhUlrOY4UiyP1LOU4iD1"
+      },
+      "artists": [
+        {
+          "name": "Chucho Flash",
+          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
+        }
+      ],
+      "duration_ms": 183823,
+      "name": "Si Tu Te Fuiste",
+      "url": "https://open.spotify.com/track/4eaicyiw3mnSWdT643B5Nj"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
         "name": "Contrato",
         "url": "https://open.spotify.com/album/1qiraKvyJTwUdWOJC2oVuQ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 162629,
       "name": "Carita Feliz",
       "url": "https://open.spotify.com/track/7kdALTuXmIFKvZlPeMxhUt"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Si Tu Te Fuiste",
-        "url": "https://open.spotify.com/album/2FKhUlrOY4UiyP1LOU4iD1"
-      },
-      "artists": [
-        {
-          "name": "Chucho Flash",
-          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
-        }
-      ],
-      "duration_ms": 183823,
-      "name": "Si Tu Te Fuiste",
-      "url": "https://open.spotify.com/track/4eaicyiw3mnSWdT643B5Nj"
     },
     {
       "added_at": "2022-06-24 04:00:00",

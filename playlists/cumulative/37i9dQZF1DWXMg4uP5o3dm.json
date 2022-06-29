@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 187360,
       "name": "All of the Best",
       "url": "https://open.spotify.com/track/5fjUtCqF6fy1r597IX1y7t"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 156000,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 176459,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/0ZAZ5XqPjXolpowsqUZLjb"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 157565,
       "name": "Dead",
       "url": "https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 227897,
       "name": "Have My Back",
       "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Just Breathing",
       "url": "https://open.spotify.com/track/1n57AukEXifaY4B0CYnui1"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 202138,
       "name": "Keep Me Alive",
       "url": "https://open.spotify.com/track/0kMTBQJ9HLsaIt6oXfZp6V"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
@@ -2154,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "OH NAH OH NAH (feat. Kamiyada+)",
+        "url": "https://open.spotify.com/album/19284bUazQyICc55efdKcc"
+      },
+      "artists": [
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        },
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158935,
+      "name": "OH NAH OH NAH (feat. Kamiyada+)",
+      "url": "https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB"
+    },
+    {
+      "album": {
         "name": "Oh No!!! (from The Suicide Squad)",
         "url": "https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp"
       },
@@ -2213,7 +2235,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
@@ -2369,7 +2391,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK"
@@ -2405,7 +2427,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 146823,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK"
@@ -2507,7 +2529,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 200488,
       "name": "Puppy Pound",
       "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
@@ -2609,7 +2631,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 173617,
       "name": "Running",
       "url": "https://open.spotify.com/track/5PtOXZFJyXnXwj6gQ0PsuV"
@@ -2725,7 +2747,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 171221,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS"
@@ -2937,7 +2959,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 166389,
       "name": "Take Me Instead",
       "url": "https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4"

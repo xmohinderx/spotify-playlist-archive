@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-121 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+123 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,19 +18,20 @@
 | [Amor](https://open.spotify.com/track/0r9iiHyIEnnOYjK6kpGY9s) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Wish You Were Here](https://open.spotify.com/album/4ImJm5YBExvjj6X9N5yfeq) | 2:42 | 2022-04-20 |  |
 | [Antes de Ti](https://open.spotify.com/track/6wTtoD7TPVQ7QvibaTGGTA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Antes de Ti](https://open.spotify.com/album/5dXCHfpk5cstC7GIdQx0Gi) | 2:51 | 2022-03-21 | 2022-05-21 |
 | [Antónimos](https://open.spotify.com/track/66mA8bN15swKsFoeyHLJTT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Antónimos](https://open.spotify.com/album/1awxHDaPvY65gcHl8JBx6B) | 2:59 | 2022-03-21 |  |
-| [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-05-06 |  |
+| [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-05-06 | 2022-06-29 |
 | [aprendiendo a patinar](https://open.spotify.com/track/570U9DMck0HmyTNLwmavBK) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:46 | 2022-03-21 | 2022-06-13 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-01 | 2022-06-18 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-15 | 2022-05-21 |
 | [ATRÉVETE \- Afro Version](https://open.spotify.com/track/7ygxApodlwQufjiR4n1poP) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [SMTO](https://open.spotify.com/album/6LDbYYP5GFO7Y0iTerv4n2) | 2:31 | 2022-03-21 | 2022-06-13 |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2022-04-01 | 2022-05-14 |
+| [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 | 2022-06-28 |  |
 | [BB](https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [BB](https://open.spotify.com/album/11cTDFSZsSCaktbjK6TOZi) | 2:14 | 2022-03-21 |  |
 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 | 2022-05-06 |  |
 | [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 | 2022-03-21 | 2022-05-07 |
 | [Bla, Bla, Bla](https://open.spotify.com/track/4BDdnkJUI8RDqsdt2ingMA) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Bla, Bla, Bla](https://open.spotify.com/album/5wGOEtMojFeV18bXZZMwW6) | 2:51 | 2022-04-01 | 2022-06-18 |
 | [Boom Boom](https://open.spotify.com/track/28E4ZbM3cBV8ehG1rXaz9g) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Boom Boom](https://open.spotify.com/album/1vwysXgMnjbrgBEAJOLayN) | 2:34 | 2022-05-13 |  |
 | [Braille](https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Braille](https://open.spotify.com/album/3SSIS1EkkgWQ6bUVDT4Qji) | 2:52 | 2022-03-21 | 2022-06-13 |
-| [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-03-21 |  |
+| [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-03-21 | 2022-06-29 |
 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 | 2022-04-01 |  |
 | [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 | 2022-04-15 |  |
 | [cloud 9](https://open.spotify.com/track/6o1s4iCIurJ9p8GUdJZutk) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [cloud 9](https://open.spotify.com/album/69fPMw0i7maalscSEnIhGd) | 3:12 | 2022-03-21 | 2022-05-07 |
@@ -54,6 +55,7 @@
 | [Fantasma](https://open.spotify.com/track/7BW5CXmE4DF91TmMbK4LXg) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Fantasma](https://open.spotify.com/album/11ppugYYbGGEJfnEQWgCfd) | 3:03 | 2022-03-21 | 2022-06-13 |
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-03-21 | 2022-04-21 |
 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-04-01 |  |
+| [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 | 2022-06-28 |  |
 | [Guay](https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Guay](https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR) | 3:17 | 2022-04-14 | 2022-05-21 |
 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2022-06-24 |  |
 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 | 2022-03-21 | 2022-05-21 |

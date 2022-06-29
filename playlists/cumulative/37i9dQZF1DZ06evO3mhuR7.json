@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 315071,
       "name": "5th Dimensions",
       "url": "https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 442217,
       "name": "A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You - Aubrey Mix Mk 11 By Jimmy Cauty & Dr. Alex Paterson",
       "url": "https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 371400,
       "name": "Afros, Afghans and Angels - Helg\u00f6 Treasure Chest",
       "url": "https://open.spotify.com/track/2bHXdca9yg6TfWikQGAAJS"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 420200,
       "name": "Delta Mk II",
       "url": "https://open.spotify.com/track/7dAkSURilbmrPTDf6UysJV"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 641533,
       "name": "Montagne D'Or (Der Gute Berg)",
       "url": "https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1"
@@ -980,6 +980,28 @@
     },
     {
       "album": {
+        "name": "Presents the Orbserver in the Star House",
+        "url": "https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290574,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/5EbS1wLlc1w3SqrgvWPdva"
+    },
+    {
+      "album": {
         "name": "Pomme Fritz",
         "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
       },
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 168749,
       "name": "Siren 33 (Orphee Mirror)",
       "url": "https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 425454,
       "name": "Squirrels in Jumpsuits",
       "url": "https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi"
@@ -1281,7 +1303,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 418560,
       "name": "Strong Man's Variations of a Camel Party",
       "url": "https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 238398,
       "name": "The 10 Sultans Of Rudyard (Moo Moo Mix)",
       "url": "https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK"
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 305560,
       "name": "The Queen of Hearts - Princess of Clubs Mix",
       "url": "https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE"
@@ -1415,7 +1437,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 750560,
       "name": "The Weekend It Rained Forever - Oseberg Buddha Mix (The Ravens Have Left the Tower)",
       "url": "https://open.spotify.com/track/3tRgsntvKAFbAVj0SzcsNe"
@@ -1437,7 +1459,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 320000,
       "name": "Toi 1338b - Edit",
       "url": "https://open.spotify.com/track/5Cyl770vOUPdfxSTBPOdJ8"
@@ -1527,7 +1549,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 456066,
       "name": "Valley",
       "url": "https://open.spotify.com/track/06iL7u9ZQPKeQf0kMKoPBE"
@@ -1545,7 +1567,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 576600,
       "name": "White River Junction",
       "url": "https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ"

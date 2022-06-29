@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-113 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+115 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 |  |
 | [Lityananda](https://open.spotify.com/track/3uLjbFmhCeVBtBXwueAAYx) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Lityananda](https://open.spotify.com/album/2IniUlFtmoXBSMCu6Uro57) | 2:53 | 2021-12-01 |  |
 | [Luck illa Maamey](https://open.spotify.com/track/10G6bC2d6Cxopk4Gkfm2se) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Luck illa Maamey](https://open.spotify.com/album/2KAWe8ogQmKbbtVjhS7OYm) | 3:08 | 2022-04-18 |  |
+| [Lyca Kovai Kings Anthem](https://open.spotify.com/track/2pXdzH8V45MMVx44SULGbE) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Lyca Kovai Kings Anthem](https://open.spotify.com/album/4fST1elFH54IFmpl0xD6kw) | 1:45 | 2022-06-28 |  |
 | [Maaran Ambu](https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Sindhuja Ganapathy](https://open.spotify.com/artist/05bCSt2cfm7afEvkoWKqdM), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 2:54 | 2022-05-06 |  |
 | [Maayam Seithaai Poovae \- From "Think Indie"](https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Maayam Seithaai Poovae \(From "Think Indie"\)](https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr) | 4:04 | 2022-05-05 |  |
 | [Manasu Parakudhu](https://open.spotify.com/track/0iQTNcYqxF1Tbi9KnJ8ufa) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manasu Parakudhu](https://open.spotify.com/album/0zWCe1iwekaEkc4FJffB9L) | 3:31 | 2022-06-02 | 2022-06-16 |
@@ -104,6 +105,7 @@
 | [SuNaPaNa](https://open.spotify.com/track/3cWWmzOqkHkMnAR1ER8hKM) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Sriram Seethapathy](https://open.spotify.com/artist/294LTYgwMylGoWZp3O6CCX), [Ramya Vasanth](https://open.spotify.com/artist/7FPtsbiDbRhJt2yoYnzigU) | [SuNaPaNa](https://open.spotify.com/album/4wXjujaVpp2gvi3lEXBkZD) | 3:19 | 2022-03-07 |  |
 | [Swipe Right Material](https://open.spotify.com/track/1iqvIcsgUfOGuqSltgPfQY) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Swipe Right Material](https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN) | 3:23 | 2022-02-15 |  |
 | [thamizhachi.](https://open.spotify.com/track/3IeeDRRDhcTCNIrbF5Xo0i) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Therukural](https://open.spotify.com/album/7gBpS4mYJ2YEvd9GpDn6jI) | 3:26 | 2021-12-01 |  |
+| [Thanimai](https://open.spotify.com/track/7JEHMrljGhwHVUvOvuxRR1) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Mukhil Mayuri](https://open.spotify.com/artist/6xt9DlwkUDHvbHszleG8sj), [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w) | [Thanimai](https://open.spotify.com/album/4Izn8g8vdI1AWqS3M9nEEA) | 4:01 | 2022-06-27 |  |
 | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/track/1b3F0PVSarXVhhnw4hhf6D) | [Raj Palanivel](https://open.spotify.com/artist/5eHUcMTz8P3Cwodr0oWbFx), [Praniti](https://open.spotify.com/artist/2SrfI49UJd2PEkseov5GSF) | [Thanimaiyil Unai Ninaikkiren](https://open.spotify.com/album/3OuLfxbXvms0Y4OqgAGblN) | 3:51 | 2022-03-28 |  |
 | [Thedi thedi](https://open.spotify.com/track/3Cke9lomwCAl7OvAe95mHR) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3) | [MOUNAM](https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI) | 2:36 | 2022-06-17 |  |
 | [Theera Kadhalae](https://open.spotify.com/track/5kumj8SdeOyJCwSN58ntJq) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Theera Kadhalae](https://open.spotify.com/album/3CLpoclGuiQgPE5BKjWi14) | 4:04 | 2022-04-25 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-424 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+425 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Precious](https://open.spotify.com/track/5VvlK5HdqZTNdEVkZfPifI) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious](https://open.spotify.com/album/7A6xNrC7cXNry39OdrCOr1) | 2:55 | 2022-02-14 | 2022-03-01 |
 | [Precious \- Cukak Remix](https://open.spotify.com/track/1fufWqg4DhnNSQjc5O5Sgf) | [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/3PApvjsvLIFfHK5ezFF6OF) | 3:05 | 2022-02-28 | 2022-03-03 |
 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 | 2022-03-02 | 2022-05-27 |
+| [PRESENT](https://open.spotify.com/track/6RuTEmvZbhCUncRFEHa94W) | [BigP](https://open.spotify.com/artist/5AQtkl9E2EH6pdSZU5qy8x), [LINNEE](https://open.spotify.com/artist/0ovNczldSHH0OtFBUY4Snl) | [PRESENT](https://open.spotify.com/album/0nPdZ5PhqP45BohMoWWHsG) | 3:38 | 2022-06-28 |  |
 | [Promises](https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Promises](https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j) | 3:10 | 2022-05-27 | 2022-06-19 |
 | [quá trễ quay đầu](https://open.spotify.com/track/4AC5YHWwddN4gPlpSR0BaZ) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [quá trễ quay đầu](https://open.spotify.com/album/4li7OYvGQ9E4pmPS3SDor3) | 3:14 | 2022-03-17 | 2022-04-05 |
 | [Quấn Lấy Nhau](https://open.spotify.com/track/2vyVEglcS4DjQxvSq19Wha) | [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec) | [Quấn Lấy Nhau](https://open.spotify.com/album/3fJaAqw6hWal148lRFJmzp) | 3:19 | 2022-01-06 | 2022-02-15 |

@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-145 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+148 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-22 |  |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-26 |  |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2021-12-14 | 2022-01-06 |
-| [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 | 2021-12-14 |  |
+| [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 | 2021-12-14 | 2022-06-29 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2021-12-14 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 | 2021-12-14 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/1p6wxI8LwDcO67o5kS3X2v) | [Ryan Turtle Trio](https://open.spotify.com/artist/7o9xTJw9Cpy1HRZG5fSkQx) | [I Loves You, Porgy](https://open.spotify.com/album/3XE7aC2JbxhYTgJ6ZEJ9z1) | 2:57 | 2021-12-14 |  |
@@ -102,6 +102,7 @@
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2021-12-14 |  |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-01-27 |  |
 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2021-12-14 |  |
+| [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-05-31 |  |
 | [October 22nd](https://open.spotify.com/track/1gHBZoJfl7pHwYFaBOncGc) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Autumn Diaries](https://open.spotify.com/album/46JopQ0uRkwgwygGHlATP1) | 3:46 | 2021-12-14 |  |
 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 | 2021-12-14 |  |
@@ -117,6 +118,7 @@
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2021-12-14 |  |
 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 | 2021-12-14 |  |
+| [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-28 |  |
 | [Silhouette](https://open.spotify.com/track/1CcKHNpexFobMLQwN1MzKr) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 3:51 | 2021-12-14 |  |
 | [Skylark](https://open.spotify.com/track/29nK4itJtykZEtsVE8dt4R) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:00 | 2021-12-14 | 2022-01-20 |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2021-12-14 |  |
@@ -130,6 +132,7 @@
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-05-31 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-01-27 |  |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2021-12-14 |  |
+| [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-28 |  |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-14 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-12-14 |  |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2021-12-14 | 2022-03-04 |

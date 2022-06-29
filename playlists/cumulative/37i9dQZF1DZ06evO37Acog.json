@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 202373,
       "name": "Central Camionera",
       "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 223853,
       "name": "La Rama Del Mezquite",
       "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 212666,
       "name": "Me Llega, Me Llega",
       "url": "https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu"
@@ -635,6 +635,24 @@
       "duration_ms": 157933,
       "name": "Me Sacaron del Tenampa",
       "url": "https://open.spotify.com/track/1D6YQw9yPionscrYA1wycI"
+    },
+    {
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
     },
     {
       "album": {
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 172306,
       "name": "Pero Ya No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5FOUvS4T19gUE0wHrWO5sd"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 167133,
       "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
       "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"

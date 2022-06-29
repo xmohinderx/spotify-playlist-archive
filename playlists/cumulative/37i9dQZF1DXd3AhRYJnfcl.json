@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0627\u0644\u064a\u0647\u0627 \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0644\u064a\u0633\u0627",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0627\u0644\u064a\u0647\u0627 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0648\u0628\u064a",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "published_playlist_ids": [
     "1xdcB9YfQyjFUOOHCAvmJA"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 275495,
       "name": "Hateshtaou",
       "url": "https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG"
@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Leeh",
+        "url": "https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238886,
+      "name": "Leeh",
+      "url": "https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG"
+    },
+    {
+      "album": {
         "name": "Leilet El Omr",
         "url": "https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw"
       },
@@ -551,10 +569,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 245000,
       "name": "Mabahrbsh",
       "url": "https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr"
+    },
+    {
+      "album": {
+        "name": "Malek El Fabraka",
+        "url": "https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203016,
+      "name": "Malek El Fabraka",
+      "url": "https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx"
     },
     {
       "album": {
@@ -569,7 +605,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 218709,
       "name": "Maleket El Helwen",
       "url": "https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20"
@@ -725,6 +761,24 @@
       "duration_ms": 272560,
       "name": "Min Awel Dekika",
       "url": "https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2"
+    },
+    {
+      "album": {
+        "name": "Namet Nenna",
+        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "Namet Nenna",
+      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
     },
     {
       "album": {
@@ -884,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Tanteet",
+        "url": "https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119802,
+      "name": "Tanteet",
+      "url": "https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg"
+    },
+    {
+      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av"
       },
@@ -935,7 +1007,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 228000,
       "name": "Touba (Intro Of Touba Series)",
       "url": "https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr"

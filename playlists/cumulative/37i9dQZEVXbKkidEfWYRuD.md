@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-742 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+743 songs - 1 day 11 hr 0 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [NIGHTMARE XMAS](https://open.spotify.com/track/2ZSpKkXOlf0fXXlSrWFyNj) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [treepside](https://open.spotify.com/artist/3vf8X2CaHnkcVAp6NC9C7d) | [NIGHTMARE BEFORE XMAS](https://open.spotify.com/album/1g6NGLSwoEhiCCmK90hqnQ) | 1:16 | 2021-12-25 | 2021-12-27 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-09-01 | 2021-09-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-09 |
-| [No Love](https://open.spotify.com/track/03TPcM9vWUmc8y6LkJAzwJ) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [No Love](https://open.spotify.com/album/6BhuzJJCEd2pU1szzJ4ekU) | 2:07 | 2021-09-24 | 2021-10-29 |
+| [No Love](https://open.spotify.com/track/03TPcM9vWUmc8y6LkJAzwJ) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [No Love](https://open.spotify.com/album/6BhuzJJCEd2pU1szzJ4ekU) | 2:07 | 2021-09-24 |  |
 | [NO MO LUV](https://open.spotify.com/track/4ZZrdvMrb28wnELuJmks9W) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:18 | 2021-05-22 | 2021-05-30 |
 | [NOMINALO](https://open.spotify.com/track/1C0UmBm1nyXdjiek3nQKAz) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:11 | 2021-05-29 | 2021-07-23 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-10 | 2022-03-01 |
@@ -258,7 +258,7 @@
 | [Putin](https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v) | [Cypis](https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt) | [Putin](https://open.spotify.com/album/7ir16GDY9uc0QwcJP3XttS) | 2:25 | 2022-03-02 | 2022-06-01 |
 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-06-20 | 2022-02-06 |
 | [RANDOM](https://open.spotify.com/track/6N1ZQIxGpxQvtfzye58KQw) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:05 | 2021-03-27 | 2021-03-31 |
-| [RARARA](https://open.spotify.com/track/0QfXH1HCcHst7uxU1gFyqG) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [RARARA](https://open.spotify.com/album/2eGJ3n9s52nKKthwT9Bwl6) | 2:03 | 2022-06-25 |  |
+| [RARARA](https://open.spotify.com/track/0QfXH1HCcHst7uxU1gFyqG) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [RARARA](https://open.spotify.com/album/2eGJ3n9s52nKKthwT9Bwl6) | 2:03 | 2022-06-25 | 2022-06-29 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-07 |  |
 | [Recommendation](https://open.spotify.com/track/3i50Bacie3tTDGzX1BpXGw) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 1:51 | 2021-04-11 | 2021-04-13 |
 | [Restick](https://open.spotify.com/track/62qUCu09ALS1IoWDma6Z5q) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Haze Badazz](https://open.spotify.com/artist/0sDrOc8xPRMWbg4lYIcjwF) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:11 | 2021-04-11 | 2021-04-13 |
@@ -413,7 +413,7 @@
 | [Вишнi](https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Вишнi](https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV) | 3:03 | 2022-05-02 |  |
 | [ВЛЮБИЛАСЬ](https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ВЛЮБИЛАСЬ](https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ) | 3:36 | 2021-12-18 | 2022-04-03 |
 | [Вова, їбаш їх блять](https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR) | [Вова, їбаш їх блять](https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB) | 2:36 | 2022-04-03 |  |
-| [Вона](https://open.spotify.com/track/1qDqswcqJ7QxtbVlDv5P6W) | [Taras Chubay](https://open.spotify.com/artist/1HjzjHX7WBOg4InnOHCP7z), [Плач Єремії](https://open.spotify.com/artist/7ifsjGOD2trth519JuzcuW) | [Вона](https://open.spotify.com/album/2tAxeyM5Le89eDWQz8TmcB) | 4:35 | 2022-05-28 |  |
+| [Вона](https://open.spotify.com/track/1qDqswcqJ7QxtbVlDv5P6W) | [Taras Chubay](https://open.spotify.com/artist/1HjzjHX7WBOg4InnOHCP7z), [Плач Єремії](https://open.spotify.com/artist/7ifsjGOD2trth519JuzcuW) | [Вона](https://open.spotify.com/album/2tAxeyM5Le89eDWQz8TmcB) | 4:35 | 2022-05-28 | 2022-06-29 |
 | [Вопросов нету](https://open.spotify.com/track/2KHs47ickH5oYzTA9qMM4S) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:08 | 2021-08-15 | 2021-08-16 |
 | [Восемнадцать](https://open.spotify.com/track/2hd4iZzq9GwTL5kkk99Uhj) | [Buster](https://open.spotify.com/artist/0wK21X7PTt89qH2aNCkXlA) | [Восемнадцать](https://open.spotify.com/album/2DyHd6J9CNc1m5XA4eWxu6) | 1:48 | 2021-04-30 | 2021-05-03 |
 | [Восемь](https://open.spotify.com/track/16hvqSkpxHjYssBox5awFr) | [Лилу45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Восемь](https://open.spotify.com/album/6h59Y8UH7VJG41hRWdvfIc) | 3:03 | 2021-05-03 | 2021-05-22 |
@@ -610,6 +610,7 @@
 | [По Глазам](https://open.spotify.com/track/53bbEINuw0ez3ntLcqYCu2) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 2:00 | 2021-03-27\* | 2021-05-05 |
 | [Погоди](https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W) | [DSPRITE](https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw) | [Погоди](https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ) | 1:52 | 2021-11-26 | 2021-12-19 |
 | [Под Звездопадом](https://open.spotify.com/track/4XNPw2OPBGxIIhNLnNbZIi) | [Tima Belorusskih](https://open.spotify.com/artist/0bOSNnz9bGAUlV3OJ3rnQW) | [Под Звездопадом](https://open.spotify.com/album/0YSNqKlD2U2GHaxKCF4XB3) | 3:36 | 2021-06-20 | 2021-07-04 |
+| [Пока\-пора](https://open.spotify.com/track/2rao5sMWohJhJlXAYb4g7h) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Ипи](https://open.spotify.com/album/7C2K4H2SgmeX7jLMPevDpo) | 5:50 | 2022-06-28 |  |
 | [Положение](https://open.spotify.com/track/1hfISzdAwnywAKxaSpfloo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Уроборос: Улица 36](https://open.spotify.com/album/4AazRccPqHpoIxedRFfurN) | 4:42 | 2021-03-27\* | 2021-10-31 |
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
 | [ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ](https://open.spotify.com/track/39cTOq0Egkqi718Xb9pYoG) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:17 | 2021-05-22 | 2021-05-26 |

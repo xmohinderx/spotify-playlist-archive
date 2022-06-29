@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues.
 
-70 songs - 5 hr 13 min - not published yet
+70 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

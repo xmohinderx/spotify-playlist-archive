@@ -1490,6 +1490,32 @@
     },
     {
       "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
+      "url": "https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq"
+    },
+    {
+      "album": {
         "name": "CONSUMAZIONE PERSONALE",
         "url": "https://open.spotify.com/album/59Td7MNLKUnOsIfhW5UUIx"
       },
@@ -2069,6 +2095,36 @@
       "duration_ms": 178285,
       "name": "Equipo",
       "url": "https://open.spotify.com/track/4Rkmo8hFBbqooJ2ZqsaDdM"
+    },
+    {
+      "album": {
+        "name": "ERRE EMME (feat. Suburbio, Pa Pa & Wave DB) \u2013 prod. Dr. Wesh",
+        "url": "https://open.spotify.com/album/5mXEozUMw7qM0ap1e42VLz"
+      },
+      "artists": [
+        {
+          "name": "Sayanbull",
+          "url": "https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0"
+        },
+        {
+          "name": "Suburbio",
+          "url": "https://open.spotify.com/artist/4DUR4lTZl1918pJjJ9pMf5"
+        },
+        {
+          "name": "Pa Pa",
+          "url": "https://open.spotify.com/artist/7kjOfMliT3rGPA3QUFfVnj"
+        },
+        {
+          "name": "Wave DB",
+          "url": "https://open.spotify.com/artist/7B2SWGuPpPFPopPsnCiitW"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "ERRE EMME (feat. Suburbio, Pa Pa & Wave DB) \u2013 prod. Dr. Wesh",
+      "url": "https://open.spotify.com/track/4Rbo6wHtzQn8Bdm66nzzRd"
     },
     {
       "album": {
@@ -3471,7 +3527,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 151442,
       "name": "King Lear (feat. Sosa Priority)",
       "url": "https://open.spotify.com/track/3a0vrvEAGekzkhOOSThSXf"
@@ -4189,6 +4245,24 @@
       "duration_ms": 166796,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
+    },
+    {
+      "album": {
+        "name": "MANETTE",
+        "url": "https://open.spotify.com/album/008GnJ5MEZJJRSVx2FFIIa"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "MANETTE",
+      "url": "https://open.spotify.com/track/7EleJNWhTqMWE7YEjPbZBh"
     },
     {
       "album": {
@@ -5019,7 +5093,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 212149,
       "name": "NUOVA STAGIONE",
       "url": "https://open.spotify.com/track/7zQjUIACuZLTHwldt2em3H"
@@ -5104,6 +5178,24 @@
     },
     {
       "album": {
+        "name": "Ok Let's Go",
+        "url": "https://open.spotify.com/album/6YTl8MUg06IJ55a2bNmXYc"
+      },
+      "artists": [
+        {
+          "name": "rooc lee",
+          "url": "https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96794,
+      "name": "Ok Let's Go",
+      "url": "https://open.spotify.com/track/6qyrdCSGhkXO81Tba65vtn"
+    },
+    {
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/4tNPM2Gw2IUslI4tYbXMWK"
       },
@@ -5145,7 +5237,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 133333,
       "name": "ORO NEL FANGO",
       "url": "https://open.spotify.com/track/2tV0m08GvDWePTG16OSJ6z"
@@ -5519,7 +5611,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 160645,
       "name": "POLKA 3",
       "url": "https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1"
@@ -5745,7 +5837,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 233142,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0"
@@ -5961,6 +6053,32 @@
       "duration_ms": 151250,
       "name": "ROCK IN ROMA",
       "url": "https://open.spotify.com/track/1dk7Ewa8ns8C64laHp0xgj"
+    },
+    {
+      "album": {
+        "name": "Rubrica",
+        "url": "https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Rubrica",
+      "url": "https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D"
     },
     {
       "album": {
@@ -6628,6 +6746,24 @@
     },
     {
       "album": {
+        "name": "STEELO",
+        "url": "https://open.spotify.com/album/0ZW7748GZwt2Lf2EUnTUrD"
+      },
+      "artists": [
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138561,
+      "name": "STEELO",
+      "url": "https://open.spotify.com/track/52wstQRZQpSrsynRJmq0XY"
+    },
+    {
+      "album": {
         "name": "Stronza(te)",
         "url": "https://open.spotify.com/album/65XNiXVqx8dvXCk4WbPxfR"
       },
@@ -7024,6 +7160,28 @@
     },
     {
       "album": {
+        "name": "Top Fried Chicken",
+        "url": "https://open.spotify.com/album/0mdXuSEC3r7zvCycZxh7rg"
+      },
+      "artists": [
+        {
+          "name": "Jerry Sampi",
+          "url": "https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Top Fried Chicken",
+      "url": "https://open.spotify.com/track/13uHFqEZiWeuWVOs1jvshV"
+    },
+    {
+      "album": {
         "name": "Towro Industria",
         "url": "https://open.spotify.com/album/1QV1q7sKhU756R4S4maDMu"
       },
@@ -7065,7 +7223,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 172019,
       "name": "Trend",
       "url": "https://open.spotify.com/track/2C9wCcLU29f23aunDBCQ8l"
@@ -7429,7 +7587,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 153986,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe"

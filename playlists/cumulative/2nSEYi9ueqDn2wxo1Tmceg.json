@@ -724,6 +724,40 @@
     },
     {
       "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Stephen Malkmus",
+          "url": "https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8"
+        },
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        },
+        {
+          "name": "Axel Concato",
+          "url": "https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt"
+    },
+    {
+      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },

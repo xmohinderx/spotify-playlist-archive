@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,304 likes - 500 songs - 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,425 likes - 500 songs - 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,7 +353,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 343 | [Cape Judge](https://open.spotify.com/track/5GtIpEXs7ZBOz49Y4Tekpb) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:57 |
 | 344 | [Distances](https://open.spotify.com/track/6UMSnFNKH8Wb3PTZV5rQIE) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Distances](https://open.spotify.com/album/7wlGKkBInJWN8ZT7jVqlZa) | 1:56 |
 | 345 | [Carnations](https://open.spotify.com/track/68dXXkD5db6XjHMRdcLFbq) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Carnations](https://open.spotify.com/album/3uhOX14bV6HBYKQLAPGbCR) | 1:49 |
-| 346 | [Inside You](https://open.spotify.com/track/2bXLOKVC8UF5LmODV1RGoz) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Inside You](https://open.spotify.com/album/7L541fYXdXvHWZRJED4rXa) | 1:46 |
+| 346 | [Inside You](https://open.spotify.com/track/2bXLOKVC8UF5LmODV1RGoz) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Inside You](https://open.spotify.com/album/7L541fYXdXvHWZRJED4rXa) | 1:46 |
 | 347 | [hinode](https://open.spotify.com/track/0hXCVcGMmVBrSpZjVSkMcQ) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [jibun](https://open.spotify.com/artist/22kLc50HOBzYluhCniwkNs) | [no collision](https://open.spotify.com/album/5MvMlfLZdH5wmmUD2UtpjD) | 2:03 |
 | 348 | [Mercury](https://open.spotify.com/track/6e3z2mC5b3GHSqIzLu7Xlm) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Mercury](https://open.spotify.com/album/00ILcS2b2y3luywwjvBcUS) | 2:18 |
 | 349 | [Broken Nightlight](https://open.spotify.com/track/2Z40W636rAX3haCxAwOyZS) | [Koopville](https://open.spotify.com/artist/69JFk9tc1JPQ1aT9lWk41S) | [Broken Nightlight](https://open.spotify.com/album/1oJ0uOKavKhG54Kinen1jg) | 2:08 |

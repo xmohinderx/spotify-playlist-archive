@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 191250,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 139615,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
@@ -4409,7 +4409,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 279374,
       "name": "F*CKING SOCIETY",
       "url": "https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT"
@@ -4819,7 +4819,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 182362,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/0PD9B4GdmJ3ePGmD8Pm4cS"
@@ -7397,7 +7397,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 216393,
       "name": "It Isn't Me (with KSHMR)",
       "url": "https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm"
@@ -7927,6 +7927,24 @@
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
+    },
+    {
+      "album": {
+        "name": "Feel Again Part 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
     },
     {
       "album": {
@@ -8999,7 +9017,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 142677,
       "name": "Monday Kind of Tuesday",
       "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
@@ -9769,7 +9787,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 179980,
       "name": "No Illusions",
       "url": "https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c"
@@ -13757,7 +13775,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 172431,
       "name": "State Of Mind (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ"

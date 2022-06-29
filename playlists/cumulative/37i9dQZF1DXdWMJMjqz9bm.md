@@ -4,7 +4,7 @@
 
 > A little bit of pop and a little bit of rap\. Cover: Arden Jones
 
-296 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+297 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-18 |  |
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-11-16 | 2022-02-19 |
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-04-04 | 2022-05-20 |
-| [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 | 2022-06-10 |  |
+| [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 | 2022-06-10 | 2022-06-29 |
 | [Broccoli](https://open.spotify.com/track/3rZhRBdVQ2fTEM2ULOAwUL) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 3:45 | 2022-04-04 | 2022-05-20 |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-16 | 2022-02-26 |
 | [Cape Cod](https://open.spotify.com/track/4NwylqX02BEv6yuMdGFUj5) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Cape Cod](https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h) | 2:45 | 2021-11-16 | 2022-02-26 |
@@ -186,6 +186,7 @@
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 |  |
 | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/track/0ypg4T6esIqndywe7fiSUG) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/album/0fOriXAONaoenGQi5nfOcl) | 2:10 | 2021-11-16 | 2022-02-19 |
+| [Never Enough](https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv) | [Kyle Beats Collective](https://open.spotify.com/artist/1jt0slkwCPorL4PeFoQtWZ), [Carter Cook](https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Never Enough](https://open.spotify.com/album/4OCBrFbkWVm1CxNyOduQBO) | 2:39 | 2022-06-28 |  |
 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 | 2022-04-04 | 2022-04-09 |
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 |  |
 | [Nintendo](https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Nintendo](https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi) | 2:44 | 2022-02-25 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-303 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+304 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 | 2022-01-13 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 | 2022-01-13 |  |
 | [Ayo Technology \- Dimitri Vegas Edit](https://open.spotify.com/track/6A1CXveAYSTsfX9l86pEbd) | [Dino Warriors](https://open.spotify.com/artist/59d7SdvkSXhrqrPUKF7WYM), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Ayo Technology \(Dimitri Vegas Edit\)](https://open.spotify.com/album/6AVMYhtBTLLZYhIdlPMCor) | 2:53 | 2022-01-13 |  |
+| [Bad Day](https://open.spotify.com/track/3VPrQOtCuEs1CpTOfqAqhY) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Tim Savey](https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL) | [Bad Day](https://open.spotify.com/album/2t2mIPzXkT9DI41TJf2VOF) | 2:43 | 2022-06-28 |  |
 | [Bad Habits](https://open.spotify.com/track/3Vmp5MScokXmDWMtrYrPXq) | [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS), [Onda Norte](https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E) | [Bad Habits](https://open.spotify.com/album/4qN5IswckA7VnTVhgN2sf0) | 2:31 | 2022-02-24 |  |
 | [Bam](https://open.spotify.com/track/2J4QbaDPRSAC9IH5hr6MF1) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [KDDK](https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk), [Ya Rick](https://open.spotify.com/artist/3ucRvRCMMwK4Y21glebmee) | [Bam](https://open.spotify.com/album/1tht4Tfzn0dsVQoEoOg87d) | 2:19 | 2022-01-13 |  |
 | [Barbie Girl](https://open.spotify.com/track/6a128M0i2wWdI5MaVCAx3r) | [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Barbie Girl](https://open.spotify.com/album/3Se6CPTSyQBglEOjQS1bh6) | 2:04 | 2022-02-03 |  |

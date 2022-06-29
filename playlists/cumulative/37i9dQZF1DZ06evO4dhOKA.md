@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
+62 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 | 2022-06-01 |  |
 | [El Árbol De La Horca](https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:21 | 2022-06-01 |  |
 | [En Eso No Quedamos](https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:57 | 2022-06-04 | 2022-06-26 |
-| [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 | 2022-06-04 |  |
+| [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 | 2022-06-04 | 2022-06-29 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:58 | 2022-06-01 |  |
 | [Ferrari](https://open.spotify.com/track/6h1lY9QMidoG5C3h9d80Mg) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ferrari](https://open.spotify.com/album/0VX66bGU3eaYBlNTqFHBGp) | 1:38 | 2022-06-01 | 2022-06-10 |
 | [Gorrión Errante](https://open.spotify.com/track/315gGtlPXz4RJX7kZa2FPa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:54 | 2022-06-19 | 2022-06-26 |
@@ -64,6 +64,7 @@
 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 | 2022-06-01 |  |
 | [Si Me Vas A Dejar](https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 2:28 | 2022-06-01 |  |
 | [Topofthe](https://open.spotify.com/track/49JH98Lzv1rSP8gWOLvYGY) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [MC Rahell](https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2) | [Topofthe](https://open.spotify.com/album/6B5MltaFnxT82cyLKiKyLk) | 1:41 | 2022-06-11 | 2022-06-16 |
+| [Tres Vueltas](https://open.spotify.com/track/136eFsPOpnzkxzQ9xldnkx) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 2:49 | 2022-06-28 |  |
 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 | 2022-06-01 |  |
 | [Valente Quintero \- En Vivo](https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 4:12 | 2022-06-06 |  |
 | [Vearon Se Lia](https://open.spotify.com/track/1wy4ZOVpvmW3r8NHM8tV8x) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vearon Se Lia](https://open.spotify.com/album/5MUBzyqDOC056on93cpwBW) | 2:25 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Charlie Puth, Jung Kook
 
-1,219 songs - 2 day 15 hr 3 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,220 songs - 2 day 15 hr 6 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [Let’s Go Home Together](https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together](https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv) | 3:28 | 2021-02-26 | 2021-06-05 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 | 2020-10-13\* | 2021-01-08 |
 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 | 2020-10-13\* | 2020-11-06 |
-| [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 |  |
+| [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-06-29 |
 | [Lie Lie Lie](https://open.spotify.com/track/1jOBlsvKhdqjZAlUAia4Qz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Lie Lie Lie](https://open.spotify.com/album/4lWcXvzLSYlHcBFtMVZ5RA) | 2:56 | 2021-01-15 | 2021-02-19 |
 | [Lie Like This](https://open.spotify.com/track/5yCXLEi384DHGRXYMXgjBR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie Like This](https://open.spotify.com/album/75IXv7KKvxMlIrjsrK8CRt) | 3:38 | 2020-10-13\* | 2020-12-11 |
 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 | 2020-10-15 | 2021-01-15 |
@@ -655,6 +655,7 @@
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2021-06-12 | 2021-08-28 |
 | [LOST](https://open.spotify.com/track/2MZrOmrVxRmmOoFW6dhenG) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [LOST](https://open.spotify.com/album/37vODwacugRbv9eutcOQEV) | 3:54 | 2021-03-14 | 2021-04-10 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-03 | 2021-07-10 |
+| [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-28 |  |
 | [Lost Track](https://open.spotify.com/track/5Z8XoeUBjZngKO0NGWnAiS) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3HM2a6YdzuBPmDe5tTEV88) | 2:22 | 2022-03-04 | 2022-03-18 |
 | [Lotus Inn](https://open.spotify.com/track/1fXmDeiCb3ABt5CzkMxp4u) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Lotus Inn](https://open.spotify.com/album/3a9jHD4jj7qcrbbVbeCjMo) | 3:15 | 2020-12-04 | 2021-01-08 |
 | [Love \(Sweet Love\)](https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Love \(Sweet Love\)](https://open.spotify.com/album/6gDaHYlZ8e72yv6cNjxWMl) | 3:40 | 2021-09-04 | 2021-10-16 |

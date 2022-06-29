@@ -4,7 +4,7 @@
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-259 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+260 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [E\-ER \(feat\. Lil Yachty\)](https://open.spotify.com/track/4N7i6RfJXMWfkx9Zr6pzkJ) | [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FAMILY](https://open.spotify.com/album/7CUmEkXzsnL13LU8XQnlbC) | 2:43 | 2022-04-05 | 2022-05-17 |
 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 | 2021-09-17 |  |
 | [Egodeath](https://open.spotify.com/track/3vsRpvrj5brhZoSQlYl70W) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [Egodeath](https://open.spotify.com/album/2i4chmHEc3ywTGukggYdu2) | 2:01 | 2021-09-17 | 2022-05-11 |
-| [Escape from BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape from BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-06-10 |  |
+| [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-06-10 |  |
 | [evil empire](https://open.spotify.com/track/6weOGG6GFGbrn8WMTDPvEb) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [evil empire](https://open.spotify.com/album/3i65EWq4NvINtKrOikdSI5) | 1:54 | 2021-09-17 |  |
+| [FAKE](https://open.spotify.com/track/3hmu0jyxSShogL95NOZcLS) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [FAKE](https://open.spotify.com/album/6gIhwhg2qlvjWZjaYVaQjb) | 1:28 | 2022-06-28 |  |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-22 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-06-24 |  |
 | [Floor 555](https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:33 | 2022-04-05 | 2022-05-16 |
@@ -151,7 +152,7 @@
 | [JUST DANCE](https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [JUST DANCE](https://open.spotify.com/album/7gk0gpbOy0YP1nOlDAysCv) | 1:46 | 2021-10-01 | 2022-05-08 |
 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 | 2022-06-10 |  |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-02-16 | 2022-04-21 |
-| [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 |  |
+| [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 | 2022-06-29 |
 | [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 | 2021-09-17 |  |
 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 | 2022-04-08 | 2022-04-19 |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-09-17 | 2022-05-17 |

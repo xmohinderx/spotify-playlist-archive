@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 307500,
       "name": "Ai mu\u1ed1n nghe kh\u00f4ng",
       "url": "https://open.spotify.com/track/1WCAkmmTM06in2ojuQ9CK5"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 257647,
       "name": "B\u01b0\u1edbc Qua Nhau",
       "url": "https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH"
@@ -588,6 +588,28 @@
     },
     {
       "album": {
+        "name": "Kh\u00e1c Bi\u1ec7t To L\u1edbn H\u01a1n",
+        "url": "https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d"
+      },
+      "artists": [
+        {
+          "name": "Trinh Thang Binh",
+          "url": "https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N"
+        },
+        {
+          "name": "Liz Kim C\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/6pYrL6H11sEmjp5ZJytWmK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Kh\u00e1c Bi\u1ec7t To L\u1edbn H\u01a1n",
+      "url": "https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4"
+    },
+    {
+      "album": {
         "name": "Kh\u00f4ng C\u1ea7n Ph\u1ea3i N\u00f3i Nhi\u1ec1u",
         "url": "https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES"
       },
@@ -715,7 +737,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 275905,
       "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
       "url": "https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7"
@@ -788,6 +810,42 @@
     },
     {
       "album": {
+        "name": "Nh\u00ecn Nh\u1eefng M\u00f9a Thu \u0110i",
+        "url": "https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv"
+      },
+      "artists": [
+        {
+          "name": "My Anh",
+          "url": "https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172872,
+      "name": "Nh\u00ecn Nh\u1eefng M\u00f9a Thu \u0110i",
+      "url": "https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug"
+    },
+    {
+      "album": {
+        "name": "Em V\u00e0 Tr\u1ecbnh (Em V\u00e0 Tr\u1ecbnh Original Soundtrack/ Vol.1)",
+        "url": "https://open.spotify.com/album/5TA8F1Lkwa4exTPHyTZutr"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i Lan H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124445,
+      "name": "Nh\u00ecn Nh\u1eefng M\u00f9a Thu \u0110i - Em V\u00e0 Tr\u1ecbnh Original Soundtrack",
+      "url": "https://open.spotify.com/track/1F7kjQhF92Al8CSu2jP5rH"
+    },
+    {
+      "album": {
         "name": "N\u00e0ng Th\u01a1",
         "url": "https://open.spotify.com/album/4UjOz9fuY8XfEOyOx8aeb3"
       },
@@ -835,7 +893,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 190000,
       "name": "Ph\u1ea3i Ch\u0103ng Em \u0110\u00e3 Y\u00eau?",
       "url": "https://open.spotify.com/track/3wGx3gYPjECKZazGNuPEX2"
@@ -905,7 +963,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 231585,
       "name": "R\u0103ng Kh\u00f4n (feat. RIN9)",
       "url": "https://open.spotify.com/track/2c0QMztYu6PCfFrGLqHXIV"
@@ -1343,8 +1401,8 @@
           "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
         },
         {
-          "name": "Ch\u00e2u \u0110\u0103ng Khoa",
-          "url": "https://open.spotify.com/artist/0rftHj61FXbcB9va7dniHC"
+          "name": "Chau Dang Khoa",
+          "url": "https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk"
         }
       ],
       "date_added": "2022-06-15",

@@ -4,7 +4,7 @@
 
 > When you're a 19th century villain with excellent taste in music.
 
-41 songs - 5 hr 48 min - not published yet
+41 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/71WRw0MM3YEJmGCbYcXscu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

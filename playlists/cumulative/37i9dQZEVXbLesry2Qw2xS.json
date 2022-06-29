@@ -5071,7 +5071,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 194823,
       "name": "f\u00fcr Oksana",
       "url": "https://open.spotify.com/track/3ZNv0P70XQX5FoQAUw3bLg"
@@ -7781,7 +7781,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 229499,
       "name": "Kuut\u00f5bine",
       "url": "https://open.spotify.com/track/58vQFuBhIktiBzXVgOu9Ue"
@@ -9633,7 +9633,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -12229,7 +12229,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 201818,
       "name": "P\u00e4rlip\u00fc\u00fcdja",
       "url": "https://open.spotify.com/track/5roWPTh1cBdLSeuMF6QtoR"
@@ -13309,6 +13309,24 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "album": {
@@ -15931,7 +15949,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -17426,7 +17444,7 @@
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 144827,
+      "duration_ms": 144151,
       "name": "\u0418\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c",
       "url": "https://open.spotify.com/track/0IjCnXqJTlPElz8HmIiO9p"
     },

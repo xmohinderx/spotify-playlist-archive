@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Esta selección musical se te hará agua la boca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,163 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,167 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 27 | [Lo Calore](https://open.spotify.com/track/4MNEidJajMDoyP8EXwnF7j) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Lo Calore](https://open.spotify.com/album/2kbryqpDcmiro6AORkdNYC) | 3:56 |
 | 28 | [Ansiedad](https://open.spotify.com/track/7Brmw2DGWUBYKglAHtkkbS) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Ansiedad](https://open.spotify.com/album/1CiyhiIvV7TMc4mDevtvSK) | 3:51 |
 | 29 | [El Suéter](https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [El Suéter](https://open.spotify.com/album/3uxziGtlsgvgHtPQJg5CBx) | 2:59 |
-| 30 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
+| 30 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 31 | [Danzas en el Mar](https://open.spotify.com/track/5jMN6VfvoLIckMMR4LkrLt) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Danzas en el Mar](https://open.spotify.com/album/0jS2O7cjIDDV5Uh1jdY06V) | 3:36 |
 | 32 | [El Sol](https://open.spotify.com/track/0qyQXtTEFr2cjL1p1XUUh9) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [El Sol](https://open.spotify.com/album/016HGaT7lgVYhQLvVvQg1P) | 3:42 |
 | 33 | [La Marea](https://open.spotify.com/track/4j0A2PMXd33JklSoFyGvKV) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [La Marea](https://open.spotify.com/album/12IhC2r05joOiX66su3YCo) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Midland
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,425 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,487 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

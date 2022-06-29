@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,334 likes - 55 songs - 3 hr 14 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,334 likes - 57 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 53 | [Since I Found You](https://open.spotify.com/track/0NyEvykxXpR7b7u81cyJuz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [AMBUSH](https://open.spotify.com/album/4wwz78eGEjot2bqn2FAvZG) | 4:26 |
 | 54 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 |
 | 55 | [tomorrow](https://open.spotify.com/track/3sm8vOwbBtZTUPMmT8k5sL) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [tomorrow](https://open.spotify.com/album/0IWOWjxExvXXQzVkcBnCZt) | 3:05 |
+| 56 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 |
+| 57 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 |
 
-Snapshot ID: `OTc0NSw0MmE4NTNmN2I3OTVkYjJjMjVhMDRiODE4MmMzNjIyNWFjNzUyYjFj`
+Snapshot ID: `OTc0NyxlYjEyYTY2MDZiMWYwYjcyZDVmZTI3Y2QyMjQ4NWU5MGVlZDZlZDAx`

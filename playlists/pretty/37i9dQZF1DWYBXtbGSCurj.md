@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: BIN, Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,626 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,794 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 69 | [Carro Chefe da Leste](https://open.spotify.com/track/3MDve8fTNpGOGdhZ7wvMdf) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Carro Chefe da Leste](https://open.spotify.com/album/1ImWc5blhFTXxNcSvZmrcB) | 2:53 |
 | 70 | [Casa da Vizinha](https://open.spotify.com/track/5sqE610tA2dXUUsF76mz15) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Casa da Vizinha](https://open.spotify.com/album/72h7mJiyg7kSmW1RuIdhox) | 2:10 |
 
-Snapshot ID: `MTY1NjMzNzQ1MywwMDAwMDFiYzAwMDAwMTgxYTU2N2QyY2QwMDAwMDE4MThkM2RlMDYx`
+Snapshot ID: `MTY1NjQ0NTQ1MiwwMDAwMDFiZTAwMDAwMTgxYWJkN2MwOTEwMDAwMDE4MThkM2RlMDYx`

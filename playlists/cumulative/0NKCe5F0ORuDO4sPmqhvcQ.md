@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-223 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+225 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 | 2022-03-24 |  |
 | [Never Be](https://open.spotify.com/track/2YZGc7EmCyqJZsMJP4Sogm) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Never Be](https://open.spotify.com/album/6JOtiSGegZqr7kTQvlpAzi) | 3:49 | 2022-06-24 |  |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-18 | 2022-06-25 |
+| [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 |  |
 | [NO JOY](https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [NO JOY](https://open.spotify.com/album/5U3Qs2QlAepmJ38IrG5gJI) | 2:35 | 2022-02-28 | 2022-03-31 |
 | [NOT YOUR GUY](https://open.spotify.com/track/4oUTs1BJ5YFltx2PnUdD2y) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [NOT YOUR GUY](https://open.spotify.com/album/46EJol667xsMTmS2KotaDy) | 2:10 | 2021-11-08 | 2022-01-08 |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-15 | 2022-03-10 |
@@ -159,6 +160,7 @@
 | [Poison](https://open.spotify.com/track/09cTiRshOYv9fVFrEZeL6q) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Robel Ketema](https://open.spotify.com/artist/4lTkauCDOkrOB493HZOzhK) | [Poison](https://open.spotify.com/album/6IL8XkH5PADpTdTNjBejVi) | 2:28 | 2021-10-27 | 2022-01-08 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-01-08 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
+| [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 |  |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
 | [REDEEMED](https://open.spotify.com/track/2A2As8QMLjZ7e9r1MwOYsm) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [REDEEMED](https://open.spotify.com/album/1USkfbi24Wh0VDk6nYEdgF) | 2:59 | 2021-12-07 | 2022-01-08 |
 | [Reflections \- il:lo Remix](https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Reflections \(il:lo Remix\)](https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV) | 6:00 | 2022-01-14 | 2022-02-01 |

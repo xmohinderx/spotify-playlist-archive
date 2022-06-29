@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-138 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+139 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 |  |
 | [此在 \(Day Version\)](https://open.spotify.com/track/34jpkyoDBqKFDLWj8hINHN) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [此在 \(Day Version\)](https://open.spotify.com/album/7uQiVWRn2oY2DrSaWbnpAN) | 2:59 | 2022-05-26 | 2022-06-10 |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-05-26 | 2022-06-10 |
+| [海](https://open.spotify.com/track/6WRmnuCmMkhNsNh4YMFtH4) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [海](https://open.spotify.com/album/63G6P8TO1nh0OFuhnFlqHB) | 3:47 | 2022-06-28 |  |
 | [渡澗](https://open.spotify.com/track/02ZY4yT03JQ8kGnwztaWmn) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [渡澗](https://open.spotify.com/album/7djuyiU90mqDbVeqg6WXnE) | 3:31 | 2022-05-26 | 2022-06-10 |
 | [無拘](https://open.spotify.com/track/0hzNJEBrLzyIzaUaXOmPiX) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [無拘](https://open.spotify.com/album/2pNP263g6TpbOUQD8EU5IH) | 3:34 | 2022-05-26 | 2022-06-10 |
 | [睡行症](https://open.spotify.com/track/1nloWUX0UaVbk9lsTgwHq2) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [睡行症](https://open.spotify.com/album/6QQTjaGL3KBBqLQcBRb6mV) | 4:02 | 2022-05-26 | 2022-06-10 |

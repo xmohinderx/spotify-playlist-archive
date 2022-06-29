@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Danny Ocean y Llane
 
-153 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+154 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-04-01 |  |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-05-06 | 2022-06-11 |
 | [Extrañandote \- Remix](https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Extrañandote \(Remix\)](https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8) | 4:35 | 2021-12-10 | 2022-02-05 |
+| [Fallé](https://open.spotify.com/track/4PyNKC2UGfKeh9ldHdA5Fu) | [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Fallé](https://open.spotify.com/album/5SI9CglIw2oayqbpdMd77s) | 2:47 | 2022-06-28 |  |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-04-01 | 2022-05-07 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-06-10 |  |
 | [Fiesta](https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fiesta](https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz) | 2:56 | 2022-04-15 | 2022-06-11 |
@@ -113,7 +114,7 @@
 | [No La Supero](https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx) | [No La Supero](https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux) | 2:44 | 2022-04-08 | 2022-04-29 |
 | [No se diga más](https://open.spotify.com/track/6nuEW9fRguOxOJbXYnVmWF) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [No se diga más](https://open.spotify.com/album/3Y0ui32Ueqxdp1P4lkk3Ma) | 2:35 | 2022-06-24 |  |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-04-01 |  |
-| [No Tenemos La Culpa](https://open.spotify.com/track/70gwSrZmNuuIPLIioB5aaW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [No Tenemos La Culpa](https://open.spotify.com/album/0NX3kzOlPddKsWUCJZg2YR) | 2:52 | 2022-05-06 |  |
+| [No Tenemos La Culpa](https://open.spotify.com/track/70gwSrZmNuuIPLIioB5aaW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [No Tenemos La Culpa](https://open.spotify.com/album/0NX3kzOlPddKsWUCJZg2YR) | 2:52 | 2022-05-06 | 2022-06-29 |
 | [Nunca y Pico](https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nunca y Pico](https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ) | 3:23 | 2022-06-24 |  |
 | [Oh Na Na](https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Oh Na Na](https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko) | 3:23 | 2021-12-10 | 2022-01-19 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-10 |  |

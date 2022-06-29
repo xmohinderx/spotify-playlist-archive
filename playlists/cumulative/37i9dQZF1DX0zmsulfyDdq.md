@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-171 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+172 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-04-15 |  |
 | [Feed the Birds](https://open.spotify.com/track/6tqTUDiCxsgVENRELmAQQS) | [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ), [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Disney String Quartet](https://open.spotify.com/artist/2b602YRyv5MeW9DJPXulEu) | [Classically Disney](https://open.spotify.com/album/0rkBDkzhmUA3CV3DDZuiyN) | 4:21 | 2022-04-15 |  |
 | [Feed the Birds \(Tuppence a Bag\)](https://open.spotify.com/track/3VhOg7rSQkv0VwvX2ZpfDo) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Soothing](https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y) | 5:59 | 2022-04-15 |  |
+| [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Feed the Birds \(From "Mary Poppins"\)](https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A) | 4:21 | 2022-06-28 |  |
 | [Find Yourself](https://open.spotify.com/track/7AGSjuuV5TRcIdbr5APBCV) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Self\-Care Day](https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM) | 3:32 | 2022-04-15 |  |
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2022-04-15 |  |
 | [Going on a Mission](https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2022-04-15 |  |

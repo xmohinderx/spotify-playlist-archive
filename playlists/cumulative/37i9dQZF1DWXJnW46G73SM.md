@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان
 
-164 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+165 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 |  |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 |  |
-| [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 |  |
+| [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 |  |
 | [Baseeta](https://open.spotify.com/track/0SL61SAE5LKt2ktmG3tdWA) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Baseeta](https://open.spotify.com/album/0BNmZqLzCnwrmi44w72Hqd) | 3:08 | 2022-02-24 | 2022-06-07 |
 | [Basseen Ala Bokra](https://open.spotify.com/track/1VbteZaK0u3rUWJKUGaY5K) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Basseen Ala Bokra](https://open.spotify.com/album/3bCSL9eeJHRQwBN5xae5xw) | 3:14 | 2021-12-23 | 2022-03-04 |
@@ -121,6 +121,7 @@
 | [Mlook Alfarhah](https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Enaba](https://open.spotify.com/artist/6oKthe3hcKm6ZuPuTiyTnE) | [Mlook Alfarhah](https://open.spotify.com/album/0AU9qF9WsMUgbrYm6QqSDQ) | 1:36 | 2021-12-23 | 2022-01-21 |
 | [Momken Azaalak](https://open.spotify.com/track/4QKRv2FjUogwA1tHRr8LBH) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Momken Azaalak](https://open.spotify.com/album/0TaRvYnIEuXDfH5JVU0Q4f) | 3:38 | 2022-02-11 | 2022-05-19 |
 | [Moody Aali](https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE) | [Dalida Khalil](https://open.spotify.com/artist/43frAQLY3YdRaaGTt2Jobb) | [Moody Aali](https://open.spotify.com/album/7nZflWlZjFWWwY3iL864hh) | 2:48 | 2021-12-23 | 2022-03-03 |
+| [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 |  |
 | [Ohdoneny](https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ohdoneny](https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi) | 3:21 | 2022-02-17 | 2022-06-03 |
 | [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 |  |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |

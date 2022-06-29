@@ -4,7 +4,7 @@
 
 > Napoli e il meglio della scena campana\. Cover: Ntò
 
-69 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+70 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Revenge \(feat\. Enzo Dong\)](https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:09 | 2022-05-10 |  |
 | [RFTS 2 \(Freestyle\)](https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 2 \(Freestyle\)](https://open.spotify.com/album/2cgpTKFKtfQ52DYZnV6qJG) | 2:21 | 2022-05-10 | 2022-05-13 |
 | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 3: Transalp \(Freestyle\)](https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5) | 2:08 | 2022-05-12 |  |
+| [Rubrica](https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Rubrica](https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F) | 2:35 | 2022-06-28 |  |
 | [RUN](https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [RUN](https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU) | 3:08 | 2022-05-10 |  |
 | [So Fresh So Clean \(feat\. Vale Lambo\)](https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:00 | 2022-05-26 |  |
 | [SUL IJ E TE](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 | 2022-06-09 |  |

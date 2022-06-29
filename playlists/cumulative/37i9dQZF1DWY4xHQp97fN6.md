@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-267 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+268 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Back 2 Basics](https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [ALIVE \(Deluxe\)](https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M) | 3:51 | 2022-01-14 | 2022-06-11 |
 | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 | 2021-09-03 | 2022-02-05 |
 | [BACKROOM](https://open.spotify.com/track/2CXNjqL7ewOt2bo5VCd1Lj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [BACKROOM](https://open.spotify.com/album/3Z96YG0kqDD0hFc3ZD68NW) | 2:35 | 2022-01-21 | 2022-03-12 |
+| [Bad Ass Bitches](https://open.spotify.com/track/6lhanwNaMxRtdLypNcXWDL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Bad Ass Bitches](https://open.spotify.com/album/59m6OpnjZhN7bCVAAnUPqO) | 1:58 | 2022-06-28 |  |
 | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 | 2021-11-03\* | 2021-11-20 |
 | [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-02-05 |
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-11-03\* | 2021-12-18 |
@@ -105,7 +106,7 @@
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-18 | 2022-04-29 |
 | [HOME \- Remix](https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW) | 3:15 | 2022-06-10 |  |
 | [Home Alone](https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Home Alone](https://open.spotify.com/album/2PkeFYM57aVrVXKqKy0BWa) | 2:53 | 2022-01-21 |  |
-| [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 |  |
+| [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 | 2022-06-29 |
 | [Hoop Earrings](https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Hoop Earrings](https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j) | 2:23 | 2022-02-11 | 2022-06-11 |
 | [Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:30 | 2021-10-01 | 2022-05-07 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-05-20 |  |

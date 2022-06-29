@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,012 likes - 418 songs - 16 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,105 likes - 418 songs - 16 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,7 +251,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 241 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 |
 | 242 | [Heavy Heart](https://open.spotify.com/track/3pd7aUQi7VY1P8JYdoxmqr) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Heavy Heart](https://open.spotify.com/album/4OoJ0P2stDEO90eubKnDVb) | 2:46 |
 | 243 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 |
-| 244 | [Mystic Brew](https://open.spotify.com/track/5iCYkGw65uiGPR6pV1GjQK) | [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Mystic Brew](https://open.spotify.com/album/0d5CsrlgArNZirsLrxHxTY) | 2:06 |
+| 244 | [Mystic Brew](https://open.spotify.com/track/5iCYkGw65uiGPR6pV1GjQK) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Mystic Brew](https://open.spotify.com/album/0d5CsrlgArNZirsLrxHxTY) | 2:06 |
 | 245 | [My Kind Of Club](https://open.spotify.com/track/6styRj3YNO2j31nY2ZBR3i) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [My Kind Of Club](https://open.spotify.com/album/5EcjvuoqZ0IkVcOQ2ryiYQ) | 2:18 |
 | 246 | [Cloud](https://open.spotify.com/track/3pSZXSSdH9Kpw9ampIDVAi) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Cloud](https://open.spotify.com/album/6LUuz7ejJMxsWYECmNjYJw) | 2:24 |
 | 247 | [I WONDER](https://open.spotify.com/track/0GYgKvRrezo7PEhayVauZm) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [And The Rain Stopped](https://open.spotify.com/album/7Ky2COZXmHcVqXFnHQHTBU) | 1:42 |

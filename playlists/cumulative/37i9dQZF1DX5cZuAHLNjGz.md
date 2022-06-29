@@ -4,7 +4,7 @@
 
 > Remembering Sidhu Moose Wala.
 
-110 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+111 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 |  |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |
+| [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/5pB85Z8kuXW8shdMReACvc) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 |  |
 | [Fate](https://open.spotify.com/track/52XpQt2fDLozI4qlhYvWl0) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 2:50 | 2022-05-29 |  |
 | [Feelinga](https://open.spotify.com/track/2DzEnsDbTLHwPuIMAB2z0P) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Adhi Tape](https://open.spotify.com/album/5oQenRXHToaoAFJnIbOV5Y) | 3:08 | 2022-05-29 |  |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2022-05-29 |  |
@@ -100,7 +101,7 @@
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-06-23 |  |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2022-05-29 |  |
 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2022-05-29 |  |
-| [Thabba Ku Zulfan](https://open.spotify.com/track/0C8yInugFWkRHZiX0BxXex) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Thabba Ku Zulfan](https://open.spotify.com/album/4m26hYXR1Lj3NohZQAybNY) | 2:24 | 2022-05-29 |  |
+| [Thabba Ku Zulfan](https://open.spotify.com/track/0C8yInugFWkRHZiX0BxXex) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Thabba Ku Zulfan](https://open.spotify.com/album/4m26hYXR1Lj3NohZQAybNY) | 2:24 | 2022-05-29 | 2022-06-29 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-05-29 |  |
 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 | 2022-05-29 |  |
 | [They Know](https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:24 | 2022-05-29 |  |

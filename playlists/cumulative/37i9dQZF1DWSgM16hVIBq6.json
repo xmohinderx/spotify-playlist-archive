@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 280640,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/1uhiqrpEiYnWddrLgTAhZd"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 315266,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0Bf3bLtRSlpXl5l5MuzZd6"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 234773,
       "name": "Ay Amor - Reggaeton",
       "url": "https://open.spotify.com/track/0uJrYOhFXe4Y86JXPPMqt1"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 237003,
       "name": "Cumbiana",
       "url": "https://open.spotify.com/track/7CzkWSho9A7kE31to9NKdW"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 286413,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "Dejame Entrar",
       "url": "https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 223466,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/2J68vaH7pv2IpxH1vnIpXN"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "El Hombre Divertido",
       "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 328253,
       "name": "El Negro Esta Cocinando",
       "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 284026,
       "name": "Lo Tengo Todo",
       "url": "https://open.spotify.com/track/6tuIZOqcIDMqEWfwkzof7R"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 199213,
       "name": "Loco Loco (feat. Kelvis Ochoa & Gilberto Santa Rosa)",
       "url": "https://open.spotify.com/track/1vgkVUPdCcsqc0Y15TuFH8"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 284653,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
@@ -2102,6 +2102,28 @@
     },
     {
       "album": {
+        "name": "One Flag",
+        "url": "https://open.spotify.com/album/6IDeGLzTfjld3DzSbgnSUt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Fito Blanko",
+          "url": "https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Pegadito Suavecito",
+      "url": "https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed"
+    },
+    {
+      "album": {
         "name": "Me Enamore",
         "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
       },
@@ -2193,7 +2215,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -2425,7 +2447,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 246426,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/7mGZOvx8AnW0M4CFBfeTPU"
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ixqqeF6eKjfnNXqOdsikk"

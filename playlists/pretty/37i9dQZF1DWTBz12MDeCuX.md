@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: t\-low
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,400 likes - 94 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,718 likes - 94 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 60 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 61 | [take a moment to breathe.](https://open.spotify.com/track/4oXmzcn9ritfb7n9rvZWf6) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/0toJrr2xW06CSwEut3bbK9) | 3:38 |
 | 62 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 |
-| 63 | [Escape from BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape from BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 |
+| 63 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 |
 | 64 | [TRÄUME GROß](https://open.spotify.com/track/1qcA4s7RNMcmWOtgKDikwJ) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [KIDS AUS DEM VERSTECK](https://open.spotify.com/album/6K89xzwlZfp0yVgBng67Cl) | 2:26 |
 | 65 | [Ticket zu dir](https://open.spotify.com/track/0q9UhjpLwjYuDR5ZXOUkui) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Ticket zu dir](https://open.spotify.com/album/0QYshP7LS7TS0fPj7amAFz) | 2:37 |
 | 66 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/72H4lwbSuX8xjyJseUC5Ux) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM) | 2:48 |

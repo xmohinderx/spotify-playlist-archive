@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-93 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+95 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-05-28 |  |
+| [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-06-28 |  |
 | [Gold](https://open.spotify.com/track/4O0WiQ8T3Kxv0Tq6xxTDKj) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 2:56 | 2022-06-14 |  |
-| [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 | 2022-05-28 |  |
+| [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 | 2022-05-28 | 2022-06-29 |
 | [Good For](https://open.spotify.com/track/1xQ0uoIrGX8Gsq8s1hZTiV) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/1RrXyKwwvq0X3f02W4zdMc) | 4:21 | 2022-05-28 |  |
 | [HELLO](https://open.spotify.com/track/54hxy2o48DD270KUt21Fp4) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [鈴木このみ5thアルバム「ULTRA FLASH」](https://open.spotify.com/album/6ZnPbcPpRkomKi28gJ1R8o) | 3:12 | 2022-05-28 |  |
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
@@ -74,7 +75,7 @@
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-05-28 |  |
 | [僕の存在証明](https://open.spotify.com/track/78seZJUexoZXLXzGcDb0Fo) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [やくしまるえつこメトロオーケストラ \- 僕の存在証明](https://open.spotify.com/album/2zBxVave0oMTAW0myJctb9) | 6:03 | 2022-05-28 |  |
-| [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-05-28 |  |
+| [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-05-28 | 2022-06-29 |
 | [僕らの一歩](https://open.spotify.com/track/3DsZTMOoJAp1IOPtq6l9Pz) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ / 僕らの一歩](https://open.spotify.com/album/01w8C4UPyzWEicJSIKu4AH) | 5:13 | 2022-06-14 |  |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-05-28 |  |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 |  |
@@ -87,6 +88,7 @@
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2022-05-28 |  |
 | [恋はエクスプロージョン](https://open.spotify.com/track/2dKAXekTOOuHA9fLTqvSUj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [恋はエクスプロージョン](https://open.spotify.com/album/6SVzGAC0PQpG3rGdh4GAWl) | 3:37 | 2022-05-28 |  |
 | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/track/2VdBCarSytlCR9o16m2dfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [カルバリンベア \[CV:安元洋貴\]](https://open.spotify.com/artist/0finzzKMafLBuwYlmanDqe) | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/album/2gU2RMelECGHkRvkOzth0g) | 1:30 | 2022-05-28 | 2022-06-03 |
+| [悪魔の子 KOHTA \- KOHTA YAMAMOTO Remix](https://open.spotify.com/track/3iGgTjzoA6tFUD1KPTbdJQ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Rearrangement Reaction](https://open.spotify.com/album/2vPvV6BqCafISrQFtYQ1gu) | 4:04 | 2022-06-28 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-08 |  |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 |  |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 |  |

@@ -4,7 +4,7 @@
 
 > Las mejores canciones Latinas de junio 2022.
 
-207 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
+208 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 | 2021-12-14 | 2022-01-21 |
 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 | 2022-03-11 | 2022-05-24 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-10 | 2022-06-28 |
+| [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-06-28 |  |
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2021-12-14 | 2022-01-21 |
 | [Llorando en Mex](https://open.spotify.com/track/24KPl7FGRfsT9WITnqVrEm) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Llorando en Mex](https://open.spotify.com/album/2hQeZEqlUgK8i4RniLQAOr) | 3:01 | 2022-04-29 | 2022-05-28 |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-10 |  |
@@ -208,7 +209,7 @@
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-01-24 | 2022-04-29 |
 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2021-12-14 | 2022-02-02 |
 | [Vamo’ A Beber](https://open.spotify.com/track/52Jv0Db51Aa3LztWh00xVU) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Vamo’ A Beber](https://open.spotify.com/album/6E0WZlZ3Wu0GZ4umVzWyE1) | 3:09 | 2021-12-14 | 2022-03-05 |
-| [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2022-05-23 |  |
+| [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2022-05-23 | 2022-06-29 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-27 |  |
 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 | 2022-03-04 | 2022-05-20 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 | 2021-12-14 | 2022-01-21 |

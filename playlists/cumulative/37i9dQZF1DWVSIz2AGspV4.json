@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Awal Marah",
+        "url": "https://open.spotify.com/album/67fv0fvX3nzAnBHCZJNqqa"
+      },
+      "artists": [
+        {
+          "name": "Taif",
+          "url": "https://open.spotify.com/artist/66XWRsuL9rNfq5CFoOCTLC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Awal Marah",
+      "url": "https://open.spotify.com/track/5xcZqcy77FOa8qL8AVLZfv"
+    },
+    {
+      "album": {
         "name": "Awal Wahed (\u0623\u0648\u0644 \u0648\u0627\u062d\u062f)",
         "url": "https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF"
       },
@@ -2455,6 +2473,24 @@
       "duration_ms": 200448,
       "name": "Ya Ghality",
       "url": "https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL"
+    },
+    {
+      "album": {
+        "name": "Ya Janti Ya Nari",
+        "url": "https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp"
+      },
+      "artists": [
+        {
+          "name": "Ghassan Alshami",
+          "url": "https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263773,
+      "name": "Ya Janti Ya Nari",
+      "url": "https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 176169,
       "name": "8/8/G",
       "url": "https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 165006,
       "name": "HUSTLE",
       "url": "https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup"
@@ -447,6 +447,28 @@
       "duration_ms": 193621,
       "name": "Keify Keda",
       "url": "https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX"
+    },
+    {
+      "album": {
+        "name": "LOKLOK",
+        "url": "https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "Farra",
+          "url": "https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219219,
+      "name": "LOKLOK",
+      "url": "https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u"
     },
     {
       "album": {
@@ -1154,6 +1176,28 @@
     },
     {
       "album": {
+        "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631",
+        "url": "https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8"
+      },
+      "artists": [
+        {
+          "name": "SFerroe",
+          "url": "https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87954,
+      "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631",
+      "url": "https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu"
+    },
+    {
+      "album": {
         "name": "\u0643\u0627\u0628\u062a\u0646",
         "url": "https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1"
       },
@@ -1195,6 +1239,36 @@
       "duration_ms": 189099,
       "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
       "url": "https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p"
+    },
+    {
+      "album": {
+        "name": "\u0645\u064a\u0646 \u064a\u062a\u062d\u062f\u0649",
+        "url": "https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm"
+      },
+      "artists": [
+        {
+          "name": "SFerroe",
+          "url": "https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Tasneem El Aidy",
+          "url": "https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx"
+        },
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128104,
+      "name": "\u0645\u064a\u0646 \u064a\u062a\u062d\u062f\u0649",
+      "url": "https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T"
     },
     {
       "album": {

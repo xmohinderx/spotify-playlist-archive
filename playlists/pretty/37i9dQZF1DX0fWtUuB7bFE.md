@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,775 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,828 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 | 12 | [Hellraiser \- 30th Anniversary Edition](https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Hellraiser \(30th Anniversary Edition\)](https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq) | 4:55 |
 | 13 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 |
 | 14 | [Waiting for the World to End](https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Surviving the Law](https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI) | 2:47 |
-| 15 | [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:38 |
+| 15 | [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:37 |
 | 16 | [Missionary Man](https://open.spotify.com/track/3lyG8ACQicIIE3o71gFOGk) | [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Missionary Man](https://open.spotify.com/album/6CCHVriloUCvynss0R9itq) | 3:59 |
 | 17 | [Pumpin'](https://open.spotify.com/track/1I3w1Hgno75L1gjdyyp4dB) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Pumpin'](https://open.spotify.com/album/49diTVu3lbBkdeLF20Ix63) | 3:22 |
 | 18 | [Through The Mists Of Time](https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:32 |

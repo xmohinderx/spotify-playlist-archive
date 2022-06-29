@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-55 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
+56 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Friend Ship](https://open.spotify.com/track/6BQkSdgPMRdXTfW3ZT0WHY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:42 | 2022-04-07 |  |
 | [Get a Feel](https://open.spotify.com/track/7cwzoU55oSCNP7m8dWDShQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:07 | 2022-04-07 |  |
 | [Hello Song](https://open.spotify.com/track/7IV7n5PxCPwDqOnVQGPwnU) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:14 | 2022-04-07 |  |
+| [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 | 2022-06-28 |  |
 | [KIDS](https://open.spotify.com/track/48xCwzYgpO629btODlQxgK) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:46 | 2022-04-07 |  |
 | [Moon Sick](https://open.spotify.com/track/2NKwAXmRJJGNtSznAiC9bg) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [SUN](https://open.spotify.com/album/4CkAmxvvfAYrXr3tM8Zpqz) | 2:39 | 2022-04-07 |  |
 | [Night Troop](https://open.spotify.com/track/0CdWeglfN1w2ZlK1yk4kgK) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Crazy Crazy/桜の森](https://open.spotify.com/album/6MpR8BS7yIKKS2DPejjYvw) | 3:26 | 2022-04-07 |  |

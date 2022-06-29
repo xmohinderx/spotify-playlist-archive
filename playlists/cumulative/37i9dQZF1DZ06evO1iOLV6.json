@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 224026,
       "name": "Heal D World",
       "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 234312,
       "name": "Jama",
       "url": "https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 229719,
       "name": "Katika (Coke Studio Africa)",
       "url": "https://open.spotify.com/track/5BOuo9YApuhIMiNXhERwy0"
@@ -999,10 +999,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 267993,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/16MBuXj2eqRPa1Vs9AzUsF"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267993,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/2iauO3C7vEcmJAyP9HXKYX"
     },
     {
       "album": {

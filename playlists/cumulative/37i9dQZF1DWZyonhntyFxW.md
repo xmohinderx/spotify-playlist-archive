@@ -2,15 +2,15 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري! غلاف: عفروتو
+> أقوى أغاني الراب المصري! غلاف: مروان موسى
 
-60 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+63 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3latol](https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [3latol](https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx) | 3:08 | 2022-05-10 |  |
 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 | 2022-05-25 |  |
-| [8/8/G](https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [8/8/G](https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG) | 2:56 | 2022-05-10 |  |
+| [8/8/G](https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [8/8/G](https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG) | 2:56 | 2022-05-10 | 2022-06-29 |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-05-10 |  |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-05-10 |  |
@@ -27,8 +27,9 @@
 | [Hanfantazook](https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Hanfantazook](https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4) | 3:13 | 2022-05-10 | 2022-06-18 |
 | [Haram](https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo EL Anwar](https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Mextape](https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC) | 3:05 | 2022-06-20 |  |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-05-10 |  |
-| [HUSTLE](https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [HUSTLE](https://open.spotify.com/album/3caZFDjOYlqVVsrBjCgAOy) | 2:45 | 2022-05-10 |  |
+| [HUSTLE](https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [HUSTLE](https://open.spotify.com/album/3caZFDjOYlqVVsrBjCgAOy) | 2:45 | 2022-05-10 | 2022-06-29 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 |  |
+| [LOKLOK](https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Farra](https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT) | [LOKLOK](https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X) | 3:39 | 2022-06-28 |  |
 | [Ma3lesh Ana Toht](https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ma3lesh Ana Toht](https://open.spotify.com/album/1Bto2XiqyMEb9FHB1BkGFI) | 3:33 | 2022-05-10 | 2022-06-21 |
 | [Malaksh Da3wa](https://open.spotify.com/track/4RlYNdvL0xebVFp3YrxtSK) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:15 | 2022-05-10 |  |
 | [Malyan](https://open.spotify.com/track/0Z8F28QfH9fApYKHdqlaqH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Kazakairo](https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR) | 2:43 | 2022-05-10 |  |
@@ -65,8 +66,10 @@
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-05-10 | 2022-06-15 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2022-05-10 |  |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-05-10 |  |
+| [عطشان وبستنى تغيير](https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عطشان وبستنى تغيير](https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8) | 1:27 | 2022-06-28 |  |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-05-10 |  |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 |  |
+| [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 | 2022-06-28 |  |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-20 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

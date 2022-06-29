@@ -1,12 +1,12 @@
 {
   "description": "spotify hyperpop playlist Cover: glaive",
-  "num_followers": 332734,
+  "num_followers": 332963,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDE3MTAwMDAwMTgxOTNkZGRlYjUwMDAwMDE4MTkyNWIzYTU3",
+  "snapshot_id": "MTY1NjQyNTUzNSwwMDAwMDE3MjAwMDAwMTgxYWFhN2Q3MDUwMDAwMDE4MTkyNWIzYTU3",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 200724,
       "name": "GOSSIP",
       "url": "https://open.spotify.com/track/1tjJoYTGWaITkvlD37L4QY"
+    },
+    {
+      "added_at": "2022-06-28 14:12:15",
+      "album": {
+        "name": "All Nighter, Vol. 6",
+        "url": "https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "6FINGERDEATHPUNCH",
+      "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
     },
     {
       "added_at": "2022-06-17 07:42:00",
@@ -2279,34 +2295,6 @@
       "duration_ms": 180867,
       "name": "HYPERREAL",
       "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
-    },
-    {
-      "added_at": "2022-05-20 06:10:00",
-      "album": {
-        "name": "Suki Sugi Replay",
-        "url": "https://open.spotify.com/album/2cswgzEzOJHztL1Bf0PgYb"
-      },
-      "artists": [
-        {
-          "name": "Golin",
-          "url": "https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        },
-        {
-          "name": "Glasear",
-          "url": "https://open.spotify.com/artist/4KR1aSNrKFDzmNeibMzGZg"
-        },
-        {
-          "name": "Distance Decay",
-          "url": "https://open.spotify.com/artist/3EwdO0yJpfmhyeRRzeFuSn"
-        }
-      ],
-      "duration_ms": 190125,
-      "name": "Suki Sugi Replay",
-      "url": "https://open.spotify.com/track/6OFxou5xih3HIdc6P5GPT7"
     }
   ],
   "unique_name": "hyperpop",

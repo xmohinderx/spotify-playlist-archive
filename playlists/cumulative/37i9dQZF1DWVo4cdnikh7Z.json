@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 233383,
       "name": "Aagoozhilae",
       "url": "https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C"
@@ -272,6 +272,28 @@
     },
     {
       "album": {
+        "name": "Bonding Song (From \"777 Charlie - Tamil\")",
+        "url": "https://open.spotify.com/album/7rZOBbCdUU9rHOpotc1xHq"
+      },
+      "artists": [
+        {
+          "name": "Nobin Paul",
+          "url": "https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268059,
+      "name": "Bonding Song (From \"777 Charlie - Tamil\")",
+      "url": "https://open.spotify.com/track/6GqtA9B6DedZwudl3zlLUC"
+    },
+    {
+      "album": {
         "name": "The Warriorr (Tamil)",
         "url": "https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2"
       },
@@ -339,7 +361,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 306600,
       "name": "DADA Song - From \"DADA\"",
       "url": "https://open.spotify.com/track/78PYbxUI8JLAddHAdcv53N"
@@ -519,7 +541,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 246666,
       "name": "En Kadhal (From \"Andhagan\")",
       "url": "https://open.spotify.com/track/5dSxl1cCBhbslpWT7iXeWY"
@@ -563,7 +585,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 255794,
       "name": "Enakku Mattum Yean Yean - From \"My Dear Bootham\"",
       "url": "https://open.spotify.com/track/6c2i9VGNF37KSEBR3CHRui"
@@ -1145,7 +1167,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 240113,
       "name": "Maarum Uravae",
       "url": "https://open.spotify.com/track/2nS0jol49JSjlzfnSA63P9"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 248650,
       "name": "Mayava Thooyava",
       "url": "https://open.spotify.com/track/183TEaqrJkIB46zjnEV6r6"
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 340362,
       "name": "Natpu (From \"RRR\")",
       "url": "https://open.spotify.com/track/3ZZYz8ttm10Jjjvn454m9v"
@@ -2413,8 +2435,12 @@
       },
       "artists": [
         {
-          "name": "Anthony Daasan, Srinisha Jayaseelan",
-          "url": "https://open.spotify.com/artist/0wrnX0e2VEQGo2KoJbAb6Q"
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
         }
       ],
       "date_added": "2022-06-22",

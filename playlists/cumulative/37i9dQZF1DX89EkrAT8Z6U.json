@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 174288,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2e2ZQeXucqSEI00D8smDqP"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 128005,
       "name": "Alucard",
       "url": "https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 214169,
       "name": "Berserk (Guts)",
       "url": "https://open.spotify.com/track/02TkW3n36h68GDwOnGPvYV"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 125100,
       "name": "Black Clover",
       "url": "https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 214825,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/09NzUAxEYgwlzlsx0z0Om7"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 105176,
       "name": "E-GIRLS ARE RUINING MY LIFE!",
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 153700,
       "name": "GODBREAKER",
       "url": "https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Like Yao",
+        "url": "https://open.spotify.com/album/1W0kHAfCplRkAVsnpsHH0c"
+      },
+      "artists": [
+        {
+          "name": "Since99",
+          "url": "https://open.spotify.com/artist/2dZGZpAgfWlVxCSFDqbytg"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139682,
+      "name": "Like Yao",
+      "url": "https://open.spotify.com/track/2yX7uY21fVapIyLVgaTDNC"
+    },
+    {
+      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
       },
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Nightmar3",
       "url": "https://open.spotify.com/track/4PMcBJPHgznWZsZL6bf9JV"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 422104,
       "name": "Phantom Troupe - Remix",
       "url": "https://open.spotify.com/track/07Pv7QJd4kFRyusSSlJODo"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 153428,
       "name": "SHARINGAN",
       "url": "https://open.spotify.com/track/2kJUNRihWFzZYfXE9SICgT"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 168024,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/0w96openg6MldR3S86NzO6"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 327240,
       "name": "Sorcery Fight!",
       "url": "https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 129142,
       "name": "The Law of Recognition",
       "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
@@ -1818,6 +1836,46 @@
     },
     {
       "album": {
+        "name": "Wano",
+        "url": "https://open.spotify.com/album/2nlH87Nh0S0PGIO3XCTVtS"
+      },
+      "artists": [
+        {
+          "name": "954mari",
+          "url": "https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc"
+        },
+        {
+          "name": "Ty Wild",
+          "url": "https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111187,
+      "name": "Wano",
+      "url": "https://open.spotify.com/track/4ZU0Une8oHy3YP9aEHxtu3"
+    },
+    {
+      "album": {
+        "name": "WE BOUT TO GET DOWN",
+        "url": "https://open.spotify.com/album/5Cx08DAI2KlOfK3ksE7B4v"
+      },
+      "artists": [
+        {
+          "name": "OMINVS",
+          "url": "https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83720,
+      "name": "WE BOUT TO GET DOWN",
+      "url": "https://open.spotify.com/track/4IeV5yYwvdDbQ2fjniu97W"
+    },
+    {
+      "album": {
         "name": "Wind (Naruto) [Trap Remix]",
         "url": "https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7"
       },
@@ -1887,7 +1945,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 211600,
       "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
       "url": "https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY"
@@ -1923,7 +1981,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"

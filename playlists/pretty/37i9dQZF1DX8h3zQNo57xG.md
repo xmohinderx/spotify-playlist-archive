@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain](/playlists/plain/37i9dQZF1DX8h3zQNo57xG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8h3zQNo57xG)
 
-### [Binaural Beats Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8h3zQNo57xG)
+### [Binaural Beats: Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8h3zQNo57xG)
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,183 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,301 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 79 | [Deep Shelter \(2 Hz Delta Binaural Beat\)](https://open.spotify.com/track/5ce38nO7UuAYX7190FS0WD) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 |
 | 80 | [Delta Sinus 160 Hz \- L 165 Hz \- R \- Drone](https://open.spotify.com/track/69V8WWWQCX7aFd2uVWml3x) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:33 |
 
-Snapshot ID: `MTY1MzU3NTg0NiwwMDAwMDA0YzAwMDAwMTgxMDBjZDBiOWMwMDAwMDE3MWYzNGZjZDIy`
+Snapshot ID: `MTY1NjQyNzc3MiwwMDAwMDA0ZDAwMDAwMTgxYWFjOWY4NmMwMDAwMDE4MWFhYzljNGI1`

@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 219266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 268173,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 236546,
       "name": "I Want To Feel Good Pt. 2",
       "url": "https://open.spotify.com/track/3UEMT2xacruPjPfZdRrVun"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 300346,
       "name": "It's All Right With Me - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow"
@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 130199,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
@@ -1845,6 +1845,24 @@
       "duration_ms": 182760,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
+    },
+    {
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander Quintet",
+          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "album": {
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 420400,
       "name": "Sun King",
       "url": "https://open.spotify.com/track/4ZXvJhmrtoAr9rS8Hf7881"

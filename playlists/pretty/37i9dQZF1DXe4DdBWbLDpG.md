@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,840 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,852 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 74 | [Edición Limitada](https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13) | [aiSHO](https://open.spotify.com/artist/2vDJuQu4zg55P1XdbSl0cb), [Noult](https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K) | [Edición Limitada](https://open.spotify.com/album/7ifdi6VLROvvQp5PLN87pJ) | 3:14 |
 | 75 | [Sacadme Esas Guitarras](https://open.spotify.com/track/3xToT4IysFxeB93cbBZY1i) | [Invert](https://open.spotify.com/artist/5Ybbt6iZw0TGWhwM13qB4T), [Mbaka](https://open.spotify.com/artist/4pGp41lvcj9yUGStOprVTv) | [Abran Paso](https://open.spotify.com/album/1CBm1lhvhXH1on2djh9ZHu) | 2:10 |
 
-Snapshot ID: `MTY1NjM2NTMwNSwwMDAwMDAwODAwMDAwMTgxYTcxMGNkOGEwMDAwMDE4MWE2Y2NhNjJk`
+Snapshot ID: `MTY1NjQzNTU4OCwwMDAwMDAwOTAwMDAwMTgxYWI0MTNmNWEwMDAwMDE4MWFiNDExNTI0`

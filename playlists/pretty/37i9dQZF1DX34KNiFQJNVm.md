@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Priscilla Alcantara com Emicida, Beyoncé, Péricles e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,206 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,235 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 60 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 61 | [Menina do Interior](https://open.spotify.com/track/2yt3119p51Qyp9mHY1xgKK) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Menina do Interior / Aurora](https://open.spotify.com/album/6Ey26ottxtVHM1j9IvTHVn) | 3:20 |
 | 62 | [Deu Praia](https://open.spotify.com/track/6hk2MkKPvYpRBhKJ4Yr4pn) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [Deu Praia](https://open.spotify.com/album/4fUBzsnJPtOXwNvQK0E5la) | 2:13 |
-| 63 | [Phoda](https://open.spotify.com/track/4DSbYPau95Mg4OyqXZMM1G) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 3:48 |
+| 63 | [Phoda](https://open.spotify.com/track/4DSbYPau95Mg4OyqXZMM1G) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só Aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 3:48 |
 | 64 | [Winter](https://open.spotify.com/track/1kAbGQDHLZm4yoewocbsPd) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form \(Deluxe\)](https://open.spotify.com/album/61R66MLe1vad35VQqCUMgT) | 3:31 |
 | 65 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 66 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |

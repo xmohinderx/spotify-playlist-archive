@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,489 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,535 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 3 | [¿Por qué se fue?](https://open.spotify.com/track/4HpNEIfi16VenKhhSRKSeU) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Por qué se fue?](https://open.spotify.com/album/5UX921anluxjvfwKu7EiUS) | 2:25 |
 | 4 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 5 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
-| 6 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
+| 6 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
 | 7 | [Capricho](https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Capricho](https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh) | 2:40 |
 | 8 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 |
 | 9 | [Masoquista](https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC) | [GS](https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs), [Kyke](https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA) | [Masoquista](https://open.spotify.com/album/73YWwyUtJaENgk27l5NVCY) | 3:30 |

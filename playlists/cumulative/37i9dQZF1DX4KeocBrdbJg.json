@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "album": {
         "name": "Angeleyes (Sped Up) - Sometimes When I'm Lonely, I Sit and Think About Him",
         "url": "https://open.spotify.com/album/6LWNPVCVAMH5bBPfJNQFIc"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 215625,
       "name": "Angeleyes (Sped Up) - Sometimes When I'm Lonely, I Sit and Think About Him",
       "url": "https://open.spotify.com/track/7Dj1ak803CaG7VrVPFEpUw"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 225240,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/4msYRkezQgynuZNubvVbHk"
@@ -1556,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "album": {
         "name": "No tienes motivacion",
         "url": "https://open.spotify.com/album/2XpoTJyZMAlnLlG5wIo82X"
       },
@@ -1716,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -1783,6 +1837,24 @@
       "duration_ms": 198913,
       "name": "P rreo",
       "url": "https://open.spotify.com/track/1ZI1nMfnnfFhdIyIKv5Igv"
+    },
+    {
+      "album": {
+        "name": "Sos (Chapitre 1)",
+        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204695,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
       "album": {
@@ -2065,7 +2137,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 232500,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/5yUNJjYSI4nbsoFCm0NL1I"
@@ -2515,7 +2587,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl"

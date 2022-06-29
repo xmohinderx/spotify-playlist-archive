@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,531 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,756 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 27 | [ERROR](https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:57 |
 | 28 | [Fool's Gold](https://open.spotify.com/track/0vZmW8pvcVoDPM0Oxdrwow) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Fool's Gold](https://open.spotify.com/album/3MCylQxh3vsN26Kz3qTPb9) | 4:01 |
 | 29 | [LOVE ME HATE ME](https://open.spotify.com/track/1tyx1wJFT7wAeF1PKOOe4y) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [NEW BREED](https://open.spotify.com/album/5zHzlUyTFZstQbmjb4EqwH) | 3:35 |
-| 30 | [My Funeral Song](https://open.spotify.com/track/12SUDYZTRoVGsUWcz1tuPk) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI), [Loveless](https://open.spotify.com/artist/0fLTCqslJayr6ZdsGU50Gq) | [Good Die Young](https://open.spotify.com/album/2RuqF2YyZ5gDfOZ5kmU7J5) | 2:37 |
+| 30 | [My Funeral Song](https://open.spotify.com/track/12SUDYZTRoVGsUWcz1tuPk) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Good Die Young](https://open.spotify.com/album/2RuqF2YyZ5gDfOZ5kmU7J5) | 2:37 |
 | 31 | [Nullify](https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Nullify](https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ) | 3:19 |
 | 32 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 |
 | 33 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 |

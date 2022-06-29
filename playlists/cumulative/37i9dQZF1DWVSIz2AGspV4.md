@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-142 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+144 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Argalak Kama Kont](https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Argalak Kama Kont](https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE) | 3:02 | 2022-01-14 | 2022-05-25 |
 | [Asab Khabar](https://open.spotify.com/track/7aqTO66MftpsIrF3WbCesB) | [Ahmad AlKaisi](https://open.spotify.com/artist/2BySKMB8pGMBsjVd7AzcQa) | [Asab Khabar](https://open.spotify.com/album/42g8gRlw4AnIfKwGjSUQsJ) | 3:12 | 2021-12-23 | 2022-03-12 |
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-02-17 |  |
+| [Awal Marah](https://open.spotify.com/track/5xcZqcy77FOa8qL8AVLZfv) | [Taif](https://open.spotify.com/artist/66XWRsuL9rNfq5CFoOCTLC) | [Awal Marah](https://open.spotify.com/album/67fv0fvX3nzAnBHCZJNqqa) | 4:04 | 2022-06-28 |  |
 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 | 2022-06-21 |  |
 | [Ayami](https://open.spotify.com/track/1eO2xSR7xlI7U9CBX0zihi) | [Salah Hassan](https://open.spotify.com/artist/4XRv8YzpGjMqaUPJC0wpxP) | [Ayami](https://open.spotify.com/album/60yMGQG6qHN2S3omKeBsSF) | 2:50 | 2021-12-23 | 2022-02-11 |
 | [Aybaah](https://open.spotify.com/track/469edw0cqHxQwF4ZpRNYYD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Aybaah](https://open.spotify.com/album/3Xr5fmb8FO0n4ABBYz7KhY) | 3:02 | 2022-03-11 |  |
@@ -139,6 +140,7 @@
 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 | 2022-04-05 |  |
 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 | 2022-03-28 |  |
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-01-14 | 2022-05-25 |
+| [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 | 2022-06-28 |  |
 | [Ya Satar](https://open.spotify.com/track/6wCx5p6IG0dmAbTU3zjSz9) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Parwaz Hussein](https://open.spotify.com/artist/2qOj66Y9xT3dLPaVq8Thr1) | [Ya Satar](https://open.spotify.com/album/4IsPE2UDmvczVVRrBxtuXE) | 2:41 | 2021-12-23 | 2022-04-06 |
 | [Ya Teer](https://open.spotify.com/track/4WptRRUO1CVz1YPbgDEHTX) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Ya Teer](https://open.spotify.com/album/6xORNTTMhrmAeDX0WFdyBC) | 3:56 | 2021-12-23 | 2022-02-11 |
 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 | 2022-06-02 |  |

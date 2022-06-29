@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-125 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+126 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 | 2022-06-09 |  |
 | [Bayen](https://open.spotify.com/track/6GW9c4VOXzxfODQEVtkaP7) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Bayen](https://open.spotify.com/album/7338ZC7BoYblLtLrQlDhcE) | 3:18 | 2022-03-17 | 2022-04-19 |
 | [Bianco](https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv), [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Bianco](https://open.spotify.com/album/3y9ruR0EtvfUOaYUIBITs4) | 2:06 | 2021-12-25 | 2022-02-08 |
+| [Campeónes](https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G), [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [ElMarocchino](https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2) | 2:44 | 2022-06-27 |  |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-12-25 | 2022-03-03 |
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2022-06-24 |  |

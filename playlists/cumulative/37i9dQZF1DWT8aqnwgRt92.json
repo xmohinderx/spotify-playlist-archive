@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Go Live!",
+        "url": "https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230280,
+      "name": "Go Live!",
+      "url": "https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0"
       },
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 176481,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 266973,
       "name": "\u50d5\u3089\u304c\u611a\u304b\u3060\u306a\u3093\u3066\u8ab0\u304c\u8a00\u3063\u305f",
       "url": "https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB"
@@ -1479,6 +1497,28 @@
       "duration_ms": 90587,
       "name": "\u604b\u306f\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30b8\u30e7\u30f3 -TV edit-",
       "url": "https://open.spotify.com/track/2VdBCarSytlCR9o16m2dfj"
+    },
+    {
+      "album": {
+        "name": "Rearrangement Reaction",
+        "url": "https://open.spotify.com/album/2vPvV6BqCafISrQFtYQ1gu"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        },
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "\u60aa\u9b54\u306e\u5b50 KOHTA - KOHTA YAMAMOTO Remix",
+      "url": "https://open.spotify.com/track/3iGgTjzoA6tFUD1KPTbdJQ"
     },
     {
       "album": {

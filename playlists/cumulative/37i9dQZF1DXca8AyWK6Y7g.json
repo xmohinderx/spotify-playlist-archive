@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 185895,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/7ckbcPoMTMOdnlBIsrHjDD"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -3745,7 +3745,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 182146,
       "name": "cloudbathing",
       "url": "https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu"
@@ -4299,7 +4299,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 186760,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/5SNZ7Iv54NzJgpb1hFxgXl"
@@ -5081,7 +5081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 163727,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/7bIa6A4XjMVy4trhKI0Z3G"
@@ -7052,6 +7052,24 @@
     },
     {
       "album": {
+        "name": "Garden On The Kitchen Floor",
+        "url": "https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219542,
+      "name": "Garden On The Kitchen Floor",
+      "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons"
       },
@@ -8773,7 +8791,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 149230,
       "name": "hold the applause",
       "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
@@ -8993,7 +9011,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh"
@@ -10565,7 +10583,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 156247,
       "name": "Kill You Boy",
       "url": "https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912"
@@ -12973,7 +12991,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 171033,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO"
@@ -16201,7 +16219,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 163602,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
@@ -18601,7 +18619,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 132000,
       "name": "survival of the littest",
       "url": "https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv"
@@ -19127,7 +19145,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
@@ -19937,7 +19955,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 224747,
       "name": "Two Moons",
       "url": "https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC"
@@ -20503,7 +20521,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 194332,
       "name": "Wake Me up When My 20's End",
       "url": "https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X"
@@ -21015,7 +21033,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
@@ -21301,7 +21319,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"

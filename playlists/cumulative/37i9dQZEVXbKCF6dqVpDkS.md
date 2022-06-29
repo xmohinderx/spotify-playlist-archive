@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-668 songs - 1 day 11 hr 2 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+669 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Ibiza](https://open.spotify.com/track/6as3iXGeGUqqkR70U6Ajgr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:40 | 2021-11-28 | 2022-01-15 |
 | [Ibiza Stories](https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:41 | 2022-01-29 | 2022-02-13 |
 | [Iedereen Laag](https://open.spotify.com/track/294r1XW4SvpgjwYonUE7WT) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Iedereen Laag](https://open.spotify.com/album/5Yq7amyflQn5UoV4lGxaX5) | 2:29 | 2022-05-10 | 2022-05-15 |
-| [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 |  |
+| [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 | 2022-06-29 |
 | [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-06-28 |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2021-10-03 | 2021-10-11 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-10 | 2021-09-29 |
@@ -560,6 +560,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-07 | 2021-12-29 |
 | [Slide](https://open.spotify.com/track/1z9d8WVX1c4bRJHXmoplGP) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Slide](https://open.spotify.com/album/0lm6gUZ3YDpUIoEzkHioCC) | 3:21 | 2021-07-04 | 2021-07-11 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-06 |
+| [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-28 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-20 | 2021-12-29 |
 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2022-05-07 |  |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-26 |

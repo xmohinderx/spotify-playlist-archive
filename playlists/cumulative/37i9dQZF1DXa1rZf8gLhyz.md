@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-156 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+160 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-01-04 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2021-12-07 |  |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2021-12-07 | 2022-05-03 |
+| [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 |  |
@@ -91,6 +92,7 @@
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2021-12-07 |  |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2021-12-07 |  |
+| [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2022-06-28 |  |
 | [Moonsteps](https://open.spotify.com/track/0Pq3SEDqVDKs0uIFdxDNAE) | [Dorothy Mckenzie](https://open.spotify.com/artist/3N3usdjE1BJjnxplqtLXcA) | [Moonsteps](https://open.spotify.com/album/3cIasriXmdPnRk9r9QSGq9) | 2:03 | 2021-12-07 |  |
 | [My Foolish Heart](https://open.spotify.com/track/1tNqV5MzAOOkuFT2VkmYVo) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 4:49 | 2021-12-07 | 2022-04-02 |
 | [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2021-12-07 |  |
@@ -127,10 +129,12 @@
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2021-12-07 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/78hP2pA1Y8DYCn5shq3f1b) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:38 | 2022-06-14 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 | 2022-03-16 |  |
+| [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2022-06-28 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2021-12-07 |  |
 | [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2021-12-07 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 |  |
+| [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 |  |
 | [Stella by Starlight](https://open.spotify.com/track/6Jo1M2DdKDMYuuBWkjuQQB) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Stella by Starlight](https://open.spotify.com/album/7altrnI6XY0emryqzjsye7) | 2:45 | 2021-12-07 | 2022-01-14 |
 | [Stella by Starlight](https://open.spotify.com/track/3vI6xOQVh0DPw0vDJLXQIJ) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Stella by Starlight](https://open.spotify.com/album/2JQaZBlmCm13PQAaRRTnCg) | 2:46 | 2021-12-07 | 2022-02-02 |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2021-12-07 |  |

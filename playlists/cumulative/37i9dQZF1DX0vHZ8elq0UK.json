@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/1ctdfJSzp6qF2iDAVdDrfl"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 156781,
       "name": "Big (feat. Gunna)",
       "url": "https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 204022,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
@@ -3577,7 +3577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF"
@@ -4547,6 +4547,24 @@
       "duration_ms": 201960,
       "name": "Year 3000",
       "url": "https://open.spotify.com/track/4zP7ADsgJgHGY6VzxbNp1z"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2ItqhgEcqrfKpf8lSLXzCX"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9Moris",
+          "url": "https://open.spotify.com/artist/5EO4N7W1ncTabqcVWthFox"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154512,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2w9Mnb2TXjFR2XdagwRY8G"
     },
     {
       "album": {

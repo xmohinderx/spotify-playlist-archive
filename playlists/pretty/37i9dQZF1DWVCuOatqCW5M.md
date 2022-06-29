@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,226 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,263 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

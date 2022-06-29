@@ -1100,6 +1100,32 @@
     },
     {
       "album": {
+        "name": "Rubrica",
+        "url": "https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Rubrica",
+      "url": "https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D"
+    },
+    {
+      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
       },

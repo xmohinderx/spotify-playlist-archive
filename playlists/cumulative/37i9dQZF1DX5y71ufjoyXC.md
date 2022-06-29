@@ -2,7 +2,7 @@
 
 ### [Viral Latino](https://open.spotify.com/playlist/37i9dQZF1DX5y71ufjoyXC)
 
-> The Latin viral tracks you'll wanna listen to\. Cover: El Alfa
+> Las que no sabes que te sabes\. 🤳🏽
 
 98 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
 

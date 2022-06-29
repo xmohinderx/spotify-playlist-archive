@@ -1,12 +1,12 @@
 {
-  "description": "With A.L.I.S.O.N, Rosentwig, Memorex Memories and more",
-  "num_followers": 11575,
+  "description": "With J+1, Memorex Memories, Maximum Love and more",
+  "num_followers": 11579,
   "original_name": "The Midnight Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM3OTY4OSwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
+  "snapshot_id": "MTY1NjQ2NTg3OCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retrovailles",
-        "url": "https://open.spotify.com/album/4Rgfc8MBbEoJbwQj33qhuL"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/6N39tvXQfi0QI2GLWiEly3"
       },
       "artists": [
         {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Rosentwig",
-          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
+          "name": "J+1",
+          "url": "https://open.spotify.com/artist/66q9TLB3xM6Yn0kIFiftpd"
         }
       ],
-      "duration_ms": 235431,
-      "name": "Retrovailles",
-      "url": "https://open.spotify.com/track/6RbtxD93ImCSNeTGu6Ezjs"
+      "duration_ms": 150352,
+      "name": "Give 'Em the Love - Instrumental",
+      "url": "https://open.spotify.com/track/0JE1M1MPSpJWmbnp3yAEyB"
     },
     {
       "added_at": null,
@@ -63,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under the Shadow",
+        "url": "https://open.spotify.com/album/1vtmyhPksDiENFyHpJ3le3"
+      },
+      "artists": [
+        {
+          "name": "Maximum Love",
+          "url": "https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ"
+        }
+      ],
+      "duration_ms": 181141,
+      "name": "Now We'll Never Know",
+      "url": "https://open.spotify.com/track/639OQHOaNPrJx6mJPawx8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before the Night",
         "url": "https://open.spotify.com/album/491kGL57gDkFdIPNvEjCNd"
       },
@@ -79,18 +91,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Bay",
-        "url": "https://open.spotify.com/album/5epEOMFGZy4S1klixs7Mte"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/7bhxByrourjxDrEjwSOYyI"
       },
       "artists": [
         {
-          "name": "Euan Ellis",
-          "url": "https://open.spotify.com/artist/1uivqPv0xxpaqrB8Ero5xJ"
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Mellow Shrimp",
-      "url": "https://open.spotify.com/track/3Uiu7maDGKoKMn8tTHrgh1"
+      "duration_ms": 166588,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/76jvDw4SkNvBFJCXfsqSV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Releases",
+        "url": "https://open.spotify.com/album/6tmXqdo4FOgMPSBAddfIho"
+      },
+      "artists": [
+        {
+          "name": "Rosentwig",
+          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
+        }
+      ],
+      "duration_ms": 198848,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/0ePdiCdKUQLfu2yDOqHboL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Orbit Love",
+        "url": "https://open.spotify.com/album/59uVepuwdR3cM7KdLt0LoY"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Orbit Love",
+      "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stargazing/Take Off!",
+        "url": "https://open.spotify.com/album/6CKaztHvFLzB10pDrDzgHN"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Take Off!",
+      "url": "https://open.spotify.com/track/0ts6IZ6c83Kn55sKgsbDDi"
     },
     {
       "added_at": null,
@@ -111,34 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Switch",
-        "url": "https://open.spotify.com/album/31yG7p3fGz0rNnrVWtm5gy"
+        "name": "Synthwave, Vol. 5 (Retro Dreams)",
+        "url": "https://open.spotify.com/album/7bvzc53iIULMZfSJYPFkZ9"
       },
       "artists": [
         {
-          "name": "Sebastian Gampl",
-          "url": "https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy"
+          "name": "Efence",
+          "url": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
         }
       ],
-      "duration_ms": 284016,
-      "name": "Master Switch",
-      "url": "https://open.spotify.com/track/3ZQuNkNLkH3Slaobm5bHLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sunshine girl",
-        "url": "https://open.spotify.com/album/48OQ9aTFBsOIWZQB9rQvv2"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "always in my dreams",
-      "url": "https://open.spotify.com/track/2HajW1soufpCGOcKAhr7zK"
+      "duration_ms": 184248,
+      "name": "Spaceflight",
+      "url": "https://open.spotify.com/track/5gOaikZDBwl7Ft0w9V2BCf"
     },
     {
       "added_at": null,
@@ -175,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/6N39tvXQfi0QI2GLWiEly3"
+      },
+      "artists": [
+        {
+          "name": "J+1",
+          "url": "https://open.spotify.com/artist/66q9TLB3xM6Yn0kIFiftpd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/5cWhI0R66i77VyZuHs9dxW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00eave Lucide",
         "url": "https://open.spotify.com/album/0GQryILWlNCRo1ifSa55qs"
       },
@@ -207,24 +267,44 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/6N39tvXQfi0QI2GLWiEly3"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U"
       },
       "artists": [
         {
-          "name": "J+1",
-          "url": "https://open.spotify.com/artist/66q9TLB3xM6Yn0kIFiftpd"
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/4upoJ0awTJYCAIQbYlpMDl"
+      "duration_ms": 275454,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/3VKGfIp0JGNAm1j7rxCO5h"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3EY1VdaIi4g72B6qxei5e0"
+      },
+      "artists": [
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        }
+      ],
+      "duration_ms": 178292,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3oikTnU9ewu5sUUE7YlRD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9ternit\u00e9 Pt. 2",
+        "url": "https://open.spotify.com/album/2ZawllkUzaqxRnPhtUtG8b"
       },
       "artists": [
         {
@@ -232,9 +312,25 @@
           "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/5ZZWGV8NuWHmV4r09IEv7A"
+      "duration_ms": 252121,
+      "name": "Nightride (Revisited)",
+      "url": "https://open.spotify.com/track/7aAyeih2OelKpPkuLOesWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milky Way Express",
+        "url": "https://open.spotify.com/album/5Et4o0MOvjifA92obrENOL"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sunset Dew",
+      "url": "https://open.spotify.com/track/4OGavbk2qtr9k464TwfFK6"
     },
     {
       "added_at": null,
@@ -271,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "U.F.O",
-        "url": "https://open.spotify.com/album/4mihiQWu4kSysmzeHuQ8W0"
-      },
-      "artists": [
-        {
-          "name": "Euan Ellis",
-          "url": "https://open.spotify.com/artist/1uivqPv0xxpaqrB8Ero5xJ"
-        }
-      ],
-      "duration_ms": 271858,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/1k3Qn4UZW8cOIlIB3ghqCC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/0wXNcW8smS84e0MLM9GEbv"
       },
@@ -307,38 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/6U2FUoIegrcJidus6hEds8"
-      },
-      "artists": [
-        {
-          "name": "NINA",
-          "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
-        }
-      ],
-      "duration_ms": 251164,
-      "name": "Born To Live",
-      "url": "https://open.spotify.com/track/1ebNN5d432PvKV5VK0MD06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stargazing/Take Off!",
-        "url": "https://open.spotify.com/album/6CKaztHvFLzB10pDrDzgHN"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Take Off!",
-      "url": "https://open.spotify.com/track/0ts6IZ6c83Kn55sKgsbDDi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under the Shadow",
         "url": "https://open.spotify.com/album/1vtmyhPksDiENFyHpJ3le3"
       },
@@ -355,38 +403,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Sorrow",
-        "url": "https://open.spotify.com/album/1WvpFSgDXrdJJaWNjrRv9e"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/7bhxByrourjxDrEjwSOYyI"
       },
       "artists": [
         {
-          "name": "She's Not Real",
-          "url": "https://open.spotify.com/artist/4Eo9mkbYAVy2rvaN1g2VG8"
-        },
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2NO3nss5WoJFrL0i6xNMrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rivage",
+        "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        }
+      ],
+      "duration_ms": 244744,
+      "name": "Rivage",
+      "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zero Wave",
+        "url": "https://open.spotify.com/album/4wBlEFwojUgU1rld69M7r3"
+      },
+      "artists": [
+        {
+          "name": "admo",
+          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Paths Unknown",
+      "url": "https://open.spotify.com/track/49pO7fGezlShsXC3ZaMRkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space Station",
+        "url": "https://open.spotify.com/album/4P37rs1585bEw5G0OCO2tW"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 215050,
+      "name": "Space Echo",
+      "url": "https://open.spotify.com/track/4ZvFA5MAXguadTyyDcfgRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simulate",
+        "url": "https://open.spotify.com/album/3WqGtKcHWeiPcaunf48Q5l"
+      },
+      "artists": [
         {
           "name": "Emil Rottmayer",
           "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 256633,
-      "name": "The Way I Could - Emil Rottmayer Remix",
-      "url": "https://open.spotify.com/track/5Yky4q9TBmescPWPZaaF5u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skyway",
-        "url": "https://open.spotify.com/album/1psDC0EHtwsegTYAsfNcP0"
-      },
-      "artists": [
-        {
-          "name": "Cerulean",
-          "url": "https://open.spotify.com/artist/1MAZFvaZxkLUJ8xZ4CbcjO"
-        }
-      ],
-      "duration_ms": 223724,
-      "name": "Skyway",
-      "url": "https://open.spotify.com/track/6NLd7wuYEBrTEJkqPbjv4C"
+      "duration_ms": 230679,
+      "name": "Simulate",
+      "url": "https://open.spotify.com/track/1kThLSnrEqJEBDhCFvhJMG"
     },
     {
       "added_at": null,
@@ -407,38 +499,6 @@
       "duration_ms": 257341,
       "name": "Dust + Stars",
       "url": "https://open.spotify.com/track/3wtiqIopwLEsyE7i33ZhEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/1YbvjUhx31uz8L8Kq6O8Sd"
-      },
-      "artists": [
-        {
-          "name": "Von Kaiser",
-          "url": "https://open.spotify.com/artist/51nqW8CQPJuau5vYVCLnds"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/2io3gxWwBHf2rLneraNW07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9ternit\u00e9 Pt. 2",
-        "url": "https://open.spotify.com/album/2ZawllkUzaqxRnPhtUtG8b"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "Nightride (Revisited)",
-      "url": "https://open.spotify.com/track/7aAyeih2OelKpPkuLOesWX"
     },
     {
       "added_at": null,
@@ -527,18 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space Station",
-        "url": "https://open.spotify.com/album/4P37rs1585bEw5G0OCO2tW"
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/7sQMtl5XhwneVW3GukpCEv"
       },
       "artists": [
         {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 215050,
-      "name": "Space Echo",
-      "url": "https://open.spotify.com/track/4ZvFA5MAXguadTyyDcfgRY"
+      "duration_ms": 254812,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/2fWP9NTSomnW13tweZ0zbU"
     },
     {
       "added_at": null,
@@ -555,6 +615,22 @@
       "duration_ms": 206608,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6xw5MhprxsbnXINmOjEzuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flinch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vgxzkxIe3QucTQ4e5lejK"
+      },
+      "artists": [
+        {
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
+        }
+      ],
+      "duration_ms": 115057,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/2IgdCbSd3yIUc0dfO7BC8y"
     },
     {
       "added_at": null,
@@ -607,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamers, Pt. 1",
         "url": "https://open.spotify.com/album/6ezV6vZg6bQPrYmJe9a6bx"
       },
@@ -623,18 +719,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1x41IJp8zRQJK1kZ0K9UD9"
+        "name": "Synthwave, Vol. 5 (Retro Dreams)",
+        "url": "https://open.spotify.com/album/7bvzc53iIULMZfSJYPFkZ9"
       },
       "artists": [
         {
-          "name": "Arcis",
-          "url": "https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM"
+          "name": "Starcop",
+          "url": "https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh"
         }
       ],
-      "duration_ms": 225096,
-      "name": "Speed Boat Theme",
-      "url": "https://open.spotify.com/track/72S8xS3wRof6ZZx05u9FRB"
+      "duration_ms": 159384,
+      "name": "Takeoff",
+      "url": "https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondest Memories",
+        "url": "https://open.spotify.com/album/2ZRVwUD31DUMi2KqiqPGru"
+      },
+      "artists": [
+        {
+          "name": "Rosentwig",
+          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
+        }
+      ],
+      "duration_ms": 188218,
+      "name": "Press Start to Begin Your Journey",
+      "url": "https://open.spotify.com/track/2LxsujC7cjjnm4uX8pNcuF"
     },
     {
       "added_at": null,
@@ -671,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breeze Bay",
+        "url": "https://open.spotify.com/album/2NF9N1wRuvL5oOOmBYLUnf"
+      },
+      "artists": [
+        {
+          "name": "Hello Meteor",
+          "url": "https://open.spotify.com/artist/006ibfxHXj6ewIkihKcaS2"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Breeze Bay",
+      "url": "https://open.spotify.com/track/0zsYwY8ThFADNr77hPKh6g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgot About the Stars",
         "url": "https://open.spotify.com/album/5TlpsOMBNzCqpnja9IsgqP"
       },
@@ -699,142 +827,6 @@
       "duration_ms": 250000,
       "name": "Azur",
       "url": "https://open.spotify.com/track/7f8GsWEQdn6FGOPFQNWlS1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seaside",
-        "url": "https://open.spotify.com/album/3602WiHxTmOOxaIXWZpvNW"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/72NO7H8ru3MQH6hApOaCzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M O D E S",
-        "url": "https://open.spotify.com/album/6brZd6OBdCwiL9Vb8Mf30g"
-      },
-      "artists": [
-        {
-          "name": "Pong Man",
-          "url": "https://open.spotify.com/artist/2gDyiZ8Ee3nkBoZZcG6CFR"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/3tDqX5PVQNSEMhI2CIq3Wf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/2RDSpkl3p1zXHoixZkVZ6A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stratford Ct. | Iterum",
-        "url": "https://open.spotify.com/album/3fpiSLxyUVMc3HP0zpZktm"
-      },
-      "artists": [
-        {
-          "name": "De Lorra",
-          "url": "https://open.spotify.com/artist/5daHbk6DuuCUxXRoKWlf5f"
-        }
-      ],
-      "duration_ms": 232460,
-      "name": "Our First House Was A Basement",
-      "url": "https://open.spotify.com/track/1dMtMm7F5cRDx3DeAPysFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under the Shadow",
-        "url": "https://open.spotify.com/album/1vtmyhPksDiENFyHpJ3le3"
-      },
-      "artists": [
-        {
-          "name": "Maximum Love",
-          "url": "https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/66xHLqlEzRamQdzlUouQt0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solai",
-        "url": "https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf"
-      },
-      "artists": [
-        {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clean Eyes (The Midnight Remix)",
-        "url": "https://open.spotify.com/album/4oVPznrffwpCG11ft0yQaa"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 234444,
-      "name": "Clean Eyes - The Midnight Remix Instrumental",
-      "url": "https://open.spotify.com/track/6vZKhpqVDmOw7sjxq1oHGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retropolis",
-        "url": "https://open.spotify.com/album/4hcHIAWAHPOWJWVGTEGG32"
-      },
-      "artists": [
-        {
-          "name": "Absinth3",
-          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
-        },
-        {
-          "name": "Lisa Marie Perkins",
-          "url": "https://open.spotify.com/artist/0VvELCFnlmbHZWuY7KoYRF"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Firewall",
-      "url": "https://open.spotify.com/track/1U3AKD3FJ8xaeW69zjQVOW"
     }
   ],
   "unique_name": "The Midnight Radio",

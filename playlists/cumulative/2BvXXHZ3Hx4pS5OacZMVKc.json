@@ -1830,6 +1830,36 @@
     },
     {
       "album": {
+        "name": "No Way Back",
+        "url": "https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da"
+      },
+      "artists": [
+        {
+          "name": "SFRNG",
+          "url": "https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2"
+        },
+        {
+          "name": "MADZI",
+          "url": "https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K"
+        },
+        {
+          "name": "Just Isac",
+          "url": "https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV"
+        },
+        {
+          "name": "Custody",
+          "url": "https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159478,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8"
+    },
+    {
+      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/598fb20yfA52W2gQNoCUZK"
       },

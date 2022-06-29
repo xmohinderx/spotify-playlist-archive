@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "25 a\u00f1os",
       "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 297040,
       "name": "Al Alba",
       "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/4eexdcRvhWaRDDY2D3ka5P"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/7wTVJmebsW20R69dbg4Vp1"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 190973,
       "name": "Cuando Pedro Llego",
       "url": "https://open.spotify.com/track/25u27Co0SmY14Q4hKpOCEm"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 240653,
       "name": "El novio de la muerte",
       "url": "https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 196287,
       "name": "Este Tren",
       "url": "https://open.spotify.com/track/4zSpfYHyf6bN2jJVO0so03"
@@ -1299,10 +1299,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 363183,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/4qFoj2WZreh2HS1ypR3R6F"
+    },
+    {
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "album": {
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 202600,
       "name": "La Puerta Violeta",
       "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 195308,
       "name": "Morna (con Buika)",
       "url": "https://open.spotify.com/track/09g1iDhRyOiK9q8yyTnw93"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 178013,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/33ztBCzJNrfd4mb1Wo1Bza"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 268733,
       "name": "Nieve - En Directo",
       "url": "https://open.spotify.com/track/4KRNPEyIFRp7MH7ZSxP9k6"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 212880,
       "name": "No Dudaria",
       "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 228173,
       "name": "No S\u00e9 por Qu\u00e9 Te Quiero (with Victor Manuel)",
       "url": "https://open.spotify.com/track/5iG5xQWP5aFCsXGbbkGtTE"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 174159,
       "name": "Por qu\u00e9 te vas",
       "url": "https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 238760,
       "name": "Qu\u00e9 Bello Es Vivir",
       "url": "https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 220684,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 275873,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Tristeza de amor",
       "url": "https://open.spotify.com/track/4wCFuKKGHErY1mZIZEPaw9"
@@ -2897,7 +2915,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 152906,
       "name": "Yo no soy esa",
       "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"

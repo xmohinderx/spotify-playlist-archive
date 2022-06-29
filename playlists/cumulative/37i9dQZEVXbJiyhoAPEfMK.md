@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,075 songs - 2 day 8 hr 57 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,076 songs - 2 day 8 hr 59 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX) | 2:38 | 2022-02-06 | 2022-03-13 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/52L8AnUkPWl7FGDlZjNAnJ) | 2:38 | 2022-02-02 | 2022-02-07 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-23 | 2022-02-03 |
+| [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-06-28 |  |
 | [Draufgängerjunge](https://open.spotify.com/track/79bRx0B6z0TQJR2maFxBrk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Draufgängerjunge](https://open.spotify.com/album/3VOBglFSFzfzezAzuqCun6) | 3:08 | 2021-12-12 | 2021-12-17 |
 | [Drei Shotzzz](https://open.spotify.com/track/34vzWmZJX1lUxe933mTtNc) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Kianush](https://open.spotify.com/artist/0t9IVyFGzH79wIFfhEXddQ) | [Drei Shotzzz](https://open.spotify.com/album/732wQWXjBm8DcZTKHfWtT0) | 2:34 | 2021-08-22 | 2021-08-23 |
 | [DRILLA](https://open.spotify.com/track/4P9lNdUhVPhwfVxZlgjWlL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DRILLA](https://open.spotify.com/album/2919KjlfEClwiI2aPZryV8) | 2:01 | 2021-06-03 | 2021-06-18 |
@@ -1026,7 +1027,7 @@
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-07 | 2021-11-08 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 | 2022-04-29 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-03 |  |
-| [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-05-20 |  |
+| [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-05-20 | 2022-06-29 |
 | [White Christmas](https://open.spotify.com/track/370oYn3s5EKu7ziUpMQQTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3MPHjHNBRLa857BxmQUrZE) | 2:23 | 2021-12-24 | 2021-12-27 |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-20 | 2021-12-29 |
 | [White Lies](https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [White Lies](https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a) | 3:03 | 2021-03-27\* | 2021-06-03 |

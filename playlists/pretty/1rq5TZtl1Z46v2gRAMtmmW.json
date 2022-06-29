@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 26664,
+  "num_followers": 26666,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA0NiwxMzljNjU2MDgyODlhMjFhMTFmZmU0ZjIzNDY2YjJiNDhjMTQ5Y2Ex",
+  "snapshot_id": "MzA1MCxiZTI3NDYzZDE3NTljNjFmOWQ2YzU5YjJkMTc2MGU2NDYzZDViYTM2",
   "tracks": [
+    {
+      "added_at": "2022-06-28 18:31:24",
+      "album": {
+        "name": "Meli (II)",
+        "url": "https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 417431,
+      "name": "Meli (II)",
+      "url": "https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep"
+    },
     {
       "added_at": "2022-06-24 11:17:33",
       "album": {
@@ -695,22 +711,6 @@
       "duration_ms": 303940,
       "name": "Life In A Mind",
       "url": "https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2"
-    },
-    {
-      "added_at": "2021-10-15 12:35:37",
-      "album": {
-        "name": "All Hours",
-        "url": "https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN"
-      },
-      "artists": [
-        {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        }
-      ],
-      "duration_ms": 366152,
-      "name": "Last Before Lights",
-      "url": "https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

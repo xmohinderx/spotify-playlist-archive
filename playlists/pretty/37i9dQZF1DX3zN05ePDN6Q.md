@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: SonoTWS, pumapjl
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,733 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,763 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 9 | [Wow](https://open.spotify.com/track/2hu0E6joL19oSY2oDoefIf) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Wow](https://open.spotify.com/album/3EYbCFXgO9FuAFlQEEhNvQ) | 3:18 |
 | 10 | [Auxílio Emergencial do Rap](https://open.spotify.com/track/2tbnYUZqSQPSuTn2Zd0arn) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Auxílio Emergencial do Rap](https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ) | 3:40 |
 | 11 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
-| 12 | [O Futuro Não Espera](https://open.spotify.com/track/39pbHL9d3asniQtUnVmX6p) | [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX) | [O Futuro Não Espera](https://open.spotify.com/album/4PoOjE0T4rWZuZqkXWvHdj) | 4:16 |
+| 12 | [O Futuro Não Espera](https://open.spotify.com/track/39pbHL9d3asniQtUnVmX6p) | [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh), [Dj Samu AKA Suguiura](https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX) | [O Futuro Não Espera](https://open.spotify.com/album/4PoOjE0T4rWZuZqkXWvHdj) | 4:16 |
 | 13 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 |
 | 14 | [Boombapkilla](https://open.spotify.com/track/5Unv2dcwiRiE1iEgx2vWWI) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Boombapkilla](https://open.spotify.com/album/7KgPRTz85zkd8tHUDn157K) | 3:24 |
 | 15 | [Boombap Gold](https://open.spotify.com/track/60FUbcsCoJB5GyYsFkvpZm) | [Tom Função RHK](https://open.spotify.com/artist/2fgh0Ep0QideX9dftR5sYg), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Jah Dartanhan](https://open.spotify.com/artist/73GeX7KjKwiPI3Qq3YWlsL), [Rodrigo Nonato](https://open.spotify.com/artist/74jwd4pXMikoNWTyWcli9n) | [Boombap Gold](https://open.spotify.com/album/2Ddati0V6fWvpe3E9kUqy4) | 6:26 |

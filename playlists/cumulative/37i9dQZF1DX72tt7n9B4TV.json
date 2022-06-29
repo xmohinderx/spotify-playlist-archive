@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 168253,
       "name": "Anything",
       "url": "https://open.spotify.com/track/3nPIBBOzOVEya8ZX3GjKN1"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 165358,
       "name": "Chokecherry",
       "url": "https://open.spotify.com/track/4euKMp2hs8pLkWPpUxjPVb"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 167365,
       "name": "cotton candy",
       "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 197493,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 168333,
       "name": "Fireman & Dancer",
       "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 193565,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/23unqAilZgKoYIcmqCLlUL"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 159880,
       "name": "I Want to Believe",
       "url": "https://open.spotify.com/track/65GhsC6Dg96hLgXUr615li"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 218054,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/6WoyghnMAvDDRbZfFbpwEo"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/6IOL5tW3yRKKKpPNVCVmzU"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 127306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/3sBkphRoIfQEgQiUxu1b7v"
@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z"
+    },
+    {
+      "album": {
         "name": "My Town (feat. Joe Talbot)",
         "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
       },
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 197283,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6egPp2V3UVRJlPI8GtD9bF"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/3WjjE6ptnpi5aD5rJbwQI3"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 216000,
       "name": "Still Running (5K) (feat.DJ Lethal)",
       "url": "https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 138963,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/2hYIxXhvyT8HTwBkDH4C72"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 181978,
       "name": "Summer Never Dies",
       "url": "https://open.spotify.com/track/7ppyG40pUDh915fSp4qqBo"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 183361,
       "name": "The Eulogy of You and Me",
       "url": "https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 131302,
       "name": "WHAT YOU GONNA DO???",
       "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 194978,
       "name": "Yellowbelly",
       "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 151265,
       "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
       "url": "https://open.spotify.com/track/6DvNarTGaQFkWpYM7CtqbC"

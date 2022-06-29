@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 286160,
       "name": "Big In Japan - Original",
       "url": "https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 327306,
       "name": "Compulsion",
       "url": "https://open.spotify.com/track/5ZkLm20XMu4r1KCYaCgx61"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 228200,
       "name": "Dear Prudence",
       "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 239400,
       "name": "Driven Out",
       "url": "https://open.spotify.com/track/0lT3Q3GFZQCzyiwFEam4TG"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 239546,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/3HbA5x1laxQ2y3dvfFD22R"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/60ubljabcQKHeMpjiypBcH"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 354573,
       "name": "Indigo Eyes",
       "url": "https://open.spotify.com/track/5GALSojbb6yxDKCGVa2HVS"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 253226,
       "name": "Just Around The Corner - European Edit",
       "url": "https://open.spotify.com/track/7IDM8csQeBILlNI2W1KAHb"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 645000,
       "name": "Marquee Moon - 2003 Remaster",
       "url": "https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao"
@@ -1755,7 +1755,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 197800,
       "name": "Some Girls Are Bigger Than Others - 2011 Remaster",
       "url": "https://open.spotify.com/track/3GpiJvVSxvd5KpYqzYOUuV"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 217453,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/6ovrxrZnAvJRbUJ5Sscoqk"
@@ -1870,6 +1870,24 @@
     },
     {
       "album": {
+        "name": "Bauhaus - 1979-1983 Volume One",
+        "url": "https://open.spotify.com/album/0Zw1hVbG92bW2oO6b3S2SL"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132040,
+      "name": "Telegram Sam",
+      "url": "https://open.spotify.com/track/0Px7zSgVEpBWbUvckWPxGZ"
+    },
+    {
+      "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/4tSyLb9l1xuqGBxjv1jiLn"
       },
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 295497,
       "name": "The Unforgettable Fire",
       "url": "https://open.spotify.com/track/6mG5MkSuFFtxQv9qpeNZYT"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 163053,
       "name": "This Charming Man - Single Version; 2008 Remaster",
       "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 304466,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6NHgiZFCnfDzDhOD02GcnR"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 305000,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/7pjxc1vwQqo3N1k9hEAD3T"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "When Your Heart Is Weak",
       "url": "https://open.spotify.com/track/3OiMyoS1QCu8ozdDEj1WWD"

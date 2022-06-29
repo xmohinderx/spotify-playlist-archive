@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Wu\-Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,459 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,587 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 6 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 |
 | 7 | [DEEMED ! \- b\-side](https://open.spotify.com/track/6gtV2v5PmYeC3onBwwWe4t) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DEEMED !](https://open.spotify.com/album/5PhMMFDiG6c3Z9V4ubJPkO) | 3:20 |
 | 8 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 |
-| 9 | [My Funeral Song](https://open.spotify.com/track/12SUDYZTRoVGsUWcz1tuPk) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI), [Loveless](https://open.spotify.com/artist/0fLTCqslJayr6ZdsGU50Gq) | [Good Die Young](https://open.spotify.com/album/2RuqF2YyZ5gDfOZ5kmU7J5) | 2:37 |
+| 9 | [My Funeral Song](https://open.spotify.com/track/12SUDYZTRoVGsUWcz1tuPk) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Good Die Young](https://open.spotify.com/album/2RuqF2YyZ5gDfOZ5kmU7J5) | 2:37 |
 | 10 | [Souvenir](https://open.spotify.com/track/0KBU3NUksxrPTUnMlxM5Ud) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Souvenir](https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr) | 3:22 |
 | 11 | [Drama King](https://open.spotify.com/track/2SfMutDpjeHZgNXDmqObIF) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Drama King](https://open.spotify.com/album/3h6ArRpIWkEcJhRwW7K0GH) | 3:16 |
 | 12 | [Want](https://open.spotify.com/track/5dV0bQOt8hKTvH6DB8iMMD) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [Want](https://open.spotify.com/album/0DqJZWy5fm2U7s2uDVpmri) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare e in copertina c'\u00e8 chiello",
+  "description": "canzoni da gridare e in copertina c'\u00e8 chiello \ud83d\udda4",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -791,6 +791,28 @@
       "duration_ms": 158360,
       "name": "doremifa",
       "url": "https://open.spotify.com/track/4FcOzExJG7aBWcpiuc4WAO"
+    },
+    {
+      "album": {
+        "name": "dove non posso guardare",
+        "url": "https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        },
+        {
+          "name": "Bdope",
+          "url": "https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188148,
+      "name": "dove non posso guardare",
+      "url": "https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw"
     },
     {
       "album": {
@@ -2018,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
+    },
+    {
+      "album": {
         "name": "NUOVE DUNK",
         "url": "https://open.spotify.com/album/7yZ7IFD3aFXR2dNYrJ6wxy"
       },
@@ -2175,7 +2215,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 153978,
       "name": "party",
       "url": "https://open.spotify.com/track/0hX5PHXFZUlgDdo3275riV"
@@ -2843,7 +2883,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 139157,
       "name": "strappami la pelle a morsi",
       "url": "https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9"

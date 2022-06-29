@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Smoothboi Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,643 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,709 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Shitty Gay Song About You](https://open.spotify.com/track/3zIlUCqCQhqCQFJIveJSfE) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [A Shitty Gay Song About You](https://open.spotify.com/album/11UXrGWMLG7F2TOl7rUzDB) | 1:55 |
+| 1 | [A Shitty Gay Song About You](https://open.spotify.com/track/3zIlUCqCQhqCQFJIveJSfE) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/11UXrGWMLG7F2TOl7rUzDB) | 1:55 |
 | 2 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 |
 | 3 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 |
 | 4 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 |

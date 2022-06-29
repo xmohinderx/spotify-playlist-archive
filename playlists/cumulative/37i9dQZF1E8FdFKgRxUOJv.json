@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, The Teskey Brothers, Vampire Weekend, John Smith and more",
+  "description": "With John Mayer, The Teskey Brothers, John Smith, The Brook & The Bluff and more",
   "name": "Carry Me Away Radio",
   "published_playlist_ids": [
     "3X9pREhPT1sgh0QMNyY8S7"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 239413,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/2lwq6yjAjrdDEvP6awCXOz"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 158013,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/7K36drJq6lInkW6Kkojucp"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 204386,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/0zusELIYbMkikKEV96Grx5"
@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 186826,
       "name": "Better When We're Falling Apart",
       "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 183442,
       "name": "Burned By The Love - James Carter Remix",
       "url": "https://open.spotify.com/track/1Bs4rVL38Ca9zGnaBklM7W"
@@ -3817,7 +3817,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 209293,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
@@ -4849,7 +4849,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -6265,7 +6265,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 230103,
       "name": "Hey Lady",
       "url": "https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE"
@@ -6481,7 +6481,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 213520,
       "name": "Holding on to You",
       "url": "https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a"
@@ -10115,7 +10115,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 150426,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0nBHtZO60Pc3fzRjrCE5mW"
@@ -10381,7 +10381,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 242547,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5F2by22y2FgIV6uzuiFupn"
@@ -10453,7 +10453,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 216475,
       "name": "Mary, You're Wrong",
       "url": "https://open.spotify.com/track/1lQvuOZnZGIlJrNbKh5jTI"
@@ -10998,6 +10998,24 @@
     },
     {
       "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "album": {
         "name": "The Search for Everything",
         "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
@@ -11099,7 +11117,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 209760,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/79FWUNlVtSJ67iR9MK4OBH"
@@ -11153,7 +11171,7 @@
       ],
       "date_added": "2020-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 186946,
       "name": "No Depression",
       "url": "https://open.spotify.com/track/5xYK0S57hp6bEdJlMo7ozl"
@@ -12847,7 +12865,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 229200,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/3HGY45Nv9h1fz3302hW0Mx"
@@ -12955,7 +12973,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 252980,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7GOWALXAX9YVwJyYxrpVd2"
@@ -15849,7 +15867,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 230346,
       "name": "The Way That You Feel",
       "url": "https://open.spotify.com/track/0OSlULhuQ6rOk2eUYASVRe"
@@ -16101,7 +16119,7 @@
       ],
       "date_added": "2020-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 311320,
       "name": "This Life - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
@@ -16447,7 +16465,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 223120,
       "name": "Trading Places",
       "url": "https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg"

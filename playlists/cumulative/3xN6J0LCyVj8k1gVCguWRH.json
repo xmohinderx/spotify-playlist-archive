@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 241500,
       "name": "A Couple Runaways",
       "url": "https://open.spotify.com/track/57LTzLyTcGFctMw2mS6ylb"
@@ -4881,7 +4881,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 190250,
       "name": "City",
       "url": "https://open.spotify.com/track/6gznUijFc3iockW5KwABtj"
@@ -7074,6 +7074,24 @@
     },
     {
       "album": {
+        "name": "dumb luck",
+        "url": "https://open.spotify.com/album/0axYxX8wPmKO2ZA947JhvM"
+      },
+      "artists": [
+        {
+          "name": "HERDD",
+          "url": "https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116863,
+      "name": "dumb luck - Acoustic",
+      "url": "https://open.spotify.com/track/7fRf0rdo1NSLyZ2QGhtmfm"
+    },
+    {
+      "album": {
         "name": "D\u00e9tente",
         "url": "https://open.spotify.com/album/0zlMPSiBz0y5OvsoiAvUvK"
       },
@@ -9115,7 +9133,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 194000,
       "name": "Freud's Disciples",
       "url": "https://open.spotify.com/track/0DRfvjOcemPmOnR8CxBj6I"
@@ -9519,7 +9537,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 238874,
       "name": "gets me down",
       "url": "https://open.spotify.com/track/5849tNiWebnwX3zJfk86da"
@@ -21075,7 +21093,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 286360,
       "name": "Saving Grace",
       "url": "https://open.spotify.com/track/470vHK4KQthoKtDU6caZux"
@@ -22443,7 +22461,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 252921,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/5t7tS4mNmzSKVUjoEsvJUa"

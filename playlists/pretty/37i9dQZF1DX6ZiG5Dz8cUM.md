@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the tone for your date night with some cozy and romantic jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,532 likes - 106 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,607 likes - 106 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

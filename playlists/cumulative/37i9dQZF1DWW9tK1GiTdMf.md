@@ -2,9 +2,9 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare e in copertina c'è chiello
+> canzoni da gridare e in copertina c'è chiello 🖤
 
-167 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+169 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-26 |  |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-05-06 | 2022-05-20 |
 | [doremifa](https://open.spotify.com/track/4FcOzExJG7aBWcpiuc4WAO) | [oli?](https://open.spotify.com/artist/6SeRF4cyQkvX3fAxfWctf5) | [doremifa](https://open.spotify.com/album/0ysLF8nhmuINZzLHThcnmv) | 2:38 | 2022-05-06 |  |
+| [dove non posso guardare](https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [dove non posso guardare](https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1) | 3:08 | 2022-06-28 |  |
 | [Dove vai?](https://open.spotify.com/track/0e3n1N8wVe7FeGA5v0TNTJ) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Dove vai?](https://open.spotify.com/album/3A45opoUFoMYXON2FGneUD) | 2:56 | 2022-06-23 |  |
 | [Dreams Never Die](https://open.spotify.com/track/0XtW8Je8gK2IlOGPktMG68) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [Dreams Never Die](https://open.spotify.com/album/1r16oHQBVwwoef7lf8UYSQ) | 3:30 | 2022-06-23 |  |
 | [Estranei](https://open.spotify.com/track/2aaYebc5xvUxaXUXhxkHFJ) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Estranei](https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH) | 2:49 | 2022-05-06 | 2022-06-03 |
@@ -109,6 +110,7 @@
 | [Non fa x me](https://open.spotify.com/track/1YCED21RSrmC6dSdY6oa5D) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Non fa x me](https://open.spotify.com/album/1iQnCUr1teJNKZmVGH2iKm) | 2:21 | 2022-05-26 | 2022-06-28 |
 | [Non mi fa più effetto](https://open.spotify.com/track/6pThYLxwNWJqHwxDLaBoWw) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Non mi fa più effetto](https://open.spotify.com/album/76CYB1ZDOUawBhqQxlatiZ) | 3:04 | 2022-06-23 |  |
 | [Non voglio guai](https://open.spotify.com/track/2quAWiyJVoeV3Ots9gg2WZ) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Non voglio guai](https://open.spotify.com/album/3YX01kpzAqvgq2Qw8NFBXW) | 2:24 | 2022-05-06 |  |
+| [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-28 |  |
 | [NUOVE DUNK](https://open.spotify.com/track/54DQFPbhqJfJApFyEQe9CO) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [NUOVE DUNK](https://open.spotify.com/album/7yZ7IFD3aFXR2dNYrJ6wxy) | 2:48 | 2022-05-19 | 2022-06-28 |
 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 | 2022-05-06 |  |
 | [Odio tutti i ricordi](https://open.spotify.com/track/37hLqUeZ8C0Ln7DO0s6RF2) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Odio tutti i ricordi](https://open.spotify.com/album/7h2M3bLTIx0NF7hjK2Gvf3) | 2:52 | 2022-05-06 | 2022-06-10 |
@@ -116,7 +118,7 @@
 | [OH NO](https://open.spotify.com/track/4wUHUOYICleu6CNNqGDsWp) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [OH NO](https://open.spotify.com/album/0x9jN0c54VqoiAPSkCbPMt) | 3:17 | 2022-05-06 | 2022-05-13 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 | 2022-06-27 |  |
-| [party](https://open.spotify.com/track/0hX5PHXFZUlgDdo3275riV) | [SATURNO](https://open.spotify.com/artist/6bp6WFXZIwaQTCyYcIwnSL), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [party](https://open.spotify.com/album/4korbCXYCK2jdAUykA7Q2r) | 2:33 | 2022-06-09 |  |
+| [party](https://open.spotify.com/track/0hX5PHXFZUlgDdo3275riV) | [SATURNO](https://open.spotify.com/artist/6bp6WFXZIwaQTCyYcIwnSL), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [party](https://open.spotify.com/album/4korbCXYCK2jdAUykA7Q2r) | 2:33 | 2022-06-09 | 2022-06-29 |
 | [PETTING](https://open.spotify.com/track/7uUdvQni4C3rj7DOduNAuQ) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [PETTING](https://open.spotify.com/album/1ZWMERMXrRI2C2d6gPnqD2) | 2:36 | 2022-05-06 | 2022-05-13 |
 | [POETA](https://open.spotify.com/track/51H0PcK5YZBgGxJrrFRpr4) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [FALLIRÒ](https://open.spotify.com/album/0fI4IMCqKyYblhpZABJahV) | 3:03 | 2022-05-06 | 2022-06-03 |
 | [Poi Torna](https://open.spotify.com/track/7E6bV3CCLdC2ssEhWiY0RR) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Poi Torna](https://open.spotify.com/album/7d8uGbVS24UGmKZPBH92x1) | 2:22 | 2022-05-06 | 2022-06-17 |
@@ -150,7 +152,7 @@
 | [STANOTTE NON VALE](https://open.spotify.com/track/0gFpmD4kGVPRWj76Kmd16r) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [STANOTTE NON VALE](https://open.spotify.com/album/2HoyZGdypJQ1R5bYOwDd7s) | 2:35 | 2022-06-16 | 2022-06-28 |
 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 | 2022-06-16 |  |
 | [STOP ALL'ANSIA](https://open.spotify.com/track/6n1iwxVdNHnKPGZ73lfVnF) | [DIEL](https://open.spotify.com/artist/2HN0Mo4CzsT9puxAGdTZrX) | [STOP ALL'ANSIA](https://open.spotify.com/album/1mtdm8gxrfQo6K7IKXmav7) | 2:24 | 2022-05-06 |  |
-| [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2022-05-06 |  |
+| [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2022-05-06 | 2022-06-29 |
 | [Stronza\(te\)](https://open.spotify.com/track/226PtCoGUoPChxzaczVNNM) | [Geremia](https://open.spotify.com/artist/2RVL2mt0yVYoTutwu3MNYx), [Mach 1](https://open.spotify.com/artist/4nsO5c7kIKsI1zdtnKJkAR), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [Stronza\(te\)](https://open.spotify.com/album/65XNiXVqx8dvXCk4WbPxfR) | 2:37 | 2022-06-09 |  |
 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-05-06 | 2022-05-13 |
 | [Su Di Te](https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Su Di Te](https://open.spotify.com/album/7pryBWFxwQZB6nm05G4rM2) | 3:08 | 2022-06-27 |  |

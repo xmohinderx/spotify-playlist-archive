@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [A Ciegas](https://open.spotify.com/track/4X6hxDP2F92RZgQxkxcucf) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [A Ciegas](https://open.spotify.com/album/6LVOAFTZf3CG2omI3RFnO4) | 2:56 | 2022-04-20 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2022-04-20 |  |
-| [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2022-04-20 |  |
+| [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2022-04-20 |  |
 | [Ansiedad](https://open.spotify.com/track/7Brmw2DGWUBYKglAHtkkbS) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Ansiedad](https://open.spotify.com/album/1CiyhiIvV7TMc4mDevtvSK) | 3:51 | 2022-04-20 |  |
 | [Así Quererte](https://open.spotify.com/track/6R0loMKQKrNks1IJUoBVxj) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Así Quererte](https://open.spotify.com/album/79eykvhKVzBuco5sbnwvRF) | 3:27 | 2022-04-20 |  |
 | [Atardecer](https://open.spotify.com/track/45XKflPDG1zNJsils53sPl) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [D E S I E R T O \- El Día](https://open.spotify.com/album/19Kkq8c60PXIfD7ByFmLK2) | 4:22 | 2022-04-20 |  |

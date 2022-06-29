@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: saudade, Lorena Chaves
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,925 likes - 89 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,942 likes - 89 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [o caminho que há em mim](https://open.spotify.com/track/2HEu3ht1zRZTxQF6y26fmd) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Lorena Chaves](https://open.spotify.com/artist/6xYIkRmqYk6u2mDSfetr31) | [o caminho que há em mim](https://open.spotify.com/album/4XfDE3WGVWVmALbfNWkfoi) | 2:54 |
-| 2 | [Phoda](https://open.spotify.com/track/4DSbYPau95Mg4OyqXZMM1G) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 3:48 |
+| 2 | [Phoda](https://open.spotify.com/track/4DSbYPau95Mg4OyqXZMM1G) | [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [Será Só Aos Ares](https://open.spotify.com/album/4rDkMr3eOwRcfeXDTojMTq) | 3:48 |
 | 3 | [Soledad](https://open.spotify.com/track/1y4HEthKJISXod18LjIR3F) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Soledad](https://open.spotify.com/album/49VnxelSl3bPhaGrzVPFVX) | 3:24 |
 | 4 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 |
 | 5 | [O que devia ser](https://open.spotify.com/track/1Job3TZZQ6vsF2DopblZ5t) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [O outro lado do rio](https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C) | 3:25 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 10 | [Aqueles Homens](https://open.spotify.com/track/546dLtXOOsyvEN6jBJSqYz) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Aqueles Homens](https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH) | 4:43 |
 | 11 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 |
 | 12 | [Pare](https://open.spotify.com/track/12aSXMAvxEOGocRJWKhOXP) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Pare](https://open.spotify.com/album/21P7sYIcWF89cfjJYDcxo3) | 2:32 |
-| 13 | [Alice \(Só Que Sem as Maravilhas\)](https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Alice \(Só Que Sem as Maravilhas\)](https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg) | 2:31 |
+| 13 | [alice \(só que sem as maravilhas\)](https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [alice \(só que sem as maravilhas\)](https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg) | 2:31 |
 | 14 | [eu tenho medo de me machucar](https://open.spotify.com/track/1MuWD2fVnNjLpDoWmQqfWe) | [Garbo](https://open.spotify.com/artist/0atJgsk6SYsVlg7TcMctTG) | [não faça o que eu faço](https://open.spotify.com/album/1POHK3zqVt06qXsF5HPfz1) | 2:08 |
 | 15 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 |
 | 16 | [Última Vez](https://open.spotify.com/track/4215lJTemWhVIkb47BMTwZ) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Última Vez](https://open.spotify.com/album/1IYWQ7VreE5z8uWCgbH59A) | 5:22 |

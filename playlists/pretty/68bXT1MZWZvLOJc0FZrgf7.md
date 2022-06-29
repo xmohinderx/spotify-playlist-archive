@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Party Favor &amp; Lil Gnaur
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,877 likes - 163 songs - 8 hr 33 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,875 likes - 163 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 | 2 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 |
-| 3 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 |
-| 4 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
-| 5 | [Spirits Pt\. 2](https://open.spotify.com/track/190YW121PGFkPLcYr4G7u1) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Spirits Pt\. 2](https://open.spotify.com/album/4pc9u4WMU87tV4b0D0vkaU) | 2:01 |
-| 6 | [Hate Me](https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hate Me](https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA) | 2:34 |
-| 7 | [Til U Hate Me](https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Til U Hate Me](https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt) | 3:19 |
+| 3 | [Til U Hate Me](https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Til U Hate Me](https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt) | 3:19 |
+| 4 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 |
+| 5 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
+| 6 | [Spirits Pt\. 2](https://open.spotify.com/track/190YW121PGFkPLcYr4G7u1) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Spirits Pt\. 2](https://open.spotify.com/album/4pc9u4WMU87tV4b0D0vkaU) | 2:01 |
+| 7 | [Hate Me](https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hate Me](https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA) | 2:34 |
 | 8 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 |
 | 9 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 |
 | 10 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 162 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 |
 | 163 | [Pieces](https://open.spotify.com/track/1N7fBgBvOdaaTEXGDWPwPi) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Pieces](https://open.spotify.com/album/7MDXOV9d7ynT8DbM8LZuTd) | 2:33 |
 
-Snapshot ID: `MzMwNiw3ZGMyYTI4MjBmYzc4ZDNhNTU5Zjc2NGY2YWIwZWY2OTQwNjFmZGM0`
+Snapshot ID: `MzMwNyxmM2E5ZGY5MjQ3N2U3YjJhYTc1NjljZDE2NDY4YWEyYmE0NjkwM2Vk`

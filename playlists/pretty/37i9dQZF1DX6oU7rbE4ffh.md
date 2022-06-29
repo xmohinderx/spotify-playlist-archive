@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,588 likes - 108 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,688 likes - 108 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 107 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 |
 | 108 | [Roses](https://open.spotify.com/track/7wU6EBFCXEYad8ok9ivBBY) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Roses](https://open.spotify.com/album/7F9msRYmj8CHWFYtUyXTfq) | 4:01 |
 
-Snapshot ID: `MTY1NjA2ODMyMCwwMDAwMDA0MDAwMDAwMTgxOTU1ZDJiNTMwMDAwMDE3MDM5NGI5OWIz`
+Snapshot ID: `MTY1NjQzMTAxOCwwMDAwMDA0MTAwMDAwMTgxYWFmYjgzZTcwMDAwMDE4MWFhZmI2MjA2`

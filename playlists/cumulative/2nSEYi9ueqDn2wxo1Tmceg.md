@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-72 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+73 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Saw You](https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO) | 3:05 | 2022-06-17 |  |
 | [I'm Better](https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [I'm Better](https://open.spotify.com/album/1sYWSth05IlhsuOSR9SmmE) | 2:41 | 2022-06-08 |  |
 | [I'm Yours Baby](https://open.spotify.com/track/1MDnq89tyEoVGtwSnASJin) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Sincere](https://open.spotify.com/album/2wfDR4Efo4EpwyMAR40sk3) | 4:34 | 2022-06-08 | 2022-06-17 |
+| [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 | 2022-06-28 |  |
 | [Isn't It Lovely](https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:25 | 2022-06-22 |  |
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 | 2022-06-23 |
 | [Lay Down Your Roses](https://open.spotify.com/track/62TP94nFhtUIkXu2lhMKXM) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Two Beauties](https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ) | 3:05 | 2022-06-08 | 2022-06-23 |

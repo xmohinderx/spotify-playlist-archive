@@ -360,6 +360,28 @@
     },
     {
       "album": {
+        "name": "ElMarocchino",
+        "url": "https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2"
+      },
+      "artists": [
+        {
+          "name": "Ali Ssamid",
+          "url": "https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G"
+        },
+        {
+          "name": "Tiiwtiiw",
+          "url": "https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Campe\u00f3nes",
+      "url": "https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ"
       },

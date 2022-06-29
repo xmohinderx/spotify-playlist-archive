@@ -492,6 +492,28 @@
     },
     {
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/2t2mIPzXkT9DI41TJf2VOF"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Tim Savey",
+          "url": "https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3VPrQOtCuEs1CpTOfqAqhY"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/4qN5IswckA7VnTVhgN2sf0"
       },

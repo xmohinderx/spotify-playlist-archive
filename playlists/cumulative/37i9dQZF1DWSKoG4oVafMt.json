@@ -1572,6 +1572,28 @@
     },
     {
       "album": {
+        "name": "Fallin Star",
+        "url": "https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        },
+        {
+          "name": "Ilam",
+          "url": "https://open.spotify.com/artist/5pB85Z8kuXW8shdMReACvc"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Fallin Star",
+      "url": "https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO"
+    },
+    {
+      "album": {
         "name": "Faraar",
         "url": "https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF"
       },
@@ -2049,6 +2071,28 @@
       "duration_ms": 196097,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot"
+    },
+    {
+      "album": {
+        "name": "Hon Ni Dena",
+        "url": "https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU"
+      },
+      "artists": [
+        {
+          "name": "Raas",
+          "url": "https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu"
+        },
+        {
+          "name": "Semwal",
+          "url": "https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Hon Ni Dena",
+      "url": "https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv"
     },
     {
       "album": {
@@ -3202,6 +3246,32 @@
     },
     {
       "album": {
+        "name": "Lakeer",
+        "url": "https://open.spotify.com/album/27msVdpdZxZ0AAw0CLEWcN"
+      },
+      "artists": [
+        {
+          "name": "Raavi Gill",
+          "url": "https://open.spotify.com/artist/6Sm1K8bZDB62cHlJWrhzI5"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239699,
+      "name": "Lakeer",
+      "url": "https://open.spotify.com/track/6Ca66dys8T7LWkKg6eY5JV"
+    },
+    {
+      "album": {
         "name": "Lakh Lakh Vadhaiyaan",
         "url": "https://open.spotify.com/album/2Xdgv8cnKsvblGmv1h4mv5"
       },
@@ -3811,6 +3881,24 @@
       "duration_ms": 225956,
       "name": "Marjaawaan (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/6nDFhdxDZBbwEDbsJYVdqS"
+    },
+    {
+      "album": {
+        "name": "Marke",
+        "url": "https://open.spotify.com/album/1J14jTWGhUoCR2mVCzYgAT"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166833,
+      "name": "Marke",
+      "url": "https://open.spotify.com/track/4VvkQpAtDGihsQMBJCbZL9"
     },
     {
       "album": {
@@ -5271,6 +5359,24 @@
       "duration_ms": 206495,
       "name": "Ranga Wargi",
       "url": "https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60"
+    },
+    {
+      "album": {
+        "name": "Rangreza (from Lover)",
+        "url": "https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Rangreza (from Lover)",
+      "url": "https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT"
     },
     {
       "album": {
@@ -7505,7 +7611,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 150036,
       "name": "Zaruri Nai",
       "url": "https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l"

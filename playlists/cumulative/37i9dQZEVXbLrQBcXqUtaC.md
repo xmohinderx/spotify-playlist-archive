@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-541 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
+542 songs - 1 day 7 hr 44 min - [published](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Manike Mage Hithe](https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E) | [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c) | [Manike Mage Hithe](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs) | 2:42 | 2021-10-21 | 2021-11-06 |
 | [Marou 3aliha Athnen Ya Yaba](https://open.spotify.com/track/4BxujrssMCsl1iq23jdNMZ) | [Koax France](https://open.spotify.com/artist/4vwRxtmPZS3aewDYmaGuI8) | [Shelat, Vol\. 11](https://open.spotify.com/album/6Tfas58647eH8VqwW6xvnx) | 3:00 | 2021-08-07 | 2021-08-29 |
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2021-05-18 | 2021-07-31 |
-| [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-27 |  |
+| [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-06-27 | 2022-06-29 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-06-03 |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-02-27 | 2022-05-05 |
 | [Matrouhsh](https://open.spotify.com/track/0Uqv9WsK3zpN6YmjHZCvfv) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Matrouhsh](https://open.spotify.com/album/2f5x6mpKNLRD13lAX86BCf) | 5:59 | 2022-06-19 | 2022-06-26 |
@@ -402,6 +402,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-04-15 | 2021-04-16 |
 | [SpongeBob SquarePants Theme Song](https://open.spotify.com/track/3w0pmgENjeJJiue9tFSmev) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [I Successi Di Spongebob](https://open.spotify.com/album/2lC3fScRnbshE0MOv7iPXW) | 0:44 | 2022-04-14 | 2022-04-18 |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2022-04-21 | 2022-04-25 |
+| [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2022-06-28 |  |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2022-01-09 | 2022-01-12 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |

@@ -2294,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "\u6d77",
+        "url": "https://open.spotify.com/album/63G6P8TO1nh0OFuhnFlqHB"
+      },
+      "artists": [
+        {
+          "name": "Alexmalism",
+          "url": "https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "\u6d77",
+      "url": "https://open.spotify.com/track/6WRmnuCmMkhNsNh4YMFtH4"
+    },
+    {
+      "album": {
         "name": "\u6e21\u6f97",
         "url": "https://open.spotify.com/album/7djuyiU90mqDbVeqg6WXnE"
       },

@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177558,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ"
+    },
+    {
+      "album": {
         "name": "Hate U/Miss U",
         "url": "https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO"
       },

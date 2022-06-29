@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=eu6MKYO0RiyHFPeWDwx\_OQ">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=pKD746lTRMiRSGig8I8UMA">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,094 likes - 79 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,430 likes - 79 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 78 | [Want](https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Want](https://open.spotify.com/album/46ZtJ3n0Z1Ux2BhcaGqfKQ) | 2:59 |
 | 79 | [Matenase \(feat\. Mandla, Matenase Wa Di Yobisi & Jelly Babie\)](https://open.spotify.com/track/2Vj1cKVT6XVQPWoD6ghZ61) | [Vusi Ma R5](https://open.spotify.com/artist/5Qz8cKu03cNqHkazo1kzjn), [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6), [Jelly Babie](https://open.spotify.com/artist/1W6ErVtCubk26F3vVMxm7N), [Mandla.](https://open.spotify.com/artist/3DGUPwjchzESx7FjCvJdGO), [Matenase Wa Di Yobisi](https://open.spotify.com/artist/3UrTUAxRZVERzuEQSTrUPs) | [Matenase \(feat\. Mandla, Matenase Wa Di Yobisi & Jelly Babie\)](https://open.spotify.com/album/68wxNNditf9gp7hStm7T4G) | 4:27 |
 
-Snapshot ID: `MTY1NjAyMTU0MCwwMDAwMDM0ZjAwMDAwMTgxOTI5MzVjZmEwMDAwMDE4MTkyMzdmNjFm`
+Snapshot ID: `MTY1NjQxODM0NiwwMDAwMDM1MDAwMDAwMTgxYWEzYTI3NjgwMDAwMDE4MTkyMzdmNjFm`

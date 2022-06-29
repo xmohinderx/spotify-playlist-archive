@@ -1,13 +1,45 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78846,
+  "num_followers": 78844,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzQ1MSxjMTEwNmU5YzQ0ODYwODc1ZWE5NmEwMmJmMDExODVkOGY1YmIwYmM1",
+  "snapshot_id": "MzQ1OSw3MDQ1Zjc4NzcwZjAyYzVhYzZiZmI2YTRkNjQ4MTRjYzRmZTg1NTlj",
   "tracks": [
+    {
+      "added_at": "2022-06-28 10:13:15",
+      "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Stephen Malkmus",
+          "url": "https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8"
+        },
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        },
+        {
+          "name": "Axel Concato",
+          "url": "https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V"
+        }
+      ],
+      "duration_ms": 200994,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt"
+    },
     {
       "added_at": "2022-06-22 17:09:37",
       "album": {
