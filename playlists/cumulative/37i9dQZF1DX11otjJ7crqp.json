@@ -6362,6 +6362,24 @@
     },
     {
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/3zjqNHKk40AamDV8ncQAOm"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211567,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt"
+    },
+    {
+      "album": {
         "name": "golden years",
         "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
       },

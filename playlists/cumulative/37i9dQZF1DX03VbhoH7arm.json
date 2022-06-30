@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: PEDRO SAMPAIO, Dadju, Anitta, Mc Pedrinho, Nicky Jam",
   "name": "Hot Hits Brasil",
   "published_playlist_ids": [
     "1KdstGq2CxRxvGbquOUHHu"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 115846,
       "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
       "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 148577,
       "name": "Faking Love (feat. Saweetie)",
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
@@ -1253,6 +1253,28 @@
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+    },
+    {
+      "album": {
+        "name": "TROPA",
+        "url": "https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "TROPA",
+      "url": "https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7"
     },
     {
       "album": {

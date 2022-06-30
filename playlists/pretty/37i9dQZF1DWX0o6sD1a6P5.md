@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,573 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,228 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 47 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 |
 | 48 | [Fall](https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Fall](https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO) | 3:06 |
 | 49 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 |
-| 50 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
+| 50 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
 
 Snapshot ID: `MTY1NjAyMTY2MCwwMDAwMDEyYjAwMDAwMTgxOTI5NTMxY2IwMDAwMDE4MTgyMWJkMGI3`

@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-123 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+125 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Fi Dubai \(EXPO 2020\)](https://open.spotify.com/track/5HzNKQdSO2u6TlWe6mI47D) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Fi Dubai \(EXPO 2020\)](https://open.spotify.com/album/34QXb0dzqutjVJl1vZmS7i) | 5:30 | 2021-12-23 | 2022-03-04 |
 | [Gheyabi](https://open.spotify.com/track/3D930igQ3knkLavFFPyijR) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Maashar Al Oshag](https://open.spotify.com/album/1nPZkWEX3bXgzfAlynB4LQ) | 3:59 | 2022-02-14 |  |
 | [Haki Jareh](https://open.spotify.com/track/2Ae93SYvUUS7J4u4h0mnHy) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Haki Jareh](https://open.spotify.com/album/0xIPVNzOXEp9GhpvKR2qBx) | 4:56 | 2021-12-23 | 2022-03-12 |
+| [Hala Bek](https://open.spotify.com/track/2gNIpFX1xqfGKwUNPSHMXJ) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Hala Bek](https://open.spotify.com/album/5jx0W4QtPWYZrJOKCaq76F) | 4:05 | 2022-06-29 |  |
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2021-12-23 | 2022-02-11 |
 | [Hatha Wagtah](https://open.spotify.com/track/4Eqz3io18FtQNfdGnsDyS7) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Hatha Wagtah](https://open.spotify.com/album/2DWKzmPb4aGU3VzL5e1gta) | 3:23 | 2021-12-23 | 2022-02-18 |
 | [Heb](https://open.spotify.com/track/53Xns0CpcycCnu1emVMUjI) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [Heb](https://open.spotify.com/album/3v854wIhjld4VPwh1G5nvB) | 4:09 | 2022-02-17 |  |
@@ -108,7 +109,7 @@
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 |  |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-01 |  |
 | [Ya Hazzah](https://open.spotify.com/track/4tV8tnkKmJCrwcahK0wmPw) | [Hamad Alameri](https://open.spotify.com/artist/7jAccRfAodnAyF3D9kQ4lo) | [Ya Hazzah](https://open.spotify.com/album/0ZImrERkWcbMs5F1G96DJA) | 4:32 | 2022-02-17 |  |
-| [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2021-12-30 |  |
+| [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2021-12-30 | 2022-06-30 |
 | [Ya Selwaty](https://open.spotify.com/track/2rTU2YX4CMvAPD42NRlTfl) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ya Selwaty](https://open.spotify.com/album/0TenrztyPkVzQyyHISjxX7) | 5:30 | 2021-12-23 | 2022-03-18 |
 | [Yazeeen Haljayah](https://open.spotify.com/track/638UtaoSNov7SoULDflxSS) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Yazeeen Haljayah](https://open.spotify.com/album/3jwRxyTVKWvxl3Z5vz8KBV) | 4:14 | 2021-12-23 | 2022-03-12 |
 | [Yemkn Kheera](https://open.spotify.com/track/0Djyg3c83BhOexIq9J7gk1) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Yemkn Kheera](https://open.spotify.com/album/4T0PhQBdKUjd5hnWFR2gki) | 3:02 | 2022-03-11 |  |
@@ -122,6 +123,7 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 |  |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 |  |
+| [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 |  |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |

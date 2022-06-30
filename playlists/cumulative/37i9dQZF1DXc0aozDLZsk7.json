@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Afterneath",
+        "url": "https://open.spotify.com/album/52P3BQLPRAMpjXe8t4Dllp"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242893,
+      "name": "Afterneath",
+      "url": "https://open.spotify.com/track/7eCjljRTwyqDBT52ygUUO5"
+    },
+    {
+      "album": {
         "name": "All I Am (Acoustic)",
         "url": "https://open.spotify.com/album/4BwO4zPKbGHLk1vsBEcXS8"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 206947,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 217683,
       "name": "I Can See The Change",
       "url": "https://open.spotify.com/track/4TfPtTbJtk5diKYuubTP9e"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 238777,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1qrwyosPepnypQHHh0Qm78"
@@ -1542,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/5470dPg8Z5zWC3XtLAkHEW"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/0agVqdVtJx6paNYSplVvpq"
+    },
+    {
+      "album": {
         "name": "Rocky Trail",
         "url": "https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j"
       },
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
@@ -1575,7 +1611,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
@@ -1915,7 +1951,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "To Begin Again",
       "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"

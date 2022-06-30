@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 64 | [Bacon Fat \- Remastered](https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:04 |
 | 65 | [Whiskey And Wimmen'](https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:37 |
 
-Snapshot ID: `MTY1NTIyMzkwNywwMDAwMDAwNTAwMDAwMTgxNjMwODczZTYwMDAwMDE4MGJjOTczYjVh`
+Snapshot ID: `MTY1NjUxMDk0NSwwMDAwMDAwNjAwMDAwMTgxYWZiZjE4YTYwMDAwMDE4MWFmYmVmNjU3`

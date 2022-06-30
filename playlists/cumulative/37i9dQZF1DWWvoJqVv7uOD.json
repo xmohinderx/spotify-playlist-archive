@@ -3076,6 +3076,24 @@
     },
     {
       "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },

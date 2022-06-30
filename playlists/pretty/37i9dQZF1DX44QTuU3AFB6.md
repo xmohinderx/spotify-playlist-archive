@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,290 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,317 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Y Si Se Quiere Ir](https://open.spotify.com/track/1Hk2EC42zMwfwlwxphnJYq) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Y Si Se Quiere Ir](https://open.spotify.com/album/7vCS9ZhKXbCJoBvBiygi1o) | 3:22 |
-| 40 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 |
-| 41 | [El Doctor](https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:55 |
-| 42 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
-| 43 | [Borracho de Amor](https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE) | 3:24 |
-| 44 | [Mi Gusto Es](https://open.spotify.com/track/4Wj4cg6ZA7JM7ZDd2C0X1Y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida](https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc) | 3:04 |
-| 45 | [Mi Estilo De Vida](https://open.spotify.com/track/7rmeGB7eg8aGo2SKy2e0KD) | [Banda La Chacaloza De Jerez Zacatecas](https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Mi Estilo De Vida](https://open.spotify.com/album/767W42QiQ8MpZ3lR6Dp7jY) | 2:15 |
-| 46 | [Voy a Echarme Otra \- En Vivo](https://open.spotify.com/track/7zcvxMv4jSn3UVtzJ1pFC0) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 4:03 |
-| 47 | [El Pisto Es Primero](https://open.spotify.com/track/4pCsXQlFfuSeIJ2Jkw6NZm) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Pisto Es Primero](https://open.spotify.com/album/0244ASX0qoAzv5pj5rTa1X) | 2:36 |
-| 48 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
-| 49 | [El Amor de Tu Vida](https://open.spotify.com/track/2hqvvHxbWNHBnknhTSKaac) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor de Tu Vida](https://open.spotify.com/album/0ahvhANHpRdCsBjpYkkfpw) | 2:43 |
-| 50 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
+| 39 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 |
+| 40 | [Tragos Amargos](https://open.spotify.com/track/4hAYrgHQjkR4PIdhqVNtu4) | [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [20 Exitos Historia Musical](https://open.spotify.com/album/2eoTGUtEMsUoLaTpriSHZq) | 3:09 |
+| 41 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 |
+| 42 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 |
+| 43 | [Borracho Y Escandaloso](https://open.spotify.com/track/3EVZlVUcz9D95pJMQMVVxE) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1nx5YLGnHUKnIk7BRxgbr0) | 2:42 |
+| 44 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/4AooK5Hh8OZkZ1XjvVGuTY) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Por Ti](https://open.spotify.com/album/0oCg05h5zGhBR6G1iF6VsZ) | 3:06 |
+| 45 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/42nzuWIFAANNnqjatmL8ec) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Directo Al Corazón](https://open.spotify.com/album/38ONGjzZ2BMi61I8V1CGbR) | 3:09 |
+| 46 | [Para Qué Lastimarme](https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:55 |
+| 47 | [Ya Lo Superé](https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Lo Superé](https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp) | 3:24 |
+| 48 | [Voy a Echarme Otra \- En Vivo](https://open.spotify.com/track/7zcvxMv4jSn3UVtzJ1pFC0) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 4:03 |
+| 49 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 |
+| 50 | [Quién Es Usted](https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:33 |
 
-Snapshot ID: `MTY1NjQ2NTIzOCwwMDAwMDAwMDUwODEyMWFhZjVhZDA2NTk3MzJmZDMyNDcyOWYwMzE4`
+Snapshot ID: `MTY1NjU1MTU4MywwMDAwMDAwMGIwMTY0Y2Y3MWFjMDZkMDk2NDdiNWZlNzM3NWFiMmU5`

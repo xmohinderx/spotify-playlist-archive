@@ -1,12 +1,12 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Caamp",
-  "num_followers": 155535,
+  "num_followers": 155544,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzI2MCwwMDAwMDI5MDAwMDAwMTgxOTNkZWM4ZTgwMDAwMDE4MTkyM2VjYTk5",
+  "snapshot_id": "MTY1NjU0Mzc2OCwwMDAwMDI5MjAwMDAwMTgxYjFiM2VmYjQwMDAwMDE4MTkyM2VjYTk5",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 197265,
       "name": "Until You - Acoustic",
       "url": "https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X"
+    },
+    {
+      "added_at": "2022-06-29 15:38:25",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 243641,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -103,6 +119,22 @@
       "duration_ms": 244903,
       "name": "domino",
       "url": "https://open.spotify.com/track/5GGfyQ7i1kx71eGmUg5Z3J"
+    },
+    {
+      "added_at": "2022-06-29 23:02:48",
+      "album": {
+        "name": "Armour",
+        "url": "https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "Armour",
+      "url": "https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1383,22 +1415,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 230500,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Tupperware",
-        "url": "https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 186838,
-      "name": "Tupperware",
-      "url": "https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf"
     },
     {
       "added_at": "2022-06-24 04:01:00",

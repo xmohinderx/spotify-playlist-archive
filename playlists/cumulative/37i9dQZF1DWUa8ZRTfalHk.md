@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Charlie Puth, Jung Kook
 
-1,220 songs - 2 day 15 hr 6 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,221 songs - 2 day 15 hr 10 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 | 2020-10-13\* | 2020-10-30 |
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2020-10-23 | 2020-10-30 |
 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 | 2022-05-06 | 2022-05-20 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-04-08 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-04-08 | 2022-06-30 |
 | [All Eyes On Me \- Song Only](https://open.spotify.com/track/47emsK4Cj4dMqctYq18U03) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [All Eyes On Me \(Song Only\)](https://open.spotify.com/album/18Y1q1NM3YQT5pEjbHiy5T) | 3:32 | 2021-07-04 | 2021-08-28 |
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2021-05-08 | 2021-06-19 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-13 | 2022-01-15 |
@@ -577,6 +577,7 @@
 | [Keep On Moving \(with NEZ feat\. Theophilus London\)](https://open.spotify.com/track/4S2GeYH3n62svWelQOYw3T) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Keep On Moving \(with NEZ feat\. Theophilus London\)](https://open.spotify.com/album/3D64CfImqie7cZUChp3AL0) | 3:08 | 2021-07-04 | 2021-07-17 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-10-16 | 2021-12-04 |
 | [Kids Again](https://open.spotify.com/track/1ABS9lKaZ1uXkXCqr9zFO7) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 3:27 | 2020-10-30 | 2021-01-08 |
+| [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-06-29 |  |
 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2020-10-30 | 2020-12-04 |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 |  |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-02-18 | 2022-05-20 |

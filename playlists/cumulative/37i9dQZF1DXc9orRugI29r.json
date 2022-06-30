@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "name": "HOT NOW: Ingratax, Banda MS - Un Chingazo",
+  "name": "HOT NOW: Paulo Londra - Nublado",
   "published_playlist_ids": [
     "5mEHUPoU1CDbg5pwZcKW2e"
   ],
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 109120,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
@@ -1149,6 +1149,24 @@
       "duration_ms": 209891,
       "name": "Noche en LA",
       "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
+    },
+    {
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "album": {

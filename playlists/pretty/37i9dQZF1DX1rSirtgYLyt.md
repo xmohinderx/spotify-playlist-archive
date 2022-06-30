@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 ### [Blues Covers](https://open.spotify.com/playlist/37i9dQZF1DX1rSirtgYLyt)
 
-> The best cover versions from the world of Blues.
+> The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 69 | [I Got The Same Old Blues](https://open.spotify.com/track/1PmPNn8lpamGGWbgVyFrX1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:02 |
 | 70 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
 
-Snapshot ID: `MTY1NjA4MjY5NiwwMDAwMDAwMjAwMDAwMTgxOTYzODg4MjUwMDAwMDE4MTk2Mzc4ZjAy`
+Snapshot ID: `MTY1NjUxMTAyNiwwMDAwMDAwMzAwMDAwMTgxYWZjMDU1MTkwMDAwMDE4MTk2Mzc4ZjAy`

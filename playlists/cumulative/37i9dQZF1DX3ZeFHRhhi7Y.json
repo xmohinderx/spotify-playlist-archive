@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: IVE(\uc544\uc774\ube0c)) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: NAYEON(\ub098\uc5f0)) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "published_playlist_ids": [
     "1QV1rd0Jl2Uv3EQB0qMIsR"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 147400,
       "name": "aenergy",
       "url": "https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 185796,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt"
@@ -676,6 +676,44 @@
     },
     {
       "album": {
+        "name": "Blue & Black",
+        "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
+      },
+      "artists": [
+        {
+          "name": "HYOJUNG",
+          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
+        },
+        {
+          "name": "ARIN (OH MY GIRL)",
+          "url": "https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF"
+        },
+        {
+          "name": "JANGWONYOUNG (IVE)",
+          "url": "https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw"
+        },
+        {
+          "name": "LEESEO (IVE)",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        },
+        {
+          "name": "SERIM (CRAVITY)",
+          "url": "https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO"
+        },
+        {
+          "name": "JUNGMO (CRAVITY)",
+          "url": "https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Blue & Black",
+      "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
+    },
+    {
+      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2"
       },
@@ -723,7 +761,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "BOM BI DI BOM",
       "url": "https://open.spotify.com/track/5EnOA6tQsyPY7PCdS4A7O1"
@@ -763,7 +801,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
@@ -1665,7 +1703,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 158994,
       "name": "Family (feat. JAMIE, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/3c1QGMu5S3KdlMDwfRXhfj"
@@ -2371,7 +2409,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 181263,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3"
@@ -2595,7 +2633,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 202253,
       "name": "It Wasn't Me (feat. CHOI YOOJUNG (Weki Meki))",
       "url": "https://open.spotify.com/track/1dbpOaHN2Jkrl98BqqKMBs"
@@ -2895,7 +2933,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 220626,
       "name": "Life is Beautiful",
       "url": "https://open.spotify.com/track/7ddidn8lqsvjGCvwOFMXQZ"
@@ -3263,7 +3301,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/1sHEEu15zcW0654NkXGyaZ"
@@ -3517,7 +3555,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 187466,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
@@ -3611,7 +3649,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 202760,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL"
@@ -3933,7 +3971,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 212266,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL"
@@ -4041,7 +4079,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 208223,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi"
@@ -4085,7 +4123,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 203699,
       "name": "Pass me through",
       "url": "https://open.spotify.com/track/4sRHML9bBuDqNG0ws0Dthu"
@@ -4375,7 +4413,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 207613,
       "name": "Promise U",
       "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
@@ -4487,7 +4525,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 197789,
       "name": "Really",
       "url": "https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16"
@@ -4877,7 +4915,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 194173,
       "name": "Serious",
       "url": "https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f"
@@ -5101,7 +5139,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz"
@@ -5127,6 +5165,24 @@
       "duration_ms": 181906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2R718kNELkYEXFzv8yDOTM"
+    },
+    {
+      "album": {
+        "name": "from our Memento Box",
+        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Stay This Way",
+      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
       "album": {
@@ -5185,7 +5241,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 199026,
       "name": "Summer or Summer",
       "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
@@ -5225,7 +5281,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 224466,
       "name": "Summertime (Feat. Keem Hyoeun)",
       "url": "https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9"
@@ -5279,7 +5335,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 155333,
       "name": "Swan",
       "url": "https://open.spotify.com/track/2BhHpVlqUoUOmo0Ph0G18X"
@@ -5337,7 +5393,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Talk & Talk",
       "url": "https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu"
@@ -5469,7 +5525,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 185218,
       "name": "The Feels - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
@@ -6011,7 +6067,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 199946,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
@@ -6091,7 +6147,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 209074,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj"
@@ -6271,7 +6327,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 206920,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ"

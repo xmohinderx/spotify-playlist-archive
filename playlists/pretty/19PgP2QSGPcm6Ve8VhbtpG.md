@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 > 1980s hits and retro favorites by Whitney Houston, Eurythmics, AC/DC &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,480,716 likes - 114 songs - 7 hr 50 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,480,601 likes - 114 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 69 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:57 |
 | 70 | [Maneater](https://open.spotify.com/track/3138bmzQx3T63klLycjwT0) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 4:32 |
 | 71 | [Goody Two Shoes](https://open.spotify.com/track/760xFXFj5Fksa3jawSCn5g) | [Adam Ant](https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G) | [Friend Or Foe](https://open.spotify.com/album/2GAvEhQNAUpsx1DF2SfyNA) | 3:29 |
-| 72 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
+| 72 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 73 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
 | 74 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |
 | 75 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 107 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
 | 108 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 109 | [Things Can Only Get Better](https://open.spotify.com/track/1Lm5JXlRt90S8dzk1ZqzmA) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 3:54 |
-| 110 | [Crimson and Clover](https://open.spotify.com/track/4do0Z0rHdFUV3RSMxMQsdq) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:17 |
+| 110 | [Crimson and Clover](https://open.spotify.com/track/4do0Z0rHdFUV3RSMxMQsdq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:17 |
 | 111 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
 | 112 | [Sign Your Name](https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Terence Trent D'Arby](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 4:36 |
 | 113 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 |

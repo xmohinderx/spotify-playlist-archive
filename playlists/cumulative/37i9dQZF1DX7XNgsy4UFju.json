@@ -2176,6 +2176,24 @@
     },
     {
       "album": {
+        "name": "Every Morning Is a Chance",
+        "url": "https://open.spotify.com/album/6Lci2FAoJVZPjrG446SZVD"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194388,
+      "name": "Every Morning Is a Chance",
+      "url": "https://open.spotify.com/track/6rlIF5MZKiTl8YVD6aOX9R"
+    },
+    {
+      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf"
       },

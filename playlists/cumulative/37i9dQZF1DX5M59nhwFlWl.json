@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 239546,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/0sqE6XPi9VAaWl5NxDyMQK"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 196866,
       "name": "Everglade",
       "url": "https://open.spotify.com/track/1nWccj9gU34OmDYL63pTFS"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 231400,
       "name": "Father Of Mine",
       "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 166760,
       "name": "I Come From The Water",
       "url": "https://open.spotify.com/track/0eaioDQLdGKlYMmj73I89R"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Secret Samadhi",
+        "url": "https://open.spotify.com/album/42x2xMRsc2eZm4m3I6fhL4"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299266,
+      "name": "Lakini's Juice",
+      "url": "https://open.spotify.com/track/3vcybGRC3eU6btnEWuFWII"
+    },
+    {
+      "album": {
         "name": "Kerosene Hat",
         "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 215000,
       "name": "Molly (Sixteen Candles)",
       "url": "https://open.spotify.com/track/6nvixw7XmqBSuYVpgCqvPY"
@@ -728,6 +746,42 @@
     },
     {
       "album": {
+        "name": "I Am An Elastic Firecracker",
+        "url": "https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5"
+      },
+      "artists": [
+        {
+          "name": "Tripping Daisy",
+          "url": "https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
+    },
+    {
+      "album": {
+        "name": "Rubberneck",
+        "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
+      },
+      "artists": [
+        {
+          "name": "Toadies",
+          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308333,
+      "name": "Possum Kingdom",
+      "url": "https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s"
+    },
+    {
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -739,7 +793,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
@@ -847,10 +901,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159333,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/1kX7Z3FnesBjWC6H4qqmGx"
+    },
+    {
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "album": {
@@ -883,7 +955,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 211040,
       "name": "Super Bon Bon",
       "url": "https://open.spotify.com/track/1njobA8NxcOtPIbLdrip0T"
@@ -901,7 +973,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
@@ -1016,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Wax Ecstatic",
+        "url": "https://open.spotify.com/album/66c7nl612haIOxKKiTCimr"
+      },
+      "artists": [
+        {
+          "name": "Sponge",
+          "url": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Wax Ecstatic (To Sell Angelina)",
+      "url": "https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m"
+    },
+    {
+      "album": {
         "name": "Title Of Record",
         "url": "https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j"
       },
@@ -1045,7 +1135,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 206773,
       "name": "Would?",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"

@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Hala Bek",
+        "url": "https://open.spotify.com/album/5jx0W4QtPWYZrJOKCaq76F"
+      },
+      "artists": [
+        {
+          "name": "Borhan",
+          "url": "https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245721,
+      "name": "Hala Bek",
+      "url": "https://open.spotify.com/track/2gNIpFX1xqfGKwUNPSHMXJ"
+    },
+    {
+      "album": {
         "name": "Hatet Yadak",
         "url": "https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7"
       },
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 243867,
       "name": "Ya Hob",
       "url": "https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto"
@@ -2105,6 +2123,24 @@
       "duration_ms": 274155,
       "name": "\u0632\u064a\u0646\u0643 \u062f\u0645\u0627\u0631",
       "url": "https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0644\u0649 \u0634\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz"
+      },
+      "artists": [
+        {
+          "name": "Lamia Jamel",
+          "url": "https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0639\u0644\u0649 \u0634\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv"
     },
     {
       "album": {

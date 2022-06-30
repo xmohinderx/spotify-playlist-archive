@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-905 songs - 2 day 2 hr 25 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+906 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-08-17 | 2021-08-18 |
 | [Frida](https://open.spotify.com/track/2DnfYBSG1cEcEYieldgp2X) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:11 | 2021-03-27\* | 2022-02-27 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-04 |
-| [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-06-27 |  |
+| [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-06-27 | 2022-06-30 |
+| [Front 2 Back](https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Front 2 Back](https://open.spotify.com/album/3jiI4TNKBr9U6GXAECxWAR) | 2:20 | 2022-06-29 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-14 | 2022-01-22 |
 | [Fulenn](https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X) | [Alvan](https://open.spotify.com/artist/25OslGicPT7wGn5Ovf4Uwx), [Ahez](https://open.spotify.com/artist/08RIw4S0rUXGlhFPBmMeko) | [Magma](https://open.spotify.com/album/0t31E2aU5XmnUErQWKsy1n) | 2:46 | 2022-05-16 | 2022-05-19 |
 | [Fyfyy](https://open.spotify.com/track/2Cls50cqawAityFCvMEPzQ) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Fyfyy](https://open.spotify.com/album/3ZqvTTy63aCyRcjJpk9twQ) | 2:23 | 2021-11-28 | 2021-12-06 |

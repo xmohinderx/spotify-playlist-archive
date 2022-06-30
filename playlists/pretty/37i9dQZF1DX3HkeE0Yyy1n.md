@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 
 > Looking back at the greatest metal released in 2016.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 121 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 121 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 60 | [Angels of Steel](https://open.spotify.com/track/4ddvJpiNKJMfcse5H0DHxF) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [The Empire](https://open.spotify.com/album/05reBwSBGOg6hmsl9zm2y8) | 2:16 |
 | 61 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/1TtdHZ4KvN56LCt9evBUaL) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/72heCequbHTS0GfiskoxAR) | 6:49 |
 | 62 | [New Horizons](https://open.spotify.com/track/7HYwfDGMwZO8p1x7j6Pu7e) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/album/2FW3gHF0ajwPrU4DqqNYJU) | 4:51 |
-| 63 | [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 6:26 |
+| 63 | [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 0:29 |
 | 64 | [Hold Your Children Close and Pray for Oblivion](https://open.spotify.com/track/075jSmV95NQJxazrAEVda1) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [The Whole of the Law](https://open.spotify.com/album/42Hqedxo0WHJ2K2gZxI1zP) | 3:35 |
 | 65 | [Abrogation](https://open.spotify.com/track/6aZJfQtdoOAHNsL1pDnyx2) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [Shrines of Paralysis](https://open.spotify.com/album/3F61xA8pQADnq1EHfM5vv8) | 5:50 |
 | 66 | [A Jhator Ascension](https://open.spotify.com/track/70qd8TrefFCL8j3UgfN4Ck) | [Khonsu](https://open.spotify.com/artist/1RGjVd2AAPAXjVZWYkmf7p) | [The Xun Protectorate](https://open.spotify.com/album/71ABCZvkjCjZJaQHnVxNOa) | 5:15 |

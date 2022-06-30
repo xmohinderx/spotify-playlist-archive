@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6"
+    },
+    {
+      "album": {
         "name": "A Certain Smile",
         "url": "https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm"
       },
@@ -167,24 +203,6 @@
       "duration_ms": 229262,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG"
-    },
-    {
-      "album": {
-        "name": "As She Rises",
-        "url": "https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID"
-      },
-      "artists": [
-        {
-          "name": "Dimitri St\u00f6ckl",
-          "url": "https://open.spotify.com/artist/2wTGVnmoIgz8S6DfjerKx1"
-        }
-      ],
-      "date_added": "2021-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143551,
-      "name": "As She Rises",
-      "url": "https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6"
     },
     {
       "album": {
@@ -1168,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Lola and Kirby",
+        "url": "https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247362,
+      "name": "Just A Piece of My Heart",
+      "url": "https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d"
+    },
+    {
+      "album": {
         "name": "A Foggy Day",
         "url": "https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1"
       },
@@ -1287,10 +1323,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 267679,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6itam0ElHeMmal7zEFVn63"
+    },
+    {
+      "album": {
+        "name": "Moonlight Serenade",
+        "url": "https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG"
+      },
+      "artists": [
+        {
+          "name": "Nineve Wilson",
+          "url": "https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210365,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45"
     },
     {
       "album": {
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 170880,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/4XCMZFYHKBq5Tyt2MUKtDZ"
@@ -1489,6 +1543,24 @@
       "duration_ms": 182253,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH"
+    },
+    {
+      "album": {
+        "name": "On the Sunny Side of the Street",
+        "url": "https://open.spotify.com/album/3a3kKQAfeBVFkosQpWBRfo"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147935,
+      "name": "On the Sunny Side of the Street",
+      "url": "https://open.spotify.com/track/4D3Yd7spmD1lJiXkCYAuDU"
     },
     {
       "album": {
@@ -1690,21 +1762,21 @@
     },
     {
       "album": {
-        "name": "Somewhere Over The Rainbow",
-        "url": "https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F"
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8"
       },
       "artists": [
         {
-          "name": "Dan Hawkins",
-          "url": "https://open.spotify.com/artist/6Zrz9KdRDQ9LIfe0Cti6Lx"
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
         }
       ],
-      "date_added": "2021-12-14",
+      "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182301,
-      "name": "Somewhere Over The Rainbow",
-      "url": "https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul"
+      "duration_ms": 198933,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f"
     },
     {
       "album": {
@@ -1813,6 +1885,24 @@
       "duration_ms": 303750,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf"
+    },
+    {
+      "album": {
+        "name": "Stars Fell On Alabama",
+        "url": "https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261432,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
     },
     {
       "album": {

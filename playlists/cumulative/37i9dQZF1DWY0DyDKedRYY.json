@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Doechii is our new RADAR Artist to Watch.",
+  "description": "John Summit is our new RADAR Artist to Watch.",
   "name": "RADAR US",
   "published_playlist_ids": [
     "7r3PgEftWnphzJcJvjtq6L"
@@ -2103,6 +2103,24 @@
       "duration_ms": 195000,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU"
+    },
+    {
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "album": {

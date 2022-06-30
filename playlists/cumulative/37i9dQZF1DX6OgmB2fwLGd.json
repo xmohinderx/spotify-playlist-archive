@@ -4682,6 +4682,24 @@
     },
     {
       "album": {
+        "name": "Rich Minion",
+        "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Rich Minion",
+      "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
+    },
+    {
+      "album": {
         "name": "Rocc Climbing (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7"
       },

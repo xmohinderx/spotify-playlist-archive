@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492 likes - 190 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 190 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dangerous directing \- Live](https://open.spotify.com/track/6KKC9uyiJcVdBb9O6b72kR) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:40 |
 | 2 | [Coincidence \- Live](https://open.spotify.com/track/3eK8ho13qMPMOwPxtfZaeG) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 4:09 |
 | 3 | [Get up \- Live](https://open.spotify.com/track/5xzCXQDz3qdkmpNWXsXpG3) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr), [Bae In Hyuk](https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 4:01 |
-| 4 | [Why \- Live](https://open.spotify.com/track/2Dj4Hm8dUEVoeoqq2MtYAz) | [Baby VOX](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo), [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:56 |
+| 4 | [Why \- Live](https://open.spotify.com/track/2Dj4Hm8dUEVoeoqq2MtYAz) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo), [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:56 |
 | 5 | [Shake \- Live](https://open.spotify.com/track/70u1cegwxHgpubSGoee101) | [Chae Yeon](https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:47 |
 | 6 | [Sea Of Love \- Live](https://open.spotify.com/track/5s2I6q0yekgBl53qgxpRCL) | [Kim Seongyun](https://open.spotify.com/artist/5myugmwFYzUl8aDRBlZqiT), [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk), [정지찬](https://open.spotify.com/artist/3MCbTv2MF1FSJHegOQ5VIs) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 3:49 |
 | 7 | [I am a fool \- Live](https://open.spotify.com/track/0zeS2lqr4cmOrcSo9zJK2X) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:03 |

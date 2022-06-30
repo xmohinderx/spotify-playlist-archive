@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> Doechii is our new RADAR Artist to Watch.
+> John Summit is our new RADAR Artist to Watch.
 
-228 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+229 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Kids Who Stole the World](https://open.spotify.com/track/5HFFcMP80Eq1zflKDWm4Kh) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole the World](https://open.spotify.com/album/4OZqamFVv7ji1sgxdcNDVr) | 3:20 | 2021-12-01 | 2022-04-09 |
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-12-01 | 2022-04-09 |
 | [LA CANCIÓN](https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU) | [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [LA CANCIÓN](https://open.spotify.com/album/1mqXnDs578VdV5a6gRPpcN) | 3:15 | 2022-04-08 | 2022-05-18 |
+| [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-06-29 |  |
 | [La Peli](https://open.spotify.com/track/7w02E3rFXuEZ1kHstJei6w) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [La Peli](https://open.spotify.com/album/4aOadYFXOcFPQByfBdsIny) | 2:22 | 2022-04-08 | 2022-05-18 |
 | [LA VIDA](https://open.spotify.com/track/3mqviLZGmvcW9cIXAPwUBG) | [La Duraca](https://open.spotify.com/artist/51qafD5MEuLHv8NeDiAupX) | [LA VIDA](https://open.spotify.com/album/5gyZsMfwa3bDarJLayommS) | 4:02 | 2022-04-08 | 2022-05-18 |
 | [Lamborghini Geeski](https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lamborghini Geeski](https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU) | 2:51 | 2021-12-01 | 2022-04-09 |

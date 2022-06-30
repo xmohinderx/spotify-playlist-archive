@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Sam Fischer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,761 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,768 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 57 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 58 | [Just Friends](https://open.spotify.com/track/0tjYK2gtxo8fT2kdD4XGeF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Just Friends](https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW) | 2:35 |
 | 59 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
-| 60 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 |
+| 60 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 61 | [Sucker](https://open.spotify.com/track/2yrSdYIB8YhA4c1IcnDndt) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Beginner's Luck](https://open.spotify.com/album/3pH36OEN9Z5LVsjAcjY4x0) | 3:04 |
 | 62 | [Synchronicity](https://open.spotify.com/track/6fuyxR1EgELPVrg1zyCdHC) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Synchronicity](https://open.spotify.com/album/0wTW5MtWLOzWm8q2KHOKvE) | 3:36 |
 | 63 | [Adult](https://open.spotify.com/track/4g6gocnIEurcIFvjkDctUy) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Adult](https://open.spotify.com/album/3yE61uruSJMiR3z09HCndH) | 3:04 |

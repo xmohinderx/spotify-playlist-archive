@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,729 likes - 80 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,842 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 51 | [Ambyar Mak Pyar \- Keroncong Version](https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar \(Keroncong Version\)](https://open.spotify.com/album/2p3qceONrEXQAjo1tpUKY9) | 4:38 |
 | 52 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 |
 | 53 | [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 |
-| 54 | [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 |
+| 54 | [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 0:29 |
 | 55 | [Konco Mesra](https://open.spotify.com/track/4I7goB9uxNnA2Jg3Sf8Dwv) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Konco Mesra](https://open.spotify.com/album/2ijzNP6wya6HesN5nH3nNV) | 5:01 |
 | 56 | [Nutupi Laraku](https://open.spotify.com/track/5LN58cdv408OOXh52VY99L) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Nutupi Laraku](https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw) | 5:38 |
 | 57 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 |

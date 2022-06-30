@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,678 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,021 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 25 | [Agile](https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Agile](https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF) | 3:26 |
 | 26 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 |
 | 27 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 |
-| 28 | [The World is Turning](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [The World Is Turning](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 1:58 |
+| 28 | [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 |
 | 29 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 |
 | 30 | [Above It All](https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 2:11 |
 | 31 | [Forces of Attraction](https://open.spotify.com/track/6YjNHauEMtw8cWsOnoBUf3) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:03 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 79 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 |
 | 80 | [Free Fall](https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Twisty](https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX) | 6:56 |
 | 81 | [Particle Emission](https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf) | 2:43 |
-| 82 | [Arctic Future](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Arctic Future](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 3:22 |
+| 82 | [](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 0:00 |
 | 83 | [Mauer Blues](https://open.spotify.com/track/1NqGRBFJXZKeQDlenJSMbs) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Mauer Blues](https://open.spotify.com/album/2y20fT1DGloMjS6KmLTUE9) | 4:01 |
 | 84 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 |
 | 85 | [One Too Many](https://open.spotify.com/track/3MfbA1oqDBXC2teY5yFqR5) | [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Dreamcatcher](https://open.spotify.com/album/3NVFHTmDQPvM9rDJv1fpYm) | 4:00 |

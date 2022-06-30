@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Caamp
 
-126 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+128 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 |  |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 |  |
+| [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 | 2022-06-11 |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 |  |
@@ -53,7 +54,7 @@
 | [How I See It](https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [12:34](https://open.spotify.com/album/142mjhHKGwh7LuV6e9ggI2) | 4:36 | 2022-05-13 |  |
 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 | 2022-05-13 | 2022-05-28 |
 | [I Loved You Then \(And I Love You Still\)](https://open.spotify.com/track/5dWTDZf56Aw4e0JGhRWma8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [I Loved You Then](https://open.spotify.com/album/1Yd60KMmi6HeDL404WVqaz) | 2:38 | 2022-05-13 | 2022-05-20 |
-| [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2022-05-13 |  |
+| [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2022-05-13 | 2022-06-30 |
 | [In 40 Years](https://open.spotify.com/track/0emj2UaC4T1mOGs7duFy01) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [In 40 Years](https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz) | 3:03 | 2022-06-24 |  |
 | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/track/7bWoSTEWfg97lxGoByeyYH) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/album/481cy5V3RYhcCCLaaB2mav) | 3:16 | 2022-05-13 |  |
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 |  |
@@ -91,6 +92,7 @@
 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 | 2022-05-13 |  |
 | [Say You Will](https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Say You Will](https://open.spotify.com/album/0QTvXpfQhqsCOTnC80oWgk) | 4:51 | 2022-05-13 |  |
 | [See This Through](https://open.spotify.com/track/1wxz9GnfLDCirNWULzTFFq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w) | 3:27 | 2022-05-13 |  |
+| [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 |  |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-05-13 |  |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-05-13 |  |
 | [Sleepyhead](https://open.spotify.com/track/5Y7XtAMfHNWOURJtdph6c7) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Sleepyhead](https://open.spotify.com/album/4wLqxmIiPSH6scEmssD5Wv) | 3:08 | 2022-05-13 |  |
@@ -117,7 +119,7 @@
 | [This Ain't the Night](https://open.spotify.com/track/0L0yuDW8ob26KpwDA0YKEt) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [This Ain't the Night](https://open.spotify.com/album/2eZ3FXceppcpEkhlRj7CVb) | 3:27 | 2022-05-13 |  |
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 |  |
 | [Touch of Your Lips](https://open.spotify.com/track/2ho9amrBZbxod4VAKW76TN) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm), [Yanny Ritchot](https://open.spotify.com/artist/2zC9eI5Wa9lY9mVbjwzV7y) | [Touch of Your Lips / Four White Walls](https://open.spotify.com/album/6ovRzoOjpfQcIHVYyMuQQp) | 2:27 | 2022-05-13 |  |
-| [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-05-13 |  |
+| [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-05-13 | 2022-06-30 |
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 | 2022-06-18 |
 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 |  |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 |  |

@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 171093,
       "name": "All In the Wrist",
       "url": "https://open.spotify.com/track/13cM3Tbw3vs0hEwTi3JwJx"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 150881,
       "name": "ALL MY SHIT IS STUPID",
       "url": "https://open.spotify.com/track/0ufPmpaJmxYQbjJ0b2Ggje"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 175199,
       "name": "Bring Some Mo (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 206446,
       "name": "Bruuuh (with Denzel Curry) - Remix",
       "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
@@ -3359,7 +3359,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 125498,
       "name": "Hit",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
@@ -3461,7 +3461,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "HOME - Remix",
       "url": "https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J"
@@ -3833,7 +3833,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
@@ -4593,7 +4593,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 148118,
       "name": "lo$t kid.",
       "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
@@ -4685,6 +4685,24 @@
       "duration_ms": 183630,
       "name": "Look At What I Did",
       "url": "https://open.spotify.com/track/6iMuOPglmieDgR2BI9x2hG"
+    },
+    {
+      "album": {
+        "name": "Look Ma I Did It",
+        "url": "https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz"
+      },
+      "artists": [
+        {
+          "name": "Baby Racks",
+          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Look Ma I Did It",
+      "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
     },
     {
       "album": {
@@ -4867,7 +4885,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 165550,
       "name": "Maytag (Tax Free)",
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
@@ -5125,7 +5143,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 142520,
       "name": "Money On Me",
       "url": "https://open.spotify.com/track/2OAZWC4eQR6b1DWrjmZldh"
@@ -6141,7 +6159,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 145897,
       "name": "PradadaBang",
       "url": "https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45"
@@ -6453,7 +6471,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 139742,
       "name": "Rich Rich",
       "url": "https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi"
@@ -6628,6 +6646,36 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "Run (feat. Tyga, 21 Savage & BIA)",
+      "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -6709,7 +6757,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 161572,
       "name": "Santa Monica Blvd",
       "url": "https://open.spotify.com/track/4Po2ztD6OBxolnmDagEh8o"
@@ -7439,7 +7487,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 166628,
       "name": "Storyteller",
       "url": "https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s"
@@ -7645,7 +7693,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -7775,7 +7823,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 132496,
       "name": "That's Ok",
       "url": "https://open.spotify.com/track/6bSKQMbPAJSRC6JuNbFT5g"
@@ -7899,7 +7947,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 201420,
       "name": "Throw'd As It Gets (Remix)[Feat. Maxo Kream]",
       "url": "https://open.spotify.com/track/7zSSH0SSoU3jOUT6gbd1uA"
@@ -8183,7 +8231,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "U-Digg (feat. 42 Dugg & Veeze)",
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
@@ -8321,7 +8369,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 181540,
       "name": "Waddup (feat. Polo G)",
       "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
@@ -8797,7 +8845,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 143248,
       "name": "With The Villains",
       "url": "https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,809 likes - 232 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,791 likes - 232 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 180 | [The Dusk](https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [The Dusk](https://open.spotify.com/album/0Ed6n6t6YsIFh4XbInQaVv) | 2:40 |
 | 181 | [Pre](https://open.spotify.com/track/6BtLpTJ34fTAJMsYlGP4KG) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/719Uu5vBFVSLv8KnMNte0A) | 1:47 |
 | 182 | [Technicolor Dreams](https://open.spotify.com/track/7xRxetB77E4m36hb2kt5fy) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Technicolor Dreams](https://open.spotify.com/album/3ysyQAP6BJZ8MgnGlAEHbW) | 3:03 |
-| 183 | [Timelapse](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:49 |
+| 183 | [](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 0:00 |
 | 184 | [Evening Tide](https://open.spotify.com/track/3IVpqqweRwUvQ49ovda18Y) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Evening Tide](https://open.spotify.com/album/5DMLJNgADhisXz3RpXQO9v) | 2:01 |
 | 185 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 |
 | 186 | [Epitome](https://open.spotify.com/track/7lEM6c1Go2pQ4sZ37FZHpg) | [Josefa Charron](https://open.spotify.com/artist/64KLU7MQE2WENVFCjXGk0v) | [Epitome](https://open.spotify.com/album/3qDYhD8GvGsZ4WARJZuDCg) | 2:02 |

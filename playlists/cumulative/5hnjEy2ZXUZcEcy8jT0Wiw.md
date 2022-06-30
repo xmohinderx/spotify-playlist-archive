@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-337 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+337 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cosmonaut's Dream](https://open.spotify.com/track/76JOer4hYwMm79g0m6ziAm) | [Code Elektro](https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w) | [Never Mind the Solar Wind](https://open.spotify.com/album/5213WRkEtfdM5wEvmxApSr) | 4:10 | 2019-07-15 |  |
 | [Cruis'n in 1982](https://open.spotify.com/track/0ypI0itPKn4m0XgFWS4IiO) | [Alpha Boy](https://open.spotify.com/artist/5tXrJsKflheuLYkh4RfEG2) | [Heroes on Tape](https://open.spotify.com/album/4eJqaa1gRLqFqTwNBcnATI) | 2:56 | 2019-07-15 |  |
 | [Crystal City](https://open.spotify.com/track/33TWehkYMI2kSZQyDYuxWx) | [Isidor](https://open.spotify.com/artist/3L4QXzIJxQBJvyaPo5CL3m) | [Avalon Quest](https://open.spotify.com/album/6PsAww1vT0ytwH8OlDkguO) | 4:02 | 2020-12-14 |  |
-| [Cult of the Future](https://open.spotify.com/track/1IZaFlLUbNaLpQgJS1h7F7) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [Cult of the Future](https://open.spotify.com/album/0qoFFPWKHE6ivFi7FONcAv) | 3:44 | 2020-01-17 |  |
+| [CULT OF THE FUTURE](https://open.spotify.com/track/1IZaFlLUbNaLpQgJS1h7F7) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [CULT OF THE FUTURE](https://open.spotify.com/album/0qoFFPWKHE6ivFi7FONcAv) | 3:44 | 2020-01-17 |  |
 | [CyberDrive](https://open.spotify.com/track/0M3p80Dkkv1Rd5GwcRHaa1) | [Millennium Falck](https://open.spotify.com/artist/4vWV5hMWQE1QAw6LBqNfbH) | [Neo Helsinki Fm](https://open.spotify.com/album/0lu5zCaI8fXuVnBw7d5c1B) | 2:45 | 2020-04-21 |  |
 | [Cyborgs at the Beach](https://open.spotify.com/track/0RCeTCmRGa3tIAdkBjO3IN) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 4:07 | 2020-01-17 |  |
 | [Dance or Die](https://open.spotify.com/track/7k6a58ZGLCWG7dCpptHPbq) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Saturdaze](https://open.spotify.com/album/2s793dkklgAgVqra7Ax1fg) | 3:50 | 2019-07-15 |  |
@@ -246,7 +246,7 @@
 | [Samurai Cyberpunk](https://open.spotify.com/track/2lWT0z0Clbh9lBFklgvLln) | [Shredder 1984](https://open.spotify.com/artist/1OnOuA3QcYGa4rAWtu8GrQ) | [Dystopian Future](https://open.spotify.com/album/2lUz6Pdbdct8tG24oT6mvJ) | 3:12 | 2019-07-15 |  |
 | [Second Chances](https://open.spotify.com/track/7LHiyNIttVYA73cAfATD1L) | [Turbo Vice](https://open.spotify.com/artist/2LCKyAC0HIYvaIAC38ViVz) | [Second Chances](https://open.spotify.com/album/5MYzwP7mt0rjIZeFY2Cra5) | 4:37 | 2019-07-26 |  |
 | [Shadow Instinct](https://open.spotify.com/track/7nSx56wdGScR60FyLvyDh7) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Shadow Instinct](https://open.spotify.com/album/7e1OeT8afjO22h6Gq7pk1y) | 3:33 | 2021-03-12 |  |
-| [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 3:37 | 2019-09-04 |  |
+| [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 0:29 | 2019-09-04 |  |
 | [Short Ride in a Fast Car](https://open.spotify.com/track/2hoYUGkk47YAeBLPztzSqY) | [Thomahawk](https://open.spotify.com/artist/0PecU6vvTEoGN0Qw6uMW53) | [Short Ride in a Fast Car](https://open.spotify.com/album/3a0C1CntATSQ5R84kirx0t) | 3:16 | 2019-07-15 |  |
 | [Signals](https://open.spotify.com/track/6CNjbiKipouJgj9f9p9Gl3) | [Decay](https://open.spotify.com/artist/5CR7Cf70aaWJSyqcOh5DAZ) | [Signals](https://open.spotify.com/album/3Zp8dRt9MAyX7JO7R88tre) | 4:21 | 2020-05-20 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/1uwzAmgnBBO5fi6N4JQnlt) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:26 | 2019-07-15 |  |
@@ -275,7 +275,7 @@
 | [Sunset Highway](https://open.spotify.com/track/43ynucNbUDU9xd9v62LvTz) | [Retro Thunder](https://open.spotify.com/artist/2vXCTFLYxI9hac3Z4NOdPs) | [Better Ways to Die](https://open.spotify.com/album/5kWNAIINEIuZfZsDgnHJIP) | 3:18 | 2019-07-15 |  |
 | [Sunset on Mt\. Fuji](https://open.spotify.com/track/2qLW2u8Pkzt9ZLPgYWvdHs) | [MacReady](https://open.spotify.com/artist/1NtQNapSZ8aekIgSO2JlVq), [Watch Out For Snakes](https://open.spotify.com/artist/4YfuCTKTW5IKTnffVXAUXp) | [Sunset on Mt\. Fuji](https://open.spotify.com/album/0Sw8Qb3x4P0DkN9N83Gr2J) | 4:42 | 2019-09-04 |  |
 | [Supervention](https://open.spotify.com/track/0FOMjrRd3OKijKyffd0yXV) | [24:7](https://open.spotify.com/artist/6BBC6k1PPGQeAplfLQYV21) | [Naeon](https://open.spotify.com/album/0ddvju3hjiGN91oSp9e0uy) | 5:37 | 2019-11-04 |  |
-| [Surging Chaos](https://open.spotify.com/track/3Wd4DwbfwWKROj3bZFWBge) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [Surging Chaos](https://open.spotify.com/album/7pZHDNLdjaiZSTyNNTLe8z) | 3:47 | 2019-12-13 |  |
+| [SURGING CHAOS](https://open.spotify.com/track/3Wd4DwbfwWKROj3bZFWBge) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [SURGING CHAOS](https://open.spotify.com/album/7pZHDNLdjaiZSTyNNTLe8z) | 3:47 | 2019-12-13 |  |
 | [Synchronicity](https://open.spotify.com/track/1wpzcubyF2vRpjXnv8ZGTJ) | [Terrordyne](https://open.spotify.com/artist/6P5GUtpISiShk3WnsCrABy) | [Rebirth](https://open.spotify.com/album/2GhHCSd4Qnv8JQwglpwCDV) | 3:19 | 2019-11-03 |  |
 | [Synthax Terror](https://open.spotify.com/track/2cLVSYBcSVVVVoKdSaqKn0) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 4:21 | 2019-07-21 |  |
 | [Synthoid '81](https://open.spotify.com/track/16ccNPRKhxvJhFhaodnvR5) | [Fonz Tramontano](https://open.spotify.com/artist/7pFMgAdEZBmdhRZ4lVpbCJ) | [The Singles '81, '82](https://open.spotify.com/album/3OjNA6W8oEEFhM30AlxKs0) | 2:48 | 2019-07-18 |  |

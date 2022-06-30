@@ -2280,6 +2280,24 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj"
       },
@@ -18683,7 +18701,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 193280,
       "name": "more",
       "url": "https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd"

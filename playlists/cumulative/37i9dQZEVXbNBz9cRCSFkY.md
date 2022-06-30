@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-437 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+438 songs - 1 day 2 hr 26 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-07-02 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 | 2021-03-27\* | 2021-10-02 |
+| [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-06-29 |  |
 | [Attention, please!](https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2021-10-14 | 2021-10-16 |
 | [Babe \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:44 | 2021-11-14 | 2021-11-19 |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2021-06-13 | 2021-06-14 |
@@ -244,7 +245,7 @@
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-13 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-25 | 2022-06-27 |
-| [LOVE COUNTDOWN \(feat\. Wonstein\)](https://open.spotify.com/track/5SCueETKJMI9LrMjrvlbjf) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 3:17 | 2022-06-26 |  |
+| [LOVE COUNTDOWN \(feat\. Wonstein\)](https://open.spotify.com/track/5SCueETKJMI9LrMjrvlbjf) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 3:17 | 2022-06-26 | 2022-06-30 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-07 | 2022-05-14 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-14 | 2022-02-02 |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2021-03-27\* | 2021-07-17 |

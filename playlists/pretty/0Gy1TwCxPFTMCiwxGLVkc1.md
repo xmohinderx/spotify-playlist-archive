@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Looking for pop music that's safe to play at work \(or in front of the kids when you're working from home\)? This playlist is for you!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 88,205 likes - 31 songs - 1 hr 41 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 88,202 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 24 | [Diet Mountain Dew](https://open.spotify.com/track/4O9dZs2B0ilk4PEfX2bPEv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:42 |
 | 25 | [God Is A Freak](https://open.spotify.com/track/42ApAik1crGHN42WXIHxaa) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/4Dn0TrB9r7UZSMv94EXVct) | 3:07 |
 | 26 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 |
-| 27 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 |
+| 27 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 28 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 |
 | 29 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 30 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |

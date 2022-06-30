@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,591 likes - 113 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,595 likes - 113 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

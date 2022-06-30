@@ -1,13 +1,29 @@
 {
-  "description": "Doechii is our new RADAR Artist to Watch.",
-  "num_followers": 347214,
+  "description": "John Summit is our new RADAR Artist to Watch.",
+  "num_followers": 347220,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ2NDg3NiwwMDAwMDAwMDJjNWQ2ZTk2Mjc1OWMxMDkxZjU2M2UwNTJhMzkxMjVm",
+  "snapshot_id": "MTY1NjU1MTE1NSwwMDAwMDAwMGFmNGI0MjAyN2ZjNWQxNjY5NDlhNzNkYTg0OWE1MzIw",
   "tracks": [
+    {
+      "added_at": "2022-06-29 13:52:02",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
     {
       "added_at": "2022-06-14 04:07:44",
       "album": {
@@ -27,18 +43,58 @@
     {
       "added_at": "2022-06-14 04:07:44",
       "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+        "name": "Thinking Bout You",
+        "url": "https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu"
       },
       "artists": [
         {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 205386,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
+      "duration_ms": 190946,
+      "name": "Thinking Bout You",
+      "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
+    },
+    {
+      "added_at": "2022-06-14 04:07:44",
+      "album": {
+        "name": "Junto A T\u00ed",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A T\u00ed",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2022-06-14 04:07:44",
+      "album": {
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
       "added_at": "2022-06-14 04:07:44",
@@ -83,42 +139,6 @@
     {
       "added_at": "2022-06-14 04:07:44",
       "album": {
-        "name": "365 (Thr33 6ix 5ive)",
-        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 151283,
-      "name": "365 (Thr33 6ix 5ive)",
-      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
-    },
-    {
-      "added_at": "2022-06-14 04:07:44",
-      "album": {
-        "name": "Thinking Bout You",
-        "url": "https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Thinking Bout You",
-      "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
-    },
-    {
-      "added_at": "2022-06-14 04:07:44",
-      "album": {
         "name": "nothing (in my head)",
         "url": "https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K"
       },
@@ -131,6 +151,22 @@
       "duration_ms": 185319,
       "name": "nothing (in my head)",
       "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
+    },
+    {
+      "added_at": "2022-06-14 04:07:44",
+      "album": {
+        "name": "365 (Thr33 6ix 5ive)",
+        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 151283,
+      "name": "365 (Thr33 6ix 5ive)",
+      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
       "added_at": "2022-06-14 04:07:44",
@@ -151,18 +187,18 @@
     {
       "added_at": "2022-06-14 04:07:44",
       "album": {
-        "name": "Junto A T\u00ed",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
         }
       ],
-      "duration_ms": 193922,
-      "name": "Junto A T\u00ed",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+      "duration_ms": 205386,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL"
     },
     {
       "added_at": "2022-06-14 04:07:44",
@@ -415,26 +451,6 @@
       "duration_ms": 151223,
       "name": "if we lived on the moon",
       "url": "https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA"
-    },
-    {
-      "added_at": "2022-06-14 04:07:44",
-      "album": {
-        "name": "Booty (feat. Latto)",
-        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Booty (feat. Latto)",
-      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
       "added_at": "2022-06-14 04:07:44",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-05-27 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-05-27 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-05-27 |  |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 |  |
 | [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 |  |

@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Saucy Santana
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Rihanna
 
 176 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 

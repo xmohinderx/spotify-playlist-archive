@@ -4,7 +4,7 @@
 
 > every week find new tracks from artists u love, artists u will love, and old songs u forgot u loved\. cover: Djo
 
-1,706 songs - 3 day 19 hr 19 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,707 songs - 3 day 19 hr 22 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-30 | 2021-12-02 |
 | [Backwards](https://open.spotify.com/track/3HL4n8vCeCyYLxogqkUxup) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Backwards](https://open.spotify.com/album/67buolBsDm0XkJikkqZRxv) | 2:53 | 2020-08-21 | 2021-03-31 |
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-07-23 | 2020-12-18 |
+| [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-29 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2019-09-06 | 2019-09-27 |
 | [Bad Ideas \(Lo Fi\)](https://open.spotify.com/track/2pmx0cj7tZJ9sfFzTpfhhG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas \(Act One\)](https://open.spotify.com/album/5LnH05u071nA1KbVsTFwna) | 3:16 | 2019-08-08 | 2019-09-20 |
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2019-10-30 | 2019-10-31 |
@@ -1010,7 +1011,7 @@
 | [Moonlight](https://open.spotify.com/track/5PG863bM3f6nnUel0e0AS3) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Moonlight](https://open.spotify.com/album/77Z6SanMi4623M4tRBMXQf) | 3:11 | 2021-02-09 | 2021-08-14 |
 | [Moonlight](https://open.spotify.com/track/0Uk3a9LakBQsRZPJo31fUm) | [Sweeney](https://open.spotify.com/artist/1wTMHGpzUEojchQsys1FyJ), [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Moonlight](https://open.spotify.com/album/3Tb3XyfcL0U1yTTVSJ47TT) | 2:51 | 2021-08-21 | 2021-11-13 |
 | [Morbid Mind](https://open.spotify.com/track/7g729lW7Fcm3knbVp5VzPG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Morbid Mind](https://open.spotify.com/album/3BP6lUwl9Hw1ewnjpDeO2I) | 2:16 | 2020-08-12 | 2020-10-16 |
-| [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 | 2022-03-04 |  |
+| [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 | 2022-03-04 | 2022-06-30 |
 | [More Often](https://open.spotify.com/track/60wAXtIs4U6VIqo81PcgyG) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 1:44 | 2020-11-20 | 2020-12-23 |
 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 | 2021-05-22 | 2022-01-22 |
 | [Mother](https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Mother](https://open.spotify.com/album/55FiEs3CNdmkmkzmkyHmYO) | 3:09 | 2020-04-22 | 2020-05-22 |

@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 157733,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 203135,
       "name": "Borrachos",
       "url": "https://open.spotify.com/track/4Atb7JMjADktnKGOXzUmeF"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 243680,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2DWaaGqHqQYgAt4QTyPQWs"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct"
@@ -1250,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
@@ -1917,7 +1939,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"

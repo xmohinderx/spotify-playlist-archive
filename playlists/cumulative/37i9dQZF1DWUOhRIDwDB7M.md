@@ -4,10 +4,11 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-232 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+232 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 0:00 | 2021-09-06 |  |
 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2021-09-06 |  |
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2021-09-06 |  |
 | [Affinity](https://open.spotify.com/track/1pJAweP34zFBSOplMQc1m0) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/6fjaKnvd9PFGQxe37E9UfM) | 2:28 | 2021-09-06 |  |
@@ -211,7 +212,6 @@
 | [The Only One](https://open.spotify.com/track/4ZhN4DujGaKdSTYi1ZFDbj) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Requiescence](https://open.spotify.com/album/3bhAl8RnnUNyNz53wlqOLf) | 4:21 | 2021-09-06 |  |
 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2021-09-06 |  |
 | [Till Imorgon](https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Till Imorgon](https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra) | 3:42 | 2021-12-22 |  |
-| [Timelapse](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:49 | 2021-09-06 |  |
 | [Timeless](https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Timeless](https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o) | 1:56 | 2021-09-06 |  |
 | [True Belonging](https://open.spotify.com/track/4traer7MzTsR7UAmC8t3il) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [True Belonging](https://open.spotify.com/album/4ja8zc2HYBGpJLAyednU1o) | 3:22 | 2022-03-04 |  |
 | [Tęsknota](https://open.spotify.com/track/3oilArNJ908kJ3GUkOPuzm) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Tęsknota](https://open.spotify.com/album/5Jm14NT2CpUrYwF5iFUOo4) | 3:11 | 2022-05-05 |  |

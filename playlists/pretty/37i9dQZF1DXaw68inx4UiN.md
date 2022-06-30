@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > The magical soundscapes of the rain forest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,160 likes - 78 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,200 likes - 78 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 41 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
 | 42 | [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 |
 | 43 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
-| 44 | [Country Crickets Sleep Aid Loop](https://open.spotify.com/track/3uGk1gDFXQSXPwxVjtcNWu) | [HB](https://open.spotify.com/artist/5RZS0SXUPOybDrsKJUBAP7) | [Country Crickets Sleep Aid Loop \- Single](https://open.spotify.com/album/6RqEMiXSrJ2CktsDvztFiA) | 10:08 |
+| 44 | [Country Crickets Sleep Aid Loop](https://open.spotify.com/track/3uGk1gDFXQSXPwxVjtcNWu) | [HB](https://open.spotify.com/artist/5RZS0SXUPOybDrsKJUBAP7) | [Country Crickets Sleep Aid Loop](https://open.spotify.com/album/6RqEMiXSrJ2CktsDvztFiA) | 10:08 |
 | 45 | [Amazing Rainforest](https://open.spotify.com/track/08aNuS6gpy9KjZ65uP5EaM) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Rain Is A Beautiful Thing](https://open.spotify.com/album/1zrFylUbEzedemFnZH4oUT) | 2:51 |
 | 46 | [Forest Meditation](https://open.spotify.com/track/5Gs8yP4p8ccqfZun4xmxgR) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Into the Wild](https://open.spotify.com/album/0W83Q53upb4RyRQ62vTF20) | 3:28 |
 | 47 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |

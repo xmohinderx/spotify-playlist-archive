@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Blessd y Rels B; Beyoncé, Duki, Imagine Dragons, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,043 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,092 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
 | 18 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
 | 19 | [In My Feelings](https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [In My Feelings](https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At) | 2:54 |
-| 20 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 |
+| 20 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 |
 | 21 | [La Conga](https://open.spotify.com/track/3PEmOImLpBvwk6Ws3FExyq) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [La Conga](https://open.spotify.com/album/26H6rrll2DnUyLovMr9FZq) | 4:48 |
 | 22 | [Ice on My Neck](https://open.spotify.com/track/0wx8FId4c3kAeG1rFDO02U) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Ice on My Neck](https://open.spotify.com/album/65EPky1zzeC2eXCxizjhhm) | 3:22 |
 | 23 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 |

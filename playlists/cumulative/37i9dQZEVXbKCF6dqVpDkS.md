@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-669 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+670 songs - 1 day 11 hr 8 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Lang](https://open.spotify.com/track/7kxUp5JrJKWg0bgxvunnI9) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:37 | 2022-01-29 | 2022-02-07 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-28 | 2021-12-30 |
 | [Last Dance](https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Last Dance](https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk) | 3:00 | 2021-05-25 | 2021-05-30 |
+| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-06-29 |  |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2021-07-18 | 2021-09-05 |
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-06-06 | 2021-07-18 |
 | [Lasten/Lusten](https://open.spotify.com/track/6WSjoKE4tHhNf7WCaBnRYc) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:58 | 2022-01-29 | 2022-02-04 |
@@ -462,7 +463,7 @@
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 | 2022-03-05 | 2022-03-27 |
-| [Okee Shordy](https://open.spotify.com/track/4RCKxit6c2kl7dwJPKT3hc) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Trobi On The Beat](https://open.spotify.com/album/2YUxS2Myez0IoHfJbIQot8) | 2:30 | 2022-03-26 |  |
+| [Okee Shordy](https://open.spotify.com/track/4RCKxit6c2kl7dwJPKT3hc) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Trobi On The Beat](https://open.spotify.com/album/2YUxS2Myez0IoHfJbIQot8) | 2:30 | 2022-03-26 | 2022-06-30 |
 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 | 2022-06-16 |  |
 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-04 | 2022-06-17 |
 | [On Me](https://open.spotify.com/track/6GYCNMMsdaJsLIbNfzLqOR) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [On Me](https://open.spotify.com/album/24XZxvtMIk9AKH2AikooFN) | 2:17 | 2022-06-11 | 2022-06-19 |

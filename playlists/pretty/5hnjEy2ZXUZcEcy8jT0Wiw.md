@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,710 likes - 308 songs - 21 hr 21 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,709 likes - 308 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 9 | [Chainsaw Revenge](https://open.spotify.com/track/7g4ZaY7UyP85iTLEwuZ64S) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Chainsaw Revenge](https://open.spotify.com/album/0wL4gtgh1QHXItp487mdVg) | 2:48 |
 | 10 | [march of the goombas](https://open.spotify.com/track/43NkeFV8Di5WplEBnsUGFX) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [pretty warp machine](https://open.spotify.com/album/71o5I71H5VtESwvmhIywo7) | 4:25 |
 | 11 | [TO BURN ONESELF BY FIRE](https://open.spotify.com/track/61lhGu2IL2pVxdkI3vqddy) | [FUTURE NIGHTMARES](https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP) | [TO BURN ONESELF BY FIRE](https://open.spotify.com/album/06ns0AH10SIB15zqQV2ZhS) | 4:16 |
-| 12 | [Surging Chaos](https://open.spotify.com/track/3Wd4DwbfwWKROj3bZFWBge) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [Surging Chaos](https://open.spotify.com/album/7pZHDNLdjaiZSTyNNTLe8z) | 3:47 |
+| 12 | [SURGING CHAOS](https://open.spotify.com/track/3Wd4DwbfwWKROj3bZFWBge) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [SURGING CHAOS](https://open.spotify.com/album/7pZHDNLdjaiZSTyNNTLe8z) | 3:47 |
 | 13 | [I shut my eyes and all the world drops dead](https://open.spotify.com/track/0V9Qf2VGfQqWWD3sLroDvU) | [FUTURE NIGHTMARES](https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP) | [I shut my eyes and all the world drops dead](https://open.spotify.com/album/4irDO3PPCIz146LBkGei66) | 8:02 |
 | 14 | [Software Interface](https://open.spotify.com/track/19UyeQAptSzu6We1DV9W23) | [ZXSP](https://open.spotify.com/artist/0ToqFpXDRZwkx03e4Ooqu9) | [Hyper Force](https://open.spotify.com/album/6TkP5kF80vcgKCuYBxOeXW) | 3:51 |
 | 15 | [Adventure Club, Pt\. 2](https://open.spotify.com/track/1GVtiVjnIYlh6SWxbaDsXo) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Adventure Club, Pt\. 2](https://open.spotify.com/album/5fNA6J60oHvRxHAPpy3rby) | 5:34 |
@@ -222,7 +222,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 212 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 |
 | 213 | [Cosmonaut's Dream](https://open.spotify.com/track/76JOer4hYwMm79g0m6ziAm) | [Code Elektro](https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w) | [Never Mind the Solar Wind](https://open.spotify.com/album/5213WRkEtfdM5wEvmxApSr) | 4:10 |
 | 214 | [Dangerous Desires](https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 3:29 |
-| 215 | [Cult of the Future](https://open.spotify.com/track/1IZaFlLUbNaLpQgJS1h7F7) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [Cult of the Future](https://open.spotify.com/album/0qoFFPWKHE6ivFi7FONcAv) | 3:44 |
+| 215 | [CULT OF THE FUTURE](https://open.spotify.com/track/1IZaFlLUbNaLpQgJS1h7F7) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [CULT OF THE FUTURE](https://open.spotify.com/album/0qoFFPWKHE6ivFi7FONcAv) | 3:44 |
 | 216 | [Resistance](https://open.spotify.com/track/1sQ41VJ5LM1rxzV7Ainoya) | [Eightecs](https://open.spotify.com/artist/3ZprFbLQkdlLeUaNZBuhJ6) | [Resistance](https://open.spotify.com/album/7gvOZcufCX3krjNCgU0QXb) | 4:20 |
 | 217 | [Tawa](https://open.spotify.com/track/0qMYgnsRl3lfxXNH6NLxzL) | [Elay Arson](https://open.spotify.com/artist/0Cmf2B7byid4ECMNXDo9rv) | [Spirit \| Death](https://open.spotify.com/album/7beTpBNSEwf32Smcbvfa9u) | 3:59 |
 | 218 | [Raptors](https://open.spotify.com/track/1GOKLoOpI2H34V1MvbpsPp) | [M.K\. Khan](https://open.spotify.com/artist/2j9df5GWrXJVu8sLijXA3Q) | [Generation Runaway](https://open.spotify.com/album/6TThO64EQeUj9VCNuaylSQ) | 2:51 |
@@ -279,7 +279,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 269 | [Starlight](https://open.spotify.com/track/2cj7JsptJnjMKFZl2W2Ufh) | [Saturn Will Not Sleep](https://open.spotify.com/artist/53Vg9tuYpTSlrrWH9CLTN4) | [Voyager](https://open.spotify.com/album/55iWHL1HmmyyCyLbtRfNih) | 2:03 |
 | 270 | [Future War](https://open.spotify.com/track/4AGMTwog43OAXHu8EROJMv) | [Runaway Droid](https://open.spotify.com/artist/3Ek1ULLo4QcO4JKEelaedq) | [Giant Space Lasers](https://open.spotify.com/album/7doJ19nDvuUDeM8tM1Id4v) | 3:40 |
 | 271 | [Playback](https://open.spotify.com/track/5IGQqRGAvYrUMoikPe8gPO) | [Power Glove](https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW) | [Playback](https://open.spotify.com/album/5eQT9NNpmJgFfbKFO4u9qi) | 4:20 |
-| 272 | [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 3:37 |
+| 272 | [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 0:29 |
 | 273 | [NARCS](https://open.spotify.com/track/1CpUAfbHyj2U0AIITtesfx) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [NARCS](https://open.spotify.com/album/4dbwSy7bkSvTqPOJ6mMjLc) | 5:49 |
 | 274 | [Death Valley](https://open.spotify.com/track/2z7IHGDY7zPbfLaXxed3kO) | [Mskra](https://open.spotify.com/artist/3jroV0g9frYvO4t1UbKtcM) | [Death Valley](https://open.spotify.com/album/4WmvVXO0O6AkzaxXEZCNB7) | 5:11 |
 | 275 | [In the Company of Robots](https://open.spotify.com/track/1XQTBGZ3nlqqbn9lFdFL4b) | [Oscillian](https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7) | [In the Company of Robots](https://open.spotify.com/album/4cnfb6rhkdaO1UxfSVyaIJ) | 5:07 |

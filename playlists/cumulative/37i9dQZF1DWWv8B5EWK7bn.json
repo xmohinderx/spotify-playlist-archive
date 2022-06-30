@@ -966,6 +966,28 @@
     },
     {
       "album": {
+        "name": "The Chronicles of a Caterpillar: The Egg",
+        "url": "https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8"
+      },
+      "artists": [
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        },
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157588,
+      "name": "Lothl\u00f3rien",
+      "url": "https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE"
+    },
+    {
+      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -1561,7 +1583,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 166950,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E"

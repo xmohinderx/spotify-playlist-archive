@@ -1662,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+    },
+    {
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y"
       },

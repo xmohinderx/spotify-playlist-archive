@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Inzul + A.C.O on cover.
+> Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Bilbao on cover.
 
-512 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+513 songs - 1 day 4 hr 29 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,12 +150,12 @@
 | [DIME DONDE ESTA](https://open.spotify.com/track/0L0vfjsdgwo9GoqZzmXo04) | [Generacion Suicida](https://open.spotify.com/artist/4mviM2J8Dy8kE2RgEGqu6l) | [REGENERACION](https://open.spotify.com/album/75rPBwCiEVVfyQxfvO2UlO) | 2:39 | 2022-06-08 |  |
 | [Dique Hollywood](https://open.spotify.com/track/4EHxgwoZOLZQTELBWlVk2a) | [Mami Sandunga](https://open.spotify.com/artist/2B6v4Wx9J3A494wVf5ODgk), [Chaboi](https://open.spotify.com/artist/0hOrLqrQnFH1Eq8vh4twh5), [DJ Ethos](https://open.spotify.com/artist/1odbnCdFTsuiU7yOoAQ7jU) | [Dique Hollywood](https://open.spotify.com/album/7ErMzMemvp71UeMxp9rLaq) | 2:47 | 2022-02-09 | 2022-02-24 |
 | [Discoteca](https://open.spotify.com/track/3oFCPEf2XRV1BB1Xj5gbPN) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [Discoteca](https://open.spotify.com/album/3PMk4EYaL0bRyUmzzgUhx3) | 3:07 | 2022-03-30 | 2022-04-28 |
-| [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 | 2022-05-25 |  |
+| [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 | 2022-05-25 | 2022-06-30 |
 | [Doce De Septiembre](https://open.spotify.com/track/0ijPFvGavFrRcfBZZ2dPyE) | [San Jerónimo](https://open.spotify.com/artist/4pxG1MFYyAmqIDRpPi1kwm), [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Doce De Septiembre](https://open.spotify.com/album/05OvKSDcVq6vbnOqwqpsaL) | 2:25 | 2022-02-09 | 2022-02-24 |
 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 | 2022-04-06 | 2022-04-14 |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-13 | 2022-05-05 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-03-30 | 2022-04-28 |
-| [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 | 2022-05-25 |  |
+| [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 | 2022-05-25 | 2022-06-30 |
 | [Déjate Llevar](https://open.spotify.com/track/5J4dokBOoHgx1IXjyXTein) | [Santi Guzmán](https://open.spotify.com/artist/3dmmxOvzNgb7YPcykTfZaM), [Mi Hermano y Yo](https://open.spotify.com/artist/6UR3UWYLFnAoVrRB0CVfxQ) | [Déjate Llevar](https://open.spotify.com/album/0zMF3e84qBbC6mVonJGtCD) | 3:08 | 2022-01-19 | 2022-01-27 |
 | [Dímelo](https://open.spotify.com/track/5AFXThdFLXk7MlnA9n68xb) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt) | [Dimelo](https://open.spotify.com/album/7E4LpD4jday1FOwlS1S6Ee) | 2:45 | 2022-03-02 | 2022-03-17 |
 | [Easy](https://open.spotify.com/track/2E9yOBE0V7zo353wpIe89t) | [Bunlo](https://open.spotify.com/artist/75idTho2H32dlquJKSarJe), [Esco](https://open.spotify.com/artist/73gRTljGGFHIvTUUn9Ub4p) | [Easy](https://open.spotify.com/album/5m8SfEeRuowrvj777PxYwX) | 3:21 | 2022-03-16 | 2022-03-23 |
@@ -249,7 +249,7 @@
 | [La Muerte](https://open.spotify.com/track/7tzYetRw8R4IBLrgWUQSwH) | [El Turco Perro](https://open.spotify.com/artist/0pkvVdcfNGKnMzBJLPpI0p) | [4:00 A.M](https://open.spotify.com/album/6RBQQNQcZoCh2HazZuZ6dG) | 2:46 | 2022-04-13 | 2022-05-05 |
 | [La Niebla](https://open.spotify.com/track/5cvLyw0lsezwirgCVFm2u8) | [Nomae](https://open.spotify.com/artist/2MhoE1jwmGgP3n8cwblDS5) | [La Niebla](https://open.spotify.com/album/4JfO4RR4cD33eVJD48i2pd) | 2:50 | 2022-03-30 | 2022-04-14 |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-02-23 | 2022-03-03 |
-| [La Provoque](https://open.spotify.com/track/2zp6jzGjpJY8R6JEoW7Bez) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 2:27 | 2022-05-18 |  |
+| [La Provoque](https://open.spotify.com/track/2zp6jzGjpJY8R6JEoW7Bez) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 2:27 | 2022-05-18 | 2022-06-30 |
 | [La Sombra de Lo Bello](https://open.spotify.com/track/0JXgwkLCCBzvmIvh71h3Aq) | [Feralucia](https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB) | [La Sombra de Lo Bello](https://open.spotify.com/album/12vl5qERiH7j2NIdJLCctR) | 4:11 | 2022-02-09 | 2022-02-24 |
 | [La Voz](https://open.spotify.com/track/0UVuAXOUc8PEQmWNA0lYby) | [Medina Kid](https://open.spotify.com/artist/0YKjgRidRKLNziQyOhoJfU) | [La Voz](https://open.spotify.com/album/2zgwfypd1dMfazifvBmZb3) | 2:35 | 2022-01-26 | 2022-02-03 |
 | [Lamentar](https://open.spotify.com/track/4VUO4tl0mGNhz2zoQ2EZd0) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Lamentar](https://open.spotify.com/album/3qqKA3lRu2PizL8UuQCD68) | 2:41 | 2022-03-23 | 2022-04-07 |
@@ -471,6 +471,7 @@
 | [Todo Otra Vez](https://open.spotify.com/track/7toulNfZRAp9wfZrDFFsDy) | [Lucas Finocchi](https://open.spotify.com/artist/4Cb9yvHAE1hbVhMvpUgFLe) | [Todo Otra Vez](https://open.spotify.com/album/2JoCtQeF1OpTcIJTvmyv8M) | 4:30 | 2022-03-16 | 2022-03-24 |
 | [Todo Sería Más Fácil](https://open.spotify.com/track/2vPXVSowfU53BLEiu4XrVs) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Todo Sería Más Fácil](https://open.spotify.com/album/7vKmVfhCGqpc0BYqdSf31u) | 2:52 | 2022-06-08 |  |
 | [Todo Te Da Igual](https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ) | [Soy Os](https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Todo Te Da Igual](https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU) | 2:41 | 2021-12-22 | 2022-01-27 |
+| [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 | 2022-06-30 |  |
 | [Todos Están Rotos](https://open.spotify.com/track/06kEu4JTWx84t0KVKfoNgu) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [¡Apaga eso, niño!](https://open.spotify.com/album/2c4wXQmN7sA5grFG1LjDQj) | 2:29 | 2022-02-23 | 2022-03-03 |
 | [totes les vegades que tu vulguis](https://open.spotify.com/track/0neDY6yMkk3WhtOLwrXm4e) | [kuu](https://open.spotify.com/artist/77cBad8DNTobzNpER2rQfX) | [totes les vegades que tu vulguis](https://open.spotify.com/album/2OU1r3VIYH0lmqRgQTfEZD) | 2:56 | 2022-03-30 | 2022-04-14 |
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-01-05 | 2022-02-10 |
@@ -501,7 +502,7 @@
 | [Vendaval De Cristal](https://open.spotify.com/track/1aSt45gruUPowYTAnmTHcw) | [GENTE IMPROBABLE](https://open.spotify.com/artist/3hYNnh9hNnCKiQK4onMEJr) | [Vendaval De Cristal](https://open.spotify.com/album/7wQAo1qIV4da91vQkOIid8) | 4:06 | 2022-04-06 | 2022-04-14 |
 | [Vengo del futuro](https://open.spotify.com/track/5jck2tIBYdoppW7X0zKg2k) | [Jose Domingo](https://open.spotify.com/artist/60XxN4jbU8CLJPAi1fAZPi) | [Vengo del futuro](https://open.spotify.com/album/6CBMZN0vwR2kROIxeDZDrR) | 3:30 | 2022-03-23 | 2022-04-07 |
 | [Vente Pa Aca](https://open.spotify.com/track/080DuuIelsTw0XhJszJShf) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Vente Pa Aca](https://open.spotify.com/album/0nhd9ZGStaMez6B6g9L4gJ) | 3:03 | 2022-04-13 | 2022-05-12 |
-| [Viento del Sur](https://open.spotify.com/track/7bTBbYeyKUW9IJk9wXvi9i) | [Helado Infinito](https://open.spotify.com/artist/6yU4QnECpGQMAbQEhfEiex) | [Viento del Sur](https://open.spotify.com/album/3QEHrvPgYjL3SrQcosv8bS) | 3:44 | 2022-05-18 | 2022-06-16 |
+| [Viento del Sur](https://open.spotify.com/track/7bTBbYeyKUW9IJk9wXvi9i) | [Helado Infinito](https://open.spotify.com/artist/6yU4QnECpGQMAbQEhfEiex) | [Viento del Sur](https://open.spotify.com/album/3QEHrvPgYjL3SrQcosv8bS) | 3:44 | 2022-05-18 |  |
 | [Violeta](https://open.spotify.com/track/0lWkJrYgYYa1vOJfvIkxr8) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Violeta](https://open.spotify.com/album/4KFf1eHDIeBzbu5dpSnCGI) | 2:23 | 2021-12-22 | 2022-01-06 |
 | [Volverte a Ver](https://open.spotify.com/track/03gG6xaLgGBxSl6Wonot0E) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Volverte a Ver](https://open.spotify.com/album/2YYK03ykhVGz7wOFp4AXmO) | 2:17 | 2022-05-11 | 2022-06-08 |
 | [Vuela](https://open.spotify.com/track/08MAPMfmhlf8Y7SXt0cXRb) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Amor o Dinero](https://open.spotify.com/album/1HJqiODztuv8p1O3jF4Iku) | 2:49 | 2022-02-23 | 2022-03-03 |
@@ -519,6 +520,6 @@
 | [you could at least say goodbye](https://open.spotify.com/track/1fdpRpgFVwrfuvYBvOOI16) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [you could at least say goodbye](https://open.spotify.com/album/5a3In1hNV7R0plo9te3Iw3) | 3:39 | 2022-03-16 | 2022-04-07 |
 | [¿Cómo Te Llamas?](https://open.spotify.com/track/0XRZIweJTtPMAcr6BVtxaR) | [Los Nafta](https://open.spotify.com/artist/1yJIRYs4jmlSYNQkWnhWPe) | [Noches Sin Gravedad](https://open.spotify.com/album/0ZgTSm1VI55AhE09Nzvv11) | 3:15 | 2022-01-19 | 2022-02-03 |
 | [¿enamorado?](https://open.spotify.com/track/4zF40QCrMUfb1NSeJYw41a) | [Gold Citrus](https://open.spotify.com/artist/74Xn83GdWHhs6O7eaCqyQe) | [¿enamorado?](https://open.spotify.com/album/3NLWMAVT2nf7mh1lwqKXVG) | 3:16 | 2022-03-16 | 2022-03-24 |
-| [Óbice](https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Óbice](https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK) | 2:21 | 2022-05-18 | 2022-06-16 |
+| [Óbice](https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Óbice](https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK) | 2:21 | 2022-05-18 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

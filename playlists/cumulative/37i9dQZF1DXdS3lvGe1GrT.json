@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sadurn | Visual Artist: Bailey Elder",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sam Johnston | Visual Artist: Bailey Elder",
   "name": "Fresh Finds Folk",
   "published_playlist_ids": [
     "4p9gFX9hA25IbWFzEcHGmF"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 283869,
       "name": "As We Grow",
       "url": "https://open.spotify.com/track/12btFuZanH59cT0xgA50KD"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 287763,
       "name": "Copilot",
       "url": "https://open.spotify.com/track/585vhTzFBQuUGui6SWULfp"
@@ -405,10 +405,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 193236,
       "name": "Dear Shadow",
       "url": "https://open.spotify.com/track/5WAkKuO3PPgZq0bGbOkY2l"
+    },
+    {
+      "album": {
+        "name": "Other Way Home",
+        "url": "https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd"
+      },
+      "artists": [
+        {
+          "name": "Meredith Lazowski",
+          "url": "https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265632,
+      "name": "December",
+      "url": "https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk"
     },
     {
       "album": {
@@ -466,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Feel Right",
+        "url": "https://open.spotify.com/album/2wJhrSr43N9bjoT3bsr4bd"
+      },
+      "artists": [
+        {
+          "name": "Steven OH",
+          "url": "https://open.spotify.com/artist/0CaLV3kAYhNSWUmci7PGbQ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Don\u2019t Feel Right",
+      "url": "https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9"
+    },
+    {
+      "album": {
         "name": "Soon Come",
         "url": "https://open.spotify.com/album/1WgpP0MMKas5FO8ixC1jn5"
       },
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 214952,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1haW2woi1Ni7UTdiroixot"
@@ -513,7 +549,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 272000,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/6WaO7yDFhKcW4gls5m74Ua"
@@ -614,6 +650,46 @@
     },
     {
       "album": {
+        "name": "Fisherman's Daughter",
+        "url": "https://open.spotify.com/album/0KGa55D0qk0W0bU9M8pLUe"
+      },
+      "artists": [
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220211,
+      "name": "Fisherman's Daughter",
+      "url": "https://open.spotify.com/track/1tyTGY9MsV9gfzvXMStcFy"
+    },
+    {
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0"
+      },
+      "artists": [
+        {
+          "name": "Sam Johnston",
+          "url": "https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl"
+        },
+        {
+          "name": "Emma Klein",
+          "url": "https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273413,
+      "name": "For a While",
+      "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
+    },
+    {
+      "album": {
         "name": "Dig Deep Repeat",
         "url": "https://open.spotify.com/album/6NMPRZcCf1jislUlYea6C9"
       },
@@ -647,6 +723,24 @@
       "duration_ms": 215958,
       "name": "Gears",
       "url": "https://open.spotify.com/track/35qU5mjy7UAECL08FPvf3P"
+    },
+    {
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/5w3hX19J48fSNi3UkAJCcQ"
+      },
+      "artists": [
+        {
+          "name": "Goodwill",
+          "url": "https://open.spotify.com/artist/08YH3sCgWzw9OuiRALrSCA"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195288,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/1Jhl3bdPenyPQzF8RgzSPe"
     },
     {
       "album": {
@@ -697,7 +791,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 210466,
       "name": "Golden Days",
       "url": "https://open.spotify.com/track/4x5eSlJFBtydPHRe9v8d95"
@@ -813,7 +907,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 308440,
       "name": "Hells Backbone",
       "url": "https://open.spotify.com/track/60If0mTq3NspqIFEL07ww9"
@@ -1108,6 +1202,42 @@
     },
     {
       "album": {
+        "name": "Lead Me Home",
+        "url": "https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY"
+      },
+      "artists": [
+        {
+          "name": "Wilfred",
+          "url": "https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178867,
+      "name": "Lead Me Home",
+      "url": "https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE"
+    },
+    {
+      "album": {
+        "name": "Virginia",
+        "url": "https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203097,
+      "name": "lily of the valley",
+      "url": "https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2"
+    },
+    {
+      "album": {
         "name": "Texas Blue",
         "url": "https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6"
       },
@@ -1126,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Lou",
+        "url": "https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX"
+      },
+      "artists": [
+        {
+          "name": "Jackfruit",
+          "url": "https://open.spotify.com/artist/5cXZoNGbKqmrPMa2hlpuDU"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250007,
+      "name": "Lou",
+      "url": "https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk"
+    },
+    {
+      "album": {
         "name": "Loved To Be Loved By You",
         "url": "https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll"
       },
@@ -1137,7 +1285,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 179818,
       "name": "Loved To Be Loved By You",
       "url": "https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp"
@@ -1303,7 +1451,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 250677,
       "name": "Morningbird",
       "url": "https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv"
@@ -1397,6 +1545,24 @@
       "duration_ms": 230262,
       "name": "One Fine Morning",
       "url": "https://open.spotify.com/track/3NLtEQPPObHtld9rh5IvlY"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/6nMBleJ4ye3EF8MOknz3hp"
+      },
+      "artists": [
+        {
+          "name": "Melanie MacLaren",
+          "url": "https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278250,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/4ofjRp95kHz8RBHu4iX4Hd"
     },
     {
       "album": {
@@ -1721,7 +1887,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 225377,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry"
@@ -1836,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/6rfxMqmfSOl6xXY7t93Kr5"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "Thanks",
+      "url": "https://open.spotify.com/track/05kamsQjIKeVWMWDThZkFZ"
+    },
+    {
+      "album": {
         "name": "That So",
         "url": "https://open.spotify.com/album/2Gf44Na8LBbMwJMLK5gRU1"
       },
@@ -1847,7 +2031,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 187047,
       "name": "That So",
       "url": "https://open.spotify.com/track/39CGQf63kR3hgVbzPAyhRo"
@@ -2031,6 +2215,24 @@
       "duration_ms": 331000,
       "name": "Where The River Goes",
       "url": "https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C"
+    },
+    {
+      "album": {
+        "name": "Wish I Had You Now",
+        "url": "https://open.spotify.com/album/1uWCJKpS1fKWPwtn7nj0GW"
+      },
+      "artists": [
+        {
+          "name": "The Finley Ghost",
+          "url": "https://open.spotify.com/artist/2FDDxS1r0AdQzitRtjqdsb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237060,
+      "name": "Wish I Had You Now",
+      "url": "https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT"

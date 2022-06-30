@@ -1,13 +1,37 @@
 {
   "description": "",
-  "num_followers": 26666,
+  "num_followers": 26670,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzA1MCxiZTI3NDYzZDE3NTljNjFmOWQ2YzU5YjJkMTc2MGU2NDYzZDViYTM2",
+  "snapshot_id": "MzA1OCwyZjhmYTk3ZWVhNGVlMjVmMmNkM2NjNmQ1ZjFhNzYwOThlOGY2MzIz",
   "tracks": [
+    {
+      "added_at": "2022-06-29 16:24:00",
+      "album": {
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+    },
     {
       "added_at": "2022-06-28 18:31:24",
       "album": {
@@ -129,6 +153,22 @@
       "url": "https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd"
     },
     {
+      "added_at": "2022-06-29 17:48:31",
+      "album": {
+        "name": "Infinite Window",
+        "url": "https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2"
+      },
+      "artists": [
+        {
+          "name": "Kuedo",
+          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+        }
+      ],
+      "duration_ms": 289430,
+      "name": "Infinite Window",
+      "url": "https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y"
+    },
+    {
       "added_at": "2022-05-31 15:03:01",
       "album": {
         "name": "Make You Scream",
@@ -191,22 +231,6 @@
       "duration_ms": 216568,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8"
-    },
-    {
-      "added_at": "2022-06-09 19:26:09",
-      "album": {
-        "name": "Sliding Through Our Fingers",
-        "url": "https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2"
-      },
-      "artists": [
-        {
-          "name": "Kuedo",
-          "url": "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
-        }
-      ],
-      "duration_ms": 208521,
-      "name": "Sliding Through Our Fingers",
-      "url": "https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4"
     },
     {
       "added_at": "2022-04-26 20:22:33",

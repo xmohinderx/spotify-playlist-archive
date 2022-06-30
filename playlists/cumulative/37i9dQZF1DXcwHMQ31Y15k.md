@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
 
-89 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+89 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Temanten](https://open.spotify.com/track/35ozv2GM8b55XTHGzvvaAx) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Temanten](https://open.spotify.com/album/26JAA7Ya33pam0GQJepOFv) | 5:09 | 2022-05-26 | 2022-06-10 |
 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 | 2022-05-26 |  |
 | [Tiket Suargo](https://open.spotify.com/track/0PaHX60BjbIycemtQkGWfm) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tiket Suargo](https://open.spotify.com/album/2hW8Yxj5WRc8QU95RQC7sq) | 5:14 | 2022-05-26 |  |
-| [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 | 2022-05-26 |  |
+| [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 0:29 | 2022-05-26 |  |
 | [TOP TOPAN](https://open.spotify.com/track/5RQqrD30qFyK5uZZE0J1kW) | [Kalia Siska](https://open.spotify.com/artist/70hsEvlt6YZPT97UIvzpEu), [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [TOP TOPAN](https://open.spotify.com/album/6JtO8rhbmqW1QoboTN1R8k) | 5:48 | 2022-05-26 |  |
 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 | 2022-05-26 |  |
 | [Tresno Liyane](https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE) | [Tembang Gula](https://open.spotify.com/artist/6g7kngIkweehmJyN2AYOOH), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Tresno Liyane](https://open.spotify.com/album/5ihcCehRsNOjAIiEZVbDGu) | 4:54 | 2022-05-26 |  |

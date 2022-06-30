@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,821 likes - 144 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,829 likes - 144 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

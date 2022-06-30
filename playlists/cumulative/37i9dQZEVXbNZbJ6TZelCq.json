@@ -2803,7 +2803,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159600,
       "name": "CONTACT FATAL",
       "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
@@ -4723,7 +4723,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 138750,
       "name": "Femeile Mele",
       "url": "https://open.spotify.com/track/0Y2TXtrBp6ECdY6WyMKcpj"
@@ -10219,7 +10219,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -10717,7 +10717,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 195555,
       "name": "Praf",
       "url": "https://open.spotify.com/track/4X1KfuOJRRDOZi1JgfxbN9"
@@ -12187,7 +12187,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -14381,6 +14381,24 @@
       "duration_ms": 142892,
       "name": "Vecinatate",
       "url": "https://open.spotify.com/track/67wqTOWJZjbig3PCfcY9Cd"
+    },
+    {
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "album": {

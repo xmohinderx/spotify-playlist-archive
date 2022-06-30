@@ -1510,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "Makhelaw magalou",
+        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180763,
+      "name": "Makhelaw magalou",
+      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
+    },
+    {
+      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc"
       },

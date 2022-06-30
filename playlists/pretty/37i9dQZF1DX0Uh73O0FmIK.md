@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,450 likes - 90 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,770 likes - 90 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 14 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
 | 15 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 |
 | 16 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 |
-| 17 | [Game Over](https://open.spotify.com/track/52n4kofyXauJYktwjDZJOE) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [Rachel Mcalpine](https://open.spotify.com/artist/3eSC3QxUm5FbAGqhjDG6Vx) | [Simulations](https://open.spotify.com/album/1Koc1DUHNh9ywilaXIDqjw) | 3:58 |
+| 17 | [Game Over](https://open.spotify.com/track/52n4kofyXauJYktwjDZJOE) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [Rachel Mcalpine](https://open.spotify.com/artist/3eSC3QxUm5FbAGqhjDG6Vx) | [SIMULATIONS](https://open.spotify.com/album/1Koc1DUHNh9ywilaXIDqjw) | 3:58 |
 | 18 | [Paris](https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Paris](https://open.spotify.com/album/3VZSHfMooekIWZFgymsD4m) | 3:29 |
 | 19 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 20 | [ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [witchpop](https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC) | 2:05 |

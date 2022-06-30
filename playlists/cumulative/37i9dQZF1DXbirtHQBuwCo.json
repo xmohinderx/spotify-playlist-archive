@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: JUNNY(\uc8fc\ub2c8))",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Jimmy Brown(\uc9c0\ubbf8 \ube0c\ub77c\uc6b4))",
   "name": "TrenChill K-R&B",
   "published_playlist_ids": [
     "3joqGbdyT1iJwODdo3szax"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 214000,
       "name": "Always Here",
       "url": "https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 200480,
       "name": "Apollo 11 (feat. Jay Park)",
       "url": "https://open.spotify.com/track/2PudJHuPDFyXomHjmwTxqG"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 144545,
       "name": "bag on you",
       "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 180960,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 151211,
       "name": "camellia",
       "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/2D9Wm88bSk4B9VGJQhs8tN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206582,
+      "name": "complicated",
+      "url": "https://open.spotify.com/track/2G7V0W5otiWX4B2W8dmpIu"
+    },
+    {
+      "album": {
         "name": "Creamppang",
         "url": "https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW"
       },
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/13Ck1nAjyzdcMCKIQ9Kpkh"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 229658,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 195692,
       "name": "kiss my lips",
       "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 153973,
       "name": "Love Affair (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/3kKNLD9mE0l3hK2MIQ8FkN"
@@ -2927,6 +2945,28 @@
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "album": {
@@ -3109,7 +3149,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 177346,
       "name": "Make the Move (feat. pH-1)",
       "url": "https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz"
@@ -3131,7 +3171,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 207493,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -3309,7 +3349,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 116086,
       "name": "Movies",
       "url": "https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD"
@@ -3357,7 +3397,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 205773,
       "name": "MY LOVE (feat. RAVI)",
       "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
@@ -3415,7 +3455,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "Nerves",
       "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
@@ -3627,7 +3667,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 190097,
       "name": "NOT ME!",
       "url": "https://open.spotify.com/track/655YhibeaetlWccj0PYi7W"
@@ -4083,7 +4123,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Perfect day (Feat. Ashley Alisha, nobody likes you pat)",
       "url": "https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do"
@@ -4137,7 +4177,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 174800,
       "name": "Pink!",
       "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
@@ -4213,6 +4253,24 @@
       "duration_ms": 154418,
       "name": "PRADA",
       "url": "https://open.spotify.com/track/0baJx4nGlfhylHDSlzj4bM"
+    },
+    {
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/5kSldVJSFCbuMmBgmSEQef"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206595,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY"
     },
     {
       "album": {
@@ -4325,7 +4383,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 167000,
       "name": "Riddle (feat. Khundi Panda)",
       "url": "https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv"
@@ -4509,7 +4567,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 208294,
       "name": "sherlock",
       "url": "https://open.spotify.com/track/1tcRQkZyqzRSlQ3xUseeL1"
@@ -4875,7 +4933,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
@@ -4893,7 +4951,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 199999,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN"
@@ -5337,7 +5395,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 205213,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/3Gh9maavHOFRoRkzVw0a6Q"
@@ -5381,7 +5439,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
@@ -5455,7 +5513,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 240265,
       "name": "When Dawn Comes Again",
       "url": "https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii"
@@ -5755,7 +5813,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 142363,
       "name": "Yours",
       "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"

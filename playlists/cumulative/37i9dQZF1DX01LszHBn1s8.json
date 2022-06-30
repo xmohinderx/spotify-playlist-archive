@@ -2404,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -3211,6 +3229,28 @@
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
+    },
+    {
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "album": {

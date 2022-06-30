@@ -731,7 +731,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 189130,
       "name": "Call the Night",
       "url": "https://open.spotify.com/track/6yYVXKCihtqj3MMFBdHSou"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 186805,
       "name": "Faith",
       "url": "https://open.spotify.com/track/0c5rPwlRxcBmVLNARI2kGQ"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 169760,
       "name": "Good",
       "url": "https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 166920,
       "name": "If I Could Be Like You",
       "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
@@ -2876,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179471,
+      "name": "Lone Survivor",
+      "url": "https://open.spotify.com/track/3kOBaXOUB9AiQazHQZdrzj"
+    },
+    {
+      "album": {
         "name": "loneliness for love",
         "url": "https://open.spotify.com/album/5Ydukmq7CbdVsEKCqCuiXo"
       },
@@ -3085,7 +3103,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 205844,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4NTerkM5Eqn2rRwFMESuzD"
@@ -3283,7 +3301,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
@@ -4019,7 +4037,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 154466,
       "name": "Ribbon Around The Bomb",
       "url": "https://open.spotify.com/track/7voz4y45sbxa5GUB2oTxhP"
@@ -4059,7 +4077,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 199757,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/57gXXZbi4KeojlnheJUets"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 199873,
       "name": "scream!",
       "url": "https://open.spotify.com/track/7ht1CeMPNfLFPm5rrFvavq"
@@ -4297,7 +4315,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 176906,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7ECdgylUCaSTNwxzY1Size"
@@ -4669,7 +4687,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 185994,
       "name": "Summer of Love",
       "url": "https://open.spotify.com/track/1KbTuqLQFreQpsrbF6tn1R"
@@ -4831,7 +4849,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
@@ -5037,6 +5055,24 @@
       "duration_ms": 239626,
       "name": "The Outfield",
       "url": "https://open.spotify.com/track/3O2hDxP5BeV4bH99nRvgym"
+    },
+    {
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "album": {
@@ -5433,7 +5469,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
@@ -5509,7 +5545,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
@@ -5599,7 +5635,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"

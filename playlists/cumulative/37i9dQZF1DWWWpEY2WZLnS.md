@@ -4,7 +4,7 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: El Alfa
 
-115 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
+116 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/4L9HFTRvt3WNU7wBLTIuvk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,9 +63,9 @@
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2021-11-19 |  |
 | [La Pampara](https://open.spotify.com/track/5CMYuOwdkbwCGz9QY1nII6) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky](https://open.spotify.com/artist/5wws3asJLgzs8bgsvUcp0p) | [Rochy Rd](https://open.spotify.com/album/3nFTTMmBmtZx3z9sJjUN9W) | 3:47 | 2022-03-18 |  |
 | [La Peluca](https://open.spotify.com/track/3nesIPNFvUKprXRlhe5f9W) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Otro Idioma](https://open.spotify.com/artist/6X4HFvPmjg8jzBFdZ51cBy) | [La Peluca](https://open.spotify.com/album/7r1DnaoFhRfGKV6y5P1ni3) | 3:15 | 2022-03-18 |  |
-| [LA VIDA](https://open.spotify.com/track/3mqviLZGmvcW9cIXAPwUBG) | [La Duraca](https://open.spotify.com/artist/51qafD5MEuLHv8NeDiAupX) | [LA VIDA](https://open.spotify.com/album/5gyZsMfwa3bDarJLayommS) | 4:02 | 2022-04-15 |  |
+| [LA VIDA](https://open.spotify.com/track/3mqviLZGmvcW9cIXAPwUBG) | [La Duraca](https://open.spotify.com/artist/51qafD5MEuLHv8NeDiAupX) | [LA VIDA](https://open.spotify.com/album/5gyZsMfwa3bDarJLayommS) | 4:02 | 2022-04-15 | 2022-06-30 |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2021-11-19 |  |
-| [Llego Tu Para](https://open.spotify.com/track/54UkAEPhMh5hjIXjBltCEf) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Jay Elite](https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj) | [Llego Tu Para](https://open.spotify.com/album/1SBOVkyuhnxviEMimO9dhO) | 2:16 | 2022-03-18 |  |
+| [Llego Tu Para](https://open.spotify.com/track/54UkAEPhMh5hjIXjBltCEf) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Jay Elite](https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj) | [Llego Tu Para](https://open.spotify.com/album/1SBOVkyuhnxviEMimO9dhO) | 2:16 | 2022-03-18 | 2022-06-30 |
 | [Lo Vibro](https://open.spotify.com/track/5YXUq4sQa30oHvuxZl0P6T) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Lo Vibro](https://open.spotify.com/album/4hrJviGoD576RbXU1Y9xJE) | 2:34 | 2022-03-18 |  |
 | [Los Bobo Son Mio](https://open.spotify.com/track/0CPwDsfPXKLigbah6wLCs7) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/0XZwEGuc5TfJ7cv0a8yWxm) | 2:11 | 2021-11-19 | 2022-03-18 |
 | [Los Bobo Son Mio](https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF) | 2:11 | 2022-03-18 |  |
@@ -108,6 +108,7 @@
 | [Te Va Dobla](https://open.spotify.com/track/1gG1SjKsKYNbBKFLYns0a9) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Te Va Dobla](https://open.spotify.com/album/4KJJ2OoZuvb5TWSHzxlVsx) | 3:10 | 2022-03-18 |  |
 | [Teteo \- Remix](https://open.spotify.com/track/0oBE11LSGSaccEBtk4lJEe) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/3Nv39yge8SS2T8ZkdaVsFc) | 3:23 | 2021-11-19 | 2022-04-16 |
 | [Tiembla](https://open.spotify.com/track/1L96UQiYAT2AGzHir0eXNf) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Tiembla](https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq) | 2:33 | 2021-11-19 | 2022-03-12 |
+| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-06-29 |  |
 | [Toco Toco To](https://open.spotify.com/track/3JNYsAbOnTg1VhJEHYnrWm) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [Toco Toco To](https://open.spotify.com/album/0XdI708idWwnzuvv1B2rwx) | 3:02 | 2021-11-19 | 2022-03-18 |
 | [Toco Toco To \- Remix](https://open.spotify.com/track/6t5WDx1H74Qqr5kl8kAkj9) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Toco Toco To \(Remix\)](https://open.spotify.com/album/2iXgX55gK4LZF0o0E8odmI) | 3:22 | 2022-04-15 |  |
 | [Tontoron Tonton](https://open.spotify.com/track/6ZhHAkeaTRNPKAENP9kxx8) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Tontoron Tonton](https://open.spotify.com/album/0K03lfwQZdNx4dborALNyM) | 3:57 | 2022-03-04 | 2022-06-24 |

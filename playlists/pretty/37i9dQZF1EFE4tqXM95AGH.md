@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713 likes - 136 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 714 likes - 136 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 34 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
 | 35 | [IN A DREAM](https://open.spotify.com/track/2Cxz0VrxP96Oo9pWZxxNsd) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:49 |
 | 36 | [Back to Me](https://open.spotify.com/track/56W0kPwYnDXstkgfbcuFUL) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 4:01 |
-| 37 | [You Will Find Me](https://open.spotify.com/track/1tQksxQbg0wzhxpTY4ppzB) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [As Seen On TV](https://open.spotify.com/album/7a1BvnRHo7rdeyaHtmxPPB) | 3:26 |
-| 38 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 37 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 38 | [You Will Find Me](https://open.spotify.com/track/1tQksxQbg0wzhxpTY4ppzB) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [As Seen On TV](https://open.spotify.com/album/7a1BvnRHo7rdeyaHtmxPPB) | 3:26 |
 | 39 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 |
 | 40 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
 | 41 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
@@ -123,9 +123,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 113 | [Girls Night Out](https://open.spotify.com/track/753c8W2lHuOXLaTIh8R6QQ) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:15 |
 | 114 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 115 | [Run Into You](https://open.spotify.com/track/0LM43mK6NmlaO5MIKy5oBr) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Run Into You](https://open.spotify.com/album/2JWPHdT4xQktzBfOuW6t0R) | 2:55 |
-| 116 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
-| 117 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
-| 118 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 116 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 117 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
+| 118 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
 | 119 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
 | 120 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
 | 121 | [Young Love](https://open.spotify.com/track/7L4Q4JyCnJcYHCKaNrap4U) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [George Sear](https://open.spotify.com/artist/6rex7yqrxf37zM07mzMKYf) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:06 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 135 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 136 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc2MDc3NTYsMDAwMDAwMDAzNTFhYWMyNGQzNjgxZGQ4OWFmODFkZGI4ZGIzMjhiNA==`
+Snapshot ID: `Mjc2MDkxOTcsMDAwMDAwMDA3MDQ4ZWVlMTk4MDE4ZDU5ZTY4ZGExZDU5NzllNmNhMw==`

@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-442 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+443 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [D.G.B.N](https://open.spotify.com/track/5gP8Kh3dMBSASOEwUcULCQ) | [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [D.G.B.N](https://open.spotify.com/album/2j8jCljGlEbwttO6CJui5v) | 2:48 | 2022-01-13 | 2022-02-25 |
 | [Dagar i regn](https://open.spotify.com/track/1oURoSnXjvFqm2o4U8eKgQ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Dagar i regn](https://open.spotify.com/album/6uqLNWTSB6p3vO6v5qFRxH) | 2:46 | 2021-12-16 | 2022-01-20 |
 | [Dansa](https://open.spotify.com/track/2CcXJMWC3qlrSfgMJJrDTM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 2:31 | 2022-02-25 | 2022-05-06 |
-| [Darbuka](https://open.spotify.com/track/5tnWSSa0CHuMf6AfzKtf0F) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 2:21 | 2022-06-17 |  |
+| [Darbuka](https://open.spotify.com/track/5tnWSSa0CHuMf6AfzKtf0F) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 2:21 | 2022-06-17 | 2022-06-30 |
 | [DAY BY DAY](https://open.spotify.com/track/6Q1O5ijo0un3nJYlqKnvHp) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [DEJAVU](https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx) | 2:56 | 2022-03-10 | 2022-05-03 |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 | 2022-05-27 |
 | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs) | [Robin Nazari](https://open.spotify.com/artist/4aK9sNftDZEcieWnzCk2Ed), [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl) | 3:21 | 2022-02-10 |  |
@@ -270,6 +270,7 @@
 | [MATADOR](https://open.spotify.com/track/64s0ZmTEwVhztlrEP6Xt9J) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MATADOR](https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U) | 3:16 | 2022-04-25 |  |
 | [MELANIN](https://open.spotify.com/track/7dOCdeHnwDiM2rKIqu6yuy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MELANIN](https://open.spotify.com/album/4SfjsyQZVS2cn7EUnraOLc) | 2:47 | 2022-05-26 | 2022-06-17 |
 | [MEN IN BLACK](https://open.spotify.com/track/2lXjmrPJChEEswMfdv5cSG) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [MEN IN BLACK](https://open.spotify.com/album/4oGEqaRIPLOD5mUs4Kquq5) | 2:48 | 2022-01-27 | 2022-02-26 |
+| [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-06-29 |  |
 | [Mic Drop \(Madame\)](https://open.spotify.com/track/4Fn3KpitzhFaO4XIuZoP5p) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [Mic Drop \(Madame\)](https://open.spotify.com/album/0wBxyyIKslQkFpD3EQ4VZb) | 3:26 | 2022-06-09 | 2022-06-24 |
 | [MIG](https://open.spotify.com/track/2ZTix4tf7GQaJho8QaKYbI) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz) | [MIG](https://open.spotify.com/album/1RRRgtoQ0edZjkxEPUfm2a) | 2:54 | 2022-03-23 | 2022-05-27 |
 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 | 2022-01-06 | 2022-03-25 |

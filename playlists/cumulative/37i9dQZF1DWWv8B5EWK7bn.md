@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-105 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+106 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Living Other Lives](https://open.spotify.com/track/3uaYJY6kH4HscJoROvidcz) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Living Other Lives](https://open.spotify.com/album/1XuWrakQS8eSMygwDoM2XL) | 5:38 | 2021-10-06 |  |
 | [Log In Your Fire](https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:51 | 2022-02-04 |  |
 | [Lost Heads](https://open.spotify.com/track/3UweSSZc1r6z0DPQYEymb4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/70nGjFdZKPyoYCtDhTlbqQ) | 6:26 | 2021-10-06 |  |
+| [Lothlórien](https://open.spotify.com/track/1qXJzwa3DJxVJT5Ql4T3mE) | [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [The Chronicles of a Caterpillar: The Egg](https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8) | 2:37 | 2022-06-29 |  |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-10-06 |  |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 |  |
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 |  |
@@ -89,7 +90,7 @@
 | [Station to Station](https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM) | 4:25 | 2021-10-06 |  |
 | [Sunken Lupine](https://open.spotify.com/track/45Gj8HBuOtMjooXu3pLEOt) | [Damiana](https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx) | [Sunken Lupine](https://open.spotify.com/album/5KFnOmKClYqIDK3fPkwD7h) | 6:46 | 2021-10-15 |  |
 | [Sunset Dreams](https://open.spotify.com/track/03W4UGst7Ugynx4OLJGlwn) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/120nAPsuLm0jxpTnlmbHEr) | 4:27 | 2021-10-06 |  |
-| [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2022-01-11 |  |
+| [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2022-01-11 | 2022-06-30 |
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-05-13 |
 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 |  |

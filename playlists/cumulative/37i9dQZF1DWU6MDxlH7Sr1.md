@@ -4,7 +4,7 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-113 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+115 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Falling In Love With Love](https://open.spotify.com/track/0XOOODiI3v7vHXsv3GzFZf) | [Eddie Higgins](https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92) | [Leisure Time](https://open.spotify.com/album/4mEfEu7gEGQvM2AtmavSok) | 4:32 | 2022-04-26 |  |
 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 | 2022-04-26 |  |
 | [Footprints](https://open.spotify.com/track/3i3N8m36bMRaQGGvMxqkxE) | [Neil Shannon Quartet](https://open.spotify.com/artist/2kJhCBCQeNnvnz8vFd9Kfk) | [Jazz Nights](https://open.spotify.com/album/5CEbSL5vuBPwJWb0VGbiLZ) | 2:57 | 2022-04-26 |  |
+| [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-29 |  |
 | [Freddie Freeloader](https://open.spotify.com/track/0k8yaziKe1VHprtyeYsR7H) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 2:31 | 2022-04-26 | 2022-05-11 |
 | [Fridays](https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Fridays](https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb) | 3:05 | 2022-04-26 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
@@ -77,6 +78,7 @@
 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 | 2022-04-26 |  |
 | [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-04-26 | 2022-06-15 |
 | [Nobody Else But Me](https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 4:11 | 2022-04-26 | 2022-06-23 |
+| [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-29 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 | 2022-04-26 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-04-26 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 |  |

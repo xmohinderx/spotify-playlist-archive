@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 254666,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 138466,
       "name": "Besos Y Caricias",
       "url": "https://open.spotify.com/track/2V2caKcvSw2tBTBVTFKqy0"
@@ -1523,6 +1523,24 @@
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
+    },
+    {
+      "album": {
+        "name": "Bilir O Beni",
+        "url": "https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb"
+      },
+      "artists": [
+        {
+          "name": "Pinhani",
+          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228625,
+      "name": "Bilir O Beni",
+      "url": "https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6"
     },
     {
       "album": {
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 165743,
       "name": "Bustdown Rollie Avalanche",
       "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 154053,
       "name": "Demente",
       "url": "https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW"
@@ -7627,7 +7645,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
@@ -7878,6 +7896,24 @@
     },
     {
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6lLiiVhYLULssJM3SIt7VK"
+      },
+      "artists": [
+        {
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192975,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/1fa4cA1z1a8Rksf8R6S1sl"
+    },
+    {
+      "album": {
         "name": "MIXED FEELINGS",
         "url": "https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2"
       },
@@ -7889,7 +7925,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 194488,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA"
@@ -8347,7 +8383,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 223013,
       "name": "Que Ganas",
       "url": "https://open.spotify.com/track/5pXuclm5K7goAcENkqoanP"
@@ -8869,7 +8905,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 173250,
       "name": "Seni K\u0131rm\u0131\u015flar",
       "url": "https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En"
@@ -11057,7 +11093,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -11497,7 +11533,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 209146,
       "name": "Y Me Pregunto",
       "url": "https://open.spotify.com/track/2IvoefDJZvgub14bsCEZoN"

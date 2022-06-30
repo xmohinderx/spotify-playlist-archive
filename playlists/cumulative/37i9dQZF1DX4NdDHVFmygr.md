@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-126 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+127 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 | 2022-03-20 | 2022-05-06 |
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 |  |
 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 | 2022-02-24 | 2022-05-20 |
+| [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-06-27 |  |
 | [Mamacita](https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [G.O.A.T](https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc) | 3:18 | 2022-03-05 | 2022-05-27 |
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |

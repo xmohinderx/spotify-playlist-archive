@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,073 likes - 377 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,090 likes - 377 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -362,7 +362,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 352 | [Før du falder i søvn](https://open.spotify.com/track/0tZHT47w9bjBgTahJRk71l) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Før du falder i søvn](https://open.spotify.com/album/3ttAkCUdxoeVpNl5bWYKuL) | 1:27 |
 | 353 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 |
 | 354 | [Hymn](https://open.spotify.com/track/4FOhzTO7AErvRzEmI08qTv) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Amélie](https://open.spotify.com/album/49DC7zrTAsk81BJdFxrKJM) | 2:23 |
-| 355 | [Becoming Aware](https://open.spotify.com/track/230wJHD5YU7cSDWjyWWcoD) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Becoming Aware](https://open.spotify.com/album/6EE3Q2XDesdujjVrMyzlAy) | 1:36 |
+| 355 | [](https://open.spotify.com/track/230wJHD5YU7cSDWjyWWcoD) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6EE3Q2XDesdujjVrMyzlAy) | 0:00 |
 | 356 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 |
 | 357 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 |
 | 358 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 |

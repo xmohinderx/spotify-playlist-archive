@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,116 likes - 187 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,141 likes - 187 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 111 | [líquido](https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [líquido](https://open.spotify.com/album/4MXpvYR7qsNouiXC5bP6ar) | 2:24 |
 | 112 | [Enlightened Room](https://open.spotify.com/track/7wVGdCV81JeomYcKNMoKcm) | [Jon Goldfield](https://open.spotify.com/artist/2T8zvXA9vOR9aHbTkhx0IU) | [Enlightened Room](https://open.spotify.com/album/2oqfsZYj4obwEVD8lUcZhj) | 2:13 |
 | 113 | [Oasis](https://open.spotify.com/track/3wSBG6keI8IMWvaqlEbugZ) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [For a Lifetime](https://open.spotify.com/album/4CIxHPyaHFbrbqh4k3QFPy) | 3:14 |
-| 114 | [Arctic Tern](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Arctic Tern](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 2:24 |
+| 114 | [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 |
 | 115 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 |
 | 116 | [Gentle Awakening](https://open.spotify.com/track/0muXOxjvHlY8ZB83N751FC) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Gentle Awakening](https://open.spotify.com/album/2PlDvwBw3WfTCnyV11rAMl) | 3:30 |
 | 117 | [Guide](https://open.spotify.com/track/5seZHcpzWoUqYdpniMO4nc) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:23 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 123 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 |
 | 124 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
 | 125 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 |
-| 126 | [Atoms](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 2:19 |
+| 126 | [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 |
 | 127 | [Pulses](https://open.spotify.com/track/0g9YBXqgJJ7eRhlTxZyLj0) | [Joan Sterling](https://open.spotify.com/artist/60EppBmOMzamUBBmTjwCdM) | [Pulses](https://open.spotify.com/album/1re1THpQwIZVSnf5O7zgWu) | 2:10 |
 | 128 | [Pajala Sunrise](https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pajala Sunrise](https://open.spotify.com/album/0nNz0PrwY1kFTxtiFS411q) | 3:01 |
 | 129 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
@@ -184,16 +184,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 174 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 |
 | 175 | [For Emmabelle](https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [For Emmabelle](https://open.spotify.com/album/2NbjoYfZ6toamz1EPAA4lu) | 3:29 |
 | 176 | [Distant Future](https://open.spotify.com/track/7fQnWktkzG5HN2PJYc6G6g) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 2:19 |
-| 177 | [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 |
+| 177 | [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 |
 | 178 | [Dodecahedron](https://open.spotify.com/track/5hbUkTfxIrICrDjUPzvzhP) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Platonic Solids](https://open.spotify.com/album/0D8UJP5cneQe3ij4cA6t9W) | 3:15 |
 | 179 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 |
 | 180 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 |
 | 181 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 |
-| 182 | [Equal](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Equal](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 2:11 |
+| 182 | [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 |
 | 183 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
 | 184 | [The Garden's Light](https://open.spotify.com/track/7uLFo7WHyKjEKi5Rm6qe2o) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/1trY6YX2PRPKp7ZvPKijz6) | 3:13 |
-| 185 | [Moving Forest](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [Hultana](https://open.spotify.com/artist/0CBdXL77mOTeqHWtVcKsBo) | [Moving Forest](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 2:08 |
+| 185 | [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 |
 | 186 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 |
 | 187 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 |
 
-Snapshot ID: `MTY1NjA2OTU4NywwMDAwMDA0YTAwMDAwMTgxOTU3MDgxOTEwMDAwMDE2ZDE1NDc4Zjcy`
+Snapshot ID: `MTY1NjUwNjg3MywwMDAwMDA0YjAwMDAwMTgxYWY4MGY1MTgwMDAwMDE4MWFmODA3N2M1`

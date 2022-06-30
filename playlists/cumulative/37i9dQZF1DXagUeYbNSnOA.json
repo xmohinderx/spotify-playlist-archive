@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Inzul + A.C.O on cover.",
+  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Bilbao on cover.",
   "name": "Fresh Finds Latin",
   "published_playlist_ids": [
     "3bExY6e3wLROXTtlrvGceS"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 177752,
       "name": "Diskreto",
       "url": "https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc"
@@ -2817,7 +2817,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
@@ -4597,7 +4597,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 147325,
       "name": "La Provoque",
       "url": "https://open.spotify.com/track/2zp6jzGjpJY8R6JEoW7Bez"
@@ -8810,6 +8810,24 @@
     },
     {
       "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
+    },
+    {
+      "album": {
         "name": "\u00a1Apaga eso, ni\u00f1o!",
         "url": "https://open.spotify.com/album/2c4wXQmN7sA5grFG1LjDQj"
       },
@@ -9389,7 +9407,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 224859,
       "name": "Viento del Sur",
       "url": "https://open.spotify.com/track/7bTBbYeyKUW9IJk9wXvi9i"
@@ -9729,7 +9747,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 141692,
       "name": "\u00d3bice",
       "url": "https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21"

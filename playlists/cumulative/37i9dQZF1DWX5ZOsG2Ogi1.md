@@ -4,7 +4,7 @@
 
 > ¡Perreo del bueno! For those who like it raw.<br/>Cover: Alexis Y Fido
 
-102 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/1HQ1zGEsUWl8GwoGVDDmeh)
+103 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1HQ1zGEsUWl8GwoGVDDmeh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-21 | 2022-06-28 |
 | [Hasta Abajo](https://open.spotify.com/track/7zMiPiUEUDwVTJz7YEXznA) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Meet The Orphans \(International Version\)](https://open.spotify.com/album/6TQFtzcvfwqgUPBrGYGX4F) | 3:52 | 2022-03-21 |  |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-21 | 2022-06-28 |
+| [Jangueo](https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj) | [Arkey\-O](https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Jangueo](https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi) | 3:32 | 2022-06-29 |  |
 | [La fórmula \(feat\. Chris Jedi\)](https://open.spotify.com/track/4XCQtUoRSh22Ep18ULmDnT) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [La Formula \(feat\. Chris Jeday\)](https://open.spotify.com/album/7uhy1kS7GQRWdMxDe33vNc) | 3:52 | 2022-03-21 |  |
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2022-03-21 |  |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-03-21 |  |

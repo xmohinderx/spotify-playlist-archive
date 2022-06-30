@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Soccer Mommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,921 likes - 165 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,176 likes - 165 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,789 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,979 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 30 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 |
 | 31 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 32 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
-| 33 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
+| 33 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
 | 34 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
 | 35 | [Cater](https://open.spotify.com/track/6itJR6bgCqET35rCJFnULf) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Cater](https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW) | 2:44 |
 | 36 | [you & me](https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:24 |

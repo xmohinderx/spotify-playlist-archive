@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 202135,
       "name": "22k",
       "url": "https://open.spotify.com/track/7v7Si5nrvM7MBVE1BVtlit"
@@ -6689,7 +6689,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
@@ -7313,7 +7313,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
@@ -10301,6 +10301,24 @@
       "duration_ms": 174164,
       "name": "SCOOP (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
+    },
+    {
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "album": {
@@ -14805,7 +14823,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 215064,
       "name": "\u0422\u0440\u0435\u0437\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/4BGRK42GfRCw2Hoolpu1G7"
@@ -14871,7 +14889,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"

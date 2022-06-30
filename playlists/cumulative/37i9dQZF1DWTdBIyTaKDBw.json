@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 228000,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 212150,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 186697,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 265773,
       "name": "Dancing Universe",
       "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 250906,
       "name": "Farewell \ud0c0\uc778\uc774 \ub418\uc5b4",
       "url": "https://open.spotify.com/track/3kBajXxD5kLRnL9bBHitlk"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 212898,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 245159,
       "name": "I drink again",
       "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 180413,
       "name": "I know",
       "url": "https://open.spotify.com/track/3nZ41ylOYXcJ8ydGSSMKsf"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 223220,
       "name": "I Really Didn't Know You",
       "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 188920,
       "name": "I'll remember you",
       "url": "https://open.spotify.com/track/78AudmluhvT8wSeOshMGrY"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 227158,
       "name": "If I Was There - Full Version",
       "url": "https://open.spotify.com/track/50T2Qs6xt60D7YksyuuXyk"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 261321,
       "name": "Lullaby (zz)",
       "url": "https://open.spotify.com/track/2y7vVELbuhI132UZNBjtsZ"
@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "My Journey",
+        "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203285,
+      "name": "My Journey",
+      "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
+    },
+    {
+      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
       },
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 174856,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 211434,
       "name": "Nosso Samba",
       "url": "https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 229878,
       "name": "Precious Love",
       "url": "https://open.spotify.com/track/01ZTDb5OetwkYVR3BwKgKY"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 251020,
       "name": "Purple Breeze",
       "url": "https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/0OGI8Mqjdy9BM9kuxCfyUg"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 228934,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 219259,
       "name": "Sorry But",
       "url": "https://open.spotify.com/track/3RQYc694ID1yZlcb4O9EqV"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 186613,
       "name": "Starry - Minimal Version",
       "url": "https://open.spotify.com/track/6sUtXeujC7uH57dISpkih6"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 260615,
       "name": "Still (feat. Stella Jang)",
       "url": "https://open.spotify.com/track/5E3jHSopOlnv4UZ5P7EkEb"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 196773,
       "name": "SuperMoon",
       "url": "https://open.spotify.com/track/25xBsASRnYwryM5Ftb7pZQ"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 239880,
       "name": "The Season Of You",
       "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 211293,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3GonfUaE510U0dbOYPOQl0"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 239613,
       "name": "\ub098\ube44",
       "url": "https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 217666,
       "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
       "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 277591,
       "name": "\uce74\ud398\uc778",
       "url": "https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme"

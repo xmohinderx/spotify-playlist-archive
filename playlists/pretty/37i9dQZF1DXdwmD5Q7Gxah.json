@@ -1,12 +1,12 @@
 {
   "description": "every week find new tracks from artists u love, artists u will love, and old songs u forgot u loved. cover: Djo",
-  "num_followers": 920554,
+  "num_followers": 920627,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ0Njc2NCwwMDAwMDM5ZTAwMDAwMTgxYWJlYmM1ZmQwMDAwMDE4MTkxOGI3ODBi",
+  "snapshot_id": "MTY1NjUzNzE0MSwwMDAwMDM5ZjAwMDAwMTgxYjE0ZWQxNWMwMDAwMDE4MTkxOGI3ODBi",
   "tracks": [
     {
       "added_at": "2022-06-22 04:32:24",
@@ -55,6 +55,22 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-06-29 21:12:21",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2022-06-24 00:04:38",
@@ -643,22 +659,6 @@
       "duration_ms": 206800,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe"
-    },
-    {
-      "added_at": "2022-06-15 19:50:14",
-      "album": {
-        "name": "more",
-        "url": "https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "more",
-      "url": "https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd"
     },
     {
       "added_at": "2022-05-20 20:15:49",

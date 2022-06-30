@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:57 | 2022-06-10 |  |
+| [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:58 | 2022-06-10 |  |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alison](https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2) | [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn) | [The Mouth of Monte Cristo](https://open.spotify.com/album/5Kakth9mCCQob7NRrzSUGg) | 3:10 | 2022-03-25 | 2022-05-07 |
@@ -160,7 +160,7 @@
 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 | 2022-04-29 |  |
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-25 |  |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |
-| [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 | 2022-04-15 |  |
+| [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:05 | 2022-04-15 |  |
 | [Vie de rêve](https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie de rêve](https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC) | 2:40 | 2022-04-01 |  |
 | [Ville américaine](https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Ville américaine](https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5) | 3:11 | 2022-03-25 | 2022-04-16 |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |

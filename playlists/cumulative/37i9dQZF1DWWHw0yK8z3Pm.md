@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Digging Roots
 
-118 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+119 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-05-13 |  |
 | [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 |  |
+| [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 |  |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 |  |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 |  |
@@ -110,7 +111,7 @@
 | [The Fool](https://open.spotify.com/track/29nN7NsUSHJyz3tyZDESED) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [The Fool](https://open.spotify.com/album/1TXgB7zlcVS7f1PPP8y88o) | 4:00 | 2022-05-13 |  |
 | [The Gathering Chant](https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [The Gathering Chant](https://open.spotify.com/album/2aiTFD9BrSl6JGkzGe4Fz7) | 1:53 | 2022-06-24 |  |
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 |  |
-| [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 |  |
+| [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 | 2022-06-30 |
 | [Thief](https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Prophecies](https://open.spotify.com/album/6jxJiy3tnUX2kUpFecYXtS) | 4:10 | 2022-05-13 |  |
 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 | 2022-05-13 |  |
 | [Top Down](https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 3:18 | 2022-05-13 |  |

@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
@@ -1631,6 +1631,24 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "album": {
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
       "album": {
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 203036,
       "name": "Truth About You",
       "url": "https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"

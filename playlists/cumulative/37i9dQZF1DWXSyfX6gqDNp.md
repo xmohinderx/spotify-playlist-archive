@@ -4,7 +4,7 @@
 
 > Slow jazz for evening listening pleasure.
 
-134 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+137 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-04-26 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 |  |
 | [Cry Me a River](https://open.spotify.com/track/2fh1H49wUKXuIstqnVgkuz) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Cry Me a River](https://open.spotify.com/album/7FdFjWnZPk76fC530goxrz) | 3:37 | 2022-05-10 |  |
-| [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2022-02-03 |  |
+| [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2022-02-03 | 2022-06-30 |
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2021-12-14 |  |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2021-12-14 |  |
 | [Dear Kathy](https://open.spotify.com/track/151RegbPut96kOvkSiPqLb) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:48 | 2021-12-14 |  |
@@ -61,7 +61,7 @@
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2021-12-14 |  |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-12-14 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/1p6wxI8LwDcO67o5kS3X2v) | [Ryan Turtle Trio](https://open.spotify.com/artist/7o9xTJw9Cpy1HRZG5fSkQx) | [I Loves You, Porgy](https://open.spotify.com/album/3XE7aC2JbxhYTgJ6ZEJ9z1) | 2:57 | 2021-12-14 |  |
-| [I Should Care](https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 10:02 | 2022-02-03 |  |
+| [I Should Care](https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 10:02 | 2022-02-03 | 2022-06-30 |
 | [I Wish I Knew](https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 4:40 | 2022-02-03 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/7g7uRAOFaOoLG6CcAPSUX5) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Trio 65](https://open.spotify.com/album/5v3Im6RH6X2GeaTKU1yH6e) | 4:46 | 2021-12-14 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a Sentimental Mood](https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS) | 4:34 | 2021-12-14 |  |
@@ -93,6 +93,7 @@
 | [My Ideal](https://open.spotify.com/track/7GnMpHjVWHC5W87OifzPX6) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Ideal](https://open.spotify.com/album/1NnYrcvic7aXLEDtvQmVCF) | 3:50 | 2021-12-14 |  |
 | [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 | 2022-05-25 |
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 |  |
+| [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-29 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 |  |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
@@ -100,7 +101,8 @@
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2021-12-14 |  |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-06-01 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
-| [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-02-03 |  |
+| [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-02-03 | 2022-06-30 |
+| [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-29 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 |  |
 | [Silhouette](https://open.spotify.com/track/1CcKHNpexFobMLQwN1MzKr) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 3:51 | 2021-12-14 |  |
 | [Since I Fell For You \- Remastered](https://open.spotify.com/track/11S6NRCdcsxKpEstEPCDg7) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 8:49 | 2021-12-14 |  |
@@ -118,6 +120,7 @@
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 |  |
 | [Stop Look Desire](https://open.spotify.com/track/1Tkj4AH4GndygWAUMJOMa2) | [Ellie & The Bunch](https://open.spotify.com/artist/3KgAqkM5fxFxW17aBtZkBD) | [Stop Look Desire](https://open.spotify.com/album/0KolRqxySLkvZWxnBhETRX) | 3:07 | 2021-12-14 | 2022-05-04 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-03 |  |
+| [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-29 |  |
 | [Tell Me When](https://open.spotify.com/track/0HG8WuIuukHhsonrn50qKk) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 5:06 | 2021-12-14 | 2022-05-11 |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-14 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-12-14 |  |

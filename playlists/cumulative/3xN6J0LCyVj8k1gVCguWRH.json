@@ -18078,6 +18078,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Do (Deja Vu)",
+        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Nothing To Do (Deja Vu)",
+      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
+    },
+    {
+      "album": {
         "name": "nothing.",
         "url": "https://open.spotify.com/album/1ZEz2SA5sYC8BbEpxBCkNl"
       },

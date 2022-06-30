@@ -4,10 +4,12 @@
 
 > Dedicated to all the programmers out there.
 
-103 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+103 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 0:00 | 2021-12-08 |  |
+| [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 | 2021-12-08 |  |
 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 | 2021-12-08 |  |
 | [1984](https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd) | [The Northern Lights](https://open.spotify.com/artist/1GpwgKzyUlA384o6IKrNIM) | [Dreamers, Pt\. 1](https://open.spotify.com/album/6ezV6vZg6bQPrYmJe9a6bx) | 3:29 | 2021-12-08 | 2022-06-01 |
 | [8 Hours, Still No Rain \- Mixed](https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:14 | 2022-01-17 |  |
@@ -18,7 +20,6 @@
 | [Alone in the World](https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Owls and Pinecones](https://open.spotify.com/album/04TS42w8CD2eLXL734HHsW) | 2:17 | 2021-12-08 |  |
 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 | 2021-12-08 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-12-08 |  |
-| [Arctic Future](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Arctic Future](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 3:22 | 2021-12-08 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-05-31 |  |
 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 | 2021-12-08 |  |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-12-08 |  |
@@ -104,7 +105,6 @@
 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 |  |
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2021-12-08 | 2022-06-01 |
 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 | 2021-12-08 |  |
-| [The World is Turning](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [The World Is Turning](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 1:58 | 2021-12-08 |  |
 | [Train From Paris](https://open.spotify.com/track/2xibxsCa7g3ScMB2vIwHWC) | [Mindtrap](https://open.spotify.com/artist/4OA32fupbR1suJd44PZJxU) | [Northern Rooms](https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR) | 4:28 | 2021-12-08 |  |
 | [Void](https://open.spotify.com/track/2bcXFEJxYaQ1D3GRI4OM3Z) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:42 | 2021-12-08 |  |
 | [Voyager 22](https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw) | [Kalbaisakhi](https://open.spotify.com/artist/0GpnIJfvw6GV1WMlQXTSA5) | [Tunnels](https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9) | 3:44 | 2021-12-08 |  |

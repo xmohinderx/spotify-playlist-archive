@@ -4,10 +4,15 @@
 
 > Restorative piano and ambient music.
 
-188 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+188 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 |  |
+| [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-12-23 |  |
 | [& Wishes](https://open.spotify.com/track/4hkCo5wgTmVLuVRUUgPDu7) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6S14GsEPWVumGwNoc4t0Zw) | 2:43 | 2021-12-23 |  |
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2021-12-23 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-23 |  |
@@ -16,11 +21,9 @@
 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2021-12-23 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-12-23 |  |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2021-12-23 |  |
-| [Arctic Tern](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Arctic Tern](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 2:24 | 2021-12-23 |  |
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 |  |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-06-16 |  |
 | [Ashes to Dawn](https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Ashes to Dawn](https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN) | 1:52 | 2022-01-07 |  |
-| [Atoms](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 2:19 | 2021-12-23 |  |
 | [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-03-03 |  |
 | [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-23 |  |
 | [Behind The Lines](https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Behind The Lines](https://open.spotify.com/album/7DzmeLoWc2QZ2DE3Q7Ctjn) | 3:48 | 2022-03-03 |  |
@@ -54,7 +57,6 @@
 | [Enlightened Room](https://open.spotify.com/track/7wVGdCV81JeomYcKNMoKcm) | [Jon Goldfield](https://open.spotify.com/artist/2T8zvXA9vOR9aHbTkhx0IU) | [Enlightened Room](https://open.spotify.com/album/2oqfsZYj4obwEVD8lUcZhj) | 2:13 | 2021-12-23 |  |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2021-12-23 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-23 |  |
-| [Equal](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Equal](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 2:11 | 2021-12-23 |  |
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2021-12-23 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 |  |
@@ -107,7 +109,6 @@
 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 | 2021-12-23 |  |
 | [Morze Bałtyckie](https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Morze Bałtyckie](https://open.spotify.com/album/0BBQJZf1gXSob0ie1QzSr8) | 3:01 | 2021-12-23 |  |
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
-| [Moving Forest](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [Hultana](https://open.spotify.com/artist/0CBdXL77mOTeqHWtVcKsBo) | [Moving Forest](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 2:08 | 2021-12-23 |  |
 | [My Road](https://open.spotify.com/track/69rn7QWmrgXcXPSaO2tVFZ) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [My Road](https://open.spotify.com/album/6Iq3praO2HtKnUk6fRvGbf) | 2:58 | 2021-12-23 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-12-23 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-23 |  |
@@ -163,7 +164,6 @@
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2021-12-23 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2021-12-23 |  |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2021-12-23 |  |
-| [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 | 2021-12-23 |  |
 | [St Albans](https://open.spotify.com/track/5GBUaaYqPzsuqSQvwvD46g) | [Upsilon](https://open.spotify.com/artist/32zqABCKhd2sbF6HGT0pW2) | [St Albans](https://open.spotify.com/album/3GnvX2yoV5wEj9E670lPAs) | 2:47 | 2021-12-23 |  |
 | [Stelle Cadenti](https://open.spotify.com/track/2pG52ugtKo9cMmlRlaMkdu) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Stelle Cadenti](https://open.spotify.com/album/18umpfdQGdiMjHZcZmgjDs) | 3:25 | 2021-12-23 |  |
 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 | 2021-12-23 |  |

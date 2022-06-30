@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 ### [Rainy Day Blues](https://open.spotify.com/playlist/37i9dQZF1DXakNfvv7h2fY)
 
-> Rain keep a fallin’ round my window pane.\. Blues to warm the soul when there’s no point going outside.
+> Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,086 likes - 55 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,098 likes - 55 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 54 | [Some Days](https://open.spotify.com/track/0pVKQAbDh1gxOlvdupeWKL) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Some Days](https://open.spotify.com/album/2vI4AE3kEFwcr8MC549MMJ) | 3:31 |
 | 55 | [Same Old Blues Again](https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/1JYSyzv0oKu42PeEtQLKOE) | 6:13 |
 
-Snapshot ID: `MTY1MzQ4NTMxMiwwMDAwMDAxNDAwMDAwMTgwZmI2NzlhOTcwMDAwMDE3N2QzOGMzODQz`
+Snapshot ID: `MTY1NjUxMDU1MCwwMDAwMDAxNTAwMDAwMTgxYWZiOTEyYzQwMDAwMDE4MWFmYjhiNWJk`

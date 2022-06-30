@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: 8blevrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,995 likes - 56 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,013 likes - 56 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 43 | [Bleach](https://open.spotify.com/track/1srZMFBh4XhNvepHOzaEaC) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [Bleach](https://open.spotify.com/album/682pIXIUWT4PGf0FbibSXL) | 2:42 |
 | 44 | [Inchiostro sulla face \(feat\. MamboLosco\)](https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Dark Days](https://open.spotify.com/album/4KLl1gfpWPK2orHkhyyAVH) | 3:36 |
 | 45 | [Bene](https://open.spotify.com/track/1O3Mbb6UhUoOfOHTtdaqV4) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [Bene](https://open.spotify.com/album/31a5ESU6MrP0tkjnFC8IAF) | 2:22 |
-| 46 | [Que Pasa](https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0) | [Bastio167](https://open.spotify.com/artist/3xuKGlb6coOq5I9w3cY1re), [Ronny167](https://open.spotify.com/artist/19DcKkC92DviF01rO2TARs), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [Rush167](https://open.spotify.com/artist/1JuHKeUGibWZWTZRhSLhUl) | [Que Pasa](https://open.spotify.com/album/6xHQadbjK0DWeCQeWGG6JL) | 3:53 |
+| 46 | [Que Pasa](https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0) | [Bastio167](https://open.spotify.com/artist/3xuKGlb6coOq5I9w3cY1re), [Ronny167](https://open.spotify.com/artist/19DcKkC92DviF01rO2TARs), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [Rush 167](https://open.spotify.com/artist/7j4xqn8rHzenyZrfbOLMbP) | [Que Pasa](https://open.spotify.com/album/6xHQadbjK0DWeCQeWGG6JL) | 3:53 |
 | 47 | [EURO](https://open.spotify.com/track/3rzEdUTRzNQym0aiexeSy7) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [EURO](https://open.spotify.com/album/5n6v2WO3aJLR8s7WJBeEru) | 2:48 |
 | 48 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 |
 | 49 | [Ds Ep.8](https://open.spotify.com/track/4lnWGDZzX2zj8GreOGNhV7) | [Drillout](https://open.spotify.com/artist/2vCtOs0qQegutXqIuYzZgc), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Ds Ep.8](https://open.spotify.com/album/2ZV10RrQnYRFVqFtslTJJS) | 1:58 |

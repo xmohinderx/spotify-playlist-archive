@@ -3266,7 +3266,7 @@
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 239699,
+      "duration_ms": 239000,
       "name": "Lakeer",
       "url": "https://open.spotify.com/track/6Ca66dys8T7LWkKg6eY5JV"
     },
@@ -3884,20 +3884,24 @@
     },
     {
       "album": {
-        "name": "Marke",
+        "name": "Marke (From \"Lover\")",
         "url": "https://open.spotify.com/album/1J14jTWGhUoCR2mVCzYgAT"
       },
       "artists": [
         {
           "name": "Jass Manak",
           "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        },
+        {
+          "name": "Sharry Nexus",
+          "url": "https://open.spotify.com/artist/6IBgPtPR61L7ICdiuuT5EC"
         }
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166833,
-      "name": "Marke",
+      "name": "Marke - From \"Lover\"",
       "url": "https://open.spotify.com/track/4VvkQpAtDGihsQMBJCbZL9"
     },
     {

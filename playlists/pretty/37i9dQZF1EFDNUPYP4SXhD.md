@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 157 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 698 likes - 157 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 140 | [Duelo \(feat\. Wisin & Oneill\)](https://open.spotify.com/track/5ATch6785ozLDIVk5R6vMd) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Oneill](https://open.spotify.com/artist/3s0EkcVblYhUrWXBmutXit) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:13 |
 | 141 | [Rewind Selecta](https://open.spotify.com/track/0HyXMGcT0GpLt9gDvZdImX) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 2:59 |
 | 142 | [TU SI](https://open.spotify.com/track/1hDvFgac2a9NVCKPXjKWGr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:36 |
-| 143 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
-| 144 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 143 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 144 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
 | 145 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
 | 146 | [Él No Te Lo Hace Como Yo](https://open.spotify.com/track/5GnU16WYRJqHNRFUXDJYdu) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Invicto \(El Patrón\)](https://open.spotify.com/album/50SHDDJI7OTh9TtqtibhtO) | 3:14 |
 | 147 | [Volao](https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 156 | [No Estaban](https://open.spotify.com/track/2OGRGDDm6V3Jpb7V6BkaOD) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:04 |
 | 157 | [La Llevo Al Cielo](https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr) | [La Llevo Al Cielo](https://open.spotify.com/album/5JHA1Yu2F7h9kutIwcB1ho) | 2:50 |
 
-Snapshot ID: `Mjc2MDc3NDIsMDAwMDAwMDAzNTdjZGMxNDVlNzBhZGY1MGZiNmY5M2E4YzU5MDZlYQ==`
+Snapshot ID: `Mjc2MDkxODIsMDAwMDAwMDAwYjkzMmY5NDc5NWUzYWVkY2JiOTRiNWI5MTViZWFlYw==`

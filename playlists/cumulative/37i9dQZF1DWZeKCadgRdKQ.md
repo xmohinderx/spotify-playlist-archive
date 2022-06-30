@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-451 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+452 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* |  |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
+| [Cloud5](https://open.spotify.com/track/1rfbQdf8AYt7qZOIzaP5PP) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Cloud5](https://open.spotify.com/album/6RBIvAncdozL6m8r0sdsxT) | 2:35 | 2022-06-29 |  |
 | [Clovelly Dreams](https://open.spotify.com/track/55ojtTlWV3pyJLxIWEn0Z2) | [Zero Mileage](https://open.spotify.com/artist/6Ighdl27ZYCe5lkwr4nd0a) | [Clovelly Dreams](https://open.spotify.com/album/6F843Gp74FosoRk9RXvBs0) | 3:11 | 2019-06-19\* | 2021-09-14 |
 | [Coastlines](https://open.spotify.com/track/1CMi03AXBZLUT2Wg6YHd9s) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [Coastlines](https://open.spotify.com/album/0rSFyMg9HbshcjLkAkB3uB) | 2:58 | 2022-04-14 |  |
 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 | 2019-12-31 | 2021-11-26 |

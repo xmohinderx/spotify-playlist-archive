@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈ cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,117 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,570 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

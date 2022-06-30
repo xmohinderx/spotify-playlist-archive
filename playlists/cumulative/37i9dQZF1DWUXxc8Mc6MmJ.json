@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 230969,
       "name": "Beautiful My Love",
       "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 250455,
       "name": "Cherry Blossom Love Song",
       "url": "https://open.spotify.com/track/1VwOad23MsNZkmDyIyxEXe"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 206058,
       "name": "Diamond Hotel (Original Television Soundtrack) 1st",
       "url": "https://open.spotify.com/track/3pdq96X7JQGp9L0HcmQ4EY"
@@ -539,6 +539,24 @@
       "duration_ms": 197647,
       "name": "Dinner Mate",
       "url": "https://open.spotify.com/track/62byJTC4iXxkaupYDYcMci"
+    },
+    {
+      "album": {
+        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/3I7EdLTSuWmTxaUdB28Xu7"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Distant Fate",
+      "url": "https://open.spotify.com/track/6cwog2cadHETvgU9wJWAs3"
     },
     {
       "album": {
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 254346,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 207999,
       "name": "I Just Want To Stay With You",
       "url": "https://open.spotify.com/track/6ldRtpROAk4H3BT4trDo9X"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 259713,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 275362,
       "name": "Is It Still Beautiful",
       "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 221909,
       "name": "Let Us Go",
       "url": "https://open.spotify.com/track/2y3Z9MQdgoENX8FtIVI40H"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
@@ -1707,10 +1725,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 270073,
       "name": "Mystic World",
       "url": "https://open.spotify.com/track/2WV4Uw45aAFxv5oQMR0Dy2"
+    },
+    {
+      "album": {
+        "name": "Familiar Wife (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4y8MUln32prtLbj7tfl8Ws"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217016,
+      "name": "No Longer Mine",
+      "url": "https://open.spotify.com/track/5u2wX8wgzq5cEBZwQsdqoo"
     },
     {
       "album": {
@@ -1851,7 +1887,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 235293,
       "name": "Please Don't Cry",
       "url": "https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE"
@@ -1887,7 +1923,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 262640,
       "name": "Rain or Shine",
       "url": "https://open.spotify.com/track/5KgiTDTshu1Hdc2lbcVs76"
@@ -1959,7 +1995,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 287813,
       "name": "Someday, The Boy",
       "url": "https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc"
@@ -1977,7 +2013,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
@@ -1995,7 +2031,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
@@ -2053,7 +2089,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 161738,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 242786,
       "name": "The Only Reason",
       "url": "https://open.spotify.com/track/7L0sdabB8ORxLAPaHd9k4K"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 263870,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/3fnhqgNnzE3eALxismWcpv"
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 267893,
       "name": "Two People",
       "url": "https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk"
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 238266,
       "name": "We're Already",
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 240680,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 217202,
       "name": "You Are My World",
       "url": "https://open.spotify.com/track/3RYVWLRwdRaneGvLBcw4lH"
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
@@ -2557,7 +2593,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 302852,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"

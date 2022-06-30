@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,999 likes - 120 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,359 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 49 | [Blinding Lights \- Piano Instrumental](https://open.spotify.com/track/6ITPNmzJsCrh6yVrKezsmU) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq) | [Blinding Lights \(Piano Instrumental\)](https://open.spotify.com/album/6W02DhaFOr3p1PkEOUDLJT) | 2:19 |
 | 50 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 |
 | 51 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 |
-| 52 | [Dancing On My Own](https://open.spotify.com/track/1Ozt1obcVy047VXqX1nL9o) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Dancing On My Own](https://open.spotify.com/album/1RqwjVmRM3p1U0lYZjmOif) | 3:50 |
+| 52 | [](https://open.spotify.com/track/1Ozt1obcVy047VXqX1nL9o) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RqwjVmRM3p1U0lYZjmOif) | 0:00 |
 | 53 | [Let Her Go](https://open.spotify.com/track/6sXI8gKfhj9qrVe1hHdqtm) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Let Her Go](https://open.spotify.com/album/62yCcm77GRgbBNdRUfSGa5) | 3:09 |
 | 54 | [In The Air Tonight](https://open.spotify.com/track/6NTdYJI8jF1fsIg9VBz15H) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [In The Air Tonight](https://open.spotify.com/album/21IBJizjTDWLzK0NDf8J6w) | 3:51 |
 | 55 | [Someone You Loved](https://open.spotify.com/track/1OUrhIEQpf5kfjuYHydFRr) | [Cookies and Juice](https://open.spotify.com/artist/76bACRohGinRhW4sCg0q6z) | [Truth Hurts](https://open.spotify.com/album/2YuLURbRt081gFcXO6p7w2) | 3:20 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 57 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 |
 | 58 | [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 |
 | 59 | [Ho hey](https://open.spotify.com/track/2ahwerIzRcGeSMQnZ2DDJa) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:32 |
-| 60 | [Into You](https://open.spotify.com/track/3hmL1cOzr4n3mHBbKZtAbZ) | [Ofelia Marsh](https://open.spotify.com/artist/4FHxVyShnZBNHnblLJiLx9) | [Into You](https://open.spotify.com/album/66GzOHnq3DkTILegcyCq8e) | 4:38 |
+| 60 | [](https://open.spotify.com/track/3hmL1cOzr4n3mHBbKZtAbZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66GzOHnq3DkTILegcyCq8e) | 0:00 |
 | 61 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 |
 | 62 | [Hallelujah](https://open.spotify.com/track/5N8j7CpnWXB8GNJ1p4hkn7) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Hallelujah](https://open.spotify.com/album/0TKpJk97pMW4Ud7jOHG6Ql) | 2:21 |
 | 63 | [Lose You To Love Me](https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [Lose You To Love Me](https://open.spotify.com/album/4uFMkF6JI6EXjYx7eOaU9L) | 4:22 |
 | 64 | [Kiss From A Rose](https://open.spotify.com/track/1bXpC6d1HeFKiboBnWChfq) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Kiss From A Rose](https://open.spotify.com/album/6l6H11DfTD1fr2LekdI9Ky) | 3:18 |
 | 65 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 |
 | 66 | [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 |
-| 67 | [Someone Like You](https://open.spotify.com/track/4psNwcpptecBlV8hgPkgVd) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Someone Like You](https://open.spotify.com/album/6tStYHbBPt5D4LGVVNQjA7) | 3:50 |
+| 67 | [](https://open.spotify.com/track/4psNwcpptecBlV8hgPkgVd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6tStYHbBPt5D4LGVVNQjA7) | 0:00 |
 | 68 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 |
 | 69 | [I Will Wait](https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [I Will Wait](https://open.spotify.com/album/2rIJ96WWRZkmgxP1lRp328) | 3:43 |
 | 70 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 |
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 75 | [Little Talks](https://open.spotify.com/track/7Dz3Ok7hysQ973FBzrvfwg) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:36 |
 | 76 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 |
 | 77 | [Think Of Me](https://open.spotify.com/track/1LPJlWLif9EaYJMZeta4td) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Think Of Me](https://open.spotify.com/album/01CAZk0M1rPIItbuiBvUsx) | 3:39 |
-| 78 | [We Don't Talk Anymore](https://open.spotify.com/track/0oYpL4iDhZirA5ctnB6vcA) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [We Don't Talk Anymore](https://open.spotify.com/album/7iZHW4AqiwUzIQ56mC9mFY) | 4:04 |
-| 79 | [Wrecking Ball](https://open.spotify.com/track/602bRvSIzuRyPUllVvhwUA) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Wrecking Ball](https://open.spotify.com/album/3ieyvWXZwTTTnUqrPyutI4) | 4:20 |
+| 78 | [](https://open.spotify.com/track/0oYpL4iDhZirA5ctnB6vcA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7iZHW4AqiwUzIQ56mC9mFY) | 0:00 |
+| 79 | [](https://open.spotify.com/track/602bRvSIzuRyPUllVvhwUA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3ieyvWXZwTTTnUqrPyutI4) | 0:00 |
 | 80 | [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 |
 | 81 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 |
 | 82 | [Time After Time](https://open.spotify.com/track/1stBQsEHMo5cFWNOa41AlQ) | [Lottie Knight](https://open.spotify.com/artist/4fBfPbu5NCGGJdxLHeFJpm) | [Time After Time](https://open.spotify.com/album/37cfACU6aMRk7EbUbPA3kD) | 2:40 |
 | 83 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 84 | [Your Song](https://open.spotify.com/track/0ZSFjbcjmMccbJbWouNRxR) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Your Song](https://open.spotify.com/album/6sXEv9gm3KucaAjT8FIvif) | 3:54 |
-| 85 | [Just Hold On](https://open.spotify.com/track/7pohC6860dSeErh6ngNdPh) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Just Hold On](https://open.spotify.com/album/0dXmMe7Ss7J55tm2kE84n6) | 3:43 |
+| 85 | [](https://open.spotify.com/track/7pohC6860dSeErh6ngNdPh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0dXmMe7Ss7J55tm2kE84n6) | 0:00 |
 | 86 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 |
 | 87 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 |
 | 88 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 |

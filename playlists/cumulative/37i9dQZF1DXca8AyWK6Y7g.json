@@ -762,7 +762,7 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182506,
+      "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 163240,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf"
@@ -5081,7 +5081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 163727,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/7bIa6A4XjMVy4trhKI0Z3G"
@@ -6842,6 +6842,24 @@
     },
     {
       "album": {
+        "name": "Friend Like Me",
+        "url": "https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152224,
+      "name": "Friend Like Me",
+      "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
+    },
+    {
+      "album": {
         "name": "Friendly Sex",
         "url": "https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2"
       },
@@ -7063,7 +7081,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 219542,
       "name": "Garden On The Kitchen Floor",
       "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"
@@ -9011,7 +9029,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh"
@@ -9583,7 +9601,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 180022,
       "name": "I Would Probably Hate You",
       "url": "https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88"
@@ -12053,7 +12071,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -12991,7 +13009,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 171033,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/7pjGaJVs9ShUB6SFJTjWsO"
@@ -16219,7 +16237,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 163602,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
@@ -16797,7 +16815,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 187200,
       "name": "sideways",
       "url": "https://open.spotify.com/track/13ioHTU2uplzpkkvTUqfp2"
@@ -18619,7 +18637,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "survival of the littest",
       "url": "https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv"
@@ -21033,7 +21051,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
@@ -21579,7 +21597,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 212315,
       "name": "XO",
       "url": "https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,109 songs - 2 day 7 hr 31 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,110 songs - 2 day 7 hr 34 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,7 +776,8 @@
 | [Para Drill](https://open.spotify.com/track/1JOAfPOJkTIdrVdrYMF9LD) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Para Drill](https://open.spotify.com/album/5yzDaI7YfeqfqQhTKIXbix) | 2:49 | 2021-09-26 | 2021-10-10 |
 | [Paradies](https://open.spotify.com/track/0DsZj4PVVZjYCjhvibE5wp) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [Paradies](https://open.spotify.com/album/4L9dYYS3AD0YlnDA0RhojR) | 2:46 | 2021-08-22 | 2021-09-12 |
 | [Paradies \- Sampler Version](https://open.spotify.com/track/2WXcbvwgAa3xrm7IfgeMjB) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 3:39 | 2021-05-16 | 2021-05-22 |
-| [PARADISE](https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2) | 3:14 | 2022-06-14 |  |
+| [PARADISE](https://open.spotify.com/track/1fa4cA1z1a8Rksf8R6S1sl) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [PARADISE](https://open.spotify.com/album/6lLiiVhYLULssJM3SIt7VK) | 3:12 | 2022-06-29 |  |
+| [PARADISE](https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2) | 3:14 | 2022-06-14 | 2022-06-30 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27\* | 2021-05-16 |
 | [Parfum](https://open.spotify.com/track/7DAwoiyKRNeS25oqvGk5lQ) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Parfum](https://open.spotify.com/album/5jhjbLKW9HyjkEaG9RXVWu) | 3:06 | 2021-09-19 | 2021-09-26 |
 | [PARIS](https://open.spotify.com/track/1IPehjfuM8MXe6GIoen6Nl) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [PARIS](https://open.spotify.com/album/62F2KM426pWj60wT9Ag2qW) | 2:45 | 2022-04-02 | 2022-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: THEMOONWILLALWAYSBEWITHME
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,834 likes - 95 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,882 likes - 95 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

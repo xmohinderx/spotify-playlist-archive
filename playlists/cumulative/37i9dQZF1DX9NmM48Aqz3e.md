@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 | 2020-10-29\* | 2022-06-29 |
-| [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 | 2020-10-29\* |  |
+| [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 | 2020-10-29\* |  |
+| [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 | 2020-10-29\* | 2022-06-30 |
 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 | 2020-10-29\* |  |
 | [All That You Are \(x3\) \- 1997 Digital Remaster](https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:41 | 2020-10-29\* |  |
 | [Any Day Now](https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or) | [The Watchmen](https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD) | [Silent Radar](https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ) | 4:41 | 2020-10-29\* |  |

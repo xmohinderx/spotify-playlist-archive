@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,149 likes - 111 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,190 likes - 111 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 110 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
 | 111 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 |
 
-Snapshot ID: `MTY1NjA2OTU2NCwwMDAwMDAxYjAwMDAwMTgxOTU3MDI5ZGQwMDAwMDE3OTlkYzkxZjU2`
+Snapshot ID: `MTY1NjQ5NzUwNiwwMDAwMDAxYzAwMDAwMTgxYWVmMjBhOTIwMDAwMDE4MWFlZjFlNGEy`

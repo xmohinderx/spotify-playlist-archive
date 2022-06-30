@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-20",
-  "description": "From wistful sonatas, to ghostly trios and triumphant concertos, there's music for every mood in this collection of Beethoven's famous works for piano.",
+  "description": "Beethoven's famous works for piano, from wistful sonatas to ghostly trios.",
   "name": "Beethoven Piano",
   "published_playlist_ids": [
     "775TmBxgw3Wj9Yl1JjXsBO"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 268800,
       "name": "6 Bagatelles, Op. 126: No. 6 in E-Flat Major: Presto - Andante amabile e con moto - Tempo I",
       "url": "https://open.spotify.com/track/5vM1VKeOWBLCrZdRWaOr7Z"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 119693,
       "name": "7 Bagatelles, Op. 33: No. 3 in F Major: Allegretto",
       "url": "https://open.spotify.com/track/6ybwdtG4n06AxuxtmGVjy3"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 1153600,
       "name": "Beethoven: Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",
       "url": "https://open.spotify.com/track/1RUnqLGa9RKsVn1YsrNPjw"
@@ -248,6 +248,50 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8-11",
+        "url": "https://open.spotify.com/album/1p4nytsQSvzwlp07BAOx9i"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433306,
+      "name": "Beethoven: Piano Sonata No. 11 in B-Flat Major, Op. 22: II. Adagio con molto espressione",
+      "url": "https://open.spotify.com/track/2s8ae3ZvdV4zCPf7oKlWe3"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas 14 'Moonlight', 21 'Waldstein' & 23 'Appassionata'",
+        "url": "https://open.spotify.com/album/2DoaEprjJPfe0k9wTfHRJ0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417702,
+      "name": "Beethoven: Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/5BCJMm4PRTEmdkbLOtDBA1"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos 23, \"Appassionata\", 24, 25 & 26, \"Les Adieux\"",
         "url": "https://open.spotify.com/album/2yPVkZrO1nmKvA5WYaHh97"
       },
@@ -263,7 +307,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 446706,
       "name": "Beethoven: Piano Sonata No. 23 in F Minor, Op. 57, \"Appassionata\": III. Allegro ma non troppo - Presto",
       "url": "https://open.spotify.com/track/2GTZR5LNthcQQzY1LZCCiZ"
@@ -285,7 +329,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 527920,
       "name": "Beethoven: Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": I. Grave - Allegro di molto e con brio",
       "url": "https://open.spotify.com/track/6Gx87f115mWFlRvANR6h3B"
@@ -329,7 +373,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 66760,
       "name": "Diabelli Variations, Op. 120: Thema: Vivace",
       "url": "https://open.spotify.com/track/6JLRTdPrVWcm3mTAsbVjHs"
@@ -351,7 +395,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 232093,
       "name": "Diabelli Variations, Op. 120: Variation XXXIII: Tempo di Minuetto moderato",
       "url": "https://open.spotify.com/track/7o4v7YxWaWUsnM4FG39eMO"
@@ -409,7 +453,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 1124133,
       "name": "Fantasia For Piano, Chorus And Orchestra In C Minor, Op. 80 - Live",
       "url": "https://open.spotify.com/track/2pS3MawlhoJTcjyR4xogBg"
@@ -435,10 +479,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 919013,
       "name": "Fantasia in C Minor, Op. 80 \"Choral Fantasy\": II. Finale. Allegro - Allegretto, ma non troppo, quasi andante con moto",
       "url": "https://open.spotify.com/track/1aLs8G7GNBWLloglhNP0Nd"
+    },
+    {
+      "album": {
+        "name": "Beethoven Piano Sonatas, Vol. 8, No. 8 (\u201cPath\u00e9tique\u201d), 10, 22 & 31",
+        "url": "https://open.spotify.com/album/1eTQqqWxyxiJZspN5L5xba"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646293,
+      "name": "No. 31, Op. 110: III. Adagio ma non troppo \u2013 Fuga: Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/7ov8OWjlEK9tAKKTnvONsX"
     },
     {
       "album": {
@@ -495,7 +561,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 993000,
       "name": "Piano Concerto No. 3 in C Minor, Op. 37: I. Allegro con brio",
       "url": "https://open.spotify.com/track/0b2Bn02LxAqyEkgLPKU5F1"
@@ -525,7 +591,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 1152200,
       "name": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato",
       "url": "https://open.spotify.com/track/59cr6LUveBFGb14zYRYcaF"
@@ -555,7 +621,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 619306,
       "name": "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo (Vivace)",
       "url": "https://open.spotify.com/track/63jxAkTNBHRlLCOoRL4QI0"
@@ -585,10 +651,40 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 490026,
       "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
       "url": "https://open.spotify.com/track/0wZzCgNeRHHRsZVFIjvP4l"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concerto No.5",
+        "url": "https://open.spotify.com/album/071ZoYVL38NR1WnPP6jAHz"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547893,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso - Live",
+      "url": "https://open.spotify.com/track/6Gf9yJrOUxvYVGZZS2u95B"
     },
     {
       "album": {
@@ -607,7 +703,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 301933,
       "name": "Piano Sonata No. 13 in E Flat Major, Op. 27 No.1: I. Andante - Allegro - Tempo I",
       "url": "https://open.spotify.com/track/2uAQBfTdyMKzZA0zHzsvBs"
@@ -629,7 +725,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 318506,
       "name": "Piano Sonata No. 13 in E Flat Major, Op. 27 No.1: IV. Allegro vivace - Tempo I - Presto",
       "url": "https://open.spotify.com/track/7Aams2Vr6DfIfrD9QVrfP5"
@@ -651,7 +747,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 547693,
       "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastorale\": I. Allegro",
       "url": "https://open.spotify.com/track/40Mw3vOKyEp555jd5LOOfw"
@@ -673,7 +769,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 343093,
       "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastorale\": II. Andante",
       "url": "https://open.spotify.com/track/6ERJbaR9etUnv4wGwnSLJk"
@@ -739,7 +835,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 515640,
       "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\": 1. Allegro - Live",
       "url": "https://open.spotify.com/track/6H4tmpS3ZAMYwaCQYohMyp"
@@ -761,15 +857,15 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 265826,
       "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\": 4. Presto con fuoco - Live",
       "url": "https://open.spotify.com/track/06QlVo8AkQNJAx8DaiWSuq"
     },
     {
       "album": {
-        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
-        "url": "https://open.spotify.com/album/32OpISfgprAPuAzOgIDJAB"
+        "name": "Beethoven: Piano Sonatas Opp. 31 & 49",
+        "url": "https://open.spotify.com/album/4qy5eL1BisqgQTjyFvqwDp"
       },
       "artists": [
         {
@@ -777,16 +873,16 @@
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
         }
       ],
-      "date_added": "2020-02-24",
+      "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221600,
-      "name": "Piano Sonata No. 19 in G Minor, Op. 49, No. 1: I. Andante",
-      "url": "https://open.spotify.com/track/2CK9aU99OoulkXL3K8689s"
+      "duration_ms": 236146,
+      "name": "Piano Sonata No. 19 in G Minor, Op. 49 No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/2uQgLShu2btitCt1JVWx9c"
     },
     {
       "album": {
@@ -805,7 +901,51 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 221600,
+      "name": "Piano Sonata No. 19 in G Minor, Op. 49, No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/2CK9aU99OoulkXL3K8689s"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 436333,
+      "name": "Piano Sonata No. 2 In A Major, Op. 2, No. 2: 2. Largo appassionato",
+      "url": "https://open.spotify.com/track/60hN0CAHqU7x5XWtgPlE3a"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
+        "url": "https://open.spotify.com/album/32OpISfgprAPuAzOgIDJAB"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
       "duration_ms": 187573,
       "name": "Piano Sonata No. 20 in G Major, Op. 49 No. 2: II. Tempo di menuetto",
       "url": "https://open.spotify.com/track/6MSalsS57CICoUP0LYuGqS"
@@ -827,7 +967,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 627306,
       "name": "Piano Sonata No. 21 in C Major, Op. 53 \"Waldstein\": I. Allegro con brio",
       "url": "https://open.spotify.com/track/6LE8GDq7xUfpu8HLVrNBfo"
@@ -849,7 +989,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 216826,
       "name": "Piano Sonata No. 22 in F Major, Op. 54: II. Allegretto - Piu Allegro",
       "url": "https://open.spotify.com/track/4aqDKY7xbPyRNqUcldoLsl"
@@ -871,7 +1011,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 485813,
       "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": \u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u7b2c23\u756a\u30d8\u77ed\u8abf\u4f5c\u54c157\u300c\u71b1\u60c5\u300d \u7b2c2\u697d\u7ae0",
       "url": "https://open.spotify.com/track/6vxYao5xKKAjakASshUNRE"
@@ -900,6 +1040,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 27-32",
+        "url": "https://open.spotify.com/album/0Xlc4fuNl8S96xJ7RbFUbg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516213,
+      "name": "Piano Sonata No. 27 in E Minor, Op. 90: II. Nicht zu geschwind und sehr singbar vorgetragen",
+      "url": "https://open.spotify.com/track/61nU3MrzNHlWr064zdatX4"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos.28 & 29",
         "url": "https://open.spotify.com/album/0cAavl185miCXxZ1QlqRwY"
       },
@@ -915,7 +1077,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 684306,
       "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": 1. Allegro",
       "url": "https://open.spotify.com/track/6vUQabuV5uTGq9kh6TvgyT"
@@ -937,7 +1099,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 161800,
       "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": 2. Scherzo. Assai vivace - Presto - Prestissimo - Tempo I",
       "url": "https://open.spotify.com/track/2fgie52aND5WKGS2ktSlvT"
@@ -981,7 +1143,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 210706,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: 1. Vivace, ma non troppo - Adagio espressivo - Tempo I",
       "url": "https://open.spotify.com/track/2iaixErOLRO74Bd7404XdL"
@@ -1010,6 +1172,50 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 4",
+        "url": "https://open.spotify.com/album/5d0Wj1IHwX0T0Tnt6Rpo9P"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396240,
+      "name": "Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile, molto espressivo",
+      "url": "https://open.spotify.com/track/5ADkUi7fjHuEYtugf90Ck4"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 1",
+        "url": "https://open.spotify.com/album/43GCnAwtdvNJpXzsDo4iNj"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Adam Golka",
+          "url": "https://open.spotify.com/artist/0SoL7xATu7Yh46QVODCx9H"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "Piano Sonata No. 6 in F Major, Op. 10 No. 2: II. Allegretto",
+      "url": "https://open.spotify.com/track/2eBeADloLNk7zlPulIsTHy"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos. 5-7, Op. 10 and No. 25, Op. 79",
         "url": "https://open.spotify.com/album/13l4QfSTc4xCqbRUD0siKl"
       },
@@ -1025,7 +1231,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 252400,
       "name": "Piano Sonata No. 6 in F Major, Op. 10, No. 2: II. Allegretto",
       "url": "https://open.spotify.com/track/4MSPZt3ywlMV3CeB4I5fp5"
@@ -1047,7 +1253,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 290893,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": III. Rondo (Allegro)",
       "url": "https://open.spotify.com/track/7oZulk3E0PsXP0tIKYI3n5"
@@ -1091,7 +1297,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 132957,
       "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": II. Allegretto",
       "url": "https://open.spotify.com/track/2aqrpoc8M55j1KeHOsyMFM"
@@ -1113,7 +1319,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 461000,
       "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
       "url": "https://open.spotify.com/track/1X953Erb6YO8zxtcroIlcM"
@@ -1135,7 +1341,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 529000,
       "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\": 1. Largo - Allegro",
       "url": "https://open.spotify.com/track/31m79Z8vj8wKgdF9yULe28"
@@ -1179,7 +1385,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 402000,
       "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\": 3. Allegretto",
       "url": "https://open.spotify.com/track/6aFOWaoVFlOHyN8yPp1RTw"
@@ -1201,10 +1407,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 560173,
       "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\": 1. Allegro assai",
       "url": "https://open.spotify.com/track/36HD5pwxOlVGKwsHhG9gCY"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos.27, 28, 30 & 31",
+        "url": "https://open.spotify.com/album/14o0F8jSDYaA4q9JHwqqud"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Emil Gilels",
+          "url": "https://open.spotify.com/artist/21h8E3aA7a9mjcUHbLpjxf"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Piano Sonata No.28 In A, Op.101: 3. Langsam und sehnsuchtsvoll (Adagio ma non troppo, con affetto)",
+      "url": "https://open.spotify.com/track/6771jOj4BNQcVww8zRWjJ5"
     },
     {
       "album": {
@@ -1223,7 +1451,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 468106,
       "name": "Piano Trio No. 2 in G Major, Op. 1 No. 2: IV. Finale. Presto",
       "url": "https://open.spotify.com/track/5ZYC7ToMMPI1NJlY7Hwsh9"
@@ -1245,7 +1473,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 474200,
       "name": "Piano Trio No. 5 in D Major, Op. 70 No. 1 \"Ghost\": III. Presto",
       "url": "https://open.spotify.com/track/4sA062vPKeVNiol6k3SjU3"
@@ -1289,7 +1517,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 799466,
       "name": "Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": I. Allegro moderato",
       "url": "https://open.spotify.com/track/6HITPVQjOlsmuPYAy5x4p8"
@@ -1355,10 +1583,98 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 370666,
       "name": "Rondo a capriccio in G Major, Op. 129 \"Rage over a Lost Penny\"",
       "url": "https://open.spotify.com/track/6G8q8mv6yH7AA3gyLJUgQ2"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Sonata for Cello and Piano No. 4 in C Major, Op. 102 No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/6MvXLGAsLZe47GptzKW4io"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pierre Fouchenneret",
+          "url": "https://open.spotify.com/artist/37hnZPP7c01W6gNy5Bht0G"
+        },
+        {
+          "name": "Romain Descharmes",
+          "url": "https://open.spotify.com/artist/1rNgOH3BbQuNhS9XXFExVy"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490066,
+      "name": "Sonata for Piano and Violin No. 8 in G Major, Op. 30: II. Tempo di minuetto, ma molto moderato e grazioso",
+      "url": "https://open.spotify.com/track/1DeD5nWwXFbS0nSdn1yopQ"
+    },
+    {
+      "album": {
+        "name": "12 Most Beautiful Movements From Beethoven's 32 Piano Sonatas",
+        "url": "https://open.spotify.com/album/1y7bwFksi3OtEJIDVbez31"
+      },
+      "artists": [
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541669,
+      "name": "Sonata No. 4 in E flat major Op. 7: 2. Largo con gran espressione",
+      "url": "https://open.spotify.com/track/3fWf9XvM0g8yIoRQRm4Nz5"
+    },
+    {
+      "album": {
+        "name": "12 Most Beautiful Movements From Beethoven's 32 Piano Sonatas",
+        "url": "https://open.spotify.com/album/1y7bwFksi3OtEJIDVbez31"
+      },
+      "artists": [
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416154,
+      "name": "Sonata No. 5 in c minor Op.10 No.1: 2. Adagio molto",
+      "url": "https://open.spotify.com/track/458VXjYKGM11kEnFOCVEXC"
     },
     {
       "album": {
@@ -1421,7 +1737,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 517746,
       "name": "Trio No. 3, Op. 1: IV. Finale. Prestissimo",
       "url": "https://open.spotify.com/track/440GaJZEpmBkA9h3b2aG08"
@@ -1443,7 +1759,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 125638,
       "name": "Turkish March, Op.113 No.4",
       "url": "https://open.spotify.com/track/4Jha1ZUIC012EmLyod413r"

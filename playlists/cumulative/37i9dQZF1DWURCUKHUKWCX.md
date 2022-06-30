@@ -4,10 +4,11 @@
 
 > Atmospheric and emotional piano pieces.
 
-122 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+122 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2021-12-10 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Faint Qualm for the Future](https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv) | 2:41 | 2022-01-28 |  |
 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 | 2021-12-10 |  |
 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 | 2021-12-10 |  |
@@ -36,7 +37,6 @@
 | [Clarity \(Single\)](https://open.spotify.com/track/437HHrOnSWx0nv1oAEkGKX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Clarity \(Single\)](https://open.spotify.com/album/5tLsGeXebqlhZgFeODIgWo) | 1:34 | 2021-12-10 |  |
 | [cohesion](https://open.spotify.com/track/4IF2sXer3MvDQT7JHo546V) | [aaronk](https://open.spotify.com/artist/0hfc9fzWmuYbkQs9A20pbj), [Aaron K Peterson](https://open.spotify.com/artist/5uR0umVKI3KOwSC4MpJo1p) | [cohesion](https://open.spotify.com/album/2ThB99UVqC4PsUg0Nafuov) | 3:13 | 2022-01-28 |  |
 | [Dear, Dolores \- Dominique Charpentier Rework](https://open.spotify.com/track/4td4zI14Dq7ct7XHASNaoK) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Dear, Dolores \(Dominique Charpentier Rework\)](https://open.spotify.com/album/62cR9HzK7RSG2nE8KUKOVk) | 2:02 | 2021-12-10 |  |
-| [Despair](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Despair](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 3:14 | 2021-12-10 |  |
 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 | 2022-01-28 |  |
 | [Dusk](https://open.spotify.com/track/2MhXwjK9gnKjfSAfdB9zrW) | [Nkeiru Okoye](https://open.spotify.com/artist/45HzYdqJbg8BPgQBDqra2V), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Kete \- Piano Music of Africa and the African Diaspora](https://open.spotify.com/album/2p9Sb0tIEgL88LCXT7FMB2) | 3:24 | 2021-12-10 | 2022-01-05 |
 | [Duvet](https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Duvet](https://open.spotify.com/album/0nMFK7NgMeZD1xz1t384X3) | 3:24 | 2021-12-10 |  |

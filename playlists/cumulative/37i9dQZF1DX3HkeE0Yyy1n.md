@@ -4,7 +4,7 @@
 
 > Looking back at the greatest metal released in 2016.
 
-121 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
+121 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Is There Anybody out There?](https://open.spotify.com/track/3KWW3wKaQviTplvq6cFYFR) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody out There?](https://open.spotify.com/album/6kNCcyVUU39nbjSImUK8V5) | 4:32 | 2016-12-02 |  |
 | [Island Of Fools](https://open.spotify.com/track/4tW4eeqaYwieH1Y5TvZAzO) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [The Last Hero](https://open.spotify.com/album/5UGzaaihp7tX8hLwbxEJRT) | 5:00 | 2016-12-02 |  |
 | [Karate](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 | 2016-12-02 |  |
-| [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 6:26 | 2016-12-02 |  |
+| [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 0:29 | 2016-12-02 |  |
 | [Live and Burn](https://open.spotify.com/track/5kheBCHERdvNziSYgDdbc2) | [Deströyer 666](https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK) | [Wildfire](https://open.spotify.com/album/29NdXziu9bQePCxjSf9b5G) | 4:31 | 2016-12-02 |  |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36) | 2:41 | 2016-12-02 |  |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2016-12-02 |  |

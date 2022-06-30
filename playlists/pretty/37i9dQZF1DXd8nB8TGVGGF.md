@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,261 likes - 113 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,298 likes - 113 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 112 | [Blues Helping \- 1999 RemasterStereo](https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 3:44 |
 | 113 | [Outside Woman Blues](https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:24 |
 
-Snapshot ID: `MTY1NTIyMzg5NSwwMDAwMDAwYjAwMDAwMTgxNjMwODQ1YzcwMDAwMDE4MDA0YmQxMDg1`
+Snapshot ID: `MTY1NjUxMDgxMCwwMDAwMDAwYzAwMDAwMTgxYWZiZDA4MzAwMDAwMDE4MWFmYmJjOTg5`

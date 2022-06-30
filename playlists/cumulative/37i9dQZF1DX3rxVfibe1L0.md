@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-360 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
+361 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-11-01 | 2020-07-31 |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2021-08-03 | 2021-08-07 |
 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/3NkJNL3WqO1Lqc3uNDxvCN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Don’t Call Me Angel \(Charlie’s Angels\)](https://open.spotify.com/album/2qWVO5SXPdWAECnwEWYOJH) | 3:10 | 2019-09-13 | 2019-10-04 |
-| [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 | 2022-05-20 |  |
+| [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 | 2022-05-20 | 2022-06-30 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2020-10-09 | 2021-02-12 |
 | [Dynamite](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite](https://open.spotify.com/album/3zWmE5c3alhuoPLphxjMVd) | 3:19 | 2020-08-21 | 2021-02-12 |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2020-02-01 | 2020-03-20 |
@@ -179,6 +179,7 @@
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2020-06-12 | 2020-08-21 |
 | [Lease On Life](https://open.spotify.com/track/763ynRN90zLEp9hrNNINjl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/7hJy0WLlvp7OnfLRD3tE1O) | 2:48 | 2021-07-04 | 2022-02-05 |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2021-05-22 |  |
+| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-29 |  |
 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2020-08-21 | 2021-03-06 |
 | [Let You Love Me](https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Let You Love Me](https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm) | 3:10 | 2019-07-29\* | 2019-10-04 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-05-08 |  |

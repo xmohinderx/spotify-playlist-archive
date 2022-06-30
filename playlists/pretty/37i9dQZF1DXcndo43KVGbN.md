@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,960 likes - 93 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,976 likes - 93 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 92 | [Kogarashi, Postcard Five](https://open.spotify.com/track/4joej1hfb433p1mgpNQFdd) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 7:25 |
 | 93 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 |
 
-Snapshot ID: `MTY1Mjg5MTY5MiwwMDAwMDAyMDAwMDAwMTgwZDgwNWFlYjAwMDAwMDE3OThlODMxODQy`
+Snapshot ID: `MTY1NjUxNTgyOSwwMDAwMDAyMTAwMDAwMTgxYjAwOTlkMGYwMDAwMDE4MWIwMDk3OGUx`

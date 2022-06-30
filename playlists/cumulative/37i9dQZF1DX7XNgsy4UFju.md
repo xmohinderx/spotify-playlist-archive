@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Gorillaz
 
-490 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+491 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 | 2022-06-10 |  |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-04 | 2022-03-26 |
 | [Even is the Lie](https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 4:06 | 2021-12-31 | 2022-02-12 |
+| [Every Morning Is a Chance](https://open.spotify.com/track/6rlIF5MZKiTl8YVD6aOX9R) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Every Morning Is a Chance](https://open.spotify.com/album/6Lci2FAoJVZPjrG446SZVD) | 3:14 | 2022-06-24 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-03-18 |
 | [EVERYBODY ELSE](https://open.spotify.com/track/7aJABYHsynSazwJF0gbMmc) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 3:49 | 2022-02-18 | 2022-03-19 |
 | [Everything I Love Is Going To Die](https://open.spotify.com/track/3ZH7PRzRKfcYxU9aNQ6p3S) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Everything I Love Is Going To Die](https://open.spotify.com/album/5a4xRX65MiDzaeFKIv68T1) | 3:20 | 2021-12-31 | 2022-01-15 |

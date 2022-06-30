@@ -4,10 +4,11 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-122 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+123 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10000回のL.O.V.E\. <3](https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [10000回のL.O.V.E\. <3](https://open.spotify.com/album/3Na0PrQ0J4tMJzRLrLcnaS) | 4:16 | 2022-06-29 |  |
 | [1989's](https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [1989's](https://open.spotify.com/album/14984DgT52EAK32llFN3w6) | 4:37 | 2022-05-26 |  |
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-26 |  |

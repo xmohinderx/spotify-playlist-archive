@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Drake, Future, and Post Malone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,110,192 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,110,485 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

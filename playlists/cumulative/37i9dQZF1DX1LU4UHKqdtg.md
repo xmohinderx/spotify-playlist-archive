@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
 
-245 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+246 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [GUNS](https://open.spotify.com/track/6AGVVXBzy9h5nnroeAc0hN) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:15 | 2022-02-08 | 2022-03-09 |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-03-18 | 2022-05-27 |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
+| [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 |  |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
 | [HELLO](https://open.spotify.com/track/0xd4HZuHxk3ol5AFDxgAEK) | [Sanha](https://open.spotify.com/artist/1L7aDqsr2ACWR6h75SsL3c) | [HELLO](https://open.spotify.com/album/2BLiOaGVkavo7azxjJn4rB) | 3:32 | 2022-01-25 | 2022-02-12 |
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-10 | 2022-06-29 |

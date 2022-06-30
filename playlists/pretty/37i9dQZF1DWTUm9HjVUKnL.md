@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,284 likes - 757 songs - 1 day 22 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,300 likes - 757 songs - 1 day 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,8 +291,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 281 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
 | 282 | [Creep On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/10385jcCDV35eJtuc1BfVh) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 3:47 |
 | 283 | [Hurt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1garkqJoxvHzQi1rmLtGNB) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 4:27 |
-| 284 | [Fresh Start \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 3:10 |
-| 285 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 |
+| 284 | [Fresh Start \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 3:10 |
+| 285 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 |
 | 286 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 |
 | 287 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 |
 | 288 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Natasha Vora, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Gaya, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 230400,
       "name": "Aur Kya (Chapter 2)",
       "url": "https://open.spotify.com/track/1876jQ2EY9O28i5yg0nady"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 84873,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/2rcV22624b1qRUrKmUQFvT"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 230000,
       "name": "Band Aid",
       "url": "https://open.spotify.com/track/503qWOWg5h47IJfaQybln1"
@@ -903,6 +903,24 @@
       "duration_ms": 160769,
       "name": "Before",
       "url": "https://open.spotify.com/track/26t2UXiqBgSCX99SjrmeW0"
+    },
+    {
+      "album": {
+        "name": "Behind the Sky",
+        "url": "https://open.spotify.com/album/5jAvvmdCXajrWHLvIrTVSN"
+      },
+      "artists": [
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Behind the Sky",
+      "url": "https://open.spotify.com/track/4vlPzFLwuRmOtvH1pcFYO1"
     },
     {
       "album": {
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 253933,
       "name": "Ek Aisi Shaam - An Evening To Remember",
       "url": "https://open.spotify.com/track/5sQMsukipYLE0IIrE82oep"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 240000,
       "name": "Forever With You",
       "url": "https://open.spotify.com/track/2TvhGtELhp5DXm83ZJZFXr"
@@ -3009,10 +3027,28 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "In Denial",
       "url": "https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75"
+    },
+    {
+      "album": {
+        "name": "In The Memory Of You",
+        "url": "https://open.spotify.com/album/5wgQ4sVCbNHk0YmCJyN1GC"
+      },
+      "artists": [
+        {
+          "name": "That God Rio",
+          "url": "https://open.spotify.com/artist/5qyUgFrLRc6hGNM03Hz8bj"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179098,
+      "name": "In The Memory Of You",
+      "url": "https://open.spotify.com/track/7vKnQL34qagGgG7Iau7GtP"
     },
     {
       "album": {
@@ -3169,6 +3205,28 @@
       "duration_ms": 163478,
       "name": "I\u2019m On Your Side",
       "url": "https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ"
+    },
+    {
+      "album": {
+        "name": "Jaadugar",
+        "url": "https://open.spotify.com/album/5bwc6AGW4DHTX16hCE9jAQ"
+      },
+      "artists": [
+        {
+          "name": "Rushil Aswal",
+          "url": "https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol"
+        },
+        {
+          "name": "shreshth.",
+          "url": "https://open.spotify.com/artist/02gRmLTUQdbvdEs56lhlH0"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263645,
+      "name": "Jaadugar",
+      "url": "https://open.spotify.com/track/702aSTeNYc27sU1JerBGYE"
     },
     {
       "album": {
@@ -3875,7 +3933,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 212337,
       "name": "Khat",
       "url": "https://open.spotify.com/track/6XuH38WaoetaiTriUqwEmP"
@@ -3951,7 +4009,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 174946,
       "name": "Khushi",
       "url": "https://open.spotify.com/track/1I9RQvcW4amY9stqWfvBWc"
@@ -4131,7 +4189,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 216000,
       "name": "Kulfi",
       "url": "https://open.spotify.com/track/4kRHGApBIgxV4r1SjwD70l"
@@ -4315,6 +4373,24 @@
       "duration_ms": 274250,
       "name": "Le Chal Wahan Candle Light Version",
       "url": "https://open.spotify.com/track/3TxvxCQ8b1AS2r4WHGk67J"
+    },
+    {
+      "album": {
+        "name": "Lehrein",
+        "url": "https://open.spotify.com/album/1Lgw56R3NT3S5F1yBnNzeh"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214598,
+      "name": "Lehrein",
+      "url": "https://open.spotify.com/track/0IsbL0KydIWqELNzpnYRKK"
     },
     {
       "album": {
@@ -4581,6 +4657,24 @@
       "duration_ms": 214736,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/0wL7Oinb6A06LIvZksJl9j"
+    },
+    {
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/7sgMvxLAtwqn34OivbZUVq"
+      },
+      "artists": [
+        {
+          "name": "Viepsa Arora",
+          "url": "https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Magic Potion",
+      "url": "https://open.spotify.com/track/4MyByCd0jPAMq3WhfnExc5"
     },
     {
       "album": {
@@ -5549,7 +5643,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 270730,
       "name": "Now She Knows",
       "url": "https://open.spotify.com/track/3thHuhTiYFrvsZrivGqz31"
@@ -7030,6 +7124,24 @@
     },
     {
       "album": {
+        "name": "Shaam",
+        "url": "https://open.spotify.com/album/6vd9RQIYymxjF1GumO0LDh"
+      },
+      "artists": [
+        {
+          "name": "Arun Singh",
+          "url": "https://open.spotify.com/artist/1HOTjNgFs3C2XlQLSTG6B4"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Shaam",
+      "url": "https://open.spotify.com/track/4ktaJXIoCnhjODrOwSCPBg"
+    },
+    {
+      "album": {
         "name": "Shampoo Bottle",
         "url": "https://open.spotify.com/album/4sSWUGMwMbQV4qor0JJFfF"
       },
@@ -7491,7 +7603,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 237473,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1Qdw8KCUZzWA1dmVznO3GQ"
@@ -8424,6 +8536,24 @@
     },
     {
       "album": {
+        "name": "Umeed",
+        "url": "https://open.spotify.com/album/10Y8kBYTs2bnWFnCTD1XQv"
+      },
+      "artists": [
+        {
+          "name": "Parth Bhatt",
+          "url": "https://open.spotify.com/artist/7GmJhVIDRsNUG41dpCf64x"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241967,
+      "name": "Umeed",
+      "url": "https://open.spotify.com/track/4cqq8AEHXZkfHuXHvJQ4je"
+    },
+    {
+      "album": {
         "name": "Umeedein",
         "url": "https://open.spotify.com/album/0a0psDMAuT3LykGlj3lxMG"
       },
@@ -8511,7 +8641,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 190153,
       "name": "Waqt Ke Pare",
       "url": "https://open.spotify.com/track/1Dnc1FMkRpBNK0WxPZ3n75"
@@ -8693,6 +8823,28 @@
       "duration_ms": 195138,
       "name": "Wish I Could Forget Reggae Version",
       "url": "https://open.spotify.com/track/0eEvFRSDGk5zcnHdssCMqV"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4Qb5j906P1S8gU6g5XBQfs"
+      },
+      "artists": [
+        {
+          "name": "Vernon D'Souza",
+          "url": "https://open.spotify.com/artist/0qcuonBcn8p8ej13hDIzcc"
+        },
+        {
+          "name": "Rhys Sebastian",
+          "url": "https://open.spotify.com/artist/0nPBhIDCOXUx8EF1VViSMG"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296727,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7w59rr2ExxuYu6OhsGnhHC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> w/ Zack Fox, Tuesdays at 8pm EST\. Cover: Cochise
 
-314 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+315 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [RFGL](https://open.spotify.com/track/5Im9BMrf0xkFD4xNHiKDUl) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [RFGL](https://open.spotify.com/album/4UTAFypc6vOhVu74J0Srpn) | 2:30 | 2022-03-25 | 2022-05-14 |
 | [RGB](https://open.spotify.com/track/08hDpMZBxJ11C4Eev0cXvt) | [CRASH RARRI](https://open.spotify.com/artist/2c2ekMthLByoJhFMLLl2Ch) | [RGB](https://open.spotify.com/album/71t3ZOUKRMBw0lp3N6yR2M) | 3:05 | 2022-03-01 | 2022-05-27 |
 | [RICH BOY](https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK) | 1:51 | 2021-12-10 | 2022-03-07 |
+| [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-06-29 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-10-01 | 2022-04-03 |
 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 | 2022-01-21 | 2022-02-05 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-16 |  |

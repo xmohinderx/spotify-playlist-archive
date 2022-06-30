@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD"
+    },
+    {
+      "album": {
         "name": "My First Lullaby Album",
         "url": "https://open.spotify.com/album/7jWwkxxBUKtWGVv7xKnHhz"
       },
@@ -195,24 +213,6 @@
       "duration_ms": 293826,
       "name": "As Ballad",
       "url": "https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5"
-    },
-    {
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB"
-      },
-      "artists": [
-        {
-          "name": "Otto Wahl",
-          "url": "https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF"
-        }
-      ],
-      "date_added": "2021-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180773,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD"
     },
     {
       "album": {

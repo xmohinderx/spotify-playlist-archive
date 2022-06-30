@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Giveon
 
-195 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+196 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-27 |  |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2022-02-04 | 2022-02-12 |
 | [Serotonin](https://open.spotify.com/track/7qGTqLLIHXStOkmnSkZAbY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Serotonin](https://open.spotify.com/album/6oS7LtKPVdN19IfhaVnsqK) | 2:57 | 2022-04-29 |  |
+| [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-29 |  |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-02-04 | 2022-03-18 |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-29 | 2022-06-04 |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-04-29 |

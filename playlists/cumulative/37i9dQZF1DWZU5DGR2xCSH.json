@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 354746,
       "name": "Ala Delta",
       "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 269760,
       "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
       "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 346053,
       "name": "En La Ciudad De La Furia - Remasterizado 2007",
       "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 263653,
       "name": "Homero",
       "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 266400,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/5n7UorKbGXUZWzndI25cmp"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 264838,
       "name": "La Raz\u00f3n Que Te Demora",
       "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 263933,
       "name": "La Soledad",
       "url": "https://open.spotify.com/track/6JoVT97G1ZLpy6KHxZpGdp"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 199933,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Milonga del marinero y el capit\u00e1n",
+      "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
+    },
+    {
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 377399,
       "name": "Mujer Amante - Vivo",
       "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159866,
       "name": "No Tan Distintos",
       "url": "https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Nos Veremos Otra Vez",
       "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 239906,
       "name": "Nuestro Amo Juega al Esclavo",
       "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 280613,
       "name": "Otra Piel",
       "url": "https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 377915,
       "name": "Perdedores Hermosos",
       "url": "https://open.spotify.com/track/7p5DHnQEKF5DMbE2ScuogM"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 186911,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Yira Yira",
       "url": "https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 313733,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"

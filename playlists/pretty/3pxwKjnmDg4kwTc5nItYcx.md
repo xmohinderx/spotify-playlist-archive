@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Bri Clark
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,530 likes - 256 songs - 13 hr 51 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,533 likes - 256 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 10 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 |
 | 11 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 |
 | 12 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [Drella](https://open.spotify.com/artist/1AvKoWxP0BAiCA0f1dfdvG) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 |
-| 13 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
+| 13 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
 | 14 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 15 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 |
 | 16 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |

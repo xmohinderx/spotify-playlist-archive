@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Marci
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,283 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,309 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 6 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 7 | [J'ai pu de temps à perdre!](https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx) | [BadBlue](https://open.spotify.com/artist/2Qf6xxx0ubpTfVvIFBtfGh) | [J'ai pu de temps à perdre!](https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7) | 2:37 |
 | 8 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 |
-| 9 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:57 |
+| 9 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:58 |
 | 10 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 |
 | 11 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 |
 | 12 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 41 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 |
 | 42 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 |
 | 43 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 |
-| 44 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:04 |
+| 44 | [Vestiges](https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Vestiges](https://open.spotify.com/album/4fqmaHHAlnPDNc8FyTzVXv) | 4:05 |
 | 45 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 |
 | 46 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 |
 | 47 | [Vie de rêve](https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie de rêve](https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC) | 2:40 |

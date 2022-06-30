@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 216640,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 602906,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ"
@@ -1542,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "Not Too Hot",
+        "url": "https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf"
+      },
+      "artists": [
+        {
+          "name": "Goldilocks Trio",
+          "url": "https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287914,
+      "name": "Not Too Hot",
+      "url": "https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T"
+    },
+    {
+      "album": {
         "name": "Dear Old Stockholm",
         "url": "https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L"
       },
@@ -1679,10 +1697,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 302733,
       "name": "Serenade In Blue",
       "url": "https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj"
+    },
+    {
+      "album": {
+        "name": "Signs in the Wind",
+        "url": "https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136122,
+      "name": "Signs in the Wind",
+      "url": "https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1"
     },
     {
       "album": {
@@ -1997,6 +2033,24 @@
       "duration_ms": 158855,
       "name": "Sun Souls",
       "url": "https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA"
+    },
+    {
+      "album": {
+        "name": "Tammy's Song",
+        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260690,
+      "name": "Tammy's Song",
+      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
     },
     {
       "album": {

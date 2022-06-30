@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-415 songs - 1 day 1 hr 27 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+416 songs - 1 day 1 hr 32 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-20 |
 | [You Say Goodbye Easily](https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:09 | 2021-08-24 | 2021-08-29 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-27 |
-| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-22 |  |
+| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-22 | 2022-06-30 |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2021-12-18 | 2021-12-25 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2021-06-04 | 2021-06-10 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
@@ -357,6 +357,7 @@
 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 | 2022-04-27 | 2022-05-28 |
 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 | 2022-05-18 |  |
 | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 3:26 | 2022-03-10 | 2022-03-18 |
+| [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-06-29 |  |
 | [浪子回頭](https://open.spotify.com/track/2YA5IfmQwAmVzHRP3SVnEd) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:19 | 2021-04-13 | 2021-05-14 |
 | [浪流連](https://open.spotify.com/track/7a6VJHMS9ttKsj55cKC51G) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/3gSVbEaY8DpXpTK7BDUj1C) | 4:13 | 2021-04-04 | 2022-02-17 |
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2022-01-05 | 2022-01-07 |

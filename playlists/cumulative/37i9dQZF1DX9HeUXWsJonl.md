@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-68 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+69 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Lamma](https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Lamma](https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF) | 3:25 | 2021-12-30 |  |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-10 |  |
 | [Ma Nebrach](https://open.spotify.com/track/5KjZ8cJusT3Y1NKbT0QtMA) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [G.G.A.](https://open.spotify.com/artist/7pvvxlzqdqSuBFOq5urhx5) | [Ma Nebrach](https://open.spotify.com/album/5PPzwGXpRP7UPCRLRW7Mb3) | 3:28 | 2021-12-10 | 2022-01-21 |
+| [Ma Nssit](https://open.spotify.com/track/6e0HpF1nCtuek085Jo6R6P) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Ma Nssit](https://open.spotify.com/album/72Cl1FzJTk1oWE3Nt5M6dk) | 3:46 | 2022-06-29 |  |
 | [Ma Saab](https://open.spotify.com/track/2lvt3ournLiAlPcwkggOVl) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ma Saab](https://open.spotify.com/album/0B6maLCCMJNGbZ83z5hpEa) | 3:35 | 2021-12-10 |  |
 | [Ma3lich](https://open.spotify.com/track/7rmqhAZGOeVNPW8gA1vU1T) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lich](https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa) | 4:09 | 2021-12-10 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 |  |
@@ -62,7 +63,7 @@
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 |  |
 | [Sob Enta](https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Mista6012](https://open.spotify.com/artist/5PXOzFTQg0XX5f8uS20cY3), [MC Rai](https://open.spotify.com/artist/5FofUhu7YJLPwRP5I5xAKq), [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd) | [Sob Enta](https://open.spotify.com/album/0nxxlzddE6ODOSqiXPNJdK) | 3:31 | 2022-05-26 |  |
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-03-31 |  |
-| [Soussa By Night](https://open.spotify.com/track/0On8JF0aSbrhCupnZohkK6) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Soussa By Night](https://open.spotify.com/album/1Ui86A2Tw5RJ4nvnCVg4HO) | 3:24 | 2021-12-10 |  |
+| [Soussa By Night](https://open.spotify.com/track/0On8JF0aSbrhCupnZohkK6) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Soussa By Night](https://open.spotify.com/album/1Ui86A2Tw5RJ4nvnCVg4HO) | 3:24 | 2021-12-10 | 2022-06-30 |
 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-03-24 | 2022-05-27 |
 | [Ti amo](https://open.spotify.com/track/00xoWQd2gzMQrUYohWV1lW) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:53 | 2021-12-10 |  |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |

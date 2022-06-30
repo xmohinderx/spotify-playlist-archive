@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-504 songs - 1 day 4 hr 46 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+505 songs - 1 day 4 hr 49 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2021-03-27 | 2021-05-09 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |
+| [Bisami](https://open.spotify.com/track/1XqNcROzfUTq9kVeQ9RQBa) | [Sherman Smith](https://open.spotify.com/artist/0AHS7Ls2S2SqYAruOvl9b0), [Dezz](https://open.spotify.com/artist/0LYSViMkI78r31ER85Vxxh) | [Bisami](https://open.spotify.com/album/5vqlGFDDRQp5F7hWlrWWbJ) | 3:01 | 2022-06-29 |  |
 | [BLOKE](https://open.spotify.com/track/4GTPtRKvv3smlg6LwQhyD5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:44 | 2022-03-26 | 2022-03-28 |
 | [Bocina Bom](https://open.spotify.com/track/0kSFS3u3KvnuyaBS9VYJ3p) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Bocina Bom](https://open.spotify.com/album/4ofxfex3ConEDY1WyrB0GI) | 3:17 | 2022-04-04 | 2022-06-29 |
 | [BOMBÓN](https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:02 | 2022-03-26 | 2022-04-01 |
@@ -479,7 +480,7 @@
 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 | 2021-12-20 | 2021-12-22 |
 | [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-07 |  |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2021-03-27\* | 2021-06-27 |
-| [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-27 |  |
+| [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-27 | 2022-06-30 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 |  |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 |  |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2021-03-27\* | 2021-07-04 |

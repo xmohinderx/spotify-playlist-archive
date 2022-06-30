@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/2KZnZnLt9AmNtTFmFQOy6b"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 196506,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 167600,
       "name": "East of the River Nile - 1971 Version",
       "url": "https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 163538,
       "name": "Eastern Standard Time",
       "url": "https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 280960,
       "name": "Having A Party",
       "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 266986,
       "name": "Love Has Found Its Way",
       "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 199613,
       "name": "Marcus Garvey",
       "url": "https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 153466,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/3b2x5F6wXua5A2zXq4RuAA"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 177306,
       "name": "Samfie Man",
       "url": "https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z"
@@ -1713,6 +1713,24 @@
       "duration_ms": 194653,
       "name": "Sun Moon and Star",
       "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
+    },
+    {
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155893,
+      "name": "Suzanne Beware of the Devil",
+      "url": "https://open.spotify.com/track/6WNT9qmTeBBXl9VpN9UCgE"
     },
     {
       "album": {
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 197986,
       "name": "What Does It Take (To Win Your Love)",
       "url": "https://open.spotify.com/track/3CCm37PRX6o0SAzgzR2WiD"

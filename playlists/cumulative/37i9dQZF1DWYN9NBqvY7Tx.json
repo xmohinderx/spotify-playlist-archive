@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 204871,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6damJkZsW0f3eNNAABd0NI"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/7K0tKZGP9mi4oqJSOJj29Q"
@@ -909,10 +909,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 179067,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV"
+    },
+    {
+      "album": {
+        "name": "Eternity (feat. Lena Leon)",
+        "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217258,
+      "name": "Eternity (feat. Lena Leon)",
+      "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
     },
     {
       "album": {
@@ -993,7 +1019,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 231428,
       "name": "Fall Into Me (feat. Dylan Matthew)",
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
@@ -1117,7 +1143,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 194267,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1"
@@ -1329,7 +1355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 189202,
       "name": "HEATSEEKER",
       "url": "https://open.spotify.com/track/7EhYmAKbytY0alehtds3Ie"
@@ -1425,7 +1451,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 192000,
       "name": "Holding On - Kompany Remix",
       "url": "https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk"
@@ -1495,7 +1521,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -1535,7 +1561,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 176000,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5PEc50zuLdBpkC9bOQTG2D"
@@ -1667,7 +1693,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL"
@@ -1997,7 +2023,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 296242,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6XYJSifomaDXaXbbh91kvQ"
@@ -2372,6 +2398,32 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/7JRshsSfHo4CT0TcIcawcg"
       },
@@ -2405,7 +2457,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 143280,
       "name": "Oohla Oohla",
       "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
@@ -2503,7 +2555,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 183949,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/1fRadkuwHEqwMuiY5ns15C"
@@ -2645,7 +2697,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 211071,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/6rLNDssC5bnJ2l7N1aRAgu"
@@ -2973,7 +3025,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 300916,
       "name": "Shivering (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
@@ -3061,7 +3113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/7LKm8GVnMcDMXfDyhVcODr"
@@ -3259,7 +3311,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 184629,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU"
@@ -3383,7 +3435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 212903,
       "name": "The Raid",
       "url": "https://open.spotify.com/track/2NzVvoQyagqEB5o4ny9UkT"
@@ -3611,7 +3663,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 158464,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"
@@ -3673,7 +3725,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 289749,
       "name": "Unify",
       "url": "https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1"
@@ -3713,7 +3765,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 151971,
       "name": "Unleashed",
       "url": "https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy"
@@ -3888,6 +3940,32 @@
     },
     {
       "album": {
+        "name": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116750,
+      "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
+      "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"
+    },
+    {
+      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/0JSHFQVMb802gVX5lG7K1x"
       },
@@ -3947,7 +4025,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 217600,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj"

@@ -1,12 +1,12 @@
 {
   "description": "next gen pop featuring Conan Gray",
-  "num_followers": 1074596,
+  "num_followers": 1074955,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzIwMCwwMDAwMDVmZjAwMDAwMTgxOTNkZGRlYjgwMDAwMDE4MTkzNjU4YmNk",
+  "snapshot_id": "MTY1NjUyMDg2MCwwMDAwMDYwMDAwMDAwMTgxYjA1NjYzMWYwMDAwMDE4MTkzNjU4YmNk",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
     },
     {
+      "added_at": "2022-06-29 16:41:00",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "i used to think i could fly",
@@ -265,20 +281,20 @@
       "url": "https://open.spotify.com/track/33aLws184a7SVqraKuDqI3"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-06-17 14:58:33",
       "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
         }
       ],
-      "duration_ms": 166680,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -365,6 +381,22 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+    },
+    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "You Might Not Like Her",
@@ -411,22 +443,6 @@
       "duration_ms": 156937,
       "name": "Twinkle Twinkle Little Bitch",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
-    },
-    {
-      "added_at": "2022-06-17 14:58:33",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -1368,7 +1384,7 @@
           "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 182506,
+      "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },

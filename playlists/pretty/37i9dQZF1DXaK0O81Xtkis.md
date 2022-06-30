@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Dhruv
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,157 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,176 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 43 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
 | 44 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 |
 | 45 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 |
-| 46 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 |
+| 46 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 47 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 48 | [the chase](https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [the chase](https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv) | 3:25 |
 | 49 | [Just Friends](https://open.spotify.com/track/0tjYK2gtxo8fT2kdD4XGeF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Just Friends](https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW) | 2:35 |

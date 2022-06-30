@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Armour",
+        "url": "https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "Armour",
+      "url": "https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898"
+    },
+    {
+      "album": {
         "name": "Bathroom Light",
         "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
       },
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
@@ -1542,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243641,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
+    },
+    {
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -2053,7 +2089,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf"

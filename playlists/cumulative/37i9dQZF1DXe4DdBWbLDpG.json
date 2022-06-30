@@ -932,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/7l4p2mFxH7RmSNWz60MxGL"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177644,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/5mNAbD0VHs35L0Z6xo9t5X"
+    },
+    {
+      "album": {
         "name": "Inspiraci\u00f3n Divina",
         "url": "https://open.spotify.com/album/2FYtiDH5OiJYzSLS7yZJlW"
       },
@@ -1475,6 +1493,24 @@
       "duration_ms": 332398,
       "name": "Maestros de Ceremonia",
       "url": "https://open.spotify.com/track/0TGSDIK66MfSVyfajv81nZ"
+    },
+    {
+      "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3ZlJKKnJkB0RlQFqYvRgUn"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233936,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/7F2ojMfQ2b8StYoWBZSs0q"
     },
     {
       "album": {

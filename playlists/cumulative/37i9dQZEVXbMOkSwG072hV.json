@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 173085,
       "name": "ACORDA PEDRINHO",
       "url": "https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY"
@@ -6633,10 +6633,44 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 203942,
       "name": "Put0 & Cheiroso",
       "url": "https://open.spotify.com/track/4tNMmubsgLGYXnHKjaIEv5"
+    },
+    {
+      "album": {
+        "name": "Put0 & Cheiroso",
+        "url": "https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp"
+      },
+      "artists": [
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "Jv045",
+          "url": "https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS"
+        },
+        {
+          "name": "Denzelthreal",
+          "url": "https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850"
+        },
+        {
+          "name": "Oficialtalim",
+          "url": "https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM"
+        },
+        {
+          "name": "ProdbySnow",
+          "url": "https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203942,
+      "name": "Put0 & Cheiroso",
+      "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
     },
     {
       "album": {
@@ -7363,6 +7397,28 @@
       "duration_ms": 134500,
       "name": "Senta na Cabecinha",
       "url": "https://open.spotify.com/track/1PqsF9YmEzcdmwGOBYbzrQ"
+    },
+    {
+      "album": {
+        "name": "Sentadinha Diferente",
+        "url": "https://open.spotify.com/album/3TN3L1SoMfzqVSnq5jcZJx"
+      },
+      "artists": [
+        {
+          "name": "Dyamante DJ",
+          "url": "https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123230,
+      "name": "Sentadinha Diferente",
+      "url": "https://open.spotify.com/track/1XcmAgREOuJQb91sr68AAD"
     },
     {
       "album": {

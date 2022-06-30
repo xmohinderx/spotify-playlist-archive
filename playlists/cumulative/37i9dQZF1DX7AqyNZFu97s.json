@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: KiLLOWEN",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: DellaXOZ",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 212000,
       "name": "Blood Money",
       "url": "https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 73962,
       "name": "cabin fever",
       "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
@@ -1141,6 +1141,24 @@
       "duration_ms": 159600,
       "name": "Coca-cola",
       "url": "https://open.spotify.com/track/62cxDxb6w2bGzr4gYoZYEA"
+    },
+    {
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/40VvzUm2ILiAwaXEiNMD6E"
+      },
+      "artists": [
+        {
+          "name": "SAHRA",
+          "url": "https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188871,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/3RGhvIA1cm7RTnNN8Dz0If"
     },
     {
       "album": {
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 135375,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/3w2C7ISKBH9yhjHK4VjyFb"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 213656,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 164210,
       "name": "First Time",
       "url": "https://open.spotify.com/track/6iQ50N4Xc2uqZwovlpgQSJ"
@@ -2724,6 +2742,24 @@
     },
     {
       "album": {
+        "name": "Guy With The Blade",
+        "url": "https://open.spotify.com/album/0yVA6JqdmkRyShxkd09rfe"
+      },
+      "artists": [
+        {
+          "name": "Glasshousetenant",
+          "url": "https://open.spotify.com/artist/1aIx73pyOucMvvIfja8nM2"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Guy With The Blade",
+      "url": "https://open.spotify.com/track/1ZfzY6YLEysKAH1dX7GaRs"
+    },
+    {
+      "album": {
         "name": "Half a Day",
         "url": "https://open.spotify.com/album/3bAY59p2TnhVWrVSc32oZv"
       },
@@ -3142,6 +3178,24 @@
     },
     {
       "album": {
+        "name": "i want, doesn't get",
+        "url": "https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "i want, doesn't get",
+      "url": "https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt"
+    },
+    {
+      "album": {
         "name": "I'M FINE! I'M GOOD! I'M PERFECT!",
         "url": "https://open.spotify.com/album/70rb6TesKaKl08tBD9L5wo"
       },
@@ -3207,7 +3261,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 177774,
       "name": "If.",
       "url": "https://open.spotify.com/track/23SpHlyJvp6NBTXg5G8zWo"
@@ -3434,6 +3488,32 @@
     },
     {
       "album": {
+        "name": "Jet Plane 5000",
+        "url": "https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ"
+      },
+      "artists": [
+        {
+          "name": "j.flowers.mp3",
+          "url": "https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3"
+        },
+        {
+          "name": "Ralph Taylor",
+          "url": "https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK"
+        },
+        {
+          "name": "Rebekah Fitch",
+          "url": "https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Jet Plane 5000",
+      "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
+    },
+    {
+      "album": {
         "name": "The Fresh Organic",
         "url": "https://open.spotify.com/album/3erQdHlfzhMAnwko7Eii5F"
       },
@@ -3493,7 +3573,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 178000,
       "name": "just kids.",
       "url": "https://open.spotify.com/track/0gP6RDhvwSa6RBzAaqRSOk"
@@ -3533,6 +3613,24 @@
       "duration_ms": 129975,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2eEDSiImAlmr8403EChK0R"
+    },
+    {
+      "album": {
+        "name": "Sayonara City",
+        "url": "https://open.spotify.com/album/7yYTN3lp9LrJ6uQFUNQGZz"
+      },
+      "artists": [
+        {
+          "name": "jesi",
+          "url": "https://open.spotify.com/artist/0yxqFoPntD6G4CStjyjMww"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236590,
+      "name": "Kingpin\u2019s Achilles",
+      "url": "https://open.spotify.com/track/6AAdJaI4hINLMIP2G40mhJ"
     },
     {
       "album": {
@@ -4379,7 +4477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 187110,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6eMynQuwsyq50ycW5QPhA6"
@@ -4656,6 +4754,24 @@
     },
     {
       "album": {
+        "name": "NO LILO",
+        "url": "https://open.spotify.com/album/2fru8fJvZl4Jnh8HbqiOdR"
+      },
+      "artists": [
+        {
+          "name": "DeBe",
+          "url": "https://open.spotify.com/artist/6J201lq97N7KuVw9xhdFpg"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "NO LILO",
+      "url": "https://open.spotify.com/track/5rS15gmI5J0BLXJdgz2wWl"
+    },
+    {
+      "album": {
         "name": "No Matter What the People Say",
         "url": "https://open.spotify.com/album/4zvurVUzHFPeSihR093WY3"
       },
@@ -4707,6 +4823,24 @@
       "duration_ms": 179277,
       "name": "No Sleep.",
       "url": "https://open.spotify.com/track/5OQKxn1x3NsafzId9kOtkE"
+    },
+    {
+      "album": {
+        "name": "Nose",
+        "url": "https://open.spotify.com/album/3d8ufenzhpfFgAYo6QA8Qo"
+      },
+      "artists": [
+        {
+          "name": "Zak Robinson",
+          "url": "https://open.spotify.com/artist/26LvRLNbfRx5kP4yhnj7S0"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222898,
+      "name": "Nose",
+      "url": "https://open.spotify.com/track/7IPSlIS6wgzGvgUS6hYgww"
     },
     {
       "album": {
@@ -5104,6 +5238,24 @@
     },
     {
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/0qCbPpiLRWufUGTmGAQgxd"
+      },
+      "artists": [
+        {
+          "name": "Jaz Beeson",
+          "url": "https://open.spotify.com/artist/4eo3kTmnSGvclJYBrKqVob"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/6YJtTxwPCLbjwVotBcIMR9"
+    },
+    {
+      "album": {
         "name": "Peoples",
         "url": "https://open.spotify.com/album/7AOIFPZ2gmoXXaS7kf4FU4"
       },
@@ -5169,7 +5321,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 230495,
       "name": "Piece Of Cake",
       "url": "https://open.spotify.com/track/57p338LwRtMlsERK7Ryhh1"
@@ -5519,6 +5671,24 @@
       "duration_ms": 155520,
       "name": "Rice And Peas",
       "url": "https://open.spotify.com/track/6UgAx9ilu2DbqTi8650kz5"
+    },
+    {
+      "album": {
+        "name": "River Song",
+        "url": "https://open.spotify.com/album/3oQaSrHZcoee8nAHICJDbA"
+      },
+      "artists": [
+        {
+          "name": "Grayling",
+          "url": "https://open.spotify.com/artist/4FsofiqfJyB7NgqyGfUgGS"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "River Song",
+      "url": "https://open.spotify.com/track/3hOX1sq5nYcZgr3Cqpwm7k"
     },
     {
       "album": {
@@ -6017,7 +6187,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 176247,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1mAliub23hugL0bp6FYZ0p"
@@ -6249,7 +6419,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 183386,
       "name": "supercrush",
       "url": "https://open.spotify.com/track/0HQqNOdNwlNTXnneyZfQIC"
@@ -6375,7 +6545,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 180413,
       "name": "Tattooed on Me",
       "url": "https://open.spotify.com/track/7aI3Vr32ZLpqoGNAneHrsK"
@@ -6397,6 +6567,24 @@
       "duration_ms": 276317,
       "name": "Teach Me To Dance",
       "url": "https://open.spotify.com/track/1g0wKQRTXdBKphVM1MIden"
+    },
+    {
+      "album": {
+        "name": "That's My Girl",
+        "url": "https://open.spotify.com/album/3yTw9o8gB8XKALrQUmFX8f"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "That's My Girl",
+      "url": "https://open.spotify.com/track/5mIcfBmdGpLec0g5AS6RTb"
     },
     {
       "album": {
@@ -6794,6 +6982,24 @@
     },
     {
       "album": {
+        "name": "VACANT",
+        "url": "https://open.spotify.com/album/5EMX5yW7DjCE7qpAXQf0wq"
+      },
+      "artists": [
+        {
+          "name": "MILA",
+          "url": "https://open.spotify.com/artist/6SB7H3mGVDv9R8HGwVHKjb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "VACANT",
+      "url": "https://open.spotify.com/track/1pahhMyckMMyUeCOiER7KF"
+    },
+    {
+      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e"
       },
@@ -6827,6 +7033,24 @@
       "duration_ms": 210337,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2ttcXPZZwD6Fqsx1Ep91AZ"
+    },
+    {
+      "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/22aIoqnXbqisuB1Bdr4KzD"
+      },
+      "artists": [
+        {
+          "name": "BUSHROD",
+          "url": "https://open.spotify.com/artist/7gban0JAsN3TX4BLGqmYOy"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/5nkxIF5VldwP0kCCuVSkjv"
     },
     {
       "album": {

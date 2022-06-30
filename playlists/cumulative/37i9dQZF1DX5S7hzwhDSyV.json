@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "Alone Together - Rudy Van Gelder Remaster 2006",
       "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 403360,
       "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 275226,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 386773,
       "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 322960,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 330733,
       "name": "I Love You - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
@@ -1278,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484106,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
+    },
+    {
+      "album": {
         "name": "Relaxin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 333493,
       "name": "It's You or No One",
       "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 185240,
       "name": "Long Ago (And Far Away)",
       "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
@@ -1643,10 +1661,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 432040,
       "name": "My Romance (take 2) - Alternate Take",
       "url": "https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd"
+    },
+    {
+      "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288986,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE"
     },
     {
       "album": {
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 339160,
       "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
@@ -1973,10 +2009,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 193160,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/2F0cAwp8zmQ8McgBzjFWO0"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "album": {
@@ -2045,7 +2099,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 369786,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/2mXOCV01q4axg8TpU2zA0j"
@@ -2063,7 +2117,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 411293,
       "name": "The Night Has a Thousand Eyes",
       "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
@@ -2085,6 +2139,24 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "album": {
+        "name": "Hollywood Stampede",
+        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
     },
     {
       "album": {
@@ -2147,6 +2219,24 @@
       "duration_ms": 309253,
       "name": "These Foolish Things - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198223,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
     },
     {
       "album": {
@@ -2233,7 +2323,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 320693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
@@ -2251,10 +2341,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 168040,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
+    },
+    {
+      "album": {
+        "name": "Play The Arrangements Of Jimmy Giuffre",
+        "url": "https://open.spotify.com/album/0Rn37SXYjCna8E1PRUFCtD"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans & Lee Konitz",
+          "url": "https://open.spotify.com/artist/3xGMU83BGYk6opfPcIK4GG"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/1hqE4EEytGPhHsNKDVngTZ"
     },
     {
       "album": {
@@ -2303,7 +2411,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"

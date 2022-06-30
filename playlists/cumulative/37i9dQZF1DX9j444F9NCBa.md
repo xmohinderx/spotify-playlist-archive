@@ -4,10 +4,16 @@
 
 > Gentle instrumental covers of known songs.
 
-126 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+126 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0oYpL4iDhZirA5ctnB6vcA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7iZHW4AqiwUzIQ56mC9mFY) | 0:00 | 2022-01-21 |  |
+| [](https://open.spotify.com/track/1Ozt1obcVy047VXqX1nL9o) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RqwjVmRM3p1U0lYZjmOif) | 0:00 | 2022-01-21 |  |
+| [](https://open.spotify.com/track/3hmL1cOzr4n3mHBbKZtAbZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66GzOHnq3DkTILegcyCq8e) | 0:00 | 2022-01-21 |  |
+| [](https://open.spotify.com/track/4psNwcpptecBlV8hgPkgVd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6tStYHbBPt5D4LGVVNQjA7) | 0:00 | 2022-01-21 |  |
+| [](https://open.spotify.com/track/602bRvSIzuRyPUllVvhwUA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3ieyvWXZwTTTnUqrPyutI4) | 0:00 | 2022-01-21 |  |
+| [](https://open.spotify.com/track/7pohC6860dSeErh6ngNdPh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0dXmMe7Ss7J55tm2kE84n6) | 0:00 | 2022-01-21 |  |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/29JCk63RvjjlQxQCCZSuYf) | [Benji Noor](https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC) | [\(Everything I Do\) I Do It For You](https://open.spotify.com/album/50lgMQVkz1g2W5BbKA3jIw) | 4:17 | 2022-01-21 |  |
 | [10,000 HOURS](https://open.spotify.com/track/31qFtnjzGGjX3YYfjHFM3v) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [10,000 HOURS](https://open.spotify.com/album/6Gjnr5VAXzm88lYKkTEel4) | 2:59 | 2022-01-21 |  |
 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 | 2022-01-21 |  |
@@ -29,7 +35,6 @@
 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 | 2022-01-21 |  |
 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 | 2022-01-21 |  |
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-01-21 |  |
-| [Dancing On My Own](https://open.spotify.com/track/1Ozt1obcVy047VXqX1nL9o) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Dancing On My Own](https://open.spotify.com/album/1RqwjVmRM3p1U0lYZjmOif) | 3:50 | 2022-01-21 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2022-01-21 |  |
 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 | 2022-01-21 |  |
 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 |  |
@@ -71,9 +76,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/6NTdYJI8jF1fsIg9VBz15H) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [In The Air Tonight](https://open.spotify.com/album/21IBJizjTDWLzK0NDf8J6w) | 3:51 | 2022-06-08 |  |
 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 | 2022-01-21 |  |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2022-05-02 |  |
-| [Into You](https://open.spotify.com/track/3hmL1cOzr4n3mHBbKZtAbZ) | [Ofelia Marsh](https://open.spotify.com/artist/4FHxVyShnZBNHnblLJiLx9) | [Into You](https://open.spotify.com/album/66GzOHnq3DkTILegcyCq8e) | 4:38 | 2022-01-21 |  |
 | [It Must Have Been Love \- Piano version](https://open.spotify.com/track/4YACCGEjeX1LEpY5tIBb97) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 2](https://open.spotify.com/album/1Aa8a61At5CfuuidP6lZuK) | 4:15 | 2022-01-21 |  |
-| [Just Hold On](https://open.spotify.com/track/7pohC6860dSeErh6ngNdPh) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Just Hold On](https://open.spotify.com/album/0dXmMe7Ss7J55tm2kE84n6) | 3:43 | 2022-01-21 |  |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2022-01-21 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/1bXpC6d1HeFKiboBnWChfq) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Kiss From A Rose](https://open.spotify.com/album/6l6H11DfTD1fr2LekdI9Ky) | 3:18 | 2022-06-08 |  |
 | [Let Her Go](https://open.spotify.com/track/2fIVdzd4JW4HnwzqrvCysf) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Let Her Go](https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw) | 3:12 | 2022-01-21 | 2022-05-03 |
@@ -96,7 +99,6 @@
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2022-01-21 |  |
 | [Shallow](https://open.spotify.com/track/71MLdZtvy7QJq9XH2hbDf1) | [Samuel Davids](https://open.spotify.com/artist/56TUZEQJVupybMUEyP3qgY) | [Shallow](https://open.spotify.com/album/3RcPaH9lePzVGTUdK2KGQ8) | 3:08 | 2022-01-21 |  |
 | [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-02 |  |
-| [Someone Like You](https://open.spotify.com/track/4psNwcpptecBlV8hgPkgVd) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Someone Like You](https://open.spotify.com/album/6tStYHbBPt5D4LGVVNQjA7) | 3:50 | 2022-01-21 |  |
 | [Someone You Loved](https://open.spotify.com/track/1OUrhIEQpf5kfjuYHydFRr) | [Cookies and Juice](https://open.spotify.com/artist/76bACRohGinRhW4sCg0q6z) | [Truth Hurts](https://open.spotify.com/album/2YuLURbRt081gFcXO6p7w2) | 3:20 | 2022-01-21 |  |
 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 | 2022-01-21 |  |
 | [Songbird](https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s) | [Margaret James](https://open.spotify.com/artist/61mMq7qWCIxypmj1Cmk0wZ) | [Songbird](https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn) | 3:23 | 2022-01-21 |  |
@@ -118,7 +120,6 @@
 | [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-05-18 |  |
 | [Umbrella](https://open.spotify.com/track/3HO6iT9UmEmwsgAAIxTc43) | [Deborah Sonderburg](https://open.spotify.com/artist/0mnW26sAqwV1hfsNEC1uWJ) | [Umbrella](https://open.spotify.com/album/5Zr0iVZy8Ns5eB9qCznBRW) | 3:40 | 2022-01-21 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2022-01-21 |  |
-| [We Don't Talk Anymore](https://open.spotify.com/track/0oYpL4iDhZirA5ctnB6vcA) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [We Don't Talk Anymore](https://open.spotify.com/album/7iZHW4AqiwUzIQ56mC9mFY) | 4:04 | 2022-01-21 |  |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-01-21 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2022-01-21 |  |
 | [When You Believe](https://open.spotify.com/track/2EfjVCYTSVGWtBFh75r99F) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [When You Believe](https://open.spotify.com/album/0CIUvoJOwQMIjVTAXDGKLI) | 4:03 | 2022-01-21 |  |
@@ -128,7 +129,6 @@
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2022-01-21 |  |
 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 | 2022-01-21 |  |
 | [Wonderwall](https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Wonderwall](https://open.spotify.com/album/5nBdxHBN2bSn9XlqEvtAks) | 2:54 | 2022-01-21 |  |
-| [Wrecking Ball](https://open.spotify.com/track/602bRvSIzuRyPUllVvhwUA) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Wrecking Ball](https://open.spotify.com/album/3ieyvWXZwTTTnUqrPyutI4) | 4:20 | 2022-01-21 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2022-01-21 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 | 2022-01-21 |  |
 | [Your Power](https://open.spotify.com/track/3BYzUvWqRbMqgAFJ0RKOit) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Your Power](https://open.spotify.com/album/43jo9EfovSbhORuO73djg6) | 3:04 | 2022-01-21 |  |

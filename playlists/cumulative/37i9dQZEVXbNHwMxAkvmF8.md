@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-466 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+467 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-29 | 2021-09-22 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-01 | 2022-02-16 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-02 |
+| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-29 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-05 | 2022-02-07 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-04-01 |
@@ -168,7 +169,7 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-11-30 | 2021-12-29 |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-16 |  |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-13 |
-| [Hullik](https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [Hiro](https://open.spotify.com/artist/06cYK1x1ocLh6MzR6MUOuB) | [Hullik](https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM) | 3:33 | 2021-07-18 |  |
+| [Hullik](https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [Hiro](https://open.spotify.com/artist/06cYK1x1ocLh6MzR6MUOuB) | [Hullik](https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM) | 3:33 | 2021-07-18 | 2022-06-30 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-13 |
 | [Háborgó mélység 2](https://open.spotify.com/track/1X0AvW2wtoDeuluMYqJMdH) | [Lotfi Begi](https://open.spotify.com/artist/5iAyJ9oWG7fGCxppLihaZa), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Háborgó mélység 2](https://open.spotify.com/album/5cWMhBHjSqIhF48hmeugnk) | 3:07 | 2021-03-27\* | 2021-04-07 |
 | [Háború](https://open.spotify.com/track/0CpBBLT7hAnDtxsxtoYwcx) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Háború](https://open.spotify.com/album/2VOvYrfWCZ5k75ROP6RcdZ) | 2:54 | 2022-04-25 | 2022-05-05 |

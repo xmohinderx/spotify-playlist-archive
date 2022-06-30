@@ -724,6 +724,36 @@
     },
     {
       "album": {
+        "name": "Jangueo",
+        "url": "https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi"
+      },
+      "artists": [
+        {
+          "name": "Arkey-O",
+          "url": "https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2hvsNJpwhRZNxU9KBm1MG4"
       },

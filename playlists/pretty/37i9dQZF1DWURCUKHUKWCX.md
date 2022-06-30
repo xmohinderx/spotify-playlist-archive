@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,247 likes - 119 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,432 likes - 119 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,6 +126,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 116 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 |
 | 117 | […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 |
 | 118 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 |
-| 119 | [Despair](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Despair](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 3:14 |
+| 119 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 |
 
 Snapshot ID: `MTY1MzQ4MzYyOCwwMDAwMDA2OTAwMDAwMTgwZmI0ZGU4ZjAwMDAwMDE3MjcwNGRmZDM3`

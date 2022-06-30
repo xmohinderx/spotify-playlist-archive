@@ -2,7 +2,7 @@
 
 ### [Blues Covers](https://open.spotify.com/playlist/37i9dQZF1DX1rSirtgYLyt)
 
-> The best cover versions from the world of Blues.
+> The best cover versions from the world of Blues\. Taj Mahal on cover.
 
 70 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 

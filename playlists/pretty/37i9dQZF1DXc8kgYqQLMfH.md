@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,431 likes - 356 songs - 13 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,499 likes - 356 songs - 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

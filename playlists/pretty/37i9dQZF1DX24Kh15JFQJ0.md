@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,200 likes - 124 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,241 likes - 124 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 69 | [Soft Lights and Hard Country Music](https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [Soft Lights and Hard Country Music](https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ) | 2:49 |
 | 70 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 |
 | 71 | [Where I Am Today](https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:29 |
-| 72 | [Two Shots](https://open.spotify.com/track/54u03V1mRUjgDrHDrJT0TB) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Two Shots](https://open.spotify.com/album/1fcV5pD38KzLRi29xo5k8X) | 2:50 |
+| 72 | [Two Shots](https://open.spotify.com/track/54u03V1mRUjgDrHDrJT0TB) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Two Shots](https://open.spotify.com/album/1fcV5pD38KzLRi29xo5k8X) | 2:50 |
 | 73 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 |
 | 74 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 |
 | 75 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 |

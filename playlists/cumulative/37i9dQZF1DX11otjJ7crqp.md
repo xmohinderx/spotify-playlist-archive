@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: WILLOW
 
-1,008 songs - 2 day 2 hr 10 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,009 songs - 2 day 2 hr 14 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-10 | 2022-06-25 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-04 | 2022-02-19 |
 | [God Sent You](https://open.spotify.com/track/7d1l036DDGFaG7PuzAeKJG) | [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [God Sent You](https://open.spotify.com/album/14dBe5b4Kxgu87f4sFHfRE) | 2:38 | 2022-02-11 | 2022-03-05 |
+| [Golden Age](https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Golden Age](https://open.spotify.com/album/3zjqNHKk40AamDV8ncQAOm) | 3:31 | 2022-06-29 |  |
 | [golden years](https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [golden years](https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt) | 2:49 | 2022-05-27 | 2022-06-18 |
 | [GONE](https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [GONZO](https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw) | 2:46 | 2022-06-24 |  |
 | [Gone Away](https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Gone Away](https://open.spotify.com/album/14R3wGT7xu5FoFRhf5jZyo) | 3:48 | 2022-02-25 | 2022-03-12 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
 
-### [pov: ur the main character in a historical romance](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
+### [hopeless romantic](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 
-> all eyes are on you as you walk into the ballroom
+> POV: you're the main character in a romance novel.
 
 50 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
 
@@ -16,7 +16,7 @@
 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 | 2022-02-14 |  |
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 | 2022-02-14 |  |
 | [Colin Opens His Eyes \- From "The Secret Garden"](https://open.spotify.com/track/2r9bHz0Tk6AswHr3oUsDkx) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [The Secret Garden \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2axiSa5DMXwN5woIV4YKNn) | 2:00 | 2022-02-14 | 2022-04-07 |
-| [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-29 |  |
+| [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-29 | 2022-06-30 |
 | [David's Writings](https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 2:57 | 2022-02-14 |  |
 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 | 2022-02-14 |  |
 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2022-02-14 |  |

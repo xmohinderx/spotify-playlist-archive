@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The resurgence is real\. Cover: Day Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,202 likes - 106 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,232 likes - 106 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

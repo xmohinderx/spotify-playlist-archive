@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-64 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
+65 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Blow The Man Down](https://open.spotify.com/track/2vRMabURInPZG9mzxkpJxo) | [Robert Shaw Chorale](https://open.spotify.com/artist/7x27eLXre6iyxvYoX6KCn5) | [To Our Fisherman’s Friends – A Collection Of Sea Shanties](https://open.spotify.com/album/6tymFQJou78DwbFJro1EGX) | 1:39 | 2022-03-10 |  |
 | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Bones in the Ocean](https://open.spotify.com/album/2ebyoXt3jMa54U1VEu8D6M) | 3:13 | 2022-03-10 |  |
 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 | 2022-03-10 |  |
+| [Brisbane Harbour](https://open.spotify.com/track/2JqUlxE1r3kJqdZMCiGpFb) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Roll and Go](https://open.spotify.com/album/2cWxSteOjHzx6rYZgs66n2) | 2:23 | 2022-06-29 |  |
 | [Bully in the Alley](https://open.spotify.com/track/2EHYO5t2AtWVgCuwk8N5Uq) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [See You When the Sun Goes Down](https://open.spotify.com/album/4B6jXXXQEgEOUacD8yWJbz) | 3:41 | 2022-03-10 |  |
 | [Dead Horse](https://open.spotify.com/track/7MSpEzjmxk6cTyd2Wl06IM) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:07 | 2022-03-10 |  |
 | [Don't Forget Your Old Shipmate](https://open.spotify.com/track/7w7B0C7kT6CWLPGb0i4ArG) | [Jerry Bryant](https://open.spotify.com/artist/3O6SFPGCWeXe7B02fHQAjz), [Starboard Mess](https://open.spotify.com/artist/3rujIhhEfyEZa5BXhkHhYg) | [Roast Beef Of Old England](https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ) | 3:12 | 2022-03-10 |  |

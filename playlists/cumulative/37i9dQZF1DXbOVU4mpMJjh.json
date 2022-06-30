@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 322080,
       "name": "After All",
       "url": "https://open.spotify.com/track/2r3dQilQpgjPbRomN7GAvD"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 424243,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 182653,
       "name": "Ballad for MC",
       "url": "https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 492080,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/6NpwgYdHNNpq81GnpJNx3Y"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 449773,
       "name": "Footprints (Remastered)",
       "url": "https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O"
@@ -2169,7 +2169,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 206360,
       "name": "I'll Wait and Pray",
       "url": "https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W"
@@ -2477,7 +2477,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 406234,
       "name": "Journey in Satchidananda",
       "url": "https://open.spotify.com/track/7jIE9yaNiRlm3KqyFeSQiX"
@@ -2909,7 +2909,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
@@ -2981,7 +2981,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 172533,
       "name": "Mean to Me",
       "url": "https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P"
@@ -3071,7 +3071,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 257196,
       "name": "Misty",
       "url": "https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd"
@@ -3387,6 +3387,24 @@
       "duration_ms": 278293,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/7elvLJgwfx0XhmPv1A6VX6"
+    },
+    {
+      "album": {
+        "name": "Not Too Hot",
+        "url": "https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf"
+      },
+      "artists": [
+        {
+          "name": "Goldilocks Trio",
+          "url": "https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287914,
+      "name": "Not Too Hot",
+      "url": "https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T"
     },
     {
       "album": {
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 381050,
       "name": "Pretty Women",
       "url": "https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN"
@@ -4068,6 +4086,24 @@
     },
     {
       "album": {
+        "name": "Signs in the Wind",
+        "url": "https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136122,
+      "name": "Signs in the Wind",
+      "url": "https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1"
+    },
+    {
+      "album": {
         "name": "Silent Thunder",
         "url": "https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb"
       },
@@ -4155,7 +4191,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 340506,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2"
@@ -4229,7 +4265,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 498319,
       "name": "Soul Eyes",
       "url": "https://open.spotify.com/track/5fhLDCuNimt2zvkiFxOAbU"
@@ -4355,7 +4391,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 454200,
       "name": "Star Crossed Lovers",
       "url": "https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v"
@@ -4769,7 +4805,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
@@ -5009,6 +5045,24 @@
       "duration_ms": 236931,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
+    },
+    {
+      "album": {
+        "name": "Tidewater",
+        "url": "https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta"
+      },
+      "artists": [
+        {
+          "name": "The City of Birches",
+          "url": "https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Tidewater",
+      "url": "https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6"
     },
     {
       "album": {
@@ -5301,6 +5355,24 @@
       "duration_ms": 476992,
       "name": "What Are You Doing the Rest of Your Life?",
       "url": "https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9"
+    },
+    {
+      "album": {
+        "name": "In My Own Small World",
+        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258414,
+      "name": "What's Life Without You",
+      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
     },
     {
       "album": {

@@ -4,11 +4,12 @@
 
 > 
 
-47 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+49 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 | 2022-01-14 |  |
+| [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-06-29 |  |
 | [Always Been](https://open.spotify.com/track/0oMABvqsnoeQkHMWMCu8jy) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 4:25 | 2022-06-21 | 2022-06-25 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-06-24 |  |
 | [Basketball Shoes \- Live from the Queen Elizabeth Hall](https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There \(Deluxe\)](https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO) | 13:24 | 2022-06-13 |  |
@@ -29,6 +30,7 @@
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 |  |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 |  |
 | [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 |  |
+| [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 | 2022-06-29 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 | 2022-06-29 |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 |  |
@@ -42,7 +44,7 @@
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 |  |
 | [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
-| [Sliding Through Our Fingers](https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Sliding Through Our Fingers](https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2) | 3:28 | 2022-06-09 |  |
+| [Sliding Through Our Fingers](https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Sliding Through Our Fingers](https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2) | 3:28 | 2022-06-09 | 2022-06-30 |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-19 | 2022-06-14 |
 | [Sparkle Tape Break Up \- Mndsgn Remix](https://open.spotify.com/track/1I36mRlYXhAkUVygbtPZGd) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 3:55 | 2022-04-09 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 |  |

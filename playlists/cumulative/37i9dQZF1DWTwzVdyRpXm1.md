@@ -4,7 +4,7 @@
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-101 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+102 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 | 2022-01-13 |  |
 | [Stunner](https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Stunner](https://open.spotify.com/album/6hJuAaYqPKKmdUeSVKlqHj) | 3:06 | 2022-01-13 | 2022-03-11 |
 | [Tabahi](https://open.spotify.com/track/3BApUOeS8cihFTyoMKQTVk) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tabahi](https://open.spotify.com/album/2Od4IVeYxEW6dVG4KZwRYs) | 2:48 | 2022-03-10 | 2022-05-20 |
+| [Tauba \(feat\. Badshah\)](https://open.spotify.com/track/1GzgV0pRSUbenz25xWV2s8) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tauba \(feat\. Badshah\)](https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M) | 3:19 | 2022-06-29 |  |
 | [Tere Bin \- Hum Kahan Ke Sachay Thy OST](https://open.spotify.com/track/1hju1lzW1cq8ua9YuhGi8k) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc), [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Tere Bin \(Hum Kahan Ke Sachay Thy OST\)](https://open.spotify.com/album/03dbuML4P9cd3zsltzwaRL) | 3:52 | 2021-12-06 | 2022-01-14 |
 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2022-01-13 | 2022-06-17 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-06-16 |  |

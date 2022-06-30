@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, The Teskey Brothers, John Smith, The Brook & The Bluff and more",
+  "description": "With John Mayer, Volcan Peaks, Cody Francis, The Teskey Brothers and more",
   "name": "Carry Me Away Radio",
   "published_playlist_ids": [
     "3X9pREhPT1sgh0QMNyY8S7"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 239413,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/2lwq6yjAjrdDEvP6awCXOz"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 158013,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/7K36drJq6lInkW6Kkojucp"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 204386,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/0zusELIYbMkikKEV96Grx5"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 183442,
       "name": "Burned By The Love - James Carter Remix",
       "url": "https://open.spotify.com/track/1Bs4rVL38Ca9zGnaBklM7W"
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 245832,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/6GHzlKjZ3hDatLhyk8LPAQ"
@@ -3521,7 +3521,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Dear Marie",
       "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
@@ -3575,7 +3575,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Distant Land",
       "url": "https://open.spotify.com/track/6lTNaNt7gP9xxPJbSHrU1x"
@@ -3730,6 +3730,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning Cinema",
+        "url": "https://open.spotify.com/album/3M7gAE2oC5B68lptcfpcGP"
+      },
+      "artists": [
+        {
+          "name": "Dan Parsons",
+          "url": "https://open.spotify.com/artist/6eu1Yw13Immm9q8X1vvJkP"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Dream on Lover",
+      "url": "https://open.spotify.com/track/7lY2Oo44TocDgWVH8UgEDb"
+    },
+    {
+      "album": {
         "name": "Dreamers of The Shore",
         "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
       },
@@ -3817,7 +3835,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 209293,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
@@ -4849,7 +4867,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -5671,7 +5689,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 144186,
       "name": "Half Your Love",
       "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
@@ -6265,7 +6283,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 230103,
       "name": "Hey Lady",
       "url": "https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE"
@@ -9319,7 +9337,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 222133,
       "name": "Like the Sun",
       "url": "https://open.spotify.com/track/1zle4gvMHTQM8MoizndfYN"
@@ -9475,7 +9493,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 176689,
       "name": "Little Light (Mighty Maya Mix)",
       "url": "https://open.spotify.com/track/6qib9W0oVnEPivsKMk1mU1"
@@ -10453,7 +10471,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 216475,
       "name": "Mary, You're Wrong",
       "url": "https://open.spotify.com/track/1lQvuOZnZGIlJrNbKh5jTI"
@@ -11009,7 +11027,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
@@ -11171,7 +11189,7 @@
       ],
       "date_added": "2020-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 186946,
       "name": "No Depression",
       "url": "https://open.spotify.com/track/5xYK0S57hp6bEdJlMo7ozl"
@@ -12865,7 +12883,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 229200,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/3HGY45Nv9h1fz3302hW0Mx"
@@ -12973,7 +12991,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 252980,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7GOWALXAX9YVwJyYxrpVd2"
@@ -13555,7 +13573,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 216776,
       "name": "Sing to You - Acoustic",
       "url": "https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS"
@@ -14362,6 +14380,28 @@
     },
     {
       "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Stars in the City (feat. Little Big Town)",
+      "url": "https://open.spotify.com/track/55ccxeuwJuxZF8MHsJqOzh"
+    },
+    {
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -14737,6 +14777,24 @@
       "duration_ms": 292857,
       "name": "Suncats",
       "url": "https://open.spotify.com/track/5XIcW0qh8N0mqMmJZYvsRC"
+    },
+    {
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/7161Ua93UTMPDlAPl2uQzx"
+      },
+      "artists": [
+        {
+          "name": "East Love",
+          "url": "https://open.spotify.com/artist/0xGSNh06Su9UthAz4o1cvM"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/6hTWUHTOmEjV6cv3tdgRUZ"
     },
     {
       "album": {
@@ -16292,6 +16350,28 @@
     },
     {
       "album": {
+        "name": "To Let You In",
+        "url": "https://open.spotify.com/album/0IX3ONlaivgIkm1E5rraFH"
+      },
+      "artists": [
+        {
+          "name": "Volcan Peaks",
+          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
+        },
+        {
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "To Let You In",
+      "url": "https://open.spotify.com/track/2XgQAAvNEdQUDzGieMJJA5"
+    },
+    {
+      "album": {
         "name": "Pick Me Up Off The Floor",
         "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
       },
@@ -16429,7 +16509,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 206880,
       "name": "Torch Song - Echo Park",
       "url": "https://open.spotify.com/track/4GUNRgOBJMcMgxB3TlZ42N"
@@ -16465,7 +16545,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 223120,
       "name": "Trading Places",
       "url": "https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg"
@@ -17475,6 +17555,24 @@
       "duration_ms": 185004,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/6cZ3yIYHjUVTW9be1QcWFe"
+    },
+    {
+      "album": {
+        "name": "While All The While",
+        "url": "https://open.spotify.com/album/6jNRTnXX0VRwUb0wO1kgwr"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169177,
+      "name": "While All The While",
+      "url": "https://open.spotify.com/track/4oDG0eD3fUaZLIKApPTYXY"
     },
     {
       "album": {

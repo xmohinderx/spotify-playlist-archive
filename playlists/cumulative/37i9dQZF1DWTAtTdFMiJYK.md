@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Bhandari
 
-153 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+154 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alakananda \- Hindi version](https://open.spotify.com/track/4LHGR2KUMmqL1aSxEElq3E) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shankuraj Konwar](https://open.spotify.com/artist/2sTO4BkutHILz6xXwbbar9) | [Alakananda \(Hindi version\)](https://open.spotify.com/album/7k4VojLUcZq9onaU2X4dMC) | 4:59 | 2022-06-22 |  |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-14 |  |
 | [Anybody Else](https://open.spotify.com/track/3MVSI8G7X9Murb33btnPqj) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Anybody Else](https://open.spotify.com/album/1GncKcQ8Jyp1enSDsAXD8J) | 3:52 | 2021-12-06 | 2022-01-11 |
+| [Asar](https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az) | [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Asar](https://open.spotify.com/album/4NAqO60ilbYjOULTBgf9Mc) | 3:10 | 2022-06-29 |  |
 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2021-12-06 | 2022-04-15 |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2022-03-15 |  |
@@ -80,7 +81,7 @@
 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 | 2021-12-06 | 2022-04-15 |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2021-12-06 |  |
 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 | 2022-04-21 |  |
-| [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 | 2021-12-06 |  |
+| [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 | 2021-12-06 | 2022-06-30 |
 | [Kalabaaziyan](https://open.spotify.com/track/0I93L5Bf6uRLGlntVZ4JCW) | [Sagar Dhote](https://open.spotify.com/artist/69xwjUB838EA5HBT16wetu), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kalabaaziyan](https://open.spotify.com/album/7s2KHBisbNXINql6Tva33X) | 3:43 | 2021-12-06 | 2022-01-11 |
 | [Kaniya](https://open.spotify.com/track/2MlvqNB3Fu6zLDr6QyYKcr) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2s9PpHqBw1IxjSE15E6nkT), [Yashika Sikka](https://open.spotify.com/artist/390xyQcoX7CbyOBQ6QKeIJ), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Kaniya](https://open.spotify.com/album/1s2phSlNCUWdTTQcLex91f) | 3:48 | 2021-12-06 | 2022-04-08 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-10 |  |

@@ -4,7 +4,7 @@
 
 > Vibes de noche\. Late night tunes for an endless night.
 
-97 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+98 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [inolvidable](https://open.spotify.com/track/3Q8e4r8ubL343IcpKwPedv) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [inolvidable](https://open.spotify.com/album/48fEFjDEkQtw8BYK3Q9QiK) | 3:06 | 2022-03-21 |  |
 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 | 2022-03-21 |  |
 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 | 2022-05-09 |  |
+| [Jangueo](https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj) | [Arkey\-O](https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Jangueo](https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi) | 3:32 | 2022-06-29 |  |
 | [Karma](https://open.spotify.com/track/1Qj5qa0R07ilqfJdLuuLSb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Karma](https://open.spotify.com/album/2hvsNJpwhRZNxU9KBm1MG4) | 2:26 | 2022-03-21 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-03-21 |  |
 | [LA MOVE](https://open.spotify.com/track/3e1jNIbhRB8dTUJ0quKkXV) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [LA MOVE](https://open.spotify.com/album/2xIkJgcUcOdopwFvl1lCId) | 1:54 | 2022-03-21 | 2022-04-20 |

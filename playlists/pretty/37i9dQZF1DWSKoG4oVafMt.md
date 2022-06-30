@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,547 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,596 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 14 | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/track/0cxdYx46DmEPcULjPEDyQQ) | [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/album/5WgdYtGjAMrhowUK3nr0BC) | 3:16 |
 | 15 | [Kaali Car](https://open.spotify.com/track/035ipVjyiZw5fRqgKdIQBc) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kaali Car](https://open.spotify.com/album/6IVKOvb3rpY4V79W6GKqni) | 3:01 |
 | 16 | [Hon Ni Dena](https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Hon Ni Dena](https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU) | 2:51 |
-| 17 | [Marke](https://open.spotify.com/track/4VvkQpAtDGihsQMBJCbZL9) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Marke](https://open.spotify.com/album/1J14jTWGhUoCR2mVCzYgAT) | 2:46 |
+| 17 | [Marke \- From "Lover"](https://open.spotify.com/track/4VvkQpAtDGihsQMBJCbZL9) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Sharry Nexus](https://open.spotify.com/artist/6IBgPtPR61L7ICdiuuT5EC) | [Marke \(From "Lover"\)](https://open.spotify.com/album/1J14jTWGhUoCR2mVCzYgAT) | 2:46 |
 | 18 | [Whip](https://open.spotify.com/track/3xJwcFXAHXjlNQZOpAa2BQ) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Whip](https://open.spotify.com/album/5GU2aCSt5rdDWYdpEu1h0p) | 3:02 |
 | 19 | [Kol Ve](https://open.spotify.com/track/3yhjhalQKgl240Bi17GDmY) | [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Kol Ve](https://open.spotify.com/album/33tjx5PKgApGR8Q6liXyHM) | 3:25 |
 | 20 | [Piche Piche Jatt](https://open.spotify.com/track/5ViXandwEDhcXcIikeUXOC) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Shareek 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pPCg7ZLDCM1owPBdTzxyt) | 3:31 |

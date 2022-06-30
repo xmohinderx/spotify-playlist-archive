@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 126998,
       "name": "BABY CUPID",
       "url": "https://open.spotify.com/track/0ByC3vzSHd9n9P6imFPNZE"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 195030,
       "name": "Basilisk",
       "url": "https://open.spotify.com/track/4YOE7li8bD3CDbhzByFKcJ"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/0oEAm7huOvXiq7mre8Nual"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/12D0n7hKpPcjuUpcbAKjjr"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 182389,
       "name": "from paris, with love",
       "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 146419,
       "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
       "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 123870,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0erWz20ZejKi8WRNoeNQjJ"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 100008,
       "name": "Mase in '97",
       "url": "https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 183160,
       "name": "Norf Norf",
       "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Parade",
       "url": "https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 192026,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Racked",
       "url": "https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj"
@@ -2376,6 +2376,24 @@
     },
     {
       "album": {
+        "name": "Lord Forgive Me",
+        "url": "https://open.spotify.com/album/7BPn9yvoj98BdNOtE7L6nZ"
+      },
+      "artists": [
+        {
+          "name": "Derek Pope",
+          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO"
+    },
+    {
+      "album": {
         "name": "You Will Regret (Reloaded)",
         "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
       },
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
@@ -2431,6 +2449,24 @@
       "duration_ms": 47882,
       "name": "TEST ME",
       "url": "https://open.spotify.com/track/74Zanx9QoIRX0TV0wU7ScO"
+    },
+    {
+      "album": {
+        "name": "Missing Molars (Swnt Deluxe)",
+        "url": "https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138923,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb"
     },
     {
       "album": {
@@ -2489,7 +2525,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 109788,
       "name": "Vaderz (feat. Bktherula)",
       "url": "https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19"
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"

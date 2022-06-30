@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
@@ -4403,7 +4403,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 242154,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
@@ -6267,10 +6267,28 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
       "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
+    },
+    {
+      "album": {
+        "name": "The First Album",
+        "url": "https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220793,
+      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
+      "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
     },
     {
       "album": {
@@ -6289,6 +6307,24 @@
       "duration_ms": 250408,
       "name": "\u0e27\u0e31\u0e19\u0e04\u0e23\u0e1a\u0e40\u0e25\u0e34\u0e01 - UNNIVERSARY",
       "url": "https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35\u0e44\u0e2b\u0e21? (how r u?)",
+        "url": "https://open.spotify.com/album/7FZ3wtsNBVQqvoYBuFaPv2"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246407,
+      "name": "\u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35\u0e44\u0e2b\u0e21? (how r u?)",
+      "url": "https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs"
     },
     {
       "album": {
@@ -7015,7 +7051,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 216000,
       "name": "\u0e41\u0e1f\u0e19\u0e40\u0e01\u0e48\u0e32\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
       "url": "https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ"
